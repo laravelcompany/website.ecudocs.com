@@ -1,0 +1,54 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/BaseLayout.astro';
+import ProductCard from '../../components/ProductCard.astro';
+
+const automobiles = await getCollection('automobiles');
+const categories = await getCollection('brands');
+
+// Sort products by published date (newest first)
+const sortedProducts = automobiles.sort((a, b) => 
+  b.data.name - a.data.name
+);
+
+
+---
+
+<Layout title="Products - Our Collections">
+  <main class="relative mx-auto px-8 max-w-7xl py-12 md:px-12">
+    <!-- Header -->
+    <div class="text-center mb-16">
+      <h1 class="text-5xl font-bold text-white mb-4">Our Brands</h1>
+      <p class="text-xl text-gray-300 max-w-2xl mx-auto">
+        The largest database of ecu documentation.
+      </p>
+    </div>
+
+    <!-- Categories Filter -->
+    <div class="flex flex-wrap justify-center gap-4 mb-12">
+      <a href="/automobiles" class="px-6 py-3 rounded-full bg-orange-500 text-white font-medium">
+        All Cars ecu documentation available.
+      </a>
+      {categories.map((category) => (
+        <a 
+        title={title}
+          href={`/automobiles/brands/${category.slug}`}
+          class="px-6 py-3 rounded-full bg-white/10 text-gray-300 hover:bg-white/20 hover:text-white transition-all"
+        >
+          {category.data.name}
+        </a>
+      ))}
+    </div>
+
+
+    <!-- All Products -->
+    <section>
+      <h2 title="All cars ecu available" class="text-3xl font-bold text-white mb-8 text-center">All Products</h2>
+      <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
+        {sortedProducts.map((product) => (
+          <ProductCard product={product} />
+        ))}
+      </div>
+    </section>
+  </main>
+</Layout>

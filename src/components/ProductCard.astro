@@ -1,0 +1,73 @@
+
+
+
+---
+const { product, featured = false } = Astro.props;
+const { data } = product;
+---
+
+<article class={`group relative rounded-3xl overflow-hidden backdrop-blur-sm border transition-all duration-500 hover:transform hover:scale-105 ${
+  featured 
+    ? 'bg-gradient-to-br from-orange-500/10 to-pink-500/10 border-orange-500/50' 
+    : 'bg-white/5 border-white/10 hover:border-orange-500/50'
+}`}>
+  {featured && (
+    <div class="absolute top-4 left-4 z-10">
+      <span class="px-3 py-1 bg-orange-500 text-white text-xs rounded-full font-medium">
+        Featured
+      </span>
+    </div>
+  )}
+
+  <!-- Product Image -->
+  <div class="relative overflow-hidden">
+    <img
+      class="w-full h-64 object-cover group-hover:scale-110 transition-transform duration-700"
+      src={data.image}
+      alt={data.title}
+      loading="lazy"
+    />
+    <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+  </div>
+
+  <!-- Product Info -->
+  <div class="p-6">
+    <div class="flex justify-between items-start mb-4">
+      <div class="flex-1">
+        <h3 class="text-lg font-semibold text-white mb-2 group-hover:text-orange-400 transition-colors">
+          <a href={`/products/${product.slug}`}>
+            {data.title}
+          </a>
+        </h3>
+        <p class="text-gray-400 text-sm mb-3">
+          {data.description}
+        </p>
+        {data.tags && (
+          <div class="flex flex-wrap gap-2">
+            {data.tags.map((tag) => (
+              <span class="px-2 py-1 bg-white/10 text-gray-300 text-xs rounded">
+                {tag}
+              </span>
+            ))}
+          </div>
+        )}
+      </div>
+      <div class="text-right ml-4">
+        <p class="text-2xl font-bold text-orange-400">
+          ${data.price}
+        </p>
+        {!data.inStock && (
+          <p class="text-red-400 text-sm">Out of Stock</p>
+        )}
+      </div>
+    </div>
+
+    <!-- Action Button -->
+    <a 
+      href={`/products/${product.slug}`}
+      class="block w-full bg-gradient-to-r from-orange-500 to-pink-500 text-white py-3 rounded-xl font-medium text-center opacity-0 group-hover:opacity-100 transform translate-y-4 group-hover:translate-y-0 transition-all duration-300 hover:shadow-lg hover:shadow-orange-500/25"
+    >
+      View Details
+    </a>
+  </div>
+</article>

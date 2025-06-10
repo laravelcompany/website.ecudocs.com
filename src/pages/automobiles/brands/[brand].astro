@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/BaseLayout.astro';
+import ProductCard from '../../../components/ProductCard.astro';
+
+export async function getStaticPaths() {
+  const categories = await getCollection('brands');
+  
+  return categories.map((category) => ({
+    params: { category: category.slug },
+    props: { category },
+  }));
+}
+
+const { category } = Astro.props;
+const products = await getCollection('automobiles', ({ data }) => {
+  return data.brand === category.slug;
+});
+
+const { Content } = await category.render();
+---
+
+<Layout title={`${category.data.name} - Products`}>
+  <main class="relative mx-auto px-8 max-w-7xl py-12 md:px-12">
+    <!-- Category Header -->
+    <div class="text-center mb-16">
+      <h1 class="text-5xl font-bold text-white mb-4">{category.data.name}</h1>
+      <p class="text-xl text-gray-300 max-w-2xl mx-auto">
+        {category.data.name}
+      </p>
+    </div>
+
+    <!-- Category Content -->
+    <div class="prose prose-invert max-w-4xl mx-auto mb-16">
+      <Content />
+    </div>
+
+    <!-- Products Grid -->
+    <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
+      {products.map((product) => (
+        <ProductCard product={product} />
+      ))}
+    </div>
+  </main>
+</Layout>
