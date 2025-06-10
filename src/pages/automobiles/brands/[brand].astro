@@ -1,45 +1,103 @@
 ---
-import { getCollection } from 'astro:content';
 import Layout from '../../../layouts/BaseLayout.astro';
 import ProductCard from '../../../components/ProductCard.astro';
+import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
-  const categories = await getCollection('brands');
+  // Get all brands from the content collection
+  const brands = await getCollection('brands');
   
-  return categories.map((category) => ({
-    params: { category: category.slug },
-    props: { category },
-  }));
+  return brands.map((brand) => {
+    // Create URL-friendly slug from the brand name or use the collection slug
+    const slug = brand.slug || brand.data.name.toLowerCase()
+      .replace(/\s+/g, '-')
+      .replace(/[^\w-]/g, '')
+      .replace(/--+/g, '-')
+      .replace(/^-|-$/g, '');
+    
+    return {
+      params: { brand: slug },
+      props: { 
+        brandData: brand,
+        brandName: brand.data.name,
+        brandUrl: brand.data.url,
+        brandLogo: brand.data.logo,
+        brandSlug: slug
+      }
+    };
+  });
 }
 
-const { category } = Astro.props;
-const products = await getCollection('automobiles', ({ data }) => {
-  return data.brand === category.slug;
+// Get the brand parameter and props
+const { brand } = Astro.params;
+const { brandData, brandName, brandUrl, brandLogo, brandSlug } = Astro.props;
+
+// Get all automobiles for this brand
+const automobiles = await getCollection('automobiles', ({ data }) => {
+  return data.brand.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '') === brand;
 });
 
-const { Content } = await category.render();
 ---
 
-<Layout title={`${category.data.name} - Products`}>
-  <main class="relative mx-auto px-8 max-w-7xl py-12 md:px-12">
-    <!-- Category Header -->
-    <div class="text-center mb-16">
-      <h1 class="text-5xl font-bold text-white mb-4">{category.data.name}</h1>
-      <p class="text-xl text-gray-300 max-w-2xl mx-auto">
-        {category.data.name}
-      </p>
+<Layout title={`${brandName} ECU Documentation`}>
+  <main>
+    <div class="brand-header">
+      {brandLogo && (
+        <img src={brandLogo} alt={`${brandName} logo`} class="brand-header-logo" />
+      )}
+      <div>
+        <h1>{brandName} ECU Documentation</h1>
+        <p class="brand-subtitle">Engine Control Unit documentation and guides</p>
+      </div>
     </div>
-
-    <!-- Category Content -->
-    <div class="prose prose-invert max-w-4xl mx-auto mb-16">
-      <Content />
+    
+    <div class="content-grid">
+      <!-- Brand Information -->
+      <section class="brand-info">
+        <h2>About {brandName}</h2>
+        <p>Comprehensive ECU documentation for {brandName} vehicles.</p>
+        
+        {brandUrl && (
+          <p>
+            <a href={brandUrl} target="_blank" rel="noopener noreferrer" class="external-link">
+              Visit {brandName} on AutoEvolution →
+            </a>
+          </p>
+        )}
+      </section>
+      
+      <!-- Automobiles List -->
+      <section class="automobiles-section">
+        <h2>{brandName} Vehicles</h2>
+        {automobiles.length > 0 ? (
+          <div class="automobiles-grid">
+            {automobiles.map((auto) => (
+              <div class="automobile-card">
+                <h3 class="automobile-name">{auto.data.name}</h3>
+                {auto.data.engine_name && (
+                  <p class="engine-info">Engine: {auto.data.engine_name}</p>
+                )}
+                {auto.data.description && (
+                  <p class="automobile-description">{auto.data.description}</p>
+                )}
+                <a href={`/automobiles/${auto.slug}`} class="view-details">
+                  View ECU Details →
+                </a>
+              </div>
+            ))}
+          </div>
+        ) : (
+          <div class="no-data">
+            <p>No automobile data available for {brandName} yet.</p>
+            <p class="help-text">Check back later for ECU documentation updates.</p>
+          </div>
+        )}
+      </section>
     </div>
-
-    <!-- Products Grid -->
-    <div class="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
-      {products.map((product) => (
-        <ProductCard product={product} />
-      ))}
+    
+    <!-- Back to brands link -->
+    <div class="navigation">
+      <a href="/automobiles/brands" class="back-link">← Back to All Brands</a>
     </div>
   </main>
 </Layout>
