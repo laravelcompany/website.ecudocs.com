@@ -1,51 +1,4 @@
-{
-    "type": "table",
-    "database": null,
-    "name": "brands",
-    "withoutRowId": false,
-    "strict": false,
-    "ddl": "CREATE TABLE brands (id, url_hash, url, name, logo, created_at, updated_at);",
-    "columns": [
-        {
-            "name": "id",
-            "type": ""
-        },
-        {
-            "name": "url_hash",
-            "type": ""
-        },
-        {
-            "name": "url",
-            "type": ""
-        },
-        {
-            "name": "name",
-            "type": ""
-        },
-        {
-            "name": "logo",
-            "type": ""
-        },
-        {
-            "name": "created_at",
-            "type": ""
-        },
-        {
-            "name": "updated_at",
-            "type": ""
-        }
-    ],
-    "rows": [
-        [
-            "id",
-            "url_hash",
-            "url",
-            "name",
-            "logo",
-            "created_at",
-            "updated_at"
-        ],
-        [
+[[
             "1",
             "78383652",
             "https:\/\/www.autoevolution.com\/ac\/",
@@ -1286,4 +1239,3 @@
             "2024-10-23T08:32:05.000000Z"
         ]
     ]
-}

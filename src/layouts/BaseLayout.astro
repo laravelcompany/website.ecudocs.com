@@ -1,6 +1,7 @@
 ---
 import BaseHead from "../components/BaseHead.astro";
 import Footer from "../components/global/Footer.astro";
+import Menu from "../components/global/Menu.astro";
 ---
 
 <html lang="en">
@@ -8,8 +9,9 @@ import Footer from "../components/global/Footer.astro";
     <BaseHead />
   </head>
 
-  <body class="bg-charcoal-500">
+  <body>
+    <Menu />
     <slot />
-<Footer/>
+    <Footer />
   </body>
 </html>

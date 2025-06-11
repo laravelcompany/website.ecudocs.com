@@ -2,197 +2,86 @@
 // src/components/Brands.astro
 
 export interface Props {
-  limit?: number;
-  showLogos?: boolean;
-  gridCols?: number;
-  className?: string;
+    limit?: number;
+    showLogos?: boolean;
+    gridCols?: number;
+    className?: string;
 }
 
 // Import your brands data
-import brandsData from '../data/brands.json';
+import brandsData from "../data/brands.json";
 
-const { limit, showLogos = true, gridCols = 4, className = '' } = Astro.props;
+const { limit, showLogos = true, gridCols = 4, className = "" } = Astro.props;
 
 // Process the brands data (skip header row)
-const allBrands = brandsData.rows.slice(1).map(row => {
-  const [id, url_hash, url, name, logo, created_at, updated_at] = row;
-  
-  // Create URL-friendly slug
-  const slug = name.toLowerCase()
-    .replace(/\s+/g, '-')
-    .replace(/[^\w-]/g, '')
-    .replace(/--+/g, '-')
-    .replace(/^-|-$/g, '');
-  
-  return {
-    id,
-    url_hash,
-    url,
-    name,
-    logo,
-    slug,
-    created_at,
-    updated_at
-  };
+const allBrands = brandsData.slice(1).map((row) => {
+    const [id, url_hash, url, name, logo, created_at, updated_at] = row;
+
+    // Create URL-friendly slug
+    const slug = name
+        .toLowerCase()
+        .replace(/\s+/g, "-")
+        .replace(/[^\w-]/g, "")
+        .replace(/--+/g, "-")
+        .replace(/^-|-$/g, "");
+
+    return {
+        id,
+        url_hash,
+        url,
+        name,
+        logo,
+        slug,
+        created_at,
+        updated_at,
+    };
 });
 
 // Apply limit if specified
 const brands = limit ? allBrands.slice(0, limit) : allBrands;
 
 // Grid column classes for responsive design
-const gridColsClass = {
-  1: 'grid-cols-1',
-  2: 'grid-cols-1 sm:grid-cols-2',
-  3: 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-3',
-  4: 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-4',
-  5: 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5',
-  6: 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6'
-}[gridCols] || 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-4';
+const gridColsClass =
+    {
+        1: "grid-cols-1",
+        2: "grid-cols-1 sm:grid-cols-2",
+        3: "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3",
+        4: "grid-cols-1 sm:grid-cols-2 lg:grid-cols-4",
+        5: "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5",
+        6: "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6",
+    }[gridCols] || "grid-cols-1 sm:grid-cols-2 lg:grid-cols-4";
 ---
 
-<div class={`brands-container ${className}`}>
-  <div class={`brands-grid grid gap-4 ${gridColsClass}`}>
-    {brands.map((brand) => (
-      <div class="brand-card">
-        <a href={`/automobiles/brands/${brand.slug}`} class="brand-link">
-          {showLogos && brand.logo && (
-            <div class="brand-logo-container">
-              <img 
-                src={brand.logo} 
-                alt={`${brand.name} logo`} 
-                class="brand-logo"
-                loading="lazy"
-              />
-            </div>
-          )}
-          <div class="brand-info">
-            <h3 class="brand-name">{brand.name}</h3>
-            <span class="brand-link-text">View ECU Docs</span>
-          </div>
-        </a>
-      </div>
-    ))}
-  </div>
+<div class="container">
+    <div class={`brands-container ${className}`}>
+        <div class={`brands-grid grid gap-4 ${gridColsClass}`}>
+            {
+                brands.map((brand) => (
+                    <div class="brand-card">
+                        <a
+                            href={`/automobiles/brands/${brand.slug}`}
+                            class="brand-link"
+                        >
+                            {showLogos && brand.logo && (
+                                <div class="brand-logo-container">
+                                    <img
+                                        src={brand.logo}
+                                        alt={`${brand.name} logo`}
+                                        class="brand-logo"
+                                        loading="lazy"
+                                    />
+                                </div>
+                            )}
+                            <div class="brand-info">
+                                <h3 class="brand-name">{brand.name}</h3>
+                                <span class="brand-link-text">
+                                    View ECU Docs
+                                </span>
+                            </div>
+                        </a>
+                    </div>
+                ))
+            }
+        </div>
+    </div>
 </div>
-
-<style>
-  .brands-container {
-    width: 100%;
-  }
-
-  .brand-card {
-    background: #fff;
-    border: 1px solid #e5e7eb;
-    border-radius: 8px;
-    overflow: hidden;
-    transition: all 0.2s ease-in-out;
-    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  }
-
-  .brand-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-    border-color: #3b82f6;
-  }
-
-  .brand-link {
-    display: block;
-    padding: 1rem;
-    text-decoration: none;
-    color: inherit;
-    height: 100%;
-  }
-
-  .brand-logo-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 60px;
-    margin-bottom: 0.75rem;
-    background: #f9fafb;
-    border-radius: 6px;
-  }
-
-  .brand-logo {
-    max-width: 80px;
-    max-height: 50px;
-    width: auto;
-    height: auto;
-    object-fit: contain;
-  }
-
-  .brand-info {
-    text-align: center;
-  }
-
-  .brand-name {
-    font-size: 1rem;
-    font-weight: 600;
-    color: #1f2937;
-    margin: 0 0 0.5rem 0;
-    line-height: 1.2;
-  }
-
-  .brand-link-text {
-    font-size: 0.875rem;
-    color: #6b7280;
-    transition: color 0.2s ease-in-out;
-  }
-
-  .brand-card:hover .brand-link-text {
-    color: #3b82f6;
-  }
-
-  /* Dark mode support */
-  @media (prefers-color-scheme: dark) {
-    .brand-card {
-      background: #1f2937;
-      border-color: #374151;
-    }
-
-    .brand-logo-container {
-      background: #111827;
-    }
-
-    .brand-name {
-      color: #f9fafb;
-    }
-
-    .brand-link-text {
-      color: #9ca3af;
-    }
-
-    .brand-card:hover .brand-link-text {
-      color: #60a5fa;
-    }
-  }
-
-  /* Responsive adjustments */
-  @media (max-width: 640px) {
-    .brand-card {
-      margin-bottom: 0.5rem;
-    }
-
-    .brand-link {
-      padding: 0.75rem;
-    }
-
-    .brand-logo-container {
-      height: 50px;
-      margin-bottom: 0.5rem;
-    }
-
-    .brand-logo {
-      max-width: 60px;
-      max-height: 40px;
-    }
-
-    .brand-name {
-      font-size: 0.875rem;
-    }
-
-    .brand-link-text {
-      font-size: 0.75rem;
-    }
-  }
-</style>
