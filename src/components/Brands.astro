@@ -1,23 +1,19 @@
 ---
 // src/components/Brands.astro
-
 export interface Props {
     limit?: number;
-    showLogos?: boolean;
-    gridCols?: number;
     className?: string;
 }
 
 // Import your brands data
 import brandsData from "../data/brands.json";
 
-const { limit, showLogos = true, gridCols = 4, className = "" } = Astro.props;
+const { limit, className = "" } = Astro.props;
 
 // Process the brands data (skip header row)
 const allBrands = brandsData.slice(1).map((row) => {
     const [id, url_hash, url, name, logo, created_at, updated_at] = row;
-
-    // Create URL-friendly slug
+    
     const slug = name
         .toLowerCase()
         .replace(/\s+/g, "-")
@@ -25,63 +21,30 @@ const allBrands = brandsData.slice(1).map((row) => {
         .replace(/--+/g, "-")
         .replace(/^-|-$/g, "");
 
-    return {
-        id,
-        url_hash,
-        url,
-        name,
-        logo,
-        slug,
-        created_at,
-        updated_at,
-    };
+    return { id, url_hash, url, name, logo, slug, created_at, updated_at };
 });
 
-// Apply limit if specified
 const brands = limit ? allBrands.slice(0, limit) : allBrands;
-
-// Grid column classes for responsive design
-const gridColsClass =
-    {
-        1: "grid-cols-1",
-        2: "grid-cols-1 sm:grid-cols-2",
-        3: "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3",
-        4: "grid-cols-1 sm:grid-cols-2 lg:grid-cols-4",
-        5: "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5",
-        6: "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6",
-    }[gridCols] || "grid-cols-1 sm:grid-cols-2 lg:grid-cols-4";
 ---
 
-<div class="container">
-    <div class={`brands-container ${className}`}>
-        <div class={`brands-grid grid gap-4 ${gridColsClass}`}>
-            {
-                brands.map((brand) => (
-                    <div class="brand-card">
-                        <a
-                            href={`/automobiles/brands/${brand.slug}`}
-                            class="brand-link"
-                        >
-                            {showLogos && brand.logo && (
-                                <div class="brand-logo-container">
-                                    <img
-                                        src={brand.logo}
-                                        alt={`${brand.name} logo`}
-                                        class="brand-logo"
-                                        loading="lazy"
-                                    />
-                                </div>
-                            )}
-                            <div class="brand-info">
-                                <h3 class="brand-name">{brand.name}</h3>
-                                <span class="brand-link-text">
-                                    View ECU Docs
-                                </span>
-                            </div>
-                        </a>
-                    </div>
-                ))
-            }
+<div class={`columns-1 sm:columns-2 lg:columns-3 xl:columns-4 gap-4 space-y-4 ${className}`}>
+    {brands.map((brand) => (
+        <div class="break-inside-avoid mb-4">
+            <a
+                href={`/automobiles/brands/${brand.slug}`}
+                class="block p-4 bg-white border border-gray-200 rounded-lg shadow hover:shadow-md transition-shadow"
+            >
+                {brand.logo && (
+                    <img
+                        src={brand.logo}
+                        alt={`${brand.name} logo`}
+                        class="w-12 h-12 object-contain mb-3"
+                        loading="lazy"
+                    />
+                )}
+                <h3 class="font-semibold text-gray-900 mb-1">{brand.name}</h3>
+                <span class="text-sm text-blue-600">View ECU Docs</span>
+            </a>
         </div>
-    </div>
+    ))}
 </div>
