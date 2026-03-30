@@ -20,6 +20,8 @@
   "dependencies": {
     "@astrojs/mdx": "^4.3.14",
     "@tailwindcss/typography": "^0.5.19",
+    "axios": "^1.14.0",
+    "cheerio": "^1.2.0",
     "dotenv": "^16.4.5",
     "jsdom": "^29.0.1",
     "pdf-lib": "^1.17.1",
