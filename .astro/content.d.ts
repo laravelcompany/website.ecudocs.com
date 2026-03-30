@@ -183,6 +183,22 @@ declare module 'astro:content' {
   rendered?: RenderedContent;
   filePath?: string;
 }>;
+"pdf-html": Record<string, {
+  id: string;
+  body?: string;
+  collection: "pdf-html";
+  data: any;
+  rendered?: RenderedContent;
+  filePath?: string;
+}>;
+"pdfs": Record<string, {
+  id: string;
+  body?: string;
+  collection: "pdfs";
+  data: any;
+  rendered?: RenderedContent;
+  filePath?: string;
+}>;
 "pinout": Record<string, {
   id: string;
   body?: string;

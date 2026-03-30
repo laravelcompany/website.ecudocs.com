@@ -14,14 +14,16 @@ const {
   title,
   description,
   keywords = "Hardware ecu, documentation, database, e-bikes, e-scootes, car ecu, trucks ecu database, ecu database, ecu motorbikes",
-  canonicalUrl = "https://ecudocs.com/",
+  canonicalUrl,
   ogTitle,
   ogDescription,
 } = Astro.props;
 
 const siteUrl = "https://ecudocs.com/";
 const fullTitle = title.includes("EcuDocs") ? title : `${title} | EcuDocs.com`;
-const canonical = canonicalUrl.startsWith("http") ? canonicalUrl : `${siteUrl}${canonicalUrl.replace(/^\//, "")}`;
+const canonical = canonicalUrl 
+  ? (canonicalUrl.startsWith("http") ? canonicalUrl : `${siteUrl}${canonicalUrl.replace(/^\//, "")}`)
+  : `${siteUrl}${Astro.url.pathname.replace(/^\//, "")}`;
 const ogTitleText = ogTitle || fullTitle;
 const ogDescText = ogDescription || description;
 ---

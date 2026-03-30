@@ -1,0 +1,12 @@
+{
+  "inputDir": "src/content/pdfs",
+  "outputDir": "src/content/pdf-html",
+  "zoom": 1.5,
+  "parallel": 1,
+  "tool": "auto",
+  "singleHtml": false,
+  "generateIndex": true,
+  "embed": true,
+  "force": false,
+  "watch": false
+}

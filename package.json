@@ -2,6 +2,7 @@
   "name": "@izdrail/echudocs-com",
   "version": "0.0.1",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -13,11 +14,16 @@
     "@astrojs/sitemap": "^3.2.1",
     "@tailwindcss/vite": "^4.0.0-beta.9",
     "astro": "^5.1.6",
+    "pdf2html": "^4.4.0",
     "tailwindcss": "^4.0.0-beta.9"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.3.14",
     "@tailwindcss/typography": "^0.5.19",
-    "jsdom": "^29.0.1"
+    "dotenv": "^16.4.5",
+    "jsdom": "^29.0.1",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^5.5.207"
   }
 }

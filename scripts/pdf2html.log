@@ -1,0 +1,5 @@
+[2026-03-28T08:22:43.848Z] [INFO] Checking system dependencies... 
+[2026-03-28T08:22:43.855Z] [INFO]   ✓ pdfinfo found at /usr/bin/pdfinfo 
+[2026-03-28T08:22:43.859Z] [WARN]   - pdf2html not found (optional) 
+[2026-03-28T08:22:43.861Z] [INFO]   ✓ pdftohtml found at /usr/bin/pdftohtml 
+[2026-03-28T08:22:43.863Z] [WARN]   - pdf2htmlEX not found (optional) 
