@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Engine Controller Opel Astra J Mokka 1.4T - OEM Tested, 6-month Warranty - ECU Replacement",
+  "slug": "plug-play-ecu-opel-astra-j-mokka-14t-oem-tested",
+  "metaDescription": "Buy the tested Plug & Play ECU Engine Controller for Opel Astra J Mokka 1.4T, backed by a 6-month warranty and fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Opel Astra J Mokka 1.4T",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra J Mokka",
+    "1.4T",
+    "ACDelco 12647241 AA4R",
+    "12643636"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Opel Astra J Mokka 1.4T is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>OEM Tested</li><li>6-month warranty</li><li>Used in good condition</li><li>Thoroughly inspected and tested by a certified technician</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>OPEL ASTRA J MOKKA</td><td>1.4T</td><td>ACDelco 12647241 AA4R</td><td>12643636</td><td>LOCKED / UNLOCKED</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA J MOKKA 1.4T ACDelco 12647241 AA4R, 12643636",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-J-MOKKA-1.4T-ACDelco-12647241-AA4R%2C-12643636-/85586",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "4682-964CD_20160205144151",
+    "sku": "4682-964CD_20160205144151",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA J MOKKA 1.4T ACDelco 12647241 AA4R, 12643636 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA J MOKKA",
+      "ENGINE": "1.4T",
+      "NUMBER MANUFACTURER": "ACDelco 12647241 AA4R",
+      "NUMBER PARTS": "12643636",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:15:22.014Z",
+    "model": "mistral:7b",
+    "durationMs": 8536,
+    "priceIncrement": 100
+  }
+}

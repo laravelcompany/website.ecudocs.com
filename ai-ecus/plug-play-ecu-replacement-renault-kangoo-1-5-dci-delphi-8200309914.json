@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault KANGOO 1.5 DCI OEM Tested - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-renault-kangoo-1-5-dci-delphi-8200309914",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for Renault KANGOO 1.5 DCI, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault KANGOO 1.5 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault KANGOO",
+    "1.5 DCI",
+    "Delphi"
+  ],
+  "description": "<section class=\"overview\">This Delphi ECU Engine Controller is a tested and reliable replacement for your Renault KANGOO 1.5 DCI engine.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>Original part, in good condition</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>OEM part number: 8200309914</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>RENAULT KANGOO</td></tr>\n        <tr><th>ENGINE:</th><td>1.5 DCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>R0410C079A</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>8200309914</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Renault KANGOO 1.5 DCI. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT KANGOO 1.5 DCI 8200309914, R0410C079A",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-KANGOO-1.5-DCI-8200309914%2C-R0410C079A/109069",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "2F25-549EE_20180222123602",
+    "sku": "2F25-549EE_20180222123602",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT KANGOO 1.5 DCI 8200309914, R0410C079A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_6d8fc3ca43020a2499fd63321f68d352_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c09777d63c96d1db4bcbd6e77ab20979_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT KANGOO",
+      "ENGINE": "1.5 DCI",
+      "NUMBER MANUFACTURER": "R0410C079A",
+      "NUMBER PARTS": "8200309914",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:23:23.545Z",
+    "model": "mistral:7b",
+    "durationMs": 10777,
+    "priceIncrement": 100
+  }
+}

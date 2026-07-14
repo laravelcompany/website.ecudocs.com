@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Focus C-MAX 1.8 TDCI - Siemens 5WS40512A-T, 6 Month Warranty",
+  "slug": "plug-play-ecu-ford-focus-c-max-18-tdci-siemens-5ws40512a-t-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Focus C-MAX 1.8 TDCI by Siemens (5WS40512A-T, 6M51-12A650-YA, 6M5112A650YA, 4BKA, SID202). Tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM tested Plug & Play ECU replacement for Ford Focus C-MAX 1.8 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus C-MAX",
+    "1.8 TDCI",
+    "Siemens",
+    "5WS40512A-T"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Focus C-MAX 1.8 TDCI by Siemens (5WS40512A-T, 6M51-12A650-YA, 6M5112A650YA, 4BKA, SID202) ensures reliable engine control. Tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FOCUS C-MAX</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8 TDCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WS40512A-T</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>4BKA</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Focus C-MAX 1.8 TDCI. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS C-MAX 1.8 TDCI SIEMENS 5WS40512A-T, 5WS40512AT, FoMoCo 6M51-12A650-YA, 6M5112A650YA, 4BKA, SID202",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-C-MAX-1.8-TDCI-SIEMENS-5WS40512A-T%2C-5WS40512AT%2C-FoMoCo-6M51-12A650-YA%2C-6M5112A650YA%2C-4BKA%2C-SID202-/84881",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "F11D-58723_20160122170347",
+    "sku": "F11D-58723_20160122170347",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS C-MAX 1.8 TDCI SIEMENS 5WS40512A-T, 5WS40512AT, FoMoCo 6M51-12A650-YA, 6M5112A650YA, 4BKA, SID202 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS C-MAX",
+      "ENGINE": "1.8 TDCI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40512A-T",
+      "NUMBER PARTS": "4BKA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:10:53.363Z",
+    "model": "mistral:7b",
+    "durationMs": 15266,
+    "priceIncrement": 100
+  }
+}

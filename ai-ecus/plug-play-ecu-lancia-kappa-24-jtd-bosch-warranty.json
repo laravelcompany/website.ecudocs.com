@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Lancia Kappa 2.4 JTD Bosch - Warranty Included",
+  "slug": "plug-play-ecu-lancia-kappa-24-jtd-bosch-warranty",
+  "metaDescription": "Expertly tested and OEM certified Plug & Play ECU Engine Controller for Lancia Kappa 2.4 JTD by Bosch. Replacement unit with 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Lancia Kappa 2.4 JTD",
+  "tags": [
+    "ECU replacement",
+    "Plug & Play ECU",
+    "Lancia Kappa",
+    "Bosch",
+    "2.4 JTD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Lancia Kappa 2.4 JTD by Bosch ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>Tested and Inspected</li>\n        <li>Compatible with Lancia Kappa 2.4 JTD</li>\n        <li>6-month Warranty Included</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>LANCIA KAPPA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.4 JTD</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 010 009</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>464 64 701</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Lancia Kappa 2.4 JTD only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA KAPPA 2.4 JTD BOSCH 0 281 010 009, 0281010009, 46763996, C425E838, BOSCH 9 330 065 165, 9330065165, 464 64 701, 46464701",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-KAPPA-2.4-JTD-BOSCH-0-281-010-009%2C-0281010009%2C-46763996%2C-C425E838%2C-BOSCH-9-330-065-165%2C-9330065165%2C-464-64-701%2C-46464701/28395",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9ABB-762E6_20120826195808",
+    "sku": "9ABB-762E6_20120826195808",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA KAPPA 2.4 JTD BOSCH 0 281 010 009, 0281010009, 46763996, C425E838, BOSCH 9 330 065 165, 9330065165, 464 64 701, 46464701</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA KAPPA",
+      "ENGINE": "2.4 JTD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 009",
+      "NUMBER PARTS": "464 64 701",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:33:20.178Z",
+    "model": "mistral:7b",
+    "durationMs": 10675,
+    "priceIncrement": 100
+  }
+}

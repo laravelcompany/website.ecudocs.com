@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Audi TTS 2.0 TFSI BOSCH 0 261 S02 581, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-tts-2-0-tfsi-bosch-0261s02581-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Audi TTS 2.0 TFSI BOSCH 0 261 S02 581, tested and covered by a 6-month warranty.",
+  "price": "€700.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi TTS 2.0 TFSI BOSCH 0 261 S02 581",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi TTS",
+    "2.0 TFSI",
+    "BOSCH 0 261 S02 581"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Audi TTS 2.0 TFSI BOSCH 0 261 S02 581 is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI TTS 2.0 TFSI BOSCH 0 261 S02 581, 0261S02581, 8J0 907 115 Q, 8J0907115Q, MED9.1",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-TTS-2.0-TFSI-BOSCH-0-261-S02-581%2C-0261S02581%2C-8J0-907-115-Q%2C-8J0907115Q%2C-MED9.1/107958",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "23B6-307AC_20171218145554",
+    "sku": "23B6-307AC_20171218145554",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI TTS 2.0 TFSI BOSCH 0 261 S02 581, 0261S02581, 8J0 907 115 Q, 8J0907115Q, MED9.1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c70536df47ce3d6eb7bf1f6396f394f1_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_fd9f4a7bfd7542809bfbbc5cf901494e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI TTS",
+      "ENGINE": "2.0 TFSI",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S02 581",
+      "NUMBER PARTS": "MED9.1",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:56:33.894Z",
+    "model": "mistral:7b",
+    "durationMs": 6888,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E36 318 OEM Tested Bosch 0 261 203 590, 1247786 001, 26RT4575 - Warranty Included",
+  "slug": "plug-play-ecu-bmw-e36-318-bosch-0261203590-tested",
+  "metaDescription": "OEM tested ECU replacement for BMW E36 318 with Bosch 0 261 203 590, 1247786 001, 26RT4575. Plug & Play, warranty included.",
+  "price": "€350.00",
+  "excerpt": "OEM tested ECU replacement for BMW E36 318",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E36 318",
+    "Bosch 0 261 203 590",
+    "1247786 001",
+    "26RT4575"
+  ],
+  "description": "<section class=\"overview\">This ECU engine controller is an OEM tested replacement for the BMW E36 318, featuring Bosch part number 0 261 203 590 and 1247786 001. It comes with a Plug & Play design for easy installation.</section>\n<section class=\"features\">\n  <ul>\n    <li>OEM tested</li>\n    <li>Plug & Play design</li>\n    <li>Warranty included</li>\n    <li>Compatible with BMW E36 318</li>\n    <li>Bosch part number: 0 261 203 590, 1247786 001, 26RT4575</li>\n  </ul>\n</section>\n<section class=\"specs\">\n  <table>\n    <thead>\n      <tr>\n        <th>Specification</th>\n        <th>Value</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td>PARTS</td>\n        <td>ECU ENGINE CONTROLLER</td>\n      </tr>\n      <tr>\n        <td>BRAND AND MODEL</td>\n        <td>BMW E36 318</td>\n      </tr>\n      <tr>\n        <td>NUMBER MANUFACTURER</td>\n        <td>BOSCH 0 261 203 590</td>\n      </tr>\n      <tr>\n        <td>NUMBER PARTS</td>\n        <td>1247786 001</td>\n      </tr>\n      <tr>\n        <td>OPTION AVAILABLE</td>\n        <td>CLON</td>\n      </tr>\n      <tr>\n        <td>WARRANTY :</td>\n        <td>6-month warranty</td>\n      </tr>\n      <tr>\n        <td>INSPECTION:</td>\n        <td>Device thoroughly inspected and tested by a certified technician</td>\n      </tr>\n      <tr>\n        <td>CONDITION</td>\n        <td>USED IN GOOD CONDITION</td>\n      </tr>\n    </tbody>\n  </table>\n</section>\n<section class=\"shipping\">Shipping within EU, fast dispatch. 12-month warranty included.</section>\n<section class=\"compatibility\">This ECU engine controller is specifically designed for BMW E36 318 and may not be compatible with other vehicle models or years.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E36 318 BOSCH 0 261 203 590, 0261203590, 1247786 001, 26RT4575",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E36-318-BOSCH-0-261-203-590%2C-0261203590%2C-1247786-001%2C-26RT4575/23405",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5EFD-97079_20120526165402",
+    "sku": "5EFD-97079_20120526165402",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E36 318 BOSCH 0 261 203 590, 0261203590, 1247786 001, 26RT4575</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_86c8c637dd7b317d912efbc13c598c28_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_dd2134e5e88af875477977b6b56d428c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E36 318",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 590",
+      "NUMBER PARTS": "1247786 001",
+      "OPTION AVAILABLE": "CLON",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:27:34.368Z",
+    "model": "mistral:7b",
+    "durationMs": 14150,
+    "priceIncrement": 100
+  }
+}

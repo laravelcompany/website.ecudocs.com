@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Suzuki Baleno 1.3L - Denso 33920-60G9, 112000-3013 - Tested & Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-for-suzuki-baleno-1-3l-denso-3392060g9-1120003013-",
+  "metaDescription": "Buy a tested and certified Plug & Play OEM ECU Engine Controller for Suzuki Baleno 1.3L by Denso (33920-60G9, 112000-3013). Comes with a 6-month warranty. Fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Suzuki Baleno 1.3L",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso",
+    "Suzuki Baleno",
+    "1.3L Engine"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for Suzuki Baleno 1.3L by Denso (33920-60G9, 112000-3013) is thoroughly inspected and tested by a certified technician before shipping.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th></th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>SUZUKI BALENO</td></tr>\n            <tr><td>ENGINE</td><td>1.3 L</td></tr>\n            <tr><td>YEAR</td><td>1996</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>3392060G9</td></tr>\n            <tr><td>NUMBER PARTS</td><td>1120003013</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Compatible with Suzuki Baleno 1996 1.3L engine only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUZUKI BALENO 33920-60G9, 3392060G9, 112000-3013, 1120003013",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUZUKI-BALENO-33920-60G9%2C-3392060G9%2C-112000-3013%2C-1120003013/61505",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "A76D-72669_20140729114904",
+    "sku": "A76D-72669_20140729114904",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUZUKI BALENO 33920-60G9, 3392060G9, 112000-3013, 1120003013</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUZUKI BALENO",
+      "ENGINE": "1.3 L",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "3392060G9",
+      "NUMBER PARTS": "1120003013",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:57:03.696Z",
+    "model": "mistral:7b",
+    "durationMs": 11120,
+    "priceIncrement": 100
+  }
+}

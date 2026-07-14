@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Engine Controller Opel Astra 1992-1995 OEM Tested Delco 16172779 Warranty Included",
+  "slug": "plug-play-ecu-opel-astra-1992-1995-delco-16172779-warranty-included",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Opel Astra (1992-1995) by Delco. Plug & Play, 6-month warranty, and fast shipping within EU.",
+  "price": "€100.00",
+  "excerpt": "OEM tested ECU Engine Controller for Opel Astra (1992-1995)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "Delco",
+    "16172779"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Opel Astra (1992-1995) by Delco ensures seamless engine control and performance. It comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Fast Shipping within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL ASTRA</td></tr>\n        <tr><th>YEAR</th><td>1992-1995</td></tr>\n        <tr><th>NUMBER PARTS</th><td>16172779</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA 16172779",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-16172779-/59371",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "34F9-30984_20140624162106",
+    "sku": "34F9-30984_20140624162106",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA 16172779 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA",
+      "YEAR": "1992-1995",
+      "NUMBER PARTS": "16172779",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:02:54.388Z",
+    "model": "mistral:7b",
+    "durationMs": 9452,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - JAGUAR DAIMLER XJ40 4.0 OEM Tested - 84784A, 6-month Warranty",
+  "slug": "plug-play-ecu-jaguar-xj40-40-oem-tested-84784a-warranty",
+  "metaDescription": "OEM tested Plug & Play ECU replacement for JAGUAR DAIMLER XJ40 4.0 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Jaguar XJ40 4.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Jaguar XJ40",
+    "OEM part",
+    "4.0 engine"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for the Jaguar Daimler XJ40 4.0 is tested and guaranteed to provide optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>JAGUAR DAIMLER XJ40</td></tr>\n        <tr><th>ENGINE</th><td>4.0</td></tr>\n        <tr><th>NUMBER PARTS</th><td>84784A</td></tr>\n        <tr><th>WARRANTY</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Jaguar XJ40 4.0. Fitment caution may apply, please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JAGUAR DAIMLER XJ40 4.0 DBC 5705, DBC5705, 84784 A, 84784A",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JAGUAR-DAIMLER-XJ40-4.0-DBC-5705%2C-DBC5705%2C-84784-A%2C-84784A/60035",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "5CBB-86764_20140710095954",
+    "sku": "5CBB-86764_20140710095954",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JAGUAR DAIMLER XJ40 4.0 DBC 5705, DBC5705, 84784 A, 84784A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JAGUAR DAIMLER XJ40",
+      "ENGINE": "4.0",
+      "NUMBER PARTS": "84784A",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:54:04.701Z",
+    "model": "mistral:7b",
+    "durationMs": 9164,
+    "priceIncrement": 100
+  }
+}

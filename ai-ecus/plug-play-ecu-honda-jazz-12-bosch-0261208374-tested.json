@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement for Honda Jazz 1.2 BOSCH 0261208374 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-honda-jazz-12-bosch-0261208374-tested",
+  "metaDescription": "Expertly tested and warrantied ECU Engine Controller for Honda Jazz 1.2 BOSCH 0261208374, offering Plug & Play convenience. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Honda Jazz 1.2 BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Jazz",
+    "BOSCH 0261208374"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and warrantied ECU Engine Controller for Honda Jazz 1.2 BOSCH 0261208374 offers Plug & Play convenience, ensuring a seamless replacement process.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>6-month Warranty</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Honda Jazz 1.2</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>HONDA JAZZ</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.2</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 208 374</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>TG</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>37820-PWD-G04</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU-wide. 12-month warranty included.</section>\n<section class=\"compatibility\">This ECU Engine Controller is specifically designed for Honda Jazz 1.2 and may not be compatible with other models or engines.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA JAZZ 1.2 BOSCH 0261208374, 0 261 208 374, 37820PWDG04, 37820-PWD-G04 TG",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-JAZZ-1.2-BOSCH-0261208374%2C-0-261-208-374%2C-37820PWDG04%2C-37820-PWD-G04-TG/27399",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "928A-92277_20120804102459",
+    "sku": "928A-92277_20120804102459",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA JAZZ 1.2 BOSCH 0261208374, 0 261 208 374, 37820PWDG04, 37820-PWD-G04 TG</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_ae17f7c01fedf01c22d8bb0fb61c2449_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_88dafb8225fe20a94995b9c5e88efeb9_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA JAZZ",
+      "ENGINE": "1.2",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 208 374",
+      "CODE": "TG",
+      "NUMBER PARTS": "37820-PWD-G04",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:24:59.476Z",
+    "model": "mistral:7b",
+    "durationMs": 14329,
+    "priceIncrement": 100
+  }
+}

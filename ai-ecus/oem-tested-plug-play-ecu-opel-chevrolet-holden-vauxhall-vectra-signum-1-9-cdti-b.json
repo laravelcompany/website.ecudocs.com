@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Opel Chevrolet Holden Vauxhall Vectra Signum 1.9 CDTI - Bosch 0281011448",
+  "slug": "oem-tested-plug-play-ecu-opel-chevrolet-holden-vauxhall-vectra-signum-1-9-cdti-b",
+  "metaDescription": "Buy this OEM tested, Plug & Play ECU Engine Controller for Opel Chevrolet Holden Vauxhall Vectra Signum 1.9 CDTI. Covered by a 6-month warranty and ready for immediate dispatch.",
+  "price": "€200.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Opel Chevrolet Holden Vauxhall Vectra Signum 1.9 CDTI",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "Opel Vectra Signum",
+    "Chevrolet",
+    "Holden",
+    "Vauxhall",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a direct replacement for Opel Chevrolet Holden Vauxhall Vectra Signum 1.9 CDTI models, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested for guaranteed compatibility</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Locked and ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 CDTI Z19DT Z19DTL Z19DTH</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2004-2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 011 448</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>LL</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1039S06368</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Chevrolet Holden Vauxhall Vectra Signum 1.9 CDTI models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM 1.9 CDTI Z19DT Z19DTL Z19DTH 55189629 LL, 55 189 629 LL, BOSCH 0281011448, 0 281 011 448, 55189629, 55 189 629, 6235370, 62 35 370",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-VECTRA-SIGNUM-1.9-CDTI-Z19DT-Z19DTL-Z19DTH-55189629-LL%2C-55-189-629-LL%2C-BOSCH-0281011448%2C-0-281-011-448%2C-55189629%2C-55-189-629%2C-6235370%2C-62-35-370-/9951",
+    "priceCurrency": "EUR",
+    "netPrice": "€100.00",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9951",
+    "sku": "9951",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM 1.9 CDTI Z19DT Z19DTL Z19DTH 55189629 LL, 55 189 629 LL, BOSCH 0281011448, 0 281 011 448, 55189629, 55 189 629, 6235370, 62 35 370 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM",
+      "ENGINE": "1.9 CDTI Z19DT Z19DTL Z19DTH",
+      "YEAR": "2004-2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 448",
+      "CODE": "LL",
+      "NUMBER PARTS": "1039S06368",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:45:47.614Z",
+    "model": "mistral:7b",
+    "durationMs": 13448,
+    "priceIncrement": 100
+  }
+}

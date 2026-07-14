@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for SEAT Leon Toledo 1.9 TDI - OEM Tested Bosch 0 281 001 926",
+  "slug": "plug-play-ecu-replacement-seat-leon-toledo-1-9-tdi-oem-tested-bosch-0-281-001-92",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for SEAT Leon Toledo 1.9 TDI, OEM tested and covered by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Replace your faulty ECU with our Plug & Play solution for SEAT Leon Toledo 1.9 TDI.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT Leon Toledo",
+    "1.9 TDI AHF",
+    "Bosch",
+    "0 281 001 926"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for SEAT Leon Toledo 1.9 TDI is OEM tested and guaranteed to work perfectly with your vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for maximum reliability</li>\n        <li>6-month warranty included</li>\n        <li>Used in good condition</li>\n        <li>Compatible with 1.9 TDI AHF engine</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SEAT LEON TOLEDO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 TDI AHF</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1999</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 001 926</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>28SA3813</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with SEAT Leon Toledo 1.9 TDI AHF only. Fitment caution: Always confirm compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT LEON TOLEDO 1.9 TDI 038 906 018 BT, 038906018BT, BOSCH 0 281 001 926, 0281001926",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-LEON-TOLEDO-1.9-TDI-038-906-018-BT%2C-038906018BT%2C-BOSCH-0-281-001-926%2C-0281001926-/12331",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "74DF-13547",
+    "sku": "74DF-13547",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT LEON TOLEDO 1.9 TDI 038 906 018 BT, 038906018BT, BOSCH 0 281 001 926, 0281001926 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT LEON TOLEDO",
+      "ENGINE": "1.9 TDI AHF",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 926",
+      "NUMBER PARTS": "28SA3813",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:11:17.183Z",
+    "model": "mistral:7b",
+    "durationMs": 11489,
+    "priceIncrement": 100
+  }
+}

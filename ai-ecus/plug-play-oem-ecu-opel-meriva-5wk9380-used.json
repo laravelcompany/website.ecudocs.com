@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM ECU Replacement - Opel Meriva 5WK9380, Used in Good Condition",
+  "slug": "plug-play-oem-ecu-opel-meriva-5wk9380-used",
+  "metaDescription": "Buy the tested Plug & Play ECU Engine Controller for Opel Meriva 5WK9380, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Opel Meriva",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Meriva",
+    "Siemens 5WK9380"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for Opel Meriva is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL MERIVA</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SIEMENS 5WK9380</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>55 355 043</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL MERIVA 55 355 043, 55355043, SIEMENS 5WK9380",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-MERIVA-55-355-043%2C-55355043%2C-SIEMENS-5WK9380/116734",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "6630-938B3_20191107130811",
+    "sku": "6630-938B3_20191107130811",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL MERIVA 55 355 043, 55355043, SIEMENS 5WK9380</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL MERIVA",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK9380",
+      "NUMBER PARTS": "55 355 043",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:09:56.803Z",
+    "model": "mistral:7b",
+    "durationMs": 9579,
+    "priceIncrement": 100
+  }
+}

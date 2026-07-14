@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Fiat Doblo 1.9 JTD Bosch - 0281010344, 7-month Warranty",
+  "slug": "plug-play-ecu-fiat-doblo-19-jtd-bosch-0281010344-oem-tested",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Fiat Doblo 1.9 JTD Bosch - 6-month warranty, fast dispatch in EU.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Fiat Doblo 1.9 JTD Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Doblo",
+    "1.9 JTD",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement for Fiat Doblo 1.9 JTD Bosch is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FIAT DOBLO</td><td>1.9 JTD</td><td>2002</td><td>BOSCH 0 281 010 344</td><td>22341WAA</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 7-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT DOBLO 1.9 JTD BOSCH 0281010344, 0 281 010 344 73501235 22341WAA",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-DOBLO-1.9-JTD-BOSCH-0281010344%2C-0-281-010-344-73501235-22341WAA/28403",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6D7C-93935_20120826203829",
+    "sku": "6D7C-93935_20120826203829",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT DOBLO 1.9 JTD BOSCH 0281010344, 0 281 010 344 73501235 22341WAA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT DOBLO",
+      "ENGINE": "1.9 JTD",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 344",
+      "NUMBER PARTS": "22341WAA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:36:43.114Z",
+    "model": "mistral:7b",
+    "durationMs": 8228,
+    "priceIncrement": 100
+  }
+}

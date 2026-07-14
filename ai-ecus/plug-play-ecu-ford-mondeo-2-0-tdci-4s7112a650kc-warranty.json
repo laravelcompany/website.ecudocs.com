@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Mondeo 2.0 TDCI 4S71-12A650-KC, Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-2-0-tdci-4s7112a650kc-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford Mondeo 2.0 TDCI 4S71-12A650-KC, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Mondeo 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.0 TDCI",
+    "4S7112A650KC",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller is a reliable solution for your Ford Mondeo 2.0 TDCI.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 TDCI</td></tr>\n        <tr><th>YEAR:</th><td>2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>4S7112A650KC</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>12249774</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 6-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo 2.0 TDCI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 4S71-12A650-KC, 4S7112A650KC, 12249774",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-TDCI-4S71-12A650-KC%2C-4S7112A650KC%2C-12249774/66232",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "3D26-103F0_20140919121945",
+    "sku": "3D26-103F0_20140919121945",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 4S71-12A650-KC, 4S7112A650KC, 12249774</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "4S7112A650KC",
+      "NUMBER PARTS": "12249774",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:41:15.641Z",
+    "model": "mistral:7b",
+    "durationMs": 9534,
+    "priceIncrement": 100
+  }
+}

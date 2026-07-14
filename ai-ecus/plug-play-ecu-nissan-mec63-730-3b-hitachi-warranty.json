@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested NISSAN MEC63-730 3B, Hitachi - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-mec63-730-3b-hitachi-warranty",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your NISSAN MEC63-730 3B, tested and covered by a 6-month warranty. Order today!",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan MEC63-730 3B",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "NISSAN MEC63-730 3B",
+    "Hitachi"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a reliable replacement for your NISSAN MEC63-730 3B, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Compatible with NISSAN MEC63-730 3B</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>PARTS</th>\n                <th>BRAND AND MODEL</th>\n                <th>NUMBER MANUFACTURER</th>\n                <th>OPTION AVAILABLE</th>\n                <th>WARRANTY :</th>\n                <th>INSPECTION:</th>\n                <th>CONDITION</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>ECU ENGINE CONTROLLER</td>\n                <td>NISSAN</td>\n                <td>MEC63-730 3B</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n                <td>6-month warranty</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with NISSAN MEC63-730 3B. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN MEC63-730 3B, MEC63730",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-MEC63-730-3B%2C-MEC63730/124662",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "5B3E-163AB_20210318144313",
+    "sku": "5B3E-163AB_20210318144313",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN MEC63-730 3B, MEC63730</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN",
+      "NUMBER MANUFACTURER": "MEC63-730 3B",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:15:45.968Z",
+    "model": "mistral:7b",
+    "durationMs": 10749,
+    "priceIncrement": 100
+  }
+}

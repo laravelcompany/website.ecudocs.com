@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Citroen Xantia / Peugeot 406 2.1 Magneti Marelli IAW 1AP.40, Warranty Included",
+  "slug": "plug-play-ecu-replacement-oem-tested-citroen-xantia-peugeot-406-magneti-marelli-",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Citroen Xantia / Peugeot 406 2.1 Magneti Marelli IAW 1AP.40, OEM tested and covered by a 6-month warranty.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested ECU for Citroen Xantia / Peugeot 406 2.1 Magneti Marelli IAW 1AP.40",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Xantia",
+    "Peugeot 406",
+    "Magneti Marelli"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Citroen Xantia / Peugeot 406 2.1 Magneti Marelli IAW 1AP.40 is a reliable solution to restore your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN XANTIA PEUGEOT 406</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI IAW 1AP.40</td></tr>\n        <tr><th>NUMBER PARTS</th><td>9629244580</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN XANTIA PEUGEOT 406 2.1 MAGNETI MARELLI IAW 1AP.40, IAW1AP40, 9629244580",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-XANTIA-PEUGEOT-406-2.1-MAGNETI-MARELLI-IAW-1AP.40%2C-IAW1AP40%2C-9629244580/112593",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "8A16-79760_20190307165833",
+    "sku": "8A16-79760_20190307165833",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN XANTIA PEUGEOT 406 2.1 MAGNETI MARELLI IAW 1AP.40, IAW1AP40, 9629244580</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_226596_0_0/ECU-ENGINE-CONTROLLER-CITROEN-XANTIA-PEUGEOT-406-2.1-MAGNETI-MARELLI-IAW-1AP.40%2C-IAW1AP40%2C-9629244580.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_226597_0_0/ECU-ENGINE-CONTROLLER-CITROEN-XANTIA-PEUGEOT-406-2.1-MAGNETI-MARELLI-IAW-1AP.40%2C-IAW1AP40%2C-9629244580.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN XANTIA PEUGEOT 406",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 1AP.40",
+      "NUMBER PARTS": "9629244580",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:40:18.767Z",
+    "model": "mistral:7b",
+    "durationMs": 10230,
+    "priceIncrement": 100
+  }
+}

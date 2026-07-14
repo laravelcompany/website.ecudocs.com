@@ -1,0 +1,56 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Suzuki Grand Vitara 1.6 8V (1989-1991) - Mitsubishi E2T40671, 33920-60A70, 3392060A70",
+  "slug": "plug-play-ecu-replacement-suzuki-grand-vitara-1-6-8v-mitsubishi-e2t40671-33920-6",
+  "metaDescription": "Buy OEM tested, Plug & Play ECU Replacement for Suzuki Grand Vitara (1.6 8V, 1989-1991) with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€800.00",
+  "excerpt": "OEM Tested ECU Replacement for Suzuki Grand Vitara",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Suzuki Grand Vitara",
+    "Mitsubishi E2T40671",
+    "33920-60A70",
+    "3392060A70"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Suzuki Grand Vitara (1.6 8V, 1989-1991) ensures reliable performance and compatibility.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Tested</li>\n      <li>Plug & Play</li>\n      <li>6-month Warranty</li>\n      <li>Fast Dispatch within EU</li>\n      <li>Used, Original in Good Condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>PARTS</td>\n          <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n          <td>BRAND AND MODEL</td>\n          <td>SUZUKI GRAND VITARA</td>\n        </tr>\n        <tr>\n          <td>ENGINE</td>\n          <td>1.6 8V</td>\n        </tr>\n        <tr>\n          <td>YEAR</td>\n          <td>1989-1991</td>\n        </tr>\n        <tr>\n          <td>NUMBER MANUFACTURER</td>\n          <td>MITSUBISHI E2T40671</td>\n        </tr>\n        <tr>\n          <td>NUMBER PARTS</td>\n          <td>33920-60A70</td>\n        </tr>\n        <tr>\n          <td>OPTION AVAILABLE</td>\n          <td>LOCKED / UNLOCKED</td>\n        </tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Suzuki Grand Vitara (1989-1991) with a 1.6 8V engine.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUZUKI GRAND VITARA MITSUBISHI E2T40671, 33920-60A70, 3392060A70",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUZUKI-GRAND-VITARA-MITSUBISHI-E2T40671%2C-33920-60A70%2C-3392060A70/60362",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Mitsubishi",
+    "productCode": "D270-33807_20140715151213",
+    "sku": "D270-33807_20140715151213",
+    "availability": "Shortage",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUZUKI GRAND VITARA MITSUBISHI E2T40671, 33920-60A70, 3392060A70</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9c59575ec77a9743bb6eb25a0acf82f7_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f638dc82a537ad9768562830ab2a1dab_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9806da9aaba3350e13fd87aa20f2fc8c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUZUKI GRAND VITARA",
+      "ENGINE": "1.6 8V",
+      "YEAR": "1989-1991",
+      "NUMBER MANUFACTURER": "MITSUBISHI E2T40671",
+      "NUMBER PARTS": "33920-60A70",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:59:36.540Z",
+    "model": "mistral:7b",
+    "durationMs": 12612,
+    "priceIncrement": 100
+  }
+}

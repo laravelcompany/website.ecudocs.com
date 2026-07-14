@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Lancia Lybra 2.4 JTD Bosch 0281010339, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-lancia-lybra-24-jtd-bosch-0281010339-tested",
+  "metaDescription": "Buy a tested Plug & Play ECU Engine Controller for Lancia Lybra 2.4 JTD by Bosch, backed by a 6-month warranty and fast shipping.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Lancia Lybra 2.4 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Lybra",
+    "Bosch",
+    "0281010339"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and thoroughly inspected ECU Engine Controller for Lancia Lybra 2.4 JTD by Bosch offers Plug & Play functionality and a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Compatible with Lancia Lybra 2.4 JTD</li>\n        <li>Condition: Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>LANCIA LYBRA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.4 JTD</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2000</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 010 339</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>83951HB</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU may require programming or professional installation. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA LYBRA 2.4 JTD BOSCH 0281010339, 0 281 010 339 44761014, 83951HB",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-LYBRA-2.4-JTD-BOSCH-0281010339%2C-0-281-010-339-44761014%2C-83951HB-/32324",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D46E-73013",
+    "sku": "D46E-73013",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA LYBRA 2.4 JTD BOSCH 0281010339, 0 281 010 339 44761014, 83951HB </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA LYBRA",
+      "ENGINE": "2.4 JTD",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 339",
+      "NUMBER PARTS": "83951HB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:34:50.039Z",
+    "model": "mistral:7b",
+    "durationMs": 11047,
+    "priceIncrement": 100
+  }
+}

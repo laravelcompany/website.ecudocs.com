@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - SAAB 9-3 2.2 TID BOSCH 0281001617 OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-saab-9-3-2-2-tid-bosch-0281001617-tested",
+  "metaDescription": "OEM tested and Plug & Play ECU replacement for SAAB 9-3 2.2 TID, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for SAAB 9-3 2.2 TID",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SAAB 9-3",
+    "2.2 TID",
+    "BOSCH 0281001617"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for the SAAB 9-3 2.2 TID is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Expertly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SAAB 9-3</td></tr>\n        <tr><th>ENGINE</th><td>2.2 TID</td></tr>\n        <tr><th>YEAR</th><td>1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 617</td></tr>\n        <tr><th>NUMBER PARTS</th><td>4662870</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SAAB 9-3 2.2 TID BOSCH 0281001617, 0 281 001 617, 46 62 870 4662870",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SAAB-9-3-2.2-TID-BOSCH-0281001617%2C-0-281-001-617%2C-46-62-870-4662870-/16980",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "AD52-16372",
+    "sku": "AD52-16372",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SAAB 9-3 2.2 TID BOSCH 0281001617, 0 281 001 617, 46 62 870 4662870 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SAAB 9-3",
+      "ENGINE": "2.2 TID",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 617",
+      "NUMBER PARTS": "4662870",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:38:15.634Z",
+    "model": "mistral:7b",
+    "durationMs": 9342,
+    "priceIncrement": 100
+  }
+}

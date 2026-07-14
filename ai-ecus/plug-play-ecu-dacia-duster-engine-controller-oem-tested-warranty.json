@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Dacia Duster Engine Controller (237101855R, 237101719R, V29012405A) - 6-month Warranty",
+  "slug": "plug-play-ecu-dacia-duster-engine-controller-oem-tested-warranty",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Dacia Duster, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play OEM Tested Dacia Duster ECU Replacement",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Dacia Duster",
+    "Valeo",
+    "237101855R",
+    "237101719R",
+    "V29012405A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Dacia Duster is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed quality</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Dacia Duster models</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>DACIA DUSTER</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>237101855R</td></tr>\n        <tr><th>NUMBER PARTS</th><td>V29012405A</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Dacia Duster models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DACIA DUSTER 237101855R, 237101719R, V29012405A",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DACIA-DUSTER-237101855R%2C-237101719R%2C-V29012405A/117741",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Valeo",
+    "productCode": "FEDA-61249_20200228135144",
+    "sku": "FEDA-61249_20200228135144",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DACIA DUSTER 237101855R, 237101719R, V29012405A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_239107_0_0/DACIA-DUSTER-237101855R%2C-237101719R%2C-V29012405A.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_239108_0_0/DACIA-DUSTER-237101855R%2C-237101719R%2C-V29012405A.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DACIA DUSTER",
+      "NUMBER MANUFACTURER": "237101855R",
+      "NUMBER PARTS": "V29012405A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:53:57.570Z",
+    "model": "mistral:7b",
+    "durationMs": 10568,
+    "priceIncrement": 100
+  }
+}

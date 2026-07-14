@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Chevrolet Captiva 2.4 BOSCH 0 261 208 782 0261208782 GM 96842730 U9 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-chevrolet-captiva-2-4-bosch-oem-tested",
+  "metaDescription": "Expertly tested ECU Engine Controller for Chevrolet Captiva 2.4 BOSCH, Plug & Play, OEM Tested, and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU for Chevrolet Captiva 2.4 BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet Captiva",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is specifically designed for Chevrolet Captiva 2.4 BOSCH, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>CHEVROLET CAPTIVA</td></tr>\n<tr><th>ENGINE</th><td>2.4</td></tr>\n<tr><th>YEAR</th><td>2007</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 208 782</td></tr>\n<tr><th>NUMBER PARTS</th><td>GM 96842730 U9</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Chevrolet Captiva 2.4 BOSCH. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET CAPTIVA 2.4 BOSCH 0 261 208 782 0261208782 GM 96842730 U9",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-CAPTIVA-2.4-BOSCH-0-261-208-782-0261208782-GM-96842730-U9/142427",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4F00-518AD",
+    "sku": "4F00-518AD",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET CAPTIVA 2.4 BOSCH 0 261 208 782 0261208782 GM 96842730 U9</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET CAPTIVA",
+      "ENGINE": "2.4",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 208 782",
+      "NUMBER PARTS": "GM 96842730 U9",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:57:26.648Z",
+    "model": "mistral:7b",
+    "durationMs": 9486,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes Sprinter 2.2 CDI A0001534279, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-sprinter-2-2-cdi-a0001534279-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Mercedes Sprinter 2.2 CDI A0001534279, OEM tested and covered by a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes Sprinter 2.2 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Sprinter",
+    "2.2 CDI",
+    "Bosch 0281010826"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Mercedes Sprinter 2.2 CDI is a reliable solution to your engine control unit issues, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES SPRINTER</td></tr>\n        <tr><th>ENGINE</th><td>2.2 CDI</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281010826, 0 281 010 826</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0001534279</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific issues. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES SPRINTER 208 2.2 220 CDI A0001534279, A 000 153 42 79, 0001534279, BOSCH 0281010826, 0 281 010 826",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-SPRINTER-208-2.2-220-CDI-A0001534279%2C-A-000-153-42-79%2C-0001534279%2C-BOSCH-0281010826%2C-0-281-010-826-/12852",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9F5F-865E7",
+    "sku": "9F5F-865E7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES SPRINTER 208 2.2 220 CDI A0001534279, A 000 153 42 79, 0001534279, BOSCH 0281010826, 0 281 010 826 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES SPRINTER",
+      "ENGINE": "2.2 CDI",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0281010826, 0 281 010 826",
+      "NUMBER PARTS": "0001534279",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:54:54.358Z",
+    "model": "mistral:7b",
+    "durationMs": 9730,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Opel Astra 2.0 C20XE - Bosch 0261203017, Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-opel-astra-2-0-c20xe-bosch-0261203017-warranty",
+  "metaDescription": "Expertly tested and OEM replacement ECU for Opel Astra 2.0 C20XE with a 6-month warranty. Fast dispatch in EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Opel Astra 2.0 C20XE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "Bosch",
+    "C20XE",
+    "ECU replacement"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU is a perfect replacement for your Opel Astra 2.0 C20XE engine.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch in EU</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours with a 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA 2.0 C20XE BOSCH 0261203017, 0 261 203 017, 90413269, 90 413 269 PL",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-ASTRA-2.0-C20XE-BOSCH-0261203017%2C-0-261-203-017%2C-90413269%2C-90-413-269-PL/28274",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C72C-1486E_20120824090453",
+    "sku": "C72C-1486E_20120824090453",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA 2.0 C20XE BOSCH 0261203017, 0 261 203 017, 90413269, 90 413 269 PL</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL ASTRA",
+      "ENGINE": "2.0 C20XE",
+      "YEAR": "1993-1994",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 017",
+      "CODE": "PL",
+      "NUMBER PARTS": "90 413 269",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:31:15.767Z",
+    "model": "mistral:7b",
+    "durationMs": 6267,
+    "priceIncrement": 100
+  }
+}

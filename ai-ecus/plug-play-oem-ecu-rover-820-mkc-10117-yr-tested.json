@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Rover 820 MKC 10117 YR - Tested, Warranty Included",
+  "slug": "plug-play-oem-ecu-rover-820-mkc-10117-yr-tested",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for Rover 820 MKC 10117 YR. Backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Rover 820 MKC 10117 YR",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 820 MKC 10117 YR",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Replacement for Rover 820 MKC 10117 YR has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM Tested for guaranteed fitment</li><li>6-month warranty for peace of mind</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>ROVER 820</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>MKC 10117 YR</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle's condition and usage history. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 820 MKC 10117 YR, MKC10117, MKC10117YR",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-820-MKC-10117-YR%2C-MKC10117%2C-MKC10117YR-/93184",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "CE46-17256_20160613170839",
+    "sku": "CE46-17256_20160613170839",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 820 MKC 10117 YR, MKC10117, MKC10117YR </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 820",
+      "NUMBER MANUFACTURER": "MKC 10117 YR",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:34:33.427Z",
+    "model": "mistral:7b",
+    "durationMs": 9198,
+    "priceIncrement": 100
+  }
+}

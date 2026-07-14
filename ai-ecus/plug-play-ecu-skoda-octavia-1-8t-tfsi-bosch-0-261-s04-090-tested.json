@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - SKODA OCTAVIA 1.8T TFSI BOSCH 0 261 S04 090, 1Z0907115F, Tested & Warranty Included",
+  "slug": "plug-play-ecu-skoda-octavia-1-8t-tfsi-bosch-0-261-s04-090-tested",
+  "metaDescription": "OEM Tested ECU Replacement for SKODA OCTAVIA 1.8T TFSI, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU replacement for SKODA OCTAVIA 1.8T TFSI.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA OCTAVIA",
+    "1.8T TFSI",
+    "BOSCH 0 261 S04 090"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for SKODA OCTAVIA 1.8T TFSI is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Quality</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Certified Technician Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SKODA OCTAVIA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8T 1.8 TURBO TFSI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2008</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 S04 090</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1039S32192</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with SKODA OCTAVIA 1.8T TFSI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 1.8T 1.8 TURBO TFSI 1Z0 907 115 F, 1Z0907115F, BOSCH 0 261 S04 090, 0261S04090, BENZIN MED17.5, 1039S32192",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-1.8T-1.8-TURBO-TFSI-1Z0-907-115-F%2C-1Z0907115F%2C-BOSCH-0-261-S04-090%2C-0261S04090%2C-BENZIN-MED17.5%2C-1039S32192/15909",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2CA7-65315",
+    "sku": "2CA7-65315",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 1.8T 1.8 TURBO TFSI 1Z0 907 115 F, 1Z0907115F, BOSCH 0 261 S04 090, 0261S04090, BENZIN MED17.5, 1039S32192</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.8T 1.8 TURBO TFSI",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S04 090",
+      "NUMBER PARTS": "1039S32192",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:35:15.390Z",
+    "model": "mistral:7b",
+    "durationMs": 11492,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Fiat Punto 1.2 Bosch 0 261 206 980, 0261206980, 0 046 801 964 0 - 6-month Warranty",
+  "slug": "plug-play-ecu-fiat-punto-1-2-bosch-0-261-206-980-oem-tested",
+  "metaDescription": "OEM tested Plug & Play ECU Engine Controller for Fiat Punto 1.2 Bosch 0 261 206 980, 0261206980, 0 046 801 964 0. 6-month warranty and fast dispatch.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Fiat Punto 1.2 Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Punto",
+    "Bosch",
+    "0 261 206 980"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is designed for Fiat Punto 1.2 Bosch 0 261 206 980, ensuring seamless integration and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT PUNTO</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 206 980</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0 046 801 964 0</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO 1.2 BOSCH 0 261 206 980, 0261206980, 0 046 801 964 0, 00468019640",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-1.2-BOSCH-0-261-206-980%2C-0261206980%2C-0-046-801-964-0%2C-00468019640-/99257",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4FC4-363B1_20161122180251",
+    "sku": "4FC4-363B1_20161122180251",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  FIAT PUNTO 1.2 BOSCH 0 261 206 980, 0261206980, 0 046 801 964 0, 00468019640 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a8f0c2c24ddd3c45012c776891fa3e8f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_503cca8fc19416ff7a16c147768fab5a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 980",
+      "NUMBER PARTS": "0 046 801 964 0",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:54:07.311Z",
+    "model": "mistral:7b",
+    "durationMs": 11410,
+    "priceIncrement": 100
+  }
+}

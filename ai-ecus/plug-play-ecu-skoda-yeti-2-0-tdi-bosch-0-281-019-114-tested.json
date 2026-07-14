@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement Skoda Yeti 2.0 TDI Bosch 0 281 019 114, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-skoda-yeti-2-0-tdi-bosch-0-281-019-114-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Skoda Yeti 2.0 TDI, Plug & Play, 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Skoda Yeti 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Yeti",
+    "2.0 TDI",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Skoda Yeti 2.0 TDI ensures reliable engine performance and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Reliable Engine Performance</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\">\n<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\">\n<tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr>\n<tr><td>ECU ENGINE CONTROLLER</td><td>SKODA YETI</td><td>2.0 TDI</td><td>BOSCH 0 281 019 114</td><td>03L 907 309 AG</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA YETI 2.0 TDI BOSCH 0 281 019 114, 0281019114, 03L 906 018 QJ, 03L906018QJ, 03L907309AG, EDC17C46",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-YETI-2.0-TDI-BOSCH-0-281-019-114%2C-0281019114%2C-03L-906-018-QJ%2C-03L906018QJ%2C-03L907309AG%2C-EDC17C46-/101012",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6792-46275_20161220125647",
+    "sku": "6792-46275_20161220125647",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  SKODA YETI 2.0 TDI BOSCH 0 281 019 114, 0281019114, 03L 906 018 QJ, 03L906018QJ, 03L907309AG, EDC17C46 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a8847dbd203df546f9025228ba77c34b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c81e9465b37d7685144f46d10a316e0f_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA YETI",
+      "ENGINE": "2.0 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 019 114",
+      "NUMBER PARTS": "03L 907 309 AG",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:21:41.363Z",
+    "model": "mistral:7b",
+    "durationMs": 9278,
+    "priceIncrement": 100
+  }
+}

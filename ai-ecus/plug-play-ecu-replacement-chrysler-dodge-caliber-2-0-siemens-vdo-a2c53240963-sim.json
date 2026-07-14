@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Chrysler Dodge Caliber 2.0 Siemens VDO A2C53240963, SIM90E, OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-replacement-chrysler-dodge-caliber-2-0-siemens-vdo-a2c53240963-sim",
+  "metaDescription": "OEM tested ECU replacement for Chrysler Dodge Caliber 2.0 with Siemens VDO A2C53240963, SIM90E. Plug & Play, 6-month warranty and fast dispatch.",
+  "price": "€250.00",
+  "excerpt": "OEM tested ECU replacement for Chrysler Dodge Caliber 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chrysler Dodge Caliber",
+    "Siemens VDO A2C53240963",
+    "SIM90E"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Chrysler Dodge Caliber 2.0 ensures seamless integration and improved engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch</li>\n<li>Improved Engine Performance</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>CHRYSLER DODGE CALIBER</td></tr>\n<tr><th>ENGINE</th><td>2.0</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>SIEMENS VDO A2C53240963</td></tr>\n<tr><th>NUMBER PARTS</th><td>SIM90E</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHRYSLER DODGE CALIBER 2.0 SIEMENS VDO A2C53240963, SIM90E, P04692101AE",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHRYSLER-DODGE-CALIBER-2.0-SIEMENS-VDO-A2C53240963%2C-SIM90E%2C-P04692101AE/16336",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "4690-659F7",
+    "sku": "4690-659F7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHRYSLER DODGE CALIBER 2.0 SIEMENS VDO A2C53240963, SIM90E, P04692101AE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHRYSLER DODGE CALIBER",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "SIEMENS VDO A2C53240963",
+      "NUMBER PARTS": "SIM90E",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:06:10.284Z",
+    "model": "mistral:7b",
+    "durationMs": 10776,
+    "priceIncrement": 100
+  }
+}

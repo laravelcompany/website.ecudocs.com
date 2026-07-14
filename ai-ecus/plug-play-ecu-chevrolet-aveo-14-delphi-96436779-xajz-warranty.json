@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Chevrolet AVEO 1.4 Engine Controller - 96436779 XAJZ - Warranty Included",
+  "slug": "plug-play-ecu-chevrolet-aveo-14-delphi-96436779-xajz-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Chevrolet AVEO 1.4 (96436779 XAJZ) by Delphi, OEM tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Chevrolet AVEO 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet AVEO",
+    "Delphi",
+    "1.4 Engine Controller"
+  ],
+  "description": "<section class=\"overview\">This Delphi ECU Engine Controller is a tested and reliable replacement for your Chevrolet AVEO 1.4.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CHEVROLET AVEO</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>96436779 XAJZ</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET AVEO 1.4 96436779 XAJZ",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-AVEO-1.4-96436779-XAJZ/106363",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "D59C-8398A_20170829150300",
+    "sku": "D59C-8398A_20170829150300",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET AVEO 1.4 96436779 XAJZ</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8a061c06aac52da1bb449d69e5524238_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e227bde4397c852cd539ad767d977f9a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET AVEO",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "96436779 XAJZ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:55:30.190Z",
+    "model": "mistral:7b",
+    "durationMs": 10226,
+    "priceIncrement": 100
+  }
+}

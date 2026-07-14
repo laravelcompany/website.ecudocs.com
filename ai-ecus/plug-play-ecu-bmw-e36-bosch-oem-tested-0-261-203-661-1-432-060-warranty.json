@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E36 Bosch OEM Tested 0 261 203 661, 1 432 060 - Warranty Included",
+  "slug": "plug-play-ecu-bmw-e36-bosch-oem-tested-0-261-203-661-1-432-060-warranty",
+  "metaDescription": "OEM tested ECU Replacement for BMW E36 with 6-month warranty. Plug & Play, ready for immediate installation.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E36 - OEM Tested and Warrantied",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E36",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Bosch ECU Engine Controller for BMW E36 is a tested, reliable replacement. It comes with a 6-month warranty and can be installed as Plug & Play.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>Warranty Included</li>\n<li>Ready for Programming</li>\n<li>Used Original in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>BMW E36</td></tr>\n<tr><th>YEAR</th><td>1995</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 203 661</td></tr>\n<tr><th>NUMBER PARTS</th><td>1 432 060</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific ECU requirements. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E36 BOSCH 0 261 203 661, 0261203661, 1 432 060, 1432060",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E36-BOSCH-0-261-203-661%2C-0261203661%2C-1-432-060%2C-1432060-/42875",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6878-679F0",
+    "sku": "6878-679F0",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E36 BOSCH 0 261 203 661, 0261203661, 1 432 060, 1432060 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E36",
+      "YEAR": "1995",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 661",
+      "NUMBER PARTS": "1 432 060",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:28:08.665Z",
+    "model": "mistral:7b",
+    "durationMs": 10635,
+    "priceIncrement": 100
+  }
+}

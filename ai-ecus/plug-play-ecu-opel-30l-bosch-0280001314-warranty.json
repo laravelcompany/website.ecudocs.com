@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Opel 3.0L Engine Controller (Bosch 0 280 001 314, GM 90 180 342 FE) - Warranty Included",
+  "slug": "plug-play-ecu-opel-30l-bosch-0280001314-warranty",
+  "metaDescription": "Buy OEM tested, Plug & Play ECU Engine Controller for Opel 3.0L (Bosch 0 280 001 314, GM 90 180 342 FE). Covered by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€135.00",
+  "excerpt": "OEM tested Plug & Play Opel ECU replacement",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel 3.0L",
+    "Bosch 0 280 001 314",
+    "GM 90 180 342 FE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for Opel 3.0L (Bosch 0 280 001 314, GM 90 180 342 FE) is a reliable replacement, offering Plug & Play functionality and backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>OEM tested for guaranteed fitment</li>\n<li>Plug & Play for easy installation</li>\n<li>Locked or ready for programming</li>\n<li>Used but in good condition</li>\n<li>6-month warranty</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>OPEL</td></tr>\n<tr><th>ENGINE</th><td>3.0 L</td></tr>\n<tr><th>YEAR</th><td>1987-1990</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 280 001 314</td></tr>\n<tr><th>NUMBER PARTS</th><td>GM 90 180 342 FE</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel vehicles equipped with the specified engine and controller. Fitment caution may apply. Consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL BOSCH 0 280 001 314, 0280001314, GM 90 180 342 FE, 90180342FE",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-BOSCH-0-280-001-314%2C-0280001314%2C-GM-90-180-342-FE%2C-90180342FE/64857",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7FB6-868F6_20140902094811",
+    "sku": "7FB6-868F6_20140902094811",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL BOSCH 0 280 001 314, 0280001314, GM 90 180 342 FE, 90180342FE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL",
+      "ENGINE": "3.0 L",
+      "YEAR": "1987-1990",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 001 314",
+      "NUMBER PARTS": "GM 90 180 342 FE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:28:47.329Z",
+    "model": "mistral:7b",
+    "durationMs": 12250,
+    "priceIncrement": 100
+  }
+}

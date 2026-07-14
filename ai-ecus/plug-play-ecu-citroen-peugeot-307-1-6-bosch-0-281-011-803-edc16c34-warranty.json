@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Citroen, Peugeot 307 1.6 - Bosch 0 281 011 803, EDC16C34 - 6-month Warranty",
+  "slug": "plug-play-ecu-citroen-peugeot-307-1-6-bosch-0-281-011-803-edc16c34-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Citroen, Peugeot 307 1.6 with Bosch 0 281 011 803, EDC16C34. Covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Citroen, Peugeot 307 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 011 803",
+    "EDC16C34",
+    "Citroen 307",
+    "Peugeot 307"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Citroen, Peugeot 307 1.6 is a reliable replacement, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN, PEUGEOT 307</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 011 803</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>EDC16C34</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen and Peugeot 307 models equipped with the specified engine and ECU.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN, PEUGEOT 307 1.6, BOSCH 0 281 011 803, 0281011803, 96 561 619 80, 9656161980, EDC16C34",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN%2C-PEUGEOT-307-1.6%2C-BOSCH-0-281-011-803%2C-0281011803%2C-96-561-619-80%2C-9656161980%2C-EDC16C34/40483",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E0DD-1910E_20130825155424",
+    "sku": "E0DD-1910E_20130825155424",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN, PEUGEOT 307 1.6, BOSCH 0 281 011 803, 0281011803, 96 561 619 80, 9656161980, EDC16C34</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN, PEUGEOT 307",
+      "ENGINE": "1.6",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 803",
+      "NUMBER PARTS": "EDC16C34",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:52:37.699Z",
+    "model": "mistral:7b",
+    "durationMs": 12675,
+    "priceIncrement": 100
+  }
+}

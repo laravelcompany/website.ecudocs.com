@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - OPEL CORSA MERIVA 1.6 Engine - Delphi Delco 12214820 DWLZ, HSFI-2.5 - OEM Tested",
+  "slug": "plug-play-ecu-replacement-opel-corsa-meriva-1-6-delphi-delco-12214820-dwlz-hsfi-",
+  "metaDescription": "OEM tested ECU Engine Controller for OPEL CORSA MERIVA 1.6, used in good condition with a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "OEM tested ECU replacement for Opel Corsa Meriva",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delphi Delco 12214820 DWLZ",
+    "Opel Corsa Meriva"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for the Opel Corsa Meriva 1.6 engine, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed compatibility</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CORSA MERIVA</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELPHI DELCO 12214820 DWLZ</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HSFI-2.5</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Corsa Meriva 1.6 engine. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA MERIVA DELPHI DELCO 12214820 DWLZ, 12214820DWLZ, HSFI-2.5",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-MERIVA-DELPHI-DELCO-12214820-DWLZ%2C-12214820DWLZ%2C-HSFI-2.5/76368",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "6676-15095_20150708190859",
+    "sku": "6676-15095_20150708190859",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA MERIVA DELPHI DELCO 12214820 DWLZ, 12214820DWLZ, HSFI-2.5</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA MERIVA",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "DELPHI DELCO 12214820 DWLZ",
+      "NUMBER PARTS": "HSFI-2.5",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:02:02.453Z",
+    "model": "mistral:7b",
+    "durationMs": 11185,
+    "priceIncrement": 100
+  }
+}

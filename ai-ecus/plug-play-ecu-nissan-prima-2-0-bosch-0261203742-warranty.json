@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN PRIMERA 2.0, OEM Bosch 0 261 203 742, 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-prima-2-0-bosch-0261203742-warranty",
+  "metaDescription": "OEM tested ECU Engine Controller for NISSAN PRIMERA 2.0, Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU replacement for Nissan Prima 2.0 with Bosch part number 0 261 203 742.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Prima",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for NISSAN PRIMERA 2.0 is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Ready for Programming</li>\n<li>Used, Original in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>NISSAN PRIMERA</td></tr>\n<tr><td>ENGINE</td><td>2.0</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 203 742</td></tr>\n<tr><td>NUMBER PARTS</td><td>2371083J01 BA</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure this ECU is compatible with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0, BOSCH 0 261 203 742, 0261203742, 2371083J01 BA",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-2.0%2C-BOSCH-0-261-203-742%2C-0261203742%2C-2371083J01-BA-/48987",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2C09-6665E",
+    "sku": "2C09-6665E",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0, BOSCH 0 261 203 742, 0261203742, 2371083J01 BA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 742",
+      "NUMBER PARTS": "2371083J01 BA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:36:56.575Z",
+    "model": "mistral:7b",
+    "durationMs": 9331,
+    "priceIncrement": 100
+  }
+}

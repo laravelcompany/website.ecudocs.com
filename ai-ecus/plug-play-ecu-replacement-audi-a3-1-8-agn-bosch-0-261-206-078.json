@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A3 1.8 AGN Bosch 0 261 206 078, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-audi-a3-1-8-agn-bosch-0-261-206-078",
+  "metaDescription": "OEM tested ECU replacement for Audi A3 1.8 AGN with Bosch 0 261 206 078, 6-month warranty and fast dispatch.",
+  "price": "€70.00",
+  "excerpt": "OEM tested ECU replacement for Audi A3 1.8 AGN with Bosch 0 261 206 078",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "1.8 AGN",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for your Audi A3 1.8 AGN with Bosch 0 261 206 078 ensures seamless engine control and performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design</li>\n<li>OEM tested for quality assurance</li>\n<li>6-month warranty</li>\n<li>Used in good condition</li>\n<li>Fast dispatch within EU</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>AUDI A3</td></tr>\n<tr><th>ENGINE</th><td>1.8 AGN</td></tr>\n<tr><th>YEAR</th><td>1998</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 206 078</td></tr>\n<tr><th>NUMBER PARTS</th><td>06A 906 018 CN</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 1.8 AGN BOSCH 0 261 206 078, 0261206078, 06A 906 018 CN, 06A906018CN",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-1.8-AGN-BOSCH-0-261-206-078%2C-0261206078%2C-06A-906-018-CN%2C-06A906018CN-/96143",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A5AA-778BA_20160909163545",
+    "sku": "A5AA-778BA_20160909163545",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A3 1.8 AGN BOSCH 0 261 206 078, 0261206078, 06A 906 018 CN, 06A906018CN </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "ENGINE": "1.8 AGN",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 078",
+      "NUMBER PARTS": "06A 906 018 CN",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:46:00.957Z",
+    "model": "mistral:7b",
+    "durationMs": 10862,
+    "priceIncrement": 100
+  }
+}

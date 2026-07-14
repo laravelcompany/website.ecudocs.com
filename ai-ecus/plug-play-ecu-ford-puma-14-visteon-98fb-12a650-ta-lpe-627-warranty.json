@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Puma 1.4 16V - Visteon 98FB-12A650-TA, LPE-627 - Warranty Included",
+  "slug": "plug-play-ecu-ford-puma-14-visteon-98fb-12a650-ta-lpe-627-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Puma 1.4 16V with 6-month warranty. Ships within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Puma",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Puma",
+    "Visteon",
+    "1.4 16V"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Puma 1.4 16V is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Fast Dispatch</li><li>Reliable Performance</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>INSPECTION</th><th>WARRANTY</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FORD PUMA</td><td>1.4 16V</td><td>1997-2001</td><td>VISTEON 98FB-12A650-TA</td><td>LPE-627</td><td>Device thoroughly inspected and tested by a certified technician</td><td>6-month warranty</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD PUMA VISTEON 98FB-12A650-TA, 98FB12A650TA, PEST, LPE-627",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-PUMA-VISTEON-98FB-12A650-TA%2C-98FB12A650TA%2C-PEST%2C-LPE-627-/63301",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "C95E-89257_20140818143731",
+    "sku": "C95E-89257_20140818143731",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD PUMA VISTEON 98FB-12A650-TA, 98FB12A650TA, PEST, LPE-627 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_f2664f41ccaca75efcaa87714ca881da_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7237523c64e4a0ef40ff1c704179b946_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD PUMA",
+      "ENGINE": "1.4 16V",
+      "YEAR": "1997-2001",
+      "NUMBER MANUFACTURER": "VISTEON 98FB-12A650-TA",
+      "NUMBER PARTS": "LPE-627",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:53:33.749Z",
+    "model": "mistral:7b",
+    "durationMs": 9320,
+    "priceIncrement": 100
+  }
+}

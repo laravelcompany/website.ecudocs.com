@@ -1,0 +1,61 @@
+{
+  "title": "Plug & Play ECU Replacement - OPEL KADETT E 1,3 DELCO 16061100 BM - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-opel-kadett-e-delco-16061100-bm-oem-tested",
+  "metaDescription": "Buy the tested and trusted ECU ENGINE CONTROLLER OPEL KADETT E DELCO 16061100 BM, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€30.00",
+  "excerpt": "Plug & Play ECU Replacement for OPEL KADETT E",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "OPEL KADETT E",
+    "1,3 engine",
+    "DELCO 16061100 BM"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER for the OPEL KADETT E is a reliable solution for your vehicle's engine management system.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Compatible with 1,3 engine KADETT E (1984-1991)</li>\n        <li>Original part in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL KADETT E</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1,3</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1984-1991</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>DELCO 16061100 BM</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, fast dispatch. 12-month warranty included.</section>\n<section class=\"compatibility\">Please ensure this ECU is compatible with your specific vehicle before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL KADETT E DELCO 16061100 BM, 16061100BM",
+    "price": "€20.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-KADETT-E-DELCO-16061100-BM%2C-16061100BM-/64084",
+    "priceCurrency": "EUR",
+    "netPrice": "€16.26",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "17D4-5204B_20140825154549",
+    "sku": "17D4-5204B_20140825154549",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL KADETT E DELCO 16061100 BM, 16061100BM </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4a31cd270c014a21052d35df5c0ca182_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3275e800e1824a5eee4d5bd3525400a7_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1c07245605d1383709fa96b30e03cc06_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_58bd2ce554b08af97d7d3d2c9c30d9e4_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9b6734e7f28e21b56c1cc499179e3eb4_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f6dbb1823a200f28464ba0d589818707_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_39ae4be75f7750593a05abaee8ed8bd2_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b85bc8e5cdf278539488c2e7455258d7_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e9c82aae76ec47f006b6778d082487df_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_16d122b90757f1641e270a3996db094d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_58d46f3a0691b898c8c3eb2490b5fa12_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL KADETT E",
+      "ENGINE": "1,3",
+      "YEAR": "1984-1991",
+      "NUMBER MANUFACTURER": "DELCO 16061100 BM",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:06:06.183Z",
+    "model": "mistral:7b",
+    "durationMs": 12558,
+    "priceIncrement": 100
+  }
+}

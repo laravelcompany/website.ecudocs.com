@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Renault Engine Controller (0281019325 237102747R) - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-oem-tested-renault-engine-controller-0281019325-237102",
+  "metaDescription": "Buy the Plug & Play ECU ENGINE CONTROLLER RENAULT 0281019325 237102747R, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault engine controller",
+    "OEM part number",
+    "6-month warranty"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and used original ECU ENGINE CONTROLLER is in good condition and provides a reliable solution for your Renault vehicle.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER MANUFACTURER</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr>\n</thead>\n<tbody>\n<tr><td>ECU ENGINE CONTROLLER</td><td>RENAULT</td><td>0281019325 237102747R</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>CONDITION: USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT 0281019325 237102747R",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-0281019325-237102747R/135158",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5CA3-6470E_20230614105121",
+    "sku": "5CA3-6470E_20230614105121",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT 0281019325 237102747R</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_282382_0_0/RENAULT-0281019325-237102747R.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_282383_0_0/RENAULT-0281019325-237102747R.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT",
+      "NUMBER MANUFACTURER": "0281019325 237102747R",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:39:27.148Z",
+    "model": "mistral:7b",
+    "durationMs": 9546,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Focus 2.5 T Bosch 0 261 209 484 - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-ford-focus-2-5-t-bosch-0-261-209-484-warranty",
+  "metaDescription": "Expertly tested and OEM Bosch ECU Engine Controller for Ford Focus 2.5 T, offering Plug & Play functionality and a 6-month warranty.",
+  "price": "€700.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Focus 2.5 T",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Bosch",
+    "0 261 209 484"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Bosch ECU Engine Controller is a direct replacement for your Ford Focus 2.5 T, ensuring seamless integration and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM quality</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD FOCUS</td></tr>\n        <tr><th>ENGINE:</th><td>2.5 T</td></tr>\n        <tr><th>YEAR:</th><td>2010</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 209 484</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>9BYG</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific fault codes. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 2.5 T BOSCH 0 261 209 484, 0261209484, 9M51-12A650-CG, 9M5112A650CG, 12A650CG, 9BYG",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-2.5-T-BOSCH-0-261-209-484%2C-0261209484%2C-9M51-12A650-CG%2C-9M5112A650CG%2C-12A650CG%2C-9BYG/71119",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9A90-788A7_20141230115410",
+    "sku": "9A90-788A7_20141230115410",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 2.5 T BOSCH 0 261 209 484, 0261209484, 9M51-12A650-CG, 9M5112A650CG, 12A650CG, 9BYG</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_006f78c564a16fa259ec200231424acf_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_889fbc9b7113b38a58ea9e15faf2b389_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f11dfae1b5ac35e7381524d0ddfe5533_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0378f8381326112cb5fb2fe93bcd9fef_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b928c5b8690d2c5b6909075754aa9a1f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a3f57f2d993c1dcb883a975a79e8aa36_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b4da89f7a823875fbf049c10e485135a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_901fe31b4e2332c43a403c1024d8e56f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_decdab66217988a2851a1ea925c01233_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_321dcbddc3b23fbff4003cb012d07a57_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "2.5 T",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 209 484",
+      "NUMBER PARTS": "9BYG",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:03:42.274Z",
+    "model": "mistral:7b",
+    "durationMs": 9384,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Audi A3 2.0 TDI BKD - Bosch 0281011453, 6-month Warranty",
+  "slug": "plug-play-ecu-audi-a3-20-bosch-0281011453-warranty",
+  "metaDescription": "Expertly tested and OEM Bosch ECU replacement for Audi A3 2.0 TDI BKD, offering Plug & Play installation with a 6-month warranty.",
+  "price": "€200.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Audi A3 2.0 TDI BKD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "Bosch",
+    "0281011453"
+  ],
+  "description": "<section class=\"overview\">This OEM tested, Plug & Play ECU replacement for the Audi A3 2.0 TDI BKD is a reliable solution, ensuring seamless engine control and performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Bosch Part</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr>\n            <th>PARTS</th>\n            <th>BRAND AND MODEL</th>\n            <th>ENGINE</th>\n            <th>YEAR</th>\n            <th>NUMBER MANUFACTURER</th>\n            <th>NUMBER PARTS</th>\n            <th>OPTION AVAILABLE</th>\n            <th>WARRANTY :</th>\n            <th>INSPECTION:</th>\n            <th>CONDITION</th>\n        </tr>\n        <tr>\n            <td>ECU ENGINE CONTROLLER</td>\n            <td>AUDI A3</td>\n            <td>2.0 TDI BKD</td>\n            <td>2004</td>\n            <td>BOSCH 0 281 011 453</td>\n            <td>03G 997 016 BX</td>\n            <td>Locked / Ready for programming</td>\n            <td>6-month warranty</td>\n            <td>Device thoroughly inspected and tested by a certified technician</td>\n            <td>USED IN GOOD CONDITION</td>\n        </tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your specific vehicle model before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 2.0 TDI BKD 03G906016AT, 03G 906 016 AT, 03G997016BX, 03G 997 016 BX, BOSCH 0281011453, 0 281 011 453",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-2.0-TDI-BKD-03G906016AT%2C-03G-906-016-AT%2C-03G997016BX%2C-03G-997-016-BX%2C-BOSCH-0281011453%2C-0-281-011-453/30845",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8C2E-3631B_20121005140815",
+    "sku": "8C2E-3631B_20121005140815",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A3 2.0 TDI BKD 03G906016AT, 03G 906 016 AT, 03G997016BX, 03G 997 016 BX, BOSCH 0281011453, 0 281 011 453</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "ENGINE": "2.0 TDI BKD",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 453",
+      "NUMBER PARTS": "03G 997 016 BX",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:52:33.660Z",
+    "model": "mistral:7b",
+    "durationMs": 11428,
+    "priceIncrement": 100
+  }
+}

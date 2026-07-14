@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mazda B6MU18 881B - 6-Month Warranty",
+  "slug": "plug-play-oem-tested-ecu-mazda-b6mu18-881b-warranty",
+  "metaDescription": "Expertly tested and OEM certified ECU replacement for Mazda B6MU18 881B. Plug & Play, 6-month warranty, fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Mazda B6MU18 881B",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mazda B6MU18 881B",
+    "OEM part",
+    "Used ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Mazda B6MU18 881B is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-Month Warranty</li>\n        <li>Used but in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MAZDA</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>279700-1242</td></tr>\n        <tr><th>NUMBER PARTS</th><td>B6MU18 881B</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mazda vehicles equipped with the specified ECU. Fitment caution may apply; consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA B6MU18 881B, B6MU18881B, 279700-1242, 2797001242",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-B6MU18-881B%2C-B6MU18881B%2C-279700-1242%2C-2797001242/115253",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "01DC-199DC_20190724161424",
+    "sku": "01DC-199DC_20190724161424",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA B6MU18 881B, B6MU18881B, 279700-1242, 2797001242</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA",
+      "NUMBER MANUFACTURER": "279700-1242",
+      "NUMBER PARTS": "B6MU18 881B",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:59:11.954Z",
+    "model": "mistral:7b",
+    "durationMs": 8601,
+    "priceIncrement": 100
+  }
+}

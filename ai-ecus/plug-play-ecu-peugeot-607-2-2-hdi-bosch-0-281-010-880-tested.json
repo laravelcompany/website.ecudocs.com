@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - PEUGEOT 607 2.2 HDI BOSCH 0 281 010 880, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-peugeot-607-2-2-hdi-bosch-0-281-010-880-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for PEUGEOT 607 2.2 HDI BOSCH 0 281 010 880, Plug & Play replacement with 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT 607 2.2 HDI BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 607",
+    "BOSCH 0 281 010 880"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your PEUGEOT 607 2.2 HDI BOSCH engine.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed performance</li>\n        <li>6-month warranty</li>\n        <li>Used original in good condition</li>\n        <li>Locked/unlocked options available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>PEUGEOT 607</td></tr>\n        <tr><th>ENGINE:</th><td>2.2 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 880</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>96 455 343 80</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with PEUGEOT 607 2.2 HDI BOSCH engines only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 607 2.2 HDI BOSCH 0 281 010 880, 0281010880, 96 455 343 80, 9645534380, EDC15C2 34",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-607-2.2-HDI-BOSCH-0-281-010-880%2C-0281010880%2C-96-455-343-80%2C-9645534380%2C-EDC15C2-34/42966",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "86FF-78266",
+    "sku": "86FF-78266",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 607 2.2 HDI BOSCH 0 281 010 880, 0281010880, 96 455 343 80, 9645534380, EDC15C2 34</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4821757c123d85a0e40c974e4fdef016_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_fa8df01a3db204a2c9c1f25871be17fe_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 607",
+      "ENGINE": "2.2 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 880",
+      "NUMBER PARTS": "96 455 343 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:25:17.125Z",
+    "model": "mistral:7b",
+    "durationMs": 11514,
+    "priceIncrement": 100
+  }
+}

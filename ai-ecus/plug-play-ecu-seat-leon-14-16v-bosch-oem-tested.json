@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for SEAT Leon 1.4 16V - Bosch 0261207191, Benzin ME7.5.10 4434",
+  "slug": "plug-play-ecu-seat-leon-14-16v-bosch-oem-tested",
+  "metaDescription": "OEM Tested Plug & Play ECU Replacement for SEAT Leon 1.4 16V, covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€70.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for SEAT Leon 1.4 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT Leon",
+    "Bosch",
+    "Benzin ME7.5.10"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for the SEAT Leon 1.4 16V is a reliable solution to improve your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Design for Easy Installation</li>\n        <li>6-Month Warranty</li>\n        <li>Improved Engine Control and Performance</li>\n        <li>Compatible with SEAT Leon 1.4 16V</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SEAT LEON</td></tr>\n        <tr><th>ENGINE:</th><td>1.4 16V</td></tr>\n        <tr><th>YEAR:</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 207 191, 0261207191</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>26SA8532 BENZIN ME7.5.10 4434</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with SEAT Leon 1.4 16V. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT LEON 1.4 16V 036 906 032 H, 036906032H, BOSCH 0 261 207 191, 0261207191, 26SA8532 1184 2098, BENZIN ME7.5.10 4434",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-LEON-1.4-16V-036-906-032-H%2C-036906032H%2C-BOSCH-0-261-207-191%2C-0261207191%2C-26SA8532-1184-2098%2C-BENZIN-ME7.5.10-4434-/12300",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "31CA-4545F",
+    "sku": "31CA-4545F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT LEON 1.4 16V 036 906 032 H, 036906032H, BOSCH 0 261 207 191, 0261207191, 26SA8532 1184 2098, BENZIN ME7.5.10 4434 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT LEON",
+      "ENGINE": "1.4 16V",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 191, 0261207191",
+      "NUMBER PARTS": "26SA8532 BENZIN ME7.5.10 4434",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:04:51.643Z",
+    "model": "mistral:7b",
+    "durationMs": 10068,
+    "priceIncrement": 100
+  }
+}

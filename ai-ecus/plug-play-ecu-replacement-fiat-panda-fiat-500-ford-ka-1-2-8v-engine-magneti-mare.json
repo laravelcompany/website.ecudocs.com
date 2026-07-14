@@ -1,0 +1,56 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Panda, Fiat 500, Ford Ka 1.2 8V Engine - Magneti Marelli IAW 5SF8.M4, BC.0102319.D - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-fiat-panda-fiat-500-ford-ka-1-2-8v-engine-magneti-mare",
+  "metaDescription": "Expertly tested and OEM Magneti Marelli ECU replacement for Fiat Panda, Fiat 500, Ford Ka 1.2 8V Engine. Plug & Play, 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Panda, Fiat 500, Ford Ka",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Panda",
+    "Fiat 500",
+    "Ford Ka",
+    "Magneti Marelli"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Fiat Panda, Fiat 500, Ford Ka 1.2 8V Engine is tested and certified by Magneti Marelli.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Compatible with Locked / Unlocked ECUs</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT PANDA FIAT 500 FORD KA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.2 8V</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1998-2012</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI IAW 5SF8.M4</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>BC.0102319.D</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Fiat Panda, Fiat 500, and Ford Ka models from 1998 to 2012. Please ensure the correct version for your vehicle's engine (1.2 8V) before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PANDA FIAT 500 FORD KA MAGNETI MARELLI IAW 5SF8.M4, IAW5SF8M4, 51903154, BC.0102319.D, BC0102319D",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PANDA-FIAT-500-FORD-KA-MAGNETI-MARELLI-IAW-5SF8.M4%2C-IAW5SF8M4%2C-51903154%2C-BC.0102319.D%2C-BC0102319D/59947",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "7510-71847_20140709102829",
+    "sku": "7510-71847_20140709102829",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PANDA FIAT 500 FORD KA MAGNETI MARELLI IAW 5SF8.M4, IAW5SF8M4, 51903154, BC.0102319.D, BC0102319D</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_280a242246da834bf38786b02449c0ef_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e79c71817c4a854c3c9bd1ba102446ea_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_37f6c7b31d2f19d59b57673f714ccf7b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PANDA FIAT 500 FORD KA",
+      "ENGINE": "1.2 8V",
+      "YEAR": "1998-2012",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 5SF8.M4",
+      "NUMBER PARTS": "BC.0102319.D",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:15:19.398Z",
+    "model": "mistral:7b",
+    "durationMs": 15486,
+    "priceIncrement": 100
+  }
+}

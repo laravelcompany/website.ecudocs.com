@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes B180 2.0 CDI OEM Bosch 0281012953",
+  "slug": "plug-play-ecu-mercedes-b180-2-0-cdi-bosch-0281012953",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Mercedes B180 2.0 CDI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes B180 2.0 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes B180",
+    "Bosch 0281012953"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is a reliable replacement for your Mercedes B180 2.0 CDI.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play compatibility</li>\n<li>OEM Bosch part number: 0281012953</li>\n<li>6-month warranty</li>\n<li>Thoroughly inspected and tested by a certified technician</li>\n<li>Used in good condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MERCEDES B180</td></tr>\n<tr><td>ENGINE</td><td>2.0 CDI</td></tr>\n<tr><td>YEAR</td><td>2005</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0281012953, 0 281 012 953</td></tr>\n<tr><td>NUMBER PARTS</td><td>6401506479</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mercedes B180 2.0 CDI. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES B180 2.0 CDI A6401506479, 6401506479, A 640 150 64 79 BOSCH 0281012953, 0 281 012 953",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-B180-2.0-CDI-A6401506479%2C-6401506479%2C-A-640-150-64-79-BOSCH-0281012953%2C-0-281-012-953/27111",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7DF3-1517F_20120730164443",
+    "sku": "7DF3-1517F_20120730164443",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES B180 2.0 CDI A6401506479, 6401506479, A 640 150 64 79 BOSCH 0281012953, 0 281 012 953</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES B180",
+      "ENGINE": "2.0 CDI",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0281012953, 0 281 012 953",
+      "NUMBER PARTS": "6401506479",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:15:29.554Z",
+    "model": "mistral:7b",
+    "durationMs": 11592,
+    "priceIncrement": 100
+  }
+}

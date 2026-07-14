@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi A6 1.9 TDI - OEM Tested Bosch 0281001808, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-a6-19-tdi-oem-tested-bosch-0281001808",
+  "metaDescription": "Expertly tested and OEM Bosch ECU replacement for Audi A6 1.9 TDI. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A6 1.9 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "1.9 TDI",
+    "Bosch",
+    "0281001808"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for the Audi A6 1.9 TDI is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>OEM Bosch part</li><li>Plug & Play compatibility</li><li>6-month warranty</li><li>Fast dispatch within EU</li><li>Tested and inspected by a certified technician</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>AUDI A6</td></tr><tr><th>ENGINE</th><td>1.9 TDI</td></tr><tr><th>YEAR</th><td>1997</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 808</td></tr><tr><th>NUMBER PARTS</th><td>28SA3537</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A6 1.9 TDI. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 1.9 TDI 038906018DG, 038 906 018 DG, BOSCH 0 281 001 808, 0281001808, MOTORSTEUERUNG 1625, 28SA3537",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-1.9-TDI-038906018DG%2C-038-906-018-DG%2C-BOSCH-0-281-001-808%2C-0281001808%2C-MOTORSTEUERUNG-1625%2C-28SA3537/16211",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E7DE-8788A",
+    "sku": "E7DE-8788A",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 1.9 TDI 038906018DG, 038 906 018 DG, BOSCH 0 281 001 808, 0281001808, MOTORSTEUERUNG 1625, 28SA3537</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 808",
+      "NUMBER PARTS": "28SA3537",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:28:15.889Z",
+    "model": "mistral:7b",
+    "durationMs": 10312,
+    "priceIncrement": 100
+  }
+}

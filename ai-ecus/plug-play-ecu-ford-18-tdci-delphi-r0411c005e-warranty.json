@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Ford 1.8 TDCI Delphi R0411C005E - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-18-tdci-delphi-r0411c005e-warranty",
+  "metaDescription": "Expertly inspected and tested OEM Delphi ECU replacement for Ford 1.8 TDCI, offering Plug & Play installation. 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford 1.8 TDCI Delphi",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford 1.8 TDCI",
+    "Delphi R0411C005E"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford 1.8 TDCI Delphi ensures seamless performance and reliability.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play Installation</li><li>6-month Warranty</li><li>Expert Inspection</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Value</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>FORD</td></tr><tr><td>ENGINE</td><td>1.8 TDCI</td></tr><tr><td>NUMBER MANUFACTURER</td><td>DELPHI 12220530 DWDU</td></tr><tr><td>NUMBER PARTS</td><td>R0411C005E</td></tr><tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr><tr><td>WARRANTY :</td><td>6-month warranty</td></tr><tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 1.8 TDCI DELPHI 12220530 DWDU, 2T1A-12A650-DE, 2T1A12A650DE, R0411C005E",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-1.8-TDCI-DELPHI-12220530-DWDU%2C-2T1A-12A650-DE%2C-2T1A12A650DE%2C-R0411C005E-/89210",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "F386-6050B_20160406153355",
+    "sku": "F386-6050B_20160406153355",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 1.8 TDCI DELPHI 12220530 DWDU, 2T1A-12A650-DE, 2T1A12A650DE, R0411C005E </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "ENGINE": "1.8 TDCI",
+      "NUMBER MANUFACTURER": "DELPHI 12220530 DWDU",
+      "NUMBER PARTS": "R0411C005E",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:48:46.809Z",
+    "model": "mistral:7b",
+    "durationMs": 9707,
+    "priceIncrement": 100
+  }
+}

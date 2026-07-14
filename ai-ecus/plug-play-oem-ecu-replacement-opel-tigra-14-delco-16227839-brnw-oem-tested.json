@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Opel Tigra 1.4 - Delco 16227839 BRNW - OEM Tested, Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-opel-tigra-14-delco-16227839-brnw-oem-tested",
+  "metaDescription": "Buy the tested and reliable Plug & Play ECU Engine Controller for Opel Tigra 1.4 with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€60.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Opel Tigra 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Tigra",
+    "Delco",
+    "16227839"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Replacement for Opel Tigra 1.4 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>OEM Tested</li><li>6-month warranty</li><li>Compatible with Opel Tigra 1.4</li><li>Original Delco part number: 16227839 BRNW</li></ul></section>\n<section class=\"specs\"><table><tbody><tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL:</th><td>OPEL TIGRA</td></tr><tr><th>ENGINE:</th><td>1.4</td></tr><tr><th>NUMBER MANUFACTURER:</th><td>16227839</td></tr><tr><th>NUMBER PARTS:</th><td>BRNW</td></tr><tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION:</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Tigra 1.4 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL TIGRA 1.4 16227839 BRNW",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-TIGRA-1.4-16227839-BRNW/64749",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "9FC9-18287_20140829144502",
+    "sku": "9FC9-18287_20140829144502",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL TIGRA 1.4 16227839 BRNW</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_524e669803e9f7740fe0816634a8da46_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_18841fd043cbc4c2f0397a5c6f28a9f2_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL TIGRA",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "16227839",
+      "NUMBER PARTS": "BRNW",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:18:41.697Z",
+    "model": "mistral:7b",
+    "durationMs": 9916,
+    "priceIncrement": 100
+  }
+}

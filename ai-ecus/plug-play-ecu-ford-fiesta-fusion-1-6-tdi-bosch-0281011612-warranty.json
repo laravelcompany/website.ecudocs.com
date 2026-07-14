@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Fiesta Fusion 1.6 TDI Bosch 0 281 011 612 - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-fiesta-fusion-1-6-tdi-bosch-0281011612-warranty",
+  "metaDescription": "Expertly tested and OEM Bosch ECU Engine Controller for Ford Fiesta Fusion 1.6 TDI, with 6-month warranty and fast shipping.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Fiesta Fusion 1.6 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta Fusion",
+    "Bosch 0 281 011 612"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Ford Fiesta Fusion 1.6 TDI is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play Design</li>\n<li>6-month Warranty</li>\n<li>Fast Shipping within EU</li>\n<li>Used in Good Condition</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FORD FIESTA FUSION</td></tr>\n<tr><th>ENGINE</th><td>1.6 TDI</td></tr>\n<tr><th>YEAR</th><td>2006</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 612</td></tr>\n<tr><th>NUMBER PARTS</th><td>5DSA</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta Fusion 1.6 TDI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA FUSION 1.6 TDI BOSCH 0 281 011 612, 0281011612, FoMoCo 6S61-12A650-VA, 6S6112A650VA, 5DSA",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-FUSION-1.6-TDI-BOSCH-0-281-011-612%2C-0281011612%2C-FoMoCo-6S61-12A650-VA%2C-6S6112A650VA%2C-5DSA/38525",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "092C-2598E_20130729112401",
+    "sku": "092C-2598E_20130729112401",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA FUSION 1.6 TDI BOSCH 0 281 011 612, 0281011612, FoMoCo 6S61-12A650-VA, 6S6112A650VA, 5DSA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA FUSION",
+      "ENGINE": "1.6 TDI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 612",
+      "NUMBER PARTS": "5DSA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:38:32.487Z",
+    "model": "mistral:7b",
+    "durationMs": 10830,
+    "priceIncrement": 100
+  }
+}

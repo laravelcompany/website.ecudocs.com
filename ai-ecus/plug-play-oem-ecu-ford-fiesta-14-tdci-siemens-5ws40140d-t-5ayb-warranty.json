@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford Fiesta 1.4 TDCI - Siemens 5WS40140D-T, 5AYB - Warranty Included",
+  "slug": "plug-play-oem-ecu-ford-fiesta-14-tdci-siemens-5ws40140d-t-5ayb-warranty",
+  "metaDescription": "Buy a tested and reliable Plug & Play ECU Engine Controller for Ford Fiesta 1.4 TDCI by Siemens (5WS40140D-T, 5AYB). Backed by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Ford Fiesta 1.4 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta 1.4 TDCI",
+    "Siemens ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for Ford Fiesta 1.4 TDCI by Siemens (5WS40140D-T, 5AYB) is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FIESTA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4 TDCI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WS40140D-T</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>5AYB</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.4 TDCI SIEMENS 5WS40140D-T, 5WS40140DT, 3S61-12A650-LB, 3S6112A650LB, 5AYB, SID804",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.4-TDCI-SIEMENS-5WS40140D-T%2C-5WS40140DT%2C-3S61-12A650-LB%2C-3S6112A650LB%2C-5AYB%2C-SID804-/98625",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "9675-76264_20161021144744",
+    "sku": "9675-76264_20161021144744",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.4 TDCI SIEMENS 5WS40140D-T, 5WS40140DT,  3S61-12A650-LB, 3S6112A650LB, 5AYB, SID804 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.4 TDCI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40140D-T",
+      "NUMBER PARTS": "5AYB",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:26:33.079Z",
+    "model": "mistral:7b",
+    "durationMs": 13148,
+    "priceIncrement": 100
+  }
+}

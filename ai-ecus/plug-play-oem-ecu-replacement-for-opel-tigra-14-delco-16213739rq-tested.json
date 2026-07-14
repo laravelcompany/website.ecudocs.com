@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Opel Tigra 1.4 - Delco 16213739RQ - Tested & Warranty",
+  "slug": "plug-play-oem-ecu-replacement-for-opel-tigra-14-delco-16213739rq-tested",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Opel Tigra 1.4, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€60.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Opel Tigra 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delco 16213739RQ",
+    "Opel Tigra"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is a reliable replacement for your Opel Tigra 1.4.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play functionality</li>\n<li>OEM quality and fitment</li>\n<li>6-month warranty</li>\n<li>Thoroughly inspected and tested by a certified technician</li>\n<li>Used in good condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>OPEL VAUXHALL HOLDEN TIGRA</td></tr>\n<tr><th>ENGINE</th><td>1.4</td></tr>\n<tr><th>YEAR</th><td>1995</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>16213739 RQ</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with our support team before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL TIGRA 1.4, 16213739RQ, 16213739 RQ",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-TIGRA-1.4%2C-16213739RQ%2C-16213739-RQ-/46425",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "2700-3255D",
+    "sku": "2700-3255D",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL TIGRA 1.4, 16213739RQ, 16213739 RQ </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VAUXHALL HOLDEN TIGRA",
+      "ENGINE": "1.4",
+      "YEAR": "1995",
+      "NUMBER MANUFACTURER": "16213739 RQ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:19:02.767Z",
+    "model": "mistral:7b",
+    "durationMs": 10288,
+    "priceIncrement": 100
+  }
+}

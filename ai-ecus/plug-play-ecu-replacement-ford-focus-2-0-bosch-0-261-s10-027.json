@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Ford Focus 2.0 BOSCH 0 261 S10 027 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-focus-2-0-bosch-0-261-s10-027",
+  "metaDescription": "OEM tested and Plug & Play ECU Replacement for Ford Focus 2.0 BOSCH 0 261 S10 027, backed by a 6-month warranty.",
+  "price": "€485.00",
+  "excerpt": "Plug & Play ECU replacement for Ford Focus 2.0 BOSCH 0 261 S10 027",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "BOSCH 0 261 S10 027"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Ford Focus 2.0 BOSCH 0 261 S10 027 ensures seamless integration and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM tested for reliability</li>\n        <li>6-month warranty</li>\n        <li>Compatible with Ford Focus 2.0</li>\n        <li>BOSCH 0 261 S10 027 part number</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FOCUS</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>YEAR</th><td>2013</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S10 027</td></tr>\n        <tr><th>NUMBER PARTS</th><td>XVAO</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility before purchase. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 2.0 BOSCH 0 261 S10 027, 0261S10027, FoMoCo EM5A-12A650-MA, EM5A12A650MA, BV61-12B684-BA, BV6112B684BA, XVAO",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-2.0-BOSCH-0-261-S10-027%2C-0261S10027%2C-FoMoCo-EM5A-12A650-MA%2C-EM5A12A650MA%2C-BV61-12B684-BA%2C-BV6112B684BA%2C-XVAO-/83698",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2CF1-99729_20151228153416",
+    "sku": "2CF1-99729_20151228153416",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 2.0 BOSCH 0 261 S10 027, 0261S10027, FoMoCo EM5A-12A650-MA, EM5A12A650MA, BV61-12B684-BA, BV6112B684BA, XVAO </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "2.0",
+      "YEAR": "2013",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S10 027",
+      "NUMBER PARTS": "XVAO",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:01:24.406Z",
+    "model": "mistral:7b",
+    "durationMs": 11224,
+    "priceIncrement": 100
+  }
+}

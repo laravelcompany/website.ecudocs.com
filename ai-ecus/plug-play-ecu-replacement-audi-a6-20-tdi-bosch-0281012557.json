@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A6 2.0 TDI Bosch 0 281 012 557, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-audi-a6-20-tdi-bosch-0281012557",
+  "metaDescription": "OEM tested ECU replacement for Audi A6 2.0 TDI, backed by a 6-month warranty. Plug & Play installation.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU replacement for Audi A6 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "2.0 TDI",
+    "Bosch",
+    "0 281 012 557"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Audi A6 2.0 TDI ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM Tested</li><li>Warranty included</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>PARTS</td>\n<td>ECU ENGINE CONTROLLER</td>\n</tr>\n<tr>\n<td>BRAND AND MODEL</td>\n<td>AUDI A6</td>\n</tr>\n<tr>\n<td>ENGINE</td>\n<td>2.0 TDI</td>\n</tr>\n<tr>\n<td>YEAR</td>\n<td>2007</td>\n</tr>\n<tr>\n<td>NUMBER MANUFACTURER</td>\n<td>BOSCH 0 281 012 557</td>\n</tr>\n<tr>\n<td>NUMBER PARTS</td>\n<td>03G 906 016 HS</td>\n</tr>\n<tr>\n<td>OPTION AVAILABLE</td>\n<td>LOCKED / UNLOCKED</td>\n</tr>\n<tr>\n<td>WARRANTY :</td>\n<td>6-month warranty</td>\n</tr>\n<tr>\n<td>INSPECTION:</td>\n<td>Device thoroughly inspected and tested by a certified technician</td>\n</tr>\n<tr>\n<td>CONDITION</td>\n<td>USED IN GOOD CONDITION</td>\n</tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 2.0 TDI BOSCH 0 281 012 557, 0281012557, 03G 906 016 HS, 03G906016HS, EDC16U31",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-2.0-TDI-BOSCH-0-281-012-557%2C-0281012557%2C-03G-906-016-HS%2C-03G906016HS%2C-EDC16U31-/84274",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B079-36580_20160112162230",
+    "sku": "B079-36580_20160112162230",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 2.0 TDI BOSCH 0 281 012 557, 0281012557, 03G 906 016 HS, 03G906016HS, EDC16U31 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 557",
+      "NUMBER PARTS": "03G 906 016 HS",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:29:42.315Z",
+    "model": "mistral:7b",
+    "durationMs": 11750,
+    "priceIncrement": 100
+  }
+}

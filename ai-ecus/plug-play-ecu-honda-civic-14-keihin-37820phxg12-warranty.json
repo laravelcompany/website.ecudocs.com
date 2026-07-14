@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Honda Civic 1.4 - Keihin 37820PHXG12, Warranty Included",
+  "slug": "plug-play-ecu-honda-civic-14-keihin-37820phxg12-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller Honda Civic 1.4 by Keihin, used in good condition with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Honda Civic 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Civic",
+    "Keihin",
+    "37820PHXG12"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Honda Civic 1.4 by Keihin is a reliable replacement part, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>HONDA CIVIC</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>37820-PHX-G12</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1151-210987</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA CIVIC 1.4 37820-PHX-G12, 37820PHXG12, 1151-210987, 1151210987",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-CIVIC-1.4-37820-PHX-G12%2C-37820PHXG12%2C-1151-210987%2C-1151210987/71296",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Keihin",
+    "productCode": "BA37-61153_20150105192023",
+    "sku": "BA37-61153_20150105192023",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA CIVIC 1.4 37820-PHX-G12, 37820PHXG12, 1151-210987, 1151210987</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_0aae6f7f7f13324702ae38d84d0539e5_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7e66dea58e53a7c590858ae4f69d85a0_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA CIVIC",
+      "ENGINE": "1.4",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "37820-PHX-G12",
+      "NUMBER PARTS": "1151-210987",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:18:14.039Z",
+    "model": "mistral:7b",
+    "durationMs": 10780,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Toyota RAV4 VERSO MB275900-1971, Warranty Included",
+  "slug": "plug-play-oem-tested-ecu-replacement-toyota-rav4-verso-mb275900-1971",
+  "metaDescription": "Buy a Plug & Play OEM Tested ECU Engine Controller for Toyota RAV4 VERSO MB275900-1971. This used original part is in good condition, tested and covered by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Toyota RAV4 VERSO",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota RAV4 VERSO",
+    "MB275900-1971"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Engine Controller is a reliable replacement for your Toyota RAV4 VERSO. It has undergone thorough inspection and testing by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used original in good condition</li>\n        <li>Ready for programming if locked</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>TOYOTA RAV 4 VERSO</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>89661-0F132</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>MB275900-1971</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with Toyota RAV4 VERSO models only. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA RAV 4 VERSO 89661-0F132, 896610F132, MB275900-1971, MB2759001971",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-RAV-4-VERSO-89661-0F132%2C-896610F132%2C-MB275900-1971%2C-MB2759001971/116676",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "B2A7-7703D_20191031145921",
+    "sku": "B2A7-7703D_20191031145921",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA RAV 4 VERSO 89661-0F132, 896610F132, MB275900-1971, MB2759001971</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_236048_0_0/TOYOTA-RAV-4-VERSO-89661-0F132%2C-896610F132%2C-MB275900-1971%2C-MB2759001971.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_236049_0_0/TOYOTA-RAV-4-VERSO-89661-0F132%2C-896610F132%2C-MB275900-1971%2C-MB2759001971.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA RAV 4 VERSO",
+      "NUMBER MANUFACTURER": "89661-0F132",
+      "NUMBER PARTS": "MB275900-1971",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:31:21.197Z",
+    "model": "mistral:7b",
+    "durationMs": 12613,
+    "priceIncrement": 100
+  }
+}

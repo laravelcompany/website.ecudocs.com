@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller NISSAN 2.2 DCI - Denso 275800-3263, 23710 BU77A - Warranty Included",
+  "slug": "plug-play-ecu-nissan-2-2-dci-denso-275800-3263-23710-bu77a",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for NISSAN 2.2 DCI by Denso (275800-3263, 23710 BU77A). Used in good condition, 6-month warranty, fast dispatch.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for NISSAN 2.2 DCI by Denso",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan 2.2 DCI",
+    "Denso",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for NISSAN 2.2 DCI by Denso (275800-3263, 23710 BU77A) is a reliable replacement option, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested and certified</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Compatible with NISSAN 2.2 DCI engines</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>NISSAN</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.2 DCI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>Denso 275800-3263</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>23710 BU77A</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with NISSAN 2.2 DCI engines. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN 2.2 DCI Denso 275800-3263, 2758003263, 23710 BU77A, 23710BU77A",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-2.2-DCI-Denso-275800-3263%2C-2758003263%2C-23710-BU77A%2C-23710BU77A-/99680",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "E89F-91393_20161128140701",
+    "sku": "E89F-91393_20161128140701",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  NISSAN 2.2 DCI Denso 275800-3263, 2758003263, 23710 BU77A, 23710BU77A </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN",
+      "ENGINE": "2.2 DCI",
+      "NUMBER MANUFACTURER": "Denso 275800-3263",
+      "NUMBER PARTS": "23710 BU77A",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:09:28.174Z",
+    "model": "mistral:7b",
+    "durationMs": 13437,
+    "priceIncrement": 100
+  }
+}

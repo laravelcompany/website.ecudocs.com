@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OPEL OMEGA B 2.0, Bosch 0 261 203 587, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-omega-b-2-0-bosch-0261203587-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for OPEL OMEGA B 2.0, Bosch 0 261 203 587. OEM tested and covered by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU for OPEL OMEGA B 2.0, Bosch 0 261 203 587",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "OPEL VAUXHALL HOLDEN OPEL OMEGA B",
+    "Bosch 0 261 203 587"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is tested and ready for installation in your OPEL OMEGA B 2.0.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>OEM Tested</li><li>6-month warranty</li><li>Fast dispatch</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>OPEL VAUXHALL HOLDEN OPEL OMEGA B</td></tr>\n    <tr><th>ENGINE</th><td>2.0</td></tr>\n    <tr><th>YEAR</th><td>1999</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 203 587,</td></tr>\n    <tr><th>NUMBER PARTS</th><td>90 492 381 HG</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for OPEL VAUXHALL HOLDEN OPEL OMEGA B 2.0 and may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL OMEGA B 2.0, BOSCH 0 261 203 587, 0261203587, 90 492 381 HG, 90492381 HG",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-OMEGA-B-2.0%2C-BOSCH-0-261-203-587%2C-0261203587%2C-90-492-381-HG%2C-90492381-HG-/49971",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1088-42656",
+    "sku": "1088-42656",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL OMEGA B 2.0, BOSCH 0 261 203 587, 0261203587, 90 492 381 HG, 90492381 HG </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER",
+      "BRAND AND MODEL": "OPEL VAUXHALL HOLDEN OPEL OMEGA B",
+      "ENGINE": "2.0",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 587,",
+      "NUMBER PARTS": "90 492 381 HG",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:14:01.316Z",
+    "model": "mistral:7b",
+    "durationMs": 11701,
+    "priceIncrement": 100
+  }
+}

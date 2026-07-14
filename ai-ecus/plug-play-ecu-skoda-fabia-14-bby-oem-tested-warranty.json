@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - SKODA FABIA 1.4 BBY OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-skoda-fabia-14-bby-oem-tested-warranty",
+  "metaDescription": "Expertly tested and Plug & Play ECU replacement for SKODA FABIA 1.4 BBY, backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested ECU Replacement for SKODA FABIA 1.4 BBY",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA FABIA",
+    "1.4 BBY",
+    "Magneti Marelli"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for SKODA FABIA 1.4 BBY ensures seamless engine control.</section>\n<section class=\"features\"><ul><li>Tested by certified technicians</li><li>6-month warranty</li><li>Plug & Play functionality</li><li>OEM part</li><li>Compatible with SKODA FABIA 1.4 BBY</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Value</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>SKODA FABIA</td></tr><tr><td>ENGINE</td><td>1.4 BBY</td></tr><tr><td>YEAR</td><td>2002</td></tr><tr><td>NUMBER MANUFACTURER</td><td>IAW4MV.FD</td></tr><tr><td>NUMBER PARTS</td><td>BENZIN 4MV 005 4452</td></tr></tbody></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility with your vehicle before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FABIA 1.4 BBY 036906034FD, 036 906 034 FD, 6160068206, 61600.682.06, IAW4MV.FD, IAW4MVFD",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FABIA-1.4-BBY-036906034FD%2C-036-906-034-FD%2C-6160068206%2C-61600.682.06%2C-IAW4MV.FD%2C-IAW4MVFD-/14436",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "1E71-25304",
+    "sku": "1E71-25304",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FABIA 1.4 BBY 036906034FD, 036 906 034 FD, 6160068206, 61600.682.06, IAW4MV.FD, IAW4MVFD </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FABIA",
+      "ENGINE": "1.4 BBY",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "IAW4MV.FD",
+      "NUMBER PARTS": "BENZIN 4MV 005 4452",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:22:52.029Z",
+    "model": "mistral:7b",
+    "durationMs": 8464,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT Ibiza Cordoba 1.4 APE AUA OEM Tested - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-seat-ibiza-cordoba-1-4-ape-aua-oem-tested-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for SEAT Ibiza Cordoba 1.4 APE AUA with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Seat Ibiza Cordoba 1.4 APE AUA",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT Ibiza Cordoba",
+    "1.4 APE AUA",
+    "Magneti Marelli"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for SEAT Ibiza Cordoba 1.4 APE AUA is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SEAT IBIZA CORDOBA</td></tr>\n        <tr><th>ENGINE</th><td>1.4 APE AUA</td></tr>\n        <tr><th>YEAR</th><td>2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>IAW4LV.0</td></tr>\n        <tr><th>NUMBER PARTS</th><td>61600.505.03</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA CORDOBA 1.4 APE AUA 6K0906034, 6K0 906 034, 61600.505.03, IAW4LV0, IAW4LV.0",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-CORDOBA-1.4-APE-AUA-6K0906034%2C-6K0-906-034%2C-61600.505.03%2C-IAW4LV0%2C-IAW4LV.0-/14383",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "DE42-4928F",
+    "sku": "DE42-4928F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA CORDOBA 1.4 APE AUA 6K0906034, 6K0 906 034, 61600.505.03, IAW4LV0, IAW4LV.0 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA CORDOBA",
+      "ENGINE": "1.4 APE AUA",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "IAW4LV.0",
+      "NUMBER PARTS": "61600.505.03",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:59:48.128Z",
+    "model": "mistral:7b",
+    "durationMs": 10389,
+    "priceIncrement": 100
+  }
+}

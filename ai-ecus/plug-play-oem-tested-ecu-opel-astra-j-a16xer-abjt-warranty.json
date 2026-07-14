@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Opel Astra J A16XER ABJT - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-opel-astra-j-a16xer-abjt-warranty",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Opel Astra J A16XER ABJT. OEM tested, 6-month warranty, and fast dispatch.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra J",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra J",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Delco ECU Engine Controller is a tested replacement for your Opel Astra J A16XER ABJT. It offers Plug & Play functionality and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\">...(technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a certified technician if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA J A16XER 12654172 ABJT",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-J-A16XER-12654172-ABJT-/53961",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "1490-37014_20140414182027",
+    "sku": "1490-37014_20140414182027",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  OPEL ASTRA J A16XER 12654172 ABJT </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA J",
+      "YEAR": "2010",
+      "NUMBER PARTS": "ABJT",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:11:23.344Z",
+    "model": "mistral:7b",
+    "durationMs": 5723,
+    "priceIncrement": 100
+  }
+}

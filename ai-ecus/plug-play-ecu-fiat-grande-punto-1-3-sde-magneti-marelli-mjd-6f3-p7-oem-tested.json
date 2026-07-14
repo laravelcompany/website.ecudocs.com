@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT Grande Punto 1.3 SDE Magneti Marelli MJD 6F3.P7 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-fiat-grande-punto-1-3-sde-magneti-marelli-mjd-6f3-p7-oem-tested",
+  "metaDescription": "Buy a tested ECU ENGINE CONTROLLER for FIAT Grande Punto 1.3 SDE by Magneti Marelli, backed by a 6-month warranty and fast shipping.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT Grande Punto 1.3 SDE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Magneti Marelli",
+    "FIAT Grande Punto",
+    "1.3 SDE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER for FIAT Grande Punto 1.3 SDE by Magneti Marelli ensures optimal engine performance and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FIAT GRANDE PUNTO</td></tr>\n        <tr><th>ENGINE:</th><td>1.3 SDE</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>MAGNETI MARELLI MJD 6F3.P7</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>71600.019.06</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with FIAT Grande Punto 1.3 SDE. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT GRANDE PUNTO 1.3 SDE MAGNETI MARELLI MJD 6F3.P7, MJD6F3P7, FGP 51796241, 71600.019.06, 7160001906",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-GRANDE-PUNTO-1.3-SDE-MAGNETI-MARELLI-MJD-6F3.P7%2C-MJD6F3P7%2C-FGP-51796241%2C-71600.019.06%2C-7160001906/16354",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "4A4A-48588",
+    "sku": "4A4A-48588",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT GRANDE PUNTO 1.3 SDE MAGNETI MARELLI MJD 6F3.P7, MJD6F3P7, FGP 51796241, 71600.019.06, 7160001906</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_79c49cf7d89507f9d84293580a94cfa9_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d9fe20c1088e0ece01bee6ef57535ef7_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT GRANDE PUNTO",
+      "ENGINE": "1.3 SDE",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 6F3.P7",
+      "NUMBER PARTS": "71600.019.06",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:54:03.253Z",
+    "model": "mistral:7b",
+    "durationMs": 9509,
+    "priceIncrement": 100
+  }
+}

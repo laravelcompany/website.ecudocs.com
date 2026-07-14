@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Opel Corsa B 1.4, Delco 16264869 AW - 6-month Warranty",
+  "slug": "plug-play-ecu-opel-corsa-b-14-delco-16264869aw-warranty",
+  "metaDescription": "Expertly tested and OEM Delco ECU Engine Controller for Opel Corsa B 1.4, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€40.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Opel Corsa B 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delco 16264869 AW",
+    "Opel Corsa B",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Opel Corsa B 1.4 ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Delco Part</li>\n        <li>Plug & Play Design</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL CORSA B</td></tr>\n        <tr><th>ENGINE:</th><td>1.4</td></tr>\n        <tr><th>YEAR:</th><td>1997-2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>DELCO 16264869 AW</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>CLAL</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Corsa B 1.4. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA B 1.4, DELCO 16264869 AW, 16264869AW, D96006, CDKY, CLAL",
+    "price": "€30.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-B-1.4%2C-DELCO-16264869-AW%2C-16264869AW%2C-D96006%2C-CDKY%2C-CLAL/45724",
+    "priceCurrency": "EUR",
+    "netPrice": "€24.39",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "4BB1-77498",
+    "sku": "4BB1-77498",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA B 1.4, DELCO 16264869 AW, 16264869AW, D96006, CDKY, CLAL</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_1cc8122c906d0827de8454734da11a65_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9d853a6af9ac535e65748986b1d902cc_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA B",
+      "ENGINE": "1.4",
+      "YEAR": "1997-2002",
+      "NUMBER MANUFACTURER": "DELCO 16264869 AW",
+      "NUMBER PARTS": "CLAL",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:53:25.763Z",
+    "model": "mistral:7b",
+    "durationMs": 9800,
+    "priceIncrement": 100
+  }
+}

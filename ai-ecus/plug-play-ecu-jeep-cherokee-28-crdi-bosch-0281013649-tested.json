@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Jeep Cherokee 2.8 CRDI Bosch 0281013649, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-jeep-cherokee-28-crdi-bosch-0281013649-tested",
+  "metaDescription": "Buy this Plug & Play ECU Replacement for Jeep Cherokee 2.8 CRDI Bosch 0281013649, OEM tested and covered by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Jeep Cherokee 2.8 CRDI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Jeep Cherokee",
+    "Bosch",
+    "2.8 CRDI"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Jeep Cherokee 2.8 CRDI Bosch is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>Warranty Included</li>\n<li>Fast Dispatch</li>\n<li>Expertly Installed</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>JEEP CHEROKEE</td></tr>\n<tr><td>ENGINE</td><td>2.8 CRDI</td></tr>\n<tr><td>YEAR</td><td>2009</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 013 649</td></tr>\n<tr><td>NUMBER PARTS</td><td>FM5EB</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Jeep Cherokee 2.8 CRDI Bosch. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JEEP CHEROKEE 2.8 CRDI BOSCH 0281013649, 0 281 013 649, P05187221AB FM5EB",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JEEP-CHEROKEE-2.8-CRDI-BOSCH-0281013649%2C-0-281-013-649%2C-P05187221AB-FM5EB/30326",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C908-6015F_20120930185657",
+    "sku": "C908-6015F_20120930185657",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JEEP CHEROKEE 2.8 CRDI BOSCH 0281013649, 0 281 013 649, P05187221AB FM5EB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JEEP CHEROKEE",
+      "ENGINE": "2.8 CRDI",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 649",
+      "NUMBER PARTS": "FM5EB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:02:49.876Z",
+    "model": "mistral:7b",
+    "durationMs": 11429,
+    "priceIncrement": 100
+  }
+}

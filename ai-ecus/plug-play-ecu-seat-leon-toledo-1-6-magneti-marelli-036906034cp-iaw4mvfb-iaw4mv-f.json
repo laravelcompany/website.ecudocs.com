@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT Leon Toledo 1.6 OEM Tested - Magneti Marelli 036906034CP, IAW4MVFB, IAW4MV.FB",
+  "slug": "plug-play-ecu-seat-leon-toledo-1-6-magneti-marelli-036906034cp-iaw4mvfb-iaw4mv-f",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for SEAT Leon Toledo 1.6 by Magneti Marelli (IAW4MVFB, IAW4MV.FB). 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for SEAT Leon Toledo 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT Leon Toledo",
+    "Magneti Marelli",
+    "IAW4MVFB",
+    "IAW4MV.FB"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for SEAT Leon Toledo 1.6 by Magneti Marelli (IAW4MVFB, IAW4MV.FB) is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SEAT LEON TOLEDO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>IAW4MV.FB</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>61600.635.02</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SEAT Leon Toledo 1.6 (2001). Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT LEON TOLEDO 1.6 036906034CP, IAW4MVFB, IAW4MV.FB",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-LEON-TOLEDO-1.6-036906034CP%2C-IAW4MVFB%2C-IAW4MV.FB/12314",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "EDA1-45458",
+    "sku": "EDA1-45458",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT LEON TOLEDO 1.6 036906034CP, IAW4MVFB, IAW4MV.FB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT LEON TOLEDO",
+      "ENGINE": "1.6",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "IAW4MV.FB",
+      "NUMBER PARTS": "61600.635.02",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:09:56.677Z",
+    "model": "mistral:7b",
+    "durationMs": 11756,
+    "priceIncrement": 100
+  }
+}

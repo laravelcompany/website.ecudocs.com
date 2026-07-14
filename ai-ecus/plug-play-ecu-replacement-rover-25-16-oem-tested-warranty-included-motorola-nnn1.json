@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Rover 25 1.6, OEM Tested, Warranty Included - Motorola NNN100742 0820 HA",
+  "slug": "plug-play-ecu-replacement-rover-25-16-oem-tested-warranty-included-motorola-nnn1",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for Rover 25 1.6, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Rover 25 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 25",
+    "1.6 Engine",
+    "Motorola",
+    "NNN100742",
+    "0820 HA"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Rover 25 1.6 is OEM tested and comes with a warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>ECU Replacement</li>\n        <li>Used Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>ROVER 25</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>YEAR</th><td>1999-2005</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>NNN100742</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0820 HA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 25 1.6, NNN100742, 0820 HA",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-25-1.6%2C-NNN100742%2C-0820-HA-/43699",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "F3FE-355C2",
+    "sku": "F3FE-355C2",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 25 1.6, NNN100742, 0820 HA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 25",
+      "ENGINE": "1.6",
+      "YEAR": "1999-2005",
+      "NUMBER MANUFACTURER": "NNN100742",
+      "NUMBER PARTS": "0820 HA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:30:24.698Z",
+    "model": "mistral:7b",
+    "durationMs": 9648,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Opel Corsa C 1.0 Z10XE BOSCH 0 261 206 072, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-opel-corsa-c-10-z10xe-bosch-0261206072",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Opel Corsa C 1.0 Z10XE BOSCH 0 261 206 072, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€90.00",
+  "excerpt": "OEM tested ECU replacement for Opel Corsa C 1.0 Z10XE BOSCH 0 261 206 072",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Corsa C",
+    "1.0 Z10XE",
+    "BOSCH 0 261 206 072"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for Opel Corsa C 1.0 Z10XE and ensures seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CORSA C</td></tr>\n        <tr><th>ENGINE</th><td>1.0 Z10XE</td></tr>\n        <tr><th>YEAR</th><td>2001-2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 206 072</td></tr>\n        <tr><th>NUMBER PARTS</th><td>GM 09 115 111 BY</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Corsa C 1.0 Z10XE. Fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA C 1.0 Z10XE BOSCH 0 261 206 072, 0261206072, GM 09 115 111 BY, 09115111 BY",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-C-1.0-Z10XE-BOSCH-0-261-206-072%2C-0261206072%2C-GM-09-115-111-BY%2C-09115111-BY/9575",
+    "priceCurrency": "EUR",
+    "netPrice": "€80.00",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9575",
+    "sku": "9575",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA C 1.0 Z10XE BOSCH 0 261 206 072, 0261206072, GM 09 115 111 BY, 09115111 BY</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA C",
+      "ENGINE": "1.0 Z10XE",
+      "YEAR": "2001-2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 072",
+      "NUMBER PARTS": "GM 09 115 111 BY",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:54:23.495Z",
+    "model": "mistral:7b",
+    "durationMs": 10911,
+    "priceIncrement": 100
+  }
+}

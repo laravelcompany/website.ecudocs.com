@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E38 E39 E46 2.8 SIEMENS 5WK9037 DME MS42 7 500 255 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-e38-e39-e46-28-siemens-5wk9037-dme-ms42-7-500-255-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for BMW E38 E39 E46 2.8 SIEMENS 5WK9037 DME MS42 7 500 255, backed by a 6-month warranty and fast dispatch.",
+  "price": "€275.00",
+  "excerpt": "OEM tested ECU replacement for BMW E38 E39 E46 2.8 SIEMENS 5WK9037 DME MS42 7 500 255.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E38 E39 E46",
+    "SIEMENS 5WK9037",
+    "DME MS42"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is suitable for BMW E38 E39 E46 2.8 SIEMENS 5WK9037 DME MS42 7 500 255.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li></ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>BMW 7 728 E38 528 E39 E46</td></tr>\n<tr><td>ENGINE</td><td>2.8</td></tr>\n<tr><td>YEAR</td><td>1998-2001</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>SIEMENS 5WK9037</td></tr>\n<tr><td>NUMBER PARTS</td><td>DME MS42 7 500 255</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E38 E39 E46 2.8 SIEMENS 5WK9037 DME MS42 7 500 255, DME7500255, 7500255",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E38-E39-E46-2.8-SIEMENS-5WK9037-DME-MS42-7-500-255%2C-DME7500255%2C-7500255/16306",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "99B5-8832E",
+    "sku": "99B5-8832E",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E38 E39 E46 2.8 SIEMENS 5WK9037 DME MS42 7 500 255, DME7500255, 7500255</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_abc0c49f1faa895339093020f37c5c87_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b4b4d5d1fe9bfa0f5d30bdac4590a07d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW 7 728 E38 528 E39 E46",
+      "ENGINE": "2.8",
+      "YEAR": "1998-2001",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK9037",
+      "NUMBER PARTS": "DME MS42 7 500 255",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:28:45.261Z",
+    "model": "mistral:7b",
+    "durationMs": 12825,
+    "priceIncrement": 100
+  }
+}

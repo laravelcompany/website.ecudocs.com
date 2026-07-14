@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Opel Combo 1.3 CDTI Magneti Marelli - 71600.062.05, Warranty Included",
+  "slug": "plug-play-ecu-opel-combo-13-cdti-magneti-marelli-7160006205-warranty",
+  "metaDescription": "Expertly tested and OEM Magneti Marelli ECU replacement for Opel Combo 1.3 CDTI. Plug & Play, backed by a 6-month warranty.",
+  "price": "€200.00",
+  "excerpt": "Plug & Play Magneti Marelli ECU for Opel Combo 1.3 CDTI",
+  "tags": [
+    "ECU repair",
+    "Opel Combo",
+    "1.3 CDTI",
+    "Magneti Marelli",
+    "71600.062.05"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Magneti Marelli ECU replacement is specifically designed for Opel Combo 1.3 CDTI engines, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL COMBO</td></tr>\n        <tr><th>ENGINE</th><td>1.3 CDTI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>Magneti Marelli MJD 6JO.C6, MJD6JOC6, MJD6J0C6, FGP 55194018 YU, 55194018YU</td></tr>\n        <tr><th>NUMBER PARTS</th><td>71600.062.05</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel Combo 1.3 CDTI engines only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL COMBO 1.3 CDTI Magneti Marelli MJD 6JO.C6, MJD6JOC6, MJD6J0C6, FGP 55194018 YU, 55194018YU, 71600.062.05, 7160006205",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-COMBO-1.3-CDTI-Magneti-Marelli-MJD-6JO.C6%2C-MJD6JOC6%2C-MJD6J0C6%2C-FGP-55194018-YU%2C-55194018YU%2C-71600.062.05%2C-7160006205-/101284",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "D477-585F3_20161229165841",
+    "sku": "D477-585F3_20161229165841",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL COMBO 1.3 CDTI Magneti Marelli MJD 6JO.C6, MJD6JOC6, MJD6J0C6, FGP 55194018 YU, 55194018YU, 71600.062.05, 7160006205 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL COMBO",
+      "ENGINE": "1.3 CDTI",
+      "NUMBER MANUFACTURER": "Magneti Marelli MJD 6JO.C6",
+      "NUMBER PARTS": "71600.062.05",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:48:51.618Z",
+    "model": "mistral:7b",
+    "durationMs": 10163,
+    "priceIncrement": 100
+  }
+}

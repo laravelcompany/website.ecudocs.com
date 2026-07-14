@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes CLK W208 BOSCH 0 261 200 422, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-clk-w208-bosch-0261200422-oem-tested",
+  "metaDescription": "OEM tested and certified Plug & Play ECU replacement for Mercedes CLK W208, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes CLK W208",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes CLK W208",
+    "Bosch 0 261 200 422"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Mercedes CLK W208 is thoroughly inspected, tested, and certified by a professional technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL:</th><td>MERCEDES CLK W208</td></tr>\n      <tr><th>NUMBER PARTS:</th><td>0261200422</td></tr>\n      <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>CONDITION:</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult a professional technician before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES CLK W208 BOSCH 0 261 200 422, 0261200422",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-CLK-W208-BOSCH-0-261-200-422%2C-0261200422/60026",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "03BC-60058_20140710093325",
+    "sku": "03BC-60058_20140710093325",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES CLK W208 BOSCH 0 261 200 422, 0261200422</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES CLK W208",
+      "NUMBER PARTS": "0261200422",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:40:21.925Z",
+    "model": "mistral:7b",
+    "durationMs": 9406,
+    "priceIncrement": 100
+  }
+}

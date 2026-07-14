@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel - 2.2 16V (Bosch 0 261 203 548, 90 505 778 GA) - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-22-16v-bosch-0261203548-90505778ga-tested",
+  "metaDescription": "Buy the tested ECU ENGINE CONTROLLER OPEL BOSCH 0 261 203 548, 0261203548, 90 505 778 GA, 90505778GA with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU for Opel - OEM Tested",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel ECU",
+    "Bosch ECU",
+    "2.2 16V ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Opel is tested and OEM certified, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM Tested for guaranteed fitment</li>\n        <li>6-month warranty included</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Opel 2.2 16V engine (1996-1999)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL</td></tr>\n        <tr><th>ENGINE</th><td>2.2 16V</td></tr>\n        <tr><th>YEAR</th><td>1996-1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 203 548</td></tr>\n        <tr><th>NUMBER PARTS</th><td>90 505 778 GA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel vehicles only. Fitment caution: Ensure correct part number and vehicle compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL BOSCH 0 261 203 548, 0261203548, 90 505 778 GA, 90505778GA",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-BOSCH-0-261-203-548%2C-0261203548%2C-90-505-778-GA%2C-90505778GA-/67270",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6247-308F9_20141003134513",
+    "sku": "6247-308F9_20141003134513",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL BOSCH 0 261 203 548, 0261203548, 90 505 778 GA, 90505778GA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_81ccd9c4996e52afbf34789c2e673154_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_826b6df96a56998ca43e1b5ef21287dd_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL",
+      "ENGINE": "2.2 16V",
+      "YEAR": "1996-1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 548",
+      "NUMBER PARTS": "90 505 778 GA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:27:29.770Z",
+    "model": "mistral:7b",
+    "durationMs": 10467,
+    "priceIncrement": 100
+  }
+}

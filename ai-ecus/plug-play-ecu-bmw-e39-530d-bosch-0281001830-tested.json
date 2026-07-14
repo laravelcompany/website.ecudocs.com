@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested ECU Replacement - BMW E39 530D Bosch 0281001830, Plug & Play, Warranty",
+  "slug": "plug-play-ecu-bmw-e39-530d-bosch-0281001830-tested",
+  "metaDescription": "OEM Tested ECU Replacement for BMW E39 530D Bosch 0281001830, Plug & Play, 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested ECU Replacement for BMW E39 530D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281001830",
+    "BMW E39 530D"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested ECU Replacement for BMW E39 530D is a reliable solution, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>BMW E39 530D</td></tr>\n            <tr><td>ENGINE</td><td>3.0 DIESEL</td></tr>\n            <tr><td>YEAR</td><td>1999</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 001 830</td></tr>\n            <tr><td>NUMBER PARTS</td><td>7 785 116</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E39 530D BOSCH 0281001830, 0 281 001 830, 7785116, 7 785 116",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E39-530D-BOSCH-0281001830%2C-0-281-001-830%2C-7785116%2C-7-785-116/28390",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B565-253D0_20120826193541",
+    "sku": "B565-253D0_20120826193541",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E39 530D BOSCH 0281001830, 0 281 001 830, 7785116, 7 785 116</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E39 530D",
+      "ENGINE": "3.0 DIESEL",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 830",
+      "NUMBER PARTS": "7 785 116",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:29:31.164Z",
+    "model": "mistral:7b",
+    "durationMs": 10086,
+    "priceIncrement": 100
+  }
+}

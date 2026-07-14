@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford Fiesta 1.4 - Continental 8A61-12B565-AF, 8A6112B565AF, 5WP22365AF",
+  "slug": "plug-play-ecu-ford-fiesta-14-continental-8a61-12b565-af-8a6112b565af-5wp22365af",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Ford Fiesta 1.4 by Continental, with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Ford Fiesta 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Continental",
+    "8A61-12B565-AF"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for Ford Fiesta 1.4 by Continental has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Ford Fiesta 1.4</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>Parts:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>Brand and Model:</th><td>FORD FIESTA</td></tr>\n        <tr><th>Engine:</th><td>1.4</td></tr>\n        <tr><th>Number Manufacturer:</th><td>5WP22365AF</td></tr>\n        <tr><th>Number Parts:</th><td>8A61-12B565-AF</td></tr>\n        <tr><th>Option Available:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>Warranty :</th><td>6-month warranty</td></tr>\n        <tr><th>Inspection:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>Condition:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify fitment before purchase. This ECU is compatible with Ford Fiesta 1.4 only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.4 8A61-12B565-AF, 8A6112B565AF, 5WP22365AF",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.4-8A61-12B565-AF%2C-8A6112B565AF%2C-5WP22365AF/104739",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "D924-32151_20170323143010",
+    "sku": "D924-32151_20170323143010",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.4 8A61-12B565-AF, 8A6112B565AF, 5WP22365AF</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_92fed96d52fa2c630a96773dbf0676ff_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d1922fb116e37e269f41045eb5ce6a0f_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "5WP22365AF",
+      "NUMBER PARTS": "8A61-12B565-AF",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:22:01.587Z",
+    "model": "mistral:7b",
+    "durationMs": 10853,
+    "priceIncrement": 100
+  }
+}

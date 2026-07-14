@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT IBIZA 1.4 TDI BOSCH 0281015033, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-seat-ibiza-14-tdi-bosch-0281015033-tested",
+  "metaDescription": "OEM tested ECU replacement for SEAT IBIZA 1.4 TDI BOSCH 0281015033, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for SEAT IBIZA 1.4 TDI BOSCH 0281015033",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT IBIZA",
+    "1.4 TDI",
+    "BOSCH 0281015033"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for SEAT IBIZA 1.4 TDI BOSCH 0281015033 ensures seamless engine control.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specifications</th><th>Details</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>SEAT IBIZA</td></tr>\n<tr><td>ENGINE</td><td>1.4 TDI</td></tr>\n<tr><td>YEAR</td><td>2008</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 015 033</td></tr>\n<tr><td>NUMBER PARTS</td><td>1039S24200</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle's condition and history. Professional installation recommended.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA 1.4 TDI BOSCH 0281015033, 0 281 015 033, 045906013T, 045906013E, 045 906 013 T E",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-1.4-TDI-BOSCH-0281015033%2C-0-281-015-033%2C-045906013T%2C-045906013E%2C-045-906-013-T-E-/34299",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C77A-26044_20121217090719",
+    "sku": "C77A-26044_20121217090719",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA 1.4 TDI BOSCH 0281015033, 0 281 015 033, 045906013T, 045906013E, 045 906 013 T E </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.4 TDI",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 033",
+      "NUMBER PARTS": "1039S24200",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:55:33.896Z",
+    "model": "mistral:7b",
+    "durationMs": 10080,
+    "priceIncrement": 100
+  }
+}

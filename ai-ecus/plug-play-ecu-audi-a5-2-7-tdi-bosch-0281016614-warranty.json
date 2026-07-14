@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A5 2.7 TDI Bosch 0281016614, Warranty Included",
+  "slug": "plug-play-ecu-audi-a5-2-7-tdi-bosch-0281016614-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Audi A5 2.7 TDI (Bosch 0281016614) with a 6-month warranty. Fast dispatch and EU shipping.",
+  "price": "€800.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A5 2.7 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A5",
+    "2.7 TDI",
+    "Bosch",
+    "0281016614"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Audi A5 2.7 TDI (Bosch 0281016614) is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Locked / Ready for programming</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A5</td></tr>\n        <tr><th>ENGINE</th><td>2.7 TDI</td></tr>\n        <tr><th>YEAR</th><td>2010</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 016 614</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DIESEL EDC17CP14 CGKB</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A5 2.7 TDI 8K1907401L, 8K1 907 401 L, BOSCH 0281016614, 0 281 016 614, DIESEL EDC17CP14 CGKB 1039S38071",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A5-2.7-TDI-8K1907401L%2C-8K1-907-401-L%2C-BOSCH-0281016614%2C-0-281-016-614%2C-DIESEL-EDC17CP14-CGKB-1039S38071-/17031",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6F1B-61257",
+    "sku": "6F1B-61257",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A5 2.7 TDI 8K1907401L, 8K1 907 401 L, BOSCH 0281016614, 0 281 016 614, DIESEL EDC17CP14 CGKB 1039S38071 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A5",
+      "ENGINE": "2.7 TDI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 614",
+      "NUMBER PARTS": "DIESEL EDC17CP14 CGKB",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:25:57.960Z",
+    "model": "mistral:7b",
+    "durationMs": 10149,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Mondeo 2.5 V6 URAL, 6-month Warranty",
+  "slug": "plug-play-ecu-ford-mondeo-25-v6-ural-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford Mondeo 2.5 V6 URAL with 6-month warranty, fast dispatch and EU shipping.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.5 V6 URAL",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.5 V6",
+    "URAL",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Ford Mondeo 2.5 V6 URAL ensures seamless engine control.</section>\n<section class=\"features\"><ul><li>Original part in good condition</li><li>6-month warranty</li><li>Fast dispatch within EU</li><li>OEM tested</li><li>Plug & Play installation</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>2.5 V6</td></tr>\n        <tr><th>NUMBER PARTS</th><td>URAL</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.5 V6 95BB-12A650-MB, 95BB12A650MB, URAL",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.5-V6-95BB-12A650-MB%2C-95BB12A650MB%2C-URAL-/58145",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "C080-86268_20140609155805",
+    "sku": "C080-86268_20140609155805",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  FORD MONDEO 2.5 V6 95BB-12A650-MB, 95BB12A650MB, URAL </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.5 V6",
+      "NUMBER PARTS": "URAL",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:00:27.518Z",
+    "model": "mistral:7b",
+    "durationMs": 8050,
+    "priceIncrement": 100
+  }
+}

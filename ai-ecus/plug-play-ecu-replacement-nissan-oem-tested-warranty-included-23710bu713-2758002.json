@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for Nissan - OEM Tested, Warranty Included - 23710BU713, 2758002364",
+  "slug": "plug-play-ecu-replacement-nissan-oem-tested-warranty-included-23710bu713-2758002",
+  "metaDescription": "Expertly tested ECU Engine Controller for Nissan, offering Plug & Play convenience and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan - OEM Tested, Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan",
+    "23710BU713",
+    "2758002364"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller for Nissan is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play convenience</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>23710BU713</td></tr>\n        <tr><th>NUMBER PARTS</th><td>2758002364</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN 23710BU713, 23710-BU713 W1, 5800-236, 2758002364, 275800-2364",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-23710BU713%2C-23710-BU713-W1%2C-5800-236%2C-2758002364%2C-275800-2364/28342",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "E58A-14814_20120824201400",
+    "sku": "E58A-14814_20120824201400",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN 23710BU713, 23710-BU713 W1, 5800-236, 2758002364, 275800-2364</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN",
+      "NUMBER MANUFACTURER": "23710BU713",
+      "NUMBER PARTS": "2758002364",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:01:05.893Z",
+    "model": "mistral:7b",
+    "durationMs": 10280,
+    "priceIncrement": 100
+  }
+}

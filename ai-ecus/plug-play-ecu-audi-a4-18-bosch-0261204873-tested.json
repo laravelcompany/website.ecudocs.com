@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A4 1.8 BOSCH 0 261 204 873 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-18-bosch-0261204873-tested",
+  "metaDescription": "OEM tested ECU replacement for Audi A4 1.8 BOSCH 0 261 204 873, offering Plug & Play functionality and a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM tested ECU replacement for Audi A4 1.8 BOSCH 0 261 204 873",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Bosch",
+    "0 261 204 873"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Audi A4 1.8 BOSCH 0 261 204 873 is a reliable solution to restore optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>AUDI A4</td></tr>\n        <tr><th>ENGINE:</th><td>1.8</td></tr>\n        <tr><th>YEAR:</th><td>1998</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>8D0 906 018 D</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific fault codes. Always consult a professional technician for proper installation and programming.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 1.8 BOSCH 0 261 204 873, 0261204873, 8D0 906 018 D, 8D0906018D",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-1.8-BOSCH-0-261-204-873%2C-0261204873%2C-8D0-906-018-D%2C-8D0906018D/52491",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "433A-63238_20140311093213",
+    "sku": "433A-63238_20140311093213",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 1.8 BOSCH 0 261 204 873, 0261204873, 8D0 906 018 D, 8D0906018D</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "1.8",
+      "YEAR": "1998",
+      "NUMBER PARTS": "8D0906018D",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:58:11.715Z",
+    "model": "mistral:7b",
+    "durationMs": 10917,
+    "priceIncrement": 100
+  }
+}

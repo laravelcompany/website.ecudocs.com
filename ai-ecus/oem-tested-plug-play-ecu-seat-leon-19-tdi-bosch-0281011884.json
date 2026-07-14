@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for SEAT Leon 1.9 TDI - Bosch 0 281 011 884",
+  "slug": "oem-tested-plug-play-ecu-seat-leon-19-tdi-bosch-0281011884",
+  "metaDescription": "Expertly tested and OEM Bosch ECU replacement for SEAT Leon 1.9 TDI. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for SEAT Leon 1.9 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT Leon",
+    "Bosch",
+    "1.9 TDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for SEAT Leon 1.9 TDI ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Bosch Part</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Expertly Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SEAT LEON</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 TDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 011 884</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1039S11324</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SEAT Leon 1.9 TDI (2005). Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT LEON 1.9 TDI 03G 906 016 AK, 03G906016AK, BOSCH 0 281 011 884, 0281011884",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-LEON-1.9-TDI-03G-906-016-AK%2C-03G906016AK%2C-BOSCH-0-281-011-884%2C-0281011884-/12244",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C857-643FE",
+    "sku": "C857-643FE",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT LEON 1.9 TDI 03G 906 016 AK, 03G906016AK, BOSCH 0 281 011 884, 0281011884 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT LEON",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 884",
+      "NUMBER PARTS": "1039S11324",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:06:45.716Z",
+    "model": "mistral:7b",
+    "durationMs": 12823,
+    "priceIncrement": 100
+  }
+}

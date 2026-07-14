@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for PEUGEOT 206 1.4 - Sagem 21645547-7, 9641815780, 9637706180-03, S2000-23 - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-peugeot-206-14-sagem-21645547-7-9641815780-9637706180-0",
+  "metaDescription": "OEM Tested Plug & Play ECU Replacement for PEUGEOT 206 1.4 - 6-month Warranty, Shipping within 24–48 hours.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested Plug & Play ECU for PEUGEOT 206 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Sagem",
+    "PEUGEOT 206",
+    "1.4"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for PEUGEOT 206 1.4 is a reliable solution to restore your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with Sagem 21645547-7, 9641815780, 9637706180-03, S2000-23</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 206</td></tr>\n        <tr><th>ENGINE</th><td>1.4 8V</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>21645547-7</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HOM: S2000-23</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with PEUGEOT 206 1.4, but fitment caution may apply. Consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 206 1.4 21645547-7, 9641815780, 9637706180-03, S2000-23,",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-206-1.4-21645547-7%2C-9641815780%2C-9637706180-03%2C-S2000-23%2C-/12968",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Sagem",
+    "productCode": "0C13-369DF",
+    "sku": "0C13-369DF",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 206 1.4 21645547-7, 9641815780, 9637706180-03, S2000-23, </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_6cfaf9a4304dc573b9871901e387f0c8_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_194a50bb2de7c195d151a20e32f80938_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 206",
+      "ENGINE": "1.4 8V",
+      "NUMBER MANUFACTURER": "21645547-7",
+      "NUMBER PARTS": "HOM: S2000-23",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:40:02.904Z",
+    "model": "mistral:7b",
+    "durationMs": 11081,
+    "priceIncrement": 100
+  }
+}

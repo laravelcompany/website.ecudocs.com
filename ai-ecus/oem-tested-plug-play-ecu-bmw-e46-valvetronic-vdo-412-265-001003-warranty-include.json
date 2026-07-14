@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - BMW E46 Valvetronic VDO 412 265 001/003, Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-bmw-e46-valvetronic-vdo-412-265-001003-warranty-include",
+  "metaDescription": "OEM Tested Plug & Play ECU Replacement for BMW E46 Valvetronic VDO 412 265 001/003. Shipped within 24–48 hours with 6-month warranty.",
+  "price": "€137.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for BMW E46 Valvetronic VDO 412 265 001/003",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E46",
+    "Valvetronic",
+    "VDO"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for BMW E46 Valvetronic VDO 412 265 001/003 ensures seamless engine control and performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Expertly Inspected and Tested</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER VALVETRONIC</td></tr><tr><th>BRAND AND MODEL:</th><td>BMW E46</td></tr><tr><th>YEAR:</th><td>2003</td></tr><tr><th>NUMBER MANUFACTURER:</th><td>VDO 412 265 001/003</td></tr><tr><th>NUMBER PARTS:</th><td>7 516 207</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipped within 24–48 hours with EU delivery. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with BMW E46 Valvetronic engine only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VALVETRONIC BMW E46 VDO 412 265 001/003, 412265001, 412265001003, 7 532 949, 7532949, 7 507 493, 7507493, 7 516 207, 7516207",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VALVETRONIC-BMW-E46-VDO-412-265-001003%2C-412265001%2C-412265001003%2C-7-532-949%2C-7532949%2C-7-507-493%2C-7507493%2C-7-516-207%2C-7516207-/76699",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "VDO",
+    "productCode": "2700-79536_20150714135557",
+    "sku": "2700-79536_20150714135557",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER VALVETRONIC BMW E46 VDO 412 265 001/003, 412265001, 412265001003, 7 532 949, 7532949, 7 507 493, 7507493, 7 516 207, 7516207 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER VALVETRONIC",
+      "BRAND AND MODEL": "BMW E46",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "VDO 412 265 001/003",
+      "NUMBER PARTS": "7 516 207",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:44:22.296Z",
+    "model": "mistral:7b",
+    "durationMs": 9944,
+    "priceIncrement": 100
+  }
+}

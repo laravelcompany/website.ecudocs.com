@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Opel Astra Vectra Zafira 2.0 DTL - Bosch 0 281 001 675, GM 90 562 575 LM - Warranty Included",
+  "slug": "plug-play-ecu-opel-astra-vectra-zafira-2-0-dtl-bosch-0-281-001-675-gm-90-562-575",
+  "metaDescription": "OEM Tested Plug & Play ECU Replacement for Opel Astra Vectra Zafira 2.0 DTL - Bosch 0 281 001 675, GM 90 562 575 LM. 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Opel Astra Vectra Zafira 2.0 DTL",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra Vectra Zafira",
+    "Bosch",
+    "2.0 DTL",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is specifically designed for Opel Astra Vectra Zafira 2.0 DTL models. The unit has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Thoroughly Inspected and Tested</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>OPEL ASTRA VECTRA ZAFIRA</td></tr><tr><th>ENGINE</th><td>2.0 DTL</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 675</td></tr><tr><th>NUMBER PARTS</th><td>GM 90 562 575 LM</td></tr><tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED / COMPLETE</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Opel Astra Vectra Zafira 2.0 DTL models only. Fitment caution may apply, please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA VECTRA ZAFIRA 2.0 DTL BOSCH 0 281 001 675, 0281001675, GM 90 562 575 LM, 90562575LM, 90562575",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-VECTRA-ZAFIRA-2.0-DTL-BOSCH-0-281-001-675%2C-0281001675%2C-GM-90-562-575-LM%2C-90562575LM%2C-90562575-/101212",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9938-767C9_20161228202800",
+    "sku": "9938-767C9_20161228202800",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA VECTRA ZAFIRA 2.0 DTL BOSCH 0 281 001 675, 0281001675, GM 90 562 575 LM, 90562575LM, 90562575 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8f85a1d7fb2788fdaba233775a025a09_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ad084b96b906e33da951bb95b7b34d4c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ab75ceff18b9e42b3b09d69130398e60_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA VECTRA ZAFIRA",
+      "ENGINE": "2.0 DTL",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 675",
+      "NUMBER PARTS": "GM 90 562 575 LM",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:18:03.089Z",
+    "model": "mistral:7b",
+    "durationMs": 12038,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Brava Bravo 1.6 OEM IAW49F.B9, Tested & Warranty Included",
+  "slug": "plug-play-ecu-fiat-brava-bravo-1-6-iaw49fb9-tested",
+  "metaDescription": "Expertly tested ECU Engine Controller for Fiat Brava Bravo 1.6, offering Plug & Play convenience and backed by a 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Brava Bravo 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Brava Bravo",
+    "IAW49F.B9"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller is a reliable replacement for your Fiat Brava Bravo 1.6, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play convenience</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Compatible with Fiat Brava Bravo 1.6</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT BRAVA BRAVO</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>YEAR</th><td>1998-2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>IAW 49F.B9</td></tr>\n        <tr><th>NUMBER PARTS</th><td>IAW 49F.B9/HW002/4565-DCO</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Fiat Brava Bravo 1.6 (1998-2001). Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT BRAVA BRAVO 1.6 46744739 61600.438.01 F 6160043801 IAW49F.B9, IAW49FB9, IAW 49F.B9/HW002/4565-DCO",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-BRAVA-BRAVO-1.6-46744739-61600.438.01-F-6160043801-IAW49F.B9%2C-IAW49FB9%2C-IAW-49F.B9HW0024565-DCO-/17056",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "C641-2551A",
+    "sku": "C641-2551A",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT BRAVA BRAVO 1.6 46744739 61600.438.01 F 6160043801 IAW49F.B9, IAW49FB9, IAW 49F.B9/HW002/4565-DCO </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT BRAVA BRAVO",
+      "ENGINE": "1.6",
+      "YEAR": "1998-2001",
+      "NUMBER MANUFACTURER": "IAW 49F.B9",
+      "NUMBER PARTS": "IAW 49F.B9/HW002/4565-DCO",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:23:11.874Z",
+    "model": "mistral:7b",
+    "durationMs": 10986,
+    "priceIncrement": 100
+  }
+}

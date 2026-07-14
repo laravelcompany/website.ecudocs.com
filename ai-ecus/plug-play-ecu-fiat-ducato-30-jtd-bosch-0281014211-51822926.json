@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Fiat Ducato 3.0 JTD OEM Tested Bosch 0281014211 51822926",
+  "slug": "plug-play-ecu-fiat-ducato-30-jtd-bosch-0281014211-51822926",
+  "metaDescription": "Buy OEM tested, Plug & Play ECU Engine Controller for Fiat Ducato 3.0 JTD by Bosch. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Ducato 3.0 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Ducato",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Fiat Ducato 3.0 JTD is a reliable replacement by Bosch, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Tested and certified by a professional technician</li>\n<li>6-month warranty</li>\n<li>Plug & Play functionality for easy installation</li>\n<li>Original part in good condition</li>\n<li>Compatible with Fiat Ducato 3.0 JTD engine</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specifications</th><th>Details</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT DUCATO</td></tr>\n<tr><td>ENGINE</td><td>3.0 JTD</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>0281014211</td></tr>\n<tr><td>NUMBER PARTS</td><td>51822926</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty included.</section>\n<section class=\"compatibility\">This ECU is compatible with Fiat Ducato 3.0 JTD engine only. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT DUCATO 3.0 JTD BOSCH 0281014211 51822926",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-DUCATO-3.0-JTD-BOSCH-0281014211-51822926/144717",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "FIAT",
+    "brand": "Bosch",
+    "productCode": "258B-337D8",
+    "sku": "258B-337D8",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT DUCATO 3.0 JTD BOSCH 0281014211 51822926</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_305574_0_0/FIAT-DUCATO-3.0-JTD-BOSCH-0281014211-51822926-ECU-ENGINE-CONTROLLER.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_305575_0_0/FIAT-DUCATO-3.0-JTD-BOSCH-0281014211-51822926-ECU-ENGINE-CONTROLLER.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT DUCATO",
+      "ENGINE": "3.0 JTD",
+      "NUMBER MANUFACTURER": "0281014211",
+      "NUMBER PARTS": "51822926",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:46:05.795Z",
+    "model": "mistral:7b",
+    "durationMs": 11287,
+    "priceIncrement": 100
+  }
+}

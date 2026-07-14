@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - SKODA OCTAVIA 2.0 TDI BOSCH 0281011953",
+  "slug": "plug-play-ecu-skoda-octavia-2-0-tdi-bosch-0281011953",
+  "metaDescription": "OEM Tested ECU Replacement for SKODA OCTAVIA 2.0 TDI BOSCH 0281011953, offering fast dispatch and 12-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested ECU Replacement for SKODA OCTAVIA 2.0 TDI BOSCH 0281011953",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA OCTAVIA",
+    "2.0 TDI",
+    "BOSCH 0281011953"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested ECU Replacement for SKODA OCTAVIA 2.0 TDI BOSCH 0281011953 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr>\n        <th>PARTS</th>\n        <th>BRAND AND MODEL</th>\n        <th>ENGINE</th>\n        <th>YEAR</th>\n        <th>NUMBER MANUFACTURER</th>\n        <th>NUMBER PARTS</th>\n        <th>OPTION AVAILABLE</th>\n        <th>INSPECTION:</th>\n        <th>WARRANTY :</th>\n        <th>CONDITION</th>\n      </tr>\n      <tr>\n        <td>ECU ENGINE CONTROLLER</td>\n        <td>SKODA OCTAVIA</td>\n        <td>2.0 TDI</td>\n        <td>2012</td>\n        <td>BOSCH 0 281 011 953</td>\n        <td>1039S08150</td>\n        <td>Plug & Play / Locked / Ready for programming</td>\n        <td>Device thoroughly inspected and tested by a certified technician</td>\n        <td>6-month warranty</td>\n        <td>USED IN GOOD CONDITION</td>\n      </tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 2.0 TDI 03G906016DS, 03G 906 016 DS, BOSCH 0281011953, 0 281 011 953, DIESEL EDC16U1 7000 1039S08150",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-2.0-TDI-03G906016DS%2C-03G-906-016-DS%2C-BOSCH-0281011953%2C-0-281-011-953%2C-DIESEL-EDC16U1-7000-1039S08150/26962",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FDB1-34944_20120726194018",
+    "sku": "FDB1-34944_20120726194018",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 2.0 TDI 03G906016DS, 03G 906 016 DS, BOSCH 0281011953, 0 281 011 953, DIESEL EDC16U1 7000 1039S08150</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "2012",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 953",
+      "NUMBER PARTS": "1039S08150",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:38:59.876Z",
+    "model": "mistral:7b",
+    "durationMs": 10903,
+    "priceIncrement": 100
+  }
+}

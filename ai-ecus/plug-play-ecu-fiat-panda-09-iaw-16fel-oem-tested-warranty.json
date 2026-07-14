@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Panda 0.9 IAW 16F.EL OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-fiat-panda-09-iaw-16fel-oem-tested-warranty",
+  "metaDescription": "Expertly tested and guaranteed ECU Engine Controller for Fiat Panda 0.9 IAW 16F.EL/6A35-37, featuring Plug & Play installation and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Panda 0.9 IAW 16F.EL",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Panda",
+    "IAW 16F.EL",
+    "Magneti Marelli"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for Fiat Panda 0.9 IAW 16F.EL is a reliable solution to ensure optimal vehicle performance.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM quality</li><li>6-month warranty</li><li>Thoroughly inspected and tested by certified technicians</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>FIAT PANDA</td></tr><tr><th>ENGINE</th><td>0.9</td></tr><tr><th>NUMBER MANUFACTURER</th><td>IAW 16F. EL</td></tr><tr><th>NUMBER PARTS</th><td>IAW 16F.EL/6A35-37</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and history. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PANDA 0.9 IAW 16F. EL IAW16FEL 46524182 61602.104.00 6160210400 IAW 16F.EL/6A35-37",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PANDA-0.9-IAW-16F.-EL-IAW16FEL-46524182-61602.104.00-6160210400-IAW-16F.EL6A35-37/140144",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "FIAT",
+    "brand": "Magneti Marelli",
+    "productCode": "9D3F-211E0_20240617125429",
+    "sku": "9D3F-211E0_20240617125429",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PANDA 0.9 IAW 16F. EL IAW16FEL 46524182 61602.104.00 6160210400 IAW 16F.EL/6A35-37</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PANDA",
+      "ENGINE": "0.9",
+      "NUMBER MANUFACTURER": "IAW 16F. EL",
+      "NUMBER PARTS": "IAW 16F.EL/6A35-37",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:09:13.010Z",
+    "model": "mistral:7b",
+    "durationMs": 9955,
+    "priceIncrement": 100
+  }
+}

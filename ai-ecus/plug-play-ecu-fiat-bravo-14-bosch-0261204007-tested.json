@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Bravo 1.4 12v Bosch 0 261 204 007, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-bravo-14-bosch-0261204007-tested",
+  "metaDescription": "OEM tested ECU replacement for Fiat Bravo 1.4 12v, Plug & Play, 6-month warranty. Fast dispatch within EU.",
+  "price": "€109.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Bravo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Bravo",
+    "Bosch ECU",
+    "1.4 12v"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Fiat Bravo 1.4 12v is a reliable solution to keep your engine running smoothly.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used, Original in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT BRAVO</td></tr>\n<tr><td>ENGINE</td><td>1,4 12v</td></tr>\n<tr><td>YEAR</td><td>1995-2001</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 204 007</td></tr>\n<tr><td>NUMBER PARTS</td><td>00464544820</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Bravo 1.4 12v. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT BRAVO BOSCH 0 261 204 007, 0261204007, 0 046 454 482 0, 00464544820",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-BRAVO-BOSCH-0-261-204-007%2C-0261204007%2C-0-046-454-482-0%2C-00464544820/64124",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A87D-9586C_20140825171531",
+    "sku": "A87D-9586C_20140825171531",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT BRAVO BOSCH 0 261 204 007, 0261204007, 0 046 454 482 0, 00464544820</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT BRAVO",
+      "ENGINE": "1,4 12v",
+      "YEAR": "1995-2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 007",
+      "NUMBER PARTS": "00464544820",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:26:34.456Z",
+    "model": "mistral:7b",
+    "durationMs": 9576,
+    "priceIncrement": 100
+  }
+}

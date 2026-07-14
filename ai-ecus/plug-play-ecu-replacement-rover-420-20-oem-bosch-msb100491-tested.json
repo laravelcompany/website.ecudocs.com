@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Rover 420 2.0, OEM Bosch MSB100491, Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-rover-420-20-oem-bosch-msb100491-tested",
+  "metaDescription": "Find your OEM ECU Engine Controller for Rover 420 2.0, BOSCH 0 281 001 418, MSB100491. Plug & Play, tested and covered by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU replacement for Rover 420 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 420",
+    "Bosch MSB100491"
+  ],
+  "description": "<section class=\"overview\">This OEM Bosch ECU Engine Controller is a tested and reliable replacement for your Rover 420 2.0.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>ECU Replacement</li>\n<li>Used Original in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>ROVER 420</td></tr>\n<tr><th>ENGINE</th><td>2.0</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 418</td></tr>\n<tr><th>NUMBER PARTS</th><td>MSB100491</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on your vehicle's specifications. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 420 2.0, BOSCH 0 281 001 418, 0281001418, MSB100491",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-420-2.0%2C-BOSCH-0-281-001-418%2C-0281001418%2C-MSB100491-/44570",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D8FE-2254A",
+    "sku": "D8FE-2254A",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 420 2.0, BOSCH 0 281 001 418, 0281001418, MSB100491 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 420",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 418",
+      "NUMBER PARTS": "MSB100491",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:32:15.392Z",
+    "model": "mistral:7b",
+    "durationMs": 8701,
+    "priceIncrement": 100
+  }
+}

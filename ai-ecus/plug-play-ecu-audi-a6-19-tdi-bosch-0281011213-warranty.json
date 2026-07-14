@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Audi A6 1.9 TDI - Bosch 0281011213, DIESEL EDC15P+ 5646 - Warranty Included",
+  "slug": "plug-play-ecu-audi-a6-19-tdi-bosch-0281011213-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for Audi A6 1.9 TDI, backed by a 6-month warranty. Order now for fast EU dispatch.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested ECU Replacement for Audi A6 1.9 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "1.9 TDI",
+    "Bosch",
+    "0281011213"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Audi A6 1.9 TDI is a reliable solution, ensuring seamless engine control.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play Installation</li>\n<li>6-Month Warranty</li>\n<li>Fast EU Dispatch</li>\n<li>Reliable Engine Control</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>AUDI A6</td></tr>\n<tr><td>ENGINE</td><td>1.9 TDI</td></tr>\n<tr><td>YEAR</td><td>2004</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 011 213</td></tr>\n<tr><td>NUMBER PARTS</td><td>DIESEL EDC15P+ 5646</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Locked / Ready for programming</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Audi A6 1.9 TDI (2004). Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 1.9 TDI 038906019LM, 038 906 019 LM, BOSCH 0 281 011 213, 0281011213, DIESEL EDC15P+ 5646, 1039S04448",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-1.9-TDI-038906019LM%2C-038-906-019-LM%2C-BOSCH-0-281-011-213%2C-0281011213%2C-DIESEL-EDC15P-5646%2C-1039S04448-/16258",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "957C-270B5",
+    "sku": "957C-270B5",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 1.9 TDI 038906019LM, 038 906 019 LM, BOSCH 0 281 011 213, 0281011213, DIESEL EDC15P+ 5646, 1039S04448 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 213",
+      "NUMBER PARTS": "DIESEL EDC15P+ 5646",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:28:28.484Z",
+    "model": "mistral:7b",
+    "durationMs": 11594,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Toyota Daihatsu Feroza-Denso 175700-2840, Warranty Included",
+  "slug": "plug-play-ecu-toyota-daihatsu-feroza-denso-175700-2840-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Toyota Daihatsu Feroza-Denso 175700-2840, backed by a 6-month warranty. Fast dispatch and EU shipping.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Toyota Daihatsu Feroza-Denso 175700-2840",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "Toyota Daihatsu Feroza",
+    "Denso 175700-2840"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Toyota Daihatsu Feroza is a reliable replacement part, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>TOYOTA DAIHATSU FEROZA</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DENSO 175700-2840</td></tr>\n        <tr><th>NUMBER PARTS</th><td>ISUZU 89661-87604</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Toyota Daihatsu Feroza. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA DAIHATSU FEROZA DENSO 175700-2840, 1757002840, ISUZU 89661-87604, 8966187604",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-DAIHATSU-FEROZA-DENSO-175700-2840%2C-1757002840%2C-ISUZU-89661-87604%2C-8966187604-/83041",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "1391-961A9_20151203161646",
+    "sku": "1391-961A9_20151203161646",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  TOYOTA DAIHATSU FEROZA DENSO 175700-2840, 1757002840, ISUZU 89661-87604, 8966187604 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4424e30d2afa7d03206bcdabb3052b95_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_bd79b8ccf4ba2c77553b2f6928c43f2f_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA DAIHATSU FEROZA",
+      "NUMBER MANUFACTURER": "DENSO 175700-2840",
+      "NUMBER PARTS": "ISUZU 89661-87604",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:22:26.321Z",
+    "model": "mistral:7b",
+    "durationMs": 10674,
+    "priceIncrement": 100
+  }
+}

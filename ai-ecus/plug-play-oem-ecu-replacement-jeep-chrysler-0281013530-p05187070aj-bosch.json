@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM ECU Replacement - Jeep Chrysler 0281013530 P05187070AJ - Bosch",
+  "slug": "plug-play-oem-ecu-replacement-jeep-chrysler-0281013530-p05187070aj-bosch",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Jeep Chrysler, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€800.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Jeep Chrysler",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Jeep Chrysler",
+    "OEM part numbers",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Replacement for Jeep Chrysler is tested and certified, ensuring seamless integration with your vehicle's engine system.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM Tested and Certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>JEEP CHRYSLER</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>0281013530 P05187070AJ</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific Jeep Chrysler model and year. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JEEP CHRYSLER 0281013530 P05187070AJ",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JEEP-CHRYSLER-0281013530-P05187070AJ/137828",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "91C8-2313F_20231128160836",
+    "sku": "91C8-2313F_20231128160836",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JEEP CHRYSLER 0281013530 P05187070AJ</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_288877_0_0/JEEP-CHRYSLER-0281013530-P05187070AJ.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_288878_0_0/JEEP-CHRYSLER-0281013530-P05187070AJ.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JEEP CHRYSLER",
+      "NUMBER MANUFACTURER": "0281013530 P05187070AJ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:03:43.707Z",
+    "model": "mistral:7b",
+    "durationMs": 9940,
+    "priceIncrement": 100
+  }
+}

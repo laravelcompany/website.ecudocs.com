@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Toyota Avensis (2008) - Denso MB1758009411, Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-toyota-avensis-2008-denso-mb1758009411-warranty",
+  "metaDescription": "Get a Plug & Play OEM ECU replacement for your Toyota Avensis (2008) with our Denso MB1758009411 part. Tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Toyota Avensis (2008)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso MB1758009411",
+    "Toyota Avensis"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU replacement for the Toyota Avensis (2008) is a reliable solution, tested and certified by our team of experts.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM quality part</li><li>6-month warranty</li><li>Thoroughly inspected and tested</li><li>Compatible with your Toyota Avensis (2008)</li></ul></section>\n<section class=\"specs\"><table><tr><th>Specification</th><th>Value</th></tr><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>TOYOTA AVENSIS</td></tr><tr><td>YEAR</td><td>2008</td></tr><tr><td>NUMBER MANUFACTURER</td><td>8966105C71</td></tr><tr><td>NUMBER PARTS</td><td>MB1758009411</td></tr><tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr><tr><td>WARRANTY :</td><td>6-month warranty</td></tr><tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with the Toyota Avensis (2008). Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA AVENSIS 89661-05C71, 8966105C71, MB175800-9411, MB1758009411",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-AVENSIS-89661-05C71%2C-8966105C71%2C-MB175800-9411%2C-MB1758009411/62686",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "68D9-61378_20140811114730",
+    "sku": "68D9-61378_20140811114730",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA AVENSIS 89661-05C71, 8966105C71, MB175800-9411, MB1758009411</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA AVENSIS",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "8966105C71",
+      "NUMBER PARTS": "MB1758009411",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:14:18.843Z",
+    "model": "mistral:7b",
+    "durationMs": 10237,
+    "priceIncrement": 100
+  }
+}

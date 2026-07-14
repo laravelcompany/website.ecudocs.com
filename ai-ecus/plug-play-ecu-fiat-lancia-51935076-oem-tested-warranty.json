@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Lancia 51935076, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-lancia-51935076-oem-tested-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat Lancia, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Lancia",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Lancia",
+    "Magneti Marelli",
+    "IAW5SF8P9",
+    "51935076"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Lancia is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FIAT LANCIA</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>IAW5SF8.P9</td></tr>\n<tr><th>NUMBER PARTS</th><td>51935076</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT LANCIA 51935076, IAW5SF8.P9, IAW5SF8P9",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-LANCIA-51935076%2C-IAW5SF8.P9%2C-IAW5SF8P9/117823",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "5B5F-5069D_20200304142715",
+    "sku": "5B5F-5069D_20200304142715",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT LANCIA 51935076, IAW5SF8.P9, IAW5SF8P9</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_239411_0_0/FIAT-LANCIA-51935076%2C-IAW5SF8.P9%2C-IAW5SF8P9.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_239412_0_0/FIAT-LANCIA-51935076%2C-IAW5SF8.P9%2C-IAW5SF8P9.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT LANCIA",
+      "NUMBER MANUFACTURER": "IAW5SF8.P9",
+      "NUMBER PARTS": "51935076",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:59:29.221Z",
+    "model": "mistral:7b",
+    "durationMs": 9437,
+    "priceIncrement": 100
+  }
+}

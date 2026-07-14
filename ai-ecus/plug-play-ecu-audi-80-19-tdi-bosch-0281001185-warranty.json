@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi 80 1.9 TDI Bosch 0 281 001 185, Warranty Included",
+  "slug": "plug-play-ecu-audi-80-19-tdi-bosch-0281001185-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Audi 80 1.9 TDI Bosch 0 281 001 185, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi 80 1.9 TDI Bosch 0 281 001 185",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi 80",
+    "1.9 TDI",
+    "Bosch 0 281 001 185"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is designed for Audi 80 1.9 TDI engines and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch</li>\n        <li>EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th></th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI 80</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 TDI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 001 185</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8A0 907 401</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi 80 1.9 TDI engines. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI 80 1.9 TDI BOSCH 0 281 001 185, 0281001185, 8A0 907 401, 8A0907401",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-80-1.9-TDI-BOSCH-0-281-001-185%2C-0281001185%2C-8A0-907-401%2C-8A0907401-/78602",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DDC4-68066_20150907183536",
+    "sku": "DDC4-68066_20150907183536",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI 80 1.9 TDI BOSCH 0 281 001 185, 0281001185, 8A0 907 401, 8A0907401 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI 80",
+      "ENGINE": "1.9 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 185",
+      "NUMBER PARTS": "8A0 907 401",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:36:57.552Z",
+    "model": "mistral:7b",
+    "durationMs": 13394,
+    "priceIncrement": 100
+  }
+}

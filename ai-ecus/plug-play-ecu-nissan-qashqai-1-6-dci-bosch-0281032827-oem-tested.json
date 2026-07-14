@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Nissan Qashqai 1.6 DCI Bosch 0 281 032 827, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-qashqai-1-6-dci-bosch-0281032827-oem-tested",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Nissan Qashqai 1.6 DCI, tested and covered by a 6-month warranty. Order today!",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan Qashqai 1.6 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Qashqai",
+    "1.6 DCI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Nissan Qashqai 1.6 DCI engine.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">...(technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN QASHQAI 1.6 DCI BOSCH 0 281 032 827, 0281032827, 23710HX49A",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-QASHQAI-1.6-DCI-BOSCH-0-281-032-827%2C-0281032827%2C-23710HX49A/107059",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F074-10908_20171024150754",
+    "sku": "F074-10908_20171024150754",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN QASHQAI 1.6 DCI BOSCH 0 281 032 827, 0281032827, 23710HX49A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN QASHQAI",
+      "ENGINE": "1.6 DCI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 032 827",
+      "NUMBER PARTS": "23710HX49A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:40:19.842Z",
+    "model": "mistral:7b",
+    "durationMs": 6536,
+    "priceIncrement": 100
+  }
+}

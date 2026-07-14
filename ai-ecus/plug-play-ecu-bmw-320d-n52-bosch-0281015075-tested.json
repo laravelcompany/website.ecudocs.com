@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E90 E91 320 2.0 D Bosch 0281015075, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-320d-n52-bosch-0281015075-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for BMW E90 E91 320 2.0 D, OEM tested and covered by a 6-month warranty.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E90 E91 320 2.0 D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E90 E91 320",
+    "2.0 D",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller for BMW E90 E91 320 2.0 D is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>BMW 1 E87 120 3 E90 320</td></tr>\n    <tr><th>ENGINE</th><td>2.0 D</td></tr>\n    <tr><th>YEAR</th><td>2008</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 015 075</td></tr>\n    <tr><th>NUMBER PARTS</th><td>1039S24484</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with BMW E90 and E91 models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E90 E91 320 2.0 D BOSCH 0281015075, 0 281 015 075, DDE 7 810 000, 7810000, DDE7810000, 1039S24484",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E90-E91-320-2.0-D-BOSCH-0281015075%2C-0-281-015-075%2C-DDE-7-810-000%2C-7810000%2C-DDE7810000%2C-1039S24484-/16323",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C533-320DF",
+    "sku": "C533-320DF",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E90 E91 320 2.0 D BOSCH 0281015075, 0 281 015 075, DDE 7 810 000, 7810000, DDE7810000, 1039S24484 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW 1 E87 120 3 E90 320",
+      "ENGINE": "2.0 D",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 075",
+      "NUMBER PARTS": "1039S24484",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:43:09.597Z",
+    "model": "mistral:7b",
+    "durationMs": 10980,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Plug & Play ECU Replacement for Nissan Almera 1.6 MEC11-200, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-nissan-almera-1-6-mec11-200-oem-tested-warranty-includ",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Nissan Almera 1.6 MEC11-200, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan Almera 1.6 MEC11-200",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Almera",
+    "MEC11-200"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is a reliable replacement for your Nissan Almera 1.6 MEC11-200.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty included</li>\n        <li>Compatible with various Nissan Almera models</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN ALMERA</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MEC11-200</td></tr>\n        <tr><th>CODE</th><td>E3</td></tr>\n        <tr><th>NUMBER PARTS</th><td>ZE</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Nissan Almera models: E3, 0209, 0324, 0225, 0111, ZE. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA 1.6 MEC11-200, MEC11200, E3, 0209, 0324, 0225, 0111, ZE",
+    "price": "€30.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-1.6-MEC11-200%2C-MEC11200%2C-E3%2C-0209%2C-0324%2C-0225%2C-0111%2C-ZE/37636",
+    "priceCurrency": "EUR",
+    "netPrice": "€24.39",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "C92D-822AD_20130716141713",
+    "sku": "C92D-822AD_20130716141713",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA 1.6 MEC11-200, MEC11200, E3, 0209, 0324, 0225, 0111, ZE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_dd28cc764ecf70c5613228df16f24ec3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_04327e740ae5678dcd098fe682e6a00f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b97777ecaf90dda8328cf3598c91f416_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_25a095d8bef4c04b2f1319d099877e0a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "ENGINE": "1.6",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "MEC11-200",
+      "CODE": "E3",
+      "NUMBER PARTS": "ZE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:04:37.035Z",
+    "model": "mistral:7b",
+    "durationMs": 10189,
+    "priceIncrement": 100
+  }
+}

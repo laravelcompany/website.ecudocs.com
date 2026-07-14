@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi A6 2.5 TDI - OEM Tested Bosch 0281001932, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-a6-25-tdi-oem-tested-bosch-0281001932-warranty-in",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Audi A6 2.5 TDI, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A6 2.5 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6 2.5 TDI",
+    "Bosch 0281001932"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller for Audi A6 2.5 TDI is a reliable replacement, ensuring optimal engine performance and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Compatible with Audi A6 2.5 TDI</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>BOSCH 0281001932, 0 281 001 932</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.5 TDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1998</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 001 932</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>28RTE283</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Audi A6 2.5 TDI. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 2.5 TDI 4B0907401L, 4B0 907 401 L, BOSCH 0281001932, 0 281 001 932 MOTORSTEUERUNG D50 28RTE283",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-2.5-TDI-4B0907401L%2C-4B0-907-401-L%2C-BOSCH-0281001932%2C-0-281-001-932-MOTORSTEUERUNG-D50-28RTE283/26712",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4E0A-58074_20120718221655",
+    "sku": "4E0A-58074_20120718221655",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 2.5 TDI 4B0907401L, 4B0 907 401 L, BOSCH 0281001932, 0 281 001 932 MOTORSTEUERUNG D50 28RTE283</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BOSCH 0281001932, 0 281 001 932",
+      "ENGINE": "2.5 TDI",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 932",
+      "NUMBER PARTS": "28RTE283",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:32:02.733Z",
+    "model": "mistral:7b",
+    "durationMs": 11827,
+    "priceIncrement": 100
+  }
+}

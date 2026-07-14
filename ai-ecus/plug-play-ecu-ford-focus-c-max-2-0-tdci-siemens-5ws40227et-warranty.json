@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller - Ford Focus C-MAX 2.0 TDCI Siemens 5WS40227E-T, Warranty Included",
+  "slug": "plug-play-ecu-ford-focus-c-max-2-0-tdci-siemens-5ws40227et-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford Focus C-MAX 2.0 TDCI Siemens 5WS40227E-T, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Focus C-MAX 2.0 TDCI Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus C-MAX",
+    "2.0 TDCI",
+    "Siemens 5WS40227E-T"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is specifically designed for Ford Focus C-MAX 2.0 TDCI engines, ensuring seamless replacement and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FOCUS C-MAX</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 TDCI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WS40227E-T</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8CFB</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Focus C-MAX 2.0 TDCI engines. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS C-MAX 2.0 TDCI SIEMENS 5WS40227E-T, 5WS40227ET, FoMoCo 6M51-12A650-VB, 6M5112A650VB, 8CFB, SID803",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-C-MAX-2.0-TDCI-SIEMENS-5WS40227E-T%2C-5WS40227ET%2C-FoMoCo-6M51-12A650-VB%2C-6M5112A650VB%2C-8CFB%2C-SID803-/101365",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "11D3-704B9_20161230185452",
+    "sku": "11D3-704B9_20161230185452",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS C-MAX 2.0 TDCI SIEMENS 5WS40227E-T, 5WS40227ET, FoMoCo 6M51-12A650-VB, 6M5112A650VB, 8CFB, SID803 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS C-MAX",
+      "ENGINE": "2.0 TDCI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40227E-T",
+      "NUMBER PARTS": "8CFB",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:12:04.600Z",
+    "model": "mistral:7b",
+    "durationMs": 11833,
+    "priceIncrement": 100
+  }
+}

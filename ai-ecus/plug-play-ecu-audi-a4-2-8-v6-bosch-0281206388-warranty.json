@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A4 2.8 V6 Bosch 0281206388, 6-month Warranty",
+  "slug": "plug-play-ecu-audi-a4-2-8-v6-bosch-0281206388-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Audi A4 2.8 V6 with 6-month warranty. Fast dispatch in EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A4 2.8 V6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Bosch",
+    "0281206388"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Audi A4 2.8 V6 is a reliable replacement, ensuring seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Locked / Ready for programming</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A4</td></tr>\n        <tr><th>ENGINE</th><td>2.8 V6</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 206 388</td></tr>\n        <tr><th>NUMBER PARTS</th><td>3B0 907 551 AE</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 2.8 V6 3B0907551AE, 3B0 907 551 AE, BOSCH 0281206388, 0 281 206 388",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-2.8-V6-3B0907551AE%2C-3B0-907-551-AE%2C-BOSCH-0281206388%2C-0-281-206-388-/13313",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F451-27071",
+    "sku": "F451-27071",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 2.8 V6 3B0907551AE, 3B0 907 551 AE, BOSCH 0281206388, 0 281 206 388 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "2.8 V6",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 206 388",
+      "NUMBER PARTS": "3B0 907 551 AE",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:12:36.005Z",
+    "model": "mistral:7b",
+    "durationMs": 9244,
+    "priceIncrement": 100
+  }
+}

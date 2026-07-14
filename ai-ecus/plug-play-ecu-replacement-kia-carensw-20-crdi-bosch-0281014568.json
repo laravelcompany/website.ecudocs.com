@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - KIA CARENS 2.0 CRDI Bosch 0 281 014 568, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-kia-carensw-20-crdi-bosch-0281014568",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for KIA CARENS 2.0 CRDI, OEM tested and covered by a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "Replacement ECU for KIA CARENS 2.0 CRDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA CARENS",
+    "2.0 CRDI",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller for KIA CARENS 2.0 CRDI is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Locked / Unlocked Option Available</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specifications</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>KIA CARENS</td></tr>\n<tr><td>ENGINE</td><td>2.0 CRDI</td></tr>\n<tr><td>YEAR</td><td>2007</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 014 568</td></tr>\n<tr><td>NUMBER PARTS</td><td>39113-27487</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with a professional technician before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA CARENS 2.0 CRDI BOSCH 0 281 014 568, 0281014568, 39113-27487, 3911327487",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-CARENS-2.0-CRDI-BOSCH-0-281-014-568%2C-0281014568%2C-39113-27487%2C-3911327487-/85631",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4029-60797_20160207110540",
+    "sku": "4029-60797_20160207110540",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA CARENS 2.0 CRDI BOSCH 0 281 014 568, 0281014568, 39113-27487, 3911327487 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA CARENS",
+      "ENGINE": "2.0 CRDI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 568",
+      "NUMBER PARTS": "39113-27487",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:16:48.414Z",
+    "model": "mistral:7b",
+    "durationMs": 11286,
+    "priceIncrement": 100
+  }
+}

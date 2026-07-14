@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN PRIMERA 2.2 TDCI OEM Denso MB275800-3173, B371M AW46A - Tested & Warranty Included",
+  "slug": "plug-play-ecu-nissan-prima-22-tdci-denso-mb275800-3173-b371m-aw46a-tested",
+  "metaDescription": "OEM tested and 6-month warranty on Plug & Play ECU Replacement for NISSAN PRIMERA 2.2 TDCI by Denso (MB275800-3173, B371M AW46A). Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN PRIMERA 2.2 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Prima",
+    "2.2 TDCI",
+    "Denso"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for NISSAN PRIMERA 2.2 TDCI is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n  <ul>\n    <li>Plug & Play</li>\n    <li>OEM Tested</li>\n    <li>Warranty Included</li>\n    <li>Fast Dispatch</li>\n    <li>EU Shipping</li>\n  </ul>\n</section>\n<section class=\"specs\">\n  <table>\n    <thead>\n      <tr>\n        <th>PARTS</th>\n        <th>BRAND AND MODEL</th>\n        <th>ENGINE</th>\n        <th>YEAR</th>\n        <th>NUMBER MANUFACTURER</th>\n        <th>NUMBER PARTS</th>\n        <th>OPTION AVAILABLE</th>\n        <th>WARRANTY</th>\n        <th>INSPECTION</th>\n        <th>CONDITION</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td>ECU ENGINE CONTROLLER</td>\n        <td>NISSAN PRIMERA</td>\n        <td>2.2 TDCI</td>\n        <td>2005</td>\n        <td>MB275800-3173</td>\n        <td>B371M AW46A</td>\n        <td>Plug & Play / Locked / Ready for programming</td>\n        <td>6-month warranty</td>\n        <td>Device thoroughly inspected and tested by a certified technician</td>\n        <td>USED ORYGINAL IN GOOD CONDITION</td>\n      </tr>\n    </tbody>\n  </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 2.2 TDCI MB275800-3173, MB2758003173, B371M AW46A, B371MAW46A",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-2.2-TDCI-MB275800-3173%2C-MB2758003173%2C-B371M-AW46A%2C-B371MAW46A/42317",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "8712-240FB",
+    "sku": "8712-240FB",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 2.2 TDCI MB275800-3173, MB2758003173, B371M AW46A, B371MAW46A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "2.2 TDCI",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "MB275800-3173",
+      "NUMBER PARTS": "B371M AW46A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:37:55.460Z",
+    "model": "mistral:7b",
+    "durationMs": 12128,
+    "priceIncrement": 100
+  }
+}

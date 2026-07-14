@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Toyota Yaris 1.0 Bosch 89661-0D210, 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-toyota-yaris-10-bosch-89661-0d210-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Toyota Yaris 1.0 (89661-0D210, BOSCH 0261208036) with 6-month warranty. Fast dispatch in EU.",
+  "price": "€870.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Toyota Yaris 1.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Yaris",
+    "Bosch",
+    "89661-0D210"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Toyota Yaris 1.0 (89661-0D210, BOSCH 0261208036) is a reliable replacement to restore your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>TOYOTA YARIS</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.0</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2003-05</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0261208036, 0 261 208 036</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>89661-0D210 1SZ-FE, 896610D210</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Toyota Yaris (2003-05) 1.0 engine. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA YARIS 1.0 89661-0D210 1SZ-FE, 896610D210, BOSCH 0261208036, 0 261 208 036",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-YARIS-1.0-89661-0D210-1SZ-FE%2C-896610D210%2C-BOSCH-0261208036%2C-0-261-208-036-/13184",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "959B-39199",
+    "sku": "959B-39199",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA YARIS 1.0 89661-0D210 1SZ-FE, 896610D210, BOSCH 0261208036, 0 261 208 036 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9d4e68535947126ccb7b5233e01d97d4_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a938e4be1032c2b8c6fcaee2a3febdb0_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA YARIS",
+      "ENGINE": "1.0",
+      "YEAR": "2003-05",
+      "NUMBER MANUFACTURER": "BOSCH 0261208036, 0 261 208 036",
+      "NUMBER PARTS": "89661-0D210 1SZ-FE, 896610D210",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:35:23.479Z",
+    "model": "mistral:7b",
+    "durationMs": 13938,
+    "priceIncrement": 100
+  }
+}

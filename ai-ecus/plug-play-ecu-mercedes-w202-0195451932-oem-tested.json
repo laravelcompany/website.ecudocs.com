@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Mercedes W202 019 545 19 32, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w202-0195451932-oem-tested",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for Mercedes W202, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W202",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W202",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Mercedes W202 is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li><li>Used OEM Part in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES W202</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>019 545 19 32</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION: </th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W202 019 545 19 32, 0195451932",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W202-019-545-19-32%2C-0195451932/119898",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "VDO",
+    "productCode": "F1E0-92904_20200730142306",
+    "sku": "F1E0-92904_20200730142306",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W202 019 545 19 32, 0195451932</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_5b69cc7ba3f0afff9213e50c19e53465_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_93ed817974238590d464bea638b54ef9_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W202",
+      "NUMBER MANUFACTURER": "019 545 19 32",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:13:44.506Z",
+    "model": "mistral:7b",
+    "durationMs": 8974,
+    "priceIncrement": 100
+  }
+}

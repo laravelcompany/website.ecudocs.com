@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Escort 1.6 SME-105, 95AB-12A650-RC - Real, Warranty Included",
+  "slug": "plug-play-ecu-ford-escort-1-6-sme-105-95ab-12a650-rc-real-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford Escort 1.6 SME-105, 95AB-12A650-RC - Real. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Escort 1.6 SME-105, 95AB-12A650-RC - Real",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Escort",
+    "1.6 Engine",
+    "SME-105",
+    "Visteon"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller is a replacement for Ford Escort 1.6 SME-105, 95AB-12A650-RC - Real. It has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD ESCORT</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>YEAR</th><td>1995-1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SME-105</td></tr>\n        <tr><th>CODE</th><td>REAL</td></tr>\n        <tr><th>NUMBER PARTS</th><td>95AB-12A650-RC</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with a 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD ESCORT 1.6 95AB-12A650-RC REAL, 95AB12A650RC SME-105",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-ESCORT-1.6-95AB-12A650-RC-REAL%2C-95AB12A650RC-SME-105/28335",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "EFEF-60010_20120824193159",
+    "sku": "EFEF-60010_20120824193159",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD ESCORT 1.6 95AB-12A650-RC REAL, 95AB12A650RC SME-105</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD ESCORT",
+      "ENGINE": "1.6",
+      "YEAR": "1995-1999",
+      "NUMBER MANUFACTURER": "SME-105",
+      "CODE": "REAL",
+      "NUMBER PARTS": "95AB-12A650-RC",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:09:01.717Z",
+    "model": "mistral:7b",
+    "durationMs": 10559,
+    "priceIncrement": 100
+  }
+}

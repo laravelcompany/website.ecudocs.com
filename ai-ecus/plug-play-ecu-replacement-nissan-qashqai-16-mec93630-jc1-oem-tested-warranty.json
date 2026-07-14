@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested NISSAN QASHQAI 1.6 MEC93-630 JC1 - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-nissan-qashqai-16-mec93630-jc1-oem-tested-warranty",
+  "metaDescription": "Get a Plug & Play ECU Replacement for your NISSAN QASHQAI 1.6 MEC93-630 JC1. OEM tested, 6-month warranty, and fast dispatch.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN QASHQAI 1.6 MEC93-630 JC1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Qashqai",
+    "MEC93630"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your NISSAN QASHQAI 1.6 MEC93-630 JC1 is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>NISSAN QASHQAI</td></tr>\n    <tr><th>ENGINE</th><td>1.6</td></tr>\n    <tr><th>YEAR</th><td>2007-10</td></tr>\n    <tr><th>NUMBER PARTS</th><td>MEC93630</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN QASHQAI 1.6 MEC93-630 JQ C1 MEC93630",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-QASHQAI-1.6-MEC93-630-JQ-C1-MEC93630-/16958",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "B591-78275",
+    "sku": "B591-78275",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN QASHQAI 1.6 MEC93-630 JQ C1 MEC93630 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN QASHQAI",
+      "ENGINE": "1.6",
+      "YEAR": "2007-10",
+      "NUMBER PARTS": "MEC93630",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:40:53.882Z",
+    "model": "mistral:7b",
+    "durationMs": 10285,
+    "priceIncrement": 100
+  }
+}

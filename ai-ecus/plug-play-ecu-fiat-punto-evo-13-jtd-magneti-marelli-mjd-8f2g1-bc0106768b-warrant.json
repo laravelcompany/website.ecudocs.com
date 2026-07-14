@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement for Fiat Punto Evo 1.3 JTD - OEM Tested Magneti Marelli MJD 8F2.G1, BC.0106768.B - Warranty Included",
+  "slug": "plug-play-ecu-fiat-punto-evo-13-jtd-magneti-marelli-mjd-8f2g1-bc0106768b-warrant",
+  "metaDescription": "Buy the tested ECU Engine Controller for Fiat Punto Evo 1.3 JTD by Magneti Marelli, covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Punto Evo 1.3 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Punto Evo",
+    "Magneti Marelli",
+    "MJD 8F2.G1",
+    "BC.0106768.B"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Punto Evo 1.3 JTD by Magneti Marelli ensures seamless engine operation and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>FIAT PUNTO EVO</td></tr>\n            <tr><td>ENGINE</td><td>1.3 JTD</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>MAGNETI MARELLI MJD 8F2.G1</td></tr>\n            <tr><td>NUMBER PARTS</td><td>BC.0106768.B</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO EVO 1.3 MAGNETI MARELLI MJD 8F2.G1, MJD8F2G1, FPT 51904061, BC.0106768.B, BC0106768B",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-EVO-1.3-MAGNETI-MARELLI-MJD-8F2.G1%2C-MJD8F2G1%2C-FPT-51904061%2C-BC.0106768.B%2C-BC0106768B-/89480",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "6AD0-38109_20160411154849",
+    "sku": "6AD0-38109_20160411154849",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO EVO 1.3 MAGNETI MARELLI MJD 8F2.G1, MJD8F2G1, FPT 51904061, BC.0106768.B, BC0106768B  </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_bb5e683be0ec8a32bb2a0b939061315a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_afed3f4757508954f31ca49cf2c5dc5c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO EVO",
+      "ENGINE": "1.3 JTD",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 8F2.G1",
+      "NUMBER PARTS": "BC.0106768.B",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:25:40.354Z",
+    "model": "mistral:7b",
+    "durationMs": 11681,
+    "priceIncrement": 100
+  }
+}

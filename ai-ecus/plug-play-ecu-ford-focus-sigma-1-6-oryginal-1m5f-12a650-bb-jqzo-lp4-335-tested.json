@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Focus Sigma 1.6 Oryginal 1M5F-12A650-BB JQZ0, LP4-335 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-focus-sigma-1-6-oryginal-1m5f-12a650-bb-jqzo-lp4-335-tested",
+  "metaDescription": "OEM tested ECU replacement for Ford Focus Sigma 1.6 with a 6-month warranty and Plug & Play feature. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Focus Sigma 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus Sigma",
+    "Oryginal part",
+    "1M5F-12A650-BB"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for the Ford Focus Sigma 1.6 is OEM tested and comes with a warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Fast Dispatch within EU</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD FOCUS SIGMA</td></tr>\n<tr><td>ENGINE</td><td>1.6</td></tr>\n<tr><td>YEAR</td><td>2002-2006</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>LP4-335</td></tr>\n<tr><td>CODE</td><td>JQZ0</td></tr>\n<tr><td>NUMBER PARTS</td><td>1M5F-12A650-BB</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Focus Sigma 1.6. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS SIGMA 1.6 1M5F-12A650-BB JQZ0, 1M5F12A650BB, LP4-335",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-SIGMA-1.6-1M5F-12A650-BB-JQZ0%2C-1M5F12A650BB%2C-LP4-335/16410",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "0403-99093",
+    "sku": "0403-99093",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS SIGMA 1.6 1M5F-12A650-BB JQZ0, 1M5F12A650BB, LP4-335</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS SIGMA",
+      "ENGINE": "1.6",
+      "YEAR": "2002-2006",
+      "NUMBER MANUFACTURER": "LP4-335",
+      "CODE": "JQZ0",
+      "NUMBER PARTS": "1M5F-12A650-BB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:16:40.695Z",
+    "model": "mistral:7b",
+    "durationMs": 11600,
+    "priceIncrement": 100
+  }
+}

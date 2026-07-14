@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Ford Focus C-MAX 1.6 Siemens S118944005B - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-focus-c-max-1-6-siemens-s118944005b",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Focus C-MAX 1.6 Siemens S118944005B, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Focus C-MAX 1.6 Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus C-MAX",
+    "Siemens S118944005B"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Ford Focus C-MAX 1.6 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch</li><li>Reliable Performance</li></ul></section>\n<section class=\"specs\"> <table>\n  <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n  <tr><th>BRAND AND MODEL</th><td>FORD FOCUS C-MAX</td></tr>\n  <tr><th>ENGINE</th><td>1.6</td></tr>\n  <tr><th>YEAR</th><td>2006</td></tr>\n  <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S118944005 B</td></tr>\n  <tr><th>NUMBER PARTS</th><td>7DHB</td></tr>\n  <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n  <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n  <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n  <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Focus C-MAX 1.6 Siemens S118944005B. Fitment caution may apply. Consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS C-MAX 1.6 SIEMENS S118944005 B, S118944005B, FoMoCo 7M51-12A650-KB, 7M5112A650KB, 7DHB, SIM29",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-C-MAX-1.6-SIEMENS-S118944005-B%2C-S118944005B%2C-FoMoCo-7M51-12A650-KB%2C-7M5112A650KB%2C-7DHB%2C-SIM29-/84974",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "EA14-6388E_20160124204012",
+    "sku": "EA14-6388E_20160124204012",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS C-MAX 1.6 SIEMENS S118944005 B, S118944005B, FoMoCo 7M51-12A650-KB, 7M5112A650KB, 7DHB, SIM29 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_896256f9163d3d6fddce4bca830600d1_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_494469ffd1329b6e4b8d380b67e7f5e7_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS C-MAX",
+      "ENGINE": "1.6",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "SIEMENS S118944005 B",
+      "NUMBER PARTS": "7DHB",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:09:19.872Z",
+    "model": "mistral:7b",
+    "durationMs": 10876,
+    "priceIncrement": 100
+  }
+}

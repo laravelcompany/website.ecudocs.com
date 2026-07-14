@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Audi A4 A5 2.0 TDI Bosch 0 281 019 007, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-a5-2-0-tdi-bosch-0281019007-tested",
+  "metaDescription": "OEM ECU Engine Controller for Audi A4 A5 2.0 TDI, Plug & Play, Oryginal in Good Condition, 6-month Warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A4 A5 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4 A5",
+    "2.0 TDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller is a direct replacement for your Audi A4 A5 2.0 TDI, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Original Bosch part number: 0 281 019 007, 03L 906 018 JN</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>AUDI A4 A5</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 TDI</td></tr>\n        <tr><th>YEAR:</th><td>2012</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 019 007</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>03L 906 018 JN</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Audi A4 and A5 models equipped with the 2.0 TDI engine. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 A5 2.0 TDI BOSCH 0 281 019 007, 0281019007, 03L 906 018 JN, 03L906018JN",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-A5-2.0-TDI-BOSCH-0-281-019-007%2C-0281019007%2C-03L-906-018-JN%2C-03L906018JN-/45832",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7DAC-549F0",
+    "sku": "7DAC-549F0",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 A5 2.0 TDI BOSCH 0 281 019 007, 0281019007, 03L 906 018 JN, 03L906018JN </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4 A5",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "2012",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 019 007",
+      "NUMBER PARTS": "03L 906 018 JN",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:15:13.805Z",
+    "model": "mistral:7b",
+    "durationMs": 10107,
+    "priceIncrement": 100
+  }
+}

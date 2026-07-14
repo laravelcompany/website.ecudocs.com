@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen C3 1.4 HDI Delphi R0411C023B, Warranty Included",
+  "slug": "plug-play-ecu-citroen-c3-14-hdi-delphi-r0411c023b-warranty",
+  "metaDescription": "Expertly tested and OEM approved Plug & Play ECU Engine Controller for Citroen C3 1.4 HDI (Delphi R0411C023B, PSA 96 543 055 80). 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen C3 1.4 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C3",
+    "Delphi R0411C023B",
+    "PSA 96 543 055 80"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Citroen C3 1.4 HDI (Delphi R0411C023B, PSA 96 543 055 80) has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN C3</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4 HDI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>Delphi R0411C023B</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>PSA 96 543 055 80</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C3 1.4 HDI Delphi R0411C023B, PSA 96 543 055 80, 9654305580",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C3-1.4-HDI-Delphi-R0411C023B%2C-PSA-96-543-055-80%2C-9654305580-/98408",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "FD09-525BF_20161017160754",
+    "sku": "FD09-525BF_20161017160754",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C3 1.4 HDI Delphi R0411C023B, PSA 96 543 055 80, 9654305580 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_eb9ceca55cb755054bfcf720e60ba3ac_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e877920e556e1bee522e6ccbd8270430_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C3",
+      "ENGINE": "1.4 HDI",
+      "NUMBER MANUFACTURER": "Delphi R0411C023B",
+      "NUMBER PARTS": "PSA 96 543 055 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:31:47.973Z",
+    "model": "mistral:7b",
+    "durationMs": 11934,
+    "priceIncrement": 100
+  }
+}

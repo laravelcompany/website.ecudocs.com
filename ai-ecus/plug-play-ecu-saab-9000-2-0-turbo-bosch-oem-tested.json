@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - SAAB 9000 2.0 Turbo Bosch 0 280 000 904, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-saab-9000-2-0-turbo-bosch-oem-tested",
+  "metaDescription": "Expertly inspected and tested ECU Engine Controller for SAAB 9000 2.0 Turbo, Plug & Play, backed by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for SAAB 9000 2.0 Turbo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SAAB 9000",
+    "Bosch 0 280 000 904",
+    "7 872 211"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller is a reliable replacement for your SAAB 9000 2.0 Turbo, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM tested and certified</li>\n<li>6-month warranty included</li>\n<li>Compatible with SAAB 9000 2.0 Turbo engine</li>\n<li>Original part in good condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>SAAB 9000</td></tr>\n<tr><td>ENGINE</td><td>2.0 TURBO</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 280 000 904</td></tr>\n<tr><td>NUMBER PARTS</td><td>7 872 211</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within EU in 24–48 hours. Fast dispatch, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SAAB 9000 2.0 Turbo engine. Fitment caution may apply, verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SAAB 9000 2.0 TURBO, BOSCH 0 280 000 904, 0280000904, 7 872 211, 7872211",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SAAB-9000-2.0-TURBO%2C-BOSCH-0-280-000-904%2C-0280000904%2C-7-872-211%2C-7872211-/47078",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F7E7-38357",
+    "sku": "F7E7-38357",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SAAB 9000 2.0 TURBO, BOSCH 0 280 000 904, 0280000904, 7 872 211, 7872211 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SAAB 9000",
+      "ENGINE": "2.0 TURBO",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 000 904",
+      "NUMBER PARTS": "7 872 211",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:40:52.408Z",
+    "model": "mistral:7b",
+    "durationMs": 9849,
+    "priceIncrement": 100
+  }
+}

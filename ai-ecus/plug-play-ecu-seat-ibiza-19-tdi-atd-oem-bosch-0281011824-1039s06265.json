@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT IBIZA 1.9 TDI ATD OEM Bosch 0 281 011 824, 1039S06265",
+  "slug": "plug-play-ecu-seat-ibiza-19-tdi-atd-oem-bosch-0281011824-1039s06265",
+  "metaDescription": "OEM Tested ECU Replacement for SEAT IBIZA 1.9 TDI ATD, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€87.00",
+  "excerpt": "Plug & Play ECU replacement for Seat Ibiza 1.9 TDI ATD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT IBIZA",
+    "1.9 TDI ATD",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for SEAT IBIZA 1.9 TDI ATD ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with SEAT IBIZA 1.9 TDI ATD</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SEAT IBIZA</td></tr>\n        <tr><th>ENGINE</th><td>1.9 TDI ATD</td></tr>\n        <tr><th>YEAR</th><td>2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 824</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S06265</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU-wide with 12-month warranty.</section>\n<section class=\"compatibility\">Ensure correct fitment before installation. Contact us for assistance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA 1.9 TDI ATD 038 906 019 NE, 038906019NE, BOSCH 0 281 011 824, 0281011824, 1039S06265",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-1.9-TDI-ATD-038-906-019-NE%2C-038906019NE%2C-BOSCH-0-281-011-824%2C-0281011824%2C-1039S06265-/12353",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "67DC-3657B",
+    "sku": "67DC-3657B",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA 1.9 TDI ATD 038 906 019 NE, 038906019NE, BOSCH 0 281 011 824, 0281011824, 1039S06265 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.9 TDI ATD",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 824",
+      "NUMBER PARTS": "1039S06265",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:57:23.855Z",
+    "model": "mistral:7b",
+    "durationMs": 9566,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for SKODA OCTAVIA 1.9 SDI - OEM Tested, Warranty Included - Bosch 0 281 010 105",
+  "slug": "plug-play-ecu-skoda-octavia-19-sdi-bosch-0281010105-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU ENGINE CONTROLLER for SKODA OCTAVIA 1.9 SDI, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for SKODA OCTAVIA 1.9 SDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA OCTAVIA",
+    "1.9 SDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU ENGINE CONTROLLER for SKODA OCTAVIA 1.9 SDI is an OEM tested and reliable replacement part, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with 2001-03 models</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SKODA OCTAVIA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 SDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001-03</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 010 105</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>28SA4833</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This ECU may require programming or professional installation. Please ensure compatibility with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 1.9 SDI 038906012E, 038 906 012 E, BOSCH 0 281 010 105, 0281010105",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-1.9-SDI-038906012E%2C-038-906-012-E%2C-BOSCH-0-281-010-105%2C-0281010105/16177",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2620-6073A",
+    "sku": "2620-6073A",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 1.9 SDI 038906012E, 038 906 012 E, BOSCH 0 281 010 105, 0281010105</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.9 SDI",
+      "YEAR": "2001-03",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 105",
+      "NUMBER PARTS": "28SA4833",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:35:27.678Z",
+    "model": "mistral:7b",
+    "durationMs": 11286,
+    "priceIncrement": 100
+  }
+}

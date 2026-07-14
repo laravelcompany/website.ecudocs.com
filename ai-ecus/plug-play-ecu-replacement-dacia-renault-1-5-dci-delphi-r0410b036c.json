@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Dacia Renault 1.5 DCI Delphi R0410B036C, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-dacia-renault-1-5-dci-delphi-r0410b036c",
+  "metaDescription": "Buy our Plug & Play ECU Replacement for Dacia Renault 1.5 DCI Delphi R0410B036C, OEM tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Dacia Renault 1.5 DCI Delphi R0410B036C",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Dacia Renault 1.5 DCI",
+    "Delphi R0410B036C"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Replacement for Dacia Renault 1.5 DCI is thoroughly inspected and ready to ensure smooth engine operation.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>OEM Tested</li><li>6-month warranty</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Value</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>DACIA RENAULT</td></tr><tr><td>ENGINE</td><td>1.5 DCI</td></tr><tr><td>NUMBER MANUFACTURER</td><td>Delphi R0410B036C</td></tr><tr><td>NUMBER PARTS</td><td>8200603070</td></tr><tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr><tr><td>WARRANTY :</td><td>6-month warranty</td></tr><tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DACIA RENAULT 1.5 DCI Delphi R0410B036C, 8200513058, 8200603070",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DACIA-RENAULT-1.5-DCI-Delphi-R0410B036C%2C-8200513058%2C-8200603070-/97767",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "6BDB-436A6_20161002193325",
+    "sku": "6BDB-436A6_20161002193325",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DACIA RENAULT 1.5 DCI Delphi R0410B036C, 8200513058, 8200603070 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_462a2081c489ddf02564ad713f6d75e2_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_76718fffecb877f67d1427122a8d53d7_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DACIA RENAULT",
+      "ENGINE": "1.5 DCI",
+      "NUMBER MANUFACTURER": "Delphi R0410B036C",
+      "NUMBER PARTS": "8200603070",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:54:56.527Z",
+    "model": "mistral:7b",
+    "durationMs": 10133,
+    "priceIncrement": 100
+  }
+}

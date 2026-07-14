@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Nissan Almera 2.2 Di - Denso 275800-2382, W3 - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-almera-2-2-di-denso-275800-2382-w3-tested",
+  "metaDescription": "Expertly tested and OEM Denso ECU Engine Controller for Nissan Almera 2.2 Di. Plug & Play, 6-month warranty, fast dispatch within EU.",
+  "price": "€185.00",
+  "excerpt": "OEM Tested ECU Replacement for Nissan Almera 2.2 Di",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso",
+    "Nissan Almera",
+    "2.2 Di"
+  ],
+  "description": "<section class=\"overview\">This OEM tested, Plug & Play ECU replacement for Nissan Almera 2.2 Di ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Denso Part</li>\n        <li>Plug & Play Installation</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN ALMERA</td></tr>\n        <tr><th>ENGINE</th><td>2.2 Di</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DENSO 275800-2382</td></tr>\n        <tr><th>NUMBER PARTS</th><td>W3</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and installation. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA 2.2 Di DENSO 275800-2382, 2758002382, 23710 BU701, 23710BU701, W3",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-2.2-Di-DENSO-275800-2382%2C-2758002382%2C-23710-BU701%2C-23710BU701%2C-W3-/86966",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "4ED3-24400_20160225152715",
+    "sku": "4ED3-24400_20160225152715",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA 2.2 Di DENSO 275800-2382, 2758002382, 23710 BU701, 23710BU701, W3 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "ENGINE": "2.2 Di",
+      "NUMBER MANUFACTURER": "DENSO 275800-2382",
+      "NUMBER PARTS": "W3",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:08:01.409Z",
+    "model": "mistral:7b",
+    "durationMs": 9161,
+    "priceIncrement": 100
+  }
+}

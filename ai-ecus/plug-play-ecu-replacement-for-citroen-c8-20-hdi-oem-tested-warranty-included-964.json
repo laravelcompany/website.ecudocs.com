@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Citroen C8 2.0 HDI - OEM Tested, Warranty Included (9646850580)",
+  "slug": "plug-play-ecu-replacement-for-citroen-c8-20-hdi-oem-tested-warranty-included-964",
+  "metaDescription": "OEM tested ECU replacement for Citroen C8 2.0 HDI, featuring Plug & Play functionality and a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen C8 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C8",
+    "2.0 HDI",
+    "Bosch",
+    "OEM part number"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Citroen C8 2.0 HDI offers Plug & Play functionality and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play</li>\n      <li>OEM Tested</li>\n      <li>Warranty Included</li>\n      <li>ECU Replacement</li>\n      <li>Used in Good Condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Details</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>PARTS</td>\n          <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n          <td>BRAND AND MODEL</td>\n          <td>CITROEN C8</td>\n        </tr>\n        <tr>\n          <td>ENGINE</td>\n          <td>2.0 HDI</td>\n        </tr>\n        <tr>\n          <td>YEAR</td>\n          <td>2004</td>\n        </tr>\n        <tr>\n          <td>NUMBER MANUFACTURER</td>\n          <td>BOSCH 0 281 011 968</td>\n        </tr>\n        <tr>\n          <td>NUMBER PARTS</td>\n          <td>EDC15C2 62</td>\n        </tr>\n        <tr>\n          <td>OPTION AVAILABLE</td>\n          <td>Plug & Play / Locked / Ready for programming</td>\n        </tr>\n        <tr>\n          <td>WARRANTY :</td>\n          <td>6-month warranty</td>\n        </tr>\n        <tr>\n          <td>INSPECTION:</td>\n          <td>Device thoroughly inspected and tested by a certified technician</td>\n        </tr>\n        <tr>\n          <td>CONDITION</td>\n          <td>USED IN GOOD CONDITION</td>\n        </tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C8 2.0 HDI BOSCH 0281011968, 0 281 011 968, EDC15C2 62, 9654695480, 96 546 954 80, 9646850580, 96 468 50 80",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C8-2.0-HDI-BOSCH-0281011968%2C-0-281-011-968%2C-EDC15C2-62%2C-9654695480%2C-96-546-954-80%2C-9646850580%2C-96-468-50-80/23997",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9B53-9877B_20120529230930",
+    "sku": "9B53-9877B_20120529230930",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C8 2.0 HDI BOSCH 0281011968, 0 281 011 968, EDC15C2 62, 9654695480, 96 546 954 80, 9646850580, 96 468 50 80</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C8",
+      "ENGINE": "2.0 HDI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 968",
+      "NUMBER PARTS": "EDC15C2 62",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:45:20.774Z",
+    "model": "mistral:7b",
+    "durationMs": 13232,
+    "priceIncrement": 100
+  }
+}

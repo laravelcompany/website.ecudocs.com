@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Nissan Renault 1.5 DCI OEM Tested - Delphi 237100875R, 237101408R, 28285735 - Warranty Included",
+  "slug": "plug-play-ecu-nissan-renault-1-5-dci-delphi-237100875r-237101408r-28285735-warra",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for Nissan Renault 1.5 DCI, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan Renault 1.5 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Renault",
+    "1.5 DCI",
+    "Delphi"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Nissan Renault 1.5 DCI is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Ready for Programming</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>NISSAN RENAULT</td><td>1.5 DCI</td><td>2010</td><td>28285735</td><td>Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary by vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN RENAULT 1.5 DCI 237100875R, 237101408R, 28285735",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-RENAULT-1.5-DCI-237100875R%2C-237101408R%2C-28285735/61237",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "A220-49192_20140726132449",
+    "sku": "A220-49192_20140726132449",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN RENAULT 1.5 DCI 237100875R, 237101408R, 28285735</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN RENAULT",
+      "ENGINE": "1.5 DCI",
+      "YEAR": "2010",
+      "NUMBER PARTS": "28285735",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:43:25.075Z",
+    "model": "mistral:7b",
+    "durationMs": 9570,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for NISSAN X-TRAIL T30 (2758001187) - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-x-trail-t30-2758001187-warranty",
+  "metaDescription": "Buy OEM tested and Plug & Play ECU replacement for NISSAN X-TRAIL T30 (2758001187). Ships within 24–48 hours, backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for NISSAN X-TRAIL T30",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan X-Trail T30",
+    "2758001187"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for NISSAN X-TRAIL T30 (2758001187) ensures seamless engine control and performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch (EU)</li><li>Expertly Inspected and Tested</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>YEAR</th><th>NUMBER PARTS</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>NISSAN X-TRAIL T30</td><td>2001-2006</td><td>2758001187</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORIGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours, EU (12-month warranty)</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN X-TRAIL T30 5800-118, 5800118, 23710 8H803, 237108H803, 275800-1187, 2758001187",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-X-TRAIL-T30-5800-118%2C-5800118%2C-23710-8H803%2C-237108H803%2C-275800-1187%2C-2758001187-/60367",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "6912-715DE_20140715153543",
+    "sku": "6912-715DE_20140715153543",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN X-TRAIL T30 5800-118, 5800118, 23710 8H803, 237108H803, 275800-1187, 2758001187 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN X-TRAIL T30",
+      "YEAR": "2001-2006",
+      "NUMBER PARTS": "2758001187",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:50:41.935Z",
+    "model": "mistral:7b",
+    "durationMs": 9048,
+    "priceIncrement": 100
+  }
+}

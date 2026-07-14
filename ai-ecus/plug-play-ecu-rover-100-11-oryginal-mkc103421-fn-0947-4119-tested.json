@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - ROVER 100 1.1, Oryginal MKC103421 FN, 0947, 4119 - OEM Tested",
+  "slug": "plug-play-ecu-rover-100-11-oryginal-mkc103421-fn-0947-4119-tested",
+  "metaDescription": "Get a tested Plug & Play ECU Replacement for your ROVER 100 1.1, backed by a 6-month warranty. Order now for fast dispatch.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU for ROVER 100 1.1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "ROVER 100",
+    "Oryginal",
+    "MKC103421 FN"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your ROVER 100 1.1 has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM Tested for guaranteed fitment</li><li>6-month warranty for peace of mind</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>ROVER 100</td></tr><tr><th>ENGINE</th><td>1.1</td></tr><tr><th>YEAR</th><td>1997-2002</td></tr><tr><th>NUMBER MANUFACTURER</th><td>MKC103421 FN</td></tr><tr><th>NUMBER PARTS</th><td>0947, 4119</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery and a 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. If you have any doubts, consult a professional technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 100 1.1, MKC103421 FN, 0947, 4119",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-100-1.1%2C-MKC103421-FN%2C-0947%2C-4119-/41659",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "652A-237B9",
+    "sku": "652A-237B9",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 100 1.1, MKC103421 FN, 0947, 4119 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 100",
+      "ENGINE": "1.1",
+      "YEAR": "1997-2002",
+      "NUMBER MANUFACTURER": "MKC103421 FN",
+      "NUMBER PARTS": "0947, 4119",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:25:59.584Z",
+    "model": "mistral:7b",
+    "durationMs": 8717,
+    "priceIncrement": 100
+  }
+}

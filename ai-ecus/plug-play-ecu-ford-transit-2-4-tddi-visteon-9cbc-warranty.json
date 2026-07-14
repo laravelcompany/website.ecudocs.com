@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford Transit 2.4 TDDI - Visteon 9CBC - Warranty Included",
+  "slug": "plug-play-ecu-ford-transit-2-4-tddi-visteon-9cbc-warranty",
+  "metaDescription": "Buy a tested, Plug & Play ECU Engine Controller for Ford Transit 2.4 TDDI by Visteon (3C1A-12A650-ED, 3C1A12A650ED, 9CBC). 6-month warranty. Ships within 24–48 hours.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Ford Transit 2.4 TDDI by Visteon",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Transit 2.4 TDDI",
+    "Visteon 9CBC"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller is a tested replacement for Ford Transit 2.4 TDDI engines, ensuring reliable performance and compatibility.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM-tested for guaranteed fitment</li>\n<li>6-month warranty</li>\n<li>Used in good condition</li>\n<li>Fast dispatch within EU</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FORD TRANSIT</td></tr>\n<tr><th>ENGINE</th><td>2.4 TDDI</td></tr>\n<tr><th>NUMBER PARTS</th><td>9CBC</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table></section>\n<section class=\"shipping\">Ships within 24–48 hours. Fast dispatch within EU.</section>\n<section class=\"compatibility\">Compatible with Ford Transit 2.4 TDDI engines only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD TRANSIT 2.4 TDDI 3C1A-12A650-ED, 3C1A12A650ED, 9CBC",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-TRANSIT-2.4-TDDI-3C1A-12A650-ED%2C-3C1A12A650ED%2C-9CBC-/51972",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "7F5A-16949_20140228115010",
+    "sku": "7F5A-16949_20140228115010",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD TRANSIT 2.4 TDDI 3C1A-12A650-ED, 3C1A12A650ED, 9CBC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD TRANSIT",
+      "ENGINE": "2.4 TDDI",
+      "NUMBER PARTS": "9CBC",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:05:42.870Z",
+    "model": "mistral:7b",
+    "durationMs": 9482,
+    "priceIncrement": 100
+  }
+}

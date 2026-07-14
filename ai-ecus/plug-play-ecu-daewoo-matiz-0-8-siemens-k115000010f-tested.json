@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Daewoo Matiz 0.8, Siemens K115000010F, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-daewoo-matiz-0-8-siemens-k115000010f-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Daewoo Matiz 0.8, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€87.00",
+  "excerpt": "Plug & Play Siemens ECU for Daewoo Matiz 0.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Daewoo Matiz",
+    "Siemens",
+    "K115000010F"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play Siemens ECU Engine Controller for Daewoo Matiz 0.8 is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch within EU</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>DAEWOO MATIZ</td></tr>\n<tr><th>ENGINE</th><td>0.8</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>K115000010F</td></tr>\n<tr><th>NUMBER PARTS</th><td>96259124, 2S</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DAEWOO MATIZ 0.8, K115000010F, 96259124, 2S",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DAEWOO-MATIZ-0.8%2C-K115000010F%2C-96259124%2C-2S/118477",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "B806-656D5",
+    "sku": "B806-656D5",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DAEWOO MATIZ 0.8, K115000010F, 96259124, 2S</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DAEWOO MATIZ",
+      "ENGINE": "0.8",
+      "NUMBER MANUFACTURER": "K115000010F",
+      "NUMBER PARTS": "96259124, 2S",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:56:25.233Z",
+    "model": "mistral:7b",
+    "durationMs": 8523,
+    "priceIncrement": 100
+  }
+}

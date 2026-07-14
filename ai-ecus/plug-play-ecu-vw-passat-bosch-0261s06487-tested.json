@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - VW Passat Bosch 0 261 S06 487, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-vw-passat-bosch-0261s06487-tested",
+  "metaDescription": "Expertly tested and guaranteed ECU Engine Controller for VW Passat Bosch 0 261 S06 487, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for VW Passat Bosch 0 261 S06 487",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "VW Passat",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for VW Passat Bosch 0 261 S06 487 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li><li>Expertly Inspected and Tested</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>YEAR</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>INSPECTION:</th><th>WARRANTY :</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>VW VOLKSWAGEN PASSAT</td><td>2010</td><td>03C906016BA</td><td>Plug & Play / Locked / Ready for programming</td><td>Device thoroughly inspected and tested by a certified technician</td><td>6-month warranty</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your specific vehicle model and year before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VW VOLKSWAGEN PASSAT BOSCH 0 261 S06 487, 0261S06487, 03C 906 016 BA, 03C906016BA",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VW-VOLKSWAGEN-PASSAT-BOSCH-0-261-S06-487%2C-0261S06487%2C-03C-906-016-BA%2C-03C906016BA-/54149",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DDF1-67989_20140416130855",
+    "sku": "DDF1-67989_20140416130855",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  VW VOLKSWAGEN PASSAT BOSCH 0 261 S06 487, 0261S06487, 03C 906 016 BA, 03C906016BA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VW VOLKSWAGEN PASSAT",
+      "YEAR": "2010",
+      "NUMBER PARTS": "03C906016BA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:28:27.757Z",
+    "model": "mistral:7b",
+    "durationMs": 8835,
+    "priceIncrement": 100
+  }
+}

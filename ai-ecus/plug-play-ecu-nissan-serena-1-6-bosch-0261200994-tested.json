@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN SERENA 1.6 BOSCH 0261200994, OEM Tested, 6-Month Warranty",
+  "slug": "plug-play-ecu-nissan-serena-1-6-bosch-0261200994-tested",
+  "metaDescription": "OEM tested ECU replacement for NISSAN SERENA 1.6 BOSCH 0261200994, Plug & Play, 6-month warranty.",
+  "price": "€60.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN SERENA 1.6 BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Serena",
+    "Bosch",
+    "0261200994"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for NISSAN SERENA 1.6 BOSCH is a reliable solution to your engine control unit issues, backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-Month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle year and condition. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN SERENA 1.6 BOSCH 0261200994, 0 261 200 994, 237102C415 23710-2C415 2C415-99400, 2C41599400",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-SERENA-1.6-BOSCH-0261200994%2C-0-261-200-994%2C-237102C415-23710-2C415-2C415-99400%2C-2C41599400-/16943",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8525-66773",
+    "sku": "8525-66773",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN SERENA 1.6 BOSCH 0261200994, 0 261 200 994, 237102C415 23710-2C415 2C415-99400, 2C41599400 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN SERENA",
+      "ENGINE": "1.6",
+      "YEAR": "1996-97",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 200 994",
+      "NUMBER PARTS": "2C415-99400, 2C41599400",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:44:31.149Z",
+    "model": "mistral:7b",
+    "durationMs": 6540,
+    "priceIncrement": 100
+  }
+}

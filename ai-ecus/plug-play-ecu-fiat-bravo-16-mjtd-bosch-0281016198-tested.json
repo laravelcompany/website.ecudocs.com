@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT Bravo 1.6 MJTD Bosch 0281016198, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-bravo-16-mjtd-bosch-0281016198-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for FIAT Bravo 1.6 MJTD, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT Bravo 1.6 MJTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT Bravo",
+    "1.6 MJTD",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for your faulty or damaged FIAT Bravo 1.6 MJTD unit, ensuring seamless operation of your vehicle's engine management system.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play for Easy Installation</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch within EU</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FIAT BRAVO</td></tr>\n<tr><th>ENGINE</th><td>1.6 MJTD</td></tr>\n<tr><th>YEAR</th><td>2009</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 016 198</td></tr>\n<tr><th>NUMBER PARTS</th><td>1039S32423</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with FIAT Bravo 1.6 MJTD only. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT BRAVO 1.6 MJTD BOSCH 0281016198, 0 281 016 198, 51852325, 198 4IE161BAM M12, 1984IE161BAMM12, 1039S32423",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-BRAVO-1.6-MJTD-BOSCH-0281016198%2C-0-281-016-198%2C-51852325%2C-198-4IE161BAM-M12%2C-1984IE161BAMM12%2C-1039S32423/24312",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3F5B-338C1_20120531114131",
+    "sku": "3F5B-338C1_20120531114131",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT BRAVO 1.6 MJTD BOSCH 0281016198, 0 281 016 198, 51852325, 198 4IE161BAM M12, 1984IE161BAMM12, 1039S32423</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT BRAVO",
+      "ENGINE": "1.6 MJTD",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 198",
+      "NUMBER PARTS": "1039S32423",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:25:37.918Z",
+    "model": "mistral:7b",
+    "durationMs": 9471,
+    "priceIncrement": 100
+  }
+}

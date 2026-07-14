@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Fiat Marea 2.0 Bosch 0 261 206 341 - 6-month Warranty",
+  "slug": "plug-play-ecu-fiat-marea-2-0-bosch-0-261-206-341-warranty",
+  "metaDescription": "Expertly tested and OEM certified Plug & Play ECU Engine Controller for Fiat Marea 2.0 Bosch 0 261 206 341, backed by a 6-month warranty.",
+  "price": "€485.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Fiat Marea 2.0 Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Marea",
+    "Bosch",
+    "0 261 206 341"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Fiat Marea 2.0 Bosch is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Certified</li><li>Plug & Play Installation</li><li>6-month Warranty</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT MAREA 2.0 BOSCH 0 261 206 341, 0261206341 00465517450 465517450, 1277356299",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-MAREA-2.0-BOSCH-0-261-206-341%2C-0261206341-00465517450-465517450%2C-1277356299/16498",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "67B0-138F6",
+    "sku": "67B0-138F6",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT MAREA 2.0 BOSCH 0 261 206 341, 0261206341 00465517450 465517450, 1277356299</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT MAREA",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 341",
+      "NUMBER PARTS": "1277356299",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION / NEW"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:02:32.318Z",
+    "model": "mistral:7b",
+    "durationMs": 6531,
+    "priceIncrement": 100
+  }
+}

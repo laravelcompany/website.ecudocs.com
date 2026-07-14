@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes SLK230 C230 BOSCH 0 261 204 572, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-slk230-c230-bosch-0261204572-tested",
+  "metaDescription": "OEM ECU Engine Controller for Mercedes SLK230 C230, BOSCH 0 261 204 572. Plug & Play, OEM Tested, 6-month warranty, fast dispatch.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes SLK230 C230",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes SLK230",
+    "BOSCH 0 261 204 572"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for Mercedes SLK230 C230, BOSCH 0 261 204 572, has been thoroughly inspected and tested by a certified technician. It offers Plug & Play functionality and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Compatible with Mercedes SLK230 C230</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES SLK230 C230</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 234 572</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A 023 545 22 32</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Mercedes SLK230 C230. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES SLK230 C230, BOSCH 0 261 204 572, 0261204572, A 023 545 22 32, A0235452232",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-SLK230-C230%2C-BOSCH-0-261-204-572%2C-0261204572%2C-A-023-545-22-32%2C-A0235452232/48168",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "AB07-6949D",
+    "sku": "AB07-6949D",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES SLK230 C230, BOSCH 0 261 204 572, 0261204572, A 023 545 22 32, A0235452232</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES SLK230 C230",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 572",
+      "NUMBER PARTS": "A 023 545 22 32",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:49:14.613Z",
+    "model": "mistral:7b",
+    "durationMs": 11515,
+    "priceIncrement": 100
+  }
+}

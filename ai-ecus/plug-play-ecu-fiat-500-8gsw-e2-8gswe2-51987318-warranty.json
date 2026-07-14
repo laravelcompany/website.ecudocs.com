@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Fiat 500 8GSW.E2, 8GSWE2, 51987318 - 6-month Warranty",
+  "slug": "plug-play-ecu-fiat-500-8gsw-e2-8gswe2-51987318-warranty",
+  "metaDescription": "Buy the tested Plug & Play ECU Engine Controller for Fiat 500 8GSW.E2, 8GSWE2, 51987318. 6-month warranty. Fast dispatch within EU.",
+  "price": "€660.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat 500 - OEM Tested and Warrantied",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat 500",
+    "8GSW.E2",
+    "8GSWE2",
+    "51987318"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller for Fiat 500 is a reliable solution to replace your faulty engine control unit.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th></th>\n                <th>PARTS</th>\n                <th>BRAND AND MODEL</th>\n                <th>NUMBER MANUFACTURER</th>\n                <th>NUMBER PARTS</th>\n                <th>OPTION AVAILABLE</th>\n                <th>WARRANTY :</th>\n                <th>INSPECTION:</th>\n                <th>CONDITION</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td></td>\n                <td>ECU ENGINE CONTROLLER</td>\n                <td>FIAT 500</td>\n                <td>8GSW.E2</td>\n                <td>51987318</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n                <td>6-month warranty</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n                <td>CONDITION: USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch within EU.</section>\n<section class=\"compatibility\">Compatible with Fiat 500, but always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 500 8GSW.E2, 8GSWE2, 51987318",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-500-8GSW.E2%2C-8GSWE2%2C-51987318/110459",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "1B2E-95118_20180712140237",
+    "sku": "1B2E-95118_20180712140237",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 500 8GSW.E2, 8GSWE2, 51987318</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT 500",
+      "NUMBER MANUFACTURER": "8GSW.E2",
+      "NUMBER PARTS": "51987318",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:14:20.026Z",
+    "model": "mistral:7b",
+    "durationMs": 11697,
+    "priceIncrement": 100
+  }
+}

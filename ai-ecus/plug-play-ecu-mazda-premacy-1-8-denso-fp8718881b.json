@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Mazda Premacy 1.8 - OEM Tested, Warranty Included - Denso FP87 18 881B",
+  "slug": "plug-play-ecu-mazda-premacy-1-8-denso-fp8718881b",
+  "metaDescription": "Expertly tested ECU Engine Controller for Mazda Premacy 1.8 by Denso, Plug & Play, 6-month warranty, fast dispatch within EU.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Mazda Premacy 1.8 - OEM Tested, Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mazda Premacy 1.8",
+    "Denso FP87 18 881B"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for Mazda Premacy 1.8 by Denso ensures seamless engine control and performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for optimal functionality</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used but in good condition</li>\n        <li>Compatible with Mazda Premacy 1.8</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table border=\"1\">\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MAZDA PREMACY</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>YEAR</th><td>2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>279700-0811</td></tr>\n        <tr><th>NUMBER PARTS</th><td>FP87 18 881B</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU-wide, with 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is specifically designed for Mazda Premacy 1.8 and may not fit other models or engines.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA PREMACY 1.8, 279700-0811, 2797000811, FP87 18 881B, FP8718881B",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-PREMACY-1.8%2C-279700-0811%2C-2797000811%2C-FP87-18-881B%2C-FP8718881B-/45613",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "A90A-7342B",
+    "sku": "A90A-7342B",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA PREMACY 1.8, 279700-0811, 2797000811, FP87 18 881B, FP8718881B </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA PREMACY",
+      "ENGINE": "1.8",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "279700-0811",
+      "NUMBER PARTS": "FP87 18 881B",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:02:25.773Z",
+    "model": "mistral:7b",
+    "durationMs": 9567,
+    "priceIncrement": 100
+  }
+}

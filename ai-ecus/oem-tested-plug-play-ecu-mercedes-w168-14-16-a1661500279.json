@@ -1,0 +1,47 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Mercedes W168 1.4 1.6 A1661500279",
+  "slug": "oem-tested-plug-play-ecu-mercedes-w168-14-16-a1661500279",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Mercedes W168 1.4 1.6 A1661500279 with 6-month warranty and fast shipping.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mercedes W168",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W168",
+    "A1661500279"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Mercedes W168 1.4 1.6 A1661500279 is a reliable solution, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Shipping</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W168</td></tr>\n        <tr><th>ENGINE</th><td>1.4 1.6</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>A1661500279</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W168 models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W168 1.4 1.6 A1661500279",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W168-1.4-1.6-A1661500279/125675",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "FA09-87931_20210604140302",
+    "sku": "FA09-87931_20210604140302",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W168 1.4 1.6 A1661500279</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W168",
+      "ENGINE": "1.4 1.6",
+      "NUMBER MANUFACTURER": "A1661500279",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:04:17.423Z",
+    "model": "mistral:7b",
+    "durationMs": 9288,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Opel Vectra Signum 1.8 Z18XE Siemens 5WK9 441 - ECU Replacement, Warranty",
+  "slug": "plug-play-ecu-opel-vectra-signum-1-8-z18xe-siemens-5wk9-441-tested",
+  "metaDescription": "OEM tested and Plug & Play ECU Engine Controller for Opel Vectra Signum 1.8 Z18XE Siemens 5WK9 441, offering a seamless replacement with a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Opel Vectra Signum 1.8 Z18XE Siemens 5WK9 441",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra Signum",
+    "Siemens 5WK9 441",
+    "1.8 Z18XE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Opel Vectra Signum 1.8 Z18XE Siemens 5WK9 441 offers a reliable replacement solution, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL VECTRA SIGNUM</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8 Z18XE</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2002-2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WK9 441</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>55 557 540</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA SIGNUM 1.8 Z18XE SIEMENS 5WK9 441, 5WK9441, 55 557 540, 55557540",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-SIGNUM-1.8-Z18XE-SIEMENS-5WK9-441%2C-5WK9441%2C-55-557-540%2C-55557540/9940",
+    "priceCurrency": "EUR",
+    "netPrice": "€300.00",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "9940",
+    "sku": "9940",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA SIGNUM 1.8 Z18XE SIEMENS 5WK9 441, 5WK9441, 55 557 540, 55557540</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VECTRA SIGNUM",
+      "ENGINE": "1.8 Z18XE",
+      "YEAR": "2002-2006",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK9 441",
+      "NUMBER PARTS": "55 557 540",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:25:47.249Z",
+    "model": "mistral:7b",
+    "durationMs": 12903,
+    "priceIncrement": 100
+  }
+}

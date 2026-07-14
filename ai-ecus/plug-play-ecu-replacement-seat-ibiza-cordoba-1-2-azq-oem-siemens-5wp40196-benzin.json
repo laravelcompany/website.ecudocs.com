@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Seat Ibiza Cordoba 1.2 AZQ - OEM Siemens 5WP40196, Benzin Simos 3PE 4729",
+  "slug": "plug-play-ecu-replacement-seat-ibiza-cordoba-1-2-azq-oem-siemens-5wp40196-benzin",
+  "metaDescription": "OEM Tested ECU Engine Controller for Seat Ibiza Cordoba 1.2 AZQ, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€60.00",
+  "excerpt": "Replace your faulty ECU with a tested OEM unit.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Ibiza Cordoba",
+    "Siemens 5WP40196",
+    "Benzin Simos 3PE 4729"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Seat Ibiza Cordoba 1.2 AZQ is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Quality</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch</li>\n<li>Tested and Ready to Install</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>SEAT IBIZA CORDOBA</td></tr>\n<tr><th>ENGINE</th><td>1.2 AZQ</td></tr>\n<tr><th>YEAR</th><td>2002-04</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WP40196</td></tr>\n<tr><th>NUMBER PARTS</th><td>SIMOS 3PE 4729</td></tr>\n</table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Seat Ibiza Cordoba 1.2 AZQ only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA CORDOBA 1.2 AZQ 03E 906 033 P, 03E906033P, SIEMENS 5WP40196, BENZIN SIMOS 3PE 4729",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-CORDOBA-1.2-AZQ-03E-906-033-P%2C-03E906033P%2C-SIEMENS-5WP40196%2C-BENZIN-SIMOS-3PE-4729-/12234",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "671D-26885",
+    "sku": "671D-26885",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA CORDOBA 1.2 AZQ 03E 906 033 P, 03E906033P, SIEMENS 5WP40196, BENZIN SIMOS 3PE 4729 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA CORDOBA",
+      "ENGINE": "1.2 AZQ",
+      "YEAR": "2002-04",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP40196",
+      "NUMBER PARTS": "SIMOS 3PE 4729",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:59:16.910Z",
+    "model": "mistral:7b",
+    "durationMs": 10412,
+    "priceIncrement": 100
+  }
+}

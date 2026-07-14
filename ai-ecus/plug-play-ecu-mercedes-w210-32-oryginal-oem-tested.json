@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W210 3.2 Oryginal A 018 545 14 32, VDO 412 229/013/002 - OEM Tested",
+  "slug": "plug-play-ecu-mercedes-w210-32-oryginal-oem-tested",
+  "metaDescription": "Find the Plug & Play ECU Replacement for your Mercedes W210 3.2 with a 6-month warranty and fast dispatch. OEM tested and ready for installation.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W210 3.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W210",
+    "Oryginal",
+    "VDO"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Mercedes W210 3.2 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Plug & Play</li>\n        <li>Ready for programming</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W210</td></tr>\n        <tr><th>ENGINE</th><td>3.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>VDO 412 229/013/002, 412229013002</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0185451432</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific issues. Always consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W210 3.2 A0185451432, 0185451432, A 018 545 14 32, 412229013002, VDO 412 229/013/002",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W210-3.2-A0185451432%2C-0185451432%2C-A-018-545-14-32%2C-412229013002%2C-VDO-412-229013002/30261",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "2BCC-38264_20120930142329",
+    "sku": "2BCC-38264_20120930142329",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W210 3.2 A0185451432, 0185451432, A 018 545 14 32, 412229013002, VDO 412 229/013/002</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W210",
+      "ENGINE": "3.2",
+      "NUMBER MANUFACTURER": "VDO 412 229/013/002, 412229013002",
+      "NUMBER PARTS": "0185451432",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:27:58.980Z",
+    "model": "mistral:7b",
+    "durationMs": 9291,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Corsa B 1.2 - OEM Tested DELCO 16204739HK, 6-month Warranty",
+  "slug": "plug-play-ecu-opel-corsa-b-12-oem-tested-d95014-warranty",
+  "metaDescription": "Buy a tested ECU Engine Controller for Opel Corsa B 1.2 (DELCO 16204739 HK, D95014) with a 6-month warranty. Fast dispatch in EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Corsa B 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Corsa B",
+    "DELCO 16204739 HK",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Opel Corsa B 1.2 ensures reliable engine performance and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested and certified</li>\n        <li>Used in good condition</li>\n        <li>6-month warranty</li>\n        <li>Device thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CORSA B</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELCO 16204739 HK</td></tr>\n        <tr><th>NUMBER PARTS</th><td>BPDD</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Corsa B 1.2. Fitment caution may apply, please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA B 1.2, DELCO 16204739 HK, 16204739HK, D95014, BPDD",
+    "price": "€30.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-B-1.2%2C-DELCO-16204739-HK%2C-16204739HK%2C-D95014%2C-BPDD/72190",
+    "priceCurrency": "EUR",
+    "netPrice": "€24.39",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "855A-94446_20150203125258",
+    "sku": "855A-94446_20150203125258",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA B 1.2, DELCO 16204739 HK, 16204739HK, D95014, BPDD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_b91af939bae95e49d4874543a050db7c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c4f965d76e1d99b0e3ddf7d0529b3733_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_39d4aac90f3d1974bbc67325a6571df6_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_989e011fe820df38e5e40cb255398d71_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_43410466d882d64fdc56b0b8be93c328_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_da985c1e62ac3db492eef35be4bb106b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA B",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "DELCO 16204739 HK",
+      "NUMBER PARTS": "BPDD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:52:53.382Z",
+    "model": "mistral:7b",
+    "durationMs": 9377,
+    "priceIncrement": 100
+  }
+}

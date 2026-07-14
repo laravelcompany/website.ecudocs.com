@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Audi A4 1.6 - Siemens 3B0906018A, 5WP43312 05 - Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-1-6-siemens-3b0906018a-5wp4331205-warranty",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Audi A4 1.6 with 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Audi A4 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Siemens",
+    "3B0906018A",
+    "5WP43312 05"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Audi A4 1.6 is a reliable solution to restore your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A4</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>5WP43312 05</td></tr>\n        <tr><th>NUMBER PARTS</th><td>3B0 906 018A</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Please verify compatibility and fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 1.6 3B0 906 018A, 3B0906018A, 5WP43312 05, 5WP4331205",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-1.6-3B0-906-018A%2C-3B0906018A%2C-5WP43312-05%2C-5WP4331205/108604",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "1656-230ED_20180122124529",
+    "sku": "1656-230ED_20180122124529",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 1.6 3B0 906 018A, 3B0906018A, 5WP43312 05, 5WP4331205</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_1a033ff567176f88ddcc6c07fc3ff99c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e48cf2111587e66a383dee303caebc6e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "5WP43312 05",
+      "NUMBER PARTS": "3B0 906 018A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:55:59.835Z",
+    "model": "mistral:7b",
+    "durationMs": 9162,
+    "priceIncrement": 100
+  }
+}

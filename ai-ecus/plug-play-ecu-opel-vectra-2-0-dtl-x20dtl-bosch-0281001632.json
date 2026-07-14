@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Vectra 2.0 DTL X20DTL - Bosch 0281001632, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-opel-vectra-2-0-dtl-x20dtl-bosch-0281001632",
+  "metaDescription": "Buy the tested ECU Engine Controller for Opel Vectra 2.0 DTL X20DTL by Bosch (0281001632, 90508977 KW, 90 508 977 KW, 28SA2555). Plug & Play, OEM Tested, and covered by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU for Opel Vectra 2.0 DTL X20DTL - Bosch 0281001632",
+  "tags": [
+    "ECU repair",
+    "Opel Vectra",
+    "Bosch",
+    "2.0 DTL X20DTL",
+    "Plug & Play ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Opel Vectra 2.0 DTL X20DTL by Bosch (0281001632, 90508977 KW, 90 508 977 KW, 28SA2555) offers a reliable solution for your vehicle's engine management system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CHEVROLET HOLDEN VAUXHALL VECTRA</td></tr>\n        <tr><th>ENGINE</th><td>2.0 DTL X20DTL</td></tr>\n        <tr><th>YEAR</th><td>1997</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 632</td></tr>\n        <tr><th>CODE</th><td>KW</td></tr>\n        <tr><th>NUMBER PARTS</th><td>28SA2555</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra 2.0 DTL X20DTL. May require programming and professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL VECTRA 2.0 DTL X20DTL BOSCH 0281001632, 0 281 001 632, 90508977 KW, 90 508 977 KW, 28SA2555",
+    "price": "€30.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-VECTRA-2.0-DTL-X20DTL-BOSCH-0281001632%2C-0-281-001-632%2C-90508977-KW%2C-90-508-977-KW%2C-28SA2555/23737",
+    "priceCurrency": "EUR",
+    "netPrice": "€24.39",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1532-220CD_20120529100908",
+    "sku": "1532-220CD_20120529100908",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL VECTRA 2.0 DTL X20DTL BOSCH 0281001632, 0 281 001 632, 90508977 KW, 90 508 977 KW, 28SA2555</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL VECTRA",
+      "ENGINE": "2.0 DTL X20DTL",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 632",
+      "CODE": "KW",
+      "NUMBER PARTS": "28SA2555",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:43:49.017Z",
+    "model": "mistral:7b",
+    "durationMs": 11984,
+    "priceIncrement": 100
+  }
+}

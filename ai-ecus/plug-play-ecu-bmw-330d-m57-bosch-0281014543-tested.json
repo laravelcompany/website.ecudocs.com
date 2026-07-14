@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement BMW E90 325 5 E60 525 3.0 Diesel Bosch 0281014543 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-330d-m57-bosch-0281014543-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for BMW E90 325, E60 525 with 3.0 Diesel engine by Bosch (0281014543). Plug & Play, warranty included.",
+  "price": "€550.00",
+  "excerpt": "OEM tested ECU Engine Controller for BMW E90 325, E60 525 with 3.0 Diesel engine by Bosch (0281014543).",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281014543",
+    "BMW E90 325",
+    "BMW E60 525"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for BMW E90 325, E60 525 with 3.0 Diesel engine by Bosch (0281014543) offers a Plug & Play solution and is backed by a warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for reliable performance</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty</li>\n        <li>Locked and ready for programming</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>BMW SERII 3 E90 325 5 E60 525</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>ENGINE</th><td>3.0 DIESEL</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 014 543</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S23438</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with BMW E90 325 and E60 525 models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E90 325 5 E60 525 3.0 DIESEL BOSCH 0281014543, 0 281 014 543, DDE 7808314, DDE7808314, 7 808 314, 1039S23438",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E90-325-5-E60-525-3.0-DIESEL-BOSCH-0281014543%2C-0-281-014-543%2C-DDE-7808314%2C-DDE7808314%2C-7-808-314%2C-1039S23438/24791",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A4FC-46897_20120602185213",
+    "sku": "A4FC-46897_20120602185213",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E90 325 5 E60 525 3.0 DIESEL BOSCH 0281014543, 0 281 014 543, DDE 7808314, DDE7808314, 7 808 314, 1039S23438</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_293aa928d8de5557bc2ed036c01f8b8e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_96d1a6a5cb3e92cad12cc5b9861da5f8_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "BMW SERII 3 E90 325 5 E60 525",
+      "BRAND AND MODEL": "ECU ENGINE CONTROLLER",
+      "ENGINE": "3.0 DIESEL",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 543",
+      "NUMBER PARTS": "1039S23438",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:42:19.127Z",
+    "model": "mistral:7b",
+    "durationMs": 11419,
+    "priceIncrement": 100
+  }
+}

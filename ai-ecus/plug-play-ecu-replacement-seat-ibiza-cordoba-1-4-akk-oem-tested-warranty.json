@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Seat Ibiza Cordoba 1.4 AKK - OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-seat-ibiza-cordoba-1-4-akk-oem-tested-warranty",
+  "metaDescription": "Expertly tested ECU Engine Controller for Seat Ibiza Cordoba 1.4 AKK, Plug & Play, OEM Tested, and backed by a 6-month warranty.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Replacement for Seat Ibiza Cordoba 1.4 AKK",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Ibiza Cordoba",
+    "1.4 AKK Engine",
+    "Bosch ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Seat Ibiza Cordoba 1.4 AKK is expertly tested and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Seat Ibiza Cordoba 1.4 AKK</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SEAT IBIZA CORDOBA</td></tr>\n        <tr><th>ENGINE</th><td>1.4 AKK</td></tr>\n        <tr><th>YEAR</th><td>2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 206 836</td></tr>\n        <tr><th>NUMBER PARTS</th><td>26SA0000</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Seat Ibiza Cordoba 1.4 AKK but may require programming or additional parts for some applications.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA CORDOBA 1.6 6K0 906 032 Q, 6K0906032Q, BOSCH 0 261 206 836, 0261206836, 26SA0000",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-CORDOBA-1.6-6K0-906-032-Q%2C-6K0906032Q%2C-BOSCH-0-261-206-836%2C-0261206836%2C-26SA0000-/12284",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "05F8-914C2",
+    "sku": "05F8-914C2",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA CORDOBA 1.6 6K0 906 032 Q, 6K0906032Q, BOSCH 0 261 206 836, 0261206836, 26SA0000 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA CORDOBA",
+      "ENGINE": "1.4 AKK",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 836",
+      "NUMBER PARTS": "26SA0000",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:00:18.797Z",
+    "model": "mistral:7b",
+    "durationMs": 9497,
+    "priceIncrement": 100
+  }
+}

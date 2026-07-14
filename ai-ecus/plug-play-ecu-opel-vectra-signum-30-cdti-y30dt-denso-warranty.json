@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Opel Vectra Signum 3.0 CDTI Y30DT - Denso 897352-1659, Warranty Included",
+  "slug": "plug-play-ecu-opel-vectra-signum-30-cdti-y30dt-denso-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Opel Vectra Signum 3.0 CDTI Y30DT, covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Opel Vectra Signum 3.0 CDTI Y30DT",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra Signum",
+    "Denso",
+    "3.0 CDTI Y30DT"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Opel Vectra Signum 3.0 CDTI Y30DT is a reliable solution to ensure your vehicle's engine control system operates optimally.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch within EU</li>\n<li>Reliable Performance</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>OPEL VECTRA SIGNUM</td></tr>\n<tr><td>ENGINE</td><td>3.0 CDTI Y30DT</td></tr>\n<tr><td>YEAR</td><td>2004-05</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>DENSO 897352-1659</td></tr>\n<tr><td>CODE</td><td>JD</td></tr>\n<tr><td>NUMBER PARTS</td><td>D03002</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific faults. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA SIGNUM 3.0 CDTI Y30DT DENSO 8973521859, 897352-1659, 2758002257, 275800-2257, 24452707 JD D03002",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-SIGNUM-3.0-CDTI-Y30DT-DENSO-8973521859%2C-897352-1659%2C-2758002257%2C-275800-2257%2C-24452707-JD-D03002-/34349",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "C3CE-289CF_20121218174438",
+    "sku": "C3CE-289CF_20121218174438",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA SIGNUM 3.0 CDTI Y30DT DENSO 8973521859, 897352-1659, 2758002257, 275800-2257, 24452707 JD D03002 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VECTRA SIGNUM",
+      "ENGINE": "3.0 CDTI Y30DT",
+      "YEAR": "2004-05",
+      "NUMBER MANUFACTURER": "DENSO 897352-1659",
+      "CODE": "JD",
+      "NUMBER PARTS": "D03002",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:28:00.881Z",
+    "model": "mistral:7b",
+    "durationMs": 12326,
+    "priceIncrement": 100
+  }
+}

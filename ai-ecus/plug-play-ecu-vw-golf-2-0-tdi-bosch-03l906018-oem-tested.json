@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for VW Golf 2.0 TDI (Bosch 03L906018) - 6-month Warranty",
+  "slug": "plug-play-ecu-vw-golf-2-0-tdi-bosch-03l906018-oem-tested",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for VW Golf 2.0 TDI (Bosch 03L906018). Shipped within 24–48 hours, backed by a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU for VW Golf 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "VW Golf",
+    "2.0 TDI",
+    "Bosch",
+    "03L906018"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for VW Golf 2.0 TDI (Bosch 03L906018) ensures seamless engine control and reliability.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch (EU)</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>VW VOLKSWAGEN GOLF</td></tr>\n<tr><td>ENGINE</td><td>2.0 TDI</td></tr>\n<tr><td>YEAR</td><td>2011</td></tr>\n<tr><td>NUMBER PARTS</td><td>03L906018</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours, EU-wide. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with VW Golf 2.0 TDI (Bosch 03L906018). Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VW VOLKSWAGEN GOLF 2.0 TDI BOSCH 0 281 016 309, 0281016309, 03L 906 018, 03L906018",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VW-VOLKSWAGEN-GOLF-2.0-TDI-BOSCH-0-281-016-309%2C-0281016309%2C-03L-906-018%2C-03L906018-/55839",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F0A3-322CC_20140512150350",
+    "sku": "F0A3-322CC_20140512150350",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  VW VOLKSWAGEN GOLF 2.0 TDI BOSCH 0 281 016 309, 0281016309, 03L 906 018, 03L906018 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_273550_0_0/VOLKSWAGEN-GOLF-2.0-TDI-BOSCH-0-281-016-309%2C-0281016309%2C-03L-906-018%2C-03L906018.png",
+      "https://auto24parts.com/environment/cache/images/productGfx_256470_0_0/VW-VOLKSWAGEN-GOLF-2.0-TDI-BOSCH-0-281-016-309%2C-0281016309%2C-03L-906-018%2C-03L906018.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_256471_0_0/VW-VOLKSWAGEN-GOLF-2.0-TDI-BOSCH-0-281-016-309%2C-0281016309%2C-03L-906-018%2C-03L906018.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VW VOLKSWAGEN GOLF",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "2011",
+      "NUMBER PARTS": "03L906018",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:27:08.547Z",
+    "model": "mistral:7b",
+    "durationMs": 11097,
+    "priceIncrement": 100
+  }
+}

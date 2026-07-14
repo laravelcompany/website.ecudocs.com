@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Skoda Fabia Roomster 1.4 TDI - OEM Tested Bosch 0281013182, Warranty Included",
+  "slug": "plug-play-ecu-skoda-fabia-roomster-14-tdi-bosch-0281013182-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Skoda Fabia Roomster 1.4 TDI, OEM tested and covered by a 6-month warranty.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Replacement for Skoda Fabia Roomster 1.4 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Fabia Roomster",
+    "Bosch 0281013182",
+    "1.4 TDI"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for your Skoda Fabia Roomster 1.4 TDI, ensuring seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Expertly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SKODA FABIA ROOMSTER</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4 TDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 013 182</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1039S17727</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FABIA ROOMSTER 1.4 TDI 045906013A, 045 906 013 A, 045906013E, 045 906 013 E, BOSCH 0281013182, 0 281 013 182, DIESEL EDC17U01 9561, 1039S17727",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FABIA-ROOMSTER-1.4-TDI-045906013A%2C-045-906-013-A%2C-045906013E%2C-045-906-013-E%2C-BOSCH-0281013182%2C-0-281-013-182%2C-DIESEL-EDC17U01-9561%2C-1039S17727/25752",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "BEB8-254D2_20120609182914",
+    "sku": "BEB8-254D2_20120609182914",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FABIA ROOMSTER 1.4 TDI 045906013A, 045 906 013 A, 045906013E, 045 906 013 E, BOSCH 0281013182, 0 281 013 182, DIESEL EDC17U01 9561, 1039S17727</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FABIA ROOMSTER",
+      "ENGINE": "1.4 TDI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 182",
+      "NUMBER PARTS": "1039S17727",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:27:31.469Z",
+    "model": "mistral:7b",
+    "durationMs": 11200,
+    "priceIncrement": 100
+  }
+}

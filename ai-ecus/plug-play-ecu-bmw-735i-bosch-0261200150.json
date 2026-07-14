@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW 735i Engine Controller (Bosch 0 261 200 150, OEM Tested, 6-month Warranty)",
+  "slug": "plug-play-ecu-bmw-735i-bosch-0261200150",
+  "metaDescription": "OEM tested Plug & Play ECU Replacement for BMW 735i. Ships within 24–48 hours, backed by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW 735i",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 261 200 150",
+    "BMW 735i"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement is suitable for BMW 735i models from 1986-1991. The device has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Ready for programming</li>\n        <li>Used, original in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>BMW 735i</td></tr>\n        <tr><th>YEAR:</th><td>1986-1991</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 200 150</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>1720980 013</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific ECU programming requirements. Please consult with a professional technician for proper installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW 735i BOSCH 0 261 200 150, 0261200150, 1720980 013, 1720980013",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-735i-BOSCH-0-261-200-150%2C-0261200150%2C-1720980-013%2C-1720980013/38549",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "410E-2916D_20130729120340",
+    "sku": "410E-2916D_20130729120340",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW 735i BOSCH 0 261 200 150, 0261200150, 1720980 013, 1720980013</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW 735i",
+      "YEAR": "1986-1991",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 200 150",
+      "NUMBER PARTS": "1720980 013",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:14:21.963Z",
+    "model": "mistral:7b",
+    "durationMs": 9374,
+    "priceIncrement": 100
+  }
+}

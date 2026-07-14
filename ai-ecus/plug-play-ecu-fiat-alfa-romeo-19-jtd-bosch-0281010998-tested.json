@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Alfa Romeo 1.9 JTD Bosch 0 281 010 998, OEM Tested",
+  "slug": "plug-play-ecu-fiat-alfa-romeo-19-jtd-bosch-0281010998-tested",
+  "metaDescription": "Expertly tested and OEM ECU replacement for Fiat Alfa Romeo 1.9 JTD Bosch 0 281 010 998, backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Alfa Romeo 1.9 JTD Bosch 0 281 010 998",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Alfa Romeo 1.9 JTD",
+    "Bosch 0 281 010 998"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Fiat Alfa Romeo 1.9 JTD Bosch 0 281 010 998 is a reliable solution, ensuring seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed performance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Locked/unlocked option available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FIAT ALFA ROMEO</td></tr>\n        <tr><th>ENGINE:</th><td>1.9 JTD</td></tr>\n        <tr><th>YEAR:</th><td>2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 998</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>55193521</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Alfa Romeo 1.9 JTD Bosch 0 281 010 998. Ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT ALFA ROMEO 1.9 JTD BOSCH 0 281 010 998, 0281010998, 55193521, 188 456D1CABA 100, 188456D1CABA100, 1039S04454",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-ALFA-ROMEO-1.9-JTD-BOSCH-0-281-010-998%2C-0281010998%2C-55193521%2C-188-456D1CABA-100%2C-188456D1CABA100%2C-1039S04454-/77128",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2624-553BD_20150722192623",
+    "sku": "2624-553BD_20150722192623",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT ALFA ROMEO 1.9 JTD BOSCH 0 281 010 998, 0281010998, 55193521, 188 456D1CABA 100, 188456D1CABA100, 1039S04454 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT ALFA ROMEO",
+      "ENGINE": "1.9 JTD",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 998",
+      "NUMBER PARTS": "55193521",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:19:25.816Z",
+    "model": "mistral:7b",
+    "durationMs": 12200,
+    "priceIncrement": 100
+  }
+}

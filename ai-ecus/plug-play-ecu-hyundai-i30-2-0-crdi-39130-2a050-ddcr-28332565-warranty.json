@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Hyundai i30 2.0 CRDI 39130-2A050, DDCR 28332565 - 6-month Warranty",
+  "slug": "plug-play-ecu-hyundai-i30-2-0-crdi-39130-2a050-ddcr-28332565-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for your Hyundai i30 2.0 CRDI, model 39130-2A050, DDCR 28332565. Enjoy a 6-month warranty and fast shipping.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Hyundai i30 2.0 CRDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai i30",
+    "2.0 CRDI",
+    "DDCR 28332565"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Hyundai i30 2.0 CRDI, model 39130-2A050, DDCR 28332565, is a reliable replacement that ensures optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>HYUNDAI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>39130-2A050</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>DDCR 28332565</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Hyundai i30 2.0 CRDI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI 391302A050, 39130-2A050, DDCR 28332565",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-391302A050%2C-39130-2A050%2C-DDCR-28332565/127050",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "D6BC-917DB_20211103124032",
+    "sku": "D6BC-917DB_20211103124032",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI 391302A050, 39130-2A050, DDCR 28332565</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_259969_0_0/HYUNDAI-391302A050%2C-39130-2A050%2C-DDCR-28332565.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_259970_0_0/HYUNDAI-391302A050%2C-39130-2A050%2C-DDCR-28332565.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI",
+      "NUMBER MANUFACTURER": "39130-2A050",
+      "NUMBER PARTS": "DDCR 28332565",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:32:31.845Z",
+    "model": "mistral:7b",
+    "durationMs": 11594,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A4 1.8 BOSCH 0 261 206 896 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-18-bosch-0261206896-tested",
+  "metaDescription": "Expertly tested and guaranteed ECU replacement for Audi A4 1.8 BOSCH 0 261 206 896. Fast dispatch, 12-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU replacement for Audi A4 1.8 BOSCH 0 261 206 896",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "BOSCH 0 261 206 896"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Audi A4 1.8 BOSCH 0 261 206 896 ensures seamless engine control and is backed by a 12-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed performance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition, thoroughly inspected and tested by a certified technician</li>\n        <li>Compatible with Audi A4 1.8 (2000)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI A4</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2000</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 206 896</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8D0906018AA</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Audi A4 1.8 (2000). Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 1.8 BOSCH 0 261 206 896, 0261206896, 8D0 906 018 AA, 8D0906018AA",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-1.8-BOSCH-0-261-206-896%2C-0261206896%2C-8D0-906-018-AA%2C-8D0906018AA/62055",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A464-71251_20140801162238",
+    "sku": "A464-71251_20140801162238",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 1.8 BOSCH 0 261 206 896, 0261206896, 8D0 906 018 AA, 8D0906018AA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "1.8",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 896",
+      "NUMBER PARTS": "8D0906018AA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:58:26.933Z",
+    "model": "mistral:7b",
+    "durationMs": 14217,
+    "priceIncrement": 100
+  }
+}

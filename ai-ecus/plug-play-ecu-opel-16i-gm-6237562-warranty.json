@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Opel 1.6 i Engine Controller (16234275, GM 62 37 562) - Warranty Included",
+  "slug": "plug-play-ecu-opel-16i-gm-6237562-warranty",
+  "metaDescription": "Buy the tested and certified Plug & Play ECU Engine Controller for Opel 1.6 i (16234275, GM 62 37 562). Enjoy a 6-month warranty and fast shipping.",
+  "price": "€85.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel 1.6 i",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "OPEL 1.6 i",
+    "GM 62 37 562"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Opel 1.6 i (16234275, GM 62 37 562) is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used but in good condition</li>\n        <li>Certified by a technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6 i</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1994-2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>GM 62 37 562</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>16234275</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel 1.6 i (1994-2001). Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL 16234275, GM 62 37 562, 6237562",
+    "price": "€75.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-16234275%2C-GM-62-37-562%2C-6237562/65362",
+    "priceCurrency": "EUR",
+    "netPrice": "€60.98",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "62D2-14321_20140908094448",
+    "sku": "62D2-14321_20140908094448",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL 16234275, GM 62 37 562, 6237562</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL",
+      "ENGINE": "1.6 i",
+      "YEAR": "1994-2001",
+      "NUMBER MANUFACTURER": "GM 62 37 562",
+      "NUMBER PARTS": "16234275",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:54:45.632Z",
+    "model": "mistral:7b",
+    "durationMs": 13846,
+    "priceIncrement": 100
+  }
+}

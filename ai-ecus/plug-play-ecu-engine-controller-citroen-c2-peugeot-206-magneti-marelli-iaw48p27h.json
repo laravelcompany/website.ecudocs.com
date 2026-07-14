@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Engine Controller Citroen C2 Peugeot 206 Magneti Marelli IAW48P27H - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-engine-controller-citroen-c2-peugeot-206-magneti-marelli-iaw48p27h",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Citroen C2 Peugeot 206 Magneti Marelli IAW48P27H. Plug & Play replacement, backed by a 12-month warranty.",
+  "price": "€135.00",
+  "excerpt": "OEM tested ECU Engine Controller for Citroen C2 Peugeot 206",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Magneti Marelli IAW48P27H",
+    "Citroen C2",
+    "Peugeot 206"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Citroen C2 Peugeot 206 Magneti Marelli IAW48P27H is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN C2 PEUGEOT 206</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.1</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI IAW 48P2.7H</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>9646570280</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen C2 and Peugeot 206 models equipped with the specified ECU Engine Controller.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C2 PEUGEOT 206 MAGNETI MARELLI IAW 48P2.7H, IAW48P27H, HW 16.623.004, 16623004, 9645989480, SW 16.634.044, 16634044, 9646570280",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C2-PEUGEOT-206-MAGNETI-MARELLI-IAW-48P2.7H%2C-IAW48P27H%2C-HW-16.623.004%2C-16623004%2C-9645989480%2C-SW-16.634.044%2C-16634044%2C-9646570280/32482",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "67FB-4157B",
+    "sku": "67FB-4157B",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C2 PEUGEOT 206 MAGNETI MARELLI IAW 48P2.7H, IAW48P27H, HW 16.623.004, 16623004, 9645989480, SW 16.634.044, 16634044, 9646570280</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_badddf8c690aca5ab47c2efdc87356ae_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3e58abbbdf761c839071b1dd64221e9f_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C2 PEUGEOT 206",
+      "ENGINE": "1.1",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 48P2.7H",
+      "NUMBER PARTS": "9646570280",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:29:24.376Z",
+    "model": "mistral:7b",
+    "durationMs": 11978,
+    "priceIncrement": 100
+  }
+}

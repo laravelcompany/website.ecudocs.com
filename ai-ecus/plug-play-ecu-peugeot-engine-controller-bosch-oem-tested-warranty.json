@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Peugeot Engine Controller Bosch 0261S04374 9665248580 MED17.4 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-peugeot-engine-controller-bosch-oem-tested-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Peugeot, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot engine controller",
+    "Bosch OEM part",
+    "used original in good condition"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Peugeot is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used Original in Good Condition</li><li>Ready for Programming</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>0261S04374 9665248580 MED17.4</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 0261S04374 9665248580 MED17.4",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-0261S04374-9665248580-MED17.4/138245",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1A91-23245_20240115155252",
+    "sku": "1A91-23245_20240115155252",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 0261S04374 9665248580 MED17.4</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_289996_0_0/PEUGEOT-0261S04374-9665248580-MED17.4.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_289997_0_0/PEUGEOT-0261S04374-9665248580-MED17.4.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT",
+      "NUMBER MANUFACTURER": "0261S04374 9665248580 MED17.4",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:32:32.141Z",
+    "model": "mistral:7b",
+    "durationMs": 9350,
+    "priceIncrement": 100
+  }
+}

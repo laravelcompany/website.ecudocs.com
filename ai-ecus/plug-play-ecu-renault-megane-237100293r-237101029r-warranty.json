@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Renault Megane - 237100293R, 237101029R - Warranty Included",
+  "slug": "plug-play-ecu-renault-megane-237100293r-237101029r-warranty",
+  "metaDescription": "Get a certified, OEM tested Plug & Play ECU Replacement for your Renault Megane. This used original part is in good condition and comes with a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Renault Megane",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane",
+    "Valeo",
+    "237100293R",
+    "237101029R"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for your Renault Megane ensures seamless engine control. It is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Certified Technician Inspection</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT MEGANE</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>237100293R</td></tr>\n        <tr><th>NUMBER PARTS</th><td>237101029R</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary by vehicle year and model. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE 237100293R, V29008398A, 237101029R",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-237100293R%2C-V29008398A%2C-237101029R/107982",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Valeo",
+    "productCode": "FB58-531BD_20171219122352",
+    "sku": "FB58-531BD_20171219122352",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE 237100293R, V29008398A, 237101029R</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE",
+      "NUMBER MANUFACTURER": "237100293R",
+      "NUMBER PARTS": "237101029R",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:52:21.903Z",
+    "model": "mistral:7b",
+    "durationMs": 8621,
+    "priceIncrement": 100
+  }
+}

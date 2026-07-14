@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.6 - V90FB12A650AB, EF1-VM120 - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-fiesta-16-v90fb12a650ab-ef1-vm120-warranty",
+  "metaDescription": "Expertly tested and OEM Visteon ECU for Ford Fiesta 1.6 - Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested ECU Replacement for Ford Fiesta 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "V90FB12A650AB",
+    "EF1-VM120",
+    "Ford Fiesta"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for Ford Fiesta 1.6 is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">...(technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.6 V90FB12A650AB, V90FB-12A650-AB 0FAB, EF1-VM120",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.6-V90FB12A650AB%2C-V90FB-12A650-AB-0FAB%2C-EF1-VM120/30355",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "CFD6-19884_20120930195159",
+    "sku": "CFD6-19884_20120930195159",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.6 V90FB12A650AB, V90FB-12A650-AB 0FAB, EF1-VM120</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.6",
+      "YEAR": "1990",
+      "NUMBER MANUFACTURER": "V90FB12A650AB",
+      "NUMBER PARTS": "EF1-VM120",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:33:06.210Z",
+    "model": "mistral:7b",
+    "durationMs": 6170,
+    "priceIncrement": 100
+  }
+}

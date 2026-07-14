@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for PEUGEOT 406/CITROEN XSARA 2.0L HDI - OEM Tested, Warranty Included (5WS40037D-T, SW 9650517780, HW 9647423380)",
+  "slug": "plug-play-ecu-replacement-peugeot-406-citroen-xsara-2-0l-hdi-oem-tested-warranty",
+  "metaDescription": "OEM tested and covered by a 6-month warranty, this Plug & Play ECU replacement for PEUGEOT 406/CITROEN XSARA 2.0L HDI is ready to restore your vehicle's performance.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT 406/CITROEN XSARA",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 406",
+    "CITROEN XSARA",
+    "2.0L HDI",
+    "Siemens"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for PEUGEOT 406/CITROEN XSARA 2.0L HDI has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with 2.0L HDI engine</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 406 CITROEN XSARA</td></tr>\n        <tr><th>ENGINE</th><td>2.0 L HDI</td></tr>\n        <tr><th>YEAR</th><td>2003</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HW 9647423380</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with PEUGEOT 406 and CITROEN XSARA models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 406 CITROEN XSARA SIEMENS SID 801A 5WS40037D-T, 5WS40037DT, SW 9650517780, HW 9647423380",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-406-CITROEN-XSARA-SIEMENS-SID-801A-5WS40037D-T%2C-5WS40037DT%2C-SW-9650517780%2C-HW-9647423380/59163",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "5FA2-38143_20140623103636",
+    "sku": "5FA2-38143_20140623103636",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 406 CITROEN XSARA SIEMENS SID 801A 5WS40037D-T, 5WS40037DT, SW 9650517780, HW 9647423380</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 406 CITROEN XSARA",
+      "ENGINE": "2.0 L HDI",
+      "YEAR": "2003",
+      "NUMBER PARTS": "HW 9647423380",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:18:54.675Z",
+    "model": "mistral:7b",
+    "durationMs": 11192,
+    "priceIncrement": 100
+  }
+}

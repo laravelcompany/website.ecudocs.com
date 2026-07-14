@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Citroen C3 1.6 HDi (2005-2017) Delphi R0411C023C, 9648966680, 9654305780",
+  "slug": "plug-play-ecu-citroen-c3-16-hdi-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for Citroen C3 1.6 HDi (2005-2017) by Delphi, backed by a 6-month warranty and ready for plug & play installation.",
+  "price": "€250.00",
+  "excerpt": "OEM tested ECU replacement for Citroen C3 1.6 HDi",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C3",
+    "HDi engine",
+    "Delphi"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Citroen C3 1.6 HDi (2005-2017) ensures reliable performance and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>CITROEN</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>R0411C023C</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>9654305780</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen C3 1.6 HDi (2005-2017). Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN R0411C023C, 9648966680, 9654305780",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-R0411C023C%2C-9648966680%2C-9654305780/111290",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "4E7E-18492_20181002144957",
+    "sku": "4E7E-18492_20181002144957",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN R0411C023C, 9648966680, 9654305780</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_5ba0dd809b76d61eab0f7c1f38cb8f1a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6762541f4ab7f714690571462d9b397b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN",
+      "NUMBER MANUFACTURER": "R0411C023C",
+      "NUMBER PARTS": "9654305780",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:34:15.465Z",
+    "model": "mistral:7b",
+    "durationMs": 10972,
+    "priceIncrement": 100
+  }
+}

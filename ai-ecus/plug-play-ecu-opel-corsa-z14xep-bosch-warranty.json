@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - OPEL CORSA Z14XEP BOSCH 0 261 207 721, Warranty Included",
+  "slug": "plug-play-ecu-opel-corsa-z14xep-bosch-warranty",
+  "metaDescription": "Buy OEM tested ECU ENGINE CONTROLLER for OPEL CORSA Z14XEP, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Corsa Z14XEP",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "OPEL CORSA Z14XEP",
+    "BOSCH 0 261 207 721"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER for Opel Corsa Z14XEP is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CORSA</td></tr>\n        <tr><th>ENGINE</th><td>Z14XEP</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 207 721</td></tr>\n        <tr><th>NUMBER PARTS</th><td>24420560 QD</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Corsa Z14XEP. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA Z14XEP BOSCH 0 261 207 721, 0261207721, 24420560 QD",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-Z14XEP-BOSCH-0-261-207-721%2C-0261207721%2C-24420560-QD/105498",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "90B1-312D2_20170606114546",
+    "sku": "90B1-312D2_20170606114546",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA Z14XEP BOSCH 0 261 207 721, 0261207721, 24420560 QD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA",
+      "ENGINE": "Z14XEP",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 721",
+      "NUMBER PARTS": "24420560 QD",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:02:46.382Z",
+    "model": "mistral:7b",
+    "durationMs": 9238,
+    "priceIncrement": 100
+  }
+}

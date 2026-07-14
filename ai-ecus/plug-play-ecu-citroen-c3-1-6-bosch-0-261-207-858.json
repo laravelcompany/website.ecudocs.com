@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Engine Controller - Citroen C3 1.6 Bosch 0 261 207 858, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-citroen-c3-1-6-bosch-0-261-207-858",
+  "metaDescription": "Find your Plug & Play ECU Engine Controller for Citroen C3 1.6 Bosch 0 261 207 858, OEM tested and covered by a warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Citroen C3 1.6 Bosch",
+  "tags": [
+    "ECU Replacement",
+    "Citroen C3",
+    "Bosch",
+    "1.6",
+    "0 261 207 858"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Citroen C3 1.6 Bosch is OEM tested and comes with a warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C3 1.6 BOSCH 0 261 207 858, 0261207858, 96 478 179 80, 9647817980, ME7.4.4 55",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C3-1.6-BOSCH-0-261-207-858%2C-0261207858%2C-96-478-179-80%2C-9647817980%2C-ME7.4.4-55-/86344",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C337-60745_20160217132104",
+    "sku": "C337-60745_20160217132104",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C3 1.6 BOSCH 0 261 207 858, 0261207858, 96 478 179 80, 9647817980, ME7.4.4 55 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C3",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 858",
+      "NUMBER PARTS": "96 478 179 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:33:43.533Z",
+    "model": "mistral:7b",
+    "durationMs": 6030,
+    "priceIncrement": 100
+  }
+}

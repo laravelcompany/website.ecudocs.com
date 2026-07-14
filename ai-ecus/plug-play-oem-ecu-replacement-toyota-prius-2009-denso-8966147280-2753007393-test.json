@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Toyota Prius (2009), Denso 89661-47280, 275300-7393 - Tested, Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-toyota-prius-2009-denso-8966147280-2753007393-test",
+  "metaDescription": "Get a Plug & Play OEM ECU replacement for your Toyota Prius (2009) with our Denso 89661-47280, 275300-7393 unit. Tested and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Toyota Prius (2009)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso",
+    "Toyota Prius",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for your Toyota Prius (2009) is thoroughly inspected and tested by certified technicians, ensuring optimal performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>Parts</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>Brand and Model</td><td>TOYOTA PRIUS</td></tr>\n<tr><td>Year</td><td>2009</td></tr>\n<tr><td>Number Manufacturer</td><td>89661-47280</td></tr>\n<tr><td>Number Parts</td><td>275300-7393</td></tr>\n<tr><td>Option Available</td><td>Plug & Play / Locked / Ready for Programming</td></tr>\n<tr><td>Inspection:</td><td>Device Thoroughly Inspected and Tested by a Certified Technician</td></tr>\n<tr><td>Warranty:</td><td>6-month warranty</td></tr>\n<tr><td>Condition</td><td>Used Original in Good Condition</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Toyota Prius (2009). Fitment caution may apply. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA PRIUS, 89661-47280, 8966147280, 275300-7393, 2753007393",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-PRIUS%2C-89661-47280%2C-8966147280%2C-275300-7393%2C-2753007393-/44246",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "7BF8-148D3",
+    "sku": "7BF8-148D3",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA PRIUS, 89661-47280, 8966147280, 275300-7393, 2753007393 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA PRIUS",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "89661-47280",
+      "NUMBER PARTS": "275300-7393",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programmin",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:29:23.215Z",
+    "model": "mistral:7b",
+    "durationMs": 11286,
+    "priceIncrement": 100
+  }
+}

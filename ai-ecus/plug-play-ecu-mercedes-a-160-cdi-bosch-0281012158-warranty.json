@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mercedes A 160 CDI Bosch 0 281 012 158, A6401501779 - Warranty Included",
+  "slug": "plug-play-ecu-mercedes-a-160-cdi-bosch-0281012158-warranty",
+  "metaDescription": "Expertly tested and OEM Plug & Play ECU Engine Controller for Mercedes A 160 CDI. Covered by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested ECU Replacement for Mercedes A 160 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes A 160 CDI",
+    "Bosch 0 281 012 158",
+    "A6401501779"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Mercedes A 160 CDI is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play Installation</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Locked / Unlocked Options Available</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MERCEDES A</td></tr>\n<tr><td>ENGINE</td><td>160 CDI</td></tr>\n<tr><td>YEAR</td><td>2004</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 012 158</td></tr>\n<tr><td>NUMBER PARTS</td><td>A 640 150 17 79</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary by vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES A 160 CDI BOSCH 0 281 012 158, 0281012158, A 640 150 17 79, A6401501779, CRA.31",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-A-160-CDI-BOSCH-0-281-012-158%2C-0281012158%2C-A-640-150-17-79%2C-A6401501779%2C-CRA.31-/91157",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3B51-1691E_20160515163006",
+    "sku": "3B51-1691E_20160515163006",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES A 160 CDI BOSCH 0 281 012 158, 0281012158, A 640 150 17 79, A6401501779, CRA.31 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES A",
+      "ENGINE": "160 CDI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 158",
+      "NUMBER PARTS": "A 640 150 17 79",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:09:16.872Z",
+    "model": "mistral:7b",
+    "durationMs": 11454,
+    "priceIncrement": 100
+  }
+}

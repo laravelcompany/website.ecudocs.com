@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford Visteon 98BB-12A650-BTF, LP2-310 - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-visteon-98bb-12a650-btf-lp2-310-warran",
+  "metaDescription": "Buy Plug & Play OEM Tested ECU Replacement for Ford Visteon 98BB-12A650-BTF, LP2-310. Shipped within 24–48 hours and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Visteon",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Visteon",
+    "1.8 16V Engine"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Ford Visteon is a reliable solution to ensure your vehicle's engine control unit operates optimally.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM-tested and certified</li>\n        <li>Plug & Play installation</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used original in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD</td></tr>\n        <tr><th>ENGINE:</th><td>1.8 16V</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>VISTEON 98BB-12A650-BTF</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>LP2-310</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford vehicles equipped with the specified ECU. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD VISTEON 98BB-12A650-BTF, 98BB12A650BTF, WASH, LP2-310",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-VISTEON-98BB-12A650-BTF%2C-98BB12A650BTF%2C-WASH%2C-LP2-310/63389",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "ECFF-134AE_20140819121000",
+    "sku": "ECFF-134AE_20140819121000",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD VISTEON 98BB-12A650-BTF, 98BB12A650BTF, WASH, LP2-310</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_b5b61bb192bc397e73a710cca8e6c29b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_80ad10b21a86d858dfef205e35cf0885_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "ENGINE": "1.8 16V",
+      "NUMBER MANUFACTURER": "VISTEON 98BB-12A650-BTF",
+      "NUMBER PARTS": "LP2-310",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:10:27.704Z",
+    "model": "mistral:7b",
+    "durationMs": 10553,
+    "priceIncrement": 100
+  }
+}

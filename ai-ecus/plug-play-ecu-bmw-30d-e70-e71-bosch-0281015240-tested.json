@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW X5 E70 X6 E71 3.0 Diesel Bosch 0281015240, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-bmw-30d-e70-e71-bosch-0281015240-tested",
+  "metaDescription": "Expertly tested and ready for plug & play ECU replacement. OEM Bosch part for BMW X5 E70 X6 E71 3.0 Diesel (2008). Backed by a 6-month warranty.",
+  "price": "€485.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW X5/X6 3.0D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281015240",
+    "BMW X5 E70 X6 E71",
+    "3.0 Diesel"
+  ],
+  "description": "<section class=\"overview\">This OEM Bosch ECU engine controller is a direct replacement for BMW X5 E70 X6 E71 3.0 Diesel (2008). It has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play</li>\n      <li>OEM Tested</li>\n      <li>6-month Warranty</li>\n      <li>Locked and Ready for Programming</li>\n      <li>Used in Good Condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><td>BRAND AND MODEL</td><td>BMW X5 E70 X6 E71</td></tr>\n        <tr><td>ENGINE</td><td>3.0 DIESEL</td></tr>\n        <tr><td>YEAR</td><td>2008</td></tr>\n        <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 015 240</td></tr>\n        <tr><td>NUMBER PARTS</td><td>1039S25860</td></tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with BMW X5 E70 and X6 E71 models only. Fitment may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW X5 E70 X6 E71 3.0 DIESEL BOSCH 0281015240, 0 281 015 240, DDE 7810950, DME7810950, 7 810 950, 1039S25860",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-X5-E70-X6-E71-3.0-DIESEL-BOSCH-0281015240%2C-0-281-015-240%2C-DDE-7810950%2C-DME7810950%2C-7-810-950%2C-1039S25860/24852",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DF5C-55395_20120603154449",
+    "sku": "DF5C-55395_20120603154449",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW X5 E70 X6 E71 3.0 DIESEL BOSCH 0281015240, 0 281 015 240, DDE 7810950, DME7810950, 7 810 950, 1039S25860</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW X5 E70 X6 E71",
+      "ENGINE": "3.0 DIESEL",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 240",
+      "NUMBER PARTS": "1039S25860",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:53:06.942Z",
+    "model": "mistral:7b",
+    "durationMs": 11310,
+    "priceIncrement": 100
+  }
+}

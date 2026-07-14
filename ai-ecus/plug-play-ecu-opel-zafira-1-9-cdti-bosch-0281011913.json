@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Engine Controller Opel Zafira 1.9 CDTI BOSCH 0281011913 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-zafira-1-9-cdti-bosch-0281011913",
+  "metaDescription": "Buy this Plug & Play ECU Engine Controller for Opel Zafira 1.9 CDTI, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€250.00",
+  "excerpt": "Replacement OEM ECU for Opel Zafira 1.9 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Zafira",
+    "1.9 CDTI",
+    "BOSCH 0281011913"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Opel Zafira 1.9 CDTI is a tested and reliable replacement part, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Expertly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CHEVROLET HOLDEN VAUXHALL ZAFIRA</td></tr>\n        <tr><th>ENGINE</th><td>1.9 CDTI Z19DT Z19DTJ Z19DTH</td></tr>\n        <tr><th>YEAR</th><td>2008</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 913</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S12972</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">EU, 12-month warranty, fast dispatch</section>\n<section class=\"compatibility\">Compatible with Opel Zafira 1.9 CDTI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ZAFIRA 1.9 CDTI Z19DT Z19DTJ Z19DTH BOSCH 0281011913, 0 281 011 913, 55556262, 55 556 262",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-ZAFIRA-1.9-CDTI-Z19DT-Z19DTJ-Z19DTH-BOSCH-0281011913%2C-0-281-011-913%2C-55556262%2C-55-556-262/28262",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9926-6130B_20120824075215",
+    "sku": "9926-6130B_20120824075215",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ZAFIRA 1.9 CDTI Z19DT Z19DTJ Z19DTH BOSCH 0281011913, 0 281 011 913, 55556262, 55 556 262</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL ZAFIRA",
+      "ENGINE": "1.9 CDTI Z19DT Z19DTJ Z19DTH",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 913",
+      "NUMBER PARTS": "1039S12972",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:48:16.621Z",
+    "model": "mistral:7b",
+    "durationMs": 11541,
+    "priceIncrement": 100
+  }
+}

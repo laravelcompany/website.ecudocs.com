@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Renault ESPACE 2.2 DCI Bosch 0 281 001 999, Used in Good Condition, 6-month Warranty",
+  "slug": "plug-play-ecu-renault-espace-2-2-dci-bosch-0-281-001-999-used",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Renault ESPACE 2.2 DCI Bosch 0 281 001 999, used in good condition with a 6-month warranty. Fast dispatch and EU shipping available.",
+  "price": "€70.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Renault ESPACE 2.2 DCI Bosch 0 281 001 999",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault ESPACE",
+    "2.2 DCI",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Renault ESPACE 2.2 DCI Bosch 0 281 001 999 is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch and EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT ESPACE</td></tr>\n        <tr><th>ENGINE</th><td>2.2 DCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 999</td></tr>\n        <tr><th>NUMBER PARTS</th><td>7700114854</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 6-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT ESPACE 2.2 DCI BOSCH 0 281 001 999, 0281001999, HOM7700104407, 7700104407, 7700114854",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-ESPACE-2.2-DCI-BOSCH-0-281-001-999%2C-0281001999%2C-HOM7700104407%2C-7700104407%2C-7700114854-/30282",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FFB1-164D0_20120930160240",
+    "sku": "FFB1-164D0_20120930160240",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT ESPACE 2.2 DCI BOSCH 0 281 001 999, 0281001999, HOM7700104407, 7700104407, 7700114854 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c81f5e41acc8475225057eebc5a4cb63_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4f0d3e93b96781f81ac2b3beb0b78f7a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT ESPACE",
+      "ENGINE": "2.2 DCI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 999",
+      "NUMBER PARTS": "7700114854",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:18:08.461Z",
+    "model": "mistral:7b",
+    "durationMs": 9719,
+    "priceIncrement": 100
+  }
+}

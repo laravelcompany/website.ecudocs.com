@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A4 2.0 ALT OEM Tested Bosch 0 261 207 285, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-2-0-alt-bosch-0261207285-warranty",
+  "metaDescription": "OEM tested and Plug & Play ECU replacement for Audi A4 2.0 ALT (Bosch 0 261 207 285). Covered by a 6-month warranty.",
+  "price": "€109.00",
+  "excerpt": "Plug & Play ECU replacement for Audi A4 2.0 ALT",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Bosch",
+    "2.0 ALT"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for your Audi A4 2.0 ALT is thoroughly inspected, tested by a certified technician and comes with a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>Warranty Included</li>\n<li>Fast Dispatch</li>\n<li>Expertly Inspected</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Details</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>AUDI A4</td></tr>\n<tr><td>ENGINE</td><td>2.0 ALT</td></tr>\n<tr><td>YEAR</td><td>2001</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 207 285</td></tr>\n<tr><td>NUMBER PARTS</td><td>BENZIN ME7.5 0003</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility and fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 2.0 ALT 8E0909557, 8E0 907 557, BOSCH 0 261 207 285, 0261207285, BENZIN ME7.5 0003, 26SA7965",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-2.0-ALT-8E0909557%2C-8E0-907-557%2C-BOSCH-0-261-207-285%2C-0261207285%2C-BENZIN-ME7.5-0003%2C-26SA7965-/16158",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "52BB-81180",
+    "sku": "52BB-81180",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 2.0 ALT 8E0909557, 8E0 907 557, BOSCH 0 261 207 285, 0261207285, BENZIN ME7.5 0003, 26SA7965 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "2.0 ALT",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 285",
+      "NUMBER PARTS": "BENZIN ME7.5 0003",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:03:54.331Z",
+    "model": "mistral:7b",
+    "durationMs": 11395,
+    "priceIncrement": 100
+  }
+}

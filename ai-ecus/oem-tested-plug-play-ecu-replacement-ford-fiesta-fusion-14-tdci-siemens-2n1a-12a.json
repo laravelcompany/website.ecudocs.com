@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta Fusion 1.4 TDCI - Siemens 2N1A-12A650-AG, J38AC - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-replacement-ford-fiesta-fusion-14-tdci-siemens-2n1a-12a",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Fiesta Fusion 1.4 TDCI by Siemens (2N1A-12A650-AG, J38AC). Comes with a 6-month warranty and fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta Fusion 1.4 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta Fusion",
+    "Siemens",
+    "2N1A-12A650-AG",
+    "J38AC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Fiesta Fusion 1.4 TDCI by Siemens ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch in EU</li>\n        <li>Compatible with Ford Fiesta Fusion 1.4 TDCI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FIESTA FUSION</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4 TDCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>2N1A-12A650-AG</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>J38AC</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Fiesta Fusion 1.4 TDCI only. Please ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA FUSION 1.4 TDCI 2N1A-12A650-AG, 2N1A12A650AG, 12A650AG,5WS40031G-T, 4AGF, J38AC",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-FUSION-1.4-TDCI-2N1A-12A650-AG%2C-2N1A12A650AG%2C-12A650AG%2C5WS40031G-T%2C-4AGF%2C-J38AC/37549",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "918A-199DE_20130716112815",
+    "sku": "918A-199DE_20130716112815",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA FUSION 1.4 TDCI 2N1A-12A650-AG, 2N1A12A650AG, 12A650AG,5WS40031G-T, 4AGF, J38AC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e8ea0dab18c5a98b39c6102211b4d8cc_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_42c54324cf08ad7a96edc6a83d230a21_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA FUSION",
+      "ENGINE": "1.4 TDCI",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "2N1A-12A650-AG",
+      "NUMBER PARTS": "J38AC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming / complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:36:48.757Z",
+    "model": "mistral:7b",
+    "durationMs": 12264,
+    "priceIncrement": 100
+  }
+}

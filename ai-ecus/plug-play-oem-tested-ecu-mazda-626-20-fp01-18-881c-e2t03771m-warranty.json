@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Mazda 626 2.0 - FP01 18 881C, E2T03771M - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-mazda-626-20-fp01-18-881c-e2t03771m-warranty",
+  "metaDescription": "Buy a Plug & Play OEM Tested ECU Engine Controller for Mazda 626 2.0 (FP01 18 881C, E2T03771M) with 6-month warranty. Ships within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Mazda 626 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mazda 626",
+    "FP01 18 881C",
+    "E2T03771M"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Engine Controller is a direct replacement for your Mazda 626 2.0 (FP01 18 881C, E2T03771M). It has been thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MAZDA 626</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1992-1997</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>FP01 18 881C</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>E2T03771M</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mazda 626 2.0 (FP01 18 881C, E2T03771M).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA 626 2.0 FP01 18 881C, FP0118881C, E2T03771M",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-626-2.0-FP01-18-881C%2C-FP0118881C%2C-E2T03771M/36699",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Mitsubishi",
+    "productCode": "C126-55397_20130703115755",
+    "sku": "C126-55397_20130703115755",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA 626 2.0 FP01 18 881C, FP0118881C, E2T03771M</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA 626",
+      "ENGINE": "2.0",
+      "YEAR": "1992-1997",
+      "NUMBER MANUFACTURER": "FP01 18 881C",
+      "NUMBER PARTS": "E2T03771M",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:58:37.118Z",
+    "model": "mistral:7b",
+    "durationMs": 12461,
+    "priceIncrement": 100
+  }
+}

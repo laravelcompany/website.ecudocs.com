@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement for Seat Ibiza 1.9 TDI AXR Bosch 0281012276",
+  "slug": "plug-play-ecu-replacement-seat-ibiza-19-tdi-axr-bosch-0281012276",
+  "metaDescription": "OEM Tested ECU Engine Controller for Seat Ibiza 1.9 TDI AXR, backed by a 6-month warranty and fast shipping.",
+  "price": "€70.00",
+  "excerpt": "Replace your faulty ECU with our OEM tested unit.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Ibiza",
+    "1.9 TDI AXR",
+    "Bosch 0281012276"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your faulty unit, ensuring seamless vehicle operation.</section>\n<section class=\"features\"><ul><li>Plug & Play compatibility</li><li>OEM Tested and Certified</li><li>6-month warranty</li><li>Fast dispatch within EU</li><li>Compatible with Seat Ibiza 1.9 TDI AXR</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>SEAT IBIZA</td><td>1.9 TDI AXR</td><td>2007</td><td>BOSCH 0 281 012 276</td><td>1039S11516</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA 1.9 TDI AXR 038 906 019 NL, 038906019NL, BOSCH 0 281 012 276, 0281012276, 1039S11516",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-1.9-TDI-AXR-038-906-019-NL%2C-038906019NL%2C-BOSCH-0-281-012-276%2C-0281012276%2C-1039S11516-/12351",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1DCA-5683A",
+    "sku": "1DCA-5683A",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA 1.9 TDI AXR 038 906 019 NL, 038906019NL, BOSCH 0 281 012 276, 0281012276, 1039S11516 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2361e5965c7871f74fa6fcfb9bbd12bb_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9e127ab4f527f4fd14b69d4f194a406a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.9 TDI AXR",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 276",
+      "NUMBER PARTS": "1039S11516",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:57:32.900Z",
+    "model": "mistral:7b",
+    "durationMs": 8043,
+    "priceIncrement": 100
+  }
+}

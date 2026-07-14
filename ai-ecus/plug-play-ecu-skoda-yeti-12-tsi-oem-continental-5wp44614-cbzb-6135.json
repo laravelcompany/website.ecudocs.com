@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement for SKODA YETI 1.2 TSI - OEM Continental 5WP44614, CBZB 6135",
+  "slug": "plug-play-ecu-skoda-yeti-12-tsi-oem-continental-5wp44614-cbzb-6135",
+  "metaDescription": "OEM Tested ECU Replacement for SKODA YETI 1.2 TSI with Plug & Play feature, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU replacement for SKODA YETI 1.2 TSI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA YETI",
+    "Continental",
+    "5WP44614",
+    "CBZB 6135"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for SKODA YETI 1.2 TSI ensures seamless engine control with the Continental 5WP44614 and SIMOS 10.10 CBZB 6135.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play feature for easy installation</li>\n<li>OEM tested for guaranteed performance</li>\n<li>6-month warranty</li>\n<li>Used in good condition</li>\n<li>Compatible with SKODA YETI 1.2 TSI</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>PARTS</td>\n<td>ECU ENGINE CONTROLLER</td>\n</tr>\n<tr>\n<td>BRAND AND MODEL</td>\n<td>SKODA YETI</td>\n</tr>\n<tr>\n<td>ENGINE</td>\n<td>1.2 TSI</td>\n</tr>\n<tr>\n<td>YEAR</td>\n<td>2009</td>\n</tr>\n<tr>\n<td>NUMBER MANUFACTURER</td>\n<td>CONTINENTAL 5WP44614</td>\n</tr>\n<tr>\n<td>NUMBER PARTS</td>\n<td>CBZB 6135</td>\n</tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SKODA YETI 1.2 TSI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA YETI 1.2 TSI 03F906070M, 03F 906 070 M, 03F906070F, 03F 906 070 F, CONTINENTAL 5WP44614, SIMOS 10.10 CBZB 6135",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-YETI-1.2-TSI-03F906070M%2C-03F-906-070-M%2C-03F906070F%2C-03F-906-070-F%2C-CONTINENTAL-5WP44614%2C-SIMOS-10.10-CBZB-6135/25114",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "3962-354B9_20120604220307",
+    "sku": "3962-354B9_20120604220307",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA YETI 1.2 TSI 03F906070M, 03F 906 070 M, 03F906070F, 03F 906 070 F, CONTINENTAL 5WP44614, SIMOS 10.10 CBZB 6135</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_287159_0_0/SKODA-YETI-1.2-TSI-03F906070M%2C-03F-906-070-M%2C-03F906070F%2C-03F-906-070-F%2C-CONTINENTAL-5WP44614%2C-SIMOS-10.10-CBZB-6135.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_300830_0_0/SKODA-YETI-1.2-TSI-03F906070M%2C-03F-906-070-M%2C-03F906070F%2C-03F-906-070-F%2C-CONTINENTAL-5WP44614%2C-SIMOS-10.10-CBZB.webp"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA YETI",
+      "ENGINE": "1.2 TSI",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "CONTINENTAL 5WP44614",
+      "NUMBER PARTS": "CBZB 6135",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:45:40.362Z",
+    "model": "mistral:7b",
+    "durationMs": 11369,
+    "priceIncrement": 100
+  }
+}

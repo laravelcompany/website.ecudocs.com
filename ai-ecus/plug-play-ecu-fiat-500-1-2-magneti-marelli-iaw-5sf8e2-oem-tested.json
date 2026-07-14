@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT 500 1.2 Magneti Marelli IAW 5SF8.E2, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-500-1-2-magneti-marelli-iaw-5sf8e2-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for FIAT 500 1.2 Magneti Marelli IAW 5SF8.E2, OEM tested and covered by a 6-month warranty.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT 500 1.2 Magneti Marelli IAW 5SF8.E2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT 500",
+    "Magneti Marelli",
+    "IAW 5SF8.E2"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller for FIAT 500 1.2 Magneti Marelli IAW 5SF8.E2 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Compatible with FIAT 500 1.2</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT 500</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.2</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>Magneti Marelli IAW 5SF8.E2</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>110006063</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 500 1.2 Magneti Marelli IAW 5SF8.E2, IAW5SF8E2, 51899836, 110006063",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-500-1.2-Magneti-Marelli-IAW-5SF8.E2%2C-IAW5SF8E2%2C-51899836%2C-110006063/111741",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "9A21-21514_20190103132720",
+    "sku": "9A21-21514_20190103132720",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 500 1.2 Magneti Marelli IAW 5SF8.E2, IAW5SF8E2, 51899836, 110006063</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_224317_0_0/ECU-ENGINE-CONTROLLER-FIAT-500-1.2-Magneti-Marelli-IAW-5SF8.E2%2C-IAW5SF8E2%2C-51899836%2C-110006063.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_224318_0_0/ECU-ENGINE-CONTROLLER-FIAT-500-1.2-Magneti-Marelli-IAW-5SF8.E2%2C-IAW5SF8E2%2C-51899836%2C-110006063.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT 500",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "Magneti Marelli IAW 5SF8.E2",
+      "NUMBER PARTS": "110006063",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:10:36.091Z",
+    "model": "mistral:7b",
+    "durationMs": 11199,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Mazda 626 2.0 16V - Visteon F7FF-12A650-DJ, GGT8",
+  "slug": "oem-tested-plug-play-ecu-mazda-626-20-16v-visteon-f7ff12a650dj-ggt8",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Mazda 626 2.0 16V by Visteon, GGT8. Shipped within 24–48 hours and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mazda 626 2.0 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mazda 626",
+    "Visteon",
+    "GGT8"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Mazda 626 2.0 16V by Visteon ensures reliable engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-Month Warranty</li>\n<li>Thoroughly Inspected and Tested by a Certified Technician</li>\n<li>Condition: Used Original in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MAZDA 626</td></tr>\n<tr><td>ENGINE</td><td>2.0 16V</td></tr>\n<tr><td>YEAR</td><td>1998-2002</td></tr>\n<tr><td>NUMBER PARTS</td><td>GGT8</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mazda 626 2.0 16V. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA 626 2.0 16V, F7FF-12A650-DJ, F7FF12A650DJ, GGT8",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-626-2.0-16V%2C-F7FF-12A650-DJ%2C-F7FF12A650DJ%2C-GGT8-/52100",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "3CBC-1135D_20140301155851",
+    "sku": "3CBC-1135D_20140301155851",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA 626 2.0 16V, F7FF-12A650-DJ, F7FF12A650DJ, GGT8 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA 626",
+      "ENGINE": "2.0 16V",
+      "YEAR": "1998-2002",
+      "NUMBER PARTS": "GGT8",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:58:02.400Z",
+    "model": "mistral:7b",
+    "durationMs": 11539,
+    "priceIncrement": 100
+  }
+}

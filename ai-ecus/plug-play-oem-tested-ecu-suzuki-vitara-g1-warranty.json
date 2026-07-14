@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Suzuki Vitara - G1, 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-suzuki-vitara-g1-warranty",
+  "metaDescription": "Expertly tested and ready for Plug & Play installation. Replace your faulty ECU Engine Controller with our OEM Suzuki Vitara G1 unit, backed by a 6-month warranty.",
+  "price": "€700.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Suzuki Vitara",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Suzuki Vitara G1",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for your Suzuki Vitara ensures seamless engine control and improved performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play installation</li>\n<li>OEM tested and certified</li>\n<li>6-month warranty</li>\n<li>Thoroughly inspected and tested by a certified technician</li>\n<li>Used in good condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table border=\"1\">\n<tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr>\n<tr><td>ECU ENGINE CONTROLLER</td><td>SUZUKI VITARA</td><td>33920-56B3</td><td>G1</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Suzuki Vitara models equipped with the specified ECU part number.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUZUKI VITARA 33920-56B3, 3392056B3, E2T41271, 1322E, G1",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUZUKI-VITARA-33920-56B3%2C-3392056B3%2C-E2T41271%2C-1322E%2C-G1/111757",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Mitsubishi",
+    "productCode": "D313-705D7_20190104132136",
+    "sku": "D313-705D7_20190104132136",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUZUKI VITARA 33920-56B3, 3392056B3, E2T41271, 1322E, G1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_224349_0_0/ECU-ENGINE-CONTROLLER-SUZUKI-VITARA-33920-56B3%2C-3392056B3%2C-E2T41271%2C-1322E%2C-G1.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_224350_0_0/ECU-ENGINE-CONTROLLER-SUZUKI-VITARA-33920-56B3%2C-3392056B3%2C-E2T41271%2C-1322E%2C-G1.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUZUKI VITARA",
+      "NUMBER MANUFACTURER": "33920-56B3",
+      "NUMBER PARTS": "G1",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:06:34.031Z",
+    "model": "mistral:7b",
+    "durationMs": 8726,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Fiat 500 Engine Controller MJD8F3.C3, MJD8F3C3 - 6-month Warranty",
+  "slug": "plug-play-ecu-fiat-500-mjd8f3c3-warranty",
+  "metaDescription": "Buy the tested and reliable ECU ENGINE CONTROLLER FIAT 500 55259329, MJD8F3.C3, MJD8F3C3 for your vehicle with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat 500",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat 500",
+    "MJD8F3.C3",
+    "MJD8F3C3"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU ENGINE CONTROLLER is a reliable replacement for your Fiat 500, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified by a professional technician</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition, ensuring quality and reliability</li>\n        <li>Compatible with Fiat 500 models</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT 500</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MJD8F3.C3</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>55259329</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat 500 models. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 500 55259329, MJD8F3.C3, MJD8F3C3",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-500-55259329%2C-MJD8F3.C3%2C-MJD8F3C3/117864",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "F131-27637_20200305150520",
+    "sku": "F131-27637_20200305150520",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 500 55259329, MJD8F3.C3, MJD8F3C3</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_239495_0_0/FIAT-500-55259329%2C-MJD8F3.C3%2C-MJD8F3C3.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_239496_0_0/FIAT-500-55259329%2C-MJD8F3.C3%2C-MJD8F3C3.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT 500",
+      "NUMBER MANUFACTURER": "MJD8F3.C3",
+      "NUMBER PARTS": "55259329",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:13:55.006Z",
+    "model": "mistral:7b",
+    "durationMs": 12788,
+    "priceIncrement": 100
+  }
+}

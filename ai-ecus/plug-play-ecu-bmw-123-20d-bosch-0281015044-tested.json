@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW 123 2.0 D Bosch 0 281 015 044, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-bmw-123-20d-bosch-0281015044-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for BMW 123 2.0 D Bosch 0 281 015 044, OEM tested and covered by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW 123 2.0 D Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 015 044",
+    "BMW 123",
+    "2.0 D"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for BMW 123 2.0 D Bosch 0 281 015 044 is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr>\n            <th>PARTS</th>\n            <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n            <th>BRAND AND MODEL</th>\n            <td>BMW 123</td>\n        </tr>\n        <tr>\n            <th>ENGINE</th>\n            <td>2.0 D</td>\n        </tr>\n        <tr>\n            <th>YEAR</th>\n            <td>2008</td>\n        </tr>\n        <tr>\n            <th>NUMBER MANUFACTURER</th>\n            <td>BOSCH 0 281 015 044</td>\n        </tr>\n        <tr>\n            <th>NUMBER PARTS</th>\n            <td>DDE 7 811 702</td>\n        </tr>\n        <tr>\n            <th>OPTION AVAILABLE</th>\n            <td>LOCKED / UNLOCKED</td>\n        </tr>\n        <tr>\n            <th>WARRANTY :</th>\n            <td>6-month warranty</td>\n        </tr>\n        <tr>\n            <th>INSPECTION:</th>\n            <td>Device thoroughly inspected and tested by a certified technician</td>\n        </tr>\n        <tr>\n            <th>CONDITION</th>\n            <td>USED IN GOOD CONDITION</td>\n        </tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and installation expertise. Please consult a professional before installing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW 123 2.0 D BOSCH 0 281 015 044, 0281015044, DDE 7 811 702, DDE7811702, 7811702",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-123-2.0-D-BOSCH-0-281-015-044%2C-0281015044%2C-DDE-7-811-702%2C-DDE7811702%2C-7811702-/82917",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8A09-993D0_20151202123649",
+    "sku": "8A09-993D0_20151202123649",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW 123 2.0 D BOSCH 0 281 015 044, 0281015044, DDE 7 811 702, DDE7811702, 7811702 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW 123",
+      "ENGINE": "2.0 D",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 044",
+      "NUMBER PARTS": "DDE 7 811 702",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:07:41.331Z",
+    "model": "mistral:7b",
+    "durationMs": 12673,
+    "priceIncrement": 100
+  }
+}

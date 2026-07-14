@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Hyundai Coupe 2.0L - Siemens K103955165E - 39100-23540, 39110-23540 - Warranty Included",
+  "slug": "plug-play-ecu-hyundai-coupe-2-0l-siemens-k103955165e-39100-23540-39110-23540",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Hyundai Coupe 2.0L. Used original in good condition, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested, Plug & Play ECU Replacement for Hyundai Coupe 2.0L",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai Coupe",
+    "Siemens K103955165E",
+    "39100-23540",
+    "39110-23540"
+  ],
+  "description": "<section class=\"overview\">This OEM tested, Plug & Play ECU replacement for Hyundai Coupe 2.0L is a reliable solution to your engine control unit issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Design for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table border=\"1\">\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>HYUNDAI COUPE</td></tr>\n        <tr><th>ENGINE</th><td>2.0 L</td></tr>\n        <tr><th>YEAR</th><td>1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS K103955165 E</td></tr>\n        <tr><th>NUMBER PARTS</th><td>39110-23540</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Hyundai Coupe 2.0L. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI K103955165E 39100-23540 3910023540 39110-23540 3911023540",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-K103955165E-39100-23540-3910023540-39110-23540-3911023540/61134",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "7C81-16238_20140725094543",
+    "sku": "7C81-16238_20140725094543",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI K103955165E 39100-23540 3910023540 39110-23540 3911023540</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI COUPE",
+      "ENGINE": "2.0 L",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "SIEMENS K103955165 E",
+      "NUMBER PARTS": "39110-23540",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:44:13.584Z",
+    "model": "mistral:7b",
+    "durationMs": 12364,
+    "priceIncrement": 100
+  }
+}

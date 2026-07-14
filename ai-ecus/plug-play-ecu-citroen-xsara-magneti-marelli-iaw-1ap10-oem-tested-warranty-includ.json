@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Citroen Xsara Magneti Marelli IAW 1AP.10, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-citroen-xsara-magneti-marelli-iaw-1ap10-oem-tested-warranty-includ",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for your Citroen Xsara, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€800.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen Xsara",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Xsara",
+    "Magneti Marelli IAW 1AP.10",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Citroen Xsara is tested and guaranteed to work seamlessly with your vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM Tested for reliability</li>\n        <li>6-month warranty included</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used original in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>CITROEN XSARA</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>MAGNETI MARELLI IAW 1AP.10</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>9629614880</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with Citroen Xsara models. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN XSARA MAGNETI MARELLI IAW 1AP.10, IAW1AP10, 9629614880",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-XSARA-MAGNETI-MARELLI-IAW-1AP.10%2C-IAW1AP10%2C-9629614880/116940",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "2D0B-173EA_20191211143442",
+    "sku": "2D0B-173EA_20191211143442",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN XSARA MAGNETI MARELLI IAW 1AP.10, IAW1AP10, 9629614880</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_237003_0_0/CITROEN-XSARA-MAGNETI-MARELLI-IAW-1AP.10%2C-IAW1AP10%2C-9629614880.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_237004_0_0/CITROEN-XSARA-MAGNETI-MARELLI-IAW-1AP.10%2C-IAW1AP10%2C-9629614880.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN XSARA",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 1AP.10",
+      "NUMBER PARTS": "9629614880",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:44:25.783Z",
+    "model": "mistral:7b",
+    "durationMs": 10379,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Citroen C4 1.4 - Sagem 21584577-6, 9653342880",
+  "slug": "plug-play-oem-tested-ecu-replacement-citroen-c4-1-4-sagem-21584577-6-9653342880",
+  "metaDescription": "Buy our Plug & Play OEM Tested ECU Replacement for Citroen C4 1.4, backed by a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Citroen C4 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C4",
+    "Sagem",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Citroen C4 1.4 is a reliable solution to your engine control unit issues, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM Tested for guaranteed fitment</li><li>6-month warranty</li><li>Used in good condition</li><li>Covered by a 6-month warranty</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>CITROEN C4</td><td>1.4</td><td>2003</td><td>PSA 21584577-6</td><td>9653342880</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>CONDITION: USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen C4 1.4. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C4 1.4 21584577-6, 9653342880",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C4-1.4-21584577-6%2C-9653342880-/44595",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Sagem",
+    "productCode": "8582-51343",
+    "sku": "8582-51343",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C4 1.4 21584577-6, 9653342880 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C4",
+      "ENGINE": "1.4",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "PSA 21584577-6",
+      "NUMBER PARTS": "9653342880",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:36:13.649Z",
+    "model": "mistral:7b",
+    "durationMs": 10262,
+    "priceIncrement": 100
+  }
+}

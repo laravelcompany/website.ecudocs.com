@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A4 2.0 FSI BOSCH 0 261 S01 006 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-2-0-fsi-bosch-0-261-s01-006-tested",
+  "metaDescription": "OEM tested ECU replacement for Audi A4 2.0 FSI BOSCH 0 261 S01 006, backed by a 6-month warranty and fast dispatch.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU replacement for Audi A4 2.0 FSI BOSCH 0 261 S01 006",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "2.0 FSI",
+    "BOSCH 0 261 S01 006"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Audi A4 2.0 FSI BOSCH 0 261 S01 006 is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>Backed by a 6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th></th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI A4</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 FSI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 S01 006</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8E0 906 018 K</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 2.0 FSI BOSCH 0 261 S01 006, 0261S01006, 8E0 906 018 K, 8E0906018K, MED7.1.1",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-2.0-FSI-BOSCH-0-261-S01-006%2C-0261S01006%2C-8E0-906-018-K%2C-8E0906018K%2C-MED7.1.1-/98766",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4DC3-274D4_20161108153215",
+    "sku": "4DC3-274D4_20161108153215",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 2.0 FSI BOSCH 0 261 S01 006, 0261S01006, 8E0 906 018 K, 8E0906018K, MED7.1.1 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "2.0 FSI",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S01 006",
+      "NUMBER PARTS": "8E0 906 018 K",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:04:45.519Z",
+    "model": "mistral:7b",
+    "durationMs": 13455,
+    "priceIncrement": 100
+  }
+}

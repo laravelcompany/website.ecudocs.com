@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Scorpio Kombi 2.0 87GB-12A650-YA, 7GYA - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-scorpio-kombi-2-0-87gb-12a650ya-7gya-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Scorpio Kombi 2.0 (87GB-12A650-YA, 7GYA) with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Scorpio Kombi 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Scorpio Kombi",
+    "2.0 Engine",
+    "Visteon"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is suitable for Ford Scorpio Kombi 2.0 (87GB-12A650-YA, 7GYA). It is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, original in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD SCORPIO KOMBI</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1991-1994</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>7GYA</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This product is intended for Ford Scorpio Kombi 2.0 (87GB-12A650-YA, 7GYA) only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD SCORPIO KOMBI 87GB-12A650-YA, 87GB12A650YA, 7GYA",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-SCORPIO-KOMBI-87GB-12A650-YA%2C-87GB12A650YA%2C-7GYA/55774",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "4A43-896E9",
+    "sku": "4A43-896E9",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD SCORPIO KOMBI 87GB-12A650-YA, 87GB12A650YA, 7GYA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e13eaaa52368f2c2141e99373902d9f8_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ce8e47d62811e4cffb8f57d3142a3467_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD SCORPIO KOMBI",
+      "ENGINE": "2.0",
+      "YEAR": "1991-1994",
+      "NUMBER PARTS": "7GYA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:57:44.110Z",
+    "model": "mistral:7b",
+    "durationMs": 11378,
+    "priceIncrement": 100
+  }
+}

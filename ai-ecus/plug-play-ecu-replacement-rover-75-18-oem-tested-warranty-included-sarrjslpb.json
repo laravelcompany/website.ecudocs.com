@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Rover 75 1.8, OEM Tested, Warranty Included - SARRJSLPB",
+  "slug": "plug-play-ecu-replacement-rover-75-18-oem-tested-warranty-included-sarrjslpb",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Rover 75 1.8, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Rover 75 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 75",
+    "1.8 Engine",
+    "OEM Tested",
+    "SARRJSLPB"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Rover 75 1.8 is tested and guaranteed to work flawlessly.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used, Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>ROVER 75</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2000</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>NNN000110</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>SARRJSLPB</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Rover 75 1.8. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 75 1.8, NNN000110, NNW006410, SARRJSLPB",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-75-1.8%2C-NNN000110%2C-NNW006410%2C-SARRJSLPB-/43694",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "17E2-143A8",
+    "sku": "17E2-143A8",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 75 1.8, NNN000110, NNW006410, SARRJSLPB </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 75",
+      "ENGINE": "1.8",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "NNN000110",
+      "NUMBER PARTS": "SARRJSLPB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:33:23.896Z",
+    "model": "mistral:7b",
+    "durationMs": 12619,
+    "priceIncrement": 100
+  }
+}

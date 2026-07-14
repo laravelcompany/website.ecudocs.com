@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford S-MAX, C-Max - 5WS40584B-T, 8V21-12A650-EB - Continental",
+  "slug": "oem-tested-plug-play-ecu-ford-s-max-c-max-5ws40584bt-8v2112a650eb-continental",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford S-MAX, C-Max. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Ford S-MAX, C-Max",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford S-MAX",
+    "Ford C-Max",
+    "5WS40584B-T",
+    "8V21-12A650-EB"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a direct replacement for Ford S-MAX and C-Max models. It has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch (EU)</li><li>Direct Replacement</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>FORD S-MAX, C-MAX</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>5WS40584B-T</td></tr>\n    <tr><th>NUMBER PARTS</th><td>8V21-12A650-EB</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n  </table></section>\n<section class=\"shipping\">Ships within 24–48 hours with a 6-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD S-MAX, C-MAX, 5WS40584B-T, 5WS40584BT, 4EJB J38AC, 8V21-12A650-EB, 8V2112A650EB",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-S-MAX%2C-C-MAX%2C-5WS40584B-T%2C-5WS40584BT%2C-4EJB-J38AC%2C-8V21-12A650-EB%2C-8V2112A650EB/44123",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "3673-6823F",
+    "sku": "3673-6823F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD S-MAX, C-MAX, 5WS40584B-T, 5WS40584BT, 4EJB J38AC, 8V21-12A650-EB, 8V2112A650EB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD S-MAX, C-MAX",
+      "NUMBER MANUFACTURER": "5WS40584B-T",
+      "NUMBER PARTS": "8V21-12A650-EB",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:54:31.189Z",
+    "model": "mistral:7b",
+    "durationMs": 9267,
+    "priceIncrement": 100
+  }
+}

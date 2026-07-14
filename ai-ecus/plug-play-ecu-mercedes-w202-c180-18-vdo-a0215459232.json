@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W202 C180 1.8 OEM VDO A0215459232",
+  "slug": "plug-play-ecu-mercedes-w202-c180-18-vdo-a0215459232",
+  "metaDescription": "OEM Tested ECU Engine Controller for Mercedes W202 C180 1.8 by VDO. Plug & Play, 6-month warranty, and fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W202 C180 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W202 C180",
+    "VDO",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Mercedes W202 C180 1.8 is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Quality</li>\n        <li>Plug & Play</li>\n        <li>Locked or Ready for Programming</li>\n        <li>Used in Good Condition</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W202 C180</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>YEAR</th><td>1997-2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>412 229/021/001, 412229021001</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0215459232</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W202 C180 1.8. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W202 C180 1.8 A0215459232, 0215459232, A 021 545 92 32, 412 229/021/001, 412229021001",
+    "price": "€30.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W202-C180-1.8-A0215459232%2C-0215459232%2C-A-021-545-92-32%2C-412-229021001%2C-412229021001/24494",
+    "priceCurrency": "EUR",
+    "netPrice": "€24.39",
+    "category": "ECU Engine control unit",
+    "brand": "VDO",
+    "productCode": "BB52-111C1_20120531214953",
+    "sku": "BB52-111C1_20120531214953",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W202 C180 1.8 A0215459232, 0215459232, A 021 545 92 32, 412 229/021/001, 412229021001</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W202 C180",
+      "ENGINE": "1.8",
+      "YEAR": "1997-2002",
+      "NUMBER MANUFACTURER": "412 229/021/001, 412229021001",
+      "NUMBER PARTS": "0215459232",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:15:51.132Z",
+    "model": "mistral:7b",
+    "durationMs": 9783,
+    "priceIncrement": 100
+  }
+}

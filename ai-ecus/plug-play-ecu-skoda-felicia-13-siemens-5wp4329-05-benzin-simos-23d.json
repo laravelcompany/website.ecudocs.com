@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Skoda Felicia 1.3 - Siemens 5WP4329 05, Benzin Simos 23D",
+  "slug": "plug-play-ecu-skoda-felicia-13-siemens-5wp4329-05-benzin-simos-23d",
+  "metaDescription": "Expertly tested and OEM ECU replacement for Skoda Felicia 1.3, featuring Plug & Play functionality. Backed by a 6-month warranty.",
+  "price": "€109.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Skoda Felicia 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WP4329",
+    "Skoda Felicia",
+    "Benzin Simos 23D"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Skoda Felicia 1.3 offers a seamless fit and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Functionality</li>\n        <li>6-Month Warranty</li>\n        <li>Expertly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SKODA FELICJA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2000</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WP4329</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>SIMOS 23D</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Skoda Felicia 1.3 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FELICJA 1.3 047906030N, 047 906 030 N, SIEMENS 5WP4329 05, BENZIN SIMOS 23D",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FELICJA-1.3-047906030N%2C-047-906-030-N%2C-SIEMENS-5WP4329-05%2C-BENZIN-SIMOS-23D-/13350",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "04DB-3075A",
+    "sku": "04DB-3075A",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FELICJA 1.3 047906030N, 047 906 030 N, SIEMENS 5WP4329 05, BENZIN SIMOS 23D </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FELICJA",
+      "ENGINE": "1.3",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP4329",
+      "NUMBER PARTS": "SIMOS 23D",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:29:18.935Z",
+    "model": "mistral:7b",
+    "durationMs": 10737,
+    "priceIncrement": 100
+  }
+}

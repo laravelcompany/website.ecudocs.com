@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement Fiat 199 1.3 JTD Magneti Marelli MJD 6F3.P7 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-fiat-199-1-3-jtd-magneti-marelli-mjd-6f3p7-warranty",
+  "metaDescription": "OEM tested and Plug & Play ECU replacement for Fiat 199 1.3 JTD Magneti Marelli MJD 6F3.P7, backed by a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "OEM tested ECU replacement for Fiat 199 1.3 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat 199",
+    "Magneti Marelli",
+    "MJD 6F3.P7"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Fiat 199 1.3 JTD Magneti Marelli MJD 6F3.P7 offers reliable performance and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-Month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT 199</td></tr>\n        <tr><th>ENGINE</th><td>1.3 JTD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI MJD 6F3.P7</td></tr>\n        <tr><th>NUMBER PARTS</th><td>71600.019.04</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat 199 1.3 JTD. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 199 1.3 JTD MAGNETI MARELLI MJD 6F3.P7, MJD6F3P7, FGP 51781569, 71600.019.04, 7160001904",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-199-1.3-JTD-MAGNETI-MARELLI-MJD-6F3.P7%2C-MJD6F3P7%2C-FGP-51781569%2C-71600.019.04%2C-7160001904/73964",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "16C7-69490_20150324110015",
+    "sku": "16C7-69490_20150324110015",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 199 1.3 JTD MAGNETI MARELLI MJD 6F3.P7, MJD6F3P7, FGP 51781569, 71600.019.04, 7160001904</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2d282dad8974dee2efffc1766c06034a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_14b781d6b0a5ec903b34878502fba887_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_5a62259e2f67d620bd94263eaf90042e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT 199",
+      "ENGINE": "1.3 JTD",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 6F3.P7",
+      "NUMBER PARTS": "71600.019.04",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:09:21.478Z",
+    "model": "mistral:7b",
+    "durationMs": 11233,
+    "priceIncrement": 100
+  }
+}

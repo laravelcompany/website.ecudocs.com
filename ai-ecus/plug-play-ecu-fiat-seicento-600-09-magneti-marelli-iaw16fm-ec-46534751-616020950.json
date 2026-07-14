@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Seicento 600 0.9 OEM Tested - Magneti Marelli IAW16FM.EC, 46534751, 61602.095.02 - Warranty Included",
+  "slug": "plug-play-ecu-fiat-seicento-600-09-magneti-marelli-iaw16fm-ec-46534751-616020950",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Fiat Seicento 600 0.9 by Magneti Marelli, 6-month warranty, fast dispatch.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Seicento 600 0.9",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Seicento 600",
+    "Magneti Marelli",
+    "IAW16FM.EC"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Fiat Seicento 600 0.9 by Magneti Marelli is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT SEICENTO 600</td></tr>\n        <tr><th>ENGINE</th><td>0.9</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6160209502</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT SEICENTO 600 0.9, MAGNETI MARELLI IAW 16FM.EC, IAW16FMEC, 46534751, 61602.095.02, 6160209502",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-SEICENTO-600-0.9%2C-MAGNETI-MARELLI-IAW-16FM.EC%2C-IAW16FMEC%2C-46534751%2C-61602.095.02%2C-6160209502/60881",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "5CFB-66534_20140723115152",
+    "sku": "5CFB-66534_20140723115152",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT SEICENTO 600 0.9, MAGNETI MARELLI IAW 16FM.EC, IAW16FMEC, 46534751, 61602.095.02, 6160209502</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4a4b2717c7ec636b5704d513bd4f37bd_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7eab59dab0b9e4160d57c45d2e7e50e9_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_65b4a274e3dacfcb6906ef205ef4c8e8_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT SEICENTO 600",
+      "ENGINE": "0.9",
+      "NUMBER PARTS": "6160209502",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:31:17.742Z",
+    "model": "mistral:7b",
+    "durationMs": 10385,
+    "priceIncrement": 100
+  }
+}

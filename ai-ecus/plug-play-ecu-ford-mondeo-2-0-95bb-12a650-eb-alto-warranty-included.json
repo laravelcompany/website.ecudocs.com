@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.0 - 95BB-12A650-EB ALTO, Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-2-0-95bb-12a650-eb-alto-warranty-included",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford Mondeo 2.0 (95BB-12A650-EB ALTO) with a 6-month warranty. Fast dispatch and EU shipping.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "95BB-12A650-EB"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Mondeo 2.0 (95BB-12A650-EB ALTO) is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Fast Dispatch</li><li>EU Shipping</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n    <tr><th>ENGINE</th><td>2.0</td></tr>\n    <tr><th>YEAR</th><td>1996</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>LEE-101</td></tr>\n    <tr><th>CODE</th><td>ALTO</td></tr>\n    <tr><th>NUMBER PARTS</th><td>95BB-12A650-EB</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 95BB-12A650-EB ALTO, 95BB12A650EB LEE-101",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-95BB-12A650-EB-ALTO%2C-95BB12A650EB-LEE-101/28337",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "3475-3993D_20120824193837",
+    "sku": "3475-3993D_20120824193837",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 95BB-12A650-EB ALTO, 95BB12A650EB LEE-101</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "LEE-101",
+      "CODE": "ALTO",
+      "NUMBER PARTS": "95BB-12A650-EB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:37:12.695Z",
+    "model": "mistral:7b",
+    "durationMs": 9321,
+    "priceIncrement": 100
+  }
+}

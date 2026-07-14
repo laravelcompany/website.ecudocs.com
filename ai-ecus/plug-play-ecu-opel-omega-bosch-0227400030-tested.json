@@ -1,0 +1,50 @@
+{
+  "title": "OPEL OMEGA ECU Replacement - Plug & Play, OEM Tested Bosch 0 227 400 030",
+  "slug": "plug-play-ecu-opel-omega-bosch-0227400030-tested",
+  "metaDescription": "Get a tested and certified ECU Engine Controller for your OPEL OMEGA. This Plug & Play Bosch part (0 227 400 030) comes with a 6-month warranty.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested, Plug & Play ECU for OPEL OMEGA",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 227 400 030",
+    "OPEL OMEGA"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play, OEM tested ECU Engine Controller is a reliable replacement for your OPEL OMEGA. It comes with a thorough inspection and a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Thoroughly Inspected</li><li>Used but in Good Condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <thead>\n      <tr>\n        <th>Specification</th>\n        <th>Details</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><td>BRAND AND MODEL</td><td>OPEL VAUXHALL HOLDEN OMEGA</td></tr>\n      <tr><td>YEAR</td><td>1987-1990</td></tr>\n      <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 227 400 030</td></tr>\n      <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n      <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </tbody>\n  </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with OPEL OMEGA models from 1987 to 1990.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL OMEGA, BOSCH 0 227 400 030, 0227400030",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-OMEGA%2C-BOSCH-0-227-400-030%2C-0227400030-/47251",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5D8E-4734B",
+    "sku": "5D8E-4734B",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL OMEGA, BOSCH 0 227 400 030, 0227400030 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8cc918a876469d522adf5b5b2063b12e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_04f173fd8174d5d28967e1a6cd336882_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VAUXHALL HOLDEN OMEGA",
+      "YEAR": "1987-1990",
+      "NUMBER MANUFACTURER": "BOSCH 0 227 400 030",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:16:35.538Z",
+    "model": "mistral:7b",
+    "durationMs": 10383,
+    "priceIncrement": 100
+  }
+}

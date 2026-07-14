@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi 80 B4 2.3 - Bosch 0281800398 /399, 28SA1674 - 6-month Warranty",
+  "slug": "plug-play-ecu-audi-80-b4-2-3-bosch-0281800398-399-28sa1674-warranty",
+  "metaDescription": "OEM tested Plug & Play ECU Engine Controller for Audi 80 B4 2.3, Bosch 0281800398 /399, 28SA1674. Tested and covered by a 6-month warranty.",
+  "price": "€100.00",
+  "excerpt": "OEM tested Plug & Play ECU Engine Controller for Audi 80 B4 2.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi 80 B4",
+    "Bosch",
+    "0281800398",
+    "28SA1674"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a direct replacement for your Audi 80 B4 2.3. It's thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Direct Replacement</li>\n        <li>Certified Technician Inspection</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>AUDI 80 B4</td></tr>\n            <tr><td>ENGINE</td><td>2.3</td></tr>\n            <tr><td>YEAR</td><td>1993</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 280 800 398</td></tr>\n            <tr><td>NUMBER PARTS</td><td>28SA1674</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi 80 B4 2.3. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI 80 B4 2.3 4A0906264, 4A0 906 264, BOSCH 0281800398 /399, 0 280 800 398, 28SA1674",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-80-B4-2.3-4A0906264%2C-4A0-906-264%2C-BOSCH-0281800398-399%2C-0-280-800-398%2C-28SA1674-/17028",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "301C-671A7",
+    "sku": "301C-671A7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI 80 B4 2.3 4A0906264, 4A0 906 264, BOSCH 0281800398 /399, 0 280 800 398, 28SA1674 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI 80 B4",
+      "ENGINE": "2.3",
+      "YEAR": "1993",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 800 398",
+      "NUMBER PARTS": "28SA1674",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:38:51.754Z",
+    "model": "mistral:7b",
+    "durationMs": 11421,
+    "priceIncrement": 100
+  }
+}

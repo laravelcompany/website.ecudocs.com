@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Fiesta Fusion 1.6 - OEM Siemens S118107003F, 5IQM - Tested & Warranty",
+  "slug": "plug-play-ecu-replacement-ford-fiesta-fusion-1-6-oem-siemens-s118107003f-5iqm-te",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Ford Fiesta Fusion 1.6 by Siemens, Plug & Play, 6-month warranty, shipped within 24–48 hours.",
+  "price": "€300.00",
+  "excerpt": "OEM tested ECU Engine Controller for Ford Fiesta Fusion 1.6 by Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta Fusion",
+    "Siemens",
+    "1.6 engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Ford Fiesta Fusion 1.6 by Siemens ensures seamless vehicle operation and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY</th><th>INSPECTION</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FORD FIESTA FUSION</td><td>1.6</td><td>2002</td><td>SIEMENS S118107003 F</td><td>5IQM</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta Fusion 1.6. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA FUSION 1.6 SIEMENS S118107003 F, S118107003F, 2S6A-12A650-TE, 2S6A12A650TE, 5IQM, SIM22",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-FUSION-1.6-SIEMENS-S118107003-F%2C-S118107003F%2C-2S6A-12A650-TE%2C-2S6A12A650TE%2C-5IQM%2C-SIM22-/89599",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "7F15-8771A_20160413172503",
+    "sku": "7F15-8771A_20160413172503",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA FUSION 1.6 SIEMENS S118107003 F, S118107003F, 2S6A-12A650-TE, 2S6A12A650TE, 5IQM, SIM22  </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA FUSION",
+      "ENGINE": "1.6",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "SIEMENS S118107003 F",
+      "NUMBER PARTS": "5IQM",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:37:45.552Z",
+    "model": "mistral:7b",
+    "durationMs": 9530,
+    "priceIncrement": 100
+  }
+}

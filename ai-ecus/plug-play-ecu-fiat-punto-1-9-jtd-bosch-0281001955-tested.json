@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Punto 1.9 JTD Bosch 0281001955 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-punto-1-9-jtd-bosch-0281001955-tested",
+  "metaDescription": "Get a tested and certified Plug & Play ECU replacement for your Fiat Punto 1.9 JTD. Backed by a 6-month warranty.",
+  "price": "€87.00",
+  "excerpt": "Plug & Play, OEM Tested ECU Replacement for Fiat Punto 1.9 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Punto 1.9 JTD",
+    "Bosch ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for your Fiat Punto 1.9 JTD is thoroughly inspected, tested by a certified technician and backed by a warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with Fiat Punto 1.9 JTD</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT PUNTO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 JTD</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 001 955</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1039S06665</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Fiat Punto 1.9 JTD only. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO 1.9 JTD BOSCH 0281001955, 0 281 001 955, 46789433 C324N188 1039S06665",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-1.9-JTD-BOSCH-0281001955%2C-0-281-001-955%2C-46789433-C324N188-1039S06665-/17079",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9F1C-4170A",
+    "sku": "9F1C-4170A",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO 1.9 JTD BOSCH 0281001955, 0 281 001 955, 46789433 C324N188 1039S06665 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO",
+      "ENGINE": "1.9 JTD",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 955",
+      "NUMBER PARTS": "1039S06665",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:23:44.286Z",
+    "model": "mistral:7b",
+    "durationMs": 11136,
+    "priceIncrement": 100
+  }
+}

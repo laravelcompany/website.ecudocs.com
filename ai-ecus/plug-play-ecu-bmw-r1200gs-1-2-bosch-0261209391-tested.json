@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW R1200GS 1.2 BOSCH 0 261 209 391, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-bmw-r1200gs-1-2-bosch-0261209391-tested",
+  "metaDescription": "OEM ECU Engine Controller for BMW R1200GS 1.2 BOSCH 0 261 209 391, Plug & Play, tested and covered by a 6-month warranty.",
+  "price": "€660.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW R1200GS 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW R1200GS",
+    "BOSCH 0 261 209 391"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for BMW R1200GS 1.2 BOSCH 0 261 209 391 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>BMW R1200GS</td></tr>\n            <tr><td>ENGINE</td><td>1.2</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 209 391</td></tr>\n            <tr><td>NUMBER PARTS</td><td>BMSKP 8 521 661</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW R1200GS 1.2 BOSCH 0 261 209 391, 0261209391, BMSKP 8 521 661, 8521661",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-R1200GS-1.2-BOSCH-0-261-209-391%2C-0261209391%2C-BMSKP-8-521-661%2C-8521661/104751",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2688-85145_20170323152811",
+    "sku": "2688-85145_20170323152811",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW R1200GS 1.2 BOSCH 0 261 209 391, 0261209391, BMSKP 8 521 661, 8521661</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW R1200GS",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 209 391",
+      "NUMBER PARTS": "BMSKP 8 521 661",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:48:42.521Z",
+    "model": "mistral:7b",
+    "durationMs": 10506,
+    "priceIncrement": 100
+  }
+}

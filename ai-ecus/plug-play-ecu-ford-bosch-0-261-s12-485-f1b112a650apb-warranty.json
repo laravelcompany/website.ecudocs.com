@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford - Bosch 0 261 S12 485, F1B1-12A650-APB - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-bosch-0-261-s12-485-f1b112a650apb-warranty",
+  "metaDescription": "Expertly tested ECU Engine Controller for Ford, by Bosch 0 261 S12 485 (F1B1-12A650-APB). Plug & Play, 6-month warranty. Fast dispatch in EU.",
+  "price": "€485.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Ford",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Bosch ECU",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play, OEM tested ECU Engine Controller is a reliable replacement for your Ford vehicle by Bosch 0 261 S12 485 (F1B1-12A650-APB).</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by Certified Technician</li>\n        <li>Used Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S12 485</td></tr>\n        <tr><th>NUMBER PARTS</th><td>F1B1-12A650-APB</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD BOSCH 0 261 S12 485, 0261S12485, F1B1-12A650-APB, F1B112A650APB",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-BOSCH-0-261-S12-485%2C-0261S12485%2C-F1B1-12A650-APB%2C-F1B112A650APB/104727",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FAAA-646EC_20170323135415",
+    "sku": "FAAA-646EC_20170323135415",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD BOSCH 0 261 S12 485, 0261S12485, F1B1-12A650-APB, F1B112A650APB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S12 485",
+      "NUMBER PARTS": "F1B1-12A650-APB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:59:31.973Z",
+    "model": "mistral:7b",
+    "durationMs": 11083,
+    "priceIncrement": 100
+  }
+}

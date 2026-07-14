@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Fiat Lancia IAW 5AF.NY, 6-month Warranty",
+  "slug": "plug-play-ecu-fiat-lancia-iaw-5af-ny-oem-tested-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat Lancia IAW 5AF.NY, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Lancia",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Lancia IAW 5AF.NY",
+    "OEM Tested"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a tested and reliable solution for your Fiat Lancia vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT LANCIA</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>IAW 5AF.NY</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT LANCIA IAW 5AF.NY, IAW5AFNY",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-LANCIA-IAW-5AF.NY%2C-IAW5AFNY/114922",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "8B9E-9403C_20190717150334",
+    "sku": "8B9E-9403C_20190717150334",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT LANCIA IAW 5AF.NY, IAW5AFNY</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT LANCIA",
+      "NUMBER MANUFACTURER": "IAW 5AF.NY",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:00:01.478Z",
+    "model": "mistral:7b",
+    "durationMs": 9235,
+    "priceIncrement": 100
+  }
+}

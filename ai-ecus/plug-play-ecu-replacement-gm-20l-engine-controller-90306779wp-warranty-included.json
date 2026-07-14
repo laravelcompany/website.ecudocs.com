@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested GM 2.0L Engine Controller (90306779WP) - Warranty Included",
+  "slug": "plug-play-ecu-replacement-gm-20l-engine-controller-90306779wp-warranty-included",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Replacement for your GM vehicle. This OEM part (90306779WP) is in good condition, backed by a 6-month warranty.",
+  "price": "€60.00",
+  "excerpt": "Buy Plug & Play ECU Replacement for GM - Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "GM part number",
+    "2.0L engine controller"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Replacement is suitable for your GM vehicle with a 2.0L engine. It comes with a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM tested and certified</li>\n<li>Backed by a 6-month warranty</li>\n<li>Compatible with GM vehicles</li>\n<li>In good, used condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>ECU ENGINE CONTROLLOR</td></tr>\n<tr><td>ENGINE</td><td>2.0 L</td></tr>\n<tr><td>YEAR</td><td>1989-1991</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>GM 90 306 779 WP</td></tr>\n<tr><td>WARRANTY</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with GM vehicles. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL GM 90 306 779 WP, 90306779WP",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-GM-90-306-779-WP%2C-90306779WP/65099",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "8B6F-79070_20140903132808",
+    "sku": "8B6F-79070_20140903132808",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL GM 90 306 779 WP, 90306779WP</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ECU ENGINE CONTROLLER",
+      "ENGINE": "2.0 L",
+      "YEAR": "1989-1991",
+      "NUMBER MANUFACTURER": "GM 90 306 779 WP",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:04:06.336Z",
+    "model": "mistral:7b",
+    "durationMs": 10479,
+    "priceIncrement": 100
+  }
+}

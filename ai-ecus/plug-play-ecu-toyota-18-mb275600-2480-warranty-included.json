@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Toyota 1.8 MB275600-2480, Warranty Included",
+  "slug": "plug-play-ecu-toyota-18-mb275600-2480-warranty-included",
+  "metaDescription": "Buy a Plug & Play OEM Tested ECU Engine Controller for Toyota 1.8 MB275600-2480, backed by a 6-month warranty and fast shipping.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Toyota 1.8 MB275600-2480",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota 1.8",
+    "MB275600-2480",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Engine Controller for Toyota 1.8 MB275600-2480 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM Tested for quality assurance</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Toyota 1.8</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>TOYOTA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MB275600-2480</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>89661-05N60, 8966105N60, MB275600-2480, MB2756002480</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Toyota models equipped with the specified engine and part number.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA 1.8 89661-05N60, 8966105N60, MB275600-2480, MB2756002480",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-1.8-89661-05N60%2C-8966105N60%2C-MB275600-2480%2C-MB2756002480/110032",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "A1DD-95016_20180524111806",
+    "sku": "A1DD-95016_20180524111806",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA 1.8 89661-05N60, 8966105N60, MB275600-2480, MB2756002480</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_0895d5cbd8d7c0489b557e51cde7bbb3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_158855b57d099d64cab33a7924871072_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "MB275600-2480",
+      "NUMBER PARTS": "89661-05N60",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:08:40.491Z",
+    "model": "mistral:7b",
+    "durationMs": 11164,
+    "priceIncrement": 100
+  }
+}

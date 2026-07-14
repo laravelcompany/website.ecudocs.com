@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Citroen Xantia/Peugeot 406 2.0 16V Bosch (0 261 204 651, 96 304 032 80) - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-for-citroen-xantia-peugeot-406-2-0-16v-bosch-oem-teste",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Citroen Xantia/Peugeot 406 (2.0 16V) from Bosch, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen Xantia/Peugeot 406",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Xantia",
+    "Peugeot 406",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for Citroen Xantia/Peugeot 406 (2.0 16V) ensures seamless engine control.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>Warranty Included</li>\n<li>Used in Good Condition</li>\n<li>6-month Warranty</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>CITROEN XANTIA PEUGEOT 406</td></tr>\n<tr><th>ENGINE</th><td>2.0 16V</td></tr>\n<tr><th>YEAR</th><td>1995-1998</td></tr>\n<tr><th>NUMBER PARTS</th><td>9630403280</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen Xantia and Peugeot 406 (2.0 16V) only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN XANTIA PEUGEOT 406 BOSCH 0 261 204 651, 0261204651, 96 304 032 80, 9630403280",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-XANTIA-PEUGEOT-406-BOSCH-0-261-204-651%2C-0261204651%2C-96-304-032-80%2C-9630403280/61160",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9907-9147E_20140725120404",
+    "sku": "9907-9147E_20140725120404",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN XANTIA PEUGEOT 406 BOSCH 0 261 204 651, 0261204651, 96 304 032 80, 9630403280</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN XANTIA PEUGEOT 406",
+      "ENGINE": "2.0 16V",
+      "YEAR": "1995-1998",
+      "NUMBER PARTS": "9630403280",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:40:42.944Z",
+    "model": "mistral:7b",
+    "durationMs": 10876,
+    "priceIncrement": 100
+  }
+}

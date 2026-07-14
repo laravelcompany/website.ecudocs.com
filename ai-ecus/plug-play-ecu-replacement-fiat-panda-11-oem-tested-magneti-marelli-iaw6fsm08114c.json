@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT PANDA 1.1 OEM Tested - Magneti Marelli IAW6FSM/0811-4C",
+  "slug": "plug-play-ecu-replacement-fiat-panda-11-oem-tested-magneti-marelli-iaw6fsm08114c",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for FIAT PANDA 1.1, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€435.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT PANDA 1.1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT PANDA",
+    "Magneti Marelli",
+    "IAW6FSM/0811-4C"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for FIAT PANDA 1.1 is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Used Original in Good Condition</li>\n<li>Thoroughly Inspected and Tested</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FIAT PANDA</td></tr>\n<tr><th>ENGINE</th><td>1.1</td></tr>\n<tr><th>YEAR</th><td>1993-1996</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>IAW 6F.SM</td></tr>\n<tr><th>NUMBER PARTS</th><td>IAW6FSM/0811-4C</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PANDA 1.1, IAW 6F.SM, IAW6FSM, 61602.045.01, 6160204501, IAW6FSM/0811-4C",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PANDA-1.1%2C-IAW-6F.SM%2C-IAW6FSM%2C-61602.045.01%2C-6160204501%2C-IAW6FSM0811-4C-/49135",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "0BB1-671E4",
+    "sku": "0BB1-671E4",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PANDA 1.1, IAW 6F.SM, IAW6FSM, 61602.045.01, 6160204501, IAW6FSM/0811-4C </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e3c8d47d9871ec05bf6396087b968e10_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4413a44bb102d173353ec42b13458a90_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PANDA",
+      "ENGINE": "1.1",
+      "YEAR": "1993-1996",
+      "NUMBER MANUFACTURER": "IAW 6F.SM",
+      "NUMBER PARTS": "IAW6FSM/0811-4C",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:10:23.961Z",
+    "model": "mistral:7b",
+    "durationMs": 10762,
+    "priceIncrement": 100
+  }
+}

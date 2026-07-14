@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for KIA CARNAVAL 2.9 TDI - Aisin WP061801 - Warranty Included",
+  "slug": "plug-play-ecu-kia-carnaval-29-tdi-aisin-wp061801-warranty",
+  "metaDescription": "Get a tested and certified OEM ECU Engine Controller for your KIA CARNAVAL 2.9 TDI with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for KIA CARNAVAL 2.9 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA CARNAVAL",
+    "2.9 TDI",
+    "Aisin WP061801"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for KIA CARNAVAL 2.9 TDI ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>KIA CARNAVAL</td></tr>\n        <tr><th>ENGINE</th><td>2.9 TDI</td></tr>\n        <tr><th>YEAR</th><td>1999-2005</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>K554BJ3TCi</td></tr>\n        <tr><th>NUMBER PARTS</th><td>WP061801</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA CARNAVAL K554B J3-TCi, K554BJ3TCi, WP061801",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-CARNAVAL-K554B-J3-TCi%2C-K554BJ3TCi%2C-WP061801/61640",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Aisin",
+    "productCode": "4289-8849F_20140730123703",
+    "sku": "4289-8849F_20140730123703",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA CARNAVAL K554B J3-TCi, K554BJ3TCi, WP061801</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA CARNAVAL",
+      "ENGINE": "2.9 TDI",
+      "YEAR": "1999-2005",
+      "NUMBER MANUFACTURER": "K554BJ3TCi",
+      "NUMBER PARTS": "WP061801",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:17:31.595Z",
+    "model": "mistral:7b",
+    "durationMs": 10503,
+    "priceIncrement": 100
+  }
+}

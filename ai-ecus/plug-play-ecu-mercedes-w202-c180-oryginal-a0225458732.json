@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W202 C180 1.8 Oryginal A0225458732",
+  "slug": "plug-play-ecu-mercedes-w202-c180-oryginal-a0225458732",
+  "metaDescription": "Buy this OEM tested, Plug & Play ECU Engine Controller for Mercedes W202 C180 1.8 (A0225458732). Covered by a 6-month warranty and ready for immediate dispatch.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W202 C180 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W202 C180",
+    "Oryginal A0225458732"
+  ],
+  "description": "<section class=\"overview\">This OEM tested, Plug & Play ECU Engine Controller is specifically designed for Mercedes W202 C180 1.8 (A0225458732).</section>\n<section class=\"features\"><ul><li>OEM Tested and Certified</li><li>Plug & Play Compatibility</li><li>6-Month Warranty</li><li>Fast Dispatch</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>INSPECTION:</th><th>WARRANTY :</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>MERCEDES W202 C180</td><td>1996</td><td>412.229/018/006, 412229018006</td><td>0225458732</td><td>Plug & Play / Locked / Ready for programming</td><td>Device thoroughly inspected and tested by a certified technician</td><td>6-month warranty</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is specifically designed for Mercedes W202 C180 1.8 (A0225458732).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W202 C180 1.8 A0225458732, 0225458732, A 022 545 87 32, 412.229/018/006, 412229018006",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W202-C180-1.8-A0225458732%2C-0225458732%2C-A-022-545-87-32%2C-412.229018006%2C-412229018006/28282",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "7FEF-35066_20120824100000",
+    "sku": "7FEF-35066_20120824100000",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W202 C180 1.8 A0225458732, 0225458732, A 022 545 87 32, 412.229/018/006, 412229018006</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W202 C180",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "412.229/018/006, 412229018006",
+      "NUMBER PARTS": "0225458732",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:16:02.470Z",
+    "model": "mistral:7b",
+    "durationMs": 10337,
+    "priceIncrement": 100
+  }
+}

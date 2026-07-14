@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested ECU Replacement SsangYong 2.0 XDI Delphi - Plug & Play, Warranty Included",
+  "slug": "plug-play-ecu-ssangyong-20-xdi-delphi-oem-tested-warranty",
+  "metaDescription": "Expertly tested and OEM Delphi ECU replacement for SsangYong 2.0 XDI engine, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested ECU Replacement for SsangYong 2.0 XDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delphi 28283968",
+    "SsangYong 2.0 XDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Delphi ECU replacement for SsangYong 2.0 XDI engine ensures seamless performance and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SSANGYONG</td></tr>\n        <tr><th>ENGINE</th><td>2.0 XDI</td></tr>\n        <tr><th>YEAR</th><td>2011</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELPHI 28283968</td></tr>\n        <tr><th>NUMBER PARTS</th><td>671 540 00 32</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific model year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SSANGYONG 2.0 XDI DELPHI 28283968, 671 540 00 32, 6715400032, DCM3.7AP",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SSANGYONG-2.0-XDI-DELPHI-28283968%2C-671-540-00-32%2C-6715400032%2C-DCM3.7AP-/83969",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "BB42-16835_20160107154633",
+    "sku": "BB42-16835_20160107154633",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SSANGYONG 2.0 XDI DELPHI 28283968, 671 540 00 32, 6715400032, DCM3.7AP </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SSANGYONG",
+      "ENGINE": "2.0 XDI",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "DELPHI 28283968",
+      "NUMBER PARTS": "671 540 00 32",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:50:47.451Z",
+    "model": "mistral:7b",
+    "durationMs": 8940,
+    "priceIncrement": 100
+  }
+}

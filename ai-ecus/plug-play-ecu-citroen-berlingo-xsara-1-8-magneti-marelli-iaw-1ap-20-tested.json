@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Citroen Berlingo Xsara 1.8 Magneti Marelli IAW 1AP.20, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-citroen-berlingo-xsara-1-8-magneti-marelli-iaw-1ap-20-tested",
+  "metaDescription": "Expertly tested and OEM Magneti Marelli ECU for Citroen Berlingo Xsara 1.8, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen Berlingo Xsara 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Berlingo Xsara",
+    "Magneti Marelli IAW 1AP.20"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for the Citroen Berlingo Xsara 1.8 is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Magneti Marelli part</li>\n        <li>Plug & Play installation</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN BERLINGO XSARA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI IAW 1AP.20</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>9637586280 E</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation for optimal results.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN BERLINGO XSARA 1.8 MAGNETI MARELLI IAW 1AP.20, IAW1AP20, 16322.614, 16322614, 9637586280 E",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-BERLINGO-XSARA-1.8-MAGNETI-MARELLI-IAW-1AP.20%2C-IAW1AP20%2C-16322.614%2C-16322614%2C-9637586280-E/72916",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "8989-26332_20150218210550",
+    "sku": "8989-26332_20150218210550",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN BERLINGO XSARA 1.8 MAGNETI MARELLI IAW 1AP.20, IAW1AP20, 16322.614, 16322614, 9637586280 E</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN BERLINGO XSARA",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 1AP.20",
+      "NUMBER PARTS": "9637586280 E",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:23:26.572Z",
+    "model": "mistral:7b",
+    "durationMs": 10776,
+    "priceIncrement": 100
+  }
+}

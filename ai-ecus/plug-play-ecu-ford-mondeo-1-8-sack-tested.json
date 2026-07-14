@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Mondeo 1.8 SACK - ECU Replacement, Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-1-8-sack-tested",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford Mondeo 1.8 SACK. This used original part is in good condition, comes with a 6-month warranty, and ships within 24–48 hours.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Mondeo 1.8 SACK",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "1.8",
+    "SACK",
+    "Visteon"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Ford Mondeo 1.8 SACK is a reliable replacement part, ensuring seamless engine control.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used Original in Good Condition</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n    <tr><th>ENGINE</th><td>1.8</td></tr>\n    <tr><th>YEAR</th><td>1996-2000</td></tr>\n    <tr><th>NUMBER PARTS</th><td>SACK</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo 1.8 SACK. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 1.8 95BB-12A650-JA, 95BB12A650JA, SACK",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-1.8-95BB-12A650-JA%2C-95BB12A650JA%2C-SACK-/53327",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "A176-849E7_20140402123028",
+    "sku": "A176-849E7_20140402123028",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 1.8 95BB-12A650-JA, 95BB12A650JA, SACK </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "1.8",
+      "YEAR": "1996-2000",
+      "NUMBER PARTS": "SACK",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:32:47.478Z",
+    "model": "mistral:7b",
+    "durationMs": 9388,
+    "priceIncrement": 100
+  }
+}

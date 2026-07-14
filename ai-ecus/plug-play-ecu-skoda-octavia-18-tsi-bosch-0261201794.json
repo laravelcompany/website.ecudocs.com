@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - SKODA OCTAVIA 1.8 TSI BOSCH 0261201794",
+  "slug": "plug-play-ecu-skoda-octavia-18-tsi-bosch-0261201794",
+  "metaDescription": "OEM Tested ECU Replacement for SKODA OCTAVIA 1.8 TSI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU replacement for Skoda Octavia 1.8 TSI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA OCTAVIA",
+    "1.8 TSI",
+    "BOSCH",
+    "0261201794"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the SKODA OCTAVIA 1.8 TSI ensures seamless engine control.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Quality</li><li>6-month Warranty</li><li>Fast Dispatch</li><li>Thoroughly Inspected and Tested</li></ul></section>\n<section class=\"specs\"><table>\n  <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n  <tr><th>BRAND AND MODEL</th><td>SKODA OCTAVIA</td></tr>\n  <tr><th>ENGINE</th><td>1.8 TSI</td></tr>\n  <tr><th>YEAR</th><td>2007</td></tr>\n  <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 201 794</td></tr>\n  <tr><th>NUMBER PARTS</th><td>1039S22977</td></tr>\n  <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n  <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n  <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n  <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SKODA OCTAVIA 1.8 TSI. Fitment caution may apply. Consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 1.8 TSI 1Z0907115C, 1Z0 907 115 C, 1Z0907115B, 1Z0 907 115 B, BOSCH 0261201794, 0 261 201 794",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-1.8-TSI-1Z0907115C%2C-1Z0-907-115-C%2C-1Z0907115B%2C-1Z0-907-115-B%2C-BOSCH-0261201794%2C-0-261-201-794/24862",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C41A-5266B_20120603184146",
+    "sku": "C41A-5266B_20120603184146",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 1.8 TSI 1Z0907115C, 1Z0 907 115 C, 1Z0907115B, 1Z0 907 115 B, BOSCH 0261201794, 0 261 201 794</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.8 TSI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 201 794",
+      "NUMBER PARTS": "1039S22977",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:34:50.713Z",
+    "model": "mistral:7b",
+    "durationMs": 10468,
+    "priceIncrement": 100
+  }
+}

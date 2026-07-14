@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - SAAB 9-5 2.8T, Bosch 0 280 000 519, 9388471, Warranty Included",
+  "slug": "plug-play-ecu-saab-9-5-2-8t-bosch-0-280-000-519-warranty",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for your SAAB 9-5 2.8T. This OEM Bosch part, number 0 280 000 519, 9388471, comes with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for SAAB 9-5 2.8T",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SAAB 9-5 2.8T",
+    "Bosch 0 280 000 519",
+    "Used OEM Part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for your SAAB 9-5 2.8T is tested and certified by a Bosch technician, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Part</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SAAB</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>0 280 000 519</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>9388471</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with SAAB 9-5 2.8T vehicles only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SAAB 0 280 000 519, 0280000519, 9388471",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SAAB-0-280-000-519%2C-0280000519%2C-9388471/124878",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1E99-75983_20210325164000",
+    "sku": "1E99-75983_20210325164000",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SAAB 0 280 000 519, 0280000519, 9388471</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_254337_0_0/SAAB-0-280-000-519%2C-0280000519%2C-9388471.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_254338_0_0/SAAB-0-280-000-519%2C-0280000519%2C-9388471.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SAAB",
+      "NUMBER MANUFACTURER": "0 280 000 519",
+      "NUMBER PARTS": "9388471",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:37:16.343Z",
+    "model": "mistral:7b",
+    "durationMs": 10671,
+    "priceIncrement": 100
+  }
+}

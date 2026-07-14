@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement Honda Civic 1.4 OEM Tested - 37820-P3Y-G01 DC, Warranty Included",
+  "slug": "plug-play-ecu-replacement-honda-civic-14-oem-tested-warranty-included-37820p3yg0",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Honda Civic 1.4 (37820-P3Y-G01 DC). Includes a 6-month warranty and fast dispatch.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Honda Civic 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Civic",
+    "OEM part numbers",
+    "1.4"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Honda Civic 1.4 (37820-P3Y-G01 DC) is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>Locked</li>\n<li>Ready for programming</li>\n<li>6-month warranty</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>HONDA CIVIC</td></tr>\n<tr><td>ENGINE</td><td>1.4</td></tr>\n<tr><td>YEAR</td><td>1996-1999</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>37820-P3Y-G01 DC</td></tr>\n<tr><td>NUMBER PARTS</td><td>148-227949</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA CIVIC 1.4 37820-P3Y-G01 DC, 37820P3YG01, 148-227949, 148227949",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-CIVIC-1.4-37820-P3Y-G01-DC%2C-37820P3YG01%2C-148-227949%2C-148227949/36136",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "7DB5-5753F",
+    "sku": "7DB5-5753F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA CIVIC 1.4 37820-P3Y-G01 DC, 37820P3YG01, 148-227949, 148227949</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_f487514e875b96be71a1880e164299ed_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_da6e7928ef378335f67db3b1fcfbe6f9_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA CIVIC",
+      "ENGINE": "1.4",
+      "YEAR": "1996-1999",
+      "NUMBER MANUFACTURER": "37820-P3Y-G01 DC",
+      "NUMBER PARTS": "148-227949",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:18:02.257Z",
+    "model": "mistral:7b",
+    "durationMs": 9745,
+    "priceIncrement": 100
+  }
+}

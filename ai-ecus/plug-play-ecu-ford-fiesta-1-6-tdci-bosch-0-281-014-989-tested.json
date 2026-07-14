@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Fiesta 1.6 TDCI BOSCH 0 281 014 989, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-fiesta-1-6-tdci-bosch-0-281-014-989-tested",
+  "metaDescription": "OEM ECU Engine Controller for Ford Fiesta 1.6 TDCI BOSCH 0 281 014 989, Plug & Play, tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM ECU Replacement for Ford Fiesta 1.6 TDCI BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "1.6 TDCI",
+    "BOSCH"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller is a direct replacement for the Ford Fiesta 1.6 TDCI BOSCH, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta 1.6 TDCI BOSCH. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.6 TDCI BOSCH 0 281 014 989, 0281014989, 8V21-12A650-PC, 8V2112A650PC",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.6-TDCI-BOSCH-0-281-014-989%2C-0281014989%2C-8V21-12A650-PC%2C-8V2112A650PC/42074",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "40B0-12492",
+    "sku": "40B0-12492",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.6 TDCI BOSCH 0 281 014 989, 0281014989, 8V21-12A650-PC, 8V2112A650PC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.6 TDCI",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 989",
+      "NUMBER PARTS": "8V21-12A650-PC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:32:34.139Z",
+    "model": "mistral:7b",
+    "durationMs": 6496,
+    "priceIncrement": 100
+  }
+}

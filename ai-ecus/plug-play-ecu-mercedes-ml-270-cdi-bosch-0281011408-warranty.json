@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mercedes ML 270 CDI Bosch 0 281 011 408, A6121536379 - Warranty Included",
+  "slug": "plug-play-ecu-mercedes-ml-270-cdi-bosch-0281011408-warranty",
+  "metaDescription": "Expertly reconditioned OEM ECU Engine Controller for Mercedes ML 270 CDI by Bosch (0 281 011 408, A6121536379). Plug & Play. 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Mercedes ML 270 CDI by Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes ML 270 CDI",
+    "Bosch 0 281 011 408",
+    "A6121536379"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Mercedes ML 270 CDI by Bosch (0 281 011 408, A6121536379) offers a reliable solution to your vehicle's engine control system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES ML</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>270 CDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 011 408</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>A 612 153 63 79</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes ML 270 CDI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES ML 270 CDI BOSCH 0 281 011 408, 0281011408, A 612 153 63 79, A6121536379, C42.14",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-ML-270-CDI-BOSCH-0-281-011-408%2C-0281011408%2C-A-612-153-63-79%2C-A6121536379%2C-C42.14-/95680",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F83F-72956_20160902191014",
+    "sku": "F83F-72956_20160902191014",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES ML 270 CDI BOSCH 0 281 011 408, 0281011408, A 612 153 63 79, A6121536379, C42.14 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_918158dd8864f612036487ac74aa5f3e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ad80d5ec405ba293d365f7dea916d2a8_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES ML",
+      "ENGINE": "270 CDI",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 408",
+      "NUMBER PARTS": "A 612 153 63 79",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:44:52.112Z",
+    "model": "mistral:7b",
+    "durationMs": 13873,
+    "priceIncrement": 100
+  }
+}

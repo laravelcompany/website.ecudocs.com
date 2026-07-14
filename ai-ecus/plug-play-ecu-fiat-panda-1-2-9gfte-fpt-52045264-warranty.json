@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Panda 1.2 9GFTE OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-panda-1-2-9gfte-fpt-52045264-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat Panda 1.2 9GFTE, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Panda 1.2 9GFTE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Panda",
+    "1.2 Engine",
+    "9GFTE",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Fiat Panda 1.2 9GFTE is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FIAT PANDA</td><td>1.2</td><td>9GF.TE</td><td>52045264</td><td>Plug & Play / Locked / Ready for programming</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PANDA 1.2 52045264, 9GF.TE, 9GFTE",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PANDA-1.2-52045264%2C-9GF.TE%2C-9GFTE/105417",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "FPT",
+    "productCode": "6895-66906_20170530125755",
+    "sku": "6895-66906_20170530125755",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PANDA 1.2 52045264, 9GF.TE, 9GFTE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PANDA",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "9GF.TE",
+      "NUMBER PARTS": "52045264",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:10:32.985Z",
+    "model": "mistral:7b",
+    "durationMs": 8023,
+    "priceIncrement": 100
+  }
+}

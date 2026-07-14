@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - SKODA Felicia 1.6 OEM Tested, Warranty Included - 032 906 030 B",
+  "slug": "plug-play-ecu-skoda-felicia-16-oem-tested-warranty-included-032-906-030-b",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for SKODA Felicia 1.6, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Skoda Felicia 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA Felicia",
+    "Magneti Marelli",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for SKODA Felicia 1.6 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SKODA FELICIA</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>YEAR</th><td>1995-</td></tr>\n        <tr><th>NUMBER PARTS</th><td>032 906 030 B</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SKODA Felicia 1.6. Fitment caution may apply. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FELICIA 1.6, IAW1AV.S1, IAW1AVS1, 61600.286.04, 6160028604, 032 906 030 B, 032906030B",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FELICIA-1.6%2C-IAW1AV.S1%2C-IAW1AVS1%2C-61600.286.04%2C-6160028604%2C-032-906-030-B%2C-032906030B/55290",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "CA94-951F4_20140507093613",
+    "sku": "CA94-951F4_20140507093613",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FELICIA 1.6, IAW1AV.S1, IAW1AVS1, 61600.286.04, 6160028604, 032 906 030 B, 032906030B</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FELICIA",
+      "ENGINE": "1.6",
+      "YEAR": "1995-",
+      "NUMBER PARTS": "032906030B",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:28:45.757Z",
+    "model": "mistral:7b",
+    "durationMs": 10323,
+    "priceIncrement": 100
+  }
+}

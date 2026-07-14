@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Renault Megane S180067144A, 237101495R - 6-month Warranty",
+  "slug": "plug-play-ecu-renault-megane-s180067144a-237101495r-warranty",
+  "metaDescription": "Expertly tested and OEM replacement ECU for Renault Megane S180067144A, 237101495R. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Renault Megane S180067144A",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane",
+    "S180067144A",
+    "237101495R"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Renault Megane S180067144A, 237101495R is expertly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>RENAULT MEGANE</td></tr>\n    <tr><th>YEAR</th><td>2012</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>S180067144 A</td></tr>\n    <tr><th>NUMBER PARTS</th><td>237101495R</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE S180067144 A, S180067144A, 237101495R",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-S180067144-A%2C-S180067144A%2C-237101495R/94954",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "4D8A-927A3_20160826115423",
+    "sku": "4D8A-927A3_20160826115423",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE S180067144 A, S180067144A, 237101495R</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE",
+      "YEAR": "2012",
+      "NUMBER MANUFACTURER": "S180067144 A",
+      "NUMBER PARTS": "237101495R",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:53:51.600Z",
+    "model": "mistral:7b",
+    "durationMs": 8903,
+    "priceIncrement": 100
+  }
+}

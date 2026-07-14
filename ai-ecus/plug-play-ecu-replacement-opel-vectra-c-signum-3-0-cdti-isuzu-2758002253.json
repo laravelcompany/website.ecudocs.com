@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Vectra C, Signum 3.0 CDTI - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-opel-vectra-c-signum-3-0-cdti-isuzu-2758002253",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Opel Vectra C, Signum 3.0 CDTI from our professional e-commerce site. Shipping within 24–48 hours with a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Vectra C, Signum 3.0 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra C",
+    "Signum 3.0 CDTI",
+    "ISUZU 275800-2253"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is a reliable replacement for your Opel Vectra C, Signum 3.0 CDTI.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Compatible with your vehicle</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>VECTRA C, SIGNUM</td></tr>\n        <tr><th>ENGINE</th><td>3.0 CDTI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>275800-2253</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8973521855</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra C and Signum models equipped with the 3.0 CDTI engine. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA C, SIGNUM 3.0 CDTI, 275800-2253, 2758002253, 8973521855, 24452707",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-C%2C-SIGNUM-3.0-CDTI%2C-275800-2253%2C-2758002253%2C-8973521855%2C-24452707-/40499",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "ISUZU",
+    "productCode": "3464-4006C_20130825225357",
+    "sku": "3464-4006C_20130825225357",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA C, SIGNUM 3.0 CDTI, 275800-2253, 2758002253, 8973521855, 24452707 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a20cb6da0559c3acfafd0f85576e9429_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_bbce9982391e47efab9f8702ac4b3651_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VECTRA C, SIGNUM",
+      "ENGINE": "3.0 CDTI",
+      "NUMBER MANUFACTURER": "275800-2253",
+      "NUMBER PARTS": "8973521855",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:25:09.786Z",
+    "model": "mistral:7b",
+    "durationMs": 9562,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Opel Corsa D 1.3 CDTI - OEM Tested MJD6O3SE, Warranty Included",
+  "slug": "plug-play-ecu-replacement-opel-corsa-d-1-3-cdti-mjd6o3se",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Opel Corsa D 1.3 CDTI with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€455.00",
+  "excerpt": "OEM Tested, Plug & Play ECU Replacement for Opel Corsa D 1.3 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Corsa D",
+    "1.3 CDTI",
+    "MJD6O3SE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Opel Corsa D 1.3 CDTI is a reliable solution to restore your vehicle's optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>OPEL CORSA D</td></tr>\n    <tr><th>ENGINE</th><td>1.3 CDTI</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>55571107 MP</td></tr>\n    <tr><th>NUMBER PARTS</th><td>MJD6O3.SE</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>complet</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA D 1.3 CDTI 55571107 MP, 55571107MP, MJD6O3.SE, MJD6O3SE, MJD603SE",
+    "price": "€325.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-D-1.3-CDTI-55571107-MP%2C-55571107MP%2C-MJD6O3.SE%2C-MJD6O3SE%2C-MJD603SE/107337",
+    "priceCurrency": "EUR",
+    "netPrice": "€264.23",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "17A4-95390_20171107154457",
+    "sku": "17A4-95390_20171107154457",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA D 1.3 CDTI 55571107 MP, 55571107MP, MJD6O3.SE, MJD6O3SE, MJD603SE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA D",
+      "ENGINE": "1.3 CDTI",
+      "NUMBER MANUFACTURER": "55571107 MP",
+      "NUMBER PARTS": "MJD6O3.SE",
+      "OPTION AVAILABLE": "complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:59:20.610Z",
+    "model": "mistral:7b",
+    "durationMs": 9803,
+    "priceIncrement": 100
+  }
+}

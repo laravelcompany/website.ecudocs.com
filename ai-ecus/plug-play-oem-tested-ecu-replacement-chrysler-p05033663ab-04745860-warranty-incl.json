@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Chrysler - P05033663AB, 04745860 - Warranty Included",
+  "slug": "plug-play-oem-tested-ecu-replacement-chrysler-p05033663ab-04745860-warranty-incl",
+  "metaDescription": "Buy the Plug & Play OEM Tested ECU Engine Controller for Chrysler with a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Chrysler",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chrysler P05033663AB",
+    "04745860",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Chrysler is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used but in good condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>CHRYSLER</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>P05033663AB</td></tr>\n    <tr><th>NUMBER PARTS</th><td>04745860</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHRYSLER P05033663AB,05033663AB, 04745860",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHRYSLER-P05033663AB%2C05033663AB%2C-04745860/114191",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "2928-34128_20190702135912",
+    "sku": "2928-34128_20190702135912",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHRYSLER P05033663AB,05033663AB,  04745860</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_230481_0_0/CHRYSLER-P05033663AB%2C05033663AB%2C--04745860.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_230482_0_0/CHRYSLER-P05033663AB%2C05033663AB%2C--04745860.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHRYSLER",
+      "NUMBER MANUFACTURER": "P05033663AB",
+      "NUMBER PARTS": "04745860",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:08:21.563Z",
+    "model": "mistral:7b",
+    "durationMs": 10161,
+    "priceIncrement": 100
+  }
+}

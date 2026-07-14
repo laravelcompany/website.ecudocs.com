@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Skoda Fabia 1.2 TDI Delphi 28307032 - 6-month Warranty",
+  "slug": "plug-play-ecu-skoda-fabia-12-tdi-delphi-28307032-warranty",
+  "metaDescription": "Expertly tested and OEM Delphi ECU replacement for Skoda Fabia 1.2 TDI (28307032, 03P 906 021 AN). Plug & Play installation, 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "OEM Tested ECU Replacement for Skoda Fabia 1.2 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Fabia",
+    "Delphi",
+    "1.2 TDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Delphi ECU replacement for Skoda Fabia 1.2 TDI (28307032, 03P 906 021 AN) ensures seamless performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SKODA FABIA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.2 TDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2010</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>DELPHI 28307032</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>03P 906 021 AN</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your vehicle's specifications before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FABIA 1.2 TDI DELPHI 28307032, 03P 906 021 K, 03P906021K, 03P 906 021 AN, 03P906021AN",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FABIA-1.2-TDI-DELPHI-28307032%2C-03P-906-021-K%2C-03P906021K%2C-03P-906-021-AN%2C-03P906021AN/52158",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "208D-2690D_20140303200025",
+    "sku": "208D-2690D_20140303200025",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FABIA 1.2 TDI DELPHI 28307032, 03P 906 021 K, 03P906021K, 03P 906 021 AN, 03P906021AN</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FABIA",
+      "ENGINE": "1.2 TDI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "DELPHI 28307032",
+      "NUMBER PARTS": "03P 906 021 AN",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:21:20.731Z",
+    "model": "mistral:7b",
+    "durationMs": 13427,
+    "priceIncrement": 100
+  }
+}

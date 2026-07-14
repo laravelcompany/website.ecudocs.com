@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Astra F 1.6 - OEM Tested, Warranty Included (16192839 RG, BPJA)",
+  "slug": "plug-play-ecu-opel-astra-f-16-oem-tested",
+  "metaDescription": "Expertly tested ECU Engine Controller for Opel Astra F 1.6 (16192839 RG, BPJA). Plug & Play, OEM certified, and backed by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra F 1.6 - Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra F",
+    "1.6 Engine",
+    "16192839 RG",
+    "BPJA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for the Opel Astra F 1.6 (16192839 RG, BPJA). Trust our expert technicians for reliable performance and peace of mind.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL ASTRA F</td></tr>\n        <tr><th>ENGINE:</th><td>1.6</td></tr>\n        <tr><th>YEAR:</th><td>1997</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>16192839 RG</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>BPJA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra F 1.6 (16192839 RG, BPJA).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA F 1.6, 16192839 RG, 16192839RG, D95022, BPJA",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-F-1.6%2C-16192839-RG%2C-16192839RG%2C-D95022%2C-BPJA/36797",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "2816-990C4_20130705113359",
+    "sku": "2816-990C4_20130705113359",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA F 1.6, 16192839 RG, 16192839RG, D95022, BPJA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA F",
+      "ENGINE": "1.6",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "16192839 RG",
+      "NUMBER PARTS": "BPJA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:08:21.063Z",
+    "model": "mistral:7b",
+    "durationMs": 9674,
+    "priceIncrement": 100
+  }
+}

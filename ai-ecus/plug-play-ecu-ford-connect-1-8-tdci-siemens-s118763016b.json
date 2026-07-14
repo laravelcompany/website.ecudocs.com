@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford Connect 1.8 TDCI - Siemens S118763016B",
+  "slug": "plug-play-ecu-ford-connect-1-8-tdci-siemens-s118763016b",
+  "metaDescription": "Expertly tested, Plug & Play ECU replacement for Ford Connect 1.8 TDCI by Siemens. Fast dispatch and 12-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Connect 1.8 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Connect",
+    "1.8 TDCI",
+    "Siemens"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Ford Connect 1.8 TDCI by Siemens ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD CONNECT</td></tr>\n        <tr><th>ENGINE</th><td>1.8 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2005</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIM 21 S118763016 B</td></tr>\n        <tr><th>CODE</th><td>3EAB</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6S61-12A650-PB</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD CONNECT 1.8 TDCI 6S6112A650PB, 6S61-12A650-PB 3EAB, S118763016B, S118763016 B SIM 21",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-CONNECT-1.8-TDCI-6S6112A650PB%2C-6S61-12A650-PB-3EAB%2C-S118763016B%2C-S118763016-B-SIM-21/31622",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "B2CD-8420B_20121017122326",
+    "sku": "B2CD-8420B_20121017122326",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD CONNECT 1.8 TDCI 6S6112A650PB, 6S61-12A650-PB 3EAB, S118763016B, S118763016 B SIM 21</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD CONNECT",
+      "ENGINE": "1.8 TDCI",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "SIM 21 S118763016 B",
+      "CODE": "3EAB",
+      "NUMBER PARTS": "6S61-12A650-PB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:05:52.600Z",
+    "model": "mistral:7b",
+    "durationMs": 9345,
+    "priceIncrement": 100
+  }
+}

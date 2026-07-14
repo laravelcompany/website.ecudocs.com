@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Visteon 3C11-12A650-FA, 8GJA, Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-replacement-ford-visteon-3c11-12a650-fa-8gja",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Visteon 3C11-12A650-FA, 8GJA. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "OEM tested Plug & Play ECU replacement for Ford Visteon",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford",
+    "Visteon",
+    "3C11-12A650-FA",
+    "8GJA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Visteon is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD VISTEON 3C11-12A650-FA</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8GJA</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / CLON</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery. 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD VISTEON 3C11-12A650-FA, 3C1112A650FA, 8GJA, DPC-805",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-VISTEON-3C11-12A650-FA%2C-3C1112A650FA%2C-8GJA%2C-DPC-805-/99668",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "1424-67521_20161128114546",
+    "sku": "1424-67521_20161128114546",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  FORD VISTEON 3C11-12A650-FA, 3C1112A650FA, 8GJA, DPC-805 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "VISTEON 3C11-12A650-FA",
+      "NUMBER PARTS": "8GJA",
+      "OPTION AVAILABLE": "LOCKED / CLON",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:02:06.258Z",
+    "model": "mistral:7b",
+    "durationMs": 10828,
+    "priceIncrement": 100
+  }
+}

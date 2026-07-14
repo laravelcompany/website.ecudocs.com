@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Bosch 0261204580 for Toyota Avensis 1.6 - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-toyota-avensis-16-bosch-oem-tested",
+  "metaDescription": "Get a Plug & Play ECU Replacement for your Toyota Avensis 1.6 with a 6-month warranty. This OEM Tested Bosch part (0261204580) is in good condition and ready for immediate dispatch.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Toyota Avensis 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0261204580",
+    "Toyota Avensis"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your Toyota Avensis 1.6 is a reliable solution, tested and certified by Bosch.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>In Good Condition</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>TOYOTA AVENSIS</td></tr>\n        <tr><th>ENGINE:</th><td>1.6</td></tr>\n        <tr><th>YEAR:</th><td>1998-2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 204 580</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>89661-05231</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Toyota Avensis 1.6 (1998-2000). Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA AVENSIS 1.6 0261204580 89661-05231 8966105231",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-AVENSIS-1.6-0261204580-89661-05231-8966105231/49981",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1782-647DB",
+    "sku": "1782-647DB",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA AVENSIS 1.6 0261204580 89661-05231 8966105231</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER",
+      "BRAND AND MODEL": "TOYOTA AVENSIS",
+      "ENGINE": "1.6",
+      "YEAR": "1998-2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 580",
+      "NUMBER PARTS": "89661-05231",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:12:36.842Z",
+    "model": "mistral:7b",
+    "durationMs": 9553,
+    "priceIncrement": 100
+  }
+}

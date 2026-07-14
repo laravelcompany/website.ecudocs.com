@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested ECU Replacement Audi A5 S5 4.2, Bosch 0 261 S02 329 - Plug & Play, Warranty",
+  "slug": "plug-and-play-ecu-audi-a5-s5-42-bosch-0-261-s02-329-warranty",
+  "metaDescription": "Buy OEM tested ECU replacement for Audi A5 S5 4.2, Bosch 0 261 S02 329. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€870.00",
+  "excerpt": "OEM tested ECU replacement for Audi A5 S5 4.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A5 S5",
+    "Bosch 0 261 S02 329"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Audi A5 S5 4.2 is a reliable solution to your engine control unit issues, backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch</li>\n<li>Reliable Solution</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>AUDI A5 S5</td></tr>\n<tr><td>ENGINE</td><td>4.2</td></tr>\n<tr><td>YEAR</td><td>2007</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 S02 329</td></tr>\n<tr><td>NUMBER PARTS</td><td>CAUA 0006</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A5 S5 4.2. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A5 S5 4.2 8T0907560, 8T0 907 560, BOSCH 0 261 S02 329, 0261S02329, BENZIN MED9.1.1 CAUA 0006, 1039S24064",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A5-S5-4.2-8T0907560%2C-8T0-907-560%2C-BOSCH-0-261-S02-329%2C-0261S02329%2C-BENZIN-MED9.1.1-CAUA-0006%2C-1039S24064-/16161",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "682F-890DC",
+    "sku": "682F-890DC",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A5 S5 4.2 8T0907560, 8T0 907 560, BOSCH 0 261 S02 329, 0261S02329, BENZIN MED9.1.1 CAUA 0006, 1039S24064 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A5 S5",
+      "ENGINE": "4.2",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S02 329",
+      "NUMBER PARTS": "CAUA 0006",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:26:32.653Z",
+    "model": "mistral:7b",
+    "durationMs": 11328,
+    "priceIncrement": 100
+  }
+}

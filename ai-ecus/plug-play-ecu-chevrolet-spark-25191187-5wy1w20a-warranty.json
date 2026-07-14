@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Chevrolet Spark 25191187, 5WY1W20A - Warranty Included",
+  "slug": "plug-play-ecu-chevrolet-spark-25191187-5wy1w20a-warranty",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Chevrolet Spark 25191187, 5WY1W20A. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU replacement for Chevrolet Spark",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet Spark",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct fit replacement for your Chevrolet Spark. It comes with a 6-month warranty and easy Plug & Play installation.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch</li>\n<li>Easy Installation</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>CHEVROLET SPARK</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>25191187</td></tr>\n<tr><td>NUMBER PARTS</td><td>5WY1W20A</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Chevrolet Spark only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET SPARK 25191187, 5WY1W20A",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-SPARK-25191187%2C-5WY1W20A/104637",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "DFC1-18826_20170320164611",
+    "sku": "DFC1-18826_20170320164611",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET SPARK 25191187, 5WY1W20A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET SPARK",
+      "NUMBER MANUFACTURER": "25191187",
+      "NUMBER PARTS": "5WY1W20A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:02:18.036Z",
+    "model": "mistral:7b",
+    "durationMs": 10365,
+    "priceIncrement": 100
+  }
+}

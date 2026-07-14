@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes Sprinter 2.2 CDI Bosch 0 281 011 483, A 611 153 04 91 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-sprinter-2-2-cdi-bosch-0-281-011-483-a-611-153-04-91",
+  "metaDescription": "OEM tested ECU Engine Controller for Mercedes Sprinter 2.2 CDI, backed by a 6-month warranty and ready for Plug & Play installation.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes Sprinter 2.2 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Sprinter",
+    "2.2 CDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for Mercedes Sprinter 2.2 CDI ensures seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM quality part</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES SPRINTER</td></tr>\n        <tr><th>ENGINE:</th><td>2.2 CDI</td></tr>\n        <tr><th>YEAR:</th><td>2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 011 483</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>A 611 153 04 91</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES SPRINTER 2.2 CDI BOSCH 0 281 011 483, 0281011483, A 611 153 04 91, A6111530491",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-SPRINTER-2.2-CDI-BOSCH-0-281-011-483%2C-0281011483%2C-A-611-153-04-91%2C-A6111530491-/78312",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9F72-1948A_20150822153012",
+    "sku": "9F72-1948A_20150822153012",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES SPRINTER 2.2 CDI BOSCH 0 281 011 483, 0281011483, A 611 153 04 91, A6111530491 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES SPRINTER",
+      "ENGINE": "2.2 CDI",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 483",
+      "NUMBER PARTS": "A 611 153 04 91",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:52:34.599Z",
+    "model": "mistral:7b",
+    "durationMs": 9648,
+    "priceIncrement": 100
+  }
+}

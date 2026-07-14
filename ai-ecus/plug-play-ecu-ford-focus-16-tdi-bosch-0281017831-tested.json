@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Focus 1.6 TDI Bosch 0 281 017 831, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-focus-16-tdi-bosch-0281017831-tested",
+  "metaDescription": "Expertly tested and OEM-certified ECU replacement for Ford Focus 1.6 TDI, featuring Plug & Play installation and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Focus 1.6 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Bosch ECU",
+    "1.6 TDI"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for the Ford Focus 1.6 TDI is tested and certified by a professional technician, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM-certified part</li>\n        <li>Plug & Play installation</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FOCUS</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6 TDI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 017 831</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>AV21-12A650-GC</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Focus 1.6 TDI only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.6 TDI, BOSCH 0 281 017 831, 0281017831, AV21-12A650-GC, AV2112A650GC",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.6-TDI%2C-BOSCH-0-281-017-831%2C-0281017831%2C-AV21-12A650-GC%2C-AV2112A650GC/43914",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A550-76723",
+    "sku": "A550-76723",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.6 TDI, BOSCH 0 281 017 831, 0281017831, AV21-12A650-GC, AV2112A650GC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_23fd4daf3b3ed8ba495c9b1759a83aca_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e3efb29f3ec28eaae80d706176645045_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.6 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 017 831",
+      "NUMBER PARTS": "AV21-12A650-GC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:52:17.879Z",
+    "model": "mistral:7b",
+    "durationMs": 10666,
+    "priceIncrement": 100
+  }
+}

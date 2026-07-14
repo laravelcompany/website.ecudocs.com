@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement - Oryginal Chrysler Voyager 3.3 P04727158AJ, 7158AJ - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-chrysler-voyager-33-oryginal-p04727158aj-7158aj-tested",
+  "metaDescription": "Buy Oryginal ECU Engine Controller for Chrysler Voyager 3.3 P04727158AJ, 7158AJ. Plug & Play, OEM tested, 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Chrysler Voyager 3.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Oryginal part",
+    "Chrysler Voyager",
+    "P04727158AJ",
+    "7158AJ"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU replacement for the Chrysler Voyager 3.3 ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested and certified</li>\n        <li>Plug & Play functionality</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Chrysler Voyager 3.3</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Parts</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>Brand and Model</td>\n                <td>CHRYSLER VOYAGER</td>\n            </tr>\n            <tr>\n                <td>Engine</td>\n                <td>3.3</td>\n            </tr>\n            <tr>\n                <td>Year</td>\n                <td>1999</td>\n            </tr>\n            <tr>\n                <td>Number Manufacturer</td>\n                <td>P04727158AJ</td>\n            </tr>\n            <tr>\n                <td>Number Parts</td>\n                <td>7158AJ</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Chrysler Voyager 3.3 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHRYSLER VOYAGER 3.3 P04727158AJ, 7158AJ",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHRYSLER-VOYAGER-3.3-P04727158AJ%2C-7158AJ-/42727",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "A84D-435A5",
+    "sku": "A84D-435A5",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHRYSLER VOYAGER 3.3 P04727158AJ, 7158AJ </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_229216_0_0/DSC01262.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_229218_0_0/CHRYSLER-VOYAGER-3.3-P04727158AJ%2C-7158AJ.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHRYSLER VOYAGER",
+      "ENGINE": "3.3",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "P04727158AJ",
+      "NUMBER PARTS": "7158AJ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:13:56.802Z",
+    "model": "mistral:7b",
+    "durationMs": 11464,
+    "priceIncrement": 100
+  }
+}

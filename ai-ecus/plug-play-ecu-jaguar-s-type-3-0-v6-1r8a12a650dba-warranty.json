@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested JAGUAR S-TYPE 3.0 V6 1R8A-12A650-DBA, Warranty Included",
+  "slug": "plug-play-ecu-jaguar-s-type-3-0-v6-1r8a12a650dba-warranty",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your JAGUAR S-TYPE 3.0 V6. OEM tested, warranty included, and fast dispatch in EU.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Jaguar S-Type 3.0 V6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "JAGUAR S-TYPE",
+    "OEM part numbers",
+    "V6 Engine"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement is tested and covered by a 6-month warranty for your JAGUAR S-TYPE 3.0 V6.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch in EU</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>JAGUAR S-TYPE</td></tr>\n        <tr><th>ENGINE</th><td>3.0 V6</td></tr>\n        <tr><th>YEAR</th><td>1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>1R8A-12A650-DBA</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JAGUAR S-TYPE 3.0 V6 1R8A-12A650-DBA, 1R8A12A650DBA",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JAGUAR-S-TYPE-3.0-V6-1R8A-12A650-DBA%2C-1R8A12A650DBA-/42717",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "66C8-283B6",
+    "sku": "66C8-283B6",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JAGUAR S-TYPE 3.0 V6 1R8A-12A650-DBA, 1R8A12A650DBA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JAGUAR S-TYPE",
+      "ENGINE": "3.0 V6",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "1R8A-12A650-DBA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:55:26.496Z",
+    "model": "mistral:7b",
+    "durationMs": 10267,
+    "priceIncrement": 100
+  }
+}

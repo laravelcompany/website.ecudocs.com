@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Opel Corsa B 1.2 - Delco 16175359 ZF, BFHP - OEM Tested & Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-opel-corsa-b-1-2-delco-16175359-zf-bfhp-tested",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Opel Corsa B 1.2, tested and covered by a 6-month warranty. Order today for fast dispatch!",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Corsa B 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Corsa B",
+    "Delco",
+    "16175359 ZF"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller is a reliable replacement for your Opel Corsa B 1.2. Restore optimal engine performance with this original Delco part.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Original Delco part for superior quality</li>\n        <li>Compatible with Opel Corsa B 1.2 engine</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CORSA B</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELCO 16175359 ZF</td></tr>\n        <tr><th>NUMBER PARTS</th><td>BFHP</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery and a 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment by consulting your vehicle's service manual or contacting our support team before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA B DELCO 16175359 ZF, 16175359ZF, BFHP",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-B-DELCO-16175359-ZF%2C-16175359ZF%2C-BFHP/65716",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "47CC-98528_20140912100048",
+    "sku": "47CC-98528_20140912100048",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA B DELCO 16175359 ZF, 16175359ZF, BFHP</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_fdab343d3e2aa473cd987bc2057fa429_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_dd06fa730b3278a93c254da275d92237_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9e19c5e04d0628e3362f08f6a0337e06_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA B",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "DELCO 16175359 ZF",
+      "NUMBER PARTS": "BFHP",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:53:36.225Z",
+    "model": "mistral:7b",
+    "durationMs": 9461,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller SAAB 900 2.3 i BOSCH 0 261 203 122, Warranty Included",
+  "slug": "plug-play-ecu-saab-900-2-3i-bosch-oem-tested",
+  "metaDescription": "Expertly tested and OEM certified Plug & Play ECU Engine Controller for SAAB 900 2.3 i BOSCH 0 261 203 122, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU for SAAB 900 2.3 i BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SAAB 900",
+    "BOSCH",
+    "2.3 i"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a direct replacement for your SAAB 900 2.3 i BOSCH unit, ensuring seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play Installation</li>\n<li>6-month Warranty</li>\n<li>Expertly Inspected and Tested</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL:</th><td>SAAB 900</td></tr>\n<tr><th>ENGINE:</th><td>2.3 i</td></tr>\n<tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 203 122</td></tr>\n<tr><th>NUMBER PARTS:</th><td>91 32 697</td></tr>\n<tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure this ECU is compatible with your specific SAAB 900 model and engine configuration before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SAAB 900 2.3 i BOSCH 0 261 203 122, 0261203122, 91 32 697, 9132697",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SAAB-900-2.3-i-BOSCH-0-261-203-122%2C-0261203122%2C-91-32-697%2C-9132697/72265",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "372D-344E2_20150204225227",
+    "sku": "372D-344E2_20150204225227",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SAAB 900 2.3 i BOSCH 0 261 203 122, 0261203122, 91 32 697, 9132697</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SAAB 900",
+      "ENGINE": "2.3 i",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 122",
+      "NUMBER PARTS": "91 32 697",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:39:43.391Z",
+    "model": "mistral:7b",
+    "durationMs": 10425,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A3 1.6 AKL AEH OEM Siemens 5WP4456 03, Benzin SIMOS2.1B 3320 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-audi-a3-1-6-akl-aeh-siemens-5wp4456-03-benzin-simos2-1b-3320-teste",
+  "metaDescription": "OEM tested ECU Replacement for Audi A3 1.6 AKL AEH with Siemens 5WP4456 03, Benzin SIMOS2.1B 3320. Plug & Play, 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM tested ECU Replacement for Audi A3 1.6 AKL AEH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "Siemens 5WP4456 03",
+    "Benzin SIMOS2.1B 3320"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Replacement for Audi A3 1.6 AKL AEH with Siemens 5WP4456 03, Benzin SIMOS2.1B 3320 is a Plug & Play solution that ensures seamless integration and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for optimal performance</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Compatible with Audi A3 1.6 AKL AEH</li>\n        <li>Siemens 5WP4456 03 and Benzin SIMOS2.1B 3320 part numbers</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI A3</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6 AKL AEH</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WP4456 03</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>BENZIN SIMOS2.1B 3320</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify fitment before purchase as ECU compatibility can vary based on vehicle's specific configuration.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 1.6 AKL AEH 06A906019BS, 06A 906 019 BS, SIEMENS 5WP4456 03, BENZIN SIMOS2.1B 3320",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-1.6-AKL-AEH-06A906019BS%2C-06A-906-019-BS%2C-SIEMENS-5WP4456-03%2C-BENZIN-SIMOS2.1B-3320-/14210",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "22A5-407DA",
+    "sku": "22A5-407DA",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A3 1.6 AKL AEH 06A906019BS, 06A 906 019 BS, SIEMENS 5WP4456 03, BENZIN SIMOS2.1B 3320 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "ENGINE": "1.6 AKL AEH",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP4456 03",
+      "NUMBER PARTS": "BENZIN SIMOS2.1B 3320",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION Plug & Play"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:42:57.576Z",
+    "model": "mistral:7b",
+    "durationMs": 13421,
+    "priceIncrement": 100
+  }
+}

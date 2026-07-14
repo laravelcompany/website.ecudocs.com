@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Opel Astra 1.6 5WK 6221, Warranty Included",
+  "slug": "plug-play-ecu-opel-astra-1-6-5wk-6221-oem-tested",
+  "metaDescription": "OEM Tested Plug & Play ECU Engine Controller for Opel Astra 1.6 5WK 6221, in good condition with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€109.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Opel Astra 1.6 5WK 6221",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "Siemens",
+    "5WK6221"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a direct replacement for Opel Astra 1.6 5WK 6221.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL VAUXHALL HOLDEN ASTRA</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>YEAR</th><td>1991-1993</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>5WK6221</td></tr>\n        <tr><th>NUMBER PARTS</th><td>WW</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 6-month warranty included.</section>\n<section class=\"compatibility\">Compatible with Opel Astra 1.6 5WK 6221. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA 1.6 5WK 6221, 5WK6221, 90 340 026 WW, 90340026",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-1.6-5WK-6221%2C-5WK6221%2C-90-340-026-WW%2C-90340026-/42903",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "56F6-68729",
+    "sku": "56F6-68729",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA 1.6 5WK 6221, 5WK6221, 90 340 026 WW, 90340026 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VAUXHALL HOLDEN ASTRA",
+      "ENGINE": "1.6",
+      "YEAR": "1991-1993",
+      "NUMBER MANUFACTURER": "5WK6221",
+      "NUMBER PARTS": "WW",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:59:57.236Z",
+    "model": "mistral:7b",
+    "durationMs": 9443,
+    "priceIncrement": 100
+  }
+}

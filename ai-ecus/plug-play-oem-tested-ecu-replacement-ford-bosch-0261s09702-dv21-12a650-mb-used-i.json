@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford - Bosch 0261S09702 DV21-12A650-MB Used in Good Condition",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-bosch-0261s09702-dv21-12a650-mb-used-i",
+  "metaDescription": "Buy the Plug & Play OEM Tested ECU Replacement for Ford by Bosch (0261S09702 DV21-12A650-MB). Used in good condition, backed by a 6-month warranty and fast dispatch. Order now!",
+  "price": "€480.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Ford",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford ECU",
+    "Bosch ECU",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Ford by Bosch (0261S09702 DV21-12A650-MB) is tested and covered by a 6-month warranty. Shipping within 24–48 hours.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>6-Month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>0261S09702 DV21-12A650-MB</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 0261S09702 DV21-12A650-MB DV2112A650MB",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-0261S09702-DV21-12A650-MB-DV2112A650MB/135754",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2D8D-51527_20230718161055",
+    "sku": "2D8D-51527_20230718161055",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 0261S09702 DV21-12A650-MB DV2112A650MB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_283764_0_0/FORD-0261S09702-DV21-12A650-MB-DV2112A650MB.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_283765_0_0/FORD-0261S09702-DV21-12A650-MB-DV2112A650MB.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "0261S09702 DV21-12A650-MB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:41:25.210Z",
+    "model": "mistral:7b",
+    "durationMs": 10708,
+    "priceIncrement": 100
+  }
+}

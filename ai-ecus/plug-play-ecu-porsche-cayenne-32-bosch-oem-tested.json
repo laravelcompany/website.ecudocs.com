@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - PORSCHE CAYENNE 3.2 BOSCH 0261207714, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-porsche-cayenne-32-bosch-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for PORSCHE CAYENNE 3.2, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for PORSCHE CAYENNE 3.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Porsche Cayenne",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for PORSCHE CAYENNE 3.2 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Reliable Performance</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PORSCHE CAYENNE</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>3.2</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2004</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 207 714</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1039S02329</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 12-month.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply, please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PORSCHE CAYENNE 3.2 022906032T, 022 906 032 T, BOSCH 0261207714, 0 261 207 714 CARTRONIC 1039S02329",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PORSCHE-CAYENNE-3.2-022906032T%2C-022-906-032-T%2C-BOSCH-0261207714%2C-0-261-207-714-CARTRONIC-1039S02329/25683",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "774A-8740D_20120608200735",
+    "sku": "774A-8740D_20120608200735",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PORSCHE CAYENNE 3.2 022906032T, 022 906 032 T, BOSCH 0261207714, 0 261 207 714 CARTRONIC 1039S02329</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PORSCHE CAYENNE",
+      "ENGINE": "3.2",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 714",
+      "NUMBER PARTS": "1039S02329",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:37:20.581Z",
+    "model": "mistral:7b",
+    "durationMs": 10979,
+    "priceIncrement": 100
+  }
+}

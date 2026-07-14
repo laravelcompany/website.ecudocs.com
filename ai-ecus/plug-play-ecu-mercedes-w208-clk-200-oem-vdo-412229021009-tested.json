@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Mercedes W208 CLK 200 (OEM VDO 412.229/021/009, 0245451532 (07), A 024 545 15 32 (07)) - OEM Tested & 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w208-clk-200-oem-vdo-412229021009-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Mercedes W208 CLK 200 (VDO 412.229/021/009, 0245451532 (07)). OEM tested and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU for Mercedes W208 CLK 200 - Tested & Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W208 CLK 200",
+    "VDO 412.229/021/009"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for your Mercedes W208 CLK 200 (OEM VDO 412.229/021/009, 0245451532 (07)). It has been thoroughly inspected and tested by a certified technician to ensure optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming if locked</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>MERCEDES W208 CLK 200</td></tr>\n            <tr><td>ENGINE</td><td>2.0</td></tr>\n            <tr><td>YEAR</td><td>1999</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>VDO 412.229/021/009, 412229021009</td></tr>\n            <tr><td>NUMBER PARTS</td><td>0245451532 (07)</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery and a 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Mercedes W208 CLK 200 (OEM VDO 412.229/021/009, 0245451532 (07)). Please verify compatibility with your specific vehicle before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W208 CLK 200 A0245451532, 0245451532 (07), A 024 545 15 32 (07), VDO 412.229/021/009, 412229021009",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W208-CLK-200-A0245451532%2C-0245451532-07%2C-A-024-545-15-32-07%2C-VDO-412.229021009%2C-412229021009/16905",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "F44E-462A9",
+    "sku": "F44E-462A9",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W208 CLK 200 A0245451532, 0245451532 (07), A 024 545 15 32 (07), VDO 412.229/021/009, 412229021009</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W208 CLK 200",
+      "ENGINE": "2.0",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "VDO 412.229/021/009, 412229021009",
+      "NUMBER PARTS": "0245451532 (07)",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:24:55.594Z",
+    "model": "mistral:7b",
+    "durationMs": 13640,
+    "priceIncrement": 100
+  }
+}

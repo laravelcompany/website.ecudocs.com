@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Audi - Bosch 0 281 015 580, EDC17CP14 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-bosch-0-281-015-580-edc17cp14-oem-tested",
+  "metaDescription": "Expertly tested ECU Engine Controller for Audi, featuring Plug & Play compatibility and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi - Bosch 0 281 015 580, EDC17CP14",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi ECU",
+    "Bosch ECU",
+    "EDC17CP14"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Audi is OEM tested and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Used, original in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 015 580</td></tr>\n        <tr><th>NUMBER PARTS</th><td>EDC17CP14</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI BOSCH 0 281 015 580, 0281015580, 03L 906 022 MR, 03L906022MR, EDC17CP14",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-BOSCH-0-281-015-580%2C-0281015580%2C-03L-906-022-MR%2C-03L906022MR%2C-EDC17CP14/120287",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0797-72383_20200825134120",
+    "sku": "0797-72383_20200825134120",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI BOSCH 0 281 015 580, 0281015580, 03L 906 022 MR, 03L906022MR, EDC17CP14</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_245770_0_0/AUDI-BOSCH-0-281-015-580%2C-0281015580%2C-03L-906-022-MR%2C-03L906022MR%2C-EDC17CP14.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_245771_0_0/AUDI-BOSCH-0-281-015-580%2C-0281015580%2C-03L-906-022-MR%2C-03L906022MR%2C-EDC17CP14.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 580",
+      "NUMBER PARTS": "EDC17CP14",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:45:33.587Z",
+    "model": "mistral:7b",
+    "durationMs": 10340,
+    "priceIncrement": 100
+  }
+}

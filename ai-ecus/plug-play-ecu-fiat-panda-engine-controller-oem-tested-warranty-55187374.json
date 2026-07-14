@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Panda Engine Controller (OEM Tested, Warranty) - 55187374",
+  "slug": "plug-play-ecu-fiat-panda-engine-controller-oem-tested-warranty-55187374",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Fiat Panda. This used original part in good condition comes with a 6-month warranty and fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Panda",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Panda",
+    "Magneti Marelli",
+    "55187374"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Fiat Panda is expertly tested and covered by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Used Original Part in Good Condition</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FIAT PANDA</td><td>55187374</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment may vary. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PANDA, IAW 4AF.PP, IAW4AFPP, 61600.625.03, 6160062503, 55187374",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PANDA%2C-IAW-4AF.PP%2C-IAW4AFPP%2C-61600.625.03%2C-6160062503%2C-55187374/54913",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "82B7-705EB_20140430112652",
+    "sku": "82B7-705EB_20140430112652",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PANDA, IAW 4AF.PP, IAW4AFPP, 61600.625.03, 6160062503, 55187374</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_5707c7a1d7513b287e2ca59cc5901765_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3fb6f01e7dd4c9c5e4022569d443fc14_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PANDA",
+      "NUMBER PARTS": "55187374",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:16:34.829Z",
+    "model": "mistral:7b",
+    "durationMs": 8269,
+    "priceIncrement": 100
+  }
+}

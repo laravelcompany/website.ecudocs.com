@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen C5 2.0 HDI Siemens 5WS40022F-T, Warranty Included",
+  "slug": "plug-play-ecu-citroen-c5-2-0-hdi-siemens-5ws40022ft-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Citroen C5 2.0 HDI Siemens 5WS40022F-T, backed by a 6-month warranty and fast shipping.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen C5 2.0 HDI Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WS40022F-T",
+    "Citroen C5",
+    "2.0 HDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Citroen C5 2.0 HDI Siemens is a reliable replacement, ensuring optimal performance and longevity.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Shipping</li>\n<li>Reliable Performance</li>\n<li>Optimal Longevity</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>CITROEN C5</td></tr>\n<tr><th>ENGINE</th><td>2.0 HDI</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WS40022F-T</td></tr>\n<tr><th>NUMBER PARTS</th><td>HW9644302380</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen C5 2.0 HDI Siemens ECU. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C5 2.0 HDI SIEMENS 5WS40022F-T, 5WS40022FT, SW9646529680, HW9644302380, SID801",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C5-2.0-HDI-SIEMENS-5WS40022F-T%2C-5WS40022FT%2C-SW9646529680%2C-HW9644302380%2C-SID801-/81637",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "97EA-821A6_20151112102548",
+    "sku": "97EA-821A6_20151112102548",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C5 2.0 HDI SIEMENS 5WS40022F-T, 5WS40022FT, SW9646529680, HW9644302380, SID801 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_3992e8cbf78b4f10c4f918d9787cf220_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_2468bc507620d990577e149198903c04_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C5",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40022F-T",
+      "NUMBER PARTS": "HW9644302380",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:41:56.705Z",
+    "model": "mistral:7b",
+    "durationMs": 11030,
+    "priceIncrement": 100
+  }
+}

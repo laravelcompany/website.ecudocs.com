@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Fiat Panda 0.9 IAW 16F.EE/6A37-38, 46746380, 61602.121.00 - 6-month Warranty",
+  "slug": "plug-play-ecu-fiat-panda-09-iaw-16fee-6a37-38-46746380-6160212100-warranty",
+  "metaDescription": "OEM tested Plug & Play ECU Engine Controller for Fiat Panda 0.9 IAW 16F.EE/6A37-38, 46746380, 61602.121.00. Shipping within 24–48 hours with a 6-month warranty.",
+  "price": "€100.00",
+  "excerpt": "OEM tested Plug & Play ECU for Fiat Panda 0.9 IAW 16F.EE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Panda",
+    "IAW 16F.EE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a reliable replacement for your Fiat Panda 0.9 IAW 16F.EE.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FIAT PANDA</td></tr>\n        <tr><th>ENGINE:</th><td>0.9</td></tr>\n        <tr><th>YEAR:</th><td>1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>IAW 16F.EE</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>61602.121.00</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours with a 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Panda 0.9 IAW 16F.EE, but always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PANDA 900 IAW 16F.EE, IAW16FEE, IAW 16F.EE/6A37-38, 46746380, 61602.121.00",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PANDA-900-IAW-16F.EE%2C-IAW16FEE%2C-IAW-16F.EE6A37-38%2C-46746380%2C-61602.121.00/36223",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "474A-51369_20130612111046",
+    "sku": "474A-51369_20130612111046",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PANDA 900 IAW 16F.EE, IAW16FEE, IAW 16F.EE/6A37-38, 46746380, 61602.121.00</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PANDA",
+      "ENGINE": "0.9",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "IAW 16F.EE",
+      "NUMBER PARTS": "61602.121.00",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:14:50.438Z",
+    "model": "mistral:7b",
+    "durationMs": 11613,
+    "priceIncrement": 100
+  }
+}

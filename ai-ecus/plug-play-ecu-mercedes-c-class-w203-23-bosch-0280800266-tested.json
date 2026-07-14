@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes C-Class W203 2.3 Engine Bosch 0 280 800 266, 0280800266, 006 545 79 32, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-c-class-w203-23-bosch-0280800266-tested",
+  "metaDescription": "OEM tested ECU Replacement for Mercedes C-Class W203 2.3 Engine with Bosch 0 280 800 266, Plug & Play, and 6-month warranty. Fast dispatch in EU.",
+  "price": "€109.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes C-Class W203 2.3 Engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes C-Class W203",
+    "Bosch 0 280 800 266"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Mercedes C-Class W203 2.3 Engine with Bosch 0 280 800 266 is a reliable solution, providing Plug & Play functionality and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Oryginal in Good Condition</li>\n        <li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.3</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 280 800 266</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>006 545 79 32</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on the specific vehicle model and year. Please ensure proper fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES BOSCH 0 280 800 266, 0280800266, 006 545 79 32, 0065457932",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-BOSCH-0-280-800-266%2C-0280800266%2C-006-545-79-32%2C-0065457932-/67565",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E59E-8075F_20141008112928",
+    "sku": "E59E-8075F_20141008112928",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES BOSCH 0 280 800 266, 0280800266, 006 545 79 32, 0065457932 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "ENGINE": "2.3",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 800 266",
+      "NUMBER PARTS": "006 545 79 32",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:34:52.150Z",
+    "model": "mistral:7b",
+    "durationMs": 11960,
+    "priceIncrement": 100
+  }
+}

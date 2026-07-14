@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W210 2.2 CDI Bosch 0 281 010 848, OEM Tested",
+  "slug": "plug-play-ecu-mercedes-w210-22-cdi-bosch-0281010848-tested",
+  "metaDescription": "OEM tested Plug & Play ECU Replacement for Mercedes W210 2.2 CDI Bosch 0 281 010 848, backed by a 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W210 2.2 CDI Bosch 0 281 010 848",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W210",
+    "Bosch 0 281 010 848"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Mercedes W210 2.2 CDI Bosch 0 281 010 848 offers a seamless solution to your engine control unit issues, backed by our expertise and a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed performance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Mercedes W210 2.2 CDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES W210</td></tr>\n        <tr><th>ENGINE:</th><td>2.2 CDI</td></tr>\n        <tr><th>YEAR:</th><td>2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 848</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>A 000 153 49 79</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W210 2.2 CDI only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W210 2.2 CDI BOSCH 0 281 010 848, 0281010848, A 000 153 49 79, A0001534979",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W210-2.2-CDI-BOSCH-0-281-010-848%2C-0281010848%2C-A-000-153-49-79%2C-A0001534979-/44819",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5A67-146C7",
+    "sku": "5A67-146C7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W210 2.2 CDI BOSCH 0 281 010 848, 0281010848, A 000 153 49 79, A0001534979 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W210",
+      "ENGINE": "2.2 CDI",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 848",
+      "NUMBER PARTS": "A 000 153 49 79",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:27:12.708Z",
+    "model": "mistral:7b",
+    "durationMs": 10660,
+    "priceIncrement": 100
+  }
+}

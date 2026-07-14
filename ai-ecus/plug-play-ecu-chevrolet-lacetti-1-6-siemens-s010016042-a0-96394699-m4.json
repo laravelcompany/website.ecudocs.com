@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Chevrolet Lacetti 1.6 Siemens S010016042 A0 96394699 M4 (OEM Tested, Warranty)",
+  "slug": "plug-play-ecu-chevrolet-lacetti-1-6-siemens-s010016042-a0-96394699-m4",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Chevrolet Lacetti 1.6 Siemens (S010016042 A0 96394699 M4), OEM tested, warranty included.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Chevrolet Lacetti 1.6 Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet Lacetti",
+    "Siemens",
+    "1.6"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Chevrolet Lacetti 1.6 Siemens (S010016042 A0 96394699 M4) offers a reliable solution to your vehicle's engine control system issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed performance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Locked / Unlocked option available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CHEVROLET LACETTI</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2004</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>S010016042 A0</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>96394699 M4</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and usage history. Always confirm fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET LACETTI 1.6 S010016042 A0 96394699 M4",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-LACETTI-1.6-S010016042-A0-96394699-M4/12923",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "B125-145BF",
+    "sku": "B125-145BF",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET LACETTI 1.6 S010016042 A0 96394699 M4</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET LACETTI",
+      "ENGINE": "1.6",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "S010016042 A0",
+      "NUMBER PARTS": "96394699 M4",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:00:25.193Z",
+    "model": "mistral:7b",
+    "durationMs": 12063,
+    "priceIncrement": 100
+  }
+}

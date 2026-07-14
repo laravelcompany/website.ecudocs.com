@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested ECU Replacement AUDI TT 1.8T BOSCH 0261206797 - Plug & Play, Warranty",
+  "slug": "plug-play-ecu-audi-tt-1-8t-bosch-0261206797-oem-tested",
+  "metaDescription": "Buy OEM Tested ECU Engine Controller for AUDI TT 1.8T BOSCH 0261206797 - Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€435.00",
+  "excerpt": "OEM Tested ECU Replacement for AUDI TT 1.8T BOSCH 0261206797 - Plug & Play",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0261206797",
+    "Audi TT",
+    "1.8T"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested ECU Engine Controller for AUDI TT 1.8T BOSCH 0261206797 is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month warranty</li><li>Locked / Ready for programming</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table>\n  <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n  <tr><th>BRAND AND MODEL</th><td>AUDI TT</td></tr>\n  <tr><th>ENGINE</th><td>1.8T 1.8 TURBO BAM</td></tr>\n  <tr><th>YEAR</th><td>2000</td></tr>\n  <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 206 797</td></tr>\n  <tr><th>NUMBER PARTS</th><td>8L0 906 018 M</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI TT 1.8T 1.8 TURBO BAM 8L0906018M, 8L0 906 018 M, BOSCH 0261206797, 0 261 206 797",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-TT-1.8T-1.8-TURBO-BAM-8L0906018M%2C-8L0-906-018-M%2C-BOSCH-0261206797%2C-0-261-206-797/14398",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A36B-563EC",
+    "sku": "A36B-563EC",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI TT 1.8T 1.8 TURBO BAM 8L0906018M, 8L0 906 018 M, BOSCH 0261206797, 0 261 206 797</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI TT",
+      "ENGINE": "1.8T 1.8 TURBO BAM",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 797",
+      "NUMBER PARTS": "8L0 906 018 M",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:55:27.842Z",
+    "model": "mistral:7b",
+    "durationMs": 9454,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Koleos 2.0 DCI Bosch 0 281 014 350, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-renault-koleos-2-0-dci-bosch-0-281-014-350",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Renault Koleos 2.0 DCI, OEM tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Upgrade your Renault Koleos with a Plug & Play ECU Replacement",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Koleos",
+    "2.0 DCI",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Renault Koleos 2.0 DCI is thoroughly inspected, tested by a certified technician and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT KOLEOS</td></tr>\n        <tr><th>ENGINE</th><td>2.0 DCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 014 350</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S14472</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Koleos 2.0 DCI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT KOLEOS 2.0 DCI BOSCH 0 281 014 350, 0281014350, 8200560320, 8200773853, 1039S14472",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-KOLEOS-2.0-DCI-BOSCH-0-281-014-350%2C-0281014350%2C-8200560320%2C-8200773853%2C-1039S14472/73726",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "BDDB-1924F_20150319121324",
+    "sku": "BDDB-1924F_20150319121324",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT KOLEOS 2.0 DCI BOSCH 0 281 014 350, 0281014350, 8200560320, 8200773853, 1039S14472</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT KOLEOS",
+      "ENGINE": "2.0 DCI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 350",
+      "NUMBER PARTS": "1039S14472",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:26:19.364Z",
+    "model": "mistral:7b",
+    "durationMs": 9666,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford KA 1.3 - Visteon 97KB-12A650-DB, GAIN - Warranty Included",
+  "slug": "plug-play-ecu-ford-ka-1-3-visteon-97kb12a650db-gain-warranty",
+  "metaDescription": "Get the OEM tested Plug & Play ECU Engine Controller for your Ford KA 1.3 with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€87.00",
+  "excerpt": "OEM Tested, Plug & Play ECU for Ford KA 1.3",
+  "tags": [
+    "ECU Replacement",
+    "Ford KA",
+    "1.3 Engine",
+    "Visteon",
+    "97KB-12A650-DB",
+    "GAIN"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Ford KA 1.3 is tested and certified by OEM manufacturers, ensuring a seamless fit and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Locked / Complet</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD KA</td></tr>\n        <tr><th>ENGINE</th><td>1.3</td></tr>\n        <tr><th>YEAR</th><td>1997-2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>97KB-12A650-DB</td></tr>\n        <tr><th>NUMBER PARTS</th><td>GAIN</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This product is compatible with Ford KA models equipped with the specified ECU. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD KA 1.3 97KB-12A650-DB, 97KB12A650DB, GAIN",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-KA-1.3-97KB-12A650-DB%2C-97KB12A650DB%2C-GAIN/58166",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "DA97-6143D_20140609183210",
+    "sku": "DA97-6143D_20140609183210",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD KA 1.3 97KB-12A650-DB, 97KB12A650DB, GAIN</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_55d9f5864b7b37e271b0495b154f37a1_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d743535ce1edc55f5f3733b3d391b2ec_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_fc48909eb38d616472cc13c4ff214921_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_84213f41646f63f160cba4bbcecdc9f9_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d3be99bad0c393e34665077b794f88fa_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD KA",
+      "ENGINE": "1.3",
+      "YEAR": "1997-2004",
+      "NUMBER MANUFACTURER": "97KB-12A650-DB",
+      "NUMBER PARTS": "GAIN",
+      "OPTION AVAILABLE": "Locked / complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:25:18.406Z",
+    "model": "mistral:7b",
+    "durationMs": 9381,
+    "priceIncrement": 100
+  }
+}

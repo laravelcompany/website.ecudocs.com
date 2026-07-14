@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Opel Corsa Combo 1.7 CDTI Z17DTH ISUZU 897300 0979, DENSO 112500 0157 - Warranty Included",
+  "slug": "plug-play-ecu-opel-corsa-combo-1-7-cdti-z17dth-isuzu-897300-0979-denso-112500-01",
+  "metaDescription": "Buy this OEM tested Plug & Play ECU Replacement for Opel Corsa Combo 1.7 CDTI Z17DTH ISUZU 897300 0979, DENSO 112500 0157. Covered by a 6-month warranty and fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Opel Corsa Combo 1.7 CDTI Z17DTH ISUZU 897300 0979, DENSO 112500 0157",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Corsa Combo",
+    "1.7 CDTI Z17DTH",
+    "ISUZU 897300 0979",
+    "DENSO 112500 0157"
+  ],
+  "description": "<section class=\"overview\">This ECU Engine Controller is a tested and certified replacement part for Opel Corsa Combo 1.7 CDTI Z17DTH ISUZU 897300 0979, DENSO 112500 0157. It comes with a 6-month warranty and is thoroughly inspected and tested by our certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Complete ECU Replacement</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CORSA COMBO</td></tr>\n        <tr><th>ENGINE</th><td>1.7 CDTI Z17DTH</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>ISUZU 897300 0979</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DENSO 112500 0157</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with Opel Corsa Combo 1.7 CDTI Z17DTH ISUZU 897300 0979 and DENSO 112500 0157.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA COMBO 1.7 CDTI Z17DTH ISUZU 897300 0979, 8973000979, GM 97300 097, 97300097, DENSO 112500 0157, 1125000157",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-COMBO-1.7-CDTI-Z17DTH-ISUZU-897300-0979%2C-8973000979%2C-GM-97300-097%2C-97300097%2C-DENSO-112500-0157%2C-1125000157-/94677",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "BCD5-158DC_20160818162523",
+    "sku": "BCD5-158DC_20160818162523",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA COMBO 1.7 CDTI Z17DTH ISUZU 897300 0979, 8973000979, GM 97300 097, 97300097, DENSO 112500 0157, 1125000157 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_41a9df03487fc1db7e52ca977a6733bb_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e6c22f5c52d9da2528ddcb6edbddf39b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA COMBO",
+      "ENGINE": "1.7 CDTI Z17DTH",
+      "NUMBER MANUFACTURER": "ISUZU 897300 0979",
+      "NUMBER PARTS": "DENSO 112500 0157",
+      "OPTION AVAILABLE": "COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:56:39.892Z",
+    "model": "mistral:7b",
+    "durationMs": 13119,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Denso MAZDA 6 2.0 CITD RF7J 18 881M, Warranty Included",
+  "slug": "plug-play-ecu-mazda-6-2-0-citd-rf7j-18-881m",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Mazda 6 (2.0 CITD RF7J 18 881M) by Denso, OEM tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Mazda 6 (2.0 CITD RF7J 18 881M)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso 275800-6581",
+    "Mazda 6"
+  ],
+  "description": "<section class=\"overview\">This OEM Denso ECU Engine Controller for Mazda 6 (2.0 CITD RF7J 18 881M) is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM part for guaranteed fitment</li><li>6-month warranty</li><li>Fast dispatch within 24–48 hours</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>MAZDA 6</td><td>2.0 CITD</td><td>2005-2007</td><td>DENSO 275800-6581</td><td>RF7J 18 881M</td><td>LOCKED / UNLOCKED</td></tr></table></section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mazda 6 (2.0 CITD RF7J 18 881M). Fitment caution: Ensure proper installation by a certified technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA 6 2.0 CITD RF7J 18 881M, RF7J18881M, DENSO 275800-6581, 2758006581",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-6-2.0-CITD-RF7J-18-881M%2C-RF7J18881M%2C-DENSO-275800-6581%2C-2758006581/70888",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "3187-1434E_20141227150056",
+    "sku": "3187-1434E_20141227150056",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA 6 2.0 CITD RF7J 18 881M, RF7J18881M, DENSO 275800-6581, 2758006581</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA 6",
+      "ENGINE": "2.0 CITD",
+      "YEAR": "2005-2007",
+      "NUMBER MANUFACTURER": "DENSO 275800-6581",
+      "NUMBER PARTS": "RF7J 18 881M",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:56:01.660Z",
+    "model": "mistral:7b",
+    "durationMs": 9327,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E46 2.5 SIEMENS 5WK90015, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-e46-25-siemens-5wk90015-oem-tested-warranty-included",
+  "metaDescription": "OEM tested and Plug & Play ECU replacement for BMW E46 2.5 SIEMENS 5WK90015, backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM tested and Plug & Play ECU replacement for BMW E46 2.5 SIEMENS 5WK90015",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E46",
+    "SIEMENS 5WK90015",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for BMW E46 2.5 SIEMENS 5WK90015 is a reliable solution, ensuring smooth engine operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Reliable Performance</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>BMW E46</td></tr>\n        <tr><th>ENGINE:</th><td>2.5</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SIEMENS 5WK90015</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>7 519 308</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch (EU). 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E46 2.5 SIEMENS 5WK90015, 7 519 308, 7519308",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E46-2.5-SIEMENS-5WK90015%2C-7-519-308%2C-7519308-/98202",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "C591-398A0_20161011121834",
+    "sku": "C591-398A0_20161011121834",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E46 2.5 SIEMENS 5WK90015, 7 519 308, 7519308 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E46",
+      "ENGINE": "2.5",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK90015",
+      "NUMBER PARTS": "7 519 308",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:30:20.713Z",
+    "model": "mistral:7b",
+    "durationMs": 10917,
+    "priceIncrement": 100
+  }
+}

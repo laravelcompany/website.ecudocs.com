@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested NISSAN PRIMERA 1.8 Engine Controller (MEC20-505, MEC20505, B1, 1Y12, XU) - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-prima-18-mec20505-b1-1y12-xu-warranty",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for NISSAN PRIMERA 1.8 (MEC20-505, MEC20505, B1, 1Y12, XU). Covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU for NISSAN PRIMERA 1.8 - Tested & Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Prima",
+    "MEC20-505",
+    "MEC20505",
+    "B1",
+    "1Y12",
+    "XU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for NISSAN PRIMERA 1.8 (MEC20-505, MEC20505, B1, 1Y12, XU) is a reliable replacement solution backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified</li>\n        <li>Compatible with your vehicle's systems</li>\n        <li>6-month warranty included</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN PRIMERA</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MEC20-505</td></tr>\n        <tr><th>CODE</th><td>B1</td></tr>\n        <tr><th>NUMBER PARTS</th><td>XU</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with NISSAN PRIMERA models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 1.8, MEC20-505, MEC20505, B1, 1Y12, XU",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-1.8%2C-MEC20-505%2C-MEC20505%2C-B1%2C-1Y12%2C-XU/39097",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "0AFE-913CF_20130807105742",
+    "sku": "0AFE-913CF_20130807105742",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 1.8, MEC20-505, MEC20505, B1, 1Y12, XU</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "1.8",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "MEC20-505",
+      "CODE": "B1",
+      "NUMBER PARTS": "XU",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:32:12.005Z",
+    "model": "mistral:7b",
+    "durationMs": 11150,
+    "priceIncrement": 100
+  }
+}

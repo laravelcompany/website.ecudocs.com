@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Engine Controller 96BP12A650EA, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-ford-engine-controller-96bp12a650ea-oem-tested-warrant",
+  "metaDescription": "Buy the Plug & Play ECU Replacement - Ford Engine Controller 96BP12A650EA, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Engine Controller",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Ford is tested and guaranteed to deliver optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for reliability</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Ford vehicles</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>96BP-12A650-EA</td></tr>\n        <tr><th>CODE</th><td>POO5</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MLE-230</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford vehicles. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 96BP12A650EA, 96BP-12A650-EA POO5 MLE-230",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-96BP12A650EA%2C-96BP-12A650-EA-POO5-MLE-230/31682",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "23BB-7660A_20121017221607",
+    "sku": "23BB-7660A_20121017221607",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 96BP12A650EA, 96BP-12A650-EA POO5 MLE-230</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "96BP-12A650-EA",
+      "CODE": "POO5",
+      "NUMBER PARTS": "MLE-230",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:55:31.538Z",
+    "model": "mistral:7b",
+    "durationMs": 9837,
+    "priceIncrement": 100
+  }
+}

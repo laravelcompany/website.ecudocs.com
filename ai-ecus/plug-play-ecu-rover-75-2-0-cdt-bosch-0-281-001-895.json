@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Rover 75 2.0 CDT Bosch 0 281 001 895, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-rover-75-2-0-cdt-bosch-0-281-001-895",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Rover 75 2.0 CDT, OEM tested and covered by a 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Rover 75 2.0 CDT",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 75",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a tested and reliable replacement for your Rover 75 2.0 CDT.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Plug & Play</li>\n<li>Easy Installation</li>\n<li>Fast Dispatch</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>ROVER 75</td></tr>\n<tr><td>ENGINE</td><td>2.0 CDT</td></tr>\n<tr><td>YEAR</td><td>2001</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0281001895</td></tr>\n<tr><td>NUMBER PARTS</td><td>NNN100692</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Rover 75 2.0 CDT. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 75 2.0 CDT BOSCH 0 281 001 895, 0281001895, DDE 7785541, 28RTE522, NNN100692",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-75-2.0-CDT-BOSCH-0-281-001-895%2C-0281001895%2C-DDE-7785541%2C-28RTE522%2C-NNN100692-/16302",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7EA5-129A7",
+    "sku": "7EA5-129A7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 75 2.0 CDT BOSCH 0 281 001 895, 0281001895, DDE 7785541, 28RTE522, NNN100692 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_675cc90dc56ed1a1208caa62b5353c0d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_5702d808ad3427328e53586ae8c671ce_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 75",
+      "ENGINE": "2.0 CDT",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0281001895",
+      "NUMBER PARTS": "NNN100692",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:33:35.682Z",
+    "model": "mistral:7b",
+    "durationMs": 10785,
+    "priceIncrement": 100
+  }
+}

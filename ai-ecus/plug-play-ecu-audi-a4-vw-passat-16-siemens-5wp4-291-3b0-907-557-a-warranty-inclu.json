@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi A4, VW Passat 1.6 - OEM Tested Siemens 5WP4 291, 3B0 907 557 A - Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-vw-passat-16-siemens-5wp4-291-3b0-907-557-a-warranty-inclu",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Audi A4, VW Passat 1.6 with Plug & Play feature and 6-month warranty. Fast dispatch within EU.",
+  "price": "€135.00",
+  "excerpt": "OEM Tested ECU Replacement for Audi A4, VW Passat 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WP4 291",
+    "Audi A4",
+    "VW Passat"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Audi A4, VW Passat 1.6 is a reliable replacement solution.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play feature</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI A4, VW PASSAT</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1998-2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WP4 291</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>3B0 907 557 A</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Audi A4 and VW Passat 1.6 models only. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4, VW PASSAT 1.6, SIEMENS 5WP4 291, 5WP4291, 3B0 907 557 A, 3B0907557A",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4%2C-VW-PASSAT-1.6%2C-SIEMENS-5WP4-291%2C-5WP4291%2C-3B0-907-557-A%2C-3B0907557A-/47013",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "0C34-6569D",
+    "sku": "0C34-6569D",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4, VW PASSAT 1.6, SIEMENS 5WP4 291, 5WP4291, 3B0 907 557 A, 3B0907557A </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4, VW PASSAT",
+      "ENGINE": "1.6",
+      "YEAR": "1998-2003",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP4 291",
+      "NUMBER PARTS": "3B0 907 557 A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:25:23.281Z",
+    "model": "mistral:7b",
+    "durationMs": 11424,
+    "priceIncrement": 100
+  }
+}

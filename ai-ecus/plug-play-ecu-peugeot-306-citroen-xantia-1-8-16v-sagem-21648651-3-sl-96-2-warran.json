@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot 306, Citroen Xantia 1.8 16V - Sagem 21648651-3, SL 96-2 - Warranty Included",
+  "slug": "plug-play-ecu-peugeot-306-citroen-xantia-1-8-16v-sagem-21648651-3-sl-96-2-warran",
+  "metaDescription": "OEM tested Plug & Play ECU Engine Controller for Peugeot 306 and Citroen Xantia 1.8 16V by Sagem. Used, original in good condition, with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Peugeot 306 and Citroen Xantia 1.8 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 306",
+    "Citroen Xantia",
+    "Sagem",
+    "21648651-3"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is suitable for Peugeot 306 and Citroen Xantia 1.8 16V models. The device has been thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PEUGEOT 306, CITROEN XANTIA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8 16V</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1997-2000</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>21648651-3</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>SL 96-2</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 12-month.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 306, CITROEN XANTIA 1.8 16V, 21648651-3, 216486513, PSA 9631774280, SL 96-2",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-306%2C-CITROEN-XANTIA-1.8-16V%2C-21648651-3%2C-216486513%2C-PSA-9631774280%2C-SL-96-2/56469",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Sagem",
+    "productCode": "FD22-641A6_20140519105242",
+    "sku": "FD22-641A6_20140519105242",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 306, CITROEN XANTIA 1.8 16V, 21648651-3, 216486513, PSA 9631774280, SL 96-2</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 306, CITROEN XANTIA",
+      "ENGINE": "1.8 16V",
+      "YEAR": "1997-2000",
+      "NUMBER MANUFACTURER": "21648651-3",
+      "NUMBER PARTS": "SL 96-2",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:00:38.430Z",
+    "model": "mistral:7b",
+    "durationMs": 13606,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Engine Controller Ford Fiesta OEM Siemens S110678003D, 1S6A-12A650-AD - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-fiesta-siemens-s110678003d-1s6a-12a650-ad",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Ford Fiesta by Siemens. OEM tested, warranty included and fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Ford Fiesta by Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens S110678003D",
+    "Ford Fiesta",
+    "1S6A-12A650-AD"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Ford Fiesta by Siemens is a reliable replacement part, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used Original in Good Condition</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FORD FIESTA</td><td>2000</td><td>SIEMENS S110678003 D</td><td>1S6A-12A650-AD</td><td>LOCKED / UNLOCKED / COMPLETE</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA, SIEMENS S110678003 D, S110678003D, 1S6A-12A650-AD, 1S6A12A650AD",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA%2C-SIEMENS-S110678003-D%2C-S110678003D%2C-1S6A-12A650-AD%2C-1S6A12A650AD/49080",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "6F27-465DD",
+    "sku": "6F27-465DD",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA, SIEMENS S110678003 D, S110678003D, 1S6A-12A650-AD, 1S6A12A650AD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "SIEMENS S110678003 D",
+      "NUMBER PARTS": "1S6A-12A650-AD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:42:49.355Z",
+    "model": "mistral:7b",
+    "durationMs": 9648,
+    "priceIncrement": 100
+  }
+}

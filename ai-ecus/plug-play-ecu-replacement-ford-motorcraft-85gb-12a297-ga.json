@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Motorcraft 85GB-12A297-GA, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-motorcraft-85gb-12a297-ga",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Ford. OEM tested, warranty included, and fast shipping. Replace your faulty ECU today!",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Motorcraft",
+    "85GB-12A297-GA"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a tested and reliable replacement for your Ford vehicle. It's thoroughly inspected, OEM tested, and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast shipping within 24–48 hours</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>Motorcraft</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>85GB-12A297-GA</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford vehicles. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD Motorcraft 85GB-12A297-GA, 85GB12A297GA",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-Motorcraft-85GB-12A297-GA%2C-85GB12A297GA/72619",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "F516-1599C_20150211172839",
+    "sku": "F516-1599C_20150211172839",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD Motorcraft 85GB-12A297-GA, 85GB12A297GA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_56d4ea1013cf25f96e7834708ae6e79a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c27988aa218b6c12b3e6d6804ea6876e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "Motorcraft",
+      "NUMBER PARTS": "85GB-12A297-GA",
+      "OPTION AVAILABLE": "LOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:52:25.651Z",
+    "model": "mistral:7b",
+    "durationMs": 9524,
+    "priceIncrement": 100
+  }
+}

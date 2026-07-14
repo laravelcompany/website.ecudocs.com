@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes C Class W202 1.8, OEM Bosch 0 261 206 455, A 028 545 42 32, Tested & Warranty Included",
+  "slug": "plug-play-ecu-mercedes-c-class-w202-1-8-oem-bosch-0-261-206-455-a-028-545-42-32",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Mercedes C Class W202 1.8 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes C Class W202 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes C Class W202",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested, Plug & Play ECU replacement is specifically designed for Mercedes C Class W202 1.8 engines.</section>\n<section class=\"features\"><ul><li>Original Bosch Part Number: A0285454232</li><li>6-month warranty</li><li>Thoroughly inspected and tested by a certified technician</li><li>Compatible with Mercedes C Class W202 1.8 engines</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER PARTS</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>MERCEDES C CLASS W202</td><td>1.8</td><td>A0285454232</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES C CLASS W202 1.8, BOSCH 0 261 206 455, 0261206455, A 028 545 42 32, A0285454232",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-C-CLASS-W202-1.8%2C-BOSCH-0-261-206-455%2C-0261206455%2C-A-028-545-42-32%2C-A0285454232-/56416",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "BB3A-767FB_20140516163130",
+    "sku": "BB3A-767FB_20140516163130",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  MERCEDES C CLASS W202 1.8, BOSCH 0 261 206 455, 0261206455, A 028 545 42 32, A0285454232 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES C CLASS W202",
+      "ENGINE": "1.8",
+      "NUMBER PARTS": "A0285454232",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:06:05.832Z",
+    "model": "mistral:7b",
+    "durationMs": 8920,
+    "priceIncrement": 100
+  }
+}

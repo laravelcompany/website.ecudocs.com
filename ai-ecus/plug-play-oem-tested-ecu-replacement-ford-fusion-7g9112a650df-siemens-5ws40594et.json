@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Ford Fusion 7G91-12A650-DF Siemens 5WS40594E-T",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-fusion-7g9112a650df-siemens-5ws40594et",
+  "metaDescription": "Buy a Plug & Play OEM tested ECU Engine Controller for Ford Fusion 7G91-12A650-DF from Siemens. This used original part is in good condition and comes with a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Fusion",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fusion",
+    "Siemens",
+    "7G91-12A650-DF"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Ford Fusion is a reliable solution, thoroughly inspected and tested by our certified technicians. It comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>Used original in good condition</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by certified technicians</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>5WS40594E-T</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>7G91-12A650-DF</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Fusion models equipped with the specified part number. Please ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 5WS40594E-T 5WS40594ET 7G91-12A650-DF 7G9112A650DF",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-5WS40594E-T-5WS40594ET-7G91-12A650-DF-7G9112A650DF/132163",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "B4EB-45753_20220913172829",
+    "sku": "B4EB-45753_20220913172829",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 5WS40594E-T 5WS40594ET  7G91-12A650-DF 7G9112A650DF</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_274167_0_0/FORD-5WS40594E-T-5WS40594ET-7G91-12A650-DF-7G9112A650DF.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_274168_0_0/FORD-5WS40594E-T-5WS40594ET-7G91-12A650-DF-7G9112A650DF.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "5WS40594E-T",
+      "NUMBER PARTS": "7G91-12A650-DF",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:52:15.546Z",
+    "model": "mistral:7b",
+    "durationMs": 13130,
+    "priceIncrement": 100
+  }
+}

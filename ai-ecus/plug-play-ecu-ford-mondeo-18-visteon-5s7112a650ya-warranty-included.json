@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford Mondeo 1.8 - Visteon 5S71-12A650-YA, 5S7112A650YA, 6EBA - Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-18-visteon-5s7112a650ya-warranty-included",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Ford Mondeo 1.8 by Visteon (5S71-12A650-YA, 5S7112A650YA, 6EBA). Includes 6-month warranty and fast shipping.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo 1.8 by Visteon",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "5S71-12A650-YA",
+    "5S7112A650YA",
+    "6EBA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Ford Mondeo 1.8 by Visteon (5S71-12A650-YA, 5S7112A650YA, 6EBA) is a reliable replacement that ensures optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM tested and certified</li>\n<li>6-month warranty included</li>\n<li>Compatible with Ford Mondeo 1.8</li>\n<li>Used in good condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th></th>\n<th>PARTS</th>\n<th>BRAND AND MODEL</th>\n<th>ENGINE</th>\n<th>YEAR</th>\n<th>NUMBER PARTS</th>\n<th>WARRANTY :</th>\n<th>INSPECTION:</th>\n<th>CONDITION</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>ECU ENGINE CONTROLLER</td>\n<td>FORD MONDEO</td>\n<td>1.8</td>\n<td>2004-2007</td>\n<td>6EBA</td>\n<td>6-month warranty</td>\n<td>Device thoroughly inspected and tested by a certified technician</td>\n<td>USED ORYGINAL IN GOOD CONDITION</td>\n</tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo 1.8 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 1.8 5S71-12A650-YA, 5S7112A650YA, 6EBA",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-1.8-5S71-12A650-YA%2C-5S7112A650YA%2C-6EBA/53380",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "ADFE-2500F_20140402152324",
+    "sku": "ADFE-2500F_20140402152324",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 1.8 5S71-12A650-YA, 5S7112A650YA, 6EBA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_dd29585ff9e272f3d6b85d25eff5cb21_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_273592_0_0/FORD-MONDEO-1.8-5S71-12A650-YA%2C-5S7112A650YA%2C-6EBA.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "1.8",
+      "YEAR": "2004-2007",
+      "NUMBER PARTS": "6EBA",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:32:37.088Z",
+    "model": "mistral:7b",
+    "durationMs": 11698,
+    "priceIncrement": 100
+  }
+}

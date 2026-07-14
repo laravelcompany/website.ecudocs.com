@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT CITROEN PEUGEOT 2.8 JTD BOSCH 0 281 011 047, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-fiat-citroen-peugeot-2-8-jtd-bosch-0-281-011-047-oem-tested-warran",
+  "metaDescription": "OEM tested ECU Engine Controller for FIAT CITROEN PEUGEOT 2.8 JTD BOSCH 0 281 011 047, Plug & Play replacement with a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM tested ECU Engine Controller for FIAT CITROEN PEUGEOT 2.8 JTD BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT CITROEN PEUGEOT 2.8 JTD",
+    "BOSCH"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for FIAT CITROEN PEUGEOT 2.8 JTD BOSCH is a reliable replacement, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT CITROEN PEUGEOT</td></tr>\n        <tr><th>ENGINE</th><td>2.8 JTD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 047</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1338249080</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on your vehicle's specific configuration. Please verify fitment before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT CITROEN PEUGEOT 2.8 JTD BOSCH 0 281 011 047, 0281011047, 1338249080",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-CITROEN-PEUGEOT-2.8-JTD-BOSCH-0-281-011-047%2C-0281011047%2C-1338249080-/99726",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "07A3-141CD_20161128210404",
+    "sku": "07A3-141CD_20161128210404",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT CITROEN PEUGEOT 2.8 JTD BOSCH 0 281 011 047, 0281011047, 1338249080 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT CITROEN PEUGEOT",
+      "ENGINE": "2.8 JTD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 047",
+      "NUMBER PARTS": "1338249080",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:30:14.600Z",
+    "model": "mistral:7b",
+    "durationMs": 9918,
+    "priceIncrement": 100
+  }
+}

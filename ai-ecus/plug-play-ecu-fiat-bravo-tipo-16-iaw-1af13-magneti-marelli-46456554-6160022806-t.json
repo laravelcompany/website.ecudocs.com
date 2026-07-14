@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Bravo, Brava, Tipo 1.6 IAW 1AF.13 OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-fiat-bravo-tipo-16-iaw-1af13-magneti-marelli-46456554-6160022806-t",
+  "metaDescription": "Find your Plug & Play ECU Engine Controller for Fiat Bravo, Brava, Tipo 1.6 IAW 1AF.13, backed by a 6-month warranty and OEM tested.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Bravo, Brava, Tipo 1.6 IAW 1AF.13",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Bravo",
+    "IAW 1AF.13"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Fiat Bravo, Brava, or Tipo 1.6 IAW 1AF.13.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\"><table><tbody><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>FIAT BRAVO, BRAVA, TIPO</td></tr><tr><th>ENGINE</th><td>1.6</td></tr><tr><th>YEAR</th><td>1995-2001</td></tr><tr><th>NUMBER MANUFACTURER</th><td>IAW 1AF.13</td></tr><tr><th>NUMBER PARTS</th><td>61600.228.06</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific issues. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT BRAVO, BRAVA, TIPO 1.6, IAW 1AF.13, IAW1AF13, 46456554 61600.228.06",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-BRAVO%2C-BRAVA%2C-TIPO-1.6%2C-IAW-1AF.13%2C-IAW1AF13%2C-46456554-61600.228.06/36780",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "4A03-68931_20130705105849",
+    "sku": "4A03-68931_20130705105849",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT BRAVO, BRAVA, TIPO 1.6, IAW 1AF.13, IAW1AF13, 46456554 61600.228.06</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_655312e8c694f53a987785b28b8adf87_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0d03a91b0eb521e5327974a682d5cdf3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_62c69519a039ed75da35389c5ff083df_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ee4b7784e695fba4b0641ee0dab79954_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT BRAVO, BRAVA, TIPO",
+      "ENGINE": "1.6",
+      "YEAR": "1995-2001",
+      "NUMBER MANUFACTURER": "IAW 1AF.13",
+      "NUMBER PARTS": "61600.228.06",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:28:30.870Z",
+    "model": "mistral:7b",
+    "durationMs": 10571,
+    "priceIncrement": 100
+  }
+}

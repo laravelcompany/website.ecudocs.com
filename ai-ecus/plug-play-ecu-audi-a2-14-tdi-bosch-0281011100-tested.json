@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Audi A2 1.4 TDI Bosch 0 281 011 100, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-a2-14-tdi-bosch-0281011100-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Audi A2 1.4 TDI Bosch 0 281 011 100, OEM tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A2 1.4 TDI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A2",
+    "Bosch 0 281 011 100"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and used original ECU engine controller for Audi A2 1.4 TDI Bosch 0 281 011 100 is in good condition and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Used Original</li><li>Condition: Good</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>AUDI A2</td></tr>\n        <tr><th>ENGINE:</th><td>1.4 TDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 011 100</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>045 906 019 AT</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with a certified technician before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A2 1.4 TDI BOSCH 0 281 011 100, 0281011100, 045 906 019 AT, 045906019AT",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A2-1.4-TDI-BOSCH-0-281-011-100%2C-0281011100%2C-045-906-019-AT%2C-045906019AT/118157",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4F6C-54229",
+    "sku": "4F6C-54229",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A2 1.4 TDI BOSCH 0 281 011 100, 0281011100, 045 906 019 AT, 045906019AT</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A2",
+      "ENGINE": "1.4 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 100",
+      "NUMBER PARTS": "045 906 019 AT",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:41:12.818Z",
+    "model": "mistral:7b",
+    "durationMs": 9235,
+    "priceIncrement": 100
+  }
+}

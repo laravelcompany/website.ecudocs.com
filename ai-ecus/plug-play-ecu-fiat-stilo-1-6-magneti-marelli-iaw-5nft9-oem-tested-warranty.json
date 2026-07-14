@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Stilo 1.6 Magneti Marelli IAW 5NF.T9, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-stilo-1-6-magneti-marelli-iaw-5nft9-oem-tested-warranty",
+  "metaDescription": "Find your Plug & Play ECU Replacement for Fiat Stilo 1.6 Magneti Marelli IAW 5NF.T9, tested and covered by a 6-month warranty.",
+  "price": "€700.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Stilo 1.6 Magneti Marelli IAW 5NF.T9",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Stilo",
+    "Magneti Marelli",
+    "IAW 5NF.T9"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Fiat Stilo 1.6 Magneti Marelli IAW 5NF.T9 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play</li>\n      <li>OEM Tested</li>\n      <li>6-month Warranty</li>\n      <li>Used, Original in Good Condition</li>\n      <li>Ready for Programming</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>FIAT STILO</td></tr>\n      <tr><th>ENGINE</th><td>1.6</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>Magneti Marelli IAW 5NF.T9</td></tr>\n      <tr><th>NUMBER PARTS</th><td>55189584</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment may vary. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT STILO 1.6 Magneti Marelli IAW 5NF.T9, IAW5NFT9, 55189584",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-STILO-1.6-Magneti-Marelli-IAW-5NF.T9%2C-IAW5NFT9%2C-55189584/122772",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "B961-8771E_20201119153944",
+    "sku": "B961-8771E_20201119153944",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT STILO 1.6 Magneti Marelli IAW 5NF.T9, IAW5NFT9, 55189584</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_250028_0_0/FIAT-STILO-1.6-Magneti-Marelli-IAW-5NF.T9%2C-IAW5NFT9%2C-55189584.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_250029_0_0/FIAT-STILO-1.6-Magneti-Marelli-IAW-5NF.T9%2C-IAW5NFT9%2C-55189584.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT STILO",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "Magneti Marelli IAW 5NF.T9",
+      "NUMBER PARTS": "55189584",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:33:28.710Z",
+    "model": "mistral:7b",
+    "durationMs": 9347,
+    "priceIncrement": 100
+  }
+}

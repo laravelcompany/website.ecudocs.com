@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Fiesta MK7 1.25 AV21-12A650-CB, EMS2102 S180047012B - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-ford-fiesta-mk7-1-25-ems2102-s180047012b-oem-tested",
+  "metaDescription": "Get a Plug & Play ECU Replacement for your Ford Fiesta MK7 1.25 with the OEM tested EMS2102 S180047012B. Includes 6-month warranty and fast dispatch.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Fiesta MK7 1.25",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta MK7",
+    "EMS2102 S180047012B"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Replacement for your Ford Fiesta MK7 1.25 is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FIESTA</td></tr>\n        <tr><th>ENGINE</th><td>1.25</td></tr>\n        <tr><th>YEAR</th><td>2010</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>EMS2102 S180047012 B</td></tr>\n        <tr><th>CODE</th><td>V2CB</td></tr>\n        <tr><th>NUMBER PARTS</th><td>AV21-12A650-CB</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta MK7 1.25. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA MK7 1.25 AV2112A650CB, AV21-12A650-CB V2CB, S180047012B, S180047012 B, EMS2102",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-MK7-1.25-AV2112A650CB%2C-AV21-12A650-CB-V2CB%2C-S180047012B%2C-S180047012-B%2C-EMS2102/16464",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "AC1C-750D7",
+    "sku": "AC1C-750D7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA MK7 1.25 AV2112A650CB, AV21-12A650-CB V2CB, S180047012B, S180047012 B, EMS2102</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.25",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "EMS2102 S180047012 B",
+      "CODE": "V2CB",
+      "NUMBER PARTS": "AV21-12A650-CB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:39:35.548Z",
+    "model": "mistral:7b",
+    "durationMs": 11836,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Renault Trafic 1.9 DCI - Bosch 0281010633 HOM8200051609, 6-month Warranty",
+  "slug": "plug-play-ecu-renault-trafic-19-dci-bosch-0281010633-hom8200051609-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Renault Trafic 1.9 DCI - Bosch 0281010633 HOM8200051609, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Renault Trafic 1.9 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Trafic",
+    "Bosch",
+    "1.9 DCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Renault Trafic 1.9 DCI ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Locked</li>\n        <li>Ready for programming</li>\n        <li>6-month warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT TRAFIC</td></tr>\n        <tr><th>ENGINE</th><td>1.9 DCI</td></tr>\n        <tr><th>YEAR</th><td>2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 633</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8 200 119 842</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT TRAFIC 1.9 DCI BOSCH 0281010633 HOM8200051609 8200051609 8200119842",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-TRAFIC-1.9-DCI-BOSCH-0281010633-HOM8200051609-8200051609-8200119842-/16535",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "14F3-3879F",
+    "sku": "14F3-3879F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT TRAFIC 1.9 DCI BOSCH 0281010633 HOM8200051609 8200051609 8200119842 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT TRAFIC",
+      "ENGINE": "1.9 DCI",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 633",
+      "NUMBER PARTS": "8 200 119 842",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:14:24.380Z",
+    "model": "mistral:7b",
+    "durationMs": 9742,
+    "priceIncrement": 100
+  }
+}

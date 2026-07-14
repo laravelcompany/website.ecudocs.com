@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Fiat Punto 1.1 Magneti Marelli IAW 16F.EB, IAW16FEB, 46545150, 61602.102.01, 6160210201 - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-fiat-punto-11-magneti-marelli-iaw-16f-eb-iaw16feb-4654",
+  "metaDescription": "Find the Plug & Play ECU Replacement for your Fiat Punto 1.1 with Magneti Marelli IAW 16F.EB, IAW16FEB, 46545150, 61602.102.01, 6160210201. OEM tested and backed by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Punto 1.1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Punto",
+    "Magneti Marelli",
+    "IAW 16F.EB"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Fiat Punto 1.1 is OEM tested and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT PUNTO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.1</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1995</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI IAW 16F.EB</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>61602.102.01, 6160210201</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific year and condition of your vehicle. We recommend consulting with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO 1.1 MAGNETI MARELLI IAW 16F.EB, IAW16FEB, 46545150, 61602.102.01, 6160210201",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-1.1-MAGNETI-MARELLI-IAW-16F.EB%2C-IAW16FEB%2C-46545150%2C-61602.102.01%2C-6160210201/46225",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "EF2C-21861",
+    "sku": "EF2C-21861",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO 1.1 MAGNETI MARELLI IAW 16F.EB, IAW16FEB, 46545150, 61602.102.01, 6160210201</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO",
+      "ENGINE": "1.1",
+      "YEAR": "1995",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 16F.EB",
+      "NUMBER PARTS": "61602.102.01",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:17:58.834Z",
+    "model": "mistral:7b",
+    "durationMs": 15074,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W210 E300 3.0 TDI Bosch 0281001880, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w210-e300-300-tdi-bosch-0281001880-tested",
+  "metaDescription": "OEM tested and Plug & Play ECU replacement for Mercedes W210 E300 3.0 TDI, backed by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€250.00",
+  "excerpt": "OEM tested ECU replacement for Mercedes W210 E300 3.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W210 E300",
+    "Bosch 0281001880"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is specifically designed for Mercedes W210 E300 3.0 TDI engines, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM tested for reliability</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W210 E300</td></tr>\n        <tr><th>ENGINE</th><td>3.0 TDI</td></tr>\n        <tr><th>YEAR</th><td>1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281001880, 0 281 001 880</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0255455532</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This ECU is designed for Mercedes W210 E300 3.0 TDI engines only. Fitment may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W210 E300 3.0 TDI BOSCH 0281001880, 0 281 001 880, A0255455532, 0255455532, A 025 545 55 32",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W210-E300-3.0-TDI-BOSCH-0281001880%2C-0-281-001-880%2C-A0255455532%2C-0255455532%2C-A-025-545-55-32/24510",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A668-95147_20120531221942",
+    "sku": "A668-95147_20120531221942",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W210 E300 3.0 TDI BOSCH 0281001880, 0 281 001 880, A0255455532, 0255455532, A 025 545 55 32</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c7b33a3a6b43bd453a74b1c709d90ac3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d8a58bb4ff05560809fa0ca5dffd4c0a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W210 E300",
+      "ENGINE": "3.0 TDI",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0281001880, 0 281 001 880",
+      "NUMBER PARTS": "0255455532",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:30:22.022Z",
+    "model": "mistral:7b",
+    "durationMs": 11586,
+    "priceIncrement": 100
+  }
+}

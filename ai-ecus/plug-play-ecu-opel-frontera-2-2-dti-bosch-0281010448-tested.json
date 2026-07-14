@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Frontera 2.2 DTI - Bosch 0 281 010 448, 0281010448, 24 417 200, 24417200 - OEM Tested & Warranty",
+  "slug": "plug-play-ecu-opel-frontera-2-2-dti-bosch-0281010448-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Opel Frontera 2.2 DTI by Bosch (0 281 010 448, 0281010448, 24 417 200, 24417200). Plug & Play replacement with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Frontera 2.2 DTI by Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Frontera 2.2 DTI",
+    "Bosch ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for Opel Frontera 2.2 DTI by Bosch is a reliable solution to replace faulty or damaged units.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Compatible with Opel Frontera 2.2 DTI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL FRONTERA</td></tr>\n        <tr><th>ENGINE:</th><td>2.2 DTI</td></tr>\n        <tr><th>YEAR:</th><td>2002</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>24417200</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>complet</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL FRONTERA 2.2 DTI BOSCH 0 281 010 448, 0281010448, 24 417 200, 24417200",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-FRONTERA-2.2-DTI-BOSCH-0-281-010-448%2C-0281010448%2C-24-417-200%2C-24417200/58238",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D21D-709BC_20140610124020",
+    "sku": "D21D-709BC_20140610124020",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL FRONTERA 2.2 DTI BOSCH 0 281 010 448, 0281010448, 24 417 200, 24417200</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL FRONTERA",
+      "ENGINE": "2.2 DTI",
+      "YEAR": "2002",
+      "NUMBER PARTS": "24417200",
+      "OPTION AVAILABLE": "complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:03:32.004Z",
+    "model": "mistral:7b",
+    "durationMs": 11545,
+    "priceIncrement": 100
+  }
+}

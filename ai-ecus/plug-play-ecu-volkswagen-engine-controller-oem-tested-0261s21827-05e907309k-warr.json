@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Volkswagen Engine Controller 0261S21827 05E907309K - 6-month Warranty",
+  "slug": "plug-play-ecu-volkswagen-engine-controller-oem-tested-0261s21827-05e907309k-warr",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for Volkswagen, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Volkswagen",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Volkswagen ECU",
+    "OEM part number",
+    "engine controller"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Volkswagen is tested and guaranteed to work perfectly. Replace your faulty engine control unit with this OEM-tested replacement.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play</li>\n      <li>OEM Tested</li>\n      <li>6-month Warranty</li>\n      <li>Used, Original in Good Condition</li>\n      <li>Inspection by Certified Technician</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th></th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><td>BRAND AND MODEL</td><td>VOLKSWAGEN</td></tr>\n        <tr><td>NUMBER MANUFACTURER</td><td>0261S21827 05E907309K</td></tr>\n        <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n        <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult our experts before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VOLKSWAGEN 0261S21827 05E907309K",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VOLKSWAGEN-0261S21827-05E907309K/135690",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9AC5-17198_20230717145803",
+    "sku": "9AC5-17198_20230717145803",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER VOLKSWAGEN 0261S21827 05E907309K</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_283652_0_0/VOLKSWAGEN-0261S21827-05E907309K.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_283653_0_0/VOLKSWAGEN-0261S21827-05E907309K.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VOLKSWAGEN",
+      "NUMBER MANUFACTURER": "0261S21827 05E907309K",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T05:33:28.771Z",
+    "model": "mistral:7b",
+    "durationMs": 10074,
+    "priceIncrement": 100
+  }
+}

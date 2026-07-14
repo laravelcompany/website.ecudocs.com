@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement for OPEL ASTRA G 1.6 X16SZR (GM 62 37 797, RAAC) - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-astra-g-16-x16szr-gm-62-37-797-raac-oem-tested-warranty",
+  "metaDescription": "Buy this OEM tested ECU Engine Controller for OPEL ASTRA G 1.6 X16SZR (GM 62 37 797, RAAC). Plug & Play replacement, backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested ECU Engine Controller for OPEL ASTRA G 1.6 X16SZR",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "GM 62 37 797",
+    "RAAC",
+    "OPEL ASTRA G"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your OPEL ASTRA G 1.6 X16SZR (GM 62 37 797, RAAC).</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch and EU shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL ASTRA G</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6 X16SZR</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1998-2000</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>GM 62 37 797</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>RAAC</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>16268377</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED / COMPLET</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with OPEL ASTRA G 1.6 X16SZR (GM 62 37 797, RAAC). Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA G GM 62 37 797, 6237797, 16268377 RAAC",
+    "price": "€20.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-G-GM-62-37-797%2C-6237797%2C-16268377-RAAC/9675",
+    "priceCurrency": "EUR",
+    "netPrice": "€20.00",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "9675",
+    "sku": "9675",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA G GM 62 37 797, 6237797, 16268377 RAAC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2d4c5b244ea5f5cead1bbd5970c9b874_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_54fdca0ba736a1611663b4d924f68217_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA G",
+      "ENGINE": "1.6 X16SZR",
+      "YEAR": "1998-2000",
+      "NUMBER MANUFACTURER": "GM 62 37 797",
+      "CODE": "RAAC",
+      "NUMBER PARTS": "16268377",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLET",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:10:26.274Z",
+    "model": "mistral:7b",
+    "durationMs": 15253,
+    "priceIncrement": 100
+  }
+}

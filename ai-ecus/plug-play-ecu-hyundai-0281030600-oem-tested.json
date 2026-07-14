@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Bosch ECU ENGINE CONTROLLER HYUNDAI 0281030600 39120-2A236",
+  "slug": "plug-play-ecu-hyundai-0281030600-oem-tested",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU ENGINE CONTROLLER for HYUNDAI, covered by a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for HYUNAI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "HYUNDAI",
+    "Bosch",
+    "0281030600",
+    "39120-2A236"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement for HYUNAI is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play functionality</li><li>OEM Tested</li><li>6-month warranty</li><li>Fast dispatch within EU</li><li>Compatible with HYUNAI</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>HYUNDAI 0281030600 39120-2A236</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with HYUNAI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI 0281030600 39120-2A236 391202A236",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-0281030600-39120-2A236-391202A236/139317",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0059-22333_20240308124400",
+    "sku": "0059-22333_20240308124400",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI 0281030600 39120-2A236 391202A236</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI",
+      "NUMBER MANUFACTURER": "0281030600 39120-2A236",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:29:49.233Z",
+    "model": "mistral:7b",
+    "durationMs": 8739,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot 207 1.4 Magneti Marelli IAW6LPC105 - 6-month Warranty",
+  "slug": "plug-play-ecu-peugeot-207-14-magneti-marelli-iaw6lpc105-warranty",
+  "metaDescription": "Expertly tested ECU Engine Controller for Peugeot 207 1.4 Magneti Marelli IAW6LPC.105, backed by a 6-month warranty and fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Peugeot 207 1.4 Magneti Marelli IAW6LPC.105",
+  "tags": [
+    "ECU Replacement",
+    "Peugeot 207",
+    "Magneti Marelli",
+    "IAW6LPC.105"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Peugeot 207 1.4 Magneti Marelli IAW6LPC.105 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>PEUGEOT 207</td></tr>\n        <tr><th>ENGINE:</th><td>1.4</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>MAGNETI MARELLI IAW 6LPC.105</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>SW 9663380880</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot 207 1.4 Magneti Marelli IAW6LPC.105. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 207 1.4 MAGNETI MARELLI IAW 6LPC.105, IAW6LPC105, HW 16784004, 9654596080, SW 16807064, 9663380880",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-207-1.4-MAGNETI-MARELLI-IAW-6LPC.105%2C-IAW6LPC105%2C-HW-16784004%2C-9654596080%2C-SW-16807064%2C-9663380880-/91115",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "E620-25347_20160514194330",
+    "sku": "E620-25347_20160514194330",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 207 1.4 MAGNETI MARELLI IAW 6LPC.105, IAW6LPC105, HW 16784004, 9654596080,  SW 16807064, 9663380880 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 207",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 6LPC.105",
+      "NUMBER PARTS": "SW 9663380880",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:55:06.241Z",
+    "model": "mistral:7b",
+    "durationMs": 9864,
+    "priceIncrement": 100
+  }
+}

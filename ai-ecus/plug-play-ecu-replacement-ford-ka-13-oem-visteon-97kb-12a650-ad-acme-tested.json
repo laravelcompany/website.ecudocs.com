@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford KA 1.3, OEM Visteon 97KB-12A650-AD, ACME, OEM Tested",
+  "slug": "plug-play-ecu-replacement-ford-ka-13-oem-visteon-97kb-12a650-ad-acme-tested",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Replacement for your Ford KA 1.3 with the OEM Visteon 97KB-12A650-AD, ACME. Backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford KA 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford KA 1.3",
+    "Visteon 97KB-12A650-AD",
+    "ACME"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your Ford KA 1.3 is an OEM tested and certified part, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for guaranteed fitment</li><li>6-month warranty</li><li>Thoroughly inspected and tested by a certified technician</li><li>Condition: Used, original in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>FORD KA</td></tr><tr><th>ENGINE</th><td>1.3</td></tr><tr><th>YEAR</th><td>1997-2008</td></tr><tr><th>NUMBER MANUFACTURER</th><td>97KB-12A650-AD</td></tr><tr><th>NUMBER PARTS</th><td>ACME</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford KA 1.3 (1997-2008). Fitment caution may apply. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD KA 1.3, 97KB-12A650-AD, 97KB12A650AD, ACME",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-KA-1.3%2C-97KB-12A650-AD%2C-97KB12A650AD%2C-ACME-/48123",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "500A-192DE",
+    "sku": "500A-192DE",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD KA 1.3, 97KB-12A650-AD, 97KB12A650AD, ACME </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD KA",
+      "ENGINE": "1.3",
+      "YEAR": "1997-2008",
+      "NUMBER MANUFACTURER": "97KB-12A650-AD",
+      "NUMBER PARTS": "ACME",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:26:37.431Z",
+    "model": "mistral:7b",
+    "durationMs": 9213,
+    "priceIncrement": 100
+  }
+}

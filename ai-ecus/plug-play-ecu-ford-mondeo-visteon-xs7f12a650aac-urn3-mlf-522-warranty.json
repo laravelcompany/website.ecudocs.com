@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Ford Mondeo VISTEON XS7F-12A650-AAC, URN3, MLF-522 - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-mondeo-visteon-xs7f12a650aac-urn3-mlf-522-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Ford Mondeo VISTEON XS7F-12A650-AAC, URN3, MLF-522. Shipped within 24–48 hours with a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo VISTEON XS7F-12A650-AAC, URN3, MLF-522",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "XS7F-12A650-AAC",
+    "URN3",
+    "MLF-522"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Mondeo VISTEON XS7F-12A650-AAC, URN3, MLF-522 ensures seamless engine control. Trust our expert technicians for reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Inspected and Tested</li>\n        <li>Used Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD MONDEO</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1997-2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>VISTEON XS7F-12A650-AAC</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>MLF-522</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo models from 1997 to 2001. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO VISTEON XS7F-12A650-AAC, XS7F12A650AAC, URN3, MLF-522",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-VISTEON-XS7F-12A650-AAC%2C-XS7F12A650AAC%2C-URN3%2C-MLF-522/66863",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "28AF-98102_20140930125022",
+    "sku": "28AF-98102_20140930125022",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO VISTEON XS7F-12A650-AAC, XS7F12A650AAC, URN3, MLF-522</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_36c0969f1a6fd57267ac27cb7e2b4ebf_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_76eacb239130e061916fdddc1ec03b9d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "YEAR": "1997-2001",
+      "NUMBER MANUFACTURER": "VISTEON XS7F-12A650-AAC",
+      "NUMBER PARTS": "MLF-522",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:51:53.562Z",
+    "model": "mistral:7b",
+    "durationMs": 14017,
+    "priceIncrement": 100
+  }
+}

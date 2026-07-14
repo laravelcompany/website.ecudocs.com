@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Ford Transit 2.2 TDCI FoMoCo 6C11-12A650-AG, 6C1112A650AG, 9DCF - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-transit-2-2-tdci-fomoco-6c11-12a650-ag-6c1112a650",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Ford Transit 2.2 TDCI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested ECU Replacement for Ford Transit 2.2 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Transit",
+    "2.2 TDCI",
+    "FoMoCo"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Ford Transit 2.2 TDCI is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM part for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD TRANSIT</td></tr>\n        <tr><th>ENGINE</th><td>2.2 TDCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>FoMoCo 6C11-12A650-AG</td></tr>\n        <tr><th>NUMBER PARTS</th><td>9DCF</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Transit 2.2 TDCI, but always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD TRANSIT 2.2 TDCI FoMoCo 6C11-12A650-AG, 6C1112A650AG, 9DCF",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-TRANSIT-2.2-TDCI-FoMoCo-6C11-12A650-AG%2C-6C1112A650AG%2C-9DCF/84820",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "FoMoCo",
+    "productCode": "5498-717EF_20160121102842",
+    "sku": "5498-717EF_20160121102842",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD TRANSIT 2.2 TDCI FoMoCo 6C11-12A650-AG, 6C1112A650AG, 9DCF</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD TRANSIT",
+      "ENGINE": "2.2 TDCI",
+      "NUMBER MANUFACTURER": "FoMoCo 6C11-12A650-AG",
+      "NUMBER PARTS": "9DCF",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:02:49.487Z",
+    "model": "mistral:7b",
+    "durationMs": 9770,
+    "priceIncrement": 100
+  }
+}

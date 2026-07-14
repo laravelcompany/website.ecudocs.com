@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Chrysler Dodge 2.7-3.5 V6 P04896411AF, OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-chrysler-dodge-2-7-3-5-v6-p04896411af-oem-tested-warranty-included",
+  "metaDescription": "OEM tested ECU replacement for Chrysler Dodge 2.7-3.5 V6 P04896411AF, plug & play installation, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM tested ECU replacement for Chrysler Dodge 2.7-3.5 V6 P04896411AF",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chrysler Dodge",
+    "P04896411AF"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Chrysler Dodge 2.7-3.5 V6 P04896411AF ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play Installation</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Locked/Unlocked Option Available</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CHRYSLER DODGE</td></tr>\n        <tr><th>ENGINE</th><td>2.7-3.5 V6</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>P04896411AF</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle year and model. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHRYSLER DODGE 2.7-3.5 V6 P04896411AF, 04896411AF",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHRYSLER-DODGE-2.7-3.5-V6-P04896411AF%2C-04896411AF-/85834",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "4D33-597B1_20160209205202",
+    "sku": "4D33-597B1_20160209205202",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHRYSLER DODGE 2.7-3.5 V6 P04896411AF, 04896411AF </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_d4fce5d91ffb5f6bb07f8af35dcafd93_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e4d02b93439a11cbefd5286156aec950_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHRYSLER DODGE",
+      "ENGINE": "2.7-3.5 V6",
+      "NUMBER MANUFACTURER": "P04896411AF",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:05:48.471Z",
+    "model": "mistral:7b",
+    "durationMs": 10672,
+    "priceIncrement": 100
+  }
+}

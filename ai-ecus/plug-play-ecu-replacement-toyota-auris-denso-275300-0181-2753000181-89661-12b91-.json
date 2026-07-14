@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Toyota Auris Denso 275300-0181, 2753000181, 89661-12B91, 8966112B91 - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-toyota-auris-denso-275300-0181-2753000181-89661-12b91-",
+  "metaDescription": "OEM tested Plug & Play ECU replacement for Toyota Auris. Used in good condition, backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Toyota Auris",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Auris",
+    "Denso",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is designed specifically for Toyota Auris. It ensures optimal engine performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>TOYOTA AURIS</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>Denso 275300-0181</td></tr>\n        <tr><th>NUMBER PARTS</th><td>89661-12B91</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always confirm fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA AURIS Denso 275300-0181, 2753000181, 89661-12B91, 8966112B91",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-AURIS-Denso-275300-0181%2C-2753000181%2C-89661-12B91%2C-8966112B91-/104060",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "EE0E-7788F_20170308021351",
+    "sku": "EE0E-7788F_20170308021351",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA AURIS Denso 275300-0181, 2753000181, 89661-12B91, 8966112B91 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_412d7b8b14883dd0837bd55af20a6e05_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f69fec78122a04cbef5d780443b82ec3_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA AURIS",
+      "NUMBER MANUFACTURER": "Denso 275300-0181",
+      "NUMBER PARTS": "89661-12B91",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:12:26.288Z",
+    "model": "mistral:7b",
+    "durationMs": 10671,
+    "priceIncrement": 100
+  }
+}

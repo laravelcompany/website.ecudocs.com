@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT PUNTO 1.3 JTD Magneti Marelli MJD 6JF.P3, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-punto-13-jtd-magneti-marelli-mjd-6jfp3-oem-tested-warranty-in",
+  "metaDescription": "Buy our Plug & Play ECU Replacement for FIAT PUNTO 1.3 JTD Magneti Marelli MJD 6JF.P3, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT PUNTO 1.3 JTD Magneti Marelli MJD 6JF.P3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT PUNTO",
+    "Magneti Marelli",
+    "MJD 6JF.P3"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for your FIAT PUNTO 1.3 JTD is guaranteed to provide optimal engine performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM quality part</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT PUNTO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3 JTD</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI MJD 6JF.P3</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>71600.004.02</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This ECU is compatible with FIAT PUNTO 1.3 JTD only. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO 1.3 JTD MAGNETI MARELLI MJD 6JF.P3, MJD6JFP3, FGP 55186608, 71600.004.02, 7160000402",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-1.3-JTD-MAGNETI-MARELLI-MJD-6JF.P3%2C-MJD6JFP3%2C-FGP-55186608%2C-71600.004.02%2C-7160000402/30257",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "A166-571E7_20120930141304",
+    "sku": "A166-571E7_20120930141304",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO 1.3 JTD MAGNETI MARELLI MJD 6JF.P3, MJD6JFP3, FGP 55186608, 71600.004.02, 7160000402</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO",
+      "ENGINE": "1.3 JTD",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 6JF.P3",
+      "NUMBER PARTS": "71600.004.02",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:22:02.855Z",
+    "model": "mistral:7b",
+    "durationMs": 13847,
+    "priceIncrement": 100
+  }
+}

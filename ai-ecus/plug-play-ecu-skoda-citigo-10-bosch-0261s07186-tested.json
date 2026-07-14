@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Skoda CITIGO 1.0 BOSCH 0 261 S07 186 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-skoda-citigo-10-bosch-0261s07186-tested",
+  "metaDescription": "OEM tested ECU replacement for Skoda CITIGO 1.0 BOSCH 0 261 S07 186, backed by a 6-month warranty and fast shipping.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU replacement for Skoda CITIGO 1.0 BOSCH 0 261 S07 186",
+  "tags": [
+    "ECU repair",
+    "Skoda CITIGO 1.0",
+    "BOSCH 0 261 S07 186",
+    "Plug & Play ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Skoda CITIGO 1.0 BOSCH 0 261 S07 186 ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for guaranteed fitment</li><li>6-month warranty for peace of mind</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>SKODA CITIGO</td><td>1.0</td><td>2012</td><td>BOSCH 0 261 S07 186</td><td>04C 907 309 D</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Skoda CITIGO 1.0 BOSCH 0 261 S07 186. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA CITIGO 1.0 BOSCH 0 261 S07 186, 0261S07186, 04C 906 020 K, 04C906020K, 04C907309D, ME17.5.20",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-CITIGO-1.0-BOSCH-0-261-S07-186%2C-0261S07186%2C-04C-906-020-K%2C-04C906020K%2C-04C907309D%2C-ME17.5.20-/84106",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C4F6-5326C_20160108205851",
+    "sku": "C4F6-5326C_20160108205851",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA CITIGO 1.0 BOSCH 0 261 S07 186, 0261S07186, 04C 906 020 K, 04C906020K, 04C907309D, ME17.5.20 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA CITIGO",
+      "ENGINE": "1.0",
+      "YEAR": "2012",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S07 186",
+      "NUMBER PARTS": "04C 907 309 D",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:20:04.802Z",
+    "model": "mistral:7b",
+    "durationMs": 10209,
+    "priceIncrement": 100
+  }
+}

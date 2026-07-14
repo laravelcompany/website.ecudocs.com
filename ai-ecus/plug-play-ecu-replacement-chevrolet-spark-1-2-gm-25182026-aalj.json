@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Chevrolet Spark 1.2 GM 25182026 AALJ, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-chevrolet-spark-1-2-gm-25182026-aalj",
+  "metaDescription": "Buy this Plug & Play ECU Replacement for Chevrolet Spark 1.2 GM 25182026 AALJ, OEM tested and covered by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Chevrolet Spark 1.2 GM",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet Spark",
+    "GM 25182026 AALJ"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Chevrolet Spark 1.2 GM is a reliable solution to your engine control unit issues, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM tested and inspected</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CHEVROLET SPARK</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.2</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2010</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>GM 25182026 AALJ</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>CONTINENTAL 5WY1K12A</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Chevrolet Spark 1.2 GM only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET SPARK 1.2 GM 25182026 AALJ, CONTINENTAL 5WY1K12A, D52",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-SPARK-1.2-GM-25182026-AALJ%2C-CONTINENTAL-5WY1K12A%2C-D52-/84509",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "3827-8383B_20160117204448",
+    "sku": "3827-8383B_20160117204448",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET SPARK 1.2 GM 25182026 AALJ, CONTINENTAL 5WY1K12A, D52 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET SPARK",
+      "ENGINE": "1.2",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "GM 25182026 AALJ",
+      "NUMBER PARTS": "CONTINENTAL 5WY1K12A",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:02:06.669Z",
+    "model": "mistral:7b",
+    "durationMs": 11286,
+    "priceIncrement": 100
+  }
+}

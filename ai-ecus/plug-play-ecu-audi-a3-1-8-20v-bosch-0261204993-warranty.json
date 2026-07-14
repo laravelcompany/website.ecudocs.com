@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A3 1.8 20V Bosch 0261204993, Warranty Included",
+  "slug": "plug-play-ecu-audi-a3-1-8-20v-bosch-0261204993-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Audi A3 1.8 20V (Bosch 0261204993, 26SA6115). 6-month warranty. Fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A3 1.8 20V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "Bosch",
+    "0261204993"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for your faulty or damaged unit in your Audi A3 1.8 20V. It's OEM tested to ensure optimal performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI A3</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8 20V</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2000</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 204 993</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>26SA6115</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Audi A3 1.8 20V only. Fitment caution may apply to other models or years. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 1.8 20V 06A906018CD, 06A 906 018 CD, BOSCH 0261204993, 0 261 204 993 BENZIN V01 26SA6115",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-1.8-20V-06A906018CD%2C-06A-906-018-CD%2C-BOSCH-0261204993%2C-0-261-204-993-BENZIN-V01-26SA6115/26191",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "402A-8277B_20120622220522",
+    "sku": "402A-8277B_20120622220522",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A3 1.8 20V 06A906018CD, 06A 906 018 CD, BOSCH 0261204993, 0 261 204 993 BENZIN V01 26SA6115</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "ENGINE": "1.8 20V",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 993",
+      "NUMBER PARTS": "26SA6115",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:45:25.542Z",
+    "model": "mistral:7b",
+    "durationMs": 11902,
+    "priceIncrement": 100
+  }
+}

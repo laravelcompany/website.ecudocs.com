@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A6 2.5 TDI Bosch 0 281 011 136 - 6-month Warranty",
+  "slug": "plug-play-ecu-audi-a6-25-tdi-bosch-0281011136-warranty",
+  "metaDescription": "Expertly inspected and tested OEM ECU replacement for Audi A6 2.5 TDI. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A6 2.5 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "2.5 TDI",
+    "Bosch",
+    "0 281 011 136"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Audi A6 2.5 TDI is a reliable replacement, ensuring seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Compatibility</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Inspected and Tested</li>\n        <li>Original Part in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>AUDI A6</td></tr>\n        <tr><th>ENGINE:</th><td>2.5 TDI</td></tr>\n        <tr><th>YEAR:</th><td>2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 011 136</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>8E0 907 401 P</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on specific vehicle conditions and installation. Professional installation is recommended for optimal results.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 2.5 TDI BOSCH 0 281 011 136, 0281011136, 8E0 907 401 P, 8E0907401P, EDC15VM+",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-2.5-TDI-BOSCH-0-281-011-136%2C-0281011136%2C-8E0-907-401-P%2C-8E0907401P%2C-EDC15VM-/43641",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D435-7857C",
+    "sku": "D435-7857C",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 2.5 TDI BOSCH 0 281 011 136, 0281011136, 8E0 907 401 P, 8E0907401P, EDC15VM+</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "2.5 TDI",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 136",
+      "NUMBER PARTS": "8E0 907 401 P",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:34:29.068Z",
+    "model": "mistral:7b",
+    "durationMs": 10042,
+    "priceIncrement": 100
+  }
+}

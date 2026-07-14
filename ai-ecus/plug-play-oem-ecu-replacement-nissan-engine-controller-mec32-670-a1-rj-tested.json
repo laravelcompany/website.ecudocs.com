@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM ECU Replacement - Nissan Engine Controller MEC32-670 A1, RJ - Tested & Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-nissan-engine-controller-mec32-670-a1-rj-tested",
+  "metaDescription": "Buy a Plug & Play OEM tested ECU Engine Controller for Nissan, model MEC32-670 A1, RJ. This used original part is in good condition and comes with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Nissan",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan MEC32-670 A1",
+    "RJ Part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for Nissan is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MEC32-670 A1</td></tr>\n        <tr><th>NUMBER PARTS</th><td>RJ</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. Fast dispatch (EU). 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN, MEC32-670 A1, MEC32670 A1, MEC32670A1, 2808, RJ",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN%2C-MEC32-670-A1%2C-MEC32670-A1%2C-MEC32670A1%2C-2808%2C-RJ/38418",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": null,
+    "productCode": "20EB-1218E_20130724104500",
+    "sku": "20EB-1218E_20130724104500",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN, MEC32-670 A1, MEC32670 A1, MEC32670A1, 2808, RJ</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN",
+      "NUMBER MANUFACTURER": "MEC32-670 A1",
+      "NUMBER PARTS": "RJ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:51:54.547Z",
+    "model": "mistral:7b",
+    "durationMs": 10082,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT Grande Punto 1.4 IAW 5SF9.A2, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-grande-punto-14-iaw-5sf9a2-oem-tested-warranty-included",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for FIAT Grande Punto 1.4 IAW 5SF9.A2, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT Grande Punto 1.4 IAW 5SF9.A2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT Grande Punto",
+    "IAW 5SF9.A2"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a tested and reliable replacement for your FIAT Grande Punto 1.4 IAW 5SF9.A2.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Expertly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>FIAT GRANDE PUNTO</td></tr>\n            <tr><td>ENGINE</td><td>1.4</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>IAW 5SF9.A2</td></tr>\n            <tr><td>NUMBER PARTS</td><td>51868974</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with FIAT Grande Punto 1.4 IAW 5SF9.A2. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT GRANDE PUNTO 1.4 IAW 5SF9.A2, IAW5SF9A2, 51868974",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-GRANDE-PUNTO-1.4-IAW-5SF9.A2%2C-IAW5SF9A2%2C-51868974/105450",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "C216-71514_20170530143402",
+    "sku": "C216-71514_20170530143402",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT GRANDE PUNTO 1.4 IAW 5SF9.A2, IAW5SF9A2, 51868974</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_f5c4fffb99f30186f9d20d55aec48dac_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ca586bc061fba6b28b063493611f888f_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT GRANDE PUNTO",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "IAW 5SF9.A2",
+      "NUMBER PARTS": "51868974",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:54:35.546Z",
+    "model": "mistral:7b",
+    "durationMs": 11696,
+    "priceIncrement": 100
+  }
+}

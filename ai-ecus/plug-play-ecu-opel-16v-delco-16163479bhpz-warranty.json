@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel 1.6 16V - OEM Tested DELCO 16163479 BHPZ, 6-month Warranty",
+  "slug": "plug-play-ecu-opel-16v-delco-16163479bhpz-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU ENGINE CONTROLLER for Opel 1.6 16V, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel 1.6 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel 1.6 16V",
+    "DELCO 16163479 BHPZ"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER for Opel 1.6 16V is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>OPEL</td></tr>\n<tr><th>ENGINE</th><td>1.6 16V</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>DELCO 16163479 BHPZ</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle model and year. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL DELCO 16163479 BHPZ, 16163479BHPZ",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-DELCO-16163479-BHPZ%2C-16163479BHPZ-/67639",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "BE72-205C2_20141009110924",
+    "sku": "BE72-205C2_20141009110924",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL DELCO 16163479 BHPZ, 16163479BHPZ </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_ed7a5352f37b1357841a7ae483949fae_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b7b48c829962ad573a4c7f295625f79b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL",
+      "ENGINE": "1.6 16V",
+      "NUMBER MANUFACTURER": "DELCO 16163479 BHPZ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:03:08.603Z",
+    "model": "mistral:7b",
+    "durationMs": 9648,
+    "priceIncrement": 100
+  }
+}

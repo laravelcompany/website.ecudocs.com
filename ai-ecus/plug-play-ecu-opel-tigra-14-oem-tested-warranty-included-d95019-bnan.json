@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Tigra 1.4 - OEM Tested, Warranty Included (D95019, BNAN)",
+  "slug": "plug-play-ecu-opel-tigra-14-oem-tested-warranty-included-d95019-bnan",
+  "metaDescription": "Get a certified Plug & Play ECU replacement for your Opel Tigra 1.4 with our OEM tested part (D95019, BNAN). Backed by a 6-month warranty.",
+  "price": "€60.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Tigra 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Tigra",
+    "1.4 Engine",
+    "D95019",
+    "BNAN"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for your Opel Tigra 1.4 ensures seamless engine control and performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM quality and reliability</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL TIGRA</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>16178189 UA</td></tr>\n        <tr><th>NUMBER PARTS</th><td>BNAN</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on your vehicle's specific configuration. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL TIGRA 1.4, 16178189 UA, 16178189UA, D95019, BNAN",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-TIGRA-1.4%2C-16178189-UA%2C-16178189UA%2C-D95019%2C-BNAN/36794",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "FB01-72832_20130705110243",
+    "sku": "FB01-72832_20130705110243",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL TIGRA 1.4, 16178189 UA, 16178189UA, D95019, BNAN</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL TIGRA",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "16178189 UA",
+      "NUMBER PARTS": "BNAN",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:18:51.478Z",
+    "model": "mistral:7b",
+    "durationMs": 8779,
+    "priceIncrement": 100
+  }
+}

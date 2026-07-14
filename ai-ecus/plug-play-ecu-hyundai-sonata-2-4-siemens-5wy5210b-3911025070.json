@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Hyundai Sonata 2.4 - Siemens 5WY5210B, 39110-25070",
+  "slug": "plug-play-ecu-hyundai-sonata-2-4-siemens-5wy5210b-3911025070",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Hyundai Sonata 2.4 - 6-month warranty, used in good condition.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Hyundai Sonata 2.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WY5210B",
+    "Hyundai Sonata",
+    "2.4 Engine"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Hyundai Sonata 2.4 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>HYUNDAI SONATA</td></tr>\n<tr><td>ENGINE</td><td>2.4</td></tr>\n<tr><td>YEAR</td><td>2005</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>SIEMENS 5WY5210B</td></tr>\n<tr><td>CODE</td><td>J25</td></tr>\n<tr><td>NUMBER PARTS</td><td>39110-25070</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI SONATA 2.4 SIEMENS 5WY5210B SIM2K-140 39110-25070, 3911025070",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-SONATA-2.4-SIEMENS-5WY5210B-SIM2K-140-39110-25070%2C-3911025070/23647",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "88B7-2351F_20120528124602",
+    "sku": "88B7-2351F_20120528124602",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI SONATA 2.4 SIEMENS 5WY5210B SIM2K-140 39110-25070, 3911025070</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI SONATA",
+      "ENGINE": "2.4",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "SIEMENS 5WY5210B",
+      "CODE": "J25",
+      "NUMBER PARTS": "39110-25070",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:49:42.299Z",
+    "model": "mistral:7b",
+    "durationMs": 10047,
+    "priceIncrement": 100
+  }
+}

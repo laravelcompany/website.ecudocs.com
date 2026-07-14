@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - BMW E34 530, E32 730, 3.0 BOSCH 0 261 200 178",
+  "slug": "plug-play-ecu-bmw-e34-530-e32-730-30-bosch-0261200178-tested",
+  "metaDescription": "Expertly tested and OEM BMW ECU replacement for E34 530, E32 730, 3.0 BOSCH 0 261 200 178 with 6-month warranty. Fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for BMW E34, E32, 3.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch ECU",
+    "BMW E34",
+    "BMW E32",
+    "730i"
+  ],
+  "description": "<section class=\"overview\">This OEM tested, Plug & Play ECU replacement is suitable for BMW E34 530, E32 730, and 3.0 engines with the Bosch 0 261 200 178 number.</section>\n<section class=\"features\">\n<ul>\n<li>OEM tested for reliable performance</li>\n<li>Plug & Play for easy installation</li>\n<li>6-month warranty included</li>\n<li>Used in good condition</li>\n<li>Locked / Clon option available</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>BMW E34 530 E32 730</td></tr>\n<tr><th>ENGINE</th><td>3.0</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 200 178</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / CLON</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is suitable for BMW E34 530, E32 730, and 3.0 engines with the Bosch 0 261 200 178 number. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E34 530 E32 730 3.0 BOSCH 0 261 200 178, 0261200178",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E34-530-E32-730-3.0-BOSCH-0-261-200-178%2C-0261200178/36660",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0CB2-985B8_20130703105731",
+    "sku": "0CB2-985B8_20130703105731",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E34 530 E32 730 3.0 BOSCH 0 261 200 178, 0261200178</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_572695ffad2609ff58e55040e84bc432_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ad92ea95013d014580ceadcff7a18ed4_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E34 530 E32 730",
+      "ENGINE": "3.0",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 200 178",
+      "OPTION AVAILABLE": "LOCKED / CLON",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:25:28.874Z",
+    "model": "mistral:7b",
+    "durationMs": 11658,
+    "priceIncrement": 100
+  }
+}

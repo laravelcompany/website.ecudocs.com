@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for SKODA FABIA 1.6 - OEM Tested, Warranty Included (BOSCH 0261201139, 1039S23903)",
+  "slug": "plug-play-ecu-skoda-fabia-1-6-bosch-0261201139-tested",
+  "metaDescription": "OEM tested ECU replacement for SKODA FABIA 1.6, offering Plug & Play convenience and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for SKODA FABIA 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA FABIA",
+    "BOSCH 0261201139",
+    "1039S23903"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for SKODA FABIA 1.6 offers Plug & Play convenience and is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SKODA FABIA</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>YEAR</th><td>2008</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0261201139</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S23903</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SKODA FABIA 1.6. Always ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FABIA 1.6 03C906057F, 03C 906 057 F, 03C906057M, 03C 906 057 M, BOSCH 0261201139, 0261201139, BENZIN MED7.5.20 9813, 1039S23903",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FABIA-1.6-03C906057F%2C-03C-906-057-F%2C-03C906057M%2C-03C-906-057-M%2C-BOSCH-0261201139%2C-0261201139%2C-BENZIN-MED7.5.20-9813%2C-1039S23903/25081",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F4F0-8564B_20120604190417",
+    "sku": "F4F0-8564B_20120604190417",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FABIA 1.6 03C906057F, 03C 906 057 F, 03C906057M, 03C 906 057 M, BOSCH 0261201139, 0261201139, BENZIN MED7.5.20 9813, 1039S23903</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FABIA",
+      "ENGINE": "1.6",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0261201139",
+      "NUMBER PARTS": "1039S23903",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:25:12.261Z",
+    "model": "mistral:7b",
+    "durationMs": 9550,
+    "priceIncrement": 100
+  }
+}

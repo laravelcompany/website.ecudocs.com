@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Focus 2.0 TDCI Siemens 5WS40369B-T, Warranty Included",
+  "slug": "plug-play-ecu-ford-focus-2-0-tdci-siemens-5ws40369b-warranty-included",
+  "metaDescription": "Expertly tested and OEM certified Plug & Play ECU Engine Controller for Ford Focus 2.0 TDCI, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Focus 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "2.0 TDCI",
+    "Siemens",
+    "5WS40369B-T"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a direct replacement for your Ford Focus 2.0 TDCI, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Certified</li>\n        <li>Plug & Play Design</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FOCUS</td></tr>\n        <tr><th>ENGINE</th><td>2.0 TDCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WS40369B-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>4CSB</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Focus 2.0 TDCI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 2.0 TDCI SIEMENS 5WS40369B-T, 5WS40369BT, FoMoCo 6M51-12A650-HB, 6M5112A650HB, 4CSB, SID803",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-2.0-TDCI-SIEMENS-5WS40369B-T%2C-5WS40369BT%2C-FoMoCo-6M51-12A650-HB%2C-6M5112A650HB%2C-4CSB%2C-SID803-/101356",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "F86E-552EA_20161230173040",
+    "sku": "F86E-552EA_20161230173040",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 2.0 TDCI SIEMENS 5WS40369B-T, 5WS40369BT, FoMoCo 6M51-12A650-HB, 6M5112A650HB, 4CSB, SID803 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "2.0 TDCI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40369B-T",
+      "NUMBER PARTS": "4CSB",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:02:36.954Z",
+    "model": "mistral:7b",
+    "durationMs": 10577,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Nissan Qashqai 1.6 Hitachi MEC93-600, B4 - Warranty Included",
+  "slug": "plug-play-ecu-nissan-qashqai-16-hitachi-mec93-600-b4-warranty",
+  "metaDescription": "Expertly inspected and tested ECU Engine Controller for Nissan Qashqai 1.6 with Hitachi MEC93-600, B4. Plug & Play replacement, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested ECU Replacement for Nissan Qashqai 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Qashqai",
+    "Hitachi MEC93-600",
+    "B4"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Nissan Qashqai 1.6 with Hitachi MEC93-600, B4 is a reliable replacement ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN QASHQAI</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>HITACHI MEC93-600</td></tr>\n        <tr><th>NUMBER PARTS</th><td>B4</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN QASHQAI 1.6 HITACHI MEC93-600, MEC93600, B4",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-QASHQAI-1.6-HITACHI-MEC93-600%2C-MEC93600%2C-B4-/86909",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "3AF7-1366A_20160224194556",
+    "sku": "3AF7-1366A_20160224194556",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN QASHQAI 1.6 HITACHI MEC93-600, MEC93600, B4 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_860f27c1617e525bf38c2efa56c96bc1_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c81ec692dcae4af5614a164af96964ea_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN QASHQAI",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "HITACHI MEC93-600",
+      "NUMBER PARTS": "B4",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:40:30.294Z",
+    "model": "mistral:7b",
+    "durationMs": 9451,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Opel Corsa 1.2, Astra 1.4 - Delco 16163409 QT RXZJ",
+  "slug": "oem-tested-plug-play-ecu-replacement-opel-corsa-1-2-astra-1-4-delco-16163409-qt-",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Opel Corsa 1.2 and Astra 1.4 by Delco (16163409 QT RXZJ). 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Opel Corsa/Astra",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delco",
+    "Opel Corsa",
+    "Astra"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Opel Corsa 1.2 and Astra 1.4 is a reliable solution to your engine control unit issues, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Reliable Solution for Opel Corsa/Astra</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL VAUXHALL HOLDEN CORSA ASTRA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.2, 1.4</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>16163409 QT</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>RXZJ</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Corsa 1.2 and Astra 1.4. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA 1.2, ASTRA 1.4, 16163409 QT, RXZJ",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-1.2%2C-ASTRA-1.4%2C-16163409-QT%2C-RXZJ-/49255",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "A7A3-144AC",
+    "sku": "A7A3-144AC",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA 1.2, ASTRA 1.4, 16163409 QT, RXZJ </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9d3014a3f53fd72941f40b02ada7518f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f41f48a6fdda7fd65b68c948f6a5e56f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b78364dbb872d7f3dfcb100b55244a7d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VAUXHALL HOLDEN CORSA ASTRA",
+      "ENGINE": "1.2, 1.4",
+      "NUMBER MANUFACTURER": "16163409 QT",
+      "NUMBER PARTS": "RXZJ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:50:30.076Z",
+    "model": "mistral:7b",
+    "durationMs": 11238,
+    "priceIncrement": 100
+  }
+}

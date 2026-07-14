@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Opel Insignia 2.0 CDTI Bosch 0 281 015 774, ACDelco 55 573 539, Warranty Included",
+  "slug": "plug-play-ecu-opel-insignia-2-0-cdti-bosch-0281015774-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Opel Insignia 2.0 CDTI Bosch 0 281 015 774, ACDelco 55 573 539 with 6-month warranty. Fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Opel Insignia 2.0 CDTI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Insignia",
+    "Bosch",
+    "ACDelco"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU engine controller is a reliable replacement for your Opel Insignia 2.0 CDTI.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch in EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>OPEL INSIGNIA</td></tr>\n            <tr><td>ENGINE</td><td>2.0 CDTI</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 015 774</td></tr>\n            <tr><td>NUMBER PARTS</td><td>55573560</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel Insignia 2.0 CDTI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL INSIGNIA 2.0 CDTI BOSCH 0 281 015 774, 0281015774, ACDelco 55 573 539, 55573539, 55573560",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-INSIGNIA-2.0-CDTI-BOSCH-0-281-015-774%2C-0281015774%2C-ACDelco-55-573-539%2C-55573539%2C-55573560-/99248",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B04A-567B0_20161122170954",
+    "sku": "B04A-567B0_20161122170954",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  OPEL INSIGNIA 2.0 CDTI BOSCH 0 281 015 774, 0281015774, ACDelco 55 573 539, 55573539, 55573560 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL INSIGNIA",
+      "ENGINE": "2.0 CDTI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 774",
+      "NUMBER PARTS": "55573560",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:12:58.488Z",
+    "model": "mistral:7b",
+    "durationMs": 11676,
+    "priceIncrement": 100
+  }
+}

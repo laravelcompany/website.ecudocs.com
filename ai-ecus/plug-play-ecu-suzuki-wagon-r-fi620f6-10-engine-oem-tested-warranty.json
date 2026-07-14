@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested SUZUKI WAGON R FI620F6, 1.0 Engine, 6-month Warranty",
+  "slug": "plug-play-ecu-suzuki-wagon-r-fi620f6-10-engine-oem-tested-warranty",
+  "metaDescription": "Get a Plug & Play ECU Replacement for your SUZUKI WAGON R FI620F6, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for SUZUKI WAGON R FI620F6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SUZUKI WAGON R",
+    "FI620F6",
+    "1.0 Engine"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your SUZUKI WAGON R FI620F6 has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Compatible with FI620F6</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SUZUKI WAGON R</td></tr>\n        <tr><th>ENGINE:</th><td>1.0</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>FI620F6</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with FI620F6 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUZUKI WAGON R FI-620 F6, FI620F6",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUZUKI-WAGON-R-FI-620-F6%2C-FI620F6/60307",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "B9A7-9390A_20140715111701",
+    "sku": "B9A7-9390A_20140715111701",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUZUKI WAGON  R FI-620 F6, FI620F6</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_dccecec0afb0c81cecd5090fef982324_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7099c7fba5ffeba9f02fc6063dfd561e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUZUKI WAGON R",
+      "ENGINE": "1.0",
+      "NUMBER PARTS": "FI620F6",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:07:30.664Z",
+    "model": "mistral:7b",
+    "durationMs": 10017,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Mondeo VISTEON 2S7A-12A650-ADB, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-mondeo-visteon-2s7a-12a650-adb",
+  "metaDescription": "OEM tested ECU replacement for Ford Mondeo VISTEON 2S7A-12A650-ADB. Plug & Play, warranty included.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "VISTEON 2S7A-12A650-ADB"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Ford Mondeo VISTEON 2S7A-12A650-ADB ensures seamless integration and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>YEAR</th><td>2002-2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>VISTEON 2S7A-12A650-ADB</td></tr>\n        <tr><th>NUMBER PARTS</th><td>LBO-110</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility: Ford Mondeo (2002-2007). Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO VISTEON 2S7A-12A650-ADB, 2S7A12A650ADB, 7JVA, LBO-110",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-VISTEON-2S7A-12A650-ADB%2C-2S7A12A650ADB%2C-7JVA%2C-LBO-110/65634",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "6972-95792_20140911095906",
+    "sku": "6972-95792_20140911095906",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO VISTEON 2S7A-12A650-ADB, 2S7A12A650ADB, 7JVA, LBO-110</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a28d941b495f647ac3501ebfbc9895bb_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_68e3c892b83ab75492ea04acb03f3e84_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "YEAR": "2002-2007",
+      "NUMBER MANUFACTURER": "VISTEON 2S7A-12A650-ADB",
+      "NUMBER PARTS": "LBO-110",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:50:39.866Z",
+    "model": "mistral:7b",
+    "durationMs": 9955,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Master 2.5 DCI BOSCH 0 281 011 105, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-master-25-dci-bosch-oem-tested",
+  "metaDescription": "Buy a tested Plug & Play ECU Engine Controller for Renault Master 2.5 DCI BOSCH 0 281 011 105, backed by a 6-month warranty and fast shipping.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Master 2.5 DCI BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Master",
+    "Bosch",
+    "2.5 DCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller is a reliable replacement for your Renault Master 2.5 DCI BOSCH.</section>\n<section class=\"features\"><ul><li>Plug & Play compatibility</li><li>OEM Tested and Certified</li><li>6-month warranty</li><li>Fast shipping within EU</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT MASTER</td></tr>\n        <tr><th>ENGINE</th><td>2.5 DCI</td></tr>\n        <tr><th>YEAR</th><td>2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 105</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8200243786</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Master 2.5 DCI BOSCH. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MASTER 2.5 DCI BOSCH 0 281 011 105, 0281011105 HOM8200091432 8200243786",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MASTER-2.5-DCI-BOSCH-0-281-011-105%2C-0281011105-HOM8200091432-8200243786/98558",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F5D4-7926D_20161019161725",
+    "sku": "F5D4-7926D_20161019161725",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MASTER 2.5 DCI BOSCH 0 281 011 105, 0281011105 HOM8200091432 8200243786</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MASTER",
+      "ENGINE": "2.5 DCI",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 105",
+      "NUMBER PARTS": "8200243786",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:41:43.458Z",
+    "model": "mistral:7b",
+    "durationMs": 10284,
+    "priceIncrement": 100
+  }
+}

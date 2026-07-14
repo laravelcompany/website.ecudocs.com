@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Fiesta 1.4 TDCI Siemens 7BPE - Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-ford-fiesta-14-tdci-siemens-7bpe-warranty-included",
+  "metaDescription": "Expertly refurbished OEM Tested Plug & Play ECU Engine Controller for Ford Fiesta 1.4 TDCI Siemens 7BPE, backed by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Fiesta 1.4 TDCI Siemens 7BPE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 7BPE",
+    "Ford Fiesta 1.4 TDCI"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Ford Fiesta 1.4 TDCI Siemens 7BPE is a reliable replacement, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Refurbished</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD FIESTA</td></tr>\n        <tr><th>ENGINE:</th><td>1.4 TDCI</td></tr>\n        <tr><th>YEAR:</th><td>2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SIEMENS 5WS40142E-T, 3S61-12A650-GE, 3S6112A650GE, SID804</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>7BPE</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific ECU programming requirements. Please consult a professional technician for fitment advice.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.4 TDCI SIEMENS 5WS40142E-T, 5WS40142ET, 3S61-12A650-GE, 3S6112A650GE, 7BPE, SID804",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.4-TDCI-SIEMENS-5WS40142E-T%2C-5WS40142ET%2C-3S61-12A650-GE%2C-3S6112A650GE%2C-7BPE%2C-SID804-/91173",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "F1B9-3074F_20160515173947",
+    "sku": "F1B9-3074F_20160515173947",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.4 TDCI SIEMENS 5WS40142E-T, 5WS40142ET, 3S61-12A650-GE, 3S6112A650GE, 7BPE, SID804 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_10fe37eb02a00d312c9171ec1cbaa3be_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_29b7b03095e63574bf4acae707002623_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.4 TDCI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40142E-T",
+      "NUMBER PARTS": "7BPE",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:26:44.037Z",
+    "model": "mistral:7b",
+    "durationMs": 9956,
+    "priceIncrement": 100
+  }
+}

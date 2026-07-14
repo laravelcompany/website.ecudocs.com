@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT LANCIA 2.0 16V Magneti Marelli IAW 4Q5, 6160020905 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-lancia-20-16v-magneti-marelli-iaw-4q5-6160020905-oem-tested",
+  "metaDescription": "Buy this Plug & Play ECU Engine Controller for FIAT LANCIA 2.0 16V, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT LANCIA",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Magneti Marelli IAW 4Q5",
+    "FIAT LANCIA",
+    "2.0 16V"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for FIAT LANCIA 2.0 16V is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Compatible with FIAT LANCIA 2.0 16V</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT LANCIA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 16V</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1994</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI IAW 4Q5</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>6160020905</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. This ECU Engine Controller is compatible with FIAT LANCIA 2.0 16V.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT LANCIA MAGNETI MARELLI IAW 4Q5, IAW4Q5, 6160020905",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-LANCIA-MAGNETI-MARELLI-IAW-4Q5%2C-IAW4Q5%2C-6160020905/62538",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "80E6-2775E_20140807153533",
+    "sku": "80E6-2775E_20140807153533",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT LANCIA MAGNETI MARELLI IAW 4Q5, IAW4Q5, 6160020905</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_ac402122c36d6b55c970b7144f744252_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6e3b9e39eb18beadbdd196183671b523_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7ac6d1a77344bc075431638820358f69_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT LANCIA",
+      "ENGINE": "2.0 16V",
+      "YEAR": "1994",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 4Q5",
+      "NUMBER PARTS": "6160020905",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:00:38.346Z",
+    "model": "mistral:7b",
+    "durationMs": 14405,
+    "priceIncrement": 100
+  }
+}

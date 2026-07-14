@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Opel Vectra 1.6 X16XEL (1996-1998) - Delco 16202299 GG, BWHN - Warranty Included",
+  "slug": "plug-play-ecu-opel-vectra-16x16xl-delco-16202299-gg-bwhn-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Opel Vectra 1.6 X16XEL (1996-1998) by Delco, covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Opel Vectra 1.6 X16XEL",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delco",
+    "Opel Vectra",
+    "1.6 X16XEL"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Opel Vectra 1.6 X16XEL (1996-1998) by Delco ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Expertly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL CHEVROLET HOLDEN VAUXHALL VECTRA</td></tr>\n        <tr><th>ENGINE:</th><td>1.6 X16XEL</td></tr>\n        <tr><th>YEAR:</th><td>1996-1998</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>16202299 GG</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>BWHN</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra 1.6 X16XEL (1996-1998).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA 16202299 GG, 16202299GG, D96001, BWHN",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-16202299-GG%2C-16202299GG%2C-D96001%2C-BWHN-/26074",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "B983-342C4_20120619134724",
+    "sku": "B983-342C4_20120619134724",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA 16202299 GG, 16202299GG, D96001, BWHN </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_64ba72ea57c8b14370ca9be7a0d2d236_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6d0a4d04e07221bfeb5ab5891afca953_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL VECTRA",
+      "ENGINE": "1.6 X16XEL",
+      "YEAR": "1996-1998",
+      "NUMBER MANUFACTURER": "16202299 GG",
+      "NUMBER PARTS": "BWHN",
+      "OPTION AVAILABLE": "/ Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:20:19.888Z",
+    "model": "mistral:7b",
+    "durationMs": 10479,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W203 C200 2.2 CDI Bosch 0281011930",
+  "slug": "plug-play-ecu-mercedes-w203-c200-bosch-0281011930",
+  "metaDescription": "OEM Tested ECU Replacement for Mercedes W203 C200 2.2 CDI. Plug & Play, 6-month warranty. Fast dispatch within EU.",
+  "price": "€485.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W203 C200 2.2 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W203 C200",
+    "Bosch 0281011930"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Mercedes W203 C200 2.2 CDI offers a Plug & Play solution, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W203 C200</td></tr>\n        <tr><th>ENGINE</th><td>2.2 CDI</td></tr>\n        <tr><th>YEAR</th><td>2005</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 930</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S05776</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W203 C200 2.2 CDI. Always consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W203 200 CDI BOSCH 0281011930, 0 281 011 930, A6461502879, A 646 150 28 79, 6461502879, Q02 ED0072 CR3.44 1039S05776",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W203-200-CDI-BOSCH-0281011930%2C-0-281-011-930%2C-A6461502879%2C-A-646-150-28-79%2C-6461502879%2C-Q02-ED0072-CR3.44-1039S05776/26882",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F450-38762_20120725170417",
+    "sku": "F450-38762_20120725170417",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W203 200 CDI BOSCH 0281011930, 0 281 011 930, A6461502879, A 646 150 28 79, 6461502879, Q02 ED0072 CR3.44 1039S05776</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W203 C200",
+      "ENGINE": "2.2 CDI",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 930",
+      "NUMBER PARTS": "1039S05776",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:20:19.164Z",
+    "model": "mistral:7b",
+    "durationMs": 10002,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW X5 E70 X6 X71 3.0 Diesel Bosch 0281016639 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-bmw-330d-m57-bosch-0281016639-tested",
+  "metaDescription": "OEM tested ECU replacement for BMW X5 E70 X6 X71 3.0 Diesel, backed by a 6-month warranty and fast dispatch.",
+  "price": "€660.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW X5 E70",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281016639",
+    "BMW X5 E70"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for BMW X5 E70 X6 X71 3.0 Diesel is a reliable solution, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>BMW X5 E70 X6 X71</td></tr>\n        <tr><th>ENGINE:</th><td>3.0 DIESEL</td></tr>\n        <tr><th>YEAR:</th><td>2009</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 016 639</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>1039S34187</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Compatible with BMW X5 E70 X6 X71 3.0 Diesel. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW X5 E70 X6 X71 3.0 DIESEL BOSCH 0281016639, 0 281 016 639, DDE 8509035 -01, DDE8509035 , 8 509 035 -01, 1039S34187",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-X5-E70-X6-X71-3.0-DIESEL-BOSCH-0281016639%2C-0-281-016-639%2C-DDE-8509035-01%2C-DDE8509035-%2C-8-509-035-01%2C-1039S34187/24860",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DB83-3422E_20120603182926",
+    "sku": "DB83-3422E_20120603182926",
+    "availability": "on request",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW X5 E70 X6 X71 3.0 DIESEL BOSCH 0281016639, 0 281 016 639, DDE 8509035 -01, DDE8509035 , 8 509 035 -01, 1039S34187</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_261539_0_0/BMW-X5-E70-X6-X71-3.0-DIESEL-BOSCH-0281016639%2C-0-281-016-639%2C-DDE-8509035--01%2C-8-509-035--01.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0c1cbc4d74d60cc7497727015eed5acf_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW X5 E70 X6 X71",
+      "ENGINE": "3.0 DIESEL",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 639",
+      "NUMBER PARTS": "1039S34187",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:53:17.624Z",
+    "model": "mistral:7b",
+    "durationMs": 9681,
+    "priceIncrement": 100
+  }
+}

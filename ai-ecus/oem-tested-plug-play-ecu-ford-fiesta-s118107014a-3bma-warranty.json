@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Fiesta S118107014A 3BMA, 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-ford-fiesta-s118107014a-3bma-warranty",
+  "metaDescription": "Expertly tested and OEM Siemens ECU Engine Controller for Ford Fiesta (2003). Plug & Play, 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Fiesta",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens S118107014A",
+    "Ford Fiesta"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Ford Fiesta (2003) is a reliable replacement, ensuring smooth engine operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Certified Technician Inspection</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FIESTA</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS S118107014 A</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>3BMA</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD S118107014A 4S61-12A650-CA 4S6112A650CA 3BMA, SIM22",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-S118107014A-4S61-12A650-CA-4S6112A650CA-3BMA%2C-SIM22/89608",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "0DB0-17053_20160414093334",
+    "sku": "0DB0-17053_20160414093334",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD S118107014A 4S61-12A650-CA 4S6112A650CA 3BMA, SIM22</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "SIEMENS S118107014 A",
+      "NUMBER PARTS": "3BMA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:54:42.661Z",
+    "model": "mistral:7b",
+    "durationMs": 10471,
+    "priceIncrement": 100
+  }
+}

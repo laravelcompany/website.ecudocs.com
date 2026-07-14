@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot Partner 1.9 D Lucas R04080026D - 6-month Warranty",
+  "slug": "plug-play-ecu-peugeot-partner-19d-lucas-r04080026d-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Peugeot Partner 1.9 D Lucas R04080026D with 6-month warranty. Fast dispatch in EU.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Peugeot Partner 1.9 D Lucas R04080026D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot Partner",
+    "Lucas",
+    "R04080026D"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Peugeot Partner 1.9 D Lucas R04080026D is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch in EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT PARTNER</td></tr>\n        <tr><th>ENGINE</th><td>1.9 D</td></tr>\n        <tr><th>YEAR</th><td>2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>LUCAS R04080026D</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DWLC12</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot Partner 1.9 D (2002).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT PARTNER 1.9 D LUCAS R04080026D, PSA 9641390180, SOFT 9646260280, DCN2, DWLC12",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-PARTNER-1.9-D-LUCAS-R04080026D%2C-PSA-9641390180%2C-SOFT-9646260280%2C-DCN2%2C-DWLC12/36798",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "2B6A-616ED_20130705113413",
+    "sku": "2B6A-616ED_20130705113413",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT PARTNER 1.9 D LUCAS R04080026D, PSA 9641390180, SOFT 9646260280, DCN2, DWLC12</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2d7a1e764e37ce09b86d522eb799a076_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_107ad687b81650d0f936cdc9d616bcfd_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT PARTNER",
+      "ENGINE": "1.9 D",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "LUCAS R04080026D",
+      "NUMBER PARTS": "DWLC12",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:33:25.675Z",
+    "model": "mistral:7b",
+    "durationMs": 9675,
+    "priceIncrement": 100
+  }
+}

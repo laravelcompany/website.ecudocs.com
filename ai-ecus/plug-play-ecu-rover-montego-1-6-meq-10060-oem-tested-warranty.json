@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Rover Montego 1.6 MEQ 10060, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-rover-montego-1-6-meq-10060-oem-tested-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Rover Montego 1.6 MEQ 10060, tested and covered by a 6-month warranty. Fast EU shipping.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Rover Montego 1.6 MEQ 10060",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover Montego MEQ10060"
+  ],
+  "description": "<section class=\"overview\">This Oryginal ECU Engine Controller for Rover Montego 1.6 MEQ 10060 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>ROVER MONTEGO</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>YEAR</th><td>1984-1989</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MEQ10060</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">EU shipping, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER MONTEGO 1.6 MEQ 10060, MEQ10060",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-MONTEGO-1.6-MEQ-10060%2C-MEQ10060-/51169",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "9B80-786B4_20140206125310",
+    "sku": "9B80-786B4_20140206125310",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER MONTEGO 1.6 MEQ 10060, MEQ10060 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8f5701882975a184138d6def00755746_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_41ed06e671a082dd8c2673f494fbd98e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1e6b4d25fdc2def266efd929017a2095_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER MONTEGO",
+      "ENGINE": "1.6",
+      "YEAR": "1984-1989",
+      "NUMBER PARTS": "MEQ10060",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:36:52.078Z",
+    "model": "mistral:7b",
+    "durationMs": 10067,
+    "priceIncrement": 100
+  }
+}

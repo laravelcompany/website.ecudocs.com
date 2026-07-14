@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - VW Polo 1.4 Bosch 0 261 207 229, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-vw-polo-14-bosch-0261207229-tested",
+  "metaDescription": "OEM tested ECU replacement for VW Polo 1.4 with Plug & Play feature, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for VW Polo 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "VW Polo",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is specifically designed for VW Polo 1.4 engines, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play feature for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition, original part</li>\n        <li>Ready for programming if locked</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SEAT, VW VOLKSWAGEN POLO</td></tr>\n        <tr><th>ENGINE:</th><td>1.4</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 207 229</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>6K0 906 032 AD</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with VW Polo 1.4 engines only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT, VW VOLKSWAGEN POLO 1.4, BOSCH 0 261 207 229, 0261207229, 6K0 906 032 AD, 6K0906032AD",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT%2C-VW-VOLKSWAGEN-POLO-1.4%2C-BOSCH-0-261-207-229%2C-0261207229%2C-6K0-906-032-AD%2C-6K0906032AD/41737",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5EA8-46247",
+    "sku": "5EA8-46247",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT, VW VOLKSWAGEN POLO 1.4, BOSCH 0 261 207 229, 0261207229, 6K0 906 032 AD, 6K0906032AD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT, VW VOLKSWAGEN POLO",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 229",
+      "NUMBER PARTS": "6K0 906 032 AD",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:16:14.842Z",
+    "model": "mistral:7b",
+    "durationMs": 8903,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford 1.5 TDCI Bosch 0281032349 DA6A-12A650-ME, Warranty Included",
+  "slug": "plug-play-ecu-ford-1-5-tdci-bosch-0281032349-warranty",
+  "metaDescription": "Buy a Plug & Play OEM tested ECU Engine Controller for Ford 1.5 TDCI by Bosch, covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU replacement for Ford 1.5 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford 1.5 TDCI",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU Engine Controller is a reliable replacement for Ford 1.5 TDCI engines.</section>\n<section class=\"features\"><ul><li>Tested and inspected by certified technicians</li><li>6-month warranty</li><li>Compatible with Plug & Play, Locked, or Ready for programming options</li><li>Original part in good condition</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FORD</td><td>1.5 TDCI</td><td>BOSCH 0 281 032 349</td><td>DA6A-12A650-ME</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle model and year, please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 1.5 TDCI 0281032349 DA6A-12A650-ME, DA6A12A650ME",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-1.5-TDCI-0281032349-DA6A-12A650-ME%2C-DA6A12A650ME/112513",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8AE0-7830A_20190307133343",
+    "sku": "8AE0-7830A_20190307133343",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 1.5 TDCI 0281032349 DA6A-12A650-ME, DA6A12A650ME</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_226417_0_0/ECU-ENGINE-CONTROLLER-FORD-1.5-TDCI-BOSCH-0-281-032-349%2C-0281032349%2C-DAGA-12A650-ME%2C-DAGA12A650ME.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_226418_0_0/ECU-ENGINE-CONTROLLER-FORD-1.5-TDCI-BOSCH-0-281-032-349%2C-0281032349%2C-DAGA-12A650-ME%2C-DAGA12A650ME.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "ENGINE": "1.5 TDCI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 032 349",
+      "NUMBER PARTS": "DAGA-12A650-ME",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:44:02.104Z",
+    "model": "mistral:7b",
+    "durationMs": 9454,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Nissan Qashqai 2.0 DCI - Hitachi MEC93-410 B1 7212",
+  "slug": "oem-tested-plug-play-ecu-replacement-for-nissan-qashqai-20-dci-hitachi-mec93-410",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Nissan Qashqai 2.0 DCI by Hitachi. Ships within 24–48 hours, backed by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Nissan Qashqai 2.0 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Qashqai",
+    "Hitachi MEC93-410 B1 7212"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Nissan Qashqai 2.0 DCI is a reliable solution, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN QASHQAI</td></tr>\n        <tr><th>ENGINE</th><td>2.0 DCI</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MEC93-410 B1 7212</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Nissan Qashqai 2.0 DCI. Fitment caution may apply, verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN QASHQAI 2.0 DCI MEC93410 A2, MEC93-410 B1 7212",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-QASHQAI-2.0-DCI-MEC93410-A2%2C-MEC93-410-B1-7212-/31864",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "CA1C-634E2",
+    "sku": "CA1C-634E2",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN QASHQAI 2.0 DCI MEC93410 A2, MEC93-410 B1 7212 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN QASHQAI",
+      "ENGINE": "2.0 DCI",
+      "NUMBER PARTS": "MEC93-410 B1 7212",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:42:01.230Z",
+    "model": "mistral:7b",
+    "durationMs": 9168,
+    "priceIncrement": 100
+  }
+}

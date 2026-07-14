@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for FIAT ULYSSE 2.0 JTD BOSCH 0281011031 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-ulysse-20-jtd-bosch-0281011031-tested",
+  "metaDescription": "Find the perfect fit with our Plug & Play ECU Replacement for FIAT ULYSSE 2.0 JTD BOSCH 0281011031, tested and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT ULYSSE 2.0 JTD BOSCH 0281011031",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT ULYSSE",
+    "BOSCH 0281011031"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU replacement for your FIAT ULYSSE 2.0 JTD engine ensures optimal performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT ULYSSE</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 JTD</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 011 031</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>EDC15C2 58</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT ULYSSE 2.0 JTD BOSCH 0281011031, 0 281 011 031, 9646719080, 96 467 190 80, 9640938180 EDC15C2 58",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-ULYSSE-2.0-JTD-BOSCH-0281011031%2C-0-281-011-031%2C-9646719080%2C-96-467-190-80%2C-9640938180-EDC15C2-58-/16627",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B032-1826B",
+    "sku": "B032-1826B",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT ULYSSE 2.0 JTD BOSCH 0281011031, 0 281 011 031, 9646719080, 96 467 190 80, 9640938180 EDC15C2 58 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4a2f8ef5d25ad16332bbc7ee6e2fc790_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1436c791e22cc8cc8f38f0c3411af9e9_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT ULYSSE",
+      "ENGINE": "2.0 JTD",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 031",
+      "NUMBER PARTS": "EDC15C2 58",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:38:29.656Z",
+    "model": "mistral:7b",
+    "durationMs": 11295,
+    "priceIncrement": 100
+  }
+}

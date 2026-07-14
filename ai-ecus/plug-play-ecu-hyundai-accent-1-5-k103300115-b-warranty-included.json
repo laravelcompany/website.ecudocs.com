@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Hyundai Accent 1.5 K103300115 B, Warranty Included",
+  "slug": "plug-play-ecu-hyundai-accent-1-5-k103300115-b-warranty-included",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Hyundai Accent 1.5 K103300115 B with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€275.00",
+  "excerpt": "OEM tested Plug & Play ECU for Hyundai Accent 1.5 K103300115 B",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai Accent",
+    "1.5 engine",
+    "K103300115 B"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is suitable for Hyundai Accent 1.5 K103300115 B.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used but in good condition</li>\n        <li>Compatible with 1.3 and 1.5 engines</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>HYUNDAI ACCENT</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3, 1.5</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1996</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>K103300115 B</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>39110-22461, 3911022461</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Hyundai Accent 1996 1.3 and 1.5 engines. Please ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI ACCENT 1.5 K103300115 B, 39100-22461, 3910022461, 39110-22461, 3911022461",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-ACCENT-1.5-K103300115-B%2C-39100-22461%2C-3910022461%2C-39110-22461%2C-3911022461/42327",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "72B0-72156",
+    "sku": "72B0-72156",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI ACCENT 1.5 K103300115 B, 39100-22461, 3910022461, 39110-22461, 3911022461</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI ACCENT",
+      "ENGINE": "1.3 1.5",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "K103300115 B",
+      "NUMBER PARTS": "39110-22461",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:33:32.774Z",
+    "model": "mistral:7b",
+    "durationMs": 14179,
+    "priceIncrement": 100
+  }
+}

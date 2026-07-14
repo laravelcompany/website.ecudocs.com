@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Peugeot 307 2.0 HDI - OEM Tested Siemens SID 801A 5WS40045B-T, Warranty Included",
+  "slug": "plug-play-ecu-peugeot-307-20-hdi-siemens-sid-801a-5ws40045bt-warranty",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Peugeot 307 2.0 HDI by Siemens, Plug & Play, 6-month warranty, fast dispatch within EU.",
+  "price": "€87.00",
+  "excerpt": "OEM Tested ECU Replacement for Peugeot 307 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens SID 801A",
+    "Peugeot 307 2.0 HDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Peugeot 307 2.0 HDI by Siemens ensures seamless vehicle operation and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch within EU</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 307</td></tr>\n        <tr><th>ENGINE</th><td>2.0 HDI</td></tr>\n        <tr><th>YEAR</th><td>2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS SID 801 A 5WS40045B-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HW 96 474 233 80</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 307 2.0 HDI SIEMENS SID 801A 5WS40045B-T, 5WS40045BT SW9650517980 9650517980 HW9647423380 9647423380",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-307-2.0-HDI-SIEMENS-SID-801A-5WS40045B-T%2C-5WS40045BT-SW9650517980-9650517980-HW9647423380-9647423380-/16864",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "9E56-817BB",
+    "sku": "9E56-817BB",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 307 2.0 HDI SIEMENS SID 801A 5WS40045B-T, 5WS40045BT SW9650517980 9650517980 HW9647423380 9647423380 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 307",
+      "ENGINE": "2.0 HDI",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "SIEMENS SID 801 A 5WS40045B-T",
+      "NUMBER PARTS": "HW 96 474 233 80",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:08:06.154Z",
+    "model": "mistral:7b",
+    "durationMs": 9710,
+    "priceIncrement": 100
+  }
+}

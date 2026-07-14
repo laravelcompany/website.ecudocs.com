@@ -1,0 +1,47 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller BMW ATC300 - 6-month Warranty, ECU Replacement",
+  "slug": "plug-play-ecu-bmw-atc300-oem-tested-used-oryiginal-good-condition",
+  "metaDescription": "Expertly tested and OEM BMW ATC300 ECU replacement. Plug & Play, 6-month warranty, fast dispatch within EU.",
+  "price": "€210.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for BMW",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW ATC300",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller for BMW is a reliable replacement solution for your vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>Original, used in good condition</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by certified technician</li>\n        <li>Fast dispatch within EU</li>\n        <li>Compatible with BMW vehicles (2007 model year)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER PARTS</th><td>ATC300</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW SIEMENS ATC300 2710 7567803-01, 2710756780301, 756780301, S97238-Q3291-A1-19, S97238Q3291A119",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-SIEMENS-ATC300-2710-7567803-01%2C-2710756780301%2C-756780301%2C-S97238-Q3291-A1-19%2C-S97238Q3291A119/61041",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "3559-533D2_20140724104751",
+    "sku": "3559-533D2_20140724104751",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW SIEMENS ATC300 2710 7567803-01, 2710756780301, 756780301, S97238-Q3291-A1-19, S97238Q3291A119</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW",
+      "YEAR": "2007",
+      "NUMBER PARTS": "ATC300",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:49:51.187Z",
+    "model": "mistral:7b",
+    "durationMs": 8551,
+    "priceIncrement": 100
+  }
+}

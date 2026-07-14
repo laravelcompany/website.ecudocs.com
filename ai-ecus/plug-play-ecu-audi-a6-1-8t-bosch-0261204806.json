@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Audi A6 1.8T Turbo - Bosch 0261204806",
+  "slug": "plug-play-ecu-audi-a6-1-8t-bosch-0261204806",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Audi A6 1.8T Turbo (Bosch 0261204806) with 6-month warranty. Fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "OEM tested Plug & Play ECU for Audi A6 1.8T Turbo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "1.8T Turbo",
+    "Bosch 0261204806"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Audi A6 1.8T Turbo ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Ready for programming</li><li>6-month Warranty</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>AUDI A6</td><td>1.8T 1.8 TURBO</td><td>1998</td><td>BOSCH 0 261 204 806</td><td>BENZIN D03</td><td>Plug & Play / Locked</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 1.8T 1.8 TURBO 4B0907557B, 4B0 907 557 B, BOSCH 0261204806, 0 261 204 806 BENZIN D03 26SA5412",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-1.8T-1.8-TURBO-4B0907557B%2C-4B0-907-557-B%2C-BOSCH-0261204806%2C-0-261-204-806-BENZIN-D03-26SA5412/14194",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A0FD-576BE",
+    "sku": "A0FD-576BE",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 1.8T 1.8 TURBO 4B0907557B, 4B0 907 557 B, BOSCH 0261204806, 0 261 204 806 BENZIN D03 26SA5412</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "1.8T 1.8 TURBO",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 806",
+      "NUMBER PARTS": "BENZIN D03",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:27:23.957Z",
+    "model": "mistral:7b",
+    "durationMs": 9812,
+    "priceIncrement": 100
+  }
+}

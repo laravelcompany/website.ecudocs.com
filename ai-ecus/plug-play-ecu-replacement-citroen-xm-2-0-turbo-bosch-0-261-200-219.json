@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - CITROEN XM 2.0 TURBO BOSCH 0 261 200 219, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-citroen-xm-2-0-turbo-bosch-0-261-200-219",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Citroen XM 2.0 Turbo, OEM tested and covered by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen XM 2.0 Turbo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen XM",
+    "Bosch",
+    "2.0 TURBO"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for your Citroen XM 2.0 Turbo, ensuring optimal engine performance and reliability.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>6-month Warranty</li><li>Plug & Play</li><li>Ready for programming</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>CITROEN XM</td></tr><tr><th>ENGINE</th><td>2.0 TURBO</td></tr><tr><th>YEAR</th><td>1992-1994</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 200 219</td></tr><tr><th>NUMBER PARTS</th><td>9609565480</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen XM 2.0 Turbo. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN XM 2.0 TURBO BOSCH 0 261 200 219, 0261200219, 9609565480",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-XM-2.0-TURBO-BOSCH-0-261-200-219%2C-0261200219%2C-9609565480/40041",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6FB7-406C1_20130817151059",
+    "sku": "6FB7-406C1_20130817151059",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN XM 2.0 TURBO BOSCH 0 261 200 219, 0261200219, 9609565480</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN XM",
+      "ENGINE": "2.0 TURBO",
+      "YEAR": "1992-1994",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 200 219",
+      "NUMBER PARTS": "9609565480",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:42:09.278Z",
+    "model": "mistral:7b",
+    "durationMs": 8836,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W211 Bosch 0 281 011 158, A 646 153 20 79, CR3.13 - OEM Tested & 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w211-bosch-0281011158-tested",
+  "metaDescription": "OEM tested Plug & Play ECU replacement for Mercedes W211 with a 6-month warranty. Fast dispatch and EU shipping.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W211",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W211",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement is tested and OEM certified for Mercedes W211. It comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W211</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 158</td></tr>\n        <tr><th>NUMBER PARTS</th><td>CR3.13</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours and EU wide with a 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W211. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W211 BOSCH 0 281 011 158, 0281011158, A 646 153 20 79, A6461532079, CR3.13",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W211-BOSCH-0-281-011-158%2C-0281011158%2C-A-646-153-20-79%2C-A6461532079%2C-CR3.13/108788",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0C6B-931AC_20180130150651",
+    "sku": "0C6B-931AC_20180130150651",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W211 BOSCH 0 281 011 158, 0281011158, A 646 153 20 79, A6461532079, CR3.13</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_3813b5287513558519ce90c0412ec974_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e889f1cc2b1741a0dddb246e6befebcf_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W211",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 158",
+      "NUMBER PARTS": "CR3.13",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:32:54.481Z",
+    "model": "mistral:7b",
+    "durationMs": 8586,
+    "priceIncrement": 100
+  }
+}

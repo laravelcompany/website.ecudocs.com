@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes A200 2.0 CDI - OEM Tested BOSCH 0281013022, Warranty Included",
+  "slug": "plug-play-ecu-replacement-mercedes-a200-20-cdi-oem-tested-bosch-0281013022",
+  "metaDescription": "Buy OEM tested ECU engine controller for Mercedes A200 2.0 CDI (6401507279, A 640 150 72 79). Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€480.00",
+  "excerpt": "OEM tested ECU replacement for Mercedes A200 2.0 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes A200",
+    "BOSCH 0281013022"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for Mercedes A200 2.0 CDI is a direct replacement, ensuring seamless integration and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play design</li>\n      <li>OEM tested by certified technicians</li>\n      <li>6-month warranty</li>\n      <li>Direct replacement for Mercedes A200 2.0 CDI</li>\n      <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL:</th><td>MERCEDES 2169 A200</td></tr>\n      <tr><th>ENGINE:</th><td>2.0 CDI</td></tr>\n      <tr><th>YEAR:</th><td>2005-2006</td></tr>\n      <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH  0 281 013 022</td></tr>\n      <tr><th>NUMBER PARTS:</th><td>6401507279</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU engine controller is designed for Mercedes A200 2.0 CDI (6401507279, A 640 150 72 79). Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES 2169 A200 2.0 CDI A6401507279, 6401507279, A 640 150 72 79 BOSCH 0281013022, 0 281 013 022",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-2169-A200-2.0-CDI-A6401507279%2C-6401507279%2C-A-640-150-72-79-BOSCH-0281013022%2C-0-281-013-022/28311",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "865D-359DB_20120824175119",
+    "sku": "865D-359DB_20120824175119",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES 2169 A200 2.0 CDI A6401507279, 6401507279, A 640 150 72 79 BOSCH 0281013022, 0 281 013 022</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_64902de1f0e7edcee163ba8cae6a1d1b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0c3178e55a608830646f052ac1e3cb85_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES 2169 A200",
+      "ENGINE": "2.0 CDI",
+      "YEAR": "2005-2006",
+      "NUMBER MANUFACTURER": "BOSCH  0 281 013 022",
+      "NUMBER PARTS": "6401507279",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:07:04.585Z",
+    "model": "mistral:7b",
+    "durationMs": 11679,
+    "priceIncrement": 100
+  }
+}

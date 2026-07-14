@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Opel Astra F 1.6 - 16198329 RE, BJMC - OEM Tested & Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-opel-astra-f-1-6-16198329-re-bjmc-tested",
+  "metaDescription": "Buy this Plug & Play ECU Engine Controller for Opel Astra F 1.6, 16198329 RE, BJMC. OEM tested and covered by a 6-month warranty.",
+  "price": "€60.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra F 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra F",
+    "1.6 Engine",
+    "16198329 RE",
+    "BJMC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU engine controller is a reliable replacement for your Opel Astra F 1.6.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Compatible with Opel Astra F 1.6</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><td>BRAND AND MODEL</td><td>OPEL ASTRA F</td></tr>\n        <tr><td>ENGINE</td><td>1.6</td></tr>\n        <tr><td>YEAR</td><td>1993-1996</td></tr>\n        <tr><td>NUMBER MANUFACTURER</td><td>16198329 RE</td></tr>\n        <tr><td>NUMBER PARTS</td><td>BJMC</td></tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra F 1.6. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA F 1.6, 16198329 RE, 16198329RE, BJMC",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-F-1.6%2C-16198329-RE%2C-16198329RE%2C-BJMC/36793",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "A3A0-5177C_20130705110227",
+    "sku": "A3A0-5177C_20130705110227",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA F 1.6, 16198329 RE, 16198329RE, BJMC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA F",
+      "ENGINE": "1.6",
+      "YEAR": "1993-1996",
+      "NUMBER MANUFACTURER": "16198329 RE",
+      "NUMBER PARTS": "BJMC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:08:31.825Z",
+    "model": "mistral:7b",
+    "durationMs": 9761,
+    "priceIncrement": 100
+  }
+}

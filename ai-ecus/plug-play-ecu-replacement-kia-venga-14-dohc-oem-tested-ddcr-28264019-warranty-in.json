@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - KIA VENGA 1.4 DOHC OEM Tested - DDCR 28264019 - Warranty Included",
+  "slug": "plug-play-ecu-replacement-kia-venga-14-dohc-oem-tested-ddcr-28264019-warranty-in",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for KIA VENGA 1.4 DOHC, OEM tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for KIA VENGA 1.4 DOHC",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA VENGA",
+    "1.4 DOHC",
+    "DDCR 28264019"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for KIA VENGA 1.4 DOHC is a reliable solution to your engine control issues, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>KIA VENGA</td></tr>\n        <tr><th>ENGINE</th><td>1.4 DOHC</td></tr>\n        <tr><th>YEAR</th><td>2008</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DDCR 28264019</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, 12-month warranty applicable.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA VENGA 1.4 DOHC 39130-2A360, 391302A360, DDCR 28264019",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-VENGA-1.4-DOHC-39130-2A360%2C-391302A360%2C-DDCR-28264019/56020",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "E0C9-55281_20140514100521",
+    "sku": "E0C9-55281_20140514100521",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA VENGA 1.4 DOHC 39130-2A360, 391302A360, DDCR 28264019</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA VENGA",
+      "ENGINE": "1.4 DOHC",
+      "YEAR": "2008",
+      "NUMBER PARTS": "DDCR 28264019",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:29:06.839Z",
+    "model": "mistral:7b",
+    "durationMs": 9854,
+    "priceIncrement": 100
+  }
+}

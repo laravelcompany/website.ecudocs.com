@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Citroen C0261S04 Engine Controller - Bosch 9665742680 MED17.4",
+  "slug": "oem-tested-plug-play-ecu-replacement-citroen-c0261s04-bosch-9665742680-med174",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Citroen C0261S04 Engine Controller by Bosch. Ships within 24–48 hours, backed by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Citroen C0261S04 Engine Controller",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C0261S04",
+    "Bosch 9665742680 MED17.4"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement for Citroen C0261S04 Engine Controller by Bosch ensures seamless engine operation and is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n  <ul>\n    <li>OEM Tested</li>\n    <li>Plug & Play</li>\n    <li>6-month Warranty</li>\n    <li>Complet Option Available</li>\n    <li>Used, Origional in Good Condition</li>\n  </ul>\n</section>\n<section class=\"specs\">\n  <table>\n    <thead>\n      <tr>\n        <th>Specification</th>\n        <th>Value</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td>PARTS</td>\n        <td>ECU ENGINE CONTROLLER</td>\n      </tr>\n      <tr>\n        <td>BRAND AND MODEL</td>\n        <td>CITROEN</td>\n      </tr>\n      <tr>\n        <td>NUMBER MANUFACTURER</td>\n        <td>0 261 S04 626</td>\n      </tr>\n      <tr>\n        <td>NUMBER PARTS</td>\n        <td>9665742680 MED17.4</td>\n      </tr>\n    </tbody>\n  </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN 0 261 S04 626 0261S04626 9665742680 MED17.4",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-0-261-S04-626-0261S04626-9665742680-MED17.4/131729",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "CC1B-894A5_20220801111544",
+    "sku": "CC1B-894A5_20220801111544",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN 0 261 S04 626 0261S04626 9665742680 MED17.4</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_279175_0_0/KOMPUTER-STEROWNIK-SILNIKA-CITROEN-0-261-S04-626-0261S04626-9665742680-MED17.4.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_272851_0_0/CITROEN-0-261-S04-626-0261S04626-9665742680-MED17.4.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_272852_0_0/CITROEN-0-261-S04-626-0261S04626-9665742680-MED17.4.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN",
+      "NUMBER MANUFACTURER": "0 261 S04 626",
+      "NUMBER PARTS": "9665742680 MED17.4",
+      "OPTION AVAILABLE": "complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:15:56.749Z",
+    "model": "mistral:7b",
+    "durationMs": 10551,
+    "priceIncrement": 100
+  }
+}

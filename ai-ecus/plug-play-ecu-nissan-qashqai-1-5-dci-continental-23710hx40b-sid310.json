@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Nissan Qashqai 1.5 DCI - Continental 23710HX40B SID310",
+  "slug": "plug-play-ecu-nissan-qashqai-1-5-dci-continental-23710hx40b-sid310",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Nissan Qashqai 1.5 DCI by Continental (23710HX40B, SID310). 6-month warranty. Fast dispatch.",
+  "price": "€480.00",
+  "excerpt": "OEM tested Plug & Play ECU replacement for Nissan Qashqai 1.5 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Qashqai",
+    "1.5 DCI",
+    "Continental",
+    "23710HX40B",
+    "SID310"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for Nissan Qashqai 1.5 DCI by Continental (part numbers: 23710HX40B, SID310) is thoroughly inspected and tested by a certified technician to ensure optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming if locked</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>NISSAN QASHQAI</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.5 DCI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>23710HX40B</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>SID310</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Nissan Qashqai 1.5 DCI. Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN QASHQAI 1.5 DCI 23710HX40B, A2C96315800, SID310",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-QASHQAI-1.5-DCI-23710HX40B%2C-A2C96315800%2C-SID310/108812",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "7374-616C2_20180131141416",
+    "sku": "7374-616C2_20180131141416",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN QASHQAI 1.5 DCI 23710HX40B, A2C96315800, SID310</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c12084670c4cb08cb72a278c96da2de0_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0d46708b7f585b705d59aafe51a008d3_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN QASHQAI",
+      "ENGINE": "1.5 DCI",
+      "NUMBER MANUFACTURER": "23710HX40B",
+      "NUMBER PARTS": "SID310",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:38:55.157Z",
+    "model": "mistral:7b",
+    "durationMs": 12032,
+    "priceIncrement": 100
+  }
+}

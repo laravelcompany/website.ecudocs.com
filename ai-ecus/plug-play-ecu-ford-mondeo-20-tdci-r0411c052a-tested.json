@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Mondeo 2.0 16V TDCI (R0411C052A) - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-20-tdci-r0411c052a-tested",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Ford Mondeo 2.0 16V TDCI (R0411C052A). Enjoy fast dispatch within EU, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU replacement for Ford Mondeo 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.0 TDCI",
+    "R0411C052A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU replacement for Ford Mondeo 2.0 16V TDCI (R0411C052A) ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>2.0 16V TDCI</td></tr>\n        <tr><th>YEAR</th><td>2006</td></tr>\n        <tr><th>NUMBER PARTS</th><td>R0411C052A</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 6S71-12A650-FA, 6S7112A650FA, 28048630, R0411C052A",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-6S71-12A650-FA%2C-6S7112A650FA%2C-28048630%2C-R0411C052A/59062",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "F7D1-216A6_20140620095559",
+    "sku": "F7D1-216A6_20140620095559",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 6S71-12A650-FA, 6S7112A650FA, 28048630, R0411C052A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_6dfefc92f8dc44a7350054b972206c85_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_dedda7407bfacc1bf845c122a3010d5c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 16V TDCI",
+      "YEAR": "2006",
+      "NUMBER PARTS": "R0411C052A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:48:18.458Z",
+    "model": "mistral:7b",
+    "durationMs": 10676,
+    "priceIncrement": 100
+  }
+}

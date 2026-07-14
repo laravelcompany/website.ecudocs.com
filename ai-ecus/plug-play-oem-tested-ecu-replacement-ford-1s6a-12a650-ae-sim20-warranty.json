@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford - 1S6A-12A650-AE, SIM20 - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-1s6a-12a650-ae-sim20-warranty",
+  "metaDescription": "Buy a Plug & Play OEM tested ECU Engine Controller for Ford, model 1S6A-12A650-AE, SIM20. This used original part in good condition comes with a 6-month warranty and is ready for immediate dispatch.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford ECU",
+    "OEM part numbers",
+    "Siemens"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Ford is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used original part in good condition</li>\n        <li>Fast dispatch within 24–48 hours</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD, 1S6A-12A650-AE</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIM20</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford vehicles. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 1S6A-12A650-AE, 1S6A12A650AE, S110678003E, SIM20",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-1S6A-12A650-AE%2C-1S6A12A650AE%2C-S110678003E%2C-SIM20/124201",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "8B14-684ED_20210226152947",
+    "sku": "8B14-684ED_20210226152947",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 1S6A-12A650-AE, 1S6A12A650AE, S110678003E, SIM20</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "1S6A-12A650-AE",
+      "NUMBER PARTS": "SIM20",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:49:51.568Z",
+    "model": "mistral:7b",
+    "durationMs": 10033,
+    "priceIncrement": 100
+  }
+}

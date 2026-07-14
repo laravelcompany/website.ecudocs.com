@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen, Peugeot 306 2.0 HDI - Bosch 0 281 010 031, Warranty Included",
+  "slug": "plug-play-ecu-citroen-peugeot-306-2-0-hdi-bosch-0-281-010-031-warranty",
+  "metaDescription": "OEM tested Plug & Play ECU Engine Controller for Citroen, Peugeot 306 2.0 HDI by Bosch (0 281 010 031). Replacement unit in good condition, backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen, Peugeot 306 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen 306",
+    "Peugeot 306",
+    "2.0 HDI",
+    "Bosch 0 281 010 031"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a direct replacement for Citroen, Peugeot 306 2.0 HDI models. It ensures seamless integration and reliability.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Direct Replacement</li><li>Reliable Performance</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>CITROEN, PEUGEOT 306</td></tr><tr><th>ENGINE</th><td>2.0 HDI</td></tr><tr><th>NUMBER PARTS</th><td>EDC15C2 13</td></tr><tr><th>OPTION AVAILABLE</th><td>complet</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Citroen and Peugeot 306 models equipped with a 2.0 HDI engine. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN, PEUGEOT 306 2.0 HDI, BOSCH 0 281 010 031, 0281010031, 96 351 582 80, 9635158280, EDC15C2 13",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN%2C-PEUGEOT-306-2.0-HDI%2C-BOSCH-0-281-010-031%2C-0281010031%2C-96-351-582-80%2C-9635158280%2C-EDC15C2-13/55873",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3047-6339B_20140513095442",
+    "sku": "3047-6339B_20140513095442",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN, PEUGEOT 306 2.0 HDI, BOSCH 0 281 010 031, 0281010031, 96 351 582 80, 9635158280, EDC15C2 13</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN, PEUGEOT 306",
+      "ENGINE": "2.0 HDI",
+      "NUMBER PARTS": "EDC15C2 13",
+      "OPTION AVAILABLE": "complet",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:52:11.757Z",
+    "model": "mistral:7b",
+    "durationMs": 10740,
+    "priceIncrement": 100
+  }
+}

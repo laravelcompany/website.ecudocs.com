@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Rover 25 45 MG ZR 2.0 BOSCH 0281001956, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-rover-25-45-mg-zr-20-bosch-0281001956-tested",
+  "metaDescription": "OEM tested ECU replacement for Rover 25 45 MG ZR 2.0 BOSCH 0281001956, Plug & Play, 6-month warranty.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU replacement for Rover 25 45 MG ZR 2.0 BOSCH.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 25 45 MG ZR",
+    "Bosch 0281001956",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Rover 25 45 MG ZR 2.0 BOSCH 0281001956 is a reliable solution for your vehicle's engine control system.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Compatible with Rover 25 45 MG ZR 2.0</li>\n        <li>Bosch MSB101150 YL part number</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>ROVER 25 45 MG ZR</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>YEAR</th><td>1999-2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 956</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MSB101150 YL</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Rover 25 45 MG ZR 2.0 BOSCH and may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 25 45 MG ZR 2.0 BOSCH 0281001956, 0 281 001 956, YL MSB101150",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-25-45-MG-ZR-2.0-BOSCH-0281001956%2C-0-281-001-956%2C-YL-MSB101150/16975",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "BC32-57399",
+    "sku": "BC32-57399",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 25 45 MG ZR 2.0 BOSCH 0281001956, 0 281 001 956, YL MSB101150</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 25 45 MG ZR",
+      "ENGINE": "2.0",
+      "YEAR": "1999-2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 956",
+      "NUMBER PARTS": "MSB101150 YL",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:31:34.009Z",
+    "model": "mistral:7b",
+    "durationMs": 10531,
+    "priceIncrement": 100
+  }
+}

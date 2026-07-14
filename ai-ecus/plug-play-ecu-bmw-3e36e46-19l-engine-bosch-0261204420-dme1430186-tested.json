@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW 3 E36 E46 1.9L Engine Bosch 0 261 204 420, DME 1 430 186, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-bmw-3e36e46-19l-engine-bosch-0261204420-dme1430186-tested",
+  "metaDescription": "OEM tested ECU replacement for BMW 3 E36 E46 1.9L engine, Plug & Play, 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM tested ECU replacement for BMW 3 E36 E46 1.9L engine.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 261 204 420",
+    "DME 1 430 186",
+    "BMW 3 E36 E46"
+  ],
+  "description": "<section class=\"overview\">This ECU engine controller is a direct replacement for BMW 3 E36 E46 1.9L engines, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month warranty</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>BMW 3 E36 E46</td></tr>\n        <tr><th>ENGINE:</th><td>1.9 L</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 204 420</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>DME 1 430 186</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW 3 E36 E46 BOSCH 0 261 204 420, 0261204420, DME 1 430 186, DME1430186, 1430186",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-3-E36-E46-BOSCH-0-261-204-420%2C-0261204420%2C-DME-1-430-186%2C-DME1430186%2C-1430186/71619",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D629-73296_20150113142724",
+    "sku": "D629-73296_20150113142724",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW 3 E36 E46 BOSCH 0 261 204 420, 0261204420, DME 1 430 186, DME1430186, 1430186</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW 3 E36 E46",
+      "ENGINE": "1.9 L",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 420",
+      "NUMBER PARTS": "DME 1 430 186",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:09:44.580Z",
+    "model": "mistral:7b",
+    "durationMs": 10905,
+    "priceIncrement": 100
+  }
+}

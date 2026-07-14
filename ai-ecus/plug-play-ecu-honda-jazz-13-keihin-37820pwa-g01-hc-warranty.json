@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Honda Jazz 1.3 - Keihin 37820-PWA-G01, HC - 6-month Warranty",
+  "slug": "plug-play-ecu-honda-jazz-13-keihin-37820pwa-g01-hc-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Honda Jazz 1.3 by Keihin (37820-PWA-G01, HC). Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Honda Jazz 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Jazz",
+    "Keihin",
+    "37820-PWA-G01"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Honda Jazz 1.3 by Keihin (37820-PWA-G01, HC) ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested and certified</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty</li>\n        <li>Compatible with Honda Jazz 1.3</li>\n        <li>Original Keihin part number: 37820-PWA-G01, HC</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>HONDA JAZZ</td></tr>\n        <tr><th>ENGINE</th><td>1.3</td></tr>\n        <tr><th>YEAR</th><td>2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>37820-PWA-G01</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HC</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery and a 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment before installation. Consult a professional technician if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA JAZZ 1.3 37820-PWA-G01, 37820PWAG01, 2153-112151, 2153112151, HC",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-JAZZ-1.3-37820-PWA-G01%2C-37820PWAG01%2C-2153-112151%2C-2153112151%2C-HC-/42696",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Keihin",
+    "productCode": "0A99-9039F",
+    "sku": "0A99-9039F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA JAZZ 1.3 37820-PWA-G01, 37820PWAG01, 2153-112151, 2153112151, HC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_181411c817a058ae644fe28239abc115_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_be0f1fadccddde9bb1f96ac3afb1df80_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_60c3c8d97692d06b36d6135ad69be647_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA JAZZ",
+      "ENGINE": "1.3",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "37820-PWA-G01",
+      "NUMBER PARTS": "HC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:25:10.439Z",
+    "model": "mistral:7b",
+    "durationMs": 9961,
+    "priceIncrement": 100
+  }
+}

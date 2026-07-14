@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM ECU Replacement Toyota - 89661-42J40, 8966142J40, 275900-5001, 2759005001",
+  "slug": "plug-play-oem-ecu-replacement-toyota-89661-42j40-8966142j40-275900-5001-27590050",
+  "metaDescription": "Buy Plug & Play OEM ECU Replacement for Toyota - tested, 6-month warranty, fast dispatch. Expertly inspected and ready for installation.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Toyota",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota ECU",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Replacement for Toyota is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>TOYOTA</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>275900-5001</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>89661-42J40</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Toyota vehicles. Fitment caution: Always consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA 89661-42J40, 8966142J40, 275900-5001, 2759005001",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-89661-42J40%2C-8966142J40%2C-275900-5001%2C-2759005001/105293",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "A18B-99512_20170526145852",
+    "sku": "A18B-99512_20170526145852",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA 89661-42J40, 8966142J40, 275900-5001, 2759005001</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA",
+      "NUMBER MANUFACTURER": "275900-5001",
+      "NUMBER PARTS": "89661-42J40",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:09:27.919Z",
+    "model": "mistral:7b",
+    "durationMs": 12220,
+    "priceIncrement": 100
+  }
+}

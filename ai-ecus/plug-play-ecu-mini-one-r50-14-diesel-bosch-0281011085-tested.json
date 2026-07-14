@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - MINI ONE R50 1.4 Diesel Bosch 0281011085, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-mini-one-r50-14-diesel-bosch-0281011085-tested",
+  "metaDescription": "Buy a tested and Plug & Play ECU Engine Controller for MINI ONE R50 1.4 Diesel, covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for MINI ONE R50 1.4 Diesel",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281011085",
+    "MINI ONE R50",
+    "1.4 Diesel"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for MINI ONE R50 1.4 Diesel is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Locked or Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MINI ONE R50</td></tr>\n        <tr><th>ENGINE</th><td>1.4 DIESEL</td></tr>\n        <tr><th>YEAR</th><td>2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 085</td></tr>\n        <tr><th>NUMBER PARTS</th><td>7 792 544</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MINI ONE R50 1.4 DIESEL BOSCH 0281011085, 0 281 011 085, DDE 7792544, 7 792 544",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MINI-ONE-R50-1.4-DIESEL-BOSCH-0281011085%2C-0-281-011-085%2C-DDE-7792544%2C-7-792-544/26925",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7AF7-668BE_20120726114831",
+    "sku": "7AF7-668BE_20120726114831",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MINI ONE R50 1.4 DIESEL BOSCH 0281011085, 0 281 011 085, DDE 7792544, 7 792 544</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9db503a9914b98a6bc38562f90aa1aab_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ce08f82927b952effa55c455d49da438_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MINI ONE R50",
+      "ENGINE": "1.4 DIESEL",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 085",
+      "NUMBER PARTS": "7 792 544",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:47:17.253Z",
+    "model": "mistral:7b",
+    "durationMs": 9630,
+    "priceIncrement": 100
+  }
+}

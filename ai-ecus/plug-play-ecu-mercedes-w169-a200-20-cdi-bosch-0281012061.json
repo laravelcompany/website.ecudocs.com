@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W169 A200 2.0 CDI OEM Bosch 0281012061",
+  "slug": "plug-play-ecu-mercedes-w169-a200-20-cdi-bosch-0281012061",
+  "metaDescription": "Buy a tested and warrantied Plug & Play ECU Engine Controller for Mercedes W169 A200 2.0 CDI (BOSCH 0281012061). Ships within 24-48 hours.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W169 A200 2.0 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W169 A200",
+    "Bosch 0281012061"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller is a direct replacement for Mercedes W169 A200 2.0 CDI (BOSCH 0281012061).</section>\n<section class=\"features\"><ul><li>Plug & Play compatibility</li><li>OEM tested and certified</li><li>6-month warranty</li><li>Fast dispatch within EU</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tbody><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>MERCEDES W169 A200</td></tr><tr><th>ENGINE</th><td>2.0 CDI</td></tr><tr><th>YEAR</th><td>2004</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281012061, 0 281 012 061</td></tr><tr><th>NUMBER PARTS</th><td>6401500879</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Ships within 24-48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mercedes W169 A200 2.0 CDI (BOSCH 0281012061). Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W169 A200 2.0 CDI A6401500879, 6401500879, A 640 150 08 79 BOSCH 0281012061, 0 281 012 061",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W169-A200-2.0-CDI-A6401500879%2C-6401500879%2C-A-640-150-08-79-BOSCH-0281012061%2C-0-281-012-061/28303",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "641F-19926_20120824171446",
+    "sku": "641F-19926_20120824171446",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W169 A200 2.0 CDI A6401500879, 6401500879, A 640 150 08 79 BOSCH 0281012061, 0 281 012 061</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W169 A200",
+      "ENGINE": "2.0 CDI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0281012061, 0 281 012 061",
+      "NUMBER PARTS": "6401500879",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:09:36.352Z",
+    "model": "mistral:7b",
+    "durationMs": 11390,
+    "priceIncrement": 100
+  }
+}

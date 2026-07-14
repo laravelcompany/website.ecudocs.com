@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford C-MAX 2010 (AV61-12A650-XC, S180127003 C, 3ELC) - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-c-max-2010-av61-12a650-xc-s180127003-c-3elc-warranty",
+  "metaDescription": "Expertly tested ECU ENGINE CONTROLLER for Ford C-MAX (AV61-12A650-XC, S180127003 C, 3ELC) in good condition. Plug & Play, 6-month warranty, and fast dispatch.",
+  "price": "€660.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford C-MAX 2010",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford C-MAX",
+    "AV61-12A650-XC",
+    "S180127003 C",
+    "3ELC"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU Replacement for Ford C-MAX (AV61-12A650-XC, S180127003 C, 3ELC) has been thoroughly inspected and tested by a certified technician. It offers a seamless installation process and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD C-MAX</td></tr>\n        <tr><th>YEAR</th><td>2010</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>AV61-12A650-XC</td></tr>\n        <tr><th>CODE</th><td>3ELC</td></tr>\n        <tr><th>NUMBER PARTS</th><td>S180127003 C</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford C-MAX 2010 (AV61-12A650-XC, S180127003 C, 3ELC).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD C-MAX AV61-12A650-XC, AV6112A650XC, 12A650XC, S180127003 C, 3ELC",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-C-MAX-AV61-12A650-XC%2C-AV6112A650XC%2C-12A650XC%2C-S180127003-C%2C-3ELC/40026",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "FoMoCo",
+    "productCode": "C634-28688_20130817150552",
+    "sku": "C634-28688_20130817150552",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD C-MAX AV61-12A650-XC, AV6112A650XC, 12A650XC, S180127003 C, 3ELC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD C-MAX",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "AV61-12A650-XC",
+      "CODE": "3ELC",
+      "NUMBER PARTS": "S180127003 C",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:04:45.215Z",
+    "model": "mistral:7b",
+    "durationMs": 11616,
+    "priceIncrement": 100
+  }
+}

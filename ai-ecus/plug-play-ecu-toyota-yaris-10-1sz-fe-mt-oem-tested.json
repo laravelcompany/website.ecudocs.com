@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Toyota Yaris 1.0 (1SZ-FE MT) - 6-month Warranty",
+  "slug": "plug-play-ecu-toyota-yaris-10-1sz-fe-mt-oem-tested",
+  "metaDescription": "Get a certified Plug & Play ECU Engine Controller for your Toyota Yaris 1.0 (1SZ-FE MT) in excellent condition, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Toyota Yaris 1.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Yaris",
+    "1SZ-FE MT",
+    "Fujitsu"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for your Toyota Yaris 1.0 (1SZ-FE MT) ensures seamless engine control and performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with 1999-2003 Toyota Yaris (1.0, 1SZ-FE MT)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>TOYOTA YARIS</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.0</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1999-2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>89661-52065</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1SZ-FE MT</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Toyota Yaris (1999-2003) equipped with a 1.0L engine and 1SZ-FE MT transmission.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA YARIS 1.0, 89661-52065, 8966152065, 211000-7215, 2110007215, 1SZ-FE MT",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-YARIS-1.0%2C-89661-52065%2C-8966152065%2C-211000-7215%2C-2110007215%2C-1SZ-FE-MT-/46782",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Fujitsu",
+    "productCode": "9679-30841",
+    "sku": "9679-30841",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA YARIS 1.0, 89661-52065, 8966152065, 211000-7215, 2110007215, 1SZ-FE MT </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA YARIS",
+      "ENGINE": "1.0",
+      "YEAR": "1999-2003",
+      "NUMBER MANUFACTURER": "89661-52065",
+      "NUMBER PARTS": "1SZ-FE MT",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:36:32.389Z",
+    "model": "mistral:7b",
+    "durationMs": 13717,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Mondeo 2.0 XS7F-12A650-FC, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-mondeo-2-0-xs7f-12a650-fc",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Ford Mondeo 2.0 (XS7F-12A650-FC) with a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "XS7F-12A650-FC",
+    "JOWL"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Ford Mondeo 2.0 (XS7F-12A650-FC).</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM tested and inspected by a certified technician</li>\n<li>6-month warranty</li>\n<li>Compatible with Ford Mondeo 2.0 (1996-2000)</li>\n<li>Condition: Used, Original in Good Condition</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Details</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD MONDEO</td></tr>\n<tr><td>ENGINE</td><td>2.0</td></tr>\n<tr><td>YEAR</td><td>1996-2000</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>XS7F-12A650-FC</td></tr>\n<tr><td>NUMBER PARTS</td><td>JOWL</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo 2.0 (1996-2000), but always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 XS7F-12A650-FC, XS7F12A650FC, JOWL",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-XS7F-12A650-FC%2C-XS7F12A650FC%2C-JOWL-/45217",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "39B8-251F7",
+    "sku": "39B8-251F7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 XS7F-12A650-FC, XS7F12A650FC, JOWL </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_b0951d5eec47f0ce2d7a18c00148229f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ee4f2e7858597bd20aac857c3fb52652_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0",
+      "YEAR": "1996-2000",
+      "NUMBER MANUFACTURER": "XS7F-12A650-FC",
+      "NUMBER PARTS": "JOWL",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:45:36.630Z",
+    "model": "mistral:7b",
+    "durationMs": 11548,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - CITROEN XANTIA/ZX, PEUGEOT 405 1.8, OEM Bosch 0 261 200 664, 96 150 458 80",
+  "slug": "plug-play-ecu-replacement-citroen-xantiazx-peugeot-405-18-oem-bosch-0261200664-9",
+  "metaDescription": "OEM tested ECU Engine Controller for CITROEN XANTIA/ZX, PEUGEOT 405 1.8, BOSCH 0 261 200 664, 96 150 458 80. Plug & Play, 6-month warranty, and fast dispatch within EU.",
+  "price": "€100.00",
+  "excerpt": "OEM tested ECU Engine Controller for CITROEN XANTIA/ZX, PEUGEOT 405 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 261 200 664",
+    "Citroen Xantia",
+    "Peugeot 405"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your CITROEN XANTIA/ZX, PEUGEOT 405 1.8. It comes with a Plug & Play feature for easy installation.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM tested and certified</li>\n      <li>Plug & Play for easy installation</li>\n      <li>6-month warranty</li>\n      <li>Fast dispatch within EU</li>\n      <li>Used in good condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>CITROEN XANTIA/ZX, PEUGEOT 405</td></tr>\n      <tr><th>ENGINE</th><td>1.8</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 200 664</td></tr>\n      <tr><th>NUMBER PARTS</th><td>96 150 458 80</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with CITROEN XANTIA/ZX and PEUGEOT 405 models only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN XANTIA/ZX, PEUGEOT 405 1.8, BOSCH 0 261 200 664, BOSCH 0261200664, 96 150 458 80, 9615045880",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-XANTIAZX%2C-PEUGEOT-405-1.8%2C-BOSCH-0-261-200-664%2C-BOSCH-0261200664%2C-96-150-458-80%2C-9615045880/124680",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C3AC-75759",
+    "sku": "C3AC-75759",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN XANTIA/ZX, PEUGEOT 405 1.8, BOSCH 0 261 200 664, BOSCH 0261200664, 96 150 458 80, 9615045880</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN XANTIA/ZX, PEUGEOT 405",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 200 664",
+      "NUMBER PARTS": "96 150 458 80",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:41:21.670Z",
+    "model": "mistral:7b",
+    "durationMs": 11247,
+    "priceIncrement": 100
+  }
+}

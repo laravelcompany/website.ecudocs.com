@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Movano (1998-2003) - Sagem 21851078-6, 7700311655 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-movano-sagem-21851078-6-7700311655-tested",
+  "metaDescription": "Get a tested and reliable ECU Engine Controller for your Opel Movano (1998-2003). This Plug & Play Sagem part, number 21851078-6 and 7700311655, comes with a 6-month warranty. Order now for fast EU dispatch.",
+  "price": "€85.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Movano",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Movano",
+    "Sagem",
+    "21851078-6",
+    "7700311655"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and reliable ECU Engine Controller is a perfect replacement for your Opel Movano (1998-2003).</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM Tested for guaranteed fitment</li><li>6-month warranty included</li><li>Thoroughly inspected and tested by a certified technician</li><li>Condition: Used Original in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tbody><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>OPEL MOVANO</td></tr><tr><th>YEAR</th><td>1998-2003</td></tr><tr><th>NUMBER MANUFACTURER</th><td>SAGEM 21851078-6</td></tr><tr><th>NUMBER PARTS</th><td>7700311655</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply - please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL MOVANO SAGEM 21851078-6, 218510786, 7700311655",
+    "price": "€75.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-MOVANO-SAGEM-21851078-6%2C-218510786%2C-7700311655/64106",
+    "priceCurrency": "EUR",
+    "netPrice": "€60.98",
+    "category": "ECU Engine control unit",
+    "brand": "Sagem",
+    "productCode": "BF05-302A0_20140825162036",
+    "sku": "BF05-302A0_20140825162036",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL MOVANO SAGEM 21851078-6, 218510786, 7700311655</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_7340452e8e784292a09c8de02fbe2d0b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_2dedfae29c204f6d0fb9d5186fa6cc28_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL MOVANO",
+      "YEAR": "1998-2003",
+      "NUMBER MANUFACTURER": "SAGEM 21851078-6",
+      "NUMBER PARTS": "7700311655",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:11:04.318Z",
+    "model": "mistral:7b",
+    "durationMs": 10942,
+    "priceIncrement": 100
+  }
+}

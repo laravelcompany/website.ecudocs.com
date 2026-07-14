@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - SsangYong Rodius 2.7 Delphi R0411C013D, A6655404032 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-ssangyong-rodius-2-7-delphi-r0411c013d-a6655404032-oem-tested-warr",
+  "metaDescription": "Buy a tested and reliable Plug & Play ECU Replacement for SsangYong Rodius 2.7 Delphi R0411C013D, A6655404032 with 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for SsangYong Rodius 2.7 Delphi R0411C013D",
+  "tags": [
+    "ECU repair",
+    "Plug and Play ECU",
+    "SsangYong Rodius",
+    "Delphi",
+    "A6655404032"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for SsangYong Rodius 2.7 Delphi R0411C013D is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SSANGYONG RODIUS</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.7</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>DELPHI R0411C013D</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>28014127</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 6-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SSANGYONG RODIUS 2.7 DELPHI R0411C013D, A 665 540 40 32, A6655404032, 28014127",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SSANGYONG-RODIUS-2.7-DELPHI-R0411C013D%2C-A-665-540-40-32%2C-A6655404032%2C-28014127/77765",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "C373-713D0_20150806182138",
+    "sku": "C373-713D0_20150806182138",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SSANGYONG RODIUS 2.7 DELPHI R0411C013D, A 665 540 40 32, A6655404032, 28014127</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_dcc3ba60105cbd19a836a9671563fff1_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a590b00d7cfced4d42d814c607546735_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SSANGYONG RODIUS",
+      "ENGINE": "2.7",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "DELPHI R0411C013D",
+      "NUMBER PARTS": "28014127",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:51:21.079Z",
+    "model": "mistral:7b",
+    "durationMs": 11829,
+    "priceIncrement": 100
+  }
+}

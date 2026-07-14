@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - PEUGEOT 806 2.0 BOSCH 0261204702 MP7.3 OEM Tested",
+  "slug": "plug-play-ecu-replacement-peugeot-806-2-0-bosch-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for PEUGEOT 806 2.0, backed by a 12-month warranty. Fast dispatch and expert installation instructions.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 806 2.0",
+  "tags": [
+    "ECU replacement",
+    "Peugeot 806",
+    "BOSCH",
+    "MP7.3",
+    "OEM tested"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for the PEUGEOT 806 2.0 is a reliable solution, ensuring optimal vehicle performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Compatible with PEUGEOT 806 2.0</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>PEUGEOT 806</td><td>2.0</td><td>1998</td><td>BOSCH 0 261 204 702</td><td>26FM0554</td><td>Plug & Play / Locked / Ready for programming</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with PEUGEOT 806 2.0, but professional installation is recommended for optimal results.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 806 2.0 9632564780 BOSCH 0261204702 MP7.3 06 26FM0554",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-806-2.0-9632564780-BOSCH-0261204702-MP7.3-06-26FM0554/16495",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7CF2-294B7",
+    "sku": "7CF2-294B7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 806 2.0 9632564780 BOSCH 0261204702 MP7.3 06 26FM0554</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 806",
+      "ENGINE": "2.0",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 702",
+      "NUMBER PARTS": "26FM0554",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:26:18.480Z",
+    "model": "mistral:7b",
+    "durationMs": 8743,
+    "priceIncrement": 100
+  }
+}

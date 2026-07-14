@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot 407 2.0 HDI Siemens 5WS40196E-T, Warranty Included",
+  "slug": "plug-play-ecu-peugeot-407-2-0-hdi-siemens-5ws40196et-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Peugeot 407 2.0 HDI Siemens 5WS40196E-T, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Peugeot 407 2.0 HDI Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 407",
+    "Siemens 5WS40196E-T"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Peugeot 407 2.0 HDI Siemens 5WS40196E-T ensures seamless vehicle operation and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>PEUGEOT 407</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SIEMENS 5WS40196E-T</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>HW 9655041480</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot 407 2.0 HDI Siemens 5WS40196E-T. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 407 2.0 HDI SIEMENS 5WS40196E-T, 5WS40196ET, SW 9656413080, HW 9655041480, SID803",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-407-2.0-HDI-SIEMENS-5WS40196E-T%2C-5WS40196ET%2C-SW-9656413080%2C-HW-9655041480%2C-SID803-/101500",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "6C0B-769A0_20170104164730",
+    "sku": "6C0B-769A0_20170104164730",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 407 2.0 HDI SIEMENS 5WS40196E-T, 5WS40196ET, SW 9656413080, HW 9655041480, SID803 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 407",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40196E-T",
+      "NUMBER PARTS": "HW 9655041480",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:21:59.961Z",
+    "model": "mistral:7b",
+    "durationMs": 10301,
+    "priceIncrement": 100
+  }
+}

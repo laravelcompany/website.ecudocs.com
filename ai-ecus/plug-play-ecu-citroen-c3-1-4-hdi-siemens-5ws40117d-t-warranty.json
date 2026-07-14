@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen C3 1.4 HDI Siemens 5WS40117D-T - 6-month Warranty",
+  "slug": "plug-play-ecu-citroen-c3-1-4-hdi-siemens-5ws40117d-t-warranty",
+  "metaDescription": "Expertly refurbished OEM ECU Engine Controller for Citroen C3 1.4 HDI Siemens 5WS40117D-T, backed by a 6-month warranty and Plug & Play installation.",
+  "price": "€110.00",
+  "excerpt": "Refurbished ECU Engine Controller for Citroen C3 1.4 HDI Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C3",
+    "Siemens 5WS40117D-T"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Citroen C3 1.4 HDI Siemens 5WS40117D-T ensures reliable performance and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN C3</td></tr>\n        <tr><th>ENGINE</th><td>1.4 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WS40117D-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HW 9648624280</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen C3 1.4 HDI Siemens 5WS40117D-T. Lock/Unlock options available.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C3 1.4 HDI SIEMENS 5WS40117D-T, 5WS40117DT, SW 9655938780, HW 9648624280, SID804",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C3-1.4-HDI-SIEMENS-5WS40117D-T%2C-5WS40117DT%2C-SW-9655938780%2C-HW-9648624280%2C-SID804-/104184",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "259D-2018B_20170310103516",
+    "sku": "259D-2018B_20170310103516",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C3 1.4 HDI SIEMENS 5WS40117D-T, 5WS40117DT, SW 9655938780, HW 9648624280, SID804 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C3",
+      "ENGINE": "1.4 HDI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40117D-T",
+      "NUMBER PARTS": "HW 9648624280",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:32:47.959Z",
+    "model": "mistral:7b",
+    "durationMs": 9885,
+    "priceIncrement": 100
+  }
+}

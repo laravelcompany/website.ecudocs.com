@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Audi A3 1.6 AKL Siemens 5WP4859 04 Motorsteuerung 2440 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-a3-16-akl-siemens-5wp4859-04-motorsteuerung-2440-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for Audi A3 1.6 AKL with Siemens 5WP4859 04 Motorsteuerung 2440. Plug & Play, 6-month warranty, and fast dispatch.",
+  "price": "€90.00",
+  "excerpt": "OEM tested ECU replacement for Audi A3 1.6 AKL",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "Siemens Motorsteuerung",
+    "1.6 AKL"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Audi A3 1.6 AKL ensures reliable engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>OEM tested for quality assurance</li><li>6-month warranty</li><li>Compatible with Audi A3 1.6 AKL</li><li>Siemens 5WP4859 04 Motorsteuerung 2440</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>AUDI A3</td></tr><tr><th>ENGINE</th><td>1.6 AKL</td></tr><tr><th>YEAR</th><td>1998</td></tr><tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WP4859 04</td></tr><tr><th>NUMBER PARTS</th><td>MOTORSTEUERUNG 2440</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Audi A3 1.6 AKL only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 1.6 AKL 06A906019BG, 06A 906 019 BG, SIEMENS 5WP4859 04 MOTORSTEUERUNG 2440",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-1.6-AKL-06A906019BG%2C-06A-906-019-BG%2C-SIEMENS-5WP4859-04-MOTORSTEUERUNG-2440-/14208",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "CEFF-3209E",
+    "sku": "CEFF-3209E",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A3 1.6 AKL 06A906019BG, 06A 906 019 BG, SIEMENS 5WP4859 04 MOTORSTEUERUNG 2440 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8e5c584a904c47bb1442b0a8ebcd24a0_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d0fc8bef0db492a5e581e877b472e01c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "ENGINE": "1.6 AKL",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP4859 04",
+      "NUMBER PARTS": "MOTORSTEUERUNG 2440",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION Plug & Play"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:42:30.847Z",
+    "model": "mistral:7b",
+    "durationMs": 9647,
+    "priceIncrement": 100
+  }
+}

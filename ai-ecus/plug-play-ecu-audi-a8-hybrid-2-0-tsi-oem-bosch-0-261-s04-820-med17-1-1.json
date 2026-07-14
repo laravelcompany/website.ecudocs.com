@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Audi A8 Hybrid 2.0 TSI, OEM Bosch 0 261 S04 820, MED17.1.1 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-audi-a8-hybrid-2-0-tsi-oem-bosch-0-261-s04-820-med17-1-1",
+  "metaDescription": "OEM tested ECU Engine Controller for Audi A8 Hybrid 2.0 TSI, BOSCH 0 261 S04 820, MED17.1.1. Plug & Play replacement with 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "OEM tested ECU Engine Controller for Audi A8 Hybrid 2.0 TSI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A8 Hybrid",
+    "BOSCH 0 261 S04 820",
+    "MED17.1.1"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is specifically designed for the Audi A8 Hybrid 2.0 TSI. It offers a reliable replacement solution, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested and certified</li><li>6-month warranty</li><li>Original part in good condition</li><li>Expertly inspected and tested by a certified technician</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>AUDI A8 HYBRID</td></tr><tr><th>ENGINE</th><td>2.0 TSI</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S04 820</td></tr><tr><th>NUMBER PARTS</th><td>MED17.1.1</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is specifically designed for the Audi A8 Hybrid 2.0 TSI. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A8 HYBRID 2.0 TSI, BOSCH 0 261 S04 820, 0261S04820, 4H0 907 560, 4H0907560, MED17.1.1",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A8-HYBRID-2.0-TSI%2C-BOSCH-0-261-S04-820%2C-0261S04820%2C-4H0-907-560%2C-4H0907560%2C-MED17.1.1/42157",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FA8E-7172C",
+    "sku": "FA8E-7172C",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A8 HYBRID 2.0 TSI, BOSCH 0 261 S04 820, 0261S04820, 4H0 907 560, 4H0907560, MED17.1.1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A8 HYBRID",
+      "ENGINE": "2.0 TSI",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S04 820",
+      "NUMBER PARTS": "MED17.1.1",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:43:06.303Z",
+    "model": "mistral:7b",
+    "durationMs": 10512,
+    "priceIncrement": 100
+  }
+}

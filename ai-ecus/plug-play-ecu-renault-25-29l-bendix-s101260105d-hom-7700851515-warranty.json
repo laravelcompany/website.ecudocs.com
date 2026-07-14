@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Renault 25 (2.9L) - Bendix S101260105D, HOM 7700851515, Warranty Included",
+  "slug": "plug-play-ecu-renault-25-29l-bendix-s101260105d-hom-7700851515-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Renault 25 (2.9L) by Bendix, covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€540.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Renault 25 (2.9L)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault 25",
+    "Bendix",
+    "HOM 7700851515"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Renault 25 (2.9L) by Bendix ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for reliable performance</li>\n        <li>Warranty included for peace of mind</li>\n        <li>Compatible with Renault 25 (1992-1999)</li>\n        <li>Ready for programming if locked</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT 25</td></tr>\n        <tr><th>ENGINE</th><td>2.9</td></tr>\n        <tr><th>YEAR</th><td>1992-1999</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HOM 7700851515</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is specifically designed for Renault 25 (1992-1999) and may not fit other vehicle models or years.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT 25 BENDIX S101260105 D, S101260105D, HOM 7700851515, 7700851243",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-25-BENDIX-S101260105-D%2C-S101260105D%2C-HOM-7700851515%2C-7700851243/59879",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bendix",
+    "productCode": "1C0C-505D2_20140708115441",
+    "sku": "1C0C-505D2_20140708115441",
+    "availability": "Shortage",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT 25 BENDIX S101260105 D, S101260105D, HOM 7700851515, 7700851243</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT 25",
+      "ENGINE": "2.9",
+      "YEAR": "1992-1999",
+      "NUMBER PARTS": "HOM 7700851515",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:47:30.588Z",
+    "model": "mistral:7b",
+    "durationMs": 11777,
+    "priceIncrement": 100
+  }
+}

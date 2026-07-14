@@ -1,0 +1,56 @@
+{
+  "title": "Plug & Play ECU Engine Controller Opel Vectra 2.0 DTI X20DTH Y20DTH Bosch - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-vectra-20-dti-x20dth-y20dth-bosch-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Opel Vectra 2.0 DTI X20DTH Y20DTH by Bosch - OEM tested, warranty included.",
+  "price": "€90.00",
+  "excerpt": "Buy the Plug & Play ECU Engine Controller for Opel Vectra 2.0 DTI X20DTH Y20DTH by Bosch - OEM tested, warranty included.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra",
+    "Bosch",
+    "2.0 DTI X20DTH Y20DTH"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Opel Vectra 2.0 DTI X20DTH Y20DTH by Bosch is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>ECU Replacement</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL CHEVROLET HOLDEN VAUXHALL VECTRA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 DTI X20DTH Y20DTH</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1999-2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 001 874</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>CX</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>28SA3873</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra 2.0 DTI X20DTH Y20DTH only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL VECTRA 2.0 DTI X20DTH Y20DTH BOSCH 0281001874, 0 281 001 874, 09136119 CX, 09 136 119 CX, 9136119, 28SA3873",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-VECTRA-2.0-DTI-X20DTH-Y20DTH-BOSCH-0281001874%2C-0-281-001-874%2C-09136119-CX%2C-09-136-119-CX%2C-9136119%2C-28SA3873/23740",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1127-51916_20120529103220",
+    "sku": "1127-51916_20120529103220",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL VECTRA 2.0 DTI X20DTH Y20DTH BOSCH 0281001874, 0 281 001 874, 09136119 CX, 09 136 119 CX, 9136119, 28SA3873</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e37be4156aa0bf949f4c703d54ea7a8f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f2c4c1335716aa419312284849b8c629_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_fac86c1e3380ff2a90aa68fd89048d88_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL VECTRA",
+      "ENGINE": "2.0 DTI X20DTH Y20DTH",
+      "YEAR": "1999-2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 874",
+      "CODE": "CX",
+      "NUMBER PARTS": "28SA3873",
+      "OPTION AVAILABLE": "Locked / Ready for programming / complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:43:36.031Z",
+    "model": "mistral:7b",
+    "durationMs": 12719,
+    "priceIncrement": 100
+  }
+}

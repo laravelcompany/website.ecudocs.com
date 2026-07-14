@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Toyota Corolla 1.6 3ZZ-FE - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-toyota-corolla-1-6-3zzfe-oem-tested",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Toyota Corolla 1.6 3ZZ-FE with 6-month warranty. Fast dispatch in EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Toyota Corolla 1.6 3ZZ-FE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Corolla",
+    "1.6",
+    "3ZZ-FE",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement for Toyota Corolla 1.6 3ZZ-FE is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>TOYOTA COROLLA</td></tr>\n<tr><td>ENGINE</td><td>1.6</td></tr>\n<tr><td>YEAR</td><td>2001</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>89666-12020</td></tr>\n<tr><td>NUMBER PARTS</td><td>3ZZ-FE</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle model and year. Always verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA COROLLA 1.6, 89666-12020, 8966612020, 175200-3961, 1752003961, 3ZZ-FE, 3ZZFE",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-COROLLA-1.6%2C-89666-12020%2C-8966612020%2C-175200-3961%2C-1752003961%2C-3ZZ-FE%2C-3ZZFE/37608",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "81BF-19318_20130716132320",
+    "sku": "81BF-19318_20130716132320",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA COROLLA 1.6, 89666-12020, 8966612020, 175200-3961, 1752003961, 3ZZ-FE, 3ZZFE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA COROLLA",
+      "ENGINE": "1.6",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "89666-12020",
+      "NUMBER PARTS": "3ZZ-FE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:22:47.657Z",
+    "model": "mistral:7b",
+    "durationMs": 10880,
+    "priceIncrement": 100
+  }
+}

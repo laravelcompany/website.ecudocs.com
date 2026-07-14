@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford - BV21-12A650-AAD, Bosch 0 281 019 143 - Warranty Included",
+  "slug": "plug-play-ecu-ford-bv2112a650aad-bosch-oem-tested",
+  "metaDescription": "Expertly tested and Plug & Play ECU replacement for Ford, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford ECU",
+    "Bosch ECU",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Ford is a reliable solution, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>Plug & Play compatibility</li><li>OEM Tested</li><li>6-month warranty</li><li>Fast dispatch within EU</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <thead>\n      <tr>\n        <th>Specification</th>\n        <th>Value</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><td>BRAND AND MODEL</td><td>FORD</td></tr>\n      <tr><td>NUMBER MANUFACTURER</td><td>0 281 019 143</td></tr>\n      <tr><td>TRANSMISSION</td><td>BV21-12A650-AAD</td></tr>\n      <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n      <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n      <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </tbody>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 0 281 019 143, 0281019143, BV21-12A650-AAD, BV2112A650AAD",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-0-281-019-143%2C-0281019143%2C-BV21-12A650-AAD%2C-BV2112A650AAD/124514",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "44B0-82209_20210311160837",
+    "sku": "44B0-82209_20210311160837",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 0 281 019 143, 0281019143, BV21-12A650-AAD, BV2112A650AAD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "0 281 019 143",
+      "TRANSMISSION": "BV21-12A650-AAD",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:40:46.314Z",
+    "model": "mistral:7b",
+    "durationMs": 10212,
+    "priceIncrement": 100
+  }
+}

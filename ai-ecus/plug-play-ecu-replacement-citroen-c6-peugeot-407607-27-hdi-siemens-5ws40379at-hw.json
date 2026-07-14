@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement for Citroen C6, Peugeot 407/607 2.7 HDI - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-c6-peugeot-407607-27-hdi-siemens-5ws40379at-hw",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Citroen C6, Peugeot 407/607 2.7 HDI by Siemens (5WS40379A-T, 5WS40379AT, SW9658198080, HW9648237680) - OEM tested, warranty included.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen C6, Peugeot 407/607 2.7 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C6",
+    "Peugeot 407/607",
+    "Siemens",
+    "2.7 HDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller is a reliable replacement for your Citroen C6 or Peugeot 407/607 2.7 HDI.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play functionality</li>\n<li>OEM tested by certified technicians</li>\n<li>6-month warranty</li>\n<li>Condition: Used, original in good condition</li>\n<li>Compatible with locked and ready for programming ECUs</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>CITROEN C6, PEUGEOT 407/607</td></tr>\n<tr><td>ENGINE</td><td>2.7 HDI</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>5WS40379A-T</td></tr>\n<tr><td>NUMBER PARTS</td><td>HW9648237680</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Fast dispatch and EU shipping included. 12-month warranty.</section>\n<section class=\"compatibility\">Fitment caution: Ensure proper compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C6, PEUGEOT 407/607 2.7 HDI, 5WS40379A-T, 5WS40379AT, SW9658198080, HW9648237680",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C6%2C-PEUGEOT-407607-2.7-HDI%2C-5WS40379A-T%2C-5WS40379AT%2C-SW9658198080%2C-HW9648237680/38445",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "2EAB-2716F_20130724121538",
+    "sku": "2EAB-2716F_20130724121538",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C6, PEUGEOT 407/607 2.7 HDI, 5WS40379A-T, 5WS40379AT, SW9658198080, HW9648237680</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_41a8a7183e63d533997d6c78c43c759a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1a46cbbcd30cc8039296efb7efb346ff_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C6, PEUGEOT 407/607",
+      "ENGINE": "2.7 HDI",
+      "NUMBER MANUFACTURER": "5WS40379A-T",
+      "NUMBER PARTS": "HW9648237680",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:45:06.540Z",
+    "model": "mistral:7b",
+    "durationMs": 11040,
+    "priceIncrement": 100
+  }
+}

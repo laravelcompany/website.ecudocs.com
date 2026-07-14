@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Opel Corsa 1.3 CDTI - OEM Tested Magneti Marelli MJD 6JO.CA, Warranty Included",
+  "slug": "plug-play-ecu-replacement-opel-corsa-1-3-cdti-oem-tested-magneti-marelli-mjd-6jo",
+  "metaDescription": "Buy the Plug & Play ECU Replacement for Opel Corsa 1.3 CDTI, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU replacement for Opel Corsa 1.3 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Corsa",
+    "1.3 CDTI",
+    "Magneti Marelli"
+  ],
+  "description": "<section class=\"overview\">This ECU Engine Controller for Opel Corsa 1.3 CDTI is a genuine OEM part, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL CORSA</td></tr>\n        <tr><th>ENGINE:</th><td>1.3 CDTI Y13DT Z13DT</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>MAGNETI MARELLI MJD 6JO.CA</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>71600.049.03</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Corsa 1.3 CDTI only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA 1.3 JTD MAGNETI MARELLI MJD 6JO.CA, MJD6JOCA, MJD6J0.CA, FGP 55196352 ZJ, 55196352ZJ, 71600.049.03, 7160004903",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-1.3-JTD-MAGNETI-MARELLI-MJD-6JO.CA%2C-MJD6JOCA%2C-MJD6J0.CA%2C-FGP-55196352-ZJ%2C-55196352ZJ%2C-71600.049.03%2C-7160004903/9596",
+    "priceCurrency": "EUR",
+    "netPrice": "€80.00",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "9596",
+    "sku": "9596",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA 1.3 JTD MAGNETI MARELLI MJD 6JO.CA, MJD6JOCA, MJD6J0.CA, FGP 55196352 ZJ, 55196352ZJ, 71600.049.03, 7160004903</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA",
+      "ENGINE": "1.3 CDTI Y13DT Z13DT",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 6JO.CA",
+      "NUMBER PARTS": "71600.049.03",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:51:13.648Z",
+    "model": "mistral:7b",
+    "durationMs": 9493,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen Peugeot 1.9 Lucas R04080015G - 6-month Warranty",
+  "slug": "plug-play-ecu-engine-controller-citroen-peugeot-1-9-lucas-r04080015g-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Citroen Peugeot 1.9 Lucas R04080015G, backed by a 6-month warranty and expert installation guide.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Citroen Peugeot 1.9 Lucas R04080015G",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot 1.9",
+    "Lucas R04080015G"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Citroen Peugeot 1.9 is a reliable replacement, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN PEUGEOT</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>LUCAS R04080015G</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>SOFT: 9640899880</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with Citroen Peugeot 1.9 models. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.9 LUCAS R04080015G, 9639587680, 9640899880, DWLC12",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-1.9-LUCAS-R04080015G%2C-9639587680%2C-9640899880%2C-DWLC12-/82424",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "2192-779D6_20151125113652",
+    "sku": "2192-779D6_20151125113652",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.9 LUCAS R04080015G, 9639587680, 9640899880, DWLC12 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_fd90e437fa89810921dcae9c22763d38_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a88027d7115e67f3413374e9fa64483f_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "1.9",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "LUCAS R04080015G",
+      "NUMBER PARTS": "SOFT: 9640899880",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:04:20.898Z",
+    "model": "mistral:7b",
+    "durationMs": 12003,
+    "priceIncrement": 100
+  }
+}

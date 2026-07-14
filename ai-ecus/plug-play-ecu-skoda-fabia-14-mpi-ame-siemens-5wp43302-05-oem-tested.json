@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Skoda Fabia 1.4 MPI AME - Siemens 5WP43302 05",
+  "slug": "plug-play-ecu-skoda-fabia-14-mpi-ame-siemens-5wp43302-05-oem-tested",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Skoda Fabia 1.4 MPI AME - Siemens 5WP43302 05. Used Original in Good Condition, 6-month warranty.",
+  "price": "€87.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Skoda Fabia 1.4 MPI AME",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WP43302 05",
+    "Skoda Fabia"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU replacement for Skoda Fabia 1.4 MPI AME is a reliable solution to restore your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Design for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SKODA FABIA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4 MPI AME</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1999</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WP43302 05</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>047 906 033A</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Skoda Fabia 1.4 MPI AME only. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FABIA 1.4 MPI AME 047 906 033A, 047906033A, SIEMENS 5WP43302 05",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FABIA-1.4-MPI-AME-047-906-033A%2C-047906033A%2C-SIEMENS-5WP43302-05-/43884",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "09A6-9096D",
+    "sku": "09A6-9096D",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FABIA 1.4 MPI AME 047 906 033A, 047906033A, SIEMENS 5WP43302 05 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FABIA",
+      "ENGINE": "1.4 MPI AME",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP43302 05",
+      "NUMBER PARTS": "047 906 033A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:24:30.650Z",
+    "model": "mistral:7b",
+    "durationMs": 11415,
+    "priceIncrement": 100
+  }
+}

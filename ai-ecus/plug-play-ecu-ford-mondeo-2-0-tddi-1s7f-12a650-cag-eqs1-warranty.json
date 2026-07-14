@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.0 TDDI - 1S7F-12A650-CAG, EQS1 - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-mondeo-2-0-tddi-1s7f-12a650-cag-eqs1-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Mondeo 2.0 TDDI - 1S7F-12A650-CAG, EQS1. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested Plug & Play ECU replacement for Ford Mondeo 2.0 TDDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.0 TDDI",
+    "1S7F-12A650-CAG",
+    "EQS1"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Mondeo 2.0 TDDI is a reliable solution to engine control issues, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Original Part Number: EQS1</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>2.0 TDDI</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>1S7F-12A650-CAG</td></tr>\n        <tr><th>NUMBER PARTS</th><td>EQS1</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery and a 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo 2.0 TDDI only. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDDI 1S7F-12A650-CAG, 1S7F12A650CAG, EQS1",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-TDDI-1S7F-12A650-CAG%2C-1S7F12A650CAG%2C-EQS1-/43169",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "1695-3351A",
+    "sku": "1695-3351A",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDDI 1S7F-12A650-CAG, 1S7F12A650CAG, EQS1 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 TDDI",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "1S7F-12A650-CAG",
+      "NUMBER PARTS": "EQS1",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:44:21.089Z",
+    "model": "mistral:7b",
+    "durationMs": 10194,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Seat Ibiza 1.9 TDI (2007) - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-seat-ibiza-19-tdi-2007-oem-tested-warranty-included",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for Seat Ibiza 1.9 TDI (2007) from Bosch. Enjoy fast dispatch and 6-month warranty.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Seat Ibiza 1.9 TDI (2007)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Ibiza 1.9 TDI",
+    "Bosch OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Seat Ibiza 1.9 TDI (2007) is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SEAT IBIZA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 TDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2007</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 012 668</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>038906019NT</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Seat Ibiza 1.9 TDI (2007). Fitment caution may apply. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA BOSCH 0 281 012 668, 0281012668, 038 906 019 NT, 038906019NT",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-BOSCH-0-281-012-668%2C-0281012668%2C-038-906-019-NT%2C-038906019NT/62626",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1B55-39294_20140808155748",
+    "sku": "1B55-39294_20140808155748",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA BOSCH 0 281 012 668, 0281012668, 038 906 019 NT, 038906019NT</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 668",
+      "NUMBER PARTS": "038906019NT",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:58:57.936Z",
+    "model": "mistral:7b",
+    "durationMs": 11250,
+    "priceIncrement": 100
+  }
+}

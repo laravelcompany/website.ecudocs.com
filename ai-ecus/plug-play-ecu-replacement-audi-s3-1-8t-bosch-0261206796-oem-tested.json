@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Audi S3 1.8 T BOSCH 0261 206 796 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-s3-1-8t-bosch-0261206796-oem-tested",
+  "metaDescription": "Get a reliable ECU Engine Controller for your Audi S3 1.8 T with our OEM tested, Plug & Play solution. Covered by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Reliable ECU Replacement for Audi S3 1.8 T",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi S3",
+    "Bosch 0261 206 796",
+    "1.8 T Engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Audi S3 1.8 T is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI S3</td></tr>\n        <tr><th>ENGINE</th><td>1.8 T</td></tr>\n        <tr><th>YEAR</th><td>1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0261 206 796</td></tr>\n        <tr><th>NUMBER PARTS</th><td>97207, 1159, 0135</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI S3 1.8 T BOSCH 0261 206 796, 0261206796, 8L0 906 018 N, 8L0906018N, 26SA000, BENZIN 0001",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-S3-1.8-T-BOSCH-0261-206-796%2C-0261206796%2C-8L0-906-018-N%2C-8L0906018N%2C-26SA000%2C-BENZIN-0001/35671",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4F92-66103_20130528080414",
+    "sku": "4F92-66103_20130528080414",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI S3 1.8 T BOSCH 0261 206 796, 0261206796, 8L0 906 018 N, 8L0906018N, 26SA000, BENZIN 0001</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI S3",
+      "ENGINE": "1.8 T",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0261 206 796",
+      "NUMBER PARTS": "97207, 1159, 0135",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:52:48.505Z",
+    "model": "mistral:7b",
+    "durationMs": 9472,
+    "priceIncrement": 100
+  }
+}

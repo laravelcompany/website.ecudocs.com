@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi A4 2.0 TDI (Bosch 0 281 016 140, 03L 906 022 NN) - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-20-tdi-bosch-0-281-016-140-3l-906-022-nn-tested",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Audi A4 2.0 TDI, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A4 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Bosch",
+    "2.0 TDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Audi A4 2.0 TDI, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>AUDI A4</td></tr>\n<tr><th>ENGINE</th><td>2.0 TDI</td></tr>\n<tr><th>YEAR</th><td>2011</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 016 140</td></tr>\n<tr><th>NUMBER PARTS</th><td>03L 906 022 NN</td></tr>\n</table>\n</section>\n<section class=\"shipping\">EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This ECU is compatible with your Audi A4 2.0 TDI. Always consult a professional for installation and programming.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 2.0 TDI BOSCH 0 281 016 140, 0281016140, 03L 906 022 NN, 03L906022NN",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-2.0-TDI-BOSCH-0-281-016-140%2C-0281016140%2C-03L-906-022-NN%2C-03L906022NN-/42479",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5EEF-8131F",
+    "sku": "5EEF-8131F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 2.0 TDI BOSCH 0 281 016 140, 0281016140, 03L 906 022 NN, 03L906022NN </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 140",
+      "NUMBER PARTS": "03L 906 022 NN",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:07:37.464Z",
+    "model": "mistral:7b",
+    "durationMs": 9650,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Chrysler Cruiser 2.2 CRD Bosch 0 281 011 410, P05034035AB - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-chrysler-cruiser-22-crd-bosch-0281011410-p05034035ab",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Chrysler Cruiser 2.2 CRD Bosch 0 281 011 410, P05034035AB. Plug & Play replacement with 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU Engine Controller for Chrysler Cruiser 2.2 CRD Bosch 0 281 011 410, P05034035AB.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chrysler Cruiser",
+    "Bosch",
+    "P05034035AB"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your Chrysler Cruiser 2.2 CRD. It's thoroughly inspected and tested by certified technicians to ensure optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CHRYSLER CRUISER</td></tr>\n        <tr><th>ENGINE</th><td>2.2 CRD</td></tr>\n        <tr><th>YEAR</th><td>2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 410</td></tr>\n        <tr><th>NUMBER PARTS</th><td>P05034035AB</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHRYSLER CRUISER 2.2 CRD BOSCH 0 281 011 410, 0281011410, P05034035AB",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHRYSLER-CRUISER-2.2-CRD-BOSCH-0-281-011-410%2C-0281011410%2C-P05034035AB/71382",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8916-473FF_20150107165442",
+    "sku": "8916-473FF_20150107165442",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHRYSLER CRUISER 2.2 CRD BOSCH 0 281 011 410, 0281011410, P05034035AB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9db911cb5be1186bc2091ce29f976a3a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f1dbb5b4961afb2202702b7f1ce90afb_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHRYSLER CRUISER",
+      "ENGINE": "2.2 CRD",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 410",
+      "NUMBER PARTS": "P05034035AB",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:05:16.113Z",
+    "model": "mistral:7b",
+    "durationMs": 10602,
+    "priceIncrement": 100
+  }
+}

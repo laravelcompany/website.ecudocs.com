@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen Berlingo Peugeot 1.9 Lucas R04080025B, Warranty Included",
+  "slug": "plug-play-ecu-citroen-berlingo-peugeot-19-lucas-r04080025b-warranty",
+  "metaDescription": "Expertly tested and OEM approved Plug & Play ECU Engine Controller for Citroen Berlingo Peugeot 1.9, backed by a 6-month warranty.",
+  "price": "€200.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen Berlingo Peugeot 1.9",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "Citroen Berlingo",
+    "Peugeot",
+    "Lucas R04080025B"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Citroen Berlingo Peugeot 1.9 is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Approved</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Locked/Unlocked Options</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN BERLINGO PEUGEOT</td></tr>\n        <tr><th>ENGINE</th><td>1.9</td></tr>\n        <tr><th>YEAR</th><td>2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>LUCAS R04080025B</td></tr>\n        <tr><th>NUMBER PARTS</th><td>SOFT 9642414580</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility before purchase. Fitment may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.9 LUCAS R04080025B, PSA: 9839587680, SOFT 9642414580",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-1.9-LUCAS-R04080025B%2C-PSA-9839587680%2C-SOFT-9642414580-/84485",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "43E8-359CA_20160117173805",
+    "sku": "43E8-359CA_20160117173805",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.9 LUCAS R04080025B, PSA: 9839587680, SOFT 9642414580 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN BERLINGO PEUGEOT",
+      "ENGINE": "1.9",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "LUCAS R04080025B",
+      "NUMBER PARTS": "SOFT 9642414580",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:04:42.517Z",
+    "model": "mistral:7b",
+    "durationMs": 9591,
+    "priceIncrement": 100
+  }
+}

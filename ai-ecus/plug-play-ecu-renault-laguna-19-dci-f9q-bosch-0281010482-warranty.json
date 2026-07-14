@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Renault Laguna 1.9 DCI F9Q - Bosch 0281010482, Warranty Included",
+  "slug": "plug-play-ecu-renault-laguna-19-dci-f9q-bosch-0281010482-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Renault Laguna 1.9 DCI F9Q - Bosch 0281010482, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€87.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Renault Laguna 1.9 DCI F9Q - Bosch 0281010482",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Laguna",
+    "1.9 DCI F9Q",
+    "Bosch 0281010482"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Renault Laguna 1.9 DCI F9Q - Bosch 0281010482 ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch</li>\n        <li>Compatible with Renault Laguna 1.9 DCI F9Q</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Part Type</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>Brand and Model</td>\n                <td>RENAULT LAGUNA</td>\n            </tr>\n            <tr>\n                <td>Engine</td>\n                <td>1.9 DCI F9Q</td>\n            </tr>\n            <tr>\n                <td>Year</td>\n                <td>2001</td>\n            </tr>\n            <tr>\n                <td>Number Manufacturer</td>\n                <td>BOSCH 0 281 010 482</td>\n            </tr>\n            <tr>\n                <td>Number Parts</td>\n                <td>28SA5028</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Laguna 1.9 DCI F9Q only. Professional installation recommended for optimal performance and longevity.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT LAGUNA 1.9 DCI F9Q BOSCH 0281010482, 0 281 010 482, HOM8200126462, HOM 8200126462, 8200121886, 28SA5028",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-LAGUNA-1.9-DCI-F9Q-BOSCH-0281010482%2C-0-281-010-482%2C-HOM8200126462%2C-HOM-8200126462%2C-8200121886%2C-28SA5028-/13143",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7C82-985B3",
+    "sku": "7C82-985B3",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT LAGUNA 1.9 DCI F9Q BOSCH 0281010482, 0 281 010 482, HOM8200126462, HOM 8200126462, 8200121886, 28SA5028  </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT LAGUNA",
+      "ENGINE": "1.9 DCI F9Q",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 482",
+      "NUMBER PARTS": "28SA5028",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:32:27.481Z",
+    "model": "mistral:7b",
+    "durationMs": 12459,
+    "priceIncrement": 100
+  }
+}

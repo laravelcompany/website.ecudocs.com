@@ -1,0 +1,57 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Galaxy 2.3 Oryginal 95VW12A650HF XMAS MLE-236",
+  "slug": "plug-play-ecu-ford-galaxy-2-3-oryginal-95vw12a650hf-xmas-mle-236",
+  "metaDescription": "OEM Tested ECU Replacement for Ford Galaxy 2.3 (95VW12A650HF XMAS, MLE-236). Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested ECU Replacement for Ford Galaxy 2.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Galaxy",
+    "Oryginal",
+    "95VW12A650HF XMAS",
+    "MLE-236"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Ford Galaxy 2.3 (95VW12A650HF XMAS, MLE-236) offers a Plug & Play solution, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD GALAXY</td></tr>\n        <tr><th>ENGINE</th><td>2.3</td></tr>\n        <tr><th>YEAR</th><td>1997</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MLE-236</td></tr>\n        <tr><th>CODE</th><td>XMAS</td></tr>\n        <tr><th>NUMBER PARTS</th><td>95VW-12A650-HF</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility with your specific vehicle model and year before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD GALAXY 2.3 95VW12A650HF XMAS, MLE-236, 95VW-12A650-HF",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-GALAXY-2.3-95VW12A650HF-XMAS%2C-MLE-236%2C-95VW-12A650-HF/26825",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "FF89-24961_20120723175704",
+    "sku": "FF89-24961_20120723175704",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD GALAXY 2.3 95VW12A650HF XMAS, MLE-236, 95VW-12A650-HF</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c19936d2479578a4b165312fec9b44c4_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_82796b93da124b2979e98fb990b151d0_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_deb98529c0818ebbd145c3156105b9d4_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD GALAXY",
+      "ENGINE": "2.3",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "MLE-236",
+      "CODE": "XMAS",
+      "NUMBER PARTS": "95VW-12A650-HF",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:21:45.209Z",
+    "model": "mistral:7b",
+    "durationMs": 10297,
+    "priceIncrement": 100
+  }
+}

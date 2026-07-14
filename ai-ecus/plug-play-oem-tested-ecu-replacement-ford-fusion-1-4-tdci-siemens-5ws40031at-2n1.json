@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford Fusion 1.4 TDCI - Siemens 5WS40031A-T, 2N1A12A650AA - Warranty Included",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-fusion-1-4-tdci-siemens-5ws40031at-2n1",
+  "metaDescription": "Expertly tested and guaranteed replacement ECU for Ford Fusion 1.4 TDCI with Siemens 5WS40031A-T, 2N1A12A650AA. Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Ford Fusion 1.4 TDCI - Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fusion",
+    "1.4 TDCI",
+    "Siemens",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Ford Fusion 1.4 TDCI is a reliable solution, ensuring optimal engine performance and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FUSION</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4 TDCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2002</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WS40031A-T</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>2N1A12A650AA</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FUSION 1.4 TDCI SIEMENS 5WS40031A-T, 5WS40031AT, 2N1A-12A650-AA, 2N1A12A650AA",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FUSION-1.4-TDCI-SIEMENS-5WS40031A-T%2C-5WS40031AT%2C-2N1A-12A650-AA%2C-2N1A12A650AA/66325",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "6F93-183DD_20140922150703",
+    "sku": "6F93-183DD_20140922150703",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FUSION 1.4 TDCI SIEMENS 5WS40031A-T, 5WS40031AT, 2N1A-12A650-AA, 2N1A12A650AA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FUSION",
+      "ENGINE": "1.4 TDCI",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40031A-T",
+      "NUMBER PARTS": "2N1A12A650AA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:18:12.422Z",
+    "model": "mistral:7b",
+    "durationMs": 12342,
+    "priceIncrement": 100
+  }
+}

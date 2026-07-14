@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Suzuki Swift 1.6 Denso MB112300-8303, Warranty Included",
+  "slug": "plug-play-ecu-suzuki-swift-1-6-denso-mb112300-8303-warranty",
+  "metaDescription": "Buy the OEM Tested Plug & Play ECU Engine Controller for Suzuki Swift 1.6 by Denso (MB112300-8303). This used part is in good condition, tested and covered by a 6-month warranty.",
+  "price": "€435.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Suzuki Swift 1.6",
+  "tags": [
+    "ECU replacement",
+    "Plug & Play ECU",
+    "Suzuki Swift",
+    "Denso MB112300-8303",
+    "Used in good condition"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Suzuki Swift 1.6 by Denso (MB112300-8303) is a reliable replacement part, ensuring seamless engine operation.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Tested and Certified</li>\n      <li>Plug & Play for Easy Installation</li>\n      <li>6-Month Warranty</li>\n      <li>Used in Good Condition</li>\n      <li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th></th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>PARTS</td>\n          <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n          <td>BRAND AND MODEL</td>\n          <td>SUZUKI SWIFT</td>\n        </tr>\n        <tr>\n          <td>ENGINE</td>\n          <td>1.6</td>\n        </tr>\n        <tr>\n          <td>YEAR</td>\n          <td>2009</td>\n        </tr>\n        <tr>\n          <td>NUMBER MANUFACTURER</td>\n          <td>Denso MB112300-8303</td>\n        </tr>\n        <tr>\n          <td>NUMBER PARTS</td>\n          <td>33920-57K7 E5</td>\n        </tr>\n        <tr>\n          <td>OPTION AVAILABLE</td>\n          <td>LOCKED / UNLOCKED</td>\n        </tr>\n        <tr>\n          <td>WARRANTY :</td>\n          <td>6-month warranty</td>\n        </tr>\n        <tr>\n          <td>INSPECTION:</td>\n          <td>Device thoroughly inspected and tested by a certified technician</td>\n        </tr>\n        <tr>\n          <td>CONDITION</td>\n          <td>USED IN GOOD CONDITION</td>\n        </tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Suzuki Swift 1.6 (33920-57K7, E5).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUZUKI SWIFT 1.6 33920-57K7, 3392057K7, E5, DENSO MB112300-8303, MB1123008303",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUZUKI-SWIFT-1.6-33920-57K7%2C-3392057K7%2C-E5%2C-DENSO-MB112300-8303%2C-MB1123008303-/76936",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "CAA5-9801D_20150720130725",
+    "sku": "CAA5-9801D_20150720130725",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUZUKI SWIFT 1.6 33920-57K7, 3392057K7, E5, DENSO MB112300-8303, MB1123008303 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUZUKI SWIFT",
+      "ENGINE": "1.6",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "Denso MB112300-8303",
+      "NUMBER PARTS": "33920-57K7 E5",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:03:55.526Z",
+    "model": "mistral:7b",
+    "durationMs": 13444,
+    "priceIncrement": 100
+  }
+}

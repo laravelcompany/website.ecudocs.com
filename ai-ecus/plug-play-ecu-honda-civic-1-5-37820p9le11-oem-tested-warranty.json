@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - HONDA CIVIC 1.5 37820-P9L-E11, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-honda-civic-1-5-37820p9le11-oem-tested-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for HONDA CIVIC 1.5 (37820-P9L-E11, J2) tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Honda Civic 1.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "HONDA CIVIC",
+    "37820-P9L-E11",
+    "J2"
+  ],
+  "description": "<section class=\"overview\">This Oryginal ECU Engine Controller for Honda Civic 1.5 (37820-P9L-E11, J2) is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>HONDA CIVIC</td></tr>\n        <tr><th>ENGINE</th><td>1.5</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>37820-P9L-E11</td></tr>\n        <tr><th>NUMBER PARTS</th><td>J2</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific ECU programming requirements.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA CIVIC 1.5 37820-P9L-E11, 37820P9LE11, J2",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-CIVIC-1.5-37820-P9L-E11%2C-37820P9LE11%2C-J2-/44291",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "7AAD-3392F",
+    "sku": "7AAD-3392F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA CIVIC 1.5 37820-P9L-E11, 37820P9LE11, J2 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA CIVIC",
+      "ENGINE": "1.5",
+      "NUMBER MANUFACTURER": "37820-P9L-E11",
+      "NUMBER PARTS": "J2",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:18:48.685Z",
+    "model": "mistral:7b",
+    "durationMs": 9273,
+    "priceIncrement": 100
+  }
+}

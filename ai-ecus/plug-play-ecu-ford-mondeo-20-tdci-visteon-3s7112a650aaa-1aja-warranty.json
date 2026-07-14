@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford Mondeo 2.0 TDCI - Visteon 3S71-12A650-AAA, 1AJA - Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-20-tdci-visteon-3s7112a650aaa-1aja-warranty",
+  "metaDescription": "Buy a Plug & Play OEM tested ECU replacement for Ford Mondeo 2.0 TDCI, backed by a 6-month warranty. Get it shipped within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM tested ECU replacement for Ford Mondeo 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.0 TDCI",
+    "Visteon",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Ford Mondeo 2.0 TDCI is a reliable solution to restore your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Condition: Used OEM original in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>2.0 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2001-2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>3S71-12A650-AAA</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1AJA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 3S71-12A650-AAA, 3S7112A650AAA, 1AJA",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-TDCI-3S71-12A650-AAA%2C-3S7112A650AAA%2C-1AJA-/43370",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "7A3B-459F6",
+    "sku": "7A3B-459F6",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 3S71-12A650-AAA, 3S7112A650AAA, 1AJA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2001-2007",
+      "NUMBER MANUFACTURER": "3S71-12A650-AAA",
+      "NUMBER PARTS": "1AJA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:40:09.082Z",
+    "model": "mistral:7b",
+    "durationMs": 9691,
+    "priceIncrement": 100
+  }
+}

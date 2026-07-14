@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Fiat 1.3 MJD 8F3.P9 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-1-3-mjd-8f3p9-oem-tested-warranty-included",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat 1.3 MJD 8F3.P9, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€700.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat 1.3 MJD 8F3.P9 - OEM Tested, Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat 1.3 MJD 8F3.P9",
+    "OEM part",
+    "Used original"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Fiat 1.3 MJD 8F3.P9 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for guaranteed fitment</li><li>6-month warranty for peace of mind</li><li>Used original in good condition</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FIAT</td><td>1.3</td><td>MJD 8F3.P9</td><td>55263702</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat vehicles equipped with the specified ECU Engine Controller. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 1.3 MJD 8F3.P9, MJD8F3P9, 55263702",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-1.3-MJD-8F3.P9%2C-MJD8F3P9%2C-55263702/105577",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "CE90-23163_20170607101248",
+    "sku": "CE90-23163_20170607101248",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 1.3 MJD 8F3.P9, MJD8F3P9, 55263702</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT",
+      "ENGINE": "1.3",
+      "NUMBER MANUFACTURER": "MJD 8F3.P9",
+      "NUMBER PARTS": "55263702",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:08:25.637Z",
+    "model": "mistral:7b",
+    "durationMs": 9667,
+    "priceIncrement": 100
+  }
+}

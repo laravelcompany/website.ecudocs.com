@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Engine Controller Audi A4 S4 2.0 TDI OEM Bosch 0 281 017 392, 03L 906 018 JR - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-audi-a4-s4-2-0-tdi-bosch-0-281-017-392-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Audi A4 S4 2.0 TDI by Bosch (0 281 017 392, 03L 906 018 JR). Plug & Play replacement, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU Engine Controller for Audi A4 S4 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4 S4",
+    "2.0 TDI",
+    "Bosch 0 281 017 392",
+    "OEM tested"
+  ],
+  "description": "<section class=\"overview\">This OEM Bosch ECU Engine Controller is a reliable replacement for your Audi A4 S4 2.0 TDI, ensuring smooth engine operation and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested and certified</li>\n        <li>Plug & Play design for easy installation</li>\n        <li>6-month warranty</li>\n        <li>Compatible with Audi A4 S4 2.0 TDI</li>\n        <li>Original part in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tbody>\n            <tr>\n                <th>PARTS:</th>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <th>BRAND AND MODEL:</th>\n                <td>AUDI A4</td>\n            </tr>\n            <tr>\n                <th>ENGINE:</th>\n                <td>2.0 TDI</td>\n            </tr>\n            <tr>\n                <th>YEAR:</th>\n                <td>2011</td>\n            </tr>\n            <tr>\n                <th>NUMBER MANUFACTURER:</th>\n                <td>BOSCH 0 281 017 392</td>\n            </tr>\n            <tr>\n                <th>NUMBER PARTS:</th>\n                <td>03L906018JR</td>\n            </tr>\n            <tr>\n                <th>WARRANTY :</th>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <th>INSPECTION:</th>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <th>CONDITION:</th>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your specific vehicle model and year before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 S4 2.0 TDI BOSCH 0 281 017 392, 0281017392, 03L 906 018 JR, 03L906018JR",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-S4-2.0-TDI-BOSCH-0-281-017-392%2C-0281017392%2C-03L-906-018-JR%2C-03L906018JR/62085",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FB2B-9568B_20140803204432",
+    "sku": "FB2B-9568B_20140803204432",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 S4 2.0 TDI BOSCH 0 281 017 392, 0281017392, 03L 906 018 JR, 03L906018JR</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 017 392",
+      "NUMBER PARTS": "03L906018JR",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:22:31.110Z",
+    "model": "mistral:7b",
+    "durationMs": 13277,
+    "priceIncrement": 100
+  }
+}

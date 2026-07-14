@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Lancia Ypsilon Bosch 0 261 207 088, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-lancia-ypsilon-bosch-0-261-207-088-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Lancia Ypsilon (0 261 207 088, 00551919810) tested and covered by a 6-month warranty. Fast EU shipping.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Replacement for Lancia Ypsilon",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Ypsilon",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a tested and reliable replacement for Lancia Ypsilon (0 261 207 088, 00551919810).</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast EU Shipping</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Lancia Ypsilon (0 261 207 088, 00551919810).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA YPSILON BOSCH 0 261 207 088, 0261207088, 0 055 191 981 0, 00551919810",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-YPSILON-BOSCH-0-261-207-088%2C-0261207088%2C-0-055-191-981-0%2C-00551919810-/59999",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0B88-981B2_20140709170459",
+    "sku": "0B88-981B2_20140709170459",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA YPSILON BOSCH 0 261 207 088, 0261207088, 0 055 191 981 0, 00551919810 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_fa3c3851632641a124fce01f52fb01ff_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_01320b6254efe5a26844e333f41be244_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_83d34de381b8607aa66c4c18007aa97c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA YPSILON",
+      "YEAR": "2005-2006",
+      "NUMBER PARTS": "00551919810",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:40:15.638Z",
+    "model": "mistral:7b",
+    "durationMs": 6721,
+    "priceIncrement": 100
+  }
+}

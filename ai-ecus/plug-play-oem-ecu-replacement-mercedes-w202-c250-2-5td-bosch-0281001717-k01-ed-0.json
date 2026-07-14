@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Mercedes W202 C250 2.5TD - Bosch 0281001717, K01 ED 0017 MSA 25.1",
+  "slug": "plug-play-oem-ecu-replacement-mercedes-w202-c250-2-5td-bosch-0281001717-k01-ed-0",
+  "metaDescription": "Get a tested and certified Plug & Play OEM ECU replacement for your Mercedes W202 C250 2.5TD. Backed by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Mercedes W202 C250 2.5TD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W202 C250 2.5TD",
+    "Bosch 0281001717",
+    "K01 ED 0017 MSA 25.1"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU replacement for your Mercedes W202 C250 2.5TD is thoroughly inspected, tested by a certified technician and guaranteed to work seamlessly with your vehicle.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM quality and performance</li><li>6-month warranty</li><li>Tested and certified by a professional technician</li><li>Compatible with your Mercedes W202 C250 2.5TD</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>MERCEDES W202 C250 2.5TD</td></tr>\n<tr><th>YEAR</th><td>1999</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 717</td></tr>\n<tr><th>NUMBER PARTS</th><td>K01 ED 0017 MSA 25.1</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed specifically for the Mercedes W202 C250 2.5TD and may not be compatible with other vehicle models.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W202 C250 2.5TD A0245452532, A 024 545 25 32, 0245452532, BOSCH 0281001717, 0 281 001 717, K01 ED 0017 MSA 25.1",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W202-C250-2.5TD-A0245452532%2C-A-024-545-25-32%2C-0245452532%2C-BOSCH-0281001717%2C-0-281-001-717%2C-K01-ED-0017-MSA-25.1/16907",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "99D0-44680",
+    "sku": "99D0-44680",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W202 C250 2.5TD A0245452532, A 024 545 25 32, 0245452532, BOSCH 0281001717, 0 281 001 717, K01 ED 0017 MSA 25.1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W202 C250 2.5TD",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 717",
+      "NUMBER PARTS": "K01 ED 0017 MSA 25.1",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:17:33.331Z",
+    "model": "mistral:7b",
+    "durationMs": 12108,
+    "priceIncrement": 100
+  }
+}

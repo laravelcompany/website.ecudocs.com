@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Opel Astra 1.6 Z16XER 1.8 Z18XER Siemens, Warranty Included",
+  "slug": "plug-play-ecu-opel-astra-z16xer-z18xer-siemens-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Opel Astra 1.6 Z16XER 1.8 Z18XER by Siemens, 6-month warranty, fast dispatch in EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Opel Astra 1.6 Z16XER 1.8 Z18XER by Siemens.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WK9 463",
+    "Opel Astra",
+    "Z16XER",
+    "Z18XER"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Opel Astra 1.6 Z16XER 1.8 Z18XER by Siemens is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6 Z16XER 1.8 Z18XER</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2006-2008</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WK9 463</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>LJ</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>SW:0758301C</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra and Zafira models equipped with the specified engine and ECU.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA 1.6 Z16XER 1.8 Z18XER 55568735 LJ 55 568 735 SIEMENS 5WK9 463 5WK9463",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-ASTRA-ZAFIRA-1.6-Z16XER-1.8-Z18XER-55568735-LJ-55-568-735-SIEMENS-5WK9-463-5WK9463/17131",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "088F-1454F",
+    "sku": "088F-1454F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA 1.6 Z16XER 1.8 Z18XER 55568735 LJ 55 568 735 SIEMENS 5WK9 463 5WK9463</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA",
+      "ENGINE": "1.6 Z16XER 1.8 Z18XER",
+      "YEAR": "2006-2008",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK9 463",
+      "CODE": "LJ",
+      "NUMBER PARTS": "SW:0758301C",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:36:07.214Z",
+    "model": "mistral:7b",
+    "durationMs": 12940,
+    "priceIncrement": 100
+  }
+}

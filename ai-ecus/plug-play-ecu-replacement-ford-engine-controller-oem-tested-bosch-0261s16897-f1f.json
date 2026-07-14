@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Engine Controller OEM Tested - Bosch 0261S16897 F1F1-12A650-ASK",
+  "slug": "plug-play-ecu-replacement-ford-engine-controller-oem-tested-bosch-0261s16897-f1f",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for Ford, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford engine controller",
+    "Bosch ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Ford is a tested and reliable replacement part, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FORD 0261S16897 F1F1-12A650-ASK</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford vehicles. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 0261S16897 F1F1-12A650-ASK F1F112A650ASK",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-0261S16897-F1F1-12A650-ASK-F1F112A650ASK/138573",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "17FE-85987_20240216163244",
+    "sku": "17FE-85987_20240216163244",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 0261S16897 F1F1-12A650-ASK F1F112A650ASK</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_290859_0_0/FORD-0261S16897-F1F1-12A650-ASK-F1F112A650ASK.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_290860_0_0/FORD-0261S16897-F1F1-12A650-ASK-F1F112A650ASK.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "0261S16897 F1F1-12A650-ASK",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:41:55.566Z",
+    "model": "mistral:7b",
+    "durationMs": 8893,
+    "priceIncrement": 100
+  }
+}

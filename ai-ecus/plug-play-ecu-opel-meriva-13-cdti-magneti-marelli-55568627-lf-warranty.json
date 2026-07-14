@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Opel Meriva 1.3 CDTI - Magneti Marelli 55568627 LF, 6-month Warranty",
+  "slug": "plug-play-ecu-opel-meriva-13-cdti-magneti-marelli-55568627-lf-warranty",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Opel Meriva 1.3 CDTI by Magneti Marelli, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Opel Meriva 1.3 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Meriva",
+    "Magneti Marelli",
+    "1.3 CDTI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is a reliable solution for your Opel Meriva 1.3 CDTI.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Design</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with Opel Meriva 1.3 CDTI</li>\n        <li>Original Part in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL MERIVA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3 CDTI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MJD 6O2.M1</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>55568627 LF</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Opel Meriva 1.3 CDTI and may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL MERIVA 1.3 CDTI 55568627 LF, MJD 6O2.M1, MJD6O2M1, MJD602M1",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-MERIVA-1.3-CDTI-55568627-LF%2C-MJD-6O2.M1%2C-MJD6O2M1%2C-MJD602M1/105284",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "F94F-577CC_20170526143902",
+    "sku": "F94F-577CC_20170526143902",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL MERIVA 1.3 CDTI 55568627 LF, MJD 6O2.M1, MJD6O2M1, MJD602M1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL MERIVA",
+      "ENGINE": "1.3 CDTI",
+      "NUMBER MANUFACTURER": "MJD 6O2.M1",
+      "NUMBER PARTS": "55568627 LF",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:06:30.744Z",
+    "model": "mistral:7b",
+    "durationMs": 10906,
+    "priceIncrement": 100
+  }
+}

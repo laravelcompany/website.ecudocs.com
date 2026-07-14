@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Bosch 0 281 019 819, CITROEN C3 Engine Controller - Warranty Included",
+  "slug": "plug-play-ecu-replacement-oem-tested-bosch-0-281-019-819-citroen-c3-engine-contr",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for CITROEN C3 by Bosch (0 281 019 819, 0281019819, 98 059 476 80, 9805947680). OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for CITROEN C3 by Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C3",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for CITROEN C3 by Bosch (0 281 019 819, 0281019819, 98 059 476 80, 9805947680) is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Locked or Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN C3</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2013</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>9805947680</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility: This ECU Engine Controller is designed for CITROEN C3. Fitment caution may apply, please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C3 BOSCH 0 281 019 819, 0281019819, 98 059 476 80, 9805947680",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C3-BOSCH-0-281-019-819%2C-0281019819%2C-98-059-476-80%2C-9805947680-/55097",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9CC9-89309_20140505125834",
+    "sku": "9CC9-89309_20140505125834",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C3 BOSCH 0 281 019 819, 0281019819, 98 059 476 80, 9805947680 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C3",
+      "YEAR": "2013",
+      "NUMBER PARTS": "9805947680",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:34:27.769Z",
+    "model": "mistral:7b",
+    "durationMs": 11497,
+    "priceIncrement": 100
+  }
+}

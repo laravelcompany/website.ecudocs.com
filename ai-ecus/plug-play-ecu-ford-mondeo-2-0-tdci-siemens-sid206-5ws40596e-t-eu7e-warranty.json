@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Mondeo 2.0 TDCI - OEM Tested, Siemens SID206 5WS40596E-T, EU7E, Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-2-0-tdci-siemens-sid206-5ws40596e-t-eu7e-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Ford Mondeo 2.0 TDCI by Siemens (SID206 5WS40596E-T, EU7E). OEM tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Siemens",
+    "2.0 TDCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Ford Mondeo 2.0 TDCI is a reliable solution to replace your faulty engine control unit.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>12-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>2.0 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SID206 5WS40596E-T</td></tr>\n        <tr><th>CODE</th><td>EU7E</td></tr>\n        <tr><th>NUMBER PARTS</th><td>7G91-12A650-VE</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch (EU).</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo 2.0 TDCI, but fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 7G9112A650VE, 7G91-12A650-VE EU7E, SID206 5WS40596E-T",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-TDCI-7G9112A650VE%2C-7G91-12A650-VE-EU7E%2C-SID206-5WS40596E-T/30952",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "A284-961D0_20121006115110",
+    "sku": "A284-961D0_20121006115110",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 7G9112A650VE, 7G91-12A650-VE EU7E, SID206 5WS40596E-T</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "SID206 5WS40596E-T",
+      "CODE": "EU7E",
+      "NUMBER PARTS": "7G91-12A650-VE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:42:46.149Z",
+    "model": "mistral:7b",
+    "durationMs": 11971,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN TERRANO II, BOSCH 0 281 011 264, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-nissan-terrano-ii-bosch-0281011264-oem-tested",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for NISSAN TERRANO II, BOSCH 0 281 011 264. OEM tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU for NISSAN TERRANO II, BOSCH 0 281 011 264",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "NISSAN TERRANO II",
+    "Bosch",
+    "0 281 011 264"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for NISSAN TERRANO II, BOSCH 0 281 011 264, is a reliable replacement ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Ready for Programming</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN TERRANO II</td></tr>\n        <tr><th>NUMBER PARTS</th><td>23710-7F481</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with a certified technician before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN TERRANO II, BOSCH 0 281 011 264, 0281011264, 23710-7F481, 237107F481",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-TERRANO-II%2C-BOSCH-0-281-011-264%2C-0281011264%2C-23710-7F481%2C-237107F481/52996",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7487-305D1_20140327161117",
+    "sku": "7487-305D1_20140327161117",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN TERRANO II, BOSCH 0 281 011 264, 0281011264, 23710-7F481, 237107F481</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN TERRANO II",
+      "NUMBER PARTS": "23710-7F481",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:47:57.967Z",
+    "model": "mistral:7b",
+    "durationMs": 10084,
+    "priceIncrement": 100
+  }
+}

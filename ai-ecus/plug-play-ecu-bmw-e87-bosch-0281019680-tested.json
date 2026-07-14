@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E87 Engine Controller Bosch 0 281 019 680, Tested & OEM Warranty",
+  "slug": "plug-play-ecu-bmw-e87-bosch-0281019680-tested",
+  "metaDescription": "Expertly tested ECU Engine Controller for BMW E87, featuring Plug & Play functionality and backed by a 6-month OEM warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E87",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E87",
+    "Bosch 0 281 019680"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for BMW E87 is thoroughly inspected, tested by a certified technician and backed by a 6-month OEM warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM Tested</li>\n        <li>Warranty included</li>\n        <li>EU Shipping</li>\n        <li>Fast dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW E87</td></tr>\n        <tr><th>YEAR</th><td>2013</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 019680</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8573257</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E87 BOSCH 0 281 019 680, 0281019680, DDE 8 573 257, DDE8573257, 8573257",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E87-BOSCH-0-281-019-680%2C-0281019680%2C-DDE-8-573-257%2C-DDE8573257%2C-8573257-/62147",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "BF73-305C7_20140804133617",
+    "sku": "BF73-305C7_20140804133617",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E87 BOSCH 0 281 019 680, 0281019680, DDE 8 573 257, DDE8573257, 8573257 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E87",
+      "YEAR": "2013",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 019680",
+      "NUMBER PARTS": "8573257",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programmin",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:40:56.705Z",
+    "model": "mistral:7b",
+    "durationMs": 8607,
+    "priceIncrement": 100
+  }
+}

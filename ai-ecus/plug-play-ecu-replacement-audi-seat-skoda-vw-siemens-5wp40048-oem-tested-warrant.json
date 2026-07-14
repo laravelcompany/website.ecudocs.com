@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi, Seat, Skoda, VW - Siemens 5WP40048 06, 5WP4004806, 036 906 033 A, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-audi-seat-skoda-vw-siemens-5wp40048-oem-tested-warrant",
+  "metaDescription": "OEM tested ECU engine controller for Audi, Seat, Skoda, VW. Plug & Play, 6-month warranty, fast dispatch within EU.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi, Seat, Skoda, VW",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WP40048",
+    "Audi",
+    "Seat",
+    "Skoda",
+    "VW"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller is a direct replacement for Audi, Seat, Skoda, and VW vehicles. It offers Plug & Play functionality for easy installation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Direct Replacement</li>\n        <li>Used, Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI, SEAT, SKODA, VW</td></tr>\n        <tr><th>NUMBER PARTS</th><td>036906033A</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI, SEAT, SKODA, VW, SIEMENS 5WP40048 06, 5WP4004806, 036 906 033 A, 036906033A",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI%2C-SEAT%2C-SKODA%2C-VW%2C-SIEMENS-5WP40048-06%2C-5WP4004806%2C-036-906-033-A%2C-036906033A-/50934",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "BC3C-7111A_20140128134228",
+    "sku": "BC3C-7111A_20140128134228",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI, SEAT, SKODA, VW, SIEMENS 5WP40048 06, 5WP4004806, 036 906 033 A, 036906033A </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI, SEAT, SKODA, VW",
+      "NUMBER PARTS": "036906033A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:02:39.076Z",
+    "model": "mistral:7b",
+    "durationMs": 10367,
+    "priceIncrement": 100
+  }
+}

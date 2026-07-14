@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Mondeo 1.8 3S7A-12A650-LA LBO-112 5HNA, Visteon",
+  "slug": "plug-play-ecu-ford-mondeo-18-visteon-3s7a-12a650-la-lbo-112-5hna",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford Mondeo 1.8 (3S7A12A650LA, 3S7A-12A650-LA LBO-112 5HNA) by Visteon. Fast dispatch and 12-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested Plug & Play ECU Replacement for Ford Mondeo 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "3S7A-12A650-LA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement is designed for Ford Mondeo 1.8 (3S7A12A650LA, 3S7A-12A650-LA LBO-112 5HNA). It is a reliable solution to restore your vehicle's engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Condition: Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>YEAR</th><td>2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>LBO-112</td></tr>\n        <tr><th>CODE</th><td>5HNA</td></tr>\n        <tr><th>NUMBER PARTS</th><td>3S7A-12A650-LA</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming /</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 1.8 3S7A12A650LA, 3S7A-12A650-LA LBO-112 5HNA",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-1.8-3S7A12A650LA%2C-3S7A-12A650-LA-LBO-112-5HNA/26307",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "9D65-420C6_20120625151751",
+    "sku": "9D65-420C6_20120625151751",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 1.8 3S7A12A650LA, 3S7A-12A650-LA LBO-112 5HNA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c6b023409940de8c8ea29d85d8e342ea_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_10ded1c4a6c7fc2c9a24575387d52e97_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "LBO-112",
+      "CODE": "5HNA",
+      "NUMBER PARTS": "3S7A-12A650-LA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming /",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:32:24.388Z",
+    "model": "mistral:7b",
+    "durationMs": 12105,
+    "priceIncrement": 100
+  }
+}

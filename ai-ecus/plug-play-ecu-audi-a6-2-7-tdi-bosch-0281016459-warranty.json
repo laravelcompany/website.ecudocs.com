@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A6 2.7 TDI - Bosch 0281016459, Warranty Included",
+  "slug": "plug-play-ecu-audi-a6-2-7-tdi-bosch-0281016459-warranty",
+  "metaDescription": "OEM tested Plug & Play ECU Engine Controller for Audi A6 2.7 TDI, Bosch 0281016459. Used in good condition, 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A6 2.7 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "2.7 TDI",
+    "Bosch",
+    "0281016459"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a reliable replacement for your Audi A6 2.7 TDI.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 2.7 TDI 4F7910401K, 4F7 910 401 K, 4F0907401E, 4F0 907 401 E, BOSCH 0281016459, 0 281 016 459, DIESEL EDC17CP14 CANA 0060 1039S42010",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-2.7-TDI-4F7910401K%2C-4F7-910-401-K%2C-4F0907401E%2C-4F0-907-401-E%2C-BOSCH-0281016459%2C-0-281-016-459%2C-DIESEL-EDC17CP14-CANA-0060-1039S42010-/16731",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F90D-235BB",
+    "sku": "F90D-235BB",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 2.7 TDI 4F7910401K, 4F7 910 401 K, 4F0907401E, 4F0 907 401 E, BOSCH 0281016459, 0 281 016 459, DIESEL EDC17CP14 CANA 0060 1039S42010 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "2.7 TDI",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 459",
+      "NUMBER PARTS": "DIESEL EDC17CP14",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:35:26.026Z",
+    "model": "mistral:7b",
+    "durationMs": 6223,
+    "priceIncrement": 100
+  }
+}

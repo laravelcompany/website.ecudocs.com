@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Renault Clio Scenic Siemens S118303109B - 6-month Warranty",
+  "slug": "plug-play-ecu-renault-clio-scenic-siemens-s118303109b-warranty",
+  "metaDescription": "Expertly tested ECU Engine Controller for Renault Clio Scenic, offering OEM quality and a 6-month warranty. Fast dispatch within EU.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Renault Clio Scenic",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Clio Scenic",
+    "Siemens S118303109B",
+    "Used ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU for Renault Clio Scenic is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Quality</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT CLIO SCENIC</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S118303109 B</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8200057311</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle's specific ECU requirements. Always confirm fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO SCENIC SIEMENS S118303109 B, S118303109B, 8200214974, 8200057311",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-SCENIC-SIEMENS-S118303109-B%2C-S118303109B%2C-8200214974%2C-8200057311-/93799",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "9821-45930_20160622162439",
+    "sku": "9821-45930_20160622162439",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO SCENIC SIEMENS S118303109 B, S118303109B, 8200214974, 8200057311 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO SCENIC",
+      "NUMBER MANUFACTURER": "SIEMENS S118303109 B",
+      "NUMBER PARTS": "8200057311",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:13:02.816Z",
+    "model": "mistral:7b",
+    "durationMs": 10104,
+    "priceIncrement": 100
+  }
+}

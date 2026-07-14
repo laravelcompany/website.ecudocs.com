@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Opel Astra 1.8 L16V Siemens 5WK9 050, GM 90 519 066 RW - 6-month Warranty",
+  "slug": "plug-play-ecu-opel-astra-1-8-l16v-siemens-5wk9-050-gm-90-519-066-rw-warranty",
+  "metaDescription": "OEM tested, Plug & Play ECU Engine Controller for Opel Astra 1.8 L16V Siemens 5WK9 050, GM 90 519 066 RW. Tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€350.00",
+  "excerpt": "OEM tested Plug & Play ECU for Opel Astra 1.8 L16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "Siemens 5WK9 050",
+    "GM 90 519 066 RW"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is suitable for Opel Astra 1.8 L16V and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>Used, Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL ASTRA</td></tr>\n        <tr><th>ENGINE</th><td>1.8 L16V</td></tr>\n        <tr><th>YEAR</th><td>1996</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WK9 050</td></tr>\n        <tr><th>NUMBER PARTS</th><td>GM 90 519 066 RW</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming / complet</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA SIEMENS 5WK9 050, 5WK9050, GM 90 519 066 RW, 90519066RW",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-SIEMENS-5WK9-050%2C-5WK9050%2C-GM-90-519-066-RW%2C-90519066RW/65483",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "5449-20219_20140909121525",
+    "sku": "5449-20219_20140909121525",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA SIEMENS 5WK9 050, 5WK9050, GM 90 519 066 RW, 90519066RW</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA",
+      "ENGINE": "1.8 L16V",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK9 050",
+      "NUMBER PARTS": "GM 90 519 066 RW",
+      "OPTION AVAILABLE": "Locked / Ready for programming / complet",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:15:45.233Z",
+    "model": "mistral:7b",
+    "durationMs": 12184,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT AROSA 1.0 AER Bosch 26SA5095 OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-seat-arosa-1-0-aer-bosch-26sa5095-tested",
+  "metaDescription": "Expertly tested and OEM Bosch ECU replacement for SEAT AROSA 1.0 AER (26SA5095). Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€87.00",
+  "excerpt": "Plug & Play Bosch ECU replacement for SEAT AROSA 1.0 AER",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT AROSA",
+    "Bosch 26SA5095",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for SEAT AROSA 1.0 AER is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Bosch part</li>\n        <li>Plug & Play installation</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Expertly tested and inspected</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SEAT AROSA</td></tr>\n        <tr><th>ENGINE:</th><td>1.0 AER</td></tr>\n        <tr><th>YEAR:</th><td>1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 203 930</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>26SA5095</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for SEAT AROSA 1.0 AER and may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT AROSA 1.0 030906027AK, 030 906 027 AK, BOSCH 0 261 203 930, 0261203930, MOTORSTEUERUNG 2274, 26SA5095",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-AROSA-1.0-030906027AK%2C-030-906-027-AK%2C-BOSCH-0-261-203-930%2C-0261203930%2C-MOTORSTEUERUNG-2274%2C-26SA5095-/16164",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1417-17591",
+    "sku": "1417-17591",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT AROSA 1.0 030906027AK, 030 906 027 AK, BOSCH 0 261 203 930, 0261203930, MOTORSTEUERUNG 2274, 26SA5095 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_cc7aa7819356bd6a1f8825032b114475_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0d632659f70a718a4fd1ec27a619973b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT AROSA",
+      "ENGINE": "1.0 AER",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 930",
+      "NUMBER PARTS": "26SA5095",
+      "OPTION AVAILABLE": "Plug & Play",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:48:38.740Z",
+    "model": "mistral:7b",
+    "durationMs": 9236,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Ford 1.6 HDI - Continental S180138002 D, FoMoCo AV61-12A650-PE, Warranty Included",
+  "slug": "plug-play-ecu-ford-1-6-hdi-continental-s180138002-d-fomoco-av61-12a650-pe-warran",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Ford 1.6 HDI - Continental S180138002 D, FoMoCo AV61-12A650-PE. Shipped within 24–48 hours with a 6-month warranty.",
+  "price": "€700.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford 1.6 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford 1.6 HDI",
+    "Continental S180138002 D",
+    "FoMoCo AV61-12A650-PE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford 1.6 HDI ensures seamless engine control and is covered by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>Warranty Included</li>\n<li>Used in Good Condition</li>\n<li>Locked / Unlocked Option Available</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD</td></tr>\n<tr><td>ENGINE</td><td>1.6 HDI</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>Continental S180138002 D</td></tr>\n<tr><td>NUMBER PARTS</td><td>FoMoCo AV61-12A650-PE</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipped within 24–48 hours with EU delivery and 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford 1.6 HDI, but always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 1.6 HDI Continental S180138002 D, S180138002D, FoMoCo AV61-12A650-PE, AV6112A650PE, SID807EVO",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-1.6-HDI-Continental-S180138002-D%2C-S180138002D%2C-FoMoCo-AV61-12A650-PE%2C-AV6112A650PE%2C-SID807EVO-/104183",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "0B46-484CB_20170310103201",
+    "sku": "0B46-484CB_20170310103201",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 1.6 HDI Continental S180138002 D, S180138002D, FoMoCo AV61-12A650-PE, AV6112A650PE, SID807EVO </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "ENGINE": "1.6 HDI",
+      "NUMBER MANUFACTURER": "Continental S180138002 D",
+      "NUMBER PARTS": "FoMoCo AV61-12A650-PE",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:45:46.402Z",
+    "model": "mistral:7b",
+    "durationMs": 12022,
+    "priceIncrement": 100
+  }
+}

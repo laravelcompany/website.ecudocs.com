@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Jeep Grand Cherokee 3.0 CRD Bosch 0281013360, Warranty Included",
+  "slug": "plug-play-oem-tested-ecu-replacement-jeep-grand-cherokee-3-0-crd-bosch-028101336",
+  "metaDescription": "Buy this Plug & Play OEM tested ECU replacement for Jeep Grand Cherokee 3.0 CRD Bosch 0281013360, backed by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play OEM tested ECU replacement for Jeep Grand Cherokee 3.0 CRD Bosch 0281013360.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Jeep Grand Cherokee",
+    "3.0 CRD",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Jeep Grand Cherokee 3.0 CRD Bosch 0281013360 is expertly inspected, tested, and covered by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>CODE</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>JEEP GRAND CHEROKEE</td><td>3.0 CRD</td><td>2008</td><td>BOSCH 0 281 013 360</td><td>CEMEA</td><td>P56044 189AK</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This product is compatible with Jeep Grand Cherokee 3.0 CRD only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JEEP GRAND CHEROKEE 3.0 CRD BOSCH 0281013360, 0 281 013 360 P56044189AK, P56044 189AK CEMEA",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JEEP-GRAND-CHEROKEE-3.0-CRD-BOSCH-0281013360%2C-0-281-013-360-P56044189AK%2C-P56044-189AK-CEMEA/32124",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "928D-862E4",
+    "sku": "928D-862E4",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JEEP GRAND CHEROKEE 3.0 CRD BOSCH 0281013360, 0 281 013 360 P56044189AK, P56044 189AK CEMEA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JEEP GRAND CHEROKEE",
+      "ENGINE": "3.0 CRD",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 360",
+      "CODE": "CEMEA",
+      "NUMBER PARTS": "P56044 189AK",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:07:44.217Z",
+    "model": "mistral:7b",
+    "durationMs": 10856,
+    "priceIncrement": 100
+  }
+}

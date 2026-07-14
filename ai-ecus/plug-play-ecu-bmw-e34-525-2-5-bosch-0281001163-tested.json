@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E34 525 2.5 TDS BOSCH 0281001163, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-bmw-e34-525-2-5-bosch-0281001163-tested",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for BMW E34 525 2.5 TDS BOSCH 0281001163, backed by a 6-month warranty.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E34 525 2.5 TDS",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E34 525",
+    "BOSCH 0281001163"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for BMW E34 525 2.5 TDS is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM tested for guaranteed fitment</li>\n<li>6-month warranty</li>\n<li>Used in good condition</li>\n<li>Fast dispatch within EU</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>BMW E34 525</td></tr>\n<tr><td>ENGINE</td><td>2.5 TDS</td></tr>\n<tr><td>YEAR</td><td>1991-1992</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 001 163</td></tr>\n<tr><td>NUMBER PARTS</td><td>2 244 734</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">This product is shipped within 24–48 hours and comes with a 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult with a certified technician if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E34 525 2.5 TDS BOSCH 0281001163, 0 281 001 163, 2244734, 2 244 734",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E34-525-2.5-TDS-BOSCH-0281001163%2C-0-281-001-163%2C-2244734%2C-2-244-734/28379",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7249-9908B_20120826175613",
+    "sku": "7249-9908B_20120826175613",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E34 525 2.5 TDS BOSCH 0281001163, 0 281 001 163, 2244734, 2 244 734</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E34 525",
+      "ENGINE": "2.5 TDS",
+      "YEAR": "1991-1992",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 163",
+      "NUMBER PARTS": "2 244 734",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:24:43.426Z",
+    "model": "mistral:7b",
+    "durationMs": 10227,
+    "priceIncrement": 100
+  }
+}

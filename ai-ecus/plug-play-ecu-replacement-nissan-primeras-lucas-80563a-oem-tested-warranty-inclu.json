@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN PRIMERA 1.6 LUCAS 80563A, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-nissan-primeras-lucas-80563a-oem-tested-warranty-inclu",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for NISSAN PRIMERA 1.6 LUCAS 80563A, backed by a 6-month warranty and Plug & Play functionality.",
+  "price": "€70.00",
+  "excerpt": "OEM tested ECU Engine Controller for NISSAN PRIMERA 1.6 LUCAS 80563A",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Primeras",
+    "Lucas 80563A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for NISSAN PRIMERA 1.6 LUCAS 80563A is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play functionality</li><li>OEM Tested and Certified</li><li>6-month warranty</li><li>Used in good condition</li><li>Compatible with NISSAN PRIMERA 1.6 LUCAS 80563A</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>NISSAN PRIMERA</td></tr>\n<tr><th>ENGINE</th><td>1.6</td></tr>\n<tr><th>YEAR</th><td>1997</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>LUCAS 80563A</td></tr>\n<tr><th>NUMBER PARTS</th><td>2371031300</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional technician if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 1.6 LUCAS 80563A, 23710-3J300 AE, 2371031300",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-1.6-LUCAS-80563A%2C-23710-3J300-AE%2C-2371031300-/13129",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "5B82-24759",
+    "sku": "5B82-24759",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 1.6 LUCAS 80563A, 23710-3J300 AE, 2371031300 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "1.6",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "LUCAS 80563A",
+      "NUMBER PARTS": "2371031300",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:30:26.985Z",
+    "model": "mistral:7b",
+    "durationMs": 10817,
+    "priceIncrement": 100
+  }
+}

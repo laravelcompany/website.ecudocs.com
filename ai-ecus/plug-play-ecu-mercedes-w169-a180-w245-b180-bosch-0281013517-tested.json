@@ -1,0 +1,56 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mercedes W169 A180 W245 B180 Bosch 0 281 013 517, A 640 150 88 79 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w169-a180-w245-b180-bosch-0281013517-tested",
+  "metaDescription": "Expertly tested and OEM ECU Engine Controller for Mercedes W169 A180 W245 B180. Plug & Play replacement, backed by a 6-month warranty.",
+  "price": "€870.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mercedes W169 A180 W245 B180",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W169 A180 W245 B180",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is specifically designed for Mercedes W169 A180 W245 B180 with a 2.0 CDI engine (2006-2007).</section>\n<section class=\"features\"><ul><li>OEM Tested and Certified</li><li>Plug & Play for Easy Installation</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Compatible with Locked / Unlocked ECUs</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th></tr>\n<tr><td>ECU ENGINE CONTROLLER</td><td>MERCEDES W169 A180 W245 B180</td><td>2.0 CDI</td><td>2006-2007</td><td>BOSCH 0 281 013 517</td><td>A 640 150 88 79</td><td>LOCKED / UNLOCKED</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your specific vehicle model and year before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W169 A180 W245 B180 BOSCH 0 281 013 517, 0281013517, A 640 150 88 79, A6401508879, 6401508879",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W169-A180-W245-B180-BOSCH-0-281-013-517%2C-0281013517%2C-A-640-150-88-79%2C-A6401508879%2C-6401508879/27130",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "94AE-84988_20120731065611",
+    "sku": "94AE-84988_20120731065611",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W169 A180 W245 B180 BOSCH 0 281 013 517, 0281013517, A 640 150 88 79, A6401508879, 6401508879</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_0066f9ca9f2ebc719c8ef7082104d792_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a9d523093f6b56bf57dbfaca76b0ef90_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f8058a7103d2b51230018c599c5bd44e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_41d0193f05052e3568448cb59e17ab69_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W169 A180 W245 B180",
+      "ENGINE": "2.0 CDI",
+      "YEAR": "2006-2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 517",
+      "NUMBER PARTS": "A 640 150 88 79",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:09:23.961Z",
+    "model": "mistral:7b",
+    "durationMs": 10369,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Citroen Peugeot 1.4 Magneti Marelli IAW 6LP2.06, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-peugeot-14-magneti-marelli-iaw-6lp206",
+  "metaDescription": "OEM tested ECU Engine Controller for Citroen Peugeot 1.4 Magneti Marelli IAW 6LP2.06, used in good condition with a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen Peugeot 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "Magneti Marelli",
+    "IAW 6LP2.06"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Citroen Peugeot 1.4 Magneti Marelli IAW 6LP2.06 is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Used in Good Condition</li>\n<li>Fast Dispatch (EU)</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Details</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>PARTS</td>\n<td>ECU ENGINE CONTROLLER</td>\n</tr>\n<tr>\n<td>BRAND AND MODEL</td>\n<td>CITROEN PEUGEOT</td>\n</tr>\n<tr>\n<td>ENGINE</td>\n<td>1.4</td>\n</tr>\n<tr>\n<td>NUMBER MANUFACTURER</td>\n<td>Magneti Marelli IAW 6LP2.06</td>\n</tr>\n<tr>\n<td>NUMBER PARTS</td>\n<td>SW 9657429480</td>\n</tr>\n<tr>\n<td>OPTION AVAILABLE</td>\n<td>LOCKED / UNLOCKED</td>\n</tr>\n<tr>\n<td>INSPECTION:</td>\n<td>Device thoroughly inspected and tested by a certified technician</td>\n</tr>\n<tr>\n<td>WARRANTY :</td>\n<td>6-month warranty</td>\n</tr>\n<tr>\n<td>CONDITION</td>\n<td>USED IN GOOD CONDITION</td>\n</tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle model and year. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.4 Magneti Marelli IAW 6LP2.06, IAW6LP2, IAW6LP206, SW 9657429480, SW9657429480",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-1.4-Magneti-Marelli-IAW-6LP2.06%2C-IAW6LP2%2C-IAW6LP206%2C-SW-9657429480%2C-SW9657429480/71246",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "F2CE-48766_20150105093126",
+    "sku": "F2CE-48766_20150105093126",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.4 Magneti Marelli IAW 6LP2.06, IAW6LP2, IAW6LP206, SW 9657429480, SW9657429480</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "Magneti Marelli IAW 6LP2.06",
+      "NUMBER PARTS": "SW 9657429480",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:54:28.002Z",
+    "model": "mistral:7b",
+    "durationMs": 11956,
+    "priceIncrement": 100
+  }
+}

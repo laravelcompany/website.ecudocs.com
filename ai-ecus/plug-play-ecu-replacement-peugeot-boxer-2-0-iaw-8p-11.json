@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Peugeot Boxer 2.0 IAW 8P.11 (OEM Tested, Warranty Included)",
+  "slug": "plug-play-ecu-replacement-peugeot-boxer-2-0-iaw-8p-11",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Peugeot Boxer 2.0 IAW 8P.11, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€435.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot Boxer 2.0 IAW 8P.11",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot Boxer",
+    "IAW 8P.11"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and used original ECU Engine Controller for Peugeot Boxer 2.0 IAW 8P.11 is in good condition and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT BOXER 2.0 IAW 8P.11, IAW8P11, 61600.415.00, 6160041500, 1321797080",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-BOXER-2.0-IAW-8P.11%2C-IAW8P11%2C-61600.415.00%2C-6160041500%2C-1321797080-/44911",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "241D-4802E",
+    "sku": "241D-4802E",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT BOXER 2.0 IAW 8P.11, IAW8P11, 61600.415.00, 6160041500, 1321797080 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT BOXER",
+      "ENGINE": "2.0",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "IAW 8P.11",
+      "NUMBER PARTS": "1321797080",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:28:53.243Z",
+    "model": "mistral:7b",
+    "durationMs": 6222,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Vehicle 1.8 16V Engine - OEM Tested Visteon 98AB-12A650-DBC, LP4-331 - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-ford-1-8-16v-oem-tested-visteon-98ab-12a650-dbc-lp4-33",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Ford Vehicle 1.8 16V with Plug & Play functionality, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€275.00",
+  "excerpt": "OEM Tested ECU Replacement for Ford 1.8 16V Engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Vehicle",
+    "1.8 16V Engine",
+    "Visteon 98AB-12A650-DBC",
+    "LP4-331"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for Ford vehicles is a reliable replacement for your 1.8 16V engine.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Quick dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD</td></tr>\n        <tr><th>ENGINE</th><td>1.8 16V</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>VISTEON 98AB-12A650-DBC</td></tr>\n        <tr><th>NUMBER PARTS</th><td>LP4-331</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD VISTEON 98AB-12A650-DBC, 98AB12A650DBC, QUAT, LP4-331",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-VISTEON-98AB-12A650-DBC%2C-98AB12A650DBC%2C-QUAT%2C-LP4-331/63399",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "5EB0-1730C_20140819122850",
+    "sku": "5EB0-1730C_20140819122850",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD VISTEON 98AB-12A650-DBC, 98AB12A650DBC, QUAT, LP4-331</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a983bfb6cc278e8d4c85b39cd86dbf48_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_cf6f01c86cac5fb372ada03e2094b501_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "ENGINE": "1.8 16V",
+      "NUMBER MANUFACTURER": "VISTEON 98AB-12A650-DBC",
+      "NUMBER PARTS": "LP4-331",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:10:16.150Z",
+    "model": "mistral:7b",
+    "durationMs": 10579,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Cougar 2.5 OEM Tested - 98BB-12A650-AAD, UNIT - Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-cougar-2-5-oem-tested-98bb-12a650-aad-unit-warran",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Ford Cougar 2.5 (98BB-12A650-AAD, UNIT) - OEM tested and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Cougar 2.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Cougar",
+    "98BB-12A650-AAD",
+    "Unit"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a tested and reliable replacement for your Ford Cougar 2.5 (98BB-12A650-AAD, UNIT).</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>FORD COUGAR</td></tr>\n      <tr><th>ENGINE</th><td>2.5</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>98BB-12A650-AAD</td></tr>\n      <tr><th>NUMBER PARTS</th><td>UNIT</td></tr>\n      <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure this ECU is compatible with your specific Ford Cougar model before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD COUGAR 2.5 98BB-12A650-AAD, 9812A650AAD, UNIT",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-COUGAR-2.5-98BB-12A650-AAD%2C-9812A650AAD%2C-UNIT-/44001",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "E239-79720",
+    "sku": "E239-79720",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD COUGAR 2.5 98BB-12A650-AAD, 9812A650AAD, UNIT </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD COUGAR",
+      "ENGINE": "2.5",
+      "NUMBER MANUFACTURER": "98BB-12A650-AAD",
+      "NUMBER PARTS": "UNIT",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:06:36.763Z",
+    "model": "mistral:7b",
+    "durationMs": 10321,
+    "priceIncrement": 100
+  }
+}

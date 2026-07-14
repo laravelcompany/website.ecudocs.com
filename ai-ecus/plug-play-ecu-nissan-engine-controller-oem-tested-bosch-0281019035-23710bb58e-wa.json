@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested NISSAN Engine Controller (0281019035 23710BB58E) - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-engine-controller-oem-tested-bosch-0281019035-23710bb58e-wa",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your NISSAN, tested and covered by a 6-month warranty. Order now with fast dispatch!",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "NISSAN engine controller",
+    "OEM tested",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested ECU Engine Controller is a reliable solution for your NISSAN. It's thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used, Original in Good Condition</li>\n<li>Ready for Programming</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>NISSAN</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>0281019035 23710BB58E</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN 0281019035 23710BB58E",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-0281019035-23710BB58E/134839",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "BCCC-175C0_20230504153153",
+    "sku": "BCCC-175C0_20230504153153",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN 0281019035 23710BB58E</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN",
+      "NUMBER MANUFACTURER": "0281019035 23710BB58E",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:59:36.898Z",
+    "model": "mistral:7b",
+    "durationMs": 10000,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Mondeo 2.0 BLOB - ECU Replacement, 6-month Warranty",
+  "slug": "plug-play-ecu-ford-mondeo-2-0-blob-oem-tested-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford Mondeo 2.0 BLOB. This ECU replacement comes with a 6-month warranty and is tested by a certified technician.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Mondeo 2.0 BLOB",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.0",
+    "BLOB",
+    "Visteon"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Ford Mondeo 2.0 BLOB is a reliable replacement part, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used, Original in Good Condition</li>\n<li>Fast Dispatch</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD MONDEO</td></tr>\n<tr><td>ENGINE</td><td>2.0</td></tr>\n<tr><td>NUMBER PARTS</td><td>BLOB</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 93BB-12A650-BB, 93BB12A650BB, BLOB",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-93BB-12A650-BB%2C-93BB12A650BB%2C-BLOB/53370",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "7218-443EB_20140402150011",
+    "sku": "7218-443EB_20140402150011",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 93BB-12A650-BB, 93BB12A650BB, BLOB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0",
+      "NUMBER PARTS": "BLOB",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:37:02.372Z",
+    "model": "mistral:7b",
+    "durationMs": 9539,
+    "priceIncrement": 100
+  }
+}

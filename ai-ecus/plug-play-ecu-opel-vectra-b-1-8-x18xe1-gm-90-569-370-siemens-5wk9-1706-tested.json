@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Opel Vectra B 1.8 X18XE1 GM 90 569 370 Siemens 5WK9 1706, 6-month Warranty",
+  "slug": "plug-play-ecu-opel-vectra-b-1-8-x18xe1-gm-90-569-370-siemens-5wk9-1706-tested",
+  "metaDescription": "Find the Plug & Play ECU Replacement for your Opel Vectra B 1.8 X18XE1 engine, tested and covered by a 6-month warranty. Order now with fast dispatch!",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Vectra B",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra B",
+    "1.8 X18XE1",
+    "GM 90 569 370",
+    "Siemens 5WK9 1706"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for your Opel Vectra B 1.8 X18XE1 engine ensures seamless performance and reliability.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM Tested for guaranteed fitment</li><li>6-month warranty for peace of mind</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>OPEL VECTRA B</td></tr>\n      <tr><th>ENGINE</th><td>1.8 X18XE1</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>GM 90 569 370</td></tr>\n      <tr><th>NUMBER PARTS</th><td>SIEMENS 5WK9 1706</td></tr>\n      <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED / COMPLETE</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra B 1.8 X18XE1 engine. Always ensure proper installation by a certified technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA 90569370 5WK91706",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-90569370-5WK91706/9895",
+    "priceCurrency": "EUR",
+    "netPrice": "€150.00",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "9895",
+    "sku": "9895",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA 90569370 5WK91706</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_5124bfdc94cd811cdee549ba1baea356_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_303271_0_0/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-B-1.8-GM-90-569-370%2C-90569370%2C-SIEMENS-5WK9-1706%2C-5WK91706.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VECTRA B",
+      "ENGINE": "1.8 X18XE1",
+      "NUMBER MANUFACTURER": "GM 90 569 370",
+      "NUMBER PARTS": "SIEMENS 5WK9 1706",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:22:07.173Z",
+    "model": "mistral:7b",
+    "durationMs": 10235,
+    "priceIncrement": 100
+  }
+}

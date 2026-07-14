@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Honda Accord 2.2, Bosch 0 281 015 301 - 6-month Warranty",
+  "slug": "plug-play-ecu-honda-accord-22-bosch-oem-tested",
+  "metaDescription": "Expertly inspected and tested ECU Engine Controller for Honda Accord 2.2, Bosch 0 281 015 301. Plug & Play replacement with 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Honda Accord 2.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Accord 2.2",
+    "Bosch 0 281 015 301"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Honda Accord 2.2, Bosch 0 281 015 301 is a reliable replacement, thoroughly inspected and tested by our certified technicians.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Details</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><td>BRAND AND MODEL</td><td>HONDA ACCORD</td></tr>\n        <tr><td>ENGINE</td><td>2.2</td></tr>\n        <tr><td>YEAR</td><td>2008</td></tr>\n        <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 015 301</td></tr>\n        <tr><td>NUMBER PARTS</td><td>37820-RL0-G23 2G</td></tr>\n        <tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n      </tbody>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Honda Accord 2.2. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA ACCORD 2.2, BOSCH 0 281 015 301, 0281015301, 37820-RL0-G23 2G",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-ACCORD-2.2%2C-BOSCH-0-281-015-301%2C-0281015301%2C-37820-RL0-G23-2G-/41875",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "EDE9-8518F",
+    "sku": "EDE9-8518F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA ACCORD 2.2, BOSCH 0 281 015 301, 0281015301, 37820-RL0-G23 2G </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e271df39220ad08955cf51ac90f6af17_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_2a3f20a571f54ee603a581e57bb7fb4a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA ACCORD",
+      "ENGINE": "2.2",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 301",
+      "NUMBER PARTS": "37820-RL0-G23 2G",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:15:26.614Z",
+    "model": "mistral:7b",
+    "durationMs": 10456,
+    "priceIncrement": 100
+  }
+}

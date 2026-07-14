@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mercedes W169 1.8 CDI Bosch 0 281 014 668, A 640 150 05 34 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w169-18-cdi-bosch-0281014668-a6401500534-warranty",
+  "metaDescription": "OEM tested Plug & Play ECU Engine Controller for Mercedes W169 1.8 CDI, covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mercedes W169 1.8 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W169",
+    "1.8 CDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is suitable for Mercedes W169 1.8 CDI and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W169</td></tr>\n        <tr><th>ENGINE</th><td>1.8 CDI</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 014 668</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A 640 150 05 34</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W169 1.8 CDI BOSCH 0 281 014 668, 0281014668, A 640 150 05 34, A6401500534, CRA32.0M640",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W169-1.8-CDI-BOSCH-0-281-014-668%2C-0281014668%2C-A-640-150-05-34%2C-A6401500534%2C-CRA32.0M640-/86460",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2DAB-5036D_20160219111503",
+    "sku": "2DAB-5036D_20160219111503",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W169 1.8 CDI BOSCH 0 281 014 668, 0281014668, A 640 150 05 34, A6401500534, CRA32.0M640 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W169",
+      "ENGINE": "1.8 CDI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 668",
+      "NUMBER PARTS": "A 640 150 05 34",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:07:24.559Z",
+    "model": "mistral:7b",
+    "durationMs": 10515,
+    "priceIncrement": 100
+  }
+}

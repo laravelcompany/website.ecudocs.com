@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM ECU Replacement - Chrysler Voyager 2.5 TDI, Motorola 04A047AQ5JL2, 353AG",
+  "slug": "plug-play-oem-ecu-replacement-chrysler-voyager-2-5-tdi-motorola-04a047aq5jl2-353",
+  "metaDescription": "OEM tested ECU Engine Controller for Chrysler Voyager 2.5 TDI, 6-month warranty, Plug & Play installation.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Chrysler Voyager 2.5 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chrysler Voyager",
+    "2.5 TDI",
+    "Motorola",
+    "04A047AQ5JL2",
+    "353AG"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Chrysler Voyager 2.5 TDI ensures reliable performance and is ready for plug & play installation.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play Installation</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CHRYSLER VOYAGER</td></tr>\n        <tr><th>ENGINE</th><td>2.5 TDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>04A047AQ5JL2</td></tr>\n        <tr><th>NUMBER PARTS</th><td>353AG</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHRYSLER VOYAGER 2.5 TDI, 04A047AQ5JL2, 353AG",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHRYSLER-VOYAGER-2.5-TDI%2C-04A047AQ5JL2%2C-353AG/36784",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "CA12-7078B_20130705105952",
+    "sku": "CA12-7078B_20130705105952",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHRYSLER VOYAGER 2.5 TDI, 04A047AQ5JL2, 353AG</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHRYSLER VOYAGER",
+      "ENGINE": "2.5 TDI",
+      "NUMBER MANUFACTURER": "04A047AQ5JL2",
+      "NUMBER PARTS": "353AG",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:12:17.083Z",
+    "model": "mistral:7b",
+    "durationMs": 10363,
+    "priceIncrement": 100
+  }
+}

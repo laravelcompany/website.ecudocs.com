@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A4 S4 2.0 BOSCH 0 261 S01 036 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-a4-s4-2-0-bosch-0-261-s01-036-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Audi A4 S4 2.0 BOSCH 0 261 S01 036, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A4 S4 2.0 BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4 S4",
+    "Bosch 0 261 S01 036"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller for Audi A4 S4 2.0 BOSCH ensures seamless engine control and performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Fast EU dispatch</li>\n        <li>Original in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A4 S4</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>YEAR</th><td>2004</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8E1910018D</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU-wide with 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Audi A4 S4 2.0 BOSCH models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 S4 2.0 BOSCH 0 261 S01 036, 0261S01036, 8E1 910 018 D, 8E1910018D",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-S4-2.0-BOSCH-0-261-S01-036%2C-0261S01036%2C-8E1-910-018-D%2C-8E1910018D/55441",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8448-776FE_20140508094615",
+    "sku": "8448-776FE_20140508094615",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 S4 2.0 BOSCH 0 261 S01 036, 0261S01036, 8E1 910 018 D, 8E1910018D</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4 S4",
+      "ENGINE": "2.0",
+      "YEAR": "2004",
+      "NUMBER PARTS": "8E1910018D",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:22:16.831Z",
+    "model": "mistral:7b",
+    "durationMs": 11009,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN MICRA 1.5 DCI OEM Tested - HOM8200275921, R0410C074B - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-mica-1-5-dci-oem-tested-hom8200275921-r0410c074b-warranty",
+  "metaDescription": "Find the Plug & Play ECU Replacement for your NISSAN MICRA 1.5 DCI with a 6-month warranty. OEM tested and ready for installation.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan Micra 1.5 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Micra",
+    "1.5 DCI",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your NISSAN MICRA 1.5 DCI is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Ready for programming</li>\n        <li>Used but in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>NISSAN MICRA</td></tr>\n        <tr><th>ENGINE:</th><td>1.5 DCI</td></tr>\n        <tr><th>YEAR:</th><td>2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>HOM8200275921</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>R0410C074B</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN MICRA 1.5 DCI R0410C074B, 8200340940, HOM8200275921",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-MICRA-1.5-DCI-R0410C074B%2C-8200340940%2C-HOM8200275921-/41643",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Trw",
+    "productCode": "3579-680BE",
+    "sku": "3579-680BE",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN MICRA 1.5 DCI R0410C074B, 8200340940, HOM8200275921 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN MICRA",
+      "ENGINE": "1.5 DCI",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "HOM8200275921",
+      "NUMBER PARTS": "R0410C074B",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:24:22.540Z",
+    "model": "mistral:7b",
+    "durationMs": 9688,
+    "priceIncrement": 100
+  }
+}

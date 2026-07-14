@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Renault Clio 1.2 Siemens S120201205 D - 6-month Warranty",
+  "slug": "plug-play-ecu-renault-clio-1-2-siemens-s120201205d-warranty",
+  "metaDescription": "Expertly tested ECU Engine Controller for Renault Clio 1.2 Siemens S120201205 D, offering Plug & Play installation and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Renault Clio 1.2 Siemens S120201205 D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens S120201205 D",
+    "Renault Clio 1.2"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is specifically designed for Renault Clio 1.2 and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in good condition</li>\n        <li>Device thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT CLIO</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>YEAR</th><td>2001-2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S120201205 D</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8200400245</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Clio 1.2 Siemens S120201205 D. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO 1.2 SIEMENS S120201205 D, S120201205D, 8200406058, 8200400245, SIM32",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-1.2-SIEMENS-S120201205-D%2C-S120201205D%2C-8200406058%2C-8200400245%2C-SIM32/13166",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "5184-98360",
+    "sku": "5184-98360",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO 1.2 SIEMENS S120201205 D, S120201205D, 8200406058, 8200400245, SIM32</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO",
+      "ENGINE": "1.2",
+      "YEAR": "2001-2004",
+      "NUMBER MANUFACTURER": "SIEMENS S120201205 D",
+      "NUMBER PARTS": "8200400245",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:56:28.965Z",
+    "model": "mistral:7b",
+    "durationMs": 10313,
+    "priceIncrement": 100
+  }
+}

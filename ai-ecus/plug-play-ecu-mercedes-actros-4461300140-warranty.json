@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Mercedes Actros 4461300140, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-actros-4461300140-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Mercedes Actros 4461300140. OEM tested, warranty included, and fast dispatch.",
+  "price": "€770.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes Actros",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Actros",
+    "WABCO",
+    "4461300140"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Mercedes Actros is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Compatible with Mercedes Actros</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES ACTROS</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>4461300140</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes Actros. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES ACTROS 4461300140",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-ACTROS-4461300140/136860",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "WABCO",
+    "productCode": "3449-86779_20231019142536",
+    "sku": "3449-86779_20231019142536",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES ACTROS 4461300140</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES ACTROS",
+      "NUMBER MANUFACTURER": "4461300140",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:13:53.811Z",
+    "model": "mistral:7b",
+    "durationMs": 9309,
+    "priceIncrement": 100
+  }
+}

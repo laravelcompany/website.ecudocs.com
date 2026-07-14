@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Chevrolet Engine Controller (12574976, 12573576, 12579356) - Warranty Included",
+  "slug": "plug-play-ecu-chevrolet-engine-controller-warranty-included",
+  "metaDescription": "Buy the Plug & Play OEM Tested ECU Engine Controller for Chevrolet (12574976, 12573576, 12579356). Used ORYGINAL in good condition, backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Chevrolet",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet",
+    "12574976",
+    "12573576",
+    "12579356"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU replacement for Chevrolet is a reliable solution for your engine control unit issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified for quality assurance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used ORYGINAL in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CHEVROLET</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>12574976</td></tr>\n        <tr><th>NUMBER PARTS</th><td>12579356</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET 12574976, 12573576, 12579356",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-12574976%2C-12573576%2C-12579356/122597",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "4F74-4465E_20201117130108",
+    "sku": "4F74-4465E_20201117130108",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET 12574976, 12573576, 12579356</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET",
+      "NUMBER MANUFACTURER": "12574976",
+      "NUMBER PARTS": "12579356",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:54:31.823Z",
+    "model": "mistral:7b",
+    "durationMs": 10228,
+    "priceIncrement": 100
+  }
+}

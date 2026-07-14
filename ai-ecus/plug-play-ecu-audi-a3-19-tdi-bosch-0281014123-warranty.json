@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A3 1.9 TDI - Bosch 0281014123, Warranty Included",
+  "slug": "plug-play-ecu-audi-a3-19-tdi-bosch-0281014123-warranty",
+  "metaDescription": "OEM tested Plug & Play ECU Engine Controller for Audi A3 1.9 TDI by Bosch (0281014123). Tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM tested Plug & Play ECU Engine Controller for Audi A3 1.9 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "1.9 TDI",
+    "Bosch",
+    "0281014123"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Audi A3 1.9 TDI is a reliable replacement part by Bosch (0281014123).</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for optimal performance</li><li>6-month warranty included</li><li>Locked and ready for programming</li><li>Thoroughly inspected and tested by a certified technician</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Value</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>AUDI A3</td></tr><tr><td>ENGINE</td><td>1.9 TDI</td></tr><tr><td>YEAR</td><td>2007</td></tr><tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 014 123</td></tr><tr><td>NUMBER PARTS</td><td>1039S25082</td></tr><tr><td>OPTION AVAILABLE</td><td>Locked / Ready for programming</td></tr><tr><td>WARRANTY</td><td>6-month warranty</td></tr><tr><td>INSPECTION</td><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A3 1.9 TDI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 1.9 TDI 03G906021RE, 03G 906 021 RE, 03G906021AB, 03G 906 021 AB, BOSCH 0 281 014 123, 0281014123, DIESEL EDC16U34 1955, 1039S25082",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-1.9-TDI-03G906021RE%2C-03G-906-021-RE%2C-03G906021AB%2C-03G-906-021-AB%2C-BOSCH-0-281-014-123%2C-0281014123%2C-DIESEL-EDC16U34-1955%2C-1039S25082-/16112",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3A1F-37392",
+    "sku": "3A1F-37392",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A3 1.9 TDI 03G906021RE, 03G 906 021 RE, 03G906021AB, 03G 906 021 AB, BOSCH 0 281 014 123, 0281014123, DIESEL EDC16U34 1955, 1039S25082 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 123",
+      "NUMBER PARTS": "1039S25082",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:48:07.948Z",
+    "model": "mistral:7b",
+    "durationMs": 10988,
+    "priceIncrement": 100
+  }
+}

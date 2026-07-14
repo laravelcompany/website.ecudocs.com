@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Opel Corsa 1.4 DELCO 16187569 NA, BDPW - Warranty Included",
+  "slug": "plug-play-ecu-opel-corsa-14-delco-16187569-na-bdpw-warranty",
+  "metaDescription": "OEM tested ECU Engine Controller for Opel Corsa 1.4 DELCO 16187569 NA, BDPW. Plug & Play replacement with 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "OEM tested ECU Engine Controller for Opel Corsa 1.4 DELCO 16187569 NA, BDPW",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Corsa",
+    "DELCO 16187569",
+    "BDPW"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for Opel Corsa 1.4 DELCO 16187569 NA, BDPW.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Device thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL CORSA</td></tr>\n        <tr><th>ENGINE:</th><td>1.4</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>DELCO 16187569 NA</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>BDPW</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is intended for Opel Corsa 1.4 DELCO 16187569 NA, BDPW only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA 1.4 DELCO 16187569 NA, 16187569NA, BDPW",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-1.4-DELCO-16187569-NA%2C-16187569NA%2C-BDPW/72198",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "A2BC-702FE_20150203134435",
+    "sku": "A2BC-702FE_20150203134435",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA 1.4 DELCO 16187569 NA, 16187569NA, BDPW</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "DELCO 16187569 NA",
+      "NUMBER PARTS": "BDPW",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:51:36.181Z",
+    "model": "mistral:7b",
+    "durationMs": 9609,
+    "priceIncrement": 100
+  }
+}

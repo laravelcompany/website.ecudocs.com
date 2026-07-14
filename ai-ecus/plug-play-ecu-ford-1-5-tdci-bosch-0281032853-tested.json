@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford 1.5 TDCI BOSCH 0 281 032 853, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-1-5-tdci-bosch-0281032853-tested",
+  "metaDescription": "Expertly tested and guaranteed ECU Engine Controller for Ford 1.5 TDCI BOSCH 0 281 032 853, with Plug & Play functionality, backed by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford 1.5 TDCI BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford 1.5 TDCI",
+    "BOSCH 0 281 032 853"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and guaranteed ECU Engine Controller for Ford 1.5 TDCI BOSCH 0 281 032 853 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested and guaranteed</li>\n        <li>6-month warranty included</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Ford 1.5 TDCI engines</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.5 TDCI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 032 853</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>ET71-12A650-SD</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford 1.5 TDCI engines only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 1.5 TDCI BOSCH 0 281 032 853, 0281032853, ET71-12A650-SD, ET7112A650SD",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-1.5-TDCI-BOSCH-0-281-032-853%2C-0281032853%2C-ET71-12A650-SD%2C-ET7112A650SD/112503",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9794-785BC_20190307130758",
+    "sku": "9794-785BC_20190307130758",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 1.5 TDCI BOSCH 0 281 032 853, 0281032853, ET71-12A650-SD, ET7112A650SD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_226394_0_0/ECU-ENGINE-CONTROLLER-FORD-1.5-TDCI-BOSCH-0-281-032-853%2C-0281032853%2C-ET71-12A650-SD%2C-ET7112A650SD.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_226395_0_0/ECU-ENGINE-CONTROLLER-FORD-1.5-TDCI-BOSCH-0-281-032-853%2C-0281032853%2C-ET71-12A650-SD%2C-ET7112A650SD.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "ENGINE": "1.5 TDCI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 032 853",
+      "NUMBER PARTS": "ET71-12A650-SD",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:44:16.456Z",
+    "model": "mistral:7b",
+    "durationMs": 13351,
+    "priceIncrement": 100
+  }
+}

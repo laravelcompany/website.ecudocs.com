@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes W210 2.2 D Lucas R 04010017 D, A 020 545 53 32 - 6-month warranty",
+  "slug": "plug-play-ecu-mercedes-w210-2-2d-lucas-r-04010017d-a-020-545-53-32-tested",
+  "metaDescription": "Buy this Plug & Play OEM Tested ECU Replacement for Mercedes W210 2.2 D Lucas R 04010017 D, A 020 545 53 32 with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Mercedes W212",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W210",
+    "Lucas R 04010017 D",
+    "A 020 545 53 32"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Mercedes W210 2.2 D Lucas R 04010017 D, A 020 545 53 32 is a reliable solution to your engine control unit issues.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Thoroughly Inspected and Tested by a Certified Technician</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MERCEDES W210</td></tr>\n<tr><td>ENGINE</td><td>2.2 D</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>LUCAS R 04010017 D</td></tr>\n<tr><td>NUMBER PARTS</td><td>A 020 545 53 32</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W210 2.2 D LUCAS R 04010017 D, R04010017D, A 020 545 53 32, A0205455332",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W210-2.2-D-LUCAS-R-04010017-D%2C-R04010017D%2C-A-020-545-53-32%2C-A0205455332/69364",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "9783-1993B_20141120152813",
+    "sku": "9783-1993B_20141120152813",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W210 2.2 D LUCAS R 04010017 D, R04010017D, A 020 545 53 32, A0205455332</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a0aa0c19e37c33403b07b468633f212d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f15430697b9d21dceb7ade03f51aca4a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W210",
+      "ENGINE": "2.2 D",
+      "NUMBER MANUFACTURER": "LUCAS R 04010017 D",
+      "NUMBER PARTS": "A 020 545 53 32",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:27:26.204Z",
+    "model": "mistral:7b",
+    "durationMs": 12493,
+    "priceIncrement": 100
+  }
+}

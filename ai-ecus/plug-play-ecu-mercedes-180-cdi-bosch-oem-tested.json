@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes 180 CDI Bosch 0 281 015 113, A 640 150 67 34, CRA.32",
+  "slug": "plug-play-ecu-mercedes-180-cdi-bosch-oem-tested",
+  "metaDescription": "Expertly tested ECU replacement for Mercedes 180 CDI with Bosch 0 281 015 113, A 640 150 67 34, CRA.32. Plug & Play, OEM quality, and backed by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Expertly tested ECU replacement for Mercedes 180 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes 180 CDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Mercedes 180 CDI is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month warranty</li><li>Used original in good condition</li><li>Compatible with Mercedes 180 CDI</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>MERCEDES 180 CDI</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 015 113</td></tr><tr><th>NUMBER PARTS</th><td>CRA.32</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes 180 CDI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES 180 CDI BOSCH 0 281 015 113, 0281015113, A 640 150 67 34, A6401506734, CRA.32",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-180-CDI-BOSCH-0-281-015-113%2C-0281015113%2C-A-640-150-67-34%2C-A6401506734%2C-CRA.32/105391",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "EF17-2485F_20170529160436",
+    "sku": "EF17-2485F_20170529160436",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES 180 CDI BOSCH 0 281 015 113, 0281015113, A 640 150 67 34, A6401506734, CRA.32</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_5742f2b262b0eb857e7c86587a7d1e3b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a247f73ecdd39f5f17798ce4319e170c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES 180 CDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 113",
+      "NUMBER PARTS": "CRA.32",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:05:19.988Z",
+    "model": "mistral:7b",
+    "durationMs": 9922,
+    "priceIncrement": 100
+  }
+}

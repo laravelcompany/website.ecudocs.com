@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford Galaxy YM2A-12A650-GE - Visteon 7MP-906-022M, ONYX",
+  "slug": "plug-play-oem-ecu-replacement-ford-galaxy-ym2a-12a650-ge-visteon-7mp-906-022m",
+  "metaDescription": "Get a tested and certified Plug & Play OEM ECU replacement for your Ford Galaxy YM2A-12A650-GE. Covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Ford Galaxy",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Galaxy YM2A-12A650-GE",
+    "Visteon 7MP-906-022M"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU replacement for the Ford Galaxy YM2A-12A650-GE is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM tested for quality</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Ford Galaxy YM2A-12A650-GE</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD GALAXY</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>YM2A-12A650-GE</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>ONYX</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Galaxy YM2A-12A650-GE only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD GALAXY YM2A-12A650-GE, YM2A12A650GE, 12A650GE, ONYX, 7MP-906-022M, 7MP906022M",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-GALAXY-YM2A-12A650-GE%2C-YM2A12A650GE%2C-12A650GE%2C-ONYX%2C-7MP-906-022M%2C-7MP906022M/41594",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "1E7D-223FD",
+    "sku": "1E7D-223FD",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD GALAXY YM2A-12A650-GE, YM2A12A650GE, 12A650GE, ONYX, 7MP-906-022M, 7MP906022M</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD GALAXY",
+      "NUMBER MANUFACTURER": "YM2A-12A650-GE",
+      "NUMBER PARTS": "ONYX",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:23:30.922Z",
+    "model": "mistral:7b",
+    "durationMs": 12715,
+    "priceIncrement": 100
+  }
+}

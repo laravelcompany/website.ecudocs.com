@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes 300 CDI - OEM Tested Bosch 0281014915, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-300-cdi-bosch-0281014915-warranty",
+  "metaDescription": "Expertly tested and OEM Bosch ECU replacement for Mercedes 300 CDI. Plug & Play, warranty included.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes 300 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes 300 CDI",
+    "Bosch 0281014915"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for the Mercedes 300 CDI is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Bosch part</li>\n        <li>Plug & Play installation</li>\n        <li>Locked or ready for programming</li>\n        <li>Used in good condition</li>\n        <li>6-month warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES</td></tr>\n        <tr><th>ENGINE</th><td>300 CDI</td></tr>\n        <tr><th>YEAR</th><td>2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281014915, 0 281 014 915</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6421501826</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes 300 CDI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES 300 CDI A6421501826, A 642 150 18 26, BOSCH 0281014915, 0 281 014 915",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-300-CDI-A6421501826%2C-A-642-150-18-26%2C-BOSCH-0281014915%2C-0-281-014-915-/16922",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "729A-469CC",
+    "sku": "729A-469CC",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES 300 CDI A6421501826, A 642 150 18 26, BOSCH 0281014915, 0 281 014 915 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "ENGINE": "300 CDI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0281014915, 0 281 014 915",
+      "NUMBER PARTS": "6421501826",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:08:39.774Z",
+    "model": "mistral:7b",
+    "durationMs": 9129,
+    "priceIncrement": 100
+  }
+}

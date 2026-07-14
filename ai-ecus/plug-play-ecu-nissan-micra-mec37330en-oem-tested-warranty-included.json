@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for NISSAN Micra 1.2 MEC37-330EN, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-nissan-micra-mec37330en-oem-tested-warranty-included",
+  "metaDescription": "OEM tested ECU replacement for NISSAN Micra 1.2 MEC37-330EN, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN Micra 1.2 MEC37-330EN",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "NISSAN Micra",
+    "MEC37-330EN"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for NISSAN Micra 1.2 MEC37-330EN is OEM tested, ensuring optimal performance and reliability.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">...(technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with NISSAN Micra 1.2 MEC37-330EN only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN MICRA 1.2 MEC37-330 EN, MEC37330EN, C1 5821, C15821",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-MICRA-1.2-MEC37-330-EN%2C-MEC37330EN%2C-C1-5821%2C-C15821/36235",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "EC6F-712F1_20130612112945",
+    "sku": "EC6F-712F1_20130612112945",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN MICRA 1.2 MEC37-330 EN, MEC37330EN, C1 5821, C15821</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN MICRA",
+      "ENGINE": "1.2",
+      "YEAR": "2002-2005",
+      "NUMBER MANUFACTURER": "MEC37-330 EN",
+      "NUMBER PARTS": "C1 5821",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:20:42.135Z",
+    "model": "mistral:7b",
+    "durationMs": 6571,
+    "priceIncrement": 100
+  }
+}

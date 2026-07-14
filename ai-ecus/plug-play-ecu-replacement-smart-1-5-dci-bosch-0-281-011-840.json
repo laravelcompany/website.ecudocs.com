@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement 1.5 DCI SMART BOSCH 0 281 011 840 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-smart-1-5-dci-bosch-0-281-011-840",
+  "metaDescription": "OEM tested ECU Engine Controller SMART 1.5 DCI BOSCH 0 281 011 840, Plug & Play, 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU Engine Controller for SMART 1.5 DCI BOSCH.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BOSCH 0 281 011 840",
+    "SMART 1.5 DCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for SMART 1.5 DCI BOSCH is a reliable replacement option, backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Used in Good Condition</li>\n<li>Locked / Unlocked Option Available</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>SMART</td></tr>\n<tr><td>ENGINE</td><td>1.5 DCI</td></tr>\n<tr><td>YEAR</td><td>2004</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 011 840</td></tr>\n<tr><td>NUMBER PARTS</td><td>PMN902176</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SMART 1.5 DCI BOSCH 0 281 011 840, 0281011840, A 639 150 05 79, A6391500579, PMN902176",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SMART-1.5-DCI-BOSCH-0-281-011-840%2C-0281011840%2C-A-639-150-05-79%2C-A6391500579%2C-PMN902176/27186",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "068D-9743E_20120801164601",
+    "sku": "068D-9743E_20120801164601",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SMART 1.5 DCI BOSCH 0 281 011 840, 0281011840, A 639 150 05 79, A6391500579, PMN902176</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SMART",
+      "ENGINE": "1.5 DCI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 840",
+      "NUMBER PARTS": "PMN902176",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:47:18.957Z",
+    "model": "mistral:7b",
+    "durationMs": 10769,
+    "priceIncrement": 100
+  }
+}

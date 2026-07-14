@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Honda Accord 2.0 Engine Controller (37820-PDA-G01, W3 EW3) - 6-month Warranty",
+  "slug": "plug-play-ecu-honda-accord-2-0-oem-tested-37820pda-g01-w3-ew3-6-month-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Honda Accord 2.0 (37820-PDA-G01, W3 EW3) - OEM tested and covered by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Honda Accord 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Accord",
+    "2.0 engine",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Honda Accord 2.0 (37820-PDA-G01, W3 EW3) is a reliable replacement that ensures smooth vehicle operation.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>HONDA ACCORD</td></tr>\n<tr><td>ENGINE</td><td>2.0</td></tr>\n<tr><td>YEAR</td><td>1999</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>37820-PDA-G01</td></tr>\n<tr><td>NUMBER PARTS</td><td>W3 EW3</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific issues. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA ACCORD 2.0 37820-PDA-G01, 37820PDAG01, 612114-9X19, 6121149X19 W3 EW3",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-ACCORD-2.0-37820-PDA-G01%2C-37820PDAG01%2C-612114-9X19%2C-6121149X19-W3-EW3-/16873",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "32AD-95601",
+    "sku": "32AD-95601",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA ACCORD 2.0 37820-PDA-G01, 37820PDAG01, 612114-9X19, 6121149X19 W3 EW3 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA ACCORD",
+      "ENGINE": "2.0",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "37820-PDA-G01",
+      "NUMBER PARTS": "W3 EW3",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:13:57.972Z",
+    "model": "mistral:7b",
+    "durationMs": 11528,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E46 318 2.0 BOSCH 0 261 209 005, DME 7 512 354 - OEM Tested & Warranty",
+  "slug": "plug-play-ecu-bmw-e46-318-bosch-oem-tested-warranty",
+  "metaDescription": "Expertly tested and OEM certified ECU replacement for BMW E46 318 2.0 BOSCH 0 261 209 005, DME 7 512 354. Plug & Play installation, backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E46 318",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E46 318",
+    "BOSCH 0 261 209 005",
+    "DME 7 512 354"
+  ],
+  "description": "<section class=\"overview\">This Bosch ECU Engine Controller is a direct replacement for BMW E46 318 2.0 models, ensuring seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play Installation</li>\n        <li>OEM Tested and Certified</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW E46 318</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 209 005</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DME 7 512 354</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please confirm compatibility with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E46 318 2.0 BOSCH 0 261 209 005, 0261209005, DME 7 512 354, DME7512354, 7512354",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E46-318-2.0-BOSCH-0-261-209-005%2C-0261209005%2C-DME-7-512-354%2C-DME7512354%2C-7512354-/85227",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FE45-50311_20160129105455",
+    "sku": "FE45-50311_20160129105455",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E46 318 2.0 BOSCH 0 261 209 005, 0261209005, DME 7 512 354, DME7512354, 7512354 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E46 318",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 209 005",
+      "NUMBER PARTS": "DME 7 512 354",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:31:08.005Z",
+    "model": "mistral:7b",
+    "durationMs": 9983,
+    "priceIncrement": 100
+  }
+}

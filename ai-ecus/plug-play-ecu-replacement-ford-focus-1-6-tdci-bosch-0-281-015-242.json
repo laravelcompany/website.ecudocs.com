@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Ford Focus 1.6 TDCI Bosch 0 281 015 242 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-focus-1-6-tdci-bosch-0-281-015-242",
+  "metaDescription": "OEM tested ECU engine controller for Ford Focus 1.6 TDCI with Bosch 0 281 015 242, backed by a 6-month warranty and fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "OEM tested ECU replacement for Ford Focus 1.6 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "1.6 TDCI",
+    "Bosch",
+    "0 281 015 242"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller is designed for a precise fit in your Ford Focus 1.6 TDCI, ensuring optimal performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested by certified technicians</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Locked or unlocked options available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FOCUS</td></tr>\n        <tr><th>ENGINE</th><td>1.6 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 015 242</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8XXA</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU engine controller is designed for Ford Focus 1.6 TDCI models only. Please verify compatibility with your specific vehicle before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.6 TDCI BOSCH 0 281 015 242, 0281015242, FoMoCo 8M51-12A650-XA, 8M5112A650XA, 8XXA",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.6-TDCI-BOSCH-0-281-015-242%2C-0281015242%2C-FoMoCo-8M51-12A650-XA%2C-8M5112A650XA%2C-8XXA-/89769",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "56C2-85764_20160415141038",
+    "sku": "56C2-85764_20160415141038",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.6 TDCI BOSCH 0 281 015 242, 0281015242, FoMoCo 8M51-12A650-XA, 8M5112A650XA, 8XXA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.6 TDCI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 242",
+      "NUMBER PARTS": "8XXA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:50:02.517Z",
+    "model": "mistral:7b",
+    "durationMs": 11190,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW 1.8D Bosch 0 281 013 537, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-18d-bosch-0281013537-tested",
+  "metaDescription": "OEM ECU Engine Controller for BMW 1.8D Bosch 0 281 013 537, Plug & Play, tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW 1.8D Bosch 0 281 013 537",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW 1.8D",
+    "Bosch 0 281 013 537"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for BMW 1.8D Bosch 0 281 013 537 is a reliable solution for your vehicle's engine management system.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified for optimal performance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Locked/unlocked options available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>BMW</td></tr>\n        <tr><th>ENGINE:</th><td>1.8 D</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 013 537</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>DDE 7 807 529</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION: </th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for BMW 1.8D engines only. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW 1.8 D BOSCH 0 281 013 537, 0281013537, DDE 7 807 529, DDE7807529, 7807529",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-1.8-D-BOSCH-0-281-013-537%2C-0281013537%2C-DDE-7-807-529%2C-DDE7807529%2C-7807529-/99691",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5121-69503_20161128150148",
+    "sku": "5121-69503_20161128150148",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  BMW 1.8 D BOSCH 0 281 013 537, 0281013537, DDE 7 807 529, DDE7807529, 7807529 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW",
+      "ENGINE": "1.8 D",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 537",
+      "NUMBER PARTS": "DDE 7 807 529",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:46:12.285Z",
+    "model": "mistral:7b",
+    "durationMs": 10599,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement Opel Astra Vectra 1.9 CDTI BOSCH 0 281 014 451 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-astra-vectra-19-cdti-bosch-0281014451",
+  "metaDescription": "Get a tested and certified Plug & Play ECU replacement for your Opel Astra Vectra 1.9 CDTI. Enjoy a 6-month warranty and fast shipping.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra Vectra 1.9 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra Vectra",
+    "1.9 CDTI",
+    "BOSCH 0 281 014 451"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU replacement is suitable for Opel Astra Vectra 1.9 CDTI engines.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>OPEL ASTRA VECTRA</td></tr>\n            <tr><td>ENGINE</td><td>1.9 CDTI</td></tr>\n            <tr><td>YEAR</td><td>2008</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 014 451</td></tr>\n            <tr><td>NUMBER PARTS</td><td>GM 55 566 278 HC</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific ECU programming requirements. Please consult with a professional technician before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA VECTRA 1.9 CDTI BOSCH 0 281 014 451, 0281014451,GM 55 566 278 HC, 55566278HC, 55566278, 1039S21482",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-VECTRA-1.9-CDTI-BOSCH-0-281-014-451%2C-0281014451%2CGM-55-566-278-HC%2C-55566278HC%2C-55566278%2C-1039S21482/69214",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C2BE-73430_20141117105325",
+    "sku": "C2BE-73430_20141117105325",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA VECTRA 1.9 CDTI BOSCH 0 281 014 451, 0281014451,GM 55 566 278 HC, 55566278HC, 55566278, 1039S21482</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_f02d545d9e2f41d43b1c1a44c8d6bcb0_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ade0378895a60eeecef427e25675450e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA VECTRA",
+      "ENGINE": "1.9 CDTI",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 451",
+      "NUMBER PARTS": "GM 55 566 278 HC",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:15:56.735Z",
+    "model": "mistral:7b",
+    "durationMs": 10501,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Punto 188 1.2 8V Magneti Marelli IAW 59F.E4, IAW59FE4, 61600.604.07, 6160060407",
+  "slug": "plug-play-ecu-fiat-punto-188-magneti-marelli-iaw-59fe4-6160060407",
+  "metaDescription": "OEM Tested ECU Engine Controller for Fiat Punto 188, Plug & Play, 6-month warranty. Ships within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Punto 188",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Punto 188",
+    "Magneti Marelli"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Punto 188 offers a Plug & Play solution, ensuring seamless installation and operation.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Thoroughly Inspected and Tested by a Certified Technician</li>\n<li>Condition: Used Original in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT PUNTO 188</td></tr>\n<tr><td>ENGINE</td><td>1.2 8V</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>MAGNETI MARELLI IAW 59F.E4</td></tr>\n<tr><td>NUMBER PARTS</td><td>6160060407</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Fiat Punto 188 only. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO 188 MAGNETI MARELLI IAW 59F.E4, IAW59FE4, 61600.604.07, 6160060407",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-188-MAGNETI-MARELLI-IAW-59F.E4%2C-IAW59FE4%2C-61600.604.07%2C-6160060407/61883",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "F236-371F1_20140731143533",
+    "sku": "F236-371F1_20140731143533",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO 188 MAGNETI MARELLI IAW 59F.E4, IAW59FE4, 61600.604.07, 6160060407</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO 188",
+      "ENGINE": "1.2 8V",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 59F.E4",
+      "NUMBER PARTS": "6160060407",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:24:19.457Z",
+    "model": "mistral:7b",
+    "durationMs": 11701,
+    "priceIncrement": 100
+  }
+}

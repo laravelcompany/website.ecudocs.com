@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW MINI COOPER 1.6 D Bosch 0 281 018 991, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-bmw-mini-cooper-1-6d-bosch-0281018991-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for BMW MINI COOPER 1.6 D Bosch 0 281 018 991, offering Plug & Play functionality and backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM tested ECU Engine Controller for BMW MINI COOPER 1.6 D Bosch 0 281 018 991",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 018 991",
+    "BMW MINI COOPER"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for BMW MINI COOPER 1.6 D Bosch 0 281 018 991 is a reliable replacement, ensuring seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested for guaranteed quality</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW MINI COOPER</td></tr>\n        <tr><th>ENGINE</th><td>1.6 D</td></tr>\n        <tr><th>YEAR</th><td>2012</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 018 991</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DDE 8 519 663</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / CLON</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW MINI COOPER 1.6 D BOSCH 0 281 018 991, 0281018991, DDE 8 519 663, DDE8519663, 8519663",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-MINI-COOPER-1.6-D-BOSCH-0-281-018-991%2C-0281018991%2C-DDE-8-519-663%2C-DDE8519663%2C-8519663-/80829",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E444-24036_20151021150310",
+    "sku": "E444-24036_20151021150310",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW MINI COOPER 1.6 D BOSCH 0 281 018 991, 0281018991, DDE 8 519 663, DDE8519663, 8519663 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW MINI COOPER",
+      "ENGINE": "1.6 D",
+      "YEAR": "2012",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 018 991",
+      "NUMBER PARTS": "DDE 8 519 663",
+      "OPTION AVAILABLE": "LOCKED / CLON",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:47:45.074Z",
+    "model": "mistral:7b",
+    "durationMs": 11696,
+    "priceIncrement": 100
+  }
+}

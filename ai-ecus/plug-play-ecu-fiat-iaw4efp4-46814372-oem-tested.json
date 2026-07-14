@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested FIAT IAW4EF.P4 Engine Controller (46814372) - Warranty Included",
+  "slug": "plug-play-ecu-fiat-iaw4efp4-46814372-oem-tested",
+  "metaDescription": "Buy the tested and reliable ECU ENGINE CONTROLLER FIAT IAW4EF.P4 IAW4EFP4 46814372, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT IAW4EF.P4 Engine Controller",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT IAW4EF.P4",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER is a reliable replacement for your FIAT vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Device Inspected and Tested</li>\n        <li>Used, Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>IAW4EF.P4</td></tr>\n        <tr><th>NUMBER PARTS</th><td>46814372</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT IAW4EF.P4 IAW4EFP4 46814372",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-IAW4EF.P4-IAW4EFP4-46814372/134547",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "7F88-59195_20230404130912",
+    "sku": "7F88-59195_20230404130912",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT IAW4EF.P4 IAW4EFP4 46814372</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT",
+      "NUMBER MANUFACTURER": "IAW4EF.P4",
+      "NUMBER PARTS": "46814372",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:56:38.833Z",
+    "model": "mistral:7b",
+    "durationMs": 9743,
+    "priceIncrement": 100
+  }
+}

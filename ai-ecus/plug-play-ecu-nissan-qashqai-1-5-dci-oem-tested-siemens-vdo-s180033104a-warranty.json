@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Nissan Qashqai 1.5 DCI - OEM Tested Siemens VDO S180033104A, Warranty Included",
+  "slug": "plug-play-ecu-nissan-qashqai-1-5-dci-oem-tested-siemens-vdo-s180033104a-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Nissan Qashqai 1.5 DCI by Siemens VDO (S180033104A, 23710JD54D, AY, SID303). OEM tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan Qashqai 1.5 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Qashqai",
+    "Siemens VDO",
+    "1.5 DCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Nissan Qashqai 1.5 DCI by Siemens VDO (S180033104A, 23710JD54D, AY, SID303) is a reliable replacement option, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Locked/unlocked option available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>NISSAN QASHQAI</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.5 DCI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS VDO S180033104 A</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>23710JD54D</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Nissan Qashqai 1.5 DCI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN QASHQAI 1.5 DCI SIEMENS VDO S180033104 A, S180033104A, 23710JD54D, AY, SID303",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-QASHQAI-1.5-DCI-SIEMENS-VDO-S180033104-A%2C-S180033104A%2C-23710JD54D%2C-AY%2C-SID303-/85098",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "61C3-554E3_20160126135636",
+    "sku": "61C3-554E3_20160126135636",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN QASHQAI 1.5 DCI SIEMENS VDO  S180033104 A, S180033104A, 23710JD54D, AY, SID303 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN QASHQAI",
+      "ENGINE": "1.5 DCI",
+      "NUMBER MANUFACTURER": "SIEMENS VDO S180033104 A",
+      "NUMBER PARTS": "23710JD54D",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:39:49.420Z",
+    "model": "mistral:7b",
+    "durationMs": 14590,
+    "priceIncrement": 100
+  }
+}

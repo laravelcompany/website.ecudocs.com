@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Lancia Dedra 1.8 OEM Tested - Hitachi 0464225230, GE315856 - 6-month Warranty",
+  "slug": "plug-play-ecu-lancia-dedra-1-8-hitachi-oem-tested-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Lancia Dedra 1.8, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Lancia Dedra 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Dedra",
+    "Hitachi",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Lancia Dedra 1.8 is thoroughly inspected and tested by a certified technician before shipment.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>6-month Warranty</li><li>Plug & Play</li><li>Ready for programming</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>LANCIA DEDRA</td></tr>\n<tr><td>ENGINE</td><td>1.8</td></tr>\n<tr><td>YEAR</td><td>1998</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>0464225230</td></tr>\n<tr><td>NUMBER PARTS</td><td>GE315856</td></tr></tbody>\n</table></section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Lancia Dedra 1.8. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA DEDRA 1.8 0464225230, GE315856",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-DEDRA-1.8-0464225230%2C-GE315856-/41955",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "8E0B-20092",
+    "sku": "8E0B-20092",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA DEDRA 1.8 0464225230, GE315856 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA DEDRA",
+      "ENGINE": "1.8",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "0464225230",
+      "NUMBER PARTS": "GE315856",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:30:48.403Z",
+    "model": "mistral:7b",
+    "durationMs": 9012,
+    "priceIncrement": 100
+  }
+}

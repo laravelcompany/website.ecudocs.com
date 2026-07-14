@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Mondeo 2.0 TDCI OEM Tested - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-mondeo-20-tdci-oryginal-12242130-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Ford Mondeo 2.0 TDCI, OEM tested and covered by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.0 TDCI",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is tested and thoroughly inspected by a certified technician for the Ford Mondeo 2.0 TDCI.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Plug & Play</li>\n        <li>Locked</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>2.0 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2003-2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>R0411C024A</td></tr>\n        <tr><th>CODE</th><td>DXNT</td></tr>\n        <tr><th>NUMBER PARTS</th><td>12242130</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 4S71-12A650-HA DXNT, 4S7112A650HA, 12242130, R0411C024A",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-TDCI-4S71-12A650-HA-DXNT%2C-4S7112A650HA%2C-12242130%2C-R0411C024A-/16438",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "7677-742AE",
+    "sku": "7677-742AE",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 4S71-12A650-HA DXNT, 4S7112A650HA, 12242130, R0411C024A </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_46e20bc466bc50aed672480713a52a4d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9a34c2362a726745edaeff28dd9ce23a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2003-2004",
+      "NUMBER MANUFACTURER": "R0411C024A",
+      "CODE": "DXNT",
+      "NUMBER PARTS": "12242130",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:40:53.215Z",
+    "model": "mistral:7b",
+    "durationMs": 9096,
+    "priceIncrement": 100
+  }
+}

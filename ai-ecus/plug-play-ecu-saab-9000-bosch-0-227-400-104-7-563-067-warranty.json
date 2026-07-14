@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller SAAB 9000 Bosch 0 227 400 104, 7 563 067 - Warranty Included",
+  "slug": "plug-play-ecu-saab-9000-bosch-0-227-400-104-7-563-067-warranty",
+  "metaDescription": "Expertly tested and OEM Bosch ECU Engine Controller for SAAB 9000, offering Plug & Play functionality and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU for SAAB 9000",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 227 400 104",
+    "SAAB 9000",
+    "Warranty Included"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for SAAB 9000, Bosch 0 227 400 104, 7 563 067 is in good condition and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SAAB 9000</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 227 400 104</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>7 563 067</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SAAB 9000, BOSCH 0 227 400 104, 0227400104, 7 563 067, 7563067",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SAAB-9000%2C-BOSCH-0-227-400-104%2C-0227400104%2C-7-563-067%2C-7563067-/45961",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4DEF-3084F",
+    "sku": "4DEF-3084F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SAAB 9000, BOSCH 0 227 400 104, 0227400104, 7 563 067, 7563067 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_fe4487035b6d8fa56c89fe2ff9f260f2_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_64f65f2abb5caaa14c475e4943f4171b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SAAB 9000",
+      "NUMBER MANUFACTURER": "BOSCH 0 227 400 104",
+      "NUMBER PARTS": "7 563 067",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:41:38.796Z",
+    "model": "mistral:7b",
+    "durationMs": 9750,
+    "priceIncrement": 100
+  }
+}

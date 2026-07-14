@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Mondeo 2.0 TDCI Delphi 5S71-12A650-EB, R0411C036B, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-20-tdci-delphi-5s71-12a650-eb-r0411c036b-tested",
+  "metaDescription": "OEM tested and Plug & Play ECU replacement for Ford Mondeo 2.0 TDCI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.0 TDCI",
+    "Delphi"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement is suitable for Ford Mondeo 2.0 TDCI engines, ensuring seamless integration and reliable performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Locked or Ready for Programming</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tbody><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr><tr><th>ENGINE</th><td>2.0 TDCI</td></tr><tr><th>YEAR</th><td>2000</td></tr><tr><th>NUMBER MANUFACTURER</th><td>5S71-12A650-EB</td></tr><tr><th>NUMBER PARTS</th><td>28026108</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 5S71-12A650-EB, 5S7112A650EB, R0411C036B, 28026108",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-TDCI-5S71-12A650-EB%2C-5S7112A650EB%2C-R0411C036B%2C-28026108-/43472",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "2A3B-528AE",
+    "sku": "2A3B-528AE",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 5S71-12A650-EB, 5S7112A650EB, R0411C036B, 28026108 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "5S71-12A650-EB",
+      "NUMBER PARTS": "28026108",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:41:38.067Z",
+    "model": "mistral:7b",
+    "durationMs": 10374,
+    "priceIncrement": 100
+  }
+}

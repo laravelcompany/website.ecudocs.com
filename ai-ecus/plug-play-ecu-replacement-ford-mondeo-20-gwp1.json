@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Mondeo 2.0 GWP1 (OEM Tested, Warranty Included)",
+  "slug": "plug-play-ecu-replacement-ford-mondeo-20-gwp1",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Replacement for your Ford Mondeo 2.0 GWP1, backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo 2.0 GWP1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "GWP1"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Replacement is designed for a precise fit in your Ford Mondeo 2.0 engine.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Design</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>YEAR</th><td>1999-2002</td></tr>\n        <tr><th>NUMBER PARTS</th><td>GWP1</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation to ensure proper fitment.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 98BB-12A650-BVB, 98BB12A650BVB, GWP1",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-98BB-12A650-BVB%2C-98BB12A650BVB%2C-GWP1/53343",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "0E98-989D3_20140402134051",
+    "sku": "0E98-989D3_20140402134051",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  FORD MONDEO 2.0 98BB-12A650-BVB, 98BB12A650BVB, GWP1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0",
+      "YEAR": "1999-2002",
+      "NUMBER PARTS": "GWP1",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:00:18.467Z",
+    "model": "mistral:7b",
+    "durationMs": 8834,
+    "priceIncrement": 100
+  }
+}

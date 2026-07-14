@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Punto 1.4 Turbo Bosch 0 261 203 841, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-fiat-punto-14-turbo-bosch-0261203841-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for Fiat Punto 1.4 Turbo, Plug & Play, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Punto 1.4 Turbo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Punto",
+    "Bosch",
+    "1.4 Turbo"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Fiat Punto 1.4 Turbo ensures seamless engine control and performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Condition: Used Oryginal In Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT PUNTO</td></tr>\n        <tr><th>ENGINE</th><td>1.4 TURBO</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 203 841</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0 046 419 714 0</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Punto 1.4 Turbo. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO 1.4 TURBO, BOSCH 0 261 203 841, 0261203841, 0 046 419 714 0, 00464197140",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-1.4-TURBO%2C-BOSCH-0-261-203-841%2C-0261203841%2C-0-046-419-714-0%2C-00464197140/46803",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3232-7980D",
+    "sku": "3232-7980D",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO 1.4 TURBO, BOSCH 0 261 203 841, 0261203841, 0 046 419 714 0, 00464197140</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO",
+      "ENGINE": "1.4 TURBO",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 841",
+      "NUMBER PARTS": "0 046 419 714 0",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:22:55.766Z",
+    "model": "mistral:7b",
+    "durationMs": 9107,
+    "priceIncrement": 100
+  }
+}

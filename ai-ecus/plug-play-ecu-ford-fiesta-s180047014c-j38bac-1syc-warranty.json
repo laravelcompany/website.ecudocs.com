@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Fiesta S180047014C, J38BAC 1SYC - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-fiesta-s180047014c-j38bac-1syc-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford Fiesta S180047014C, J38BAC 1SYC. 6-month warranty. Fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Fiesta S180047014C",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "S180047014C",
+    "J38BAC 1SYC"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Ford Fiesta S180047014C, J38BAC 1SYC is a reliable replacement part, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch in EU</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>FORD FIESTA</td></tr>\n    <tr><th>YEAR</th><td>2009-2011</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>S180047014 C</td></tr>\n    <tr><th>NUMBER PARTS</th><td>J38BAC 1SYC</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA, S180047014 C, S180047014C, AV21-12A650-FC, AV2112A650FC, J38BAC 1SYC",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA%2C-S180047014-C%2C-S180047014C%2C-AV21-12A650-FC%2C-AV2112A650FC%2C-J38BAC-1SYC-/44059",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "8328-884B0",
+    "sku": "8328-884B0",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA, S180047014 C, S180047014C, AV21-12A650-FC, AV2112A650FC, J38BAC 1SYC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "YEAR": "2009-2011",
+      "NUMBER MANUFACTURER": "S180047014 C",
+      "NUMBER PARTS": "J38BAC 1SYC",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:42:38.705Z",
+    "model": "mistral:7b",
+    "durationMs": 9949,
+    "priceIncrement": 100
+  }
+}

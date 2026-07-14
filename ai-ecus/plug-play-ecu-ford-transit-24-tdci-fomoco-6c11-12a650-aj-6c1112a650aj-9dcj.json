@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford Transit 2.4 TDCI FoMoCo 6C11-12A650-AJ, 6C1112A650AJ, 9DCJ - Warranty Included",
+  "slug": "plug-play-ecu-ford-transit-24-tdci-fomoco-6c11-12a650-aj-6c1112a650aj-9dcj",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Ford Transit 2.4 TDCI FoMoCo 6C11-12A650-AJ, 6C1112A650AJ, 9DCJ. Enjoy a 6-month warranty and fast shipping.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Transit 2.4 TDCI FoMoCo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Transit 2.4 TDCI",
+    "FoMoCo",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Ford Transit 2.4 TDCI FoMoCo is a reliable solution, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>Lockable or Unlockable</li>\n        <li>Used in Good Condition</li>\n        <li>6-month Warranty</li>\n        <li>Fast Shipping within EU</li>\n        <li>OEM Parts</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD TRANSIT</td></tr>\n        <tr><th>ENGINE</th><td>2.4 TDCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>FoMoCo 6C11-12A650-AJ</td></tr>\n        <tr><th>NUMBER PARTS</th><td>9DCJ</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on specific vehicle configuration and installation requirements. Please consult a professional before installing this part.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD TRANSIT 2.4 TDCI FoMoCo 6C11-12A650-AJ, 6C1112A650AJ, 9DCJ",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-TRANSIT-2.4-TDCI-FoMoCo-6C11-12A650-AJ%2C-6C1112A650AJ%2C-9DCJ-/81080",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "FoMoCo",
+    "productCode": "1C78-558A8_20151103160501",
+    "sku": "1C78-558A8_20151103160501",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD TRANSIT 2.4 TDCI FoMoCo 6C11-12A650-AJ, 6C1112A650AJ, 9DCJ </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_19d139cdced07a770083a549b69ed9bf_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_48da0f58cf0ae51477b0139ca6154eea_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD TRANSIT",
+      "ENGINE": "2.4 TDCI",
+      "NUMBER MANUFACTURER": "FoMoCo 6C11-12A650-AJ",
+      "NUMBER PARTS": "9DCJ",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:04:16.629Z",
+    "model": "mistral:7b",
+    "durationMs": 11729,
+    "priceIncrement": 100
+  }
+}

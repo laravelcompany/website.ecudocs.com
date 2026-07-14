@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Honda Civic 1.5 37820-P04-G54, Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-honda-civic-1-5-37820p04g54-warranty",
+  "metaDescription": "Buy Oryginal ECU Engine Controller Honda Civic 1.5 37820-P04-G54, Plug & Play, tested and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Honda Civic 1.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Civic",
+    "37820-P04-G54",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Oryginal ECU Engine Controller is a tested and reliable replacement for your Honda Civic 1.5, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM Tested for guaranteed fitment</li><li>6-month warranty</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>HONDA CIVIC</td></tr>\n        <tr><th>ENGINE</th><td>1.5</td></tr>\n        <tr><th>YEAR</th><td>1995</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>37820-P04-G54</td></tr>\n        <tr><th>CODE</th><td>ATZ</td></tr>\n        <tr><th>NUMBER PARTS</th><td>271-304729</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Honda Civic 1.5 (1995).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA CIVIC 1.5 37820-P04-G54, 37820P04G54, 271-304729, 271304729 ATZ",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-CIVIC-1.5-37820-P04-G54%2C-37820P04G54%2C-271-304729%2C-271304729-ATZ-/16869",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "4E74-39577",
+    "sku": "4E74-39577",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA CIVIC 1.5 37820-P04-G54, 37820P04G54, 271-304729, 271304729 ATZ </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_53388a3769461eb3f67cd717e686fe47_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_281ec64fbb7ec39c10e5baf24c7ce86e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA CIVIC",
+      "ENGINE": "1.5",
+      "YEAR": "1995",
+      "NUMBER MANUFACTURER": "37820-P04-G54",
+      "CODE": "ATZ",
+      "NUMBER PARTS": "271-304729",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:18:38.411Z",
+    "model": "mistral:7b",
+    "durationMs": 10408,
+    "priceIncrement": 100
+  }
+}

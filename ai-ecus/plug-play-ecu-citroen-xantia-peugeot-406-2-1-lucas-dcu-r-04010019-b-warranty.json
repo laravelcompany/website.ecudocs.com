@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Citroen Xantia/Peugeot 406 2.1 - Lucas DCU R 04010019 B, Warranty Included",
+  "slug": "plug-play-ecu-citroen-xantia-peugeot-406-2-1-lucas-dcu-r-04010019-b-warranty",
+  "metaDescription": "Buy this OEM tested Plug & Play ECU Replacement for Citroen Xantia/Peugeot 406 2.1, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen Xantia/Peugeot 406 2.1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Xantia",
+    "Peugeot 406",
+    "Lucas DCU R 04010019 B"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Citroen Xantia/Peugeot 406 2.1 is a reliable choice for your vehicle's engine control system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Compatible with Citroen Xantia and Peugeot 406 2.1</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN XANTIA PEUGEOT 406</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.1</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1997</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>DCU R 04010019 B 80708B</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>XUDLC01</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>96 274 538 80</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Citroen Xantia and Peugeot 406 2.1, but may require programming or additional parts for a complete fitment.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN XANTIA PEUGEOT 406 2.1 9627453880, 96 274 538 80 XUDLC01, DCU R 04010019 B, R04010019B 80708B",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-XANTIA-PEUGEOT-406-2.1-9627453880%2C-96-274-538-80-XUDLC01%2C-DCU-R-04010019-B%2C-R04010019B-80708B-/13414",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "E92B-9140A",
+    "sku": "E92B-9140A",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN XANTIA PEUGEOT 406 2.1 9627453880, 96 274 538 80 XUDLC01, DCU R 04010019 B, R04010019B 80708B </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN XANTIA PEUGEOT 406",
+      "ENGINE": "2.1",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "DCU R 04010019 B 80708B",
+      "CODE": "XUDLC01",
+      "NUMBER PARTS": "96 274 538 80",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:39:52.564Z",
+    "model": "mistral:7b",
+    "durationMs": 13161,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A3 1.6 AVU, Siemens 5WP40038, Warranty Included",
+  "slug": "plug-play-ecu-audi-a3-1-6-avu-siemens-5wp40038-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Audi A3 1.6 AVU, Siemens 5WP40038 with 6-month warranty. Fast dispatch in EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A3 1.6 AVU",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "Siemens 5WP40038",
+    "Used ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Audi A3 1.6 AVU, Siemens 5WP40038 is a reliable replacement part, ensuring smooth engine operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked and Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI A3</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6 AVU</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2000-2002</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WP40038</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>BENZIN SIMOS3.3A 3488</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Audi A3 1.6 AVU only. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 1.6 AVU 06A906033J, 06A 906 033 J, SIEMENS 5WP40038, BENZIN SIMOS3.3A 3488",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-1.6-AVU-06A906033J%2C-06A-906-033-J%2C-SIEMENS-5WP40038%2C-BENZIN-SIMOS3.3A-3488-/14218",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "CEB0-77574",
+    "sku": "CEB0-77574",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A3 1.6 AVU 06A906033J, 06A 906 033 J, SIEMENS 5WP40038, BENZIN SIMOS3.3A 3488 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "ENGINE": "1.6 AVU",
+      "YEAR": "2000-2002",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP40038",
+      "NUMBER PARTS": "BENZIN SIMOS3.3A 3488",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:43:23.378Z",
+    "model": "mistral:7b",
+    "durationMs": 11681,
+    "priceIncrement": 100
+  }
+}

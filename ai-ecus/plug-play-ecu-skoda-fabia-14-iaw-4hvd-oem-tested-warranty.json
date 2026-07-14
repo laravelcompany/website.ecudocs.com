@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Skoda Fabia 1.4 IAW 4HV.D - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-skoda-fabia-14-iaw-4hvd-oem-tested-warranty",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Skoda Fabia 1.4 IAW 4HV.D, backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Skoda Fabia 1.4 IAW 4HV.D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Fabia",
+    "IAW 4HV.D"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for Skoda Fabia 1.4 IAW 4HV.D is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SKODA FABIA</td></tr>\n        <tr><th>ENGINE:</th><td>1.4</td></tr>\n        <tr><th>YEAR:</th><td>2007</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>6363F9A7G</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Skoda Fabia 1.4 IAW 4HV.D only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FABIA 1.4 IAW 4HV.D, IAW4HVD, 03C906024D, 6363F9A7G",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FABIA-1.4-IAW-4HV.D%2C-IAW4HVD%2C-03C906024D%2C-6363F9A7G/54038",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "606C-594EC_20140415142533",
+    "sku": "606C-594EC_20140415142533",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FABIA 1.4 IAW 4HV.D, IAW4HVD, 03C906024D, 6363F9A7G</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FABIA",
+      "ENGINE": "1.4",
+      "YEAR": "2007",
+      "NUMBER PARTS": "6363F9A7G",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:23:14.779Z",
+    "model": "mistral:7b",
+    "durationMs": 10112,
+    "priceIncrement": 100
+  }
+}

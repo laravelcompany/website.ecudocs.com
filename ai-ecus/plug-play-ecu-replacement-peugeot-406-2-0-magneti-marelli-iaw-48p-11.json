@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Peugeot 406 2.0 Magneti Marelli IAW 48P.11 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-406-2-0-magneti-marelli-iaw-48p-11",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller Peugeot 406 2.0 Magneti Marelli IAW 48P.11, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 406 2.0 Magneti Marelli IAW 48P.11",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 406",
+    "Magneti Marelli",
+    "IAW 48P.11"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for Peugeot 406 2.0 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM part</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>PEUGEOT 406</td></tr>\n        <tr><th>ENGINE:</th><td>2.0</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>MAGNETI MARELLI IAW 48P.11</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>SW 9639045280</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot 406 2.0. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 406 2.0 MAGNETI MARELLI IAW 48P.11, IAW48P11, HW 16406014 9634496280, SW 16377064 9639045280",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-406-2.0-MAGNETI-MARELLI-IAW-48P.11%2C-IAW48P11%2C-HW-16406014-9634496280%2C-SW-16377064-9639045280/16837",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "5296-376B8",
+    "sku": "5296-376B8",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 406 2.0 MAGNETI MARELLI IAW 48P.11, IAW48P11, HW 16406014 9634496280, SW 16377064 9639045280</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 406",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 48P.11",
+      "NUMBER PARTS": "SW 9639045280",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:17:04.689Z",
+    "model": "mistral:7b",
+    "durationMs": 11321,
+    "priceIncrement": 100
+  }
+}

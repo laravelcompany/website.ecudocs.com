@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Seat Ibiza 1.2 Siemens 5WP44225 02 Benzin Simos 3PG 7002",
+  "slug": "oem-tested-plug-play-ecu-seat-ibiza-1-2-siemens-5wp44225-02-benzin-simos-3pg-700",
+  "metaDescription": "Expertly tested and OEM ECU replacement for Seat Ibiza 1.2 with 6-month warranty. Fast dispatch within EU.",
+  "price": "€109.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Seat Ibiza 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Ibiza",
+    "Siemens 5WP44225 02",
+    "Benzin Simos 3PG 7002"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Seat Ibiza 1.2 is a reliable solution to ensure your vehicle's optimal performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play Installation</li>\n<li>6-Month Warranty</li>\n<li>Fast EU Dispatch</li>\n<li>Expertly Inspected and Tested</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>SEAT IBIZA</td></tr>\n<tr><td>ENGINE</td><td>1.2</td></tr>\n<tr><td>YEAR</td><td>2005</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>SIEMENS 5WP44225 02</td></tr>\n<tr><td>NUMBER PARTS</td><td>BENZIN SIMOS 3PG 7002</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific fault codes. Always consult a professional technician for proper installation and programming.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA 1.2 03E906033AA, 03E 906 033 AA SIEMENS 5WP44225 02 BENZIN SIMOS 3PG 7002",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-1.2-03E906033AA%2C-03E-906-033-AA-SIEMENS-5WP44225-02-BENZIN-SIMOS-3PG-7002/30840",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "CB44-22011_20121005135824",
+    "sku": "CB44-22011_20121005135824",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA 1.2 03E906033AA, 03E 906 033 AA SIEMENS 5WP44225 02 BENZIN SIMOS 3PG 7002</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.2",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP44225 02",
+      "NUMBER PARTS": "BENZIN SIMOS 3PG 7002",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:51:48.309Z",
+    "model": "mistral:7b",
+    "durationMs": 11501,
+    "priceIncrement": 100
+  }
+}

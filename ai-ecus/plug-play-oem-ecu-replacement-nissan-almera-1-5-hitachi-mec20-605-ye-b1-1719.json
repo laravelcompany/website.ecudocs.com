@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Nissan Almera 1.5 - Hitachi MEC20-605 YE B1 1719",
+  "slug": "plug-play-oem-ecu-replacement-nissan-almera-1-5-hitachi-mec20-605-ye-b1-1719",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Nissan Almera 1.5, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Nissan Almera 1.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Almera",
+    "Hitachi MEC20-605 YE B1 1719"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for Nissan Almera 1.5 is thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>OEM Part</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>NISSAN ALMERA</td></tr>\n      <tr><th>ENGINE</th><td>1.5</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>MEC20605</td></tr>\n      <tr><th>NUMBER PARTS</th><td>MEC20-605 YE B1 1719</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA 1.5 MEC20605, MEC20-605 YE B1 1719",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-1.5-MEC20605%2C-MEC20-605-YE-B1-1719/30366",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "53A6-645CC_20120930200830",
+    "sku": "53A6-645CC_20120930200830",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA 1.5 MEC20605, MEC20-605 YE B1 1719</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "ENGINE": "1.5",
+      "NUMBER MANUFACTURER": "MEC20605",
+      "NUMBER PARTS": "MEC20-605 YE B1 1719",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:02:46.871Z",
+    "model": "mistral:7b",
+    "durationMs": 8637,
+    "priceIncrement": 100
+  }
+}

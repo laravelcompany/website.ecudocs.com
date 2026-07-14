@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested BMW 5WK93022 Engine Controller, 6-month Warranty",
+  "slug": "plug-play-ecu-bmw-5wk93022-siemens-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU ENGINE CONTROLLOR BMW 7548769 5WK93022 by Siemens. OEM tested, warranty included.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW 5WK93022",
+    "Siemens"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLOR BMW 7548769 5WK93022 by Siemens is a reliable replacement for your vehicle's engine control system.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>BMW</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>7548769 5WK93022</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility with your vehicle before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW 7548769 5WK93022",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-7548769-5WK93022/136313",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "3436-511E1_20230907122058",
+    "sku": "3436-511E1_20230907122058",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW 7548769 5WK93022</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW",
+      "NUMBER MANUFACTURER": "7548769 5WK93022",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:14:34.438Z",
+    "model": "mistral:7b",
+    "durationMs": 11474,
+    "priceIncrement": 100
+  }
+}

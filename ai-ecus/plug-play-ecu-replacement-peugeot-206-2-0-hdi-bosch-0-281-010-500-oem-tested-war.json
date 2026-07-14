@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - PEUGEOT 206 2.0 HDI BOSCH 0 281 010 500, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-peugeot-206-2-0-hdi-bosch-0-281-010-500-oem-tested-war",
+  "metaDescription": "OEM tested ECU Engine Controller for PEUGEOT 206 2.0 HDI BOSCH 0 281 010 500, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT 206 2.0 HDI BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 206",
+    "BOSCH 0 281 010 500"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for PEUGEOT 206 2.0 HDI BOSCH 0 281 010 500 is a direct replacement, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Locked/unlocked options available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>PEUGEOT 206</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 500</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>96 416 069 80</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is designed for PEUGEOT 206 2.0 HDI BOSCH 0 281 010 500. Please ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 206 2.0 HDI BOSCH 0 281 010 500, 0281010500, 96 416 069 80, 9641606980, EDC15C2 44",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-206-2.0-HDI-BOSCH-0-281-010-500%2C-0281010500%2C-96-416-069-80%2C-9641606980%2C-EDC15C2-44-/95212",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0B93-3096C_20160830141409",
+    "sku": "0B93-3096C_20160830141409",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 206 2.0 HDI BOSCH 0 281 010 500, 0281010500, 96 416 069 80, 9641606980, EDC15C2 44 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8b03650df3aecedeeb0859df13a7ca56_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_bd161246829786247e26bdc27896085c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 206",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 500",
+      "NUMBER PARTS": "96 416 069 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:47:33.277Z",
+    "model": "mistral:7b",
+    "durationMs": 12463,
+    "priceIncrement": 100
+  }
+}

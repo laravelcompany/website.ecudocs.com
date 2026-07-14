@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford KA Engine Controller MJD 8F2.K1 (51892331) - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-ka-engine-controller-mjd-8f2k1-51892331-oem-teste",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Ford KA (MJD 8F2.K1, MJD8F2K1) - OEM tested and covered by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford KA",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford KA",
+    "MJD 8F2.K1",
+    "51892331"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Ford KA (MJD 8F2.K1, MJD8F2K1) offers a reliable solution to your engine control system issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Certified Technician Inspection</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD KA</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>MJD 8F2.K1</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>51892331</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD KA 51892331, MJD 8F2.K1, MJD8F2K1",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-KA-51892331%2C-MJD-8F2.K1%2C-MJD8F2K1/108375",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "100C-50753_20180111131454",
+    "sku": "100C-50753_20180111131454",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD KA 51892331, MJD 8F2.K1, MJD8F2K1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_11a1ae09c792d5663b517e1f13867951_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_8c619edcff0d61e1b807fd8f369a5e9f_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD KA",
+      "NUMBER MANUFACTURER": "MJD 8F2.K1",
+      "NUMBER PARTS": "51892331",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:27:23.127Z",
+    "model": "mistral:7b",
+    "durationMs": 10466,
+    "priceIncrement": 100
+  }
+}

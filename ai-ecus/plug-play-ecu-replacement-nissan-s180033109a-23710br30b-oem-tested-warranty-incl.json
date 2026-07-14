@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested NISSAN S180033109A 23710BR30B - Warranty Included",
+  "slug": "plug-play-ecu-replacement-nissan-s180033109a-23710br30b-oem-tested-warranty-incl",
+  "metaDescription": "Buy Plug & Play ECU ENGINE CONTROLLER NISSAN S180033109A 23710BR30B, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "NISSAN S180033109A",
+    "23710BR30B"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for NISSAN S180033109A 23710BR30B is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>ECU Replacement</li>\n        <li>Used OEM Part</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN S180033109A 23710BR30B</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN S180033109A 23710BR30B",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-S180033109A-23710BR30B/133950",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "B021-1646C_20230215163102",
+    "sku": "B021-1646C_20230215163102",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN S180033109A 23710BR30B</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_279254_0_0/NISSAN-S180033109A-23710BR30B.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_279255_0_0/NISSAN-S180033109A-23710BR30B.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN",
+      "NUMBER MANUFACTURER": "S180033109A 23710BR30B",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:43:47.045Z",
+    "model": "mistral:7b",
+    "durationMs": 10039,
+    "priceIncrement": 100
+  }
+}

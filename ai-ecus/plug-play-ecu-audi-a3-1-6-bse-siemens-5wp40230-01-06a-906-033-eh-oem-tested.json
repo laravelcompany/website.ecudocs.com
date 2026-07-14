@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi A3 1.6 BSE - OEM Siemens 5WP40230 01, 06A 906 033 EH - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-audi-a3-1-6-bse-siemens-5wp40230-01-06a-906-033-eh-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Audi A3 1.6 BSE, Siemens 5WP40230 01, 06A 906 033 EH. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A3 1.6 BSE - OEM Tested & Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "Siemens 5WP40230",
+    "1.6 BSE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller is a reliable replacement for your Audi A3 1.6 BSE. It features the original Siemens 5WP40230 01, 06A 906 033 EH parts and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Locked or Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI A3</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6 BSE</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WP40230 01</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>06A 906 033 EH</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A3 1.6 BSE. Please ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 1.6 BSE SIEMENS 5WP40230 01, 06A 906 033 EH, 06A906033EH",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-1.6-BSE-SIEMENS-5WP40230-01%2C-06A-906-033-EH%2C-06A906033EH-/43606",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "966E-78804",
+    "sku": "966E-78804",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A3 1.6 BSE SIEMENS 5WP40230 01, 06A 906 033 EH, 06A906033EH </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "ENGINE": "1.6 BSE",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP40230 01",
+      "NUMBER PARTS": "06A 906 033 EH",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:43:37.305Z",
+    "model": "mistral:7b",
+    "durationMs": 12925,
+    "priceIncrement": 100
+  }
+}

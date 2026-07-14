@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford Fusion (2002-2006) - Siemens 5WS40031D-T, SID802 - Tested & Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-ford-fusion-2002-2006-siemens-5ws40031dt-sid802-te",
+  "metaDescription": "Buy the Siemens 5WS40031D-T ECU Engine Controller for Ford Fusion (2002-2006) with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Ford Fusion",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WS40031D-T",
+    "Ford Fusion",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Siemens 5WS40031D-T ECU Engine Controller for Ford Fusion (2002-2006) has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li><li>Expert ECU Repair</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FUSION</td></tr>\n        <tr><th>YEAR</th><td>2002-2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WS40031D-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>SID802</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Always confirm fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FUSION, SIEMENS 5WS40031D-T, 5WS40031DT, 2N1A-12A650-AD, 2N1A12A650AD, 4AGC J38AC, SID802",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FUSION%2C-SIEMENS-5WS40031D-T%2C-5WS40031DT%2C-2N1A-12A650-AD%2C-2N1A12A650AD%2C-4AGC-J38AC%2C-SID802-/44143",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "A977-186DF",
+    "sku": "A977-186DF",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FUSION, SIEMENS 5WS40031D-T, 5WS40031DT, 2N1A-12A650-AD, 2N1A12A650AD, 4AGC J38AC, SID802 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FUSION",
+      "YEAR": "2002-2006",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40031D-T",
+      "NUMBER PARTS": "SID802",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:19:52.570Z",
+    "model": "mistral:7b",
+    "durationMs": 9066,
+    "priceIncrement": 100
+  }
+}

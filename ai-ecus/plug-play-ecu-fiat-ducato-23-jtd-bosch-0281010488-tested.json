@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Ducato 2.3 JTD BOSCH 0 281 010 488, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-fiat-ducato-23-jtd-bosch-0281010488-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Fiat Ducato 2.3 JTD BOSCH 0 281 010 488, Plug & Play replacement, 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU for Fiat Ducato 2.3 JTD BOSCH 0 281 010 488",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Ducato",
+    "Bosch",
+    "2.3 JTD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Ducato 2.3 JTD BOSCH 0 281 010 488 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked/Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT DUCATO</td></tr>\n        <tr><th>ENGINE</th><td>2.3 JTD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 488</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1329236080</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Please consult with a professional technician for fitment caution.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT DUCATO 2.3 JTD BOSCH 0 281 010 488, 0281010488, 1329236080",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-DUCATO-2.3-JTD-BOSCH-0-281-010-488%2C-0281010488%2C-1329236080-/104356",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7700-37956_20170312104849",
+    "sku": "7700-37956_20170312104849",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT DUCATO 2.3 JTD BOSCH 0 281 010 488, 0281010488, 1329236080 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_f7a391088584f4d7b301465ca46ae51e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3ab9b442c1b7cdf47b3061eccb10fd12_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT DUCATO",
+      "ENGINE": "2.3 JTD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 488",
+      "NUMBER PARTS": "1329236080",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:41:51.824Z",
+    "model": "mistral:7b",
+    "durationMs": 9620,
+    "priceIncrement": 100
+  }
+}

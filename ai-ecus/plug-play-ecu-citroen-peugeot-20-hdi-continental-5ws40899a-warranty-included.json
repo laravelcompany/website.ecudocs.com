@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen Peugeot 2.0 HDI Continental 5WS40899A-T, Warranty Included",
+  "slug": "plug-play-ecu-citroen-peugeot-20-hdi-continental-5ws40899a-warranty-included",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Citroen Peugeot 2.0 HDI Continental (5WS40899A-T). Shipped within 24–48 hours, backed by a 6-month warranty.",
+  "price": "€410.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen Peugeot 2.0 HDI",
+  "tags": [
+    "ECU replacement",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "2.0 HDI",
+    "Continental"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a reliable solution for your Citroen Peugeot 2.0 HDI vehicle.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipped within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify fitment before purchase. This ECU is compatible with Citroen and Peugeot vehicles equipped with the specified engine and part numbers.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.0 HDI CONTINENTAL 5WS40899A-T, 5WS40899AT, SW 9667115080, HW 9661642180, SID803A",
+    "price": "€375.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-2.0-HDI-CONTINENTAL-5WS40899A-T%2C-5WS40899AT%2C-SW-9667115080%2C-HW-9661642180%2C-SID803A-/84501",
+    "priceCurrency": "EUR",
+    "netPrice": "€304.88",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "61DA-71155_20160117194747",
+    "sku": "61DA-71155_20160117194747",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.0 HDI CONTINENTAL 5WS40899A-T, 5WS40899AT, SW 9667115080, HW 9661642180, SID803A </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2615ec10e434906240533548d9abc12d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c71b0d131656a5b166b348543be52a92_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "CONTINENTAL 5WS40899A-T",
+      "NUMBER PARTS": "HW 9661642180",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:10:10.186Z",
+    "model": "mistral:7b",
+    "durationMs": 6929,
+    "priceIncrement": 100
+  }
+}

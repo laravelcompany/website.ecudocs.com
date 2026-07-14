@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller - Lancia Ypsilon 1.3JTD, FGP MJD6JFY1, Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-lancia-ypsilon-13jtd-fgp-mjd6jfy1-warranty-included",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Lancia Ypsilon 1.3JTD, backed by a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Lancia Ypsilon 1.3JTD",
+  "tags": [
+    "ECU replacement",
+    "Plug & Play ECU",
+    "Lancia Ypsilon",
+    "1.3JTD",
+    "FGP MJD6JFY1"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Lancia Ypsilon 1.3JTD is a reliable solution, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>LANCIA YPSILON</td></tr>\n        <tr><th>ENGINE</th><td>1.3JTD</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MJD6JFY1</td></tr>\n        <tr><th>WARRANTY</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. Fast dispatch (EU). 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA YPSILON 1.3JTD 55192097, MJD6JF.Y1, MJD6JFY1",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-YPSILON-1.3JTD-55192097%2C-MJD6JF.Y1%2C-MJD6JFY1/57660",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "FGP",
+    "productCode": "E2E4-9344E_20140603122101",
+    "sku": "E2E4-9344E_20140603122101",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA YPSILON 1.3JTD 55192097, MJD6JF.Y1, MJD6JFY1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA YPSILON",
+      "ENGINE": "1.3JTD",
+      "NUMBER PARTS": "MJD6JFY1",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:40:07.916Z",
+    "model": "mistral:7b",
+    "durationMs": 9760,
+    "priceIncrement": 100
+  }
+}

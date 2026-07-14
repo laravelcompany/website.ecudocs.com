@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - DeWoo Chevrolet Matiz S010012001 E0 KEMSCO D3 1AFM - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-dewoo-chevrolet-matiz-s010012001-e0-kemsco-d3-1afm-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for DeWoo Chevrolet Matiz S010012001 E0 KEMSCO D3 1AFM. OEM tested and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for DeWoo Chevrolet Matiz",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "DeWoo Chevrolet Matiz",
+    "KEMSCO D3 1AFM"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a reliable replacement for DeWoo Chevrolet Matiz S010012001 E0. It's thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n  <ul>\n    <li>Plug & Play</li>\n    <li>OEM Tested</li>\n    <li>6-month Warranty</li>\n    <li>Used in Good Condition</li>\n    <li>Ready for Programming</li>\n  </ul>\n</section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>DEAWOO CHEVROLET MATIZ</td></tr>\n    <tr><th>YEAR</th><td>1998-2005</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>S010012001 E0</td></tr>\n    <tr><th>NUMBER PARTS</th><td>KEMSCO D3 1AFM</td></tr>\n  </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with DeWoo Chevrolet Matiz models from 1998 to 2005. Professional installation recommended for best results.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DEAWOO CHEVROLET MATIZ S010012001 E0 KEMSCO D3 1AFM 96291050 5U",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DEAWOO-CHEVROLET-MATIZ-S010012001-E0-KEMSCO-D3-1AFM-96291050-5U-/16341",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Kemsco",
+    "productCode": "365B-95319",
+    "sku": "365B-95319",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DEAWOO CHEVROLET MATIZ S010012001 E0 KEMSCO D3 1AFM 96291050 5U </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DEAWOO CHEVROLET MATIZ",
+      "YEAR": "1998-2005",
+      "NUMBER MANUFACTURER": "S010012001 E0",
+      "NUMBER PARTS": "KEMSCO D3 1AFM",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:02:59.167Z",
+    "model": "mistral:7b",
+    "durationMs": 9857,
+    "priceIncrement": 100
+  }
+}

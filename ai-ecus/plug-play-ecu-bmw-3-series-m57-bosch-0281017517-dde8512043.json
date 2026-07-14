@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW 3 Series M57 Engine Bosch 0 281 017 517, DDE 8 512 043, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-bmw-3-series-m57-bosch-0281017517-dde8512043",
+  "metaDescription": "OEM tested ECU Engine Controller for BMW 3 Series M57 engine Bosch 0 281 017 517, DDE 8 512 043. Plug & Play replacement with 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM tested ECU Engine Controller for BMW 3 Series M57 engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW M57",
+    "Bosch 0 281 017 517",
+    "DDE 8 512 043"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is specifically designed for BMW 3 Series M57 engine with Bosch 0 281 017 517 and DDE 8 512 043 part numbers. It offers a reliable Plug & Play replacement solution for your vehicle.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM tested</li>\n      <li>Plug & Play</li>\n      <li>6-month warranty</li>\n      <li>Reliable replacement</li>\n      <li>Designed for BMW M57 engine</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>BMW</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 017 517</td></tr>\n      <tr><th>NUMBER PARTS</th><td>DDE 8 512 043</td></tr>\n      <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW BOSCH 0 281 017 517, 0281017517, DDE 8 512 043, DDE8512043, 8512043",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-BOSCH-0-281-017-517%2C-0281017517%2C-DDE-8-512-043%2C-DDE8512043%2C-8512043-/99814",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9CA0-630D5_20161129211658",
+    "sku": "9CA0-630D5_20161129211658",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  BMW BOSCH 0 281 017 517, 0281017517, DDE 8 512 043, DDE8512043, 8512043 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 017 517",
+      "NUMBER PARTS": "DDE 8 512 043",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:46:55.674Z",
+    "model": "mistral:7b",
+    "durationMs": 10771,
+    "priceIncrement": 100
+  }
+}

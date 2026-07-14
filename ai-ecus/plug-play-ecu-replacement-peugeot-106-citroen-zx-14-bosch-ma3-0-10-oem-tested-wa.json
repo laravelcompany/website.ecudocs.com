@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - PEUGEOT 106, CITROEN ZX 1.4, Bosch MA3.0 10 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-peugeot-106-citroen-zx-14-bosch-ma3-0-10-oem-tested-wa",
+  "metaDescription": "OEM tested and Plug & Play ECU replacement for PEUGEOT 106, CITROEN ZX 1.4 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€30.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT 106, CITROEN ZX 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch MA3.0 10",
+    "PEUGEOT 106",
+    "CITROEN ZX"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for PEUGEOT 106, CITROEN ZX 1.4 ensures optimal engine performance and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>ECU Replacement</li>\n<li>Fast Dispatch</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specifications</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>PEUGEOT 106, CITROEN ZX</td></tr>\n<tr><td>ENGINE</td><td>1.4</td></tr>\n<tr><td>NUMBER PARTS</td><td>MA3.0 10</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for PEUGEOT 106 and CITROEN ZX 1.4 models only. Verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 106, CITROEN ZX 1.4, BOSCH 0 261 200 778, 0261200778, 96 171 498 80, 9617149880, MA3.0 10",
+    "price": "€20.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-106%2C-CITROEN-ZX-1.4%2C-BOSCH-0-261-200-778%2C-0261200778%2C-96-171-498-80%2C-9617149880%2C-MA3.0-10-/54844",
+    "priceCurrency": "EUR",
+    "netPrice": "€16.26",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0919-58511_20140429160613",
+    "sku": "0919-58511_20140429160613",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  PEUGEOT 106, CITROEN ZX 1.4, BOSCH 0 261 200 778, 0261200778, 96 171 498 80, 9617149880, MA3.0 10 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_db83d64e692055cb0c461c49d5b00b0c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4780d6ba5c4c462024c167f9ddcfed3d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 106, CITROEN ZX",
+      "ENGINE": "1.4",
+      "NUMBER PARTS": "MA3.0 10",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:14:26.162Z",
+    "model": "mistral:7b",
+    "durationMs": 10876,
+    "priceIncrement": 100
+  }
+}

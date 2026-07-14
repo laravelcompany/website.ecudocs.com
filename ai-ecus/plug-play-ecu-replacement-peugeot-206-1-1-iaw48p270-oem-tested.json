@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for PEUGEOT 206 1.1 IAW48P270 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-206-1-1-iaw48p270-oem-tested",
+  "metaDescription": "Buy a tested Plug & Play ECU Engine Controller for PEUGEOT 206 1.1 IAW48P270, backed by a 6-month warranty and fast shipping.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT 206 1.1 IAW48P270",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "IAW48P270",
+    "PEUGEOT 206"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller is a reliable replacement for your PEUGEOT 206 1.1 IAW48P270.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM tested and inspected</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PEUGEOT 206</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.1</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>IAW 48P2.70</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>16447.034</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty included.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 206 1.1 IAW48P270, IAW48P2.70, IAW 48P2.70, HW 9642423780, 16447034, 16447.034, SW 9642597680, 16449054, 16449.054",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-206-1.1-IAW48P270%2C-IAW48P2.70%2C-IAW-48P2.70%2C-HW-9642423780%2C-16447034%2C-16447.034%2C-SW-9642597680%2C-16449054%2C-16449.054/30363",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "A3CC-34326_20120930200348",
+    "sku": "A3CC-34326_20120930200348",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 206 1.1 IAW48P270, IAW48P2.70, IAW 48P2.70, HW 9642423780, 16447034, 16447.034, SW 9642597680, 16449054, 16449.054</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a37eec6cd0f0888b601edf7545af76b4_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_593c86f717f6807912aea665a409bb9d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 206",
+      "ENGINE": "1.1",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "IAW 48P2.70",
+      "NUMBER PARTS": "16447.034",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:39:06.280Z",
+    "model": "mistral:7b",
+    "durationMs": 12926,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Chevrolet Spark 25191188, 5WY1V27A - 6-month Warranty",
+  "slug": "plug-play-ecu-chevrolet-spark-25191188-5wy1v27a-warranty",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Chevrolet Spark, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Chevrolet Spark",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet Spark",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for your Chevrolet Spark is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch</li>\n        <li>Used Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>CHEVROLET SPARK</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>5WY1V27A</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>25191188</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET SPARK 25191188, 5WY1V27A",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-SPARK-25191188%2C-5WY1V27A/116449",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "6272-7104F_20191022132859",
+    "sku": "6272-7104F_20191022132859",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET SPARK 25191188, 5WY1V27A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET SPARK",
+      "NUMBER MANUFACTURER": "5WY1V27A",
+      "NUMBER PARTS": "25191188",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:02:28.893Z",
+    "model": "mistral:7b",
+    "durationMs": 9856,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Bendix S101263101 C, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-bendix-s101263101c-oem-tested-warranty-include",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for Renault Bendix S101263101 C, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Bendix S101263101 C",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Bendix S101263101 C",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Renault Bendix S101263101 C is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used but in good condition</li>\n        <li>6-month warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>RENAULT BENDIX</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.7</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1990-1992</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>S101263101 C</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>7700744412</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault models from 1990-1992. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT BENDIX S101263101 C, S101263101C, 7700746044, 7700744412",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-BENDIX-S101263101-C%2C-S101263101C%2C-7700746044%2C-7700744412-/64693",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bendix",
+    "productCode": "905F-1209B_20140828173846",
+    "sku": "905F-1209B_20140828173846",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT BENDIX S101263101 C, S101263101C, 7700746044, 7700744412 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT BENDIX",
+      "ENGINE": "1.7",
+      "YEAR": "1990-1992",
+      "NUMBER MANUFACTURER": "S101263101 C",
+      "NUMBER PARTS": "7700744412",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:49:16.167Z",
+    "model": "mistral:7b",
+    "durationMs": 13680,
+    "priceIncrement": 100
+  }
+}

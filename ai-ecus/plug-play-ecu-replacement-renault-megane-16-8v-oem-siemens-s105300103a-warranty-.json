@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Renault Megane 1.6 8V - OEM Siemens S105300103A, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-megane-16-8v-oem-siemens-s105300103a-warranty-",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Renault Megane 1.6 8V by Siemens, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Megane 1.6 8V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane",
+    "Siemens S105300103A"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller for Renault Megane 1.6 8V offers a Plug & Play solution, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Part</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT MEGANE</td></tr>\n        <tr><th>ENGINE</th><td>1.6 8V</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S105300103 A</td></tr>\n        <tr><th>NUMBER PARTS</th><td>7700865810</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Megane 1.6 8V. Fitment caution may apply. Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE 1.6 8V, SIEMENS S105300103 A, S105300103A, HOM7700860319, 7700865810",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-1.6-8V%2C-SIEMENS-S105300103-A%2C-S105300103A%2C-HOM7700860319%2C-7700865810/96441",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "3769-1471A_20160912120852",
+    "sku": "3769-1471A_20160912120852",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE 1.6 8V, SIEMENS S105300103 A, S105300103A, HOM7700860319, 7700865810</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_70c665012f6b6b0729dbc596a3217689_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_47d44ea72b77d3180a4a4970db0a7ed5_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE",
+      "ENGINE": "1.6 8V",
+      "NUMBER MANUFACTURER": "SIEMENS S105300103 A",
+      "NUMBER PARTS": "7700865810",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:48:08.348Z",
+    "model": "mistral:7b",
+    "durationMs": 9221,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford Focus Continental S180133005 E, BV61-12A650-ME - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-focus-continental-s180133005-e-bv61-12a650-me-warranty",
+  "metaDescription": "Get a Plug & Play OEM tested ECU replacement for your Ford Focus with Continental S180133005 E, FoMoCo BV61-12A650-ME. Covered by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play OEM tested ECU replacement for Ford Focus",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Continental S180133005 E",
+    "BV61-12A650-ME"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for your Ford Focus is a reliable solution, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>FORD FOCUS</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>CONTINENTAL S180133005 E</td></tr>\n      <tr><th>NUMBER PARTS</th><td>FoMoCo BV61-12A650-ME</td></tr>\n      <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS CONTINENTAL S180133005 E, S180133005E, FoMoCo BV61-12A650-ME, BV6112A650ME, SID807EVO",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-CONTINENTAL-S180133005-E%2C-S180133005E%2C-FoMoCo-BV61-12A650-ME%2C-BV6112A650ME%2C-SID807EVO-/103425",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "50DC-10338_20170221202218",
+    "sku": "50DC-10338_20170221202218",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS CONTINENTAL S180133005 E, S180133005E, FoMoCo BV61-12A650-ME, BV6112A650ME, SID807EVO </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "NUMBER MANUFACTURER": "CONTINENTAL S180133005 E",
+      "NUMBER PARTS": "FoMoCo BV61-12A650-ME",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:13:12.971Z",
+    "model": "mistral:7b",
+    "durationMs": 10147,
+    "priceIncrement": 100
+  }
+}

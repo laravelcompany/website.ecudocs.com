@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault TWINGO II 1.2, OEM Continental S120202121A, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-twingo-ii-12-oem-continental-s120202121a",
+  "metaDescription": "Buy the tested ECU ENGINE CONTROLLER RENAULT TWINGO II 1.2, S120202121 A, S120202121A, 8201076738, SIM32 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault TWINGO II 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault TWINGO II",
+    "Continental S120202121A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER is a direct replacement for your Renault TWINGO II 1.2, ensuring seamless engine operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty included</li>\n        <li>Used in good condition</li>\n        <li>Original part number: SIM32</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT TWINGO II</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER PARTS</th><td>SIM32</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>complet</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Renault TWINGO II 1.2. Always confirm fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT TWINGO II 1.2, S120202121 A, S120202121A, 8201076738, SIM32",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-TWINGO-II-1.2%2C-S120202121-A%2C-S120202121A%2C-8201076738%2C-SIM32-/51770",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "0DBC-70440_20140225104650",
+    "sku": "0DBC-70440_20140225104650",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT TWINGO II 1.2, S120202121 A, S120202121A, 8201076738, SIM32 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT TWINGO II",
+      "ENGINE": "1.2",
+      "YEAR": "2007",
+      "NUMBER PARTS": "SIM32",
+      "OPTION AVAILABLE": "complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:22:32.458Z",
+    "model": "mistral:7b",
+    "durationMs": 10807,
+    "priceIncrement": 100
+  }
+}

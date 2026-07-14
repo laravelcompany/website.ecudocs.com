@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - Nissan A11-675 UO1K 4Z20 OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-nissan-a11-675-uo1k-4z20-hitachi-oem-tested-warranty",
+  "metaDescription": "Buy the tested and certified Plug & Play ECU ENGINE CONTROLLER NISSAN A11675U01K, A11-675 UO1K 4Z20. Enjoy fast dispatch and a 6-month warranty.",
+  "price": "€60.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan A11-675 UO1K 4Z20",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan A11-675 UO1K 4Z20",
+    "Hitachi"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU ENGINE CONTROLLER for Nissan is a reliable solution to improve your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Improved engine control</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>A11675U01K</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A11-675 UO1K 4Z20</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION / NEW</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN A11675U01K, A11-675 UO1K 4Z20",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-A11675U01K%2C-A11-675-UO1K-4Z20/30339",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "4E32-1328A_20120930192917",
+    "sku": "4E32-1328A_20120930192917",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN A11675U01K, A11-675 UO1K 4Z20</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN",
+      "NUMBER MANUFACTURER": "A11675U01K",
+      "NUMBER PARTS": "A11-675 UO1K 4Z20",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION / NEW"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:01:39.553Z",
+    "model": "mistral:7b",
+    "durationMs": 10573,
+    "priceIncrement": 100
+  }
+}

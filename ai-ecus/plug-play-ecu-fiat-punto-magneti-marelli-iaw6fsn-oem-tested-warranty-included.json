@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT PUNTO 1.2 8V Magneti Marelli IAW6FSN, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-punto-magneti-marelli-iaw6fsn-oem-tested-warranty-included",
+  "metaDescription": "Find your Plug & Play ECU Replacement for FIAT PUNTO 1.2 8V, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT PUNTO 1.2 8V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT PUNTO",
+    "Magneti Marelli",
+    "IAW6FSN"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for FIAT PUNTO 1.2 8V is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used Original in Good Condition</li>\n<li>Locked or Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT PUNTO</td></tr>\n<tr><td>ENGINE</td><td>1.2 8V</td></tr>\n<tr><td>YEAR</td><td>1994-1995</td></tr>\n<tr><td>NUMBER PARTS</td><td>6160205104</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO MAGNETI MARELLI IAW 6F.SN, IAW6FSN, 46421095, 61602.051.04, 6160205104",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-MAGNETI-MARELLI-IAW-6F.SN%2C-IAW6FSN%2C-46421095%2C-61602.051.04%2C-6160205104/60875",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "0B46-477D0_20140723101357",
+    "sku": "0B46-477D0_20140723101357",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO MAGNETI MARELLI IAW 6F.SN, IAW6FSN, 46421095, 61602.051.04, 6160205104</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO",
+      "ENGINE": "1.2 8V",
+      "YEAR": "1994-1995",
+      "NUMBER PARTS": "6160205104",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:28:53.174Z",
+    "model": "mistral:7b",
+    "durationMs": 10880,
+    "priceIncrement": 100
+  }
+}

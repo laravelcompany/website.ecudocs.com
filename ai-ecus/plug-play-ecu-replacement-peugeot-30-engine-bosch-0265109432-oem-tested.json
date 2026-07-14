@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - PEUGEOT 3.0 Engine Bosch 0 265 109 432, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-peugeot-30-engine-bosch-0265109432-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller ESP for PEUGEOT 3.0 engine, Bosch 0 265 109 432, 6-month warranty, Plug & Play replacement.",
+  "price": "€87.00",
+  "excerpt": "OEM tested ECU Engine Controller ESP for PEUGEOT 3.0 engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 3.0 engine",
+    "Bosch 0 265 109 432"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller ESP is a replacement for PEUGEOT's 3.0 engine, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used Original in Good Condition</li>\n<li>Locked / Unlocked Option Available</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER ESP</td></tr>\n<tr><th>BRAND AND MODEL</th><td>PEUGEOT</td></tr>\n<tr><th>ENGINE</th><td>3.0</td></tr>\n<tr><th>YEAR</th><td>2002</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 265 109 432</td></tr>\n<tr><th>NUMBER PARTS</th><td>96 413 154 80</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ESP PEUGEOT BOSCH 0 265 109 432, 0265109432, 96 413 154 80, 9641315480",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ESP-PEUGEOT-BOSCH-0-265-109-432%2C-0265109432%2C-96-413-154-80%2C-9641315480/67162",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "09DB-8601A_20141002132246",
+    "sku": "09DB-8601A_20141002132246",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ESP PEUGEOT BOSCH 0 265 109 432, 0265109432, 96 413 154 80, 9641315480</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER ESP",
+      "BRAND AND MODEL": "PEUGEOT",
+      "ENGINE": "3.0",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 265 109 432",
+      "NUMBER PARTS": "96 413 154 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:06:11.734Z",
+    "model": "mistral:7b",
+    "durationMs": 10932,
+    "priceIncrement": 100
+  }
+}

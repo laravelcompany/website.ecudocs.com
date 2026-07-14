@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Trafic 1.9 D Lucas R04080016 C, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-trafic-19-d-lucas-r04080016-c-oem-tested-warra",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Renault Trafic 1.9 D, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Trafic 1.9 D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Trafic",
+    "Lucas R04080016 C"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller for Renault Trafic 1.9 D is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>RENAULT TRAFIC</td></tr>\n        <tr><th>ENGINE:</th><td>1.9 D</td></tr>\n        <tr><th>YEAR:</th><td>1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>LUCAS R04080016 C</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>7700110128</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with Renault Trafic 1.9 D. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT TRAFIC LUCAS R04080016 C, R04080016C, 7 700 106 482, 7700106482, 7700110128",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-TRAFIC-LUCAS-R04080016-C%2C-R04080016C%2C-7-700-106-482%2C-7700106482%2C-7700110128-/61428",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "B91C-68782_20140728153157",
+    "sku": "B91C-68782_20140728153157",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT TRAFIC LUCAS R04080016 C, R04080016C, 7 700 106 482, 7700106482, 7700110128 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_53581cc22e16b55c6a23782c94df1510_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_06cd4d399188f544eddda09725b8f633_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT TRAFIC",
+      "ENGINE": "1.9 D",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "LUCAS R04080016 C",
+      "NUMBER PARTS": "7700110128",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:15:21.989Z",
+    "model": "mistral:7b",
+    "durationMs": 9190,
+    "priceIncrement": 100
+  }
+}

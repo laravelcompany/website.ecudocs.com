@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for NISSAN ALMERA TINO 1.8 16V - OEM Tested, Warranty Included - MEC32-410 E3, Z3",
+  "slug": "plug-play-ecu-replacement-nissan-almera-tino-1-8-16v-mec32-410-e3-z3",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for NISSAN ALMERA TINO 1.8 16V, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN ALMERA TINO 1.8 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "MEC32-410 E3",
+    "Z3",
+    "NISSAN ALMERA TINO"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for NISSAN ALMERA TINO 1.8 16V is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN ALMERA TINO</td></tr>\n        <tr><th>ENGINE</th><td>1.8 16V</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MEC32-410 E3</td></tr>\n        <tr><th>NUMBER PARTS</th><td>Z3</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA TINO 1.8 16V, MEC32-410 E3, MEC32410 E3, MEC32410E3, 4629, Z3",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-TINO-1.8-16V%2C-MEC32-410-E3%2C-MEC32410-E3%2C-MEC32410E3%2C-4629%2C-Z3/38450",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "568F-561A4_20130724121657",
+    "sku": "568F-561A4_20130724121657",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA TINO 1.8 16V, MEC32-410 E3, MEC32410 E3, MEC32410E3, 4629, Z3</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA TINO",
+      "ENGINE": "1.8 16V",
+      "NUMBER MANUFACTURER": "MEC32-410 E3",
+      "NUMBER PARTS": "Z3",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:10:12.313Z",
+    "model": "mistral:7b",
+    "durationMs": 9479,
+    "priceIncrement": 100
+  }
+}

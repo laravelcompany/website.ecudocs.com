@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - PEUGEOT 205 1.6 Bosch 0 280 000 333, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-205-1-6-bosch-0280000333-oem-tested",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for PEUGEOT 205 1.6 (Bosch 0 280 000 333) - OEM tested, 6-month warranty, and fast dispatch.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT 205 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 205",
+    "Bosch 0 280 000 333"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller is a reliable replacement for your PEUGEOT 205 1.6 (Bosch 0 280 000 333).</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for guaranteed performance</li><li>6-month warranty for peace of mind</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>PEUGEOT 205</td></tr>\n<tr><td>ENGINE</td><td>1.6</td></tr>\n<tr><td>YEAR</td><td>1985-1988</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 280 000 333</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always consult a professional technician for installation and fitment caution.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 205 BOSCH 0 280 000 333, 0280000333",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-205-BOSCH-0-280-000-333%2C-0280000333/64643",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C186-4388D_20140828124713",
+    "sku": "C186-4388D_20140828124713",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 205 BOSCH 0 280 000 333, 0280000333</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_b94dd58aea717d5e1d70f1b8ad683d60_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4c818182880a28a4d0315e7c31cd960c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d4a1e9e099d8660fa7a63643e219b8f2_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 205",
+      "ENGINE": "1.6",
+      "YEAR": "1985-1988",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 000 333",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:38:20.895Z",
+    "model": "mistral:7b",
+    "durationMs": 11447,
+    "priceIncrement": 100
+  }
+}

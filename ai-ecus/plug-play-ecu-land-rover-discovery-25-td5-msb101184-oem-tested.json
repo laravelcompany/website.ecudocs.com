@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Land Rover Discovery 2.5 TD5 MSB101184 OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-land-rover-discovery-25-td5-msb101184-oem-tested",
+  "metaDescription": "Get a tested and certified Plug & Play ECU replacement for your Land Rover Discovery 2.5 TD5 MSB101184. Enjoy a 6-month warranty and fast dispatch.",
+  "price": "€800.00",
+  "excerpt": "Plug & Play ECU Replacement for Land Rover Discovery 2.5 TD5",
+  "tags": [
+    "ECU repair",
+    "Land Rover Discovery",
+    "2.5 TD5",
+    "MSB101184",
+    "OEM Tested",
+    "Plug & Play"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for your Land Rover Discovery 2.5 TD5 MSB101184 has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Value</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>LAND ROVER DISCOVERY</td></tr><tr><td>ENGINE</td><td>2.5 TD5</td></tr><tr><td>NUMBER MANUFACTURER</td><td>MSB101184</td></tr><tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr><tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><td>WARRANTY :</td><td>6-month warranty</td></tr><tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LAND ROVER DISCOVERY 2.5 TD5 MSB101184",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LAND-ROVER-DISCOVERY-2.5-TD5-MSB101184-/80690",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "BBB5-756BF_20151019112223",
+    "sku": "BBB5-756BF_20151019112223",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LAND ROVER DISCOVERY 2.5 TD5 MSB101184 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LAND ROVER DISCOVERY",
+      "ENGINE": "2.5 TD5",
+      "NUMBER MANUFACTURER": "MSB101184",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:42:55.908Z",
+    "model": "mistral:7b",
+    "durationMs": 9622,
+    "priceIncrement": 100
+  }
+}

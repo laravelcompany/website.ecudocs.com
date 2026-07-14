@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Toyota Lexus 4.3 3UZ-FE Denso 89661-50580, Warranty Included",
+  "slug": "plug-play-ecu-toyota-lexus-43-3uz-fe-denso-89661-50580-warranty",
+  "metaDescription": "Buy this Plug & Play OEM Tested ECU Replacement for Toyota Lexus 4.3 3UZ-FE, backed by a 6-month warranty and ready for immediate dispatch.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Toyota Lexus",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso",
+    "Toyota Lexus",
+    "4.3 3UZ-FE"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Toyota Lexus 4.3 3UZ-FE is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Compatible with 2001 models</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>TOYOTA LEXUS</td></tr>\n        <tr><th>ENGINE</th><td>4.3 3UZ-FE</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DENSO 275000-0651</td></tr>\n        <tr><th>NUMBER PARTS</th><td>89661-50580</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with select Toyota Lexus models from 2001. Fitment caution may apply, consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA LEXUS 89661-50580, 8966150580, DENSO 275000-0651, 2750000651",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-LEXUS-89661-50580%2C-8966150580%2C-DENSO-275000-0651%2C-2750000651/67897",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "454A-33069_20141010150515",
+    "sku": "454A-33069_20141010150515",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA LEXUS 89661-50580, 8966150580, DENSO 275000-0651, 2750000651</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA LEXUS",
+      "ENGINE": "4.3 3UZ-FE",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "DENSO 275000-0651",
+      "NUMBER PARTS": "89661-50580",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:26:57.921Z",
+    "model": "mistral:7b",
+    "durationMs": 9653,
+    "priceIncrement": 100
+  }
+}

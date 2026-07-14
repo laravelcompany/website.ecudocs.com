@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Seicento 600 1.1 IAW16FME6/6A36-BE, OEM Tested - Bosch",
+  "slug": "plug-play-ecu-fiat-seicento-600-1-1-iaw16fme6-6a36-be-bosch",
+  "metaDescription": "OEM tested Plug & Play ECU Replacement for Fiat Seicento 600 1.1 IAW16FME6/6A36-BE by Bosch, backed by a 6-month warranty and fast dispatch.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Seicento 600 1.1 IAW16FME6/6A36-BE by Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Seicento 600",
+    "IAW16FME6",
+    "6A36-BE",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Fiat Seicento 600 1.1 IAW16FME6/6A36-BE by Bosch is a direct OEM replacement, ensuring optimal vehicle performance and compatibility.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM tested for reliable operation</li>\n<li>6-month warranty for peace of mind</li>\n<li>Direct replacement for your vehicle model</li>\n<li>Backed by a trusted brand - Bosch</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT SEICENTO 600</td></tr>\n<tr><td>ENGINE</td><td>1.1</td></tr>\n<tr><td>YEAR</td><td>1998</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>IAW 16FM.E6/6A36-BE</td></tr>\n<tr><td>NUMBER PARTS</td><td>46534753</td></tr>\n<tr><td>WARRANTY</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Fiat Seicento 600 1.1 IAW16FME6/6A36-BE only. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT SEICENTO 600 1.1 IAW16FME6, IAW16FM.E6, IAW 16FM.E6/6A36-BE, 46534753, 6160209702, 61602.097.02",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-SEICENTO-600-1.1-IAW16FME6%2C-IAW16FM.E6%2C-IAW-16FM.E66A36-BE%2C-46534753%2C-6160209702%2C-61602.097.02/26364",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2470-71082_20120626151534",
+    "sku": "2470-71082_20120626151534",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT SEICENTO 600 1.1 IAW16FME6, IAW16FM.E6, IAW 16FM.E6/6A36-BE, 46534753, 6160209702, 61602.097.02</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT SEICENTO 600",
+      "ENGINE": "1.1",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "IAW 16FM.E6",
+      "NUMBER PARTS": "46534753",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:31:41.785Z",
+    "model": "mistral:7b",
+    "durationMs": 12405,
+    "priceIncrement": 100
+  }
+}

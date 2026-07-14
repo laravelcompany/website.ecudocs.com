@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Ducato 2.2 HDI BOSCH 0281010345, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-ducato-2-2-hdi-bosch-0281010345-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat Ducato 2.2 HDI BOSCH 0281010345, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Ducato 2.2 HDI BOSCH 0281010345",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Ducato 2.2 HDI",
+    "Bosch 0281010345"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a reliable replacement for your Fiat Ducato 2.2 HDI BOSCH 0281010345, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Dispatch</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT DUCATO 2.2 HDI BOSCH 0281010345, 0 281 010 345, 1332377080</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.2 HDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2002</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 010 345</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>28SA5661</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT DUCATO 2.2 HDI BOSCH 0281010345, 0 281 010 345, 1332377080, 28SA5661",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-DUCATO-2.2-HDI-BOSCH-0281010345%2C-0-281-010-345%2C-1332377080%2C-28SA5661-/13006",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5696-999E5",
+    "sku": "5696-999E5",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT DUCATO 2.2 HDI BOSCH 0281010345, 0 281 010 345, 1332377080, 28SA5661 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT DUCATO 2.2 HDI BOSCH 0281010345, 0 281 010 345, 1332377080",
+      "ENGINE": "2.2 HDI",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 345",
+      "NUMBER PARTS": "28SA5661",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "SED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:40:01.253Z",
+    "model": "mistral:7b",
+    "durationMs": 12310,
+    "priceIncrement": 100
+  }
+}

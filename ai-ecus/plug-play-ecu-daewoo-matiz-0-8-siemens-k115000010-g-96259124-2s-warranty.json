@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Daewoo Matiz 0.8, Siemens K115000010 G, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-daewoo-matiz-0-8-siemens-k115000010-g-96259124-2s-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Daewoo Matiz 0.8 with Siemens K115000010 G, tested and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Daewoo Matiz 0.8 with Siemens K115000010 G",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Daewoo Matiz",
+    "Siemens K115000010 G",
+    "96259124 2S"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Daewoo Matiz 0.8 is a reliable replacement, ensuring optimal engine performance and smooth operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM Tested and Certified</li>\n        <li>6-month warranty included</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Daewoo Matiz 0.8</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>DAEWOO MATIZ</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>0.8</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2000</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS K115000010 G</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>96259124 2S</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Daewoo Matiz 0.8 only. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DAEWOO MATIZ 0.8, SIEMENS K115000010 G, K115000010G, 96259124 2S",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DAEWOO-MATIZ-0.8%2C-SIEMENS-K115000010-G%2C-K115000010G%2C-96259124-2S-/46930",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "3CC2-39355",
+    "sku": "3CC2-39355",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DAEWOO MATIZ 0.8, SIEMENS K115000010 G, K115000010G, 96259124 2S </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DAEWOO MATIZ",
+      "ENGINE": "0.8",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "SIEMENS K115000010 G",
+      "NUMBER PARTS": "96259124 2S",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:56:49.649Z",
+    "model": "mistral:7b",
+    "durationMs": 12045,
+    "priceIncrement": 100
+  }
+}

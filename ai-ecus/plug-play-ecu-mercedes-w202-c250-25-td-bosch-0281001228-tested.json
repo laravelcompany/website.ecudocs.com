@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W202 C250 2.5 TD - OEM Bosch 0 281 001 228, A 016 545 08 32 - Tested & Warranty",
+  "slug": "plug-play-ecu-mercedes-w202-c250-25-td-bosch-0281001228-tested",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for Mercedes W202 C250 2.5 TD, OEM Bosch 0 281 001 228, A 016 545 08 32. Tested and covered by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU for Mercedes W202 C250 2.5 TD - OEM Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W202 C250",
+    "Bosch 0 281 001 228",
+    "A 016 545 08 32"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement is an OEM part for Mercedes W202 C250 2.5 TD, manufactured by Bosch (0 281 001 228). It has been thoroughly inspected and tested by a certified technician and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES W202 C250</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.5 TD</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 001 228</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>A 016 545 08 32</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W202 C250 2.5 TD, BOSCH 0 281 001 228, 0281001228, A 016 545 08 32, A0165450832",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W202-C250-2.5-TD%2C-BOSCH-0-281-001-228%2C-0281001228%2C-A-016-545-08-32%2C-A0165450832/56439",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6781-4826A_20140519092417",
+    "sku": "6781-4826A_20140519092417",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W202 C250 2.5 TD, BOSCH 0 281 001 228, 0281001228, A 016 545 08 32, A0165450832</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W202 C250",
+      "ENGINE": "2.5 TD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 228",
+      "NUMBER PARTS": "A 016 545 08 32",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:17:20.221Z",
+    "model": "mistral:7b",
+    "durationMs": 12516,
+    "priceIncrement": 100
+  }
+}

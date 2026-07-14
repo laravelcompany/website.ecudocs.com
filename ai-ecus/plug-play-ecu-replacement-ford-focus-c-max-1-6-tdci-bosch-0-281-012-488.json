@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Ford Focus C-MAX 1.6 TDCI Bosch 0 281 012 488 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-focus-c-max-1-6-tdci-bosch-0-281-012-488",
+  "metaDescription": "OEM tested ECU Engine Controller for Ford Focus C-MAX 1.6 TDCI Bosch 0 281 012 488, offering Plug & Play functionality and backed by a warranty.",
+  "price": "€330.00",
+  "excerpt": "OEM tested ECU Engine Controller for Ford Focus C-MAX 1.6 TDCI Bosch 0 281 012 488",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus C-MAX",
+    "1.6 TDCI",
+    "Bosch 0 281 012 488"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is specifically designed for Ford Focus C-MAX 1.6 TDCI and comes with a warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested by certified technician</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Compatible with locked and unlocked options</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD FOCUS C- MAX</td></tr>\n        <tr><th>ENGINE:</th><td>1.6 TDCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 012 488</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>7BHB</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS C- MAX 1.6 TDCI BOSCH 0 281 012 488, 0281012488, FoMoCo 5M51-12A650-TB, 5M5112A650TB, 7BHB",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-C-MAX-1.6-TDCI-BOSCH-0-281-012-488%2C-0281012488%2C-FoMoCo-5M51-12A650-TB%2C-5M5112A650TB%2C-7BHB-/100671",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "59B0-3546B_20161214145252",
+    "sku": "59B0-3546B_20161214145252",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS C- MAX 1.6 TDCI BOSCH 0 281 012 488, 0281012488, FoMoCo 5M51-12A650-TB, 5M5112A650TB, 7BHB </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS C- MAX",
+      "ENGINE": "1.6 TDCI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 488",
+      "NUMBER PARTS": "7BHB",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:08:06.329Z",
+    "model": "mistral:7b",
+    "durationMs": 9443,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Citroen Peugeot 2.0 HDI - Delphi R0413C001F, Warranty Included",
+  "slug": "plug-play-ecu-citroen-peugeot-2-0-hdi-delphi-r0413c001f-warranty",
+  "metaDescription": "Buy a tested and certified ECU Engine Controller for Citroen Peugeot 2.0 HDI from Delphi, with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen Peugeot 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delphi R0413C001F",
+    "Citroen Peugeot 2.0 HDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Citroen Peugeot 2.0 HDI ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN PEUGEOT</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 HDI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>DELPHI R0413C001F</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>HW 9663548180</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen Peugeot 2.0 HDI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.0 HDI DELPHI R0413C001F, 28094573, HW 9663548180, DCM3.4",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-2.0-HDI-DELPHI-R0413C001F%2C-28094573%2C-HW-9663548180%2C-DCM3.4-/84242",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "E712-95119_20160111174616",
+    "sku": "E712-95119_20160111174616",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.0 HDI DELPHI R0413C001F, 28094573, HW 9663548180, DCM3.4 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "DELPHI R0413C001F",
+      "NUMBER PARTS": "HW 9663548180",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:11:18.954Z",
+    "model": "mistral:7b",
+    "durationMs": 11033,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Hyundai I20 1.4 CRDI Bosch 0 281 015 496, OEM Tested",
+  "slug": "plug-play-ecu-hyundai-i20-14-crdi-bosch-0281015496-tested",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for Hyundai I20 1.4 CRDI Bosch 0 281 015 496, OEM tested and covered by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Hyundai I20 1.4 CRDI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai I20",
+    "Bosch",
+    "1.4 CRDI"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Hyundai I20 1.4 CRDI Bosch is a tested and reliable solution, ensuring seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Tested</li>\n      <li>6-month Warranty</li>\n      <li>Fast Dispatch</li>\n      <li>Plug & Play</li>\n      <li>ECU Replacement</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>HYUNDAI I20</td></tr>\n      <tr><th>ENGINE</th><td>1.4 CRDI</td></tr>\n      <tr><th>YEAR</th><td>2008</td></tr>\n      <tr><th>NUMBER PARTS</th><td>391112A050</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI I20 1.4 CRDI BOSCH 0 281 015 496, 0281015496, 39111-2A050, 391112A050",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-I20-1.4-CRDI-BOSCH-0-281-015-496%2C-0281015496%2C-39111-2A050%2C-391112A050/61017",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D386-203C0_20140724095139",
+    "sku": "D386-203C0_20140724095139",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI I20 1.4 CRDI BOSCH 0 281 015 496, 0281015496, 39111-2A050, 391112A050</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI I20",
+      "ENGINE": "1.4 CRDI",
+      "YEAR": "2008",
+      "NUMBER PARTS": "391112A050",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:42:35.904Z",
+    "model": "mistral:7b",
+    "durationMs": 10128,
+    "priceIncrement": 100
+  }
+}

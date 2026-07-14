@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E65 735 745 BOSCH 0261209002, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-e65-735-745-bosch-0261209002",
+  "metaDescription": "OEM ECU Engine Controller for BMW E65 735 745. Plug & Play, tested and covered by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E65 735 745",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E65 735 745",
+    "BOSCH 0261209002"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for BMW E65 735 745 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Locked / Ready for programming</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW E65 735 745</td></tr>\n        <tr><th>YEAR</th><td>2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 209 002</td></tr>\n        <tr><th>NUMBER PARTS</th><td>7523523</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and usage history. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E65 735 745 BOSCH 0261209002, 0 261 209 002, DME 7523523, 7 523 523, DME7523523",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E65-735-745-BOSCH-0261209002%2C-0-261-209-002%2C-DME-7523523%2C-7-523-523%2C-DME7523523-/31894",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8DC6-5355C",
+    "sku": "8DC6-5355C",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E65 735 745 BOSCH 0261209002, 0 261 209 002, DME 7523523, 7 523 523, DME7523523 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E65 735 745",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 209 002",
+      "NUMBER PARTS": "7523523",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:38:31.276Z",
+    "model": "mistral:7b",
+    "durationMs": 9323,
+    "priceIncrement": 100
+  }
+}

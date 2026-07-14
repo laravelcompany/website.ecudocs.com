@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Hyundai Getz 1.1, TBF2IN11 A1 - 6-month Warranty",
+  "slug": "plug-play-ecu-hyundai-getz-11-tbf2in11-a1-oem-tested",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Hyundai Getz 1.1, TBF2IN11 A1. Covered by a 6-month warranty and ships within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "OEM tested Plug & Play ECU replacement for Hyundai Getz 1.1, TBF2IN11 A1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai Getz",
+    "TBF2IN11 A1"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is specifically designed for Hyundai Getz 1.1, ensuring seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch (EU)</li>\n<li>Complet Option Available</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>HYUNDAI GETZ</td></tr>\n<tr><td>ENGINE</td><td>1.1</td></tr>\n<tr><td>YEAR</td><td>2003</td></tr>\n<tr><td>NUMBER PARTS</td><td>39110-02425</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>complet</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Hyundai Getz 1.1. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI GETZ 1.1, 9 030 930 270F, 9030930270F, TBF2IN11 A1, 39110-02425, 3911002425",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-GETZ-1.1%2C-9-030-930-270F%2C-9030930270F%2C-TBF2IN11-A1%2C-39110-02425%2C-3911002425/55888",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Kefico",
+    "productCode": "D758-35830_20140513103111",
+    "sku": "D758-35830_20140513103111",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI GETZ 1.1, 9 030 930 270F, 9030930270F, TBF2IN11 A1, 39110-02425, 3911002425</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI GETZ",
+      "ENGINE": "1.1",
+      "YEAR": "2003",
+      "NUMBER PARTS": "39110-02425",
+      "OPTION AVAILABLE": "complet",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:39:07.666Z",
+    "model": "mistral:7b",
+    "durationMs": 10674,
+    "priceIncrement": 100
+  }
+}

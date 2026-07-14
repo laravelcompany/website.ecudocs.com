@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Opel Corsa C 1.2 Z12XE - Bosch 0 261 207 962, GM 55 350 552 SD - Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-opel-corsa-c-1-2-z12xe-bosch-0-261-207-962-gm-55-3",
+  "metaDescription": "Find your Plug & Play OEM ECU Replacement for Opel Corsa C 1.2 Z12XE with Bosch 0 261 207 962, GM 55 350 552 SD. Tested and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Opel Corsa C 1.2 Z12XE - Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Corsa C",
+    "1.2 Z12XE",
+    "Bosch",
+    "GM 55 350 552 SD"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU replacement for Opel Corsa C 1.2 Z12XE is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play functionality</li>\n<li>OEM quality</li>\n<li>6-month warranty</li>\n<li>Fast dispatch within EU</li>\n<li>Compatible with Opel Corsa C 1.2 Z12XE</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>OPEL CORSA C</td></tr>\n<tr><td>ENGINE</td><td>1.2 Z12XE</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 207 962</td></tr>\n<tr><td>NUMBER PARTS</td><td>GM 55 350 552 SD</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED / COMPLETE</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always consult a professional technician for installation advice.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA C 1.2 Z12XE BOSCH 0 261 207 962, 0261207962, GM 55 350 552 SD, 55350552SD, 55350552",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-C-1.2-Z12XE-BOSCH-0-261-207-962%2C-0261207962%2C-GM-55-350-552-SD%2C-55350552SD%2C-55350552-/83152",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "93CD-608D0_20151204154228",
+    "sku": "93CD-608D0_20151204154228",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA C 1.2 Z12XE BOSCH 0 261 207 962, 0261207962, GM 55 350 552 SD, 55350552SD, 55350552 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_6a3aed89704507d92cf68a24ef948ace_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3fff77ebcf32ddfb6533ffe2c5a2e488_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA C",
+      "ENGINE": "1.2 Z12XE",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 962",
+      "NUMBER PARTS": "GM 55 350 552 SD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:55:21.849Z",
+    "model": "mistral:7b",
+    "durationMs": 12930,
+    "priceIncrement": 100
+  }
+}

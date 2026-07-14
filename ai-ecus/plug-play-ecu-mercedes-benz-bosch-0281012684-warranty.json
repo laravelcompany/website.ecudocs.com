@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes Benz - Bosch 0 281 012 684, CR3.44 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-benz-bosch-0281012684-warranty",
+  "metaDescription": "Expertly tested and Plug & Play ECU replacement for Mercedes Benz with Bosch 0 281 012 684, CR3.44. 6-month warranty. Fast dispatch in EU.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU replacement for Mercedes Benz - Bosch 0 281 012 684, CR3.44",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Benz",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Mercedes Benz is guaranteed to deliver optimal engine performance. The unit has been thoroughly inspected and tested by a certified technician, ensuring it meets the highest standards of quality.</section>\n<section class=\"features\">\n  <ul>\n    <li>Plug & Play</li>\n    <li>OEM Tested</li>\n    <li>6-month Warranty</li>\n    <li>Fast Dispatch</li>\n    <li>EU Shipping</li>\n  </ul>\n</section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL:</th><td>MERCEDES BENZ</td></tr>\n    <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 012 684</td></tr>\n    <tr><th>NUMBER PARTS:</th><td>CR3.44</td></tr>\n    <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION:</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n  </table>\n</section>\n<section class=\"shipping\">This product is eligible for EU shipping with a 12-month warranty. Fast dispatch within 24–48 hours.</section>\n<section class=\"compatibility\">Please ensure this ECU is compatible with your Mercedes Benz model before purchasing. For assistance, contact our support team.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES BENZ BOSCH 0 281 012 684, 0281012684, A 646 150 64 91, A6461506491, CR3.44",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-BENZ-BOSCH-0-281-012-684%2C-0281012684%2C-A-646-150-64-91%2C-A6461506491%2C-CR3.44/115204",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D39E-497C6_20190723154723",
+    "sku": "D39E-497C6_20190723154723",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES BENZ BOSCH 0 281 012 684, 0281012684, A 646 150 64 91, A6461506491, CR3.44</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES BENZ",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 684",
+      "NUMBER PARTS": "CR3.44",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:28:53.271Z",
+    "model": "mistral:7b",
+    "durationMs": 10757,
+    "priceIncrement": 100
+  }
+}

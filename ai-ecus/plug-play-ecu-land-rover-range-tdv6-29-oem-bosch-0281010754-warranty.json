@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Land Rover Range TDV6 2.9, OEM Bosch 0 281 010 754, Warranty Included",
+  "slug": "plug-play-ecu-land-rover-range-tdv6-29-oem-bosch-0281010754-warranty",
+  "metaDescription": "Buy a tested Plug & Play ECU Engine Controller for Land Rover Range TDV6 2.9, OEM Bosch 0 281 010 754, with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU for Land Rover Range TDV6 2.9",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Land Rover Range TDV6",
+    "OEM Bosch",
+    "Bosch 0 281 010 754"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is an OEM replacement for Land Rover Range TDV6 2.9, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>LAND ROVER RANGE TDV6</td></tr>\n        <tr><th>ENGINE</th><td>2.9</td></tr>\n        <tr><th>YEAR</th><td>2002-2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 754</td></tr>\n        <tr><th>NUMBER PARTS</th><td>7 791 367</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LAND ROVER RANGE TDV6 2.9, BOSCH 0 281 010 754, BOSCH 0281010754, NNN000461, 7 791 367, 7791367",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LAND-ROVER-RANGE-TDV6-2.9%2C-BOSCH-0-281-010-754%2C-BOSCH-0281010754%2C-NNN000461%2C-7-791-367%2C-7791367/38465",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8830-198BC_20130724131334",
+    "sku": "8830-198BC_20130724131334",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LAND ROVER RANGE TDV6 2.9, BOSCH 0 281 010 754, BOSCH 0281010754, NNN000461, 7 791 367, 7791367</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LAND ROVER RANGE TDV6",
+      "ENGINE": "2.9",
+      "YEAR": "2002-2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 754",
+      "NUMBER PARTS": "7 791 367",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:45:49.492Z",
+    "model": "mistral:7b",
+    "durationMs": 9867,
+    "priceIncrement": 100
+  }
+}

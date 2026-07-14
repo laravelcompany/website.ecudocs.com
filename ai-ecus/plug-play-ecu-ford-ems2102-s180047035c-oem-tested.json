@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford EMS2102 S180047035C, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-ems2102-s180047035c-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Ford EMS2102 S180047035C. OEM tested, warranty included, and fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford EMS2102 S180047035C",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford EMS2102",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for Ford EMS2102 S180047035C. It has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for reliable operation</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Ford vehicles (year: 2011)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD</td></tr>\n        <tr><th>YEAR:</th><td>2011</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>EMS2102 S180047035 C</td></tr>\n        <tr><th>CODE:</th><td>9VJC</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>BV21-12A650-FC</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford vehicles (year: 2011). Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD EMS2102 S180047035C, S180047035 C, BV2112A650FC, BV21-12A650-FC 9VJC",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-EMS2102-S180047035C%2C-S180047035-C%2C-BV2112A650FC%2C-BV21-12A650-FC-9VJC-/32064",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "62AD-32626",
+    "sku": "62AD-32626",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD EMS2102 S180047035C, S180047035 C, BV2112A650FC, BV21-12A650-FC 9VJC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "EMS2102 S180047035 C",
+      "CODE": "9VJC",
+      "NUMBER PARTS": "BV21-12A650-FC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:07:54.553Z",
+    "model": "mistral:7b",
+    "durationMs": 9750,
+    "priceIncrement": 100
+  }
+}

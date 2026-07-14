@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Focus C-MAX 2.0 TDCI - Siemens 5WS4033C-T, 5EKC - Warranty Included",
+  "slug": "plug-play-ecu-ford-focus-c-max-2-0-tdci-siemens-5ws4033ct-5ekc-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Focus C-MAX 2.0 TDCI by Siemens. Comes with a 6-month warranty and fast shipping.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Focus C-MAX 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus C-MAX",
+    "Siemens",
+    "2.0 TDCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Focus C-MAX 2.0 TDCI is a reliable solution to keep your vehicle running smoothly.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Shipping</li></ul></section>\n<section class=\"specs\">\n<table>\n  <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n  <tr><th>BRAND AND MODEL</th><td>FOCUS C-MAX</td></tr>\n  <tr><th>ENGINE</th><td>2.0 TDCI</td></tr>\n  <tr><th>NUMBER MANUFACTURER</th><td>5WS4033C-T</td></tr>\n  <tr><th>NUMBER PARTS</th><td>5EKC</td></tr>\n  <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n  <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n  <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n  <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table></section>\n<section class=\"shipping\">This product ships within 24–48 hours and comes with a 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Compatible with Ford Focus C-MAX 2.0 TDCI.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS C-MAX 2.0 TDCI 8M51-12A650-BC, 8M5112A650BC, 5WS4033C-T, 5EKC",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-C-MAX-2.0-TDCI-8M51-12A650-BC%2C-8M5112A650BC%2C-5WS4033C-T%2C-5EKC/119204",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "A436-6852A",
+    "sku": "A436-6852A",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS C-MAX 2.0 TDCI 8M51-12A650-BC, 8M5112A650BC, 5WS4033C-T, 5EKC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FOCUS C-MAX",
+      "ENGINE": "2.0 TDCI",
+      "NUMBER MANUFACTURER": "5WS4033C-T",
+      "NUMBER PARTS": "5EKC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:11:16.526Z",
+    "model": "mistral:7b",
+    "durationMs": 10193,
+    "priceIncrement": 100
+  }
+}

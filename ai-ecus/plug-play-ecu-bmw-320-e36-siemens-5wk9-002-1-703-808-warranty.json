@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - BMW 320, E36 2.0 24V SIEMENS 5WK9 002, 1 703 808 - Warranty Included",
+  "slug": "plug-play-ecu-bmw-320-e36-siemens-5wk9-002-1-703-808-warranty",
+  "metaDescription": "OEM Tested Plug & Play ECU Replacement for BMW 320, E36 2.0 24V SIEMENS 5WK9 002, 1 703 808. Shipped within 24–48 hours with a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU for BMW 320, E36",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW 320",
+    "E36",
+    "Siemens 5WK9 002",
+    "1 703 808"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is specifically designed for BMW 320, E36 2.0 24V engines.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW 320, E36</td></tr>\n        <tr><th>ENGINE</th><td>2.0 24V</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WK9 002</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1 703 808</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours with a 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Compatible with BMW 320, E36 2.0 24V engines only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW 320, E36 2.0 24V, SIEMENS 5WK9 002, 5WK9002, 1 703 808, 1703808, MS 40.1",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-320%2C-E36-2.0-24V%2C-SIEMENS-5WK9-002%2C-5WK9002%2C-1-703-808%2C-1703808%2C-MS-40.1-/99239",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "FF10-32994_20161122151644",
+    "sku": "FF10-32994_20161122151644",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  BMW 320, E36 2.0 24V, SIEMENS 5WK9 002, 5WK9002, 1 703 808, 1703808, MS 40.1 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_0d2a8ab2a7ebced7fa9edbf720428c26_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d98b6a215f876709e516cde8ebfaf761_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW 320, E36",
+      "ENGINE": "2.0 24V",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK9 002",
+      "NUMBER PARTS": "1 703 808",
+      "OPTION AVAILABLE": "LOCKED / CLON",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:46:33.339Z",
+    "model": "mistral:7b",
+    "durationMs": 9842,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Kuga 2.5 16V - OEM Tested, Warranty Included (9V4N12A650AE)",
+  "slug": "plug-play-ecu-ford-kuga-25-16v-oem-tested",
+  "metaDescription": "Expertly tested and guaranteed ECU Engine Controller for Ford Kuga 2.5 16V, offering a seamless Plug & Play installation. Backed by a 6-month warranty.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Kuga 2.5 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Kuga",
+    "2.5 16V",
+    "Bosch",
+    "9V4N12A650AE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Ford Kuga 2.5 16V ensures optimal engine performance and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM Tested</li><li>Warranty Included</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\">\n<table>\n  <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n  <tr><th>BRAND AND MODEL</th><td>FORD KUGA</td></tr>\n  <tr><th>ENGINE</th><td>2.5 16V</td></tr>\n  <tr><th>NUMBER PARTS</th><td>9V4N12A650AE</td></tr>\n  <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n  <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n  <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n  <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and history. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD KUGA 2.5 16V, BOSCH 0 261 209 471, 0261209471, 9V4N-12A650-AE, 9V4N12A650AE",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-KUGA-2.5-16V%2C-BOSCH-0-261-209-471%2C-0261209471%2C-9V4N-12A650-AE%2C-9V4N12A650AE-/52174",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "300C-4751F_20140304104919",
+    "sku": "300C-4751F_20140304104919",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD KUGA 2.5 16V, BOSCH 0 261 209 471, 0261209471, 9V4N-12A650-AE, 9V4N12A650AE </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_3ac4b6f8248a42744b1a682a7850d2c2_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d0d7ed99122310708e7e564743aa1169_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b5de3b4b0ff25ac17f9395a8a70da89f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_459004ae96fd7b97cdfa7f1c1f0ef908_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_42c77e839573aacb4b1fc66f1901fdfb_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_8554eaf18987862ef8d588a9843c8db6_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD KUGA",
+      "ENGINE": "2.5 16V",
+      "NUMBER PARTS": "9V4N12A650AE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:29:23.023Z",
+    "model": "mistral:7b",
+    "durationMs": 9531,
+    "priceIncrement": 100
+  }
+}

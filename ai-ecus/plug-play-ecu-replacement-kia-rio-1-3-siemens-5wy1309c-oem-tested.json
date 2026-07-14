@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - KIA RIO 1.3 SIEMENS 5WY1309C OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-kia-rio-1-3-siemens-5wy1309c-oem-tested",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for KIA RIO 1.3 SIEMENS 5WY1309C, backed by a 6-month warranty. Order today!",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for KIA RIO 1.3 SIEMENS 5WY1309C",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA RIO",
+    "SIEMENS 5WY1309C",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested SIEMENS 5WY1309C ECU Engine Controller for KIA RIO 1.3 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM tested for guaranteed fitment</li>\n<li>6-month warranty for peace of mind</li>\n<li>Used in good condition</li>\n<li>Ready for programming if needed</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>KIA RIO</td></tr>\n<tr><td>ENGINE</td><td>1.3</td></tr>\n<tr><td>YEAR</td><td>2001</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>SIEMENS 5WY1309C</td></tr>\n<tr><td>NUMBER PARTS</td><td>SIMK42</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with KIA RIO 1.3 SIEMENS 5WY1309C. Fitment caution: Ensure correct ECU for your vehicle model.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA RIO 1.3 SIEMENS 5WY1309C",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-RIO-1.3-SIEMENS-5WY1309C-/43521",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "FC68-413D1",
+    "sku": "FC68-413D1",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA RIO 1.3 SIEMENS 5WY1309C </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA RIO",
+      "ENGINE": "1.3",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "SIEMENS 5WY1309C",
+      "NUMBER PARTS": "SIMK42",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:24:09.245Z",
+    "model": "mistral:7b",
+    "durationMs": 11746,
+    "priceIncrement": 100
+  }
+}

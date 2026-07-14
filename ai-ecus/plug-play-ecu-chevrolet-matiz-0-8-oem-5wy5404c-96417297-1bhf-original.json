@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Chevrolet Matiz 0.8 OEM 5WY5404C, 96417297, 1BHF - Original",
+  "slug": "plug-play-ecu-chevrolet-matiz-0-8-oem-5wy5404c-96417297-1bhf-original",
+  "metaDescription": "OEM Tested ECU Engine Controller for Chevrolet Matiz 0.8, 6-month warranty, fast dispatch.",
+  "price": "€275.00",
+  "excerpt": "Original OEM ECU Replacement for Chevrolet Matiz 0.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet Matiz",
+    "OEM part numbers",
+    "5WY5404C"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Chevrolet Matiz 0.8 is tested and OEM certified.</section>\n<section class=\"features\">\n    <ul>\n        <li>Original Part</li>\n        <li>6-month Warranty</li>\n        <li>OEM Tested</li>\n        <li>Fast Dispatch</li>\n        <li>Plug & Play</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CHEVROLET MATIZ</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>0.8</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>5WY5404C</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>96417297</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">12-month warranty, fast dispatch within EU.</section>\n<section class=\"compatibility\">Compatible with Chevrolet Matiz 0.8. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET MATIZ 0.8 5WY5404C, 96417297, 1BHF",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-MATIZ-0.8-5WY5404C%2C-96417297%2C-1BHF-/95664",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "7FA6-2441A_20160902172653",
+    "sku": "7FA6-2441A_20160902172653",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET MATIZ 0.8 5WY5404C, 96417297, 1BHF </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET MATIZ",
+      "ENGINE": "0.8",
+      "NUMBER MANUFACTURER": "5WY5404C",
+      "NUMBER PARTS": "96417297",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:01:02.157Z",
+    "model": "mistral:7b",
+    "durationMs": 12447,
+    "priceIncrement": 100
+  }
+}

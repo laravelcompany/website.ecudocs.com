@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - SKODA OCTAVIA 1.6 FSI BOSCH 0261S02188 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-skoda-octavia-1-6-fsi-bosch-0261s02188-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for SKODA OCTAVIA 1.6 FSI, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for SKODA OCTAVIA 1.6 FSI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA OCTAVIA",
+    "1.6 FSI",
+    "BOSCH 0261S02188"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is an OEM replacement for your SKODA OCTAVIA 1.6 FSI, tested and guaranteed to work flawlessly.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM Tested and Certified</li>\n        <li>6-month warranty</li>\n        <li>Compatible with your vehicle</li>\n        <li>Professionally refurbished</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SKODA OCTAVIA</td></tr>\n        <tr><th>ENGINE</th><td>1.6 FSI</td></tr>\n        <tr><th>YEAR</th><td>2009</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S02 188</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S10530</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before purchasing to ensure proper fitment for your vehicle.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 1.6 FSI 03C906056CM, 03C 906 056 CM, BOSCH 0261S02188, 0 261 S02 188",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-1.6-FSI-03C906056CM%2C-03C-906-056-CM%2C-BOSCH-0261S02188%2C-0-261-S02-188/16693",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A3F7-3223E",
+    "sku": "A3F7-3223E",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 1.6 FSI 03C906056CM, 03C 906 056 CM, BOSCH 0261S02188, 0 261 S02 188</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.6 FSI",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S02 188",
+      "NUMBER PARTS": "1039S10530",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:32:07.949Z",
+    "model": "mistral:7b",
+    "durationMs": 11135,
+    "priceIncrement": 100
+  }
+}

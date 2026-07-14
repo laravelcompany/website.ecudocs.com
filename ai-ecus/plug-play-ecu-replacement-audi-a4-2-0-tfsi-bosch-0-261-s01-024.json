@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A4 2.0 TFSI BOSCH 0 261 S01 024, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-a4-2-0-tfsi-bosch-0-261-s01-024",
+  "metaDescription": "OEM tested ECU replacement for Audi A4 2.0 TFSI BOSCH 0 261 S01 024, backed by a warranty and fast shipping.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU replacement for Audi A4 2.0 TFSI BOSCH 0 261 S01 024",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "2.0 TFSI",
+    "BOSCH 0 261 S01 024"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Audi A4 2.0 TFSI BOSCH 0 261 S01 024 ensures seamless engine control and is backed by a warranty.</section>\n<section class=\"features\"><ul><li>OEM tested</li><li>Plug & Play</li><li>Warranty included</li><li>Fast shipping</li><li>Compatible with Audi A4 2.0 TFSI BOSCH 0 261 S01 024</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY</th><th>INSPECTION</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>AUDI A4</td><td>2.0 TFSI</td><td>2003</td><td>BOSCH 0 261 S01 024</td><td>8E1 910 018 D</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A4 2.0 TFSI BOSCH 0 261 S01 024. Fitment caution may apply to other models or years. Consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 2.0 TFSI BOSCH 0 261 S01 024, 0261S01024, 8E1 910 018 A, 8E1910018A, 8E1910018D, MED7.1.1",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-2.0-TFSI-BOSCH-0-261-S01-024%2C-0261S01024%2C-8E1-910-018-A%2C-8E1910018A%2C-8E1910018D%2C-MED7.1.1-/86541",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E17B-5766F_20160220145650",
+    "sku": "E17B-5766F_20160220145650",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 2.0 TFSI BOSCH 0 261 S01 024, 0261S01024, 8E1 910 018 A, 8E1910018A, 8E1910018D, MED7.1.1 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "2.0 TFSI",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S01 024",
+      "NUMBER PARTS": "8E1 910 018 D",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:10:17.615Z",
+    "model": "mistral:7b",
+    "durationMs": 10867,
+    "priceIncrement": 100
+  }
+}

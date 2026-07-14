@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford 1.6 TDCI Bosch 0281018242, Warranty Included",
+  "slug": "plug-play-ecu-ford-1-6-tdci-bosch-0281018242-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller Ford 1.6 TDCI Bosch 0281018242, covered by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€540.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Ford 1.6 TDCI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford 1.6 TDCI Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Ford 1.6 TDCI Bosch is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr>\n            <th>PARTS</th>\n            <th>BRAND AND MODEL</th>\n            <th>ENGINE</th>\n            <th>YEAR</th>\n            <th>NUMBER MANUFACTURER</th>\n            <th>NUMBER PARTS</th>\n            <th>OPTION AVAILABLE</th>\n            <th>WARRANTY :</th>\n            <th>INSPECTION:</th>\n            <th>CONDITION</th>\n        </tr>\n        <tr>\n            <td>ECU ENGINE CONTROLLER</td>\n            <td>FORD</td>\n            <td>1.6 TDCI</td>\n            <td>2011</td>\n            <td>BOSCH 0 281 018 242</td>\n            <td>FoMoCo BV21-12A650-XA</td>\n            <td>LOCKED / UNLOCKED</td>\n            <td>6-month warranty</td>\n            <td>Device thoroughly inspected and tested by a certified technician</td>\n            <td>USED IN GOOD CONDITION</td>\n        </tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 1.6 TDCI BOSCH 0 281 018 242, 0281018242, FoMoCo BV21-12A650-XA, BV2112A650XA, DZL7S",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-1.6-TDCI-BOSCH-0-281-018-242%2C-0281018242%2C-FoMoCo-BV21-12A650-XA%2C-BV2112A650XA%2C-DZL7S-/85529",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "255A-57909_20160204203545",
+    "sku": "255A-57909_20160204203545",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 1.6 TDCI BOSCH 0 281 018 242, 0281018242, FoMoCo BV21-12A650-XA, BV2112A650XA, DZL7S </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "ENGINE": "1.6 TDCI",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 018 242",
+      "NUMBER PARTS": "FoMoCo BV21-12A650-XA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:47:27.082Z",
+    "model": "mistral:7b",
+    "durationMs": 10753,
+    "priceIncrement": 100
+  }
+}

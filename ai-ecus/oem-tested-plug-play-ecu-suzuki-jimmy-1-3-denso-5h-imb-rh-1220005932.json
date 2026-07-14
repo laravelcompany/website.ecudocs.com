@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Suzuki Jimmy 1.3 - Denso 5H EC IMB RH 1220005932",
+  "slug": "oem-tested-plug-play-ecu-suzuki-jimmy-1-3-denso-5h-imb-rh-1220005932",
+  "metaDescription": "Buy this OEM tested Plug & Play ECU replacement for Suzuki Jimmy 1.3, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Suzuki Jimmy 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso",
+    "Suzuki Jimmy",
+    "1.3 Engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Suzuki Jimmy 1.3 ensures seamless engine control and is a reliable solution for your vehicle's performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch within EU</li>\n<li>Compatible with Suzuki Jimmy 1.3</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL:</th><td>SUZUKI JIMMY</td></tr>\n<tr><th>ENGINE:</th><td>1.3</td></tr>\n<tr><th>YEAR:</th><td>1995</td></tr>\n<tr><th>NUMBER MANUFACTURER:</th><td>1120005932</td></tr>\n<tr><th>NUMBER PARTS:</th><td>5H EC IMB RH</td></tr>\n<tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Suzuki Jimmy 1.3. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUZUKI JIMMY 1.3 5H EC IMB RH 33920-81A11 081A1 3392081A11 122000-5932 1120005932",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUZUKI-JIMMY-1.3-5H-EC-IMB-RH-33920-81A11-081A1-3392081A11-122000-5932-1120005932-/16987",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "EBEC-27805",
+    "sku": "EBEC-27805",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUZUKI JIMMY 1.3 5H EC IMB RH 33920-81A11 081A1 3392081A11 122000-5932 1120005932 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUZUKI JIMMY",
+      "ENGINE": "1.3",
+      "YEAR": "1995",
+      "NUMBER MANUFACTURER": "1120005932",
+      "NUMBER PARTS": "5H EC IMB RH",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:00:31.330Z",
+    "model": "mistral:7b",
+    "durationMs": 10482,
+    "priceIncrement": 100
+  }
+}

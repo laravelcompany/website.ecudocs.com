@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Seat Ibiza Cordoba VW Polo 1.6 AFT Siemens 5WP4317 - Warranty Included",
+  "slug": "plug-play-ecu-seat-ibiza-cordoba-vw-polo-1-6-aft-siemens-5wp4317-warranty",
+  "metaDescription": "Buy the OEM Tested Plug & Play ECU Engine Controller for Seat Ibiza Cordoba VW Polo 1.6 AFT (Siemens 5WP4317). Ships within 24–48 hours, backed by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Seat Ibiza Cordoba VW Polo 1.6 AFT",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WP4317",
+    "Seat Ibiza Cordoba",
+    "VW Polo 1.6 AFT"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is specifically designed for the Seat Ibiza Cordoba VW Polo 1.6 AFT (Siemens 5WP4317). Replace faulty or damaged parts with a reliable, high-quality replacement.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested and approved</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty</li>\n        <li>Improved engine performance</li>\n        <li>Fast shipping within 24–48 hours</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th></th>\n                <th>PARTS</th>\n                <th>BRAND AND MODEL</th>\n                <th>ENGINE</th>\n                <th>YEAR</th>\n                <th>NUMBER MANUFACTURER</th>\n                <th>NUMBER PARTS</th>\n                <th>WARRANTY :</th>\n                <th>INSPECTION:</th>\n                <th>CONDITION</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td></td>\n                <td>ECU ENGINE CONTROLLER</td>\n                <td>SEAT IBIZA CORDOBA VW POLO</td>\n                <td>1.6 AFT</td>\n                <td>1996-2000</td>\n                <td>SIEMENS 5WP4 317</td>\n                <td>6K0 906 025 E</td>\n                <td>6-month warranty</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours, EU-wide. 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Seat Ibiza Cordoba VW Polo 1.6 AFT only (Siemens 5WP4317).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA CORDOBA VW POLO 1.6 AFT 6K0906025E, 6K0 906 025 E, SIEMENS 5WP4317, 5WP4 317",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-CORDOBA-VW-POLO-1.6-AFT-6K0906025E%2C-6K0-906-025-E%2C-SIEMENS-5WP4317%2C-5WP4-317/14221",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "E257-71967",
+    "sku": "E257-71967",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA CORDOBA VW POLO 1.6 AFT 6K0906025E, 6K0 906 025 E, SIEMENS 5WP4317, 5WP4 317</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA CORDOBA VW POLO",
+      "ENGINE": "1.6 AFT",
+      "YEAR": "1996-2000",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP4 317",
+      "NUMBER PARTS": "6K0 906 025 E",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:01:39.745Z",
+    "model": "mistral:7b",
+    "durationMs": 12865,
+    "priceIncrement": 100
+  }
+}

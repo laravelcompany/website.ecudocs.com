@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Skoda Octavia 1.4 TSI BOSCH 0 261 S04 393 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-skoda-octavia-14-tsi-bosch-0261s04393-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Skoda Octavia 1.4 TSI BOSCH 0 261 S04 393, backed by a 6-month warranty and fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "OEM tested ECU Engine Controller for Skoda Octavia 1.4 TSI BOSCH 0 261 S04 393",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Octavia",
+    "BOSCH 0 261 S04 393"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Skoda Octavia 1.4 TSI BOSCH 0 261 S04 393.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SKODA OCTAVIA</td></tr>\n        <tr><th>ENGINE</th><td>1.4 TSI</td></tr>\n        <tr><th>YEAR</th><td>2010-2011</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S04 393</td></tr>\n        <tr><th>NUMBER PARTS</th><td>03C 906 016 C</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED / COMPLETE</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Contact us for any compatibility concerns.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 1.4 TSI BOSCH 0 261 S04 393, 0261S04393, 03C 906 016 E, 03C906016E, 03C 906 016 C, 03C906016C",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-1.4-TSI-BOSCH-0-261-S04-393%2C-0261S04393%2C-03C-906-016-E%2C-03C906016E%2C-03C-906-016-C%2C-03C906016C/26404",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "64BB-13283_20120626203128",
+    "sku": "64BB-13283_20120626203128",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 1.4 TSI BOSCH 0 261 S04 393, 0261S04393, 03C 906 016 E, 03C906016E, 03C 906 016 C, 03C906016C</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.4 TSI",
+      "YEAR": "2010-2011",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S04 393",
+      "NUMBER PARTS": "03C 906 016 C",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:30:15.359Z",
+    "model": "mistral:7b",
+    "durationMs": 10587,
+    "priceIncrement": 100
+  }
+}

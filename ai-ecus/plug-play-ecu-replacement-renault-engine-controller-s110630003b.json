@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement Renault Engine Controller S110630003B, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-engine-controller-s110630003b",
+  "metaDescription": "Expertly tested and inspected ECU ENGINE CONTROLLER RENAULT S110630003 B, Plug & Play, 6-month warranty. Fast EU shipping.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Engine Controller",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault S110630003B",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and inspected ECU ENGINE CONTROLLER RENAULT S110630003 B is a reliable replacement for your vehicle's engine control system.</section>\n<section class=\"features\">\n  <ul>\n    <li>Plug & Play compatibility</li>\n    <li>OEM tested and inspected</li>\n    <li>6-month warranty</li>\n    <li>Used in good condition</li>\n    <li>Ready for programming</li>\n  </ul>\n</section>\n<section class=\"specs\">\n  <table>\n    <thead>\n      <tr>\n        <th>Specification</th>\n        <th>Details</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td>PARTS</td>\n        <td>ECU ENGINE CONTROLLER</td>\n      </tr>\n      <tr>\n        <td>BRAND AND MODEL</td>\n        <td>RENAULT</td>\n      </tr>\n      <tr>\n        <td>NUMBER MANUFACTURER</td>\n        <td>S110630003 B</td>\n      </tr>\n      <tr>\n        <td>NUMBER PARTS</td>\n        <td>8200116535</td>\n      </tr>\n    </tbody>\n  </table>\n</section>\n<section class=\"shipping\">Fast EU shipping, 12-month warranty included.</section>\n<section class=\"compatibility\">Compatible with Renault vehicles. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT S110630003 B, S110630003B, 8200116535",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-S110630003-B%2C-S110630003B%2C-8200116535/114827",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "F915-375E6_20190716151622",
+    "sku": "F915-375E6_20190716151622",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT S110630003 B, S110630003B, 8200116535</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT",
+      "NUMBER MANUFACTURER": "S110630003 B",
+      "NUMBER PARTS": "8200116535",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:05:54.336Z",
+    "model": "mistral:7b",
+    "durationMs": 9140,
+    "priceIncrement": 100
+  }
+}

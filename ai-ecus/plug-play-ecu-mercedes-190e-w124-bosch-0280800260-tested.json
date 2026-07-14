@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Mercedes 190E W124 - Bosch 0 280 800 260, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-190e-w124-bosch-0280800260-tested",
+  "metaDescription": "Get a Plug & Play OEM tested ECU replacement for your Mercedes 190E W124 with a 6-month warranty. Fast dispatch and expert installation instructions included.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play Bosch ECU for Mercedes 190E W124",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes 190E W124",
+    "Bosch 0 280 800 260"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Mercedes 190E W124 is a reliable solution to restore your vehicle's performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play installation</li>\n<li>OEM Tested and certified</li>\n<li>6-month warranty</li>\n<li>Expertly inspected and tested</li>\n<li>Original part in good condition</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MERCEDES 190E W124</td></tr>\n<tr><td>ENGINE</td><td>2.0</td></tr>\n<tr><td>YEAR</td><td>1983-1994</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 280 800 260,</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mercedes 190E W124 models equipped with a 2.0 engine.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES 190E W124 BOSCH 0 280 800 260, 0280800260",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-190E-W124-BOSCH-0-280-800-260%2C-0280800260/66343",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DBC5-95004_20140922154820",
+    "sku": "DBC5-95004_20140922154820",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES 190E W124 BOSCH 0 280 800 260, 0280800260</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES 190E W124",
+      "ENGINE": "2.0",
+      "YEAR": "1983-1994",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 800 260,",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:06:06.758Z",
+    "model": "mistral:7b",
+    "durationMs": 11187,
+    "priceIncrement": 100
+  }
+}

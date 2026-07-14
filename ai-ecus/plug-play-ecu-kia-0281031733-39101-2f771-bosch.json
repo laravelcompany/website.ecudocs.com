@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - KIA 0281031733 39101-2F771 - Bosch",
+  "slug": "plug-play-ecu-kia-0281031733-39101-2f771-bosch",
+  "metaDescription": "Buy this Plug & Play OEM Tested ECU Engine Controller KIA 0281031733 39101-2F771, backed by a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play OEM Tested ECU for KIA",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA",
+    "Bosch",
+    "39101-2F771"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Engine Controller is a reliable solution for your KIA vehicle.</section>\n<section class=\"features\"><ul><li>Tested and certified by a professional technician</li><li>6-month warranty</li><li>Compatible with various KIA models</li><li>Ready for programming or Plug & Play installation</li><li>Original OEM part</li></ul></section>\n<section class=\"specs\"><table>\n  <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n  <tr><th>BRAND AND MODEL</th><td>KIA</td></tr>\n  <tr><th>NUMBER MANUFACTURER</th><td>0281031733 39101-2F771</td></tr>\n  <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n  <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n  <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n  <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">This product comes with EU shipping, 12-month warranty and fast dispatch.</section>\n<section class=\"compatibility\">Please ensure compatibility before purchase. Fitment caution may apply depending on your vehicle model and year.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA 0281031733 39101-2F771 391012F771",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-0281031733-39101-2F771-391012F771/137853",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9AEE-7705F_20231129124340",
+    "sku": "9AEE-7705F_20231129124340",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA 0281031733 39101-2F771 391012F771</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA",
+      "NUMBER MANUFACTURER": "0281031733 39101-2F771",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:13:07.947Z",
+    "model": "mistral:7b",
+    "durationMs": 9639,
+    "priceIncrement": 100
+  }
+}

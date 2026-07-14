@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes SLK W208 BOSCH 0 261 204 881, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-slk-w208-bosch-0261204881-tested",
+  "metaDescription": "OEM tested ECU replacement for Mercedes SLK W208 BOSCH 0 261 204 881. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "OEM tested ECU replacement for Mercedes SLK W208 BOSCH 0 261 204 881",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes SLK W208",
+    "Bosch",
+    "OEM part number"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Mercedes SLK W208 BOSCH 0 261 204 881 is a reliable solution for your vehicle's engine control system.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>MERCEDES SLK W208</td></tr>\n    <tr><th>YEAR</th><td>1999</td></tr>\n    <tr><th>NUMBER PARTS</th><td>A0235458232</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes SLK W208. Fitment caution may apply, please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES SLK W208 BOSCH 0 261 204 881, 0261204881, A 023 545 82 32, A0235458232",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-SLK-W208-BOSCH-0-261-204-881%2C-0261204881%2C-A-023-545-82-32%2C-A0235458232/57562",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2CCD-832CF_20140602110752",
+    "sku": "2CCD-832CF_20140602110752",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES SLK W208 BOSCH 0 261 204 881, 0261204881, A 023 545 82 32, A0235458232</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES SLK W208",
+      "YEAR": "1999",
+      "NUMBER PARTS": "A0235458232",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:49:02.097Z",
+    "model": "mistral:7b",
+    "durationMs": 10135,
+    "priceIncrement": 100
+  }
+}

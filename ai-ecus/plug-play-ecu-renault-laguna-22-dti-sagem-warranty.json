@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Renault Laguna 2.2 DTI Sagem - 6-month Warranty, ECU Replacement",
+  "slug": "plug-play-ecu-renault-laguna-22-dti-sagem-warranty",
+  "metaDescription": "Expertly tested and OEM certified Plug & Play ECU Engine Controller for Renault Laguna 2.2 DTI Sagem, offering a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Renault Laguna 2.2 DTI Sagem",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Laguna",
+    "2.2 DTI",
+    "Sagem",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Renault Laguna 2.2 DTI Sagem is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Certified</li>\n      <li>Plug & Play Installation</li>\n      <li>6-month Warranty</li>\n      <li>Thoroughly Inspected and Tested</li>\n      <li>Used in Good Condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><td>BRAND AND MODEL</td><td>RENAULT LAGUNA</td></tr>\n        <tr><td>ENGINE</td><td>2.2 DTI</td></tr>\n        <tr><td>NUMBER MANUFACTURER</td><td>SAGEM 21626075-8</td></tr>\n        <tr><td>NUMBER PARTS</td><td>7700106072</td></tr>\n        <tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n        <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n        <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment may vary. Always verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT LAGUNA 2.2 DTI SAGEM 21626075-8, 216260758, HOM 7700106079, 7700106072",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-LAGUNA-2.2-DTI-SAGEM-21626075-8%2C-216260758%2C-HOM-7700106079%2C-7700106072-/95889",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Sagem",
+    "productCode": "60DD-74233_20160906125125",
+    "sku": "60DD-74233_20160906125125",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT LAGUNA 2.2 DTI SAGEM 21626075-8, 216260758, HOM 7700106079, 7700106072 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT LAGUNA",
+      "ENGINE": "2.2 DTI",
+      "NUMBER MANUFACTURER": "SAGEM 21626075-8",
+      "NUMBER PARTS": "7700106072",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:37:18.185Z",
+    "model": "mistral:7b",
+    "durationMs": 10750,
+    "priceIncrement": 100
+  }
+}

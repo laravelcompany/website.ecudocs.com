@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Engine Controller Opel Corsa C 1.2 Z12XE Bosch - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-opel-corsa-c-12-z12xe-bosch-warranty",
+  "metaDescription": "Expertly tested and guaranteed ECU Engine Controller for Opel Corsa C 1.2 Z12XE by Bosch. 6-month warranty, fast dispatch within EU.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Opel Corsa C 1.2 Z12XE by Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Corsa C",
+    "Bosch",
+    "1.2 Z12XE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and guaranteed ECU Engine Controller for Opel Corsa C 1.2 Z12XE by Bosch is a reliable solution for your vehicle's engine control system.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM quality and performance</li>\n<li>6-month warranty</li>\n<li>Thoroughly inspected and tested by a certified technician</li>\n<li>Used in good condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>OPEL CHEVROLET HOLDEN VAUXHALL CORSA C</td></tr>\n<tr><td>ENGINE</td><td>1.2 Z12XE</td></tr>\n<tr><td>YEAR</td><td>2001-2003</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 207 423</td></tr>\n<tr><td>CODE</td><td>AX</td></tr>\n<tr><td>NUMBER PARTS</td><td>62 37 081</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Locked / Ready for programming / complet</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL CORSA C 1.2 Z12XE BOSCH 0261207423, 0 261 207 423, AX 24443796 9164475 6237081",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-CORSA-C-1.2-Z12XE-BOSCH-0261207423%2C-0-261-207-423%2C-AX-24443796-9164475-6237081-/9592",
+    "priceCurrency": "EUR",
+    "netPrice": "€90.00",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9592",
+    "sku": "9592",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL CORSA C 1.2 Z12XE BOSCH 0261207423, 0 261 207 423, AX 24443796 9164475 6237081 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL CORSA C",
+      "ENGINE": "1.2 Z12XE",
+      "YEAR": "2001-2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 423",
+      "CODE": "AX",
+      "NUMBER PARTS": "62 37 081",
+      "OPTION AVAILABLE": "Locked / Ready for programming / complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:39:22.444Z",
+    "model": "mistral:7b",
+    "durationMs": 11943,
+    "priceIncrement": 100
+  }
+}

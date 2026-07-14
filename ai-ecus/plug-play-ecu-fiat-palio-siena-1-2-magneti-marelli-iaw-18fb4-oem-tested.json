@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT Palio Siena 1.2 Magneti Marelli IAW 18F.B4, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-palio-siena-1-2-magneti-marelli-iaw-18fb4-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for FIAT Palio Siena 1.2 Magneti Marelli IAW 18F.B4, OEM tested and covered by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT Palio Siena 1.2 Magneti Marelli IAW 18F.B4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT Palio Siena",
+    "Magneti Marelli",
+    "IAW 18F.B4"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for FIAT Palio Siena 1.2 Magneti Marelli IAW 18F.B4 is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for optimal performance</li><li>6-month warranty for peace of mind</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>FIAT PALIO SIENA</td></tr>\n      <tr><th>ENGINE</th><td>1.2</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI IAW 18F.B4</td></tr>\n      <tr><th>NUMBER PARTS</th><td>61600.425.01</td></tr>\n      <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with FIAT Palio Siena 1.2 Magneti Marelli IAW 18F.B4. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PALIO SIENA 1.2 MAGNETI MARELLI IAW 18F.B4, IAW18FB4, 46767822, 61600.425.01, 6160042501",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PALIO-SIENA-1.2-MAGNETI-MARELLI-IAW-18F.B4%2C-IAW18FB4%2C-46767822%2C-61600.425.01%2C-6160042501-/77459",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "0F0E-3691C_20150729233130",
+    "sku": "0F0E-3691C_20150729233130",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PALIO SIENA 1.2 MAGNETI MARELLI IAW 18F.B4, IAW18FB4, 46767822, 61600.425.01, 6160042501 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PALIO SIENA",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 18F.B4",
+      "NUMBER PARTS": "61600.425.01",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:08:49.609Z",
+    "model": "mistral:7b",
+    "durationMs": 11125,
+    "priceIncrement": 100
+  }
+}

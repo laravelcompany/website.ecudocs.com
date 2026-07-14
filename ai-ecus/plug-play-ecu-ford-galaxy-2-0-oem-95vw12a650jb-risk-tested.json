@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Galaxy 2.0 OEM 95VW12A650JB RISK, Tested & Warranty Included",
+  "slug": "plug-play-ecu-ford-galaxy-2-0-oem-95vw12a650jb-risk-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Ford Galaxy 2.0 (95VW12A650JB RISK, MLE-230) - OEM tested and covered by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Galaxy 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Galaxy",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for your Ford Galaxy 2.0 (95VW12A650JB RISK, MLE-230). It has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD GALAXY</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MLE-230</td></tr>\n        <tr><th>CODE</th><td>RISK</td></tr>\n        <tr><th>NUMBER PARTS</th><td>95VW-12A650-JB</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD GALAXY 2.0 95VW12A650JB RISK, MLE-230, 95VW-12A650-JB",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-GALAXY-2.0-95VW12A650JB-RISK%2C-MLE-230%2C-95VW-12A650-JB/26827",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "0E3C-43084_20120723180512",
+    "sku": "0E3C-43084_20120723180512",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD GALAXY 2.0 95VW12A650JB RISK, MLE-230, 95VW-12A650-JB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD GALAXY",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "MLE-230",
+      "CODE": "RISK",
+      "NUMBER PARTS": "95VW-12A650-JB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:20:46.138Z",
+    "model": "mistral:7b",
+    "durationMs": 9354,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Punto II 1.2 16V Bosch 0261204983, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-punto-ii-1-2-16v-bosch-0261204983-tested",
+  "metaDescription": "Buy this Plug & Play ECU Engine Controller for Fiat Punto II 1.2 16V, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Punto II 1.2 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Punto II",
+    "Bosch 0261204983"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Fiat Punto II 1.2 16V is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Tested</li>\n      <li>Plug & Play</li>\n      <li>6-month Warranty</li>\n      <li>Fast Dispatch within EU</li>\n      <li>Used in Good Condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>FIAT PUNTO II</td></tr>\n      <tr><th>ENGINE</th><td>1.2 16V</td></tr>\n      <tr><th>YEAR</th><td>1999</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 204 983</td></tr>\n      <tr><th>NUMBER PARTS</th><td>1037352994</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 12-month.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and history. Always consult a professional technician for proper installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO 1.2 16V BOSCH 0261204983, 0 261 204 983, 1037352994, 00447826310, 44782631",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-1.2-16V-BOSCH-0261204983%2C-0-261-204-983%2C-1037352994%2C-00447826310%2C-44782631-/12844",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D881-67194",
+    "sku": "D881-67194",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO 1.2 16V BOSCH 0261204983, 0 261 204 983, 1037352994, 00447826310, 44782631 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_cdd3b575668be4d218df36a1ffe04efb_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_255239_0_0/Screenshot_2021-04-23-ZESTAW-STARTOWY-PUNTO-II-1-2-16V-0261204983.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO II",
+      "ENGINE": "1.2 16V",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 983",
+      "NUMBER PARTS": "1037352994",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:18:19.700Z",
+    "model": "mistral:7b",
+    "durationMs": 9734,
+    "priceIncrement": 100
+  }
+}

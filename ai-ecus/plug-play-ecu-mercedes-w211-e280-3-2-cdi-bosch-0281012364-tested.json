@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Mercedes W211 E280 3.2 CDI - Bosch 0281012364, 6-month warranty",
+  "slug": "plug-play-ecu-mercedes-w211-e280-3-2-cdi-bosch-0281012364-tested",
+  "metaDescription": "Buy a tested and OEM certified Plug & Play ECU Engine Controller for Mercedes W211 E280 3.2 CDI by Bosch (0281012364, ED0084 CR3.43). Fast shipping within EU, 6-month warranty.",
+  "price": "€650.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mercedes W211 E280 3.2 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W211",
+    "Bosch 0281012364",
+    "E280 3.2 CDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is designed for Mercedes W211 E280 3.2 CDI, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Shipping within EU</li>\n        <li>Compatible with Mercedes W211 E280 3.2 CDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W211 E280</td></tr>\n        <tr><th>ENGINE</th><td>3.2 CDI</td></tr>\n        <tr><th>YEAR</th><td>2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 012 364</td></tr>\n        <tr><th>NUMBER PARTS</th><td>ED0084 CR3.43</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">\n    Shipping within EU, 12-month warranty.\n</section>\n<section class=\"compatibility\">\n    This product is designed for Mercedes W211 E280 3.2 CDI and may not fit other models or years. Please verify compatibility before purchase.\n</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W211 E280 3.2 CDI BOSCH 0281012364, 0 281 012 364, A6481503079, A 648 150 30 79, 6481503079, ED0084 CR3.43",
+    "price": "€550.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W211-E280-3.2-CDI-BOSCH-0281012364%2C-0-281-012-364%2C-A6481503079%2C-A-648-150-30-79%2C-6481503079%2C-ED0084-CR3.43/24528",
+    "priceCurrency": "EUR",
+    "netPrice": "€447.16",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "730C-53569_20120531231341",
+    "sku": "730C-53569_20120531231341",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W211 E280 3.2 CDI BOSCH 0281012364, 0 281 012 364, A6481503079, A 648 150 30 79, 6481503079, ED0084 CR3.43</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W211 E280",
+      "ENGINE": "3.2 CDI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 364",
+      "NUMBER PARTS": "ED0084 CR3.43",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:36:00.585Z",
+    "model": "mistral:7b",
+    "durationMs": 10983,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo MK3 2.0 TDCI - Visteon 3S7A-12A650-VD, 4PDD - Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-mk3-20-tdci-visteon-3s7a-12a650-vd-4pdd-warranty",
+  "metaDescription": "Buy a tested and certified OEM ECU Engine Controller for Ford Mondeo MK3 2.0 TDCI by Visteon (3S7A-12A650-VD, 4PDD). Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€135.00",
+  "excerpt": "OEM Tested ECU for Ford Mondeo MK3 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo MK3",
+    "Visteon",
+    "2.0 TDCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller is specifically designed for Ford Mondeo MK3 2.0 TDCI engines, ensuring optimal performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD MONDEO MK3</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 TDCI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>VISTEON 3S7A-12A650-VD</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>4PDD</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Mondeo MK3 2.0 TDCI engines only. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO MK3 2.0 TDCI VISTEON 3S7A-12A650-VD, 3S7A12A650VD, 4PDD",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-MK3-2.0-TDCI-VISTEON-3S7A-12A650-VD%2C-3S7A12A650VD%2C-4PDD/49826",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "728B-804ED",
+    "sku": "728B-804ED",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO MK3 2.0 TDCI VISTEON 3S7A-12A650-VD, 3S7A12A650VD, 4PDD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO MK3",
+      "ENGINE": "2.0 TDCI",
+      "NUMBER MANUFACTURER": "VISTEON 3S7A-12A650-VD",
+      "NUMBER PARTS": "4PDD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:49:51.547Z",
+    "model": "mistral:7b",
+    "durationMs": 11380,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Jeep - Siemens P68027169AD A2C53286727 623440",
+  "slug": "plug-play-oem-tested-ecu-replacement-jeep-siemens-p68027169ad-a2c53286727-623440",
+  "metaDescription": "Buy the Plug & Play OEM Tested ECU Engine Controller for Jeep by Siemens. This used original part is in good condition, tested and covered by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Jeep",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "OEM part numbers",
+    "Jeep Engine Controller"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for your Jeep is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month warranty</li><li>Used original in good condition</li><li>Compatible with Jeep models</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Jeep models. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JEEP P68027169AD A2C53286727 623440",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JEEP-P68027169AD-A2C53286727-623440/139309",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "7D86-76372_20240308122851",
+    "sku": "7D86-76372_20240308122851",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JEEP P68027169AD A2C53286727 623440</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_292564_0_0/JEEP-P68027169AD-A2C53286727-623440.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_292565_0_0/JEEP-P68027169AD-A2C53286727-623440.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JEEP",
+      "NUMBER MANUFACTURER": "P68027169AD A2C53286727 623440",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:10:57.456Z",
+    "model": "mistral:7b",
+    "durationMs": 6339,
+    "priceIncrement": 100
+  }
+}

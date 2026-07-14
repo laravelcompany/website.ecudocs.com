@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Renault Clio 1.2 Siemens S118301118 A, Used in Good Condition - 6-month Warranty",
+  "slug": "plug-play-ecu-renault-clio-12-siemens-s118301118a-used-warranty",
+  "metaDescription": "Get a tested and certified OEM Siemens ECU Engine Controller for your Renault Clio 1.2. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested ECU Replacement for Renault Clio 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Clio 1.2",
+    "Siemens S118301118 A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for Renault Clio 1.2 by Siemens ensures optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT CLIO</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S118301118 A</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8200282007</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch across EU.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO 1.2 SIEMENS S118301118 A, S118301118A, 8200374254, 8200282007",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-1.2-SIEMENS-S118301118-A%2C-S118301118A%2C-8200374254%2C-8200282007-/95752",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "7DCB-99201_20160904212342",
+    "sku": "7DCB-99201_20160904212342",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO 1.2 SIEMENS S118301118 A, S118301118A, 8200374254, 8200282007 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_f55b55dc7de86938ef1d745e30d6f57f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_daeb15074a05200df08ce5055bb9bf22_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "SIEMENS S118301118 A",
+      "NUMBER PARTS": "8200282007",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:56:06.669Z",
+    "model": "mistral:7b",
+    "durationMs": 10229,
+    "priceIncrement": 100
+  }
+}

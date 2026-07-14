@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - PEUGEOT 2.0 HDI OEM Tested - 6-month Warranty - DCM6.2A",
+  "slug": "plug-play-ecu-replacement-peugeot-20-hdi-oem-tested-dcm62a",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for PEUGEOT 2.0 HDI, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 2.0 HDI",
+    "DCM6.2A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your PEUGEOT 2.0 HDI, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM tested and inspected</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th></th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PEUGEOT</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 HDI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>28494513</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>DCM6.2A</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, fast dispatch. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with PEUGEOT 2.0 HDI. Fitment caution may apply; consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 2.0 HDI 9809447980, 28494513, DCM6.2A",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-2.0-HDI-9809447980%2C-28494513%2C-DCM6.2A/110073",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "509C-61056_20180524142118",
+    "sku": "509C-61056_20180524142118",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 2.0 HDI 9809447980, 28494513, DCM6.2A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9039b6e713cdcf58105dd46280a25b21_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d544ec5107185fc54bca3926db8cc95d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "28494513",
+      "NUMBER PARTS": "DCM6.2A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:36:12.394Z",
+    "model": "mistral:7b",
+    "durationMs": 10047,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes CLK 2.0 VDO - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-clk-2-0-vdo-oem-tested",
+  "metaDescription": "Expertly tested and OEM ECU replacement for Mercedes CLK 2.0 VDO, with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes CLK 2.0 VDO",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes CLK",
+    "VDO",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Mercedes CLK 2.0 VDO ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES CLK</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>VDO 412.232/007/005</td></tr>\n        <tr><th>NUMBER PARTS</th><td>019 545 62 32 [09]</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment may vary. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES CLK 2.0 VDO 412.232/007/005, 412232007005, 019 545 62 32 [09], 0195456232",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-CLK-2.0-VDO-412.232007005%2C-412232007005%2C-019-545-62-32-09%2C-0195456232-/80927",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "VDO",
+    "productCode": "0523-7911C_20151028135143",
+    "sku": "0523-7911C_20151028135143",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES CLK 2.0 VDO 412.232/007/005, 412232007005, 019 545 62 32 [09], 0195456232 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES CLK",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "VDO 412.232/007/005",
+      "NUMBER PARTS": "019 545 62 32 [09]",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:40:00.626Z",
+    "model": "mistral:7b",
+    "durationMs": 8275,
+    "priceIncrement": 100
+  }
+}

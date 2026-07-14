@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes C 190 1.8 OEM Bosch 0280800388, Tested & Warranty Included",
+  "slug": "plug-play-ecu-mercedes-c-190-18-bosch-0280800388-tested",
+  "metaDescription": "Expertly tested ECU Engine Controller for Mercedes C 190 1.8 with Bosch 0280800388, Plug & Play, OEM Tested, and 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes C 190 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes C 190",
+    "Bosch 0280800388"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Mercedes C 190 1.8 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Part</li>\n        <li>Plug & Play</li>\n        <li>Tested and Certified</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES C 190</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 280 800 388</td></tr>\n        <tr><th>NUMBER PARTS</th><td>010 545 56 32</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes C 190 1.8. Professional installation recommended for best results.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES C 190 1.8, BOSCH 0 280 800 388, BOSCH 0280800388, 010 545 56 32, 0105455632",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-C-190-1.8%2C-BOSCH-0-280-800-388%2C-BOSCH-0280800388%2C-010-545-56-32%2C-0105455632/36817",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "60BB-3359B_20130705113950",
+    "sku": "60BB-3359B_20130705113950",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES C 190 1.8, BOSCH 0 280 800 388, BOSCH 0280800388, 010 545 56 32, 0105455632</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES C 190",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 800 388",
+      "NUMBER PARTS": "010 545 56 32",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:37:31.784Z",
+    "model": "mistral:7b",
+    "durationMs": 9254,
+    "priceIncrement": 100
+  }
+}

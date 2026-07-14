@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - ROVER 220/420 2.0 MKC101960 VB, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-rover-220420-20-mkc101960-vb-oem-tested-warranty",
+  "metaDescription": "Buy ORYGINAL ECU ENGINE CONTROLLER ROVER 220/420 2.0 MKC101960 VB, Plug & Play, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for ROVER 220/420 2.0 MKC101960 VB",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "ROVER 220/420",
+    "MKC101960 VB"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER for ROVER 220/420 2.0 MKC101960 VB is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play</li>\n      <li>OEM Tested</li>\n      <li>6-month Warranty</li>\n      <li>Used in Good Condition</li>\n      <li>Condition: Used In Good Condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Details</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>PARTS</td>\n          <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n          <td>BRAND AND MODEL</td>\n          <td>ROVER 220/420</td>\n        </tr>\n        <tr>\n          <td>ENGINE</td>\n          <td>2.0</td>\n        </tr>\n        <tr>\n          <td>YEAR</td>\n          <td>1993-1997</td>\n        </tr>\n        <tr>\n          <td>NUMBER MANUFACTURER</td>\n          <td>MKC101960 VB</td>\n        </tr>\n        <tr>\n          <td>NUMBER PARTS</td>\n          <td>4040</td>\n        </tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 220/420 2.0 MKC101960 VB, MKC 101960",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-220420-2.0-MKC101960-VB%2C-MKC-101960/35914",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "C7FD-872BC_20130530011115",
+    "sku": "C7FD-872BC_20130530011115",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 220/420 2.0 MKC101960 VB, MKC 101960</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c7964baedbdea31790bb74d61393f0a6_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_49901964b7c11a407f215f10420417d8_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 220/420",
+      "ENGINE": "2.0",
+      "YEAR": "1993-1997",
+      "NUMBER MANUFACTURER": "MKC101960 VB",
+      "NUMBER PARTS": "4040",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:30:14.048Z",
+    "model": "mistral:7b",
+    "durationMs": 11386,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - VW Golf 2.0 BOSCH 0 281 013 235, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-vw-golf-2-0-bosch-0-281-013-235-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for VW Golf 2.0 BOSCH 0 281 013 235, OEM tested and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for VW Golf 2.0 BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "VW Golf",
+    "Bosch",
+    "2.0 engine"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for VW Golf 2.0 BOSCH is thoroughly inspected, tested, and ready to ensure optimal vehicle performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for reliability</li>\n        <li>6-month warranty included</li>\n        <li>Compatible with VW Golf 2.0</li>\n        <li>Original Bosch part number: 03G906021KS</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>VW VOLKSWAGEN GOLF</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>YEAR</th><td>2006</td></tr>\n        <tr><th>NUMBER PARTS</th><td>03G906021KS</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with VW Golf 2.0 but may require programming for full functionality. Consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VW VOLKSWAGEN GOLF 2.0 BOSCH 0 281 013 235, 0281013235, 03G 906 021 KS, 03G906021KS",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VW-VOLKSWAGEN-GOLF-2.0-BOSCH-0-281-013-235%2C-0281013235%2C-03G-906-021-KS%2C-03G906021KS-/52620",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DBF1-402FC_20140312190417",
+    "sku": "DBF1-402FC_20140312190417",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  VW VOLKSWAGEN GOLF 2.0 BOSCH 0 281 013 235, 0281013235, 03G 906 021 KS, 03G906021KS </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VW VOLKSWAGEN GOLF",
+      "ENGINE": "2.0",
+      "YEAR": "2006",
+      "NUMBER PARTS": "03G906021KS",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:26:56.448Z",
+    "model": "mistral:7b",
+    "durationMs": 10594,
+    "priceIncrement": 100
+  }
+}

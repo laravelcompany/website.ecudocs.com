@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen Peugeot 1.9 Lucas R04080034A PSA, Warranty Included",
+  "slug": "plug-play-ecu-engine-controller-citroen-peugeot-1-9-lucas-r04080034a-psa-warrant",
+  "metaDescription": "Buy this OEM tested Plug & Play ECU Engine Controller for Citroen Peugeot 1.9 Lucas R04080034A PSA, backed by a 6-month warranty and shipped within 24–48 hours.",
+  "price": "€275.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Citroen Peugeot 1.9",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lucas R04080034A",
+    "Citroen Peugeot"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Citroen Peugeot 1.9 Lucas R04080034A PSA is a reliable replacement part, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN PEUGEOT</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2002</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>LUCAS R04080034A</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>DWLC12</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen Peugeot models equipped with this ECU Engine Controller. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.9 LUCAS R04080034A PSA 9641390180 SOFT 9648225280, DCN2 DWLC12",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-1.9-LUCAS-R04080034A-PSA-9641390180-SOFT-9648225280%2C-DCN2-DWLC12/16834",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "4765-89481",
+    "sku": "4765-89481",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.9 LUCAS R04080034A PSA 9641390180 SOFT 9648225280, DCN2 DWLC12</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "1.9",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "LUCAS R04080034A",
+      "NUMBER PARTS": "DWLC12",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:04:55.147Z",
+    "model": "mistral:7b",
+    "durationMs": 11629,
+    "priceIncrement": 100
+  }
+}

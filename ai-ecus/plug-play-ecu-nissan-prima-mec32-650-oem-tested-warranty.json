@@ -1,0 +1,57 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN PRIMERA 2.0 MEC32-650 RH B2 3X14 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-nissan-prima-mec32-650-oem-tested-warranty",
+  "metaDescription": "Buy the tested and reliable ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 MEC32-650 RH B2 3X14 with a 6-month warranty. Fast dispatch in EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan Prima 2.0 MEC32-650 RH B2 3X14",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Prima",
+    "MEC32-650",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER for NISSAN PRIMERA 2.0 MEC32-650 RH B2 3X14 offers a Plug & Play solution, ensuring seamless integration with your vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with Nissan Prima 2.0</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>NISSAN PRIMERA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>MEC32-650 RH B2 3X14</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Nissan Prima 2.0 MEC32-650 RH B2 3X14. Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 MEC32650, MEC32-650 RH B2 3X14",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-2.0-MEC32650%2C-MEC32-650-RH-B2-3X14/30375",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "89A5-75481_20120930202133",
+    "sku": "89A5-75481_20120930202133",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 MEC32650, MEC32-650 RH B2 3X14</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_58a14ee664c62a3fc695e28eb26d327b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3640e39057385c07cdfbe252fcc8aef9_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_8f95e74a5d7321a79256f72b44542aba_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9b65f874c836bedb06d9c9e53e4fb61e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_75628e79ed32dfa77171c546653f5731_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f26dcfa43991056bb611df261d9de3bd_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "2.0",
+      "YEAR": "2005",
+      "NUMBER PARTS": "MEC32-650 RH B2 3X14",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:35:33.528Z",
+    "model": "mistral:7b",
+    "durationMs": 14153,
+    "priceIncrement": 100
+  }
+}

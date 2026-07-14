@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - SAAB 9000 Turbo 2L 16V Bosch 0 280 000 540, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-saab-9000-turbo-2l-16v-bosch-0280000540-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for SAAB 9000 Turbo 2L 16V. OEM tested, warranty included, and fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for SAAB 9000",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SAAB 9000",
+    "Turbo 2L 16V",
+    "Bosch 0 280 000 540"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and thoroughly inspected ECU Engine Controller for SAAB 9000 Turbo 2L 16V is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Compatible with 1987-1988 models</li>\n        <li>Condition: Used Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SAAB 9000</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>TURBO 2L 16V</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1987-1988</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 280 000 540</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>9391186</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SAAB 9000 Turbo 2L 16V (1987-1988). Fitment caution may apply. Please consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SAAB 9000 BOSCH 0 280 000 540, 0280000540, 93 91 186, 9391186",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SAAB-9000-BOSCH-0-280-000-540%2C-0280000540%2C-93-91-186%2C-9391186/64586",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2202-152FB_20140828102926",
+    "sku": "2202-152FB_20140828102926",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SAAB 9000 BOSCH 0 280 000 540, 0280000540, 93 91 186, 9391186</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_ccb9f653d348a20075ca6b236746dcd2_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_023f88af46cccd92cebd5ce204cc6486_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SAAB 9000",
+      "ENGINE": "TURBO 2L 16V",
+      "YEAR": "1987-1988",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 000 540",
+      "NUMBER PARTS": "9391186",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:41:28.045Z",
+    "model": "mistral:7b",
+    "durationMs": 12005,
+    "priceIncrement": 100
+  }
+}

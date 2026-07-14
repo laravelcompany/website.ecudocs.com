@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Toyota RAV4 2.0 D4D Denso - 6-month Warranty",
+  "slug": "plug-play-ecu-toyota-rav4-20d4d-denso-warranty",
+  "metaDescription": "Expertly tested and OEM Toyota RAV4 2.0 D4D ECU replacement with Plug & Play functionality, backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Toyota RAV4 2.0 D4D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota RAV4",
+    "2.0 D4D",
+    "Denso"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Toyota RAV4 2.0 D4D is a reliable replacement, ensuring seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Functionality</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>TOYOTA RAV 4</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 D4D</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>DENSO 175800-5192</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>89661-42780</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA RAV 4 2.0 D4D DENSO 175800-5192, 1758005192, 89661-42780, 8966142780",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-RAV-4-2.0-D4D-DENSO-175800-5192%2C-1758005192%2C-89661-42780%2C-8966142780-/81173",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "7905-988E0_20151104175008",
+    "sku": "7905-988E0_20151104175008",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA RAV 4 2.0 D4D DENSO 175800-5192, 1758005192, 89661-42780, 8966142780 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA RAV 4",
+      "ENGINE": "2.0 D4D",
+      "NUMBER MANUFACTURER": "DENSO 175800-5192",
+      "NUMBER PARTS": "89661-42780",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:30:33.567Z",
+    "model": "mistral:7b",
+    "durationMs": 9866,
+    "priceIncrement": 100
+  }
+}

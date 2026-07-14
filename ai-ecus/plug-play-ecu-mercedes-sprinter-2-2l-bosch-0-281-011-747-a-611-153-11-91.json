@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes Sprinter 2.2L Bosch 0 281 011 747, A 611 153 11 91 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-mercedes-sprinter-2-2l-bosch-0-281-011-747-a-611-153-11-91",
+  "metaDescription": "OEM tested, Plug & Play ECU Replacement for Mercedes Sprinter 2.2L Bosch 0 281 011 747, A 611 153 11 91. 6-month warranty, fast dispatch.",
+  "price": "€480.00",
+  "excerpt": "OEM tested ECU Replacement for Mercedes Sprinter",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Sprinter",
+    "2.2L Engine",
+    "Bosch",
+    "0 281 011 747",
+    "A 611 153 11 91"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Replacement for Mercedes Sprinter 2.2L is a reliable solution for your engine control unit issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES SPRINTER</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.2 L</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 011 747</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>A 611 153 11 91</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific issues. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES SPRINTER BOSCH 0 281 011 747, 0281011747, A 611 153 11 91, A6111531191, CR2.35",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-SPRINTER-BOSCH-0-281-011-747%2C-0281011747%2C-A-611-153-11-91%2C-A6111531191%2C-CR2.35-/82049",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "12C7-4925A_20151118153549",
+    "sku": "12C7-4925A_20151118153549",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES SPRINTER BOSCH 0 281 011 747, 0281011747, A 611 153 11 91, A6111531191, CR2.35 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES SPRINTER",
+      "ENGINE": "2.2 L",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 747",
+      "NUMBER PARTS": "A 611 153 11 91",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:56:00.628Z",
+    "model": "mistral:7b",
+    "durationMs": 12617,
+    "priceIncrement": 100
+  }
+}

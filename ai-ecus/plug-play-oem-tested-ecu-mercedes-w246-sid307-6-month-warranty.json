@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes W246 SID307 - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-mercedes-w246-sid307-6-month-warranty",
+  "metaDescription": "Buy a Plug & Play OEM Tested ECU Engine Controller for Mercedes W246 SID307. Covered by a 6-month warranty and shipped within 24–48 hours.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Mercedes W246 SID307",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W246",
+    "SID307"
+  ],
+  "description": "<section class=\"overview\">This ECU Engine Controller is a tested and reliable replacement for your Mercedes W246. It offers Plug & Play functionality, ensuring easy installation.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used but in good condition</li>\n<li>Thoroughly inspected and tested by a certified technician</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MERCEDES W246</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>S180170004 A</td></tr>\n<tr><td>NUMBER PARTS</td><td>SID307</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within EU in 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility before purchase. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W246 S180170004 A, S180170004A, A 607 900 18 00, A6079001800, SID307",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W246-S180170004-A%2C-S180170004A%2C-A-607-900-18-00%2C-A6079001800%2C-SID307/110881",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "0751-242AD_20180806123818",
+    "sku": "0751-242AD_20180806123818",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W246 S180170004 A, S180170004A, A 607 900 18 00, A6079001800, SID307</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W246",
+      "NUMBER MANUFACTURER": "S180170004 A",
+      "NUMBER PARTS": "SID307",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:41:29.778Z",
+    "model": "mistral:7b",
+    "durationMs": 10243,
+    "priceIncrement": 100
+  }
+}

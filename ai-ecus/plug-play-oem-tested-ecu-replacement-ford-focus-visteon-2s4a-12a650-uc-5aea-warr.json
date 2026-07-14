@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford Focus - Visteon 2S4A-12A650-UC, 5AEA - Warranty Included",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-focus-visteon-2s4a-12a650-uc-5aea-warr",
+  "metaDescription": "Buy Plug & Play OEM tested ECU replacement for Ford Focus by Visteon, with a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Focus",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Visteon",
+    "2S4A-12A650-UC",
+    "5AEA"
+  ],
+  "description": "<section class=\"overview\">This used original Visteon ECU engine controller for Ford Focus is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 2S4A-12A650-UC, 2S4A12A650UC, 5AEA",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-2S4A-12A650-UC%2C-2S4A12A650UC%2C-5AEA/125281",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "59C9-337B5_20210428155823",
+    "sku": "59C9-337B5_20210428155823",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 2S4A-12A650-UC, 2S4A12A650UC, 5AEA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_255395_0_0/FORD-FOCUS-2S4A-12A650-UC%2C-2S4A12A650UC%2C-5AEA.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_255396_0_0/FORD-FOCUS-2S4A-12A650-UC%2C-2S4A12A650UC%2C-5AEA.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "NUMBER MANUFACTURER": "2S4A-12A650-UC",
+      "NUMBER PARTS": "5AEA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:03:49.463Z",
+    "model": "mistral:7b",
+    "durationMs": 6188,
+    "priceIncrement": 100
+  }
+}

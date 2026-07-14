@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Focus 1.8 TDI, OEM Visteon 1S4F12A650AE, DOTE",
+  "slug": "plug-play-ecu-ford-focus-18-tdi-visteon-1s4f12a650ae-ote",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Ford Focus 1.8 TDI by Visteon, 6-month warranty, Plug & Play installation. Fast dispatch within EU.",
+  "price": "€70.00",
+  "excerpt": "OEM Tested ECU Replacement for Ford Focus 1.8 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Visteon",
+    "1S4F12A650AE",
+    "DOTE"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Ford Focus 1.8 TDI is OEM tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Part</li>\n        <li>Plug & Play Installation</li>\n        <li>Tested and Inspected by Certified Technician</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FOCUS</td></tr>\n        <tr><th>ENGINE</th><td>1.8 TDI</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DOTE</td></tr>\n        <tr><th>WARRANTY</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Focus 1.8 TDI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.8 TDI, 1S4F-12A650-AE, 1S4F12A650AE, DOTE",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.8-TDI%2C-1S4F-12A650-AE%2C-1S4F12A650AE%2C-DOTE-/55669",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "C7EC-3926F_20140509132312",
+    "sku": "C7EC-3926F_20140509132312",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  FORD FOCUS 1.8 TDI, 1S4F-12A650-AE, 1S4F12A650AE, DOTE </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8e2a7ef8cb90d20f0a5ccc79a7bc6a79_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_668e3bf1e8932b0124def1bc94067fd5_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.8 TDI",
+      "YEAR": "2001",
+      "NUMBER PARTS": "DOTE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:57:49.317Z",
+    "model": "mistral:7b",
+    "durationMs": 9325,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Rover Metro 200/400 1.4 MNE10051 TK, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-rover-metro-mne10051-tk-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Rover Metro 200/400 1.4 MNE10051 TK, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU for Rover Metro 200/400 1.4 MNE10051 TK",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover Metro",
+    "MNE10051 TK"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for the Rover Metro 200/400 1.4 MNE10051 TK is in good condition, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>ROVER METRO 200/400</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1990-1992</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MNE10051 TK</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>0591 4004</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER METRO 200/400 1.4 MNE10051 TK, MNE 10051, 0591 4004, 05914004",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-METRO-200400-1.4-MNE10051-TK%2C-MNE-10051%2C-0591-4004%2C-05914004/35917",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "1B58-77684_20130530011159",
+    "sku": "1B58-77684_20130530011159",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER METRO 200/400 1.4 MNE10051 TK, MNE 10051, 0591 4004, 05914004</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_52c237189af9c121e1838739e03c99ce_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1d12b38d147c8fa76c0297323f4df06b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER METRO 200/400",
+      "ENGINE": "1.4",
+      "YEAR": "1990-1992",
+      "NUMBER MANUFACTURER": "MNE10051 TK",
+      "NUMBER PARTS": "0591 4004",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:35:28.311Z",
+    "model": "mistral:7b",
+    "durationMs": 11054,
+    "priceIncrement": 100
+  }
+}

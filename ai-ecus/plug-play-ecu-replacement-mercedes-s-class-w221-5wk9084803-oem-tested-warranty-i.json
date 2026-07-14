@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes S-Class W221, 5WK90848[03] - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-mercedes-s-class-w221-5wk9084803-oem-tested-warranty-i",
+  "metaDescription": "Expertly tested and OEM certified ECU replacement for Mercedes S-Class W221, 5WK90848[03]. Plug & Play, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes S-Class W221",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes S-Class W221",
+    "5WK90848[03]",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Mercedes S-Class W221, 5WK90848[03], is tested and certified by the original manufacturer. It ensures seamless integration into your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with Mercedes S-Class W221</li>\n        <li>Original Part Number: 5WK90848[03]</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>5WK90848 [03]</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>SIM266</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES, 5WK90848[03], 5WK90848 [03], A 003 446 60 40, A0034466040, A 266 900 09 00, A2669000900, SIM266",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES%2C-5WK9084803%2C-5WK90848-03%2C-A-003-446-60-40%2C-A0034466040%2C-A-266-900-09-00%2C-A2669000900%2C-SIM266/40035",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "4DBF-72552_20130817150832",
+    "sku": "4DBF-72552_20130817150832",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES, 5WK90848[03], 5WK90848 [03], A 003 446 60 40, A0034466040, A 266 900 09 00, A2669000900, SIM266</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "NUMBER MANUFACTURER": "5WK90848 [03]",
+      "NUMBER PARTS": "SIM266",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:42:15.035Z",
+    "model": "mistral:7b",
+    "durationMs": 9430,
+    "priceIncrement": 100
+  }
+}

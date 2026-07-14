@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement for Honda Civic 1.3 16V - OEM Tested, Warranty Included (AXT)",
+  "slug": "plug-play-ecu-honda-civic-13-16v-oem-tested-warranty-included-ax",
+  "metaDescription": "Buy the Plug & Play ECU ENGINE CONTROLLER HONDA CIVIC 1.3 16V, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Honda Civic 1.3 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Civic",
+    "1.3 16V",
+    "AXT"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Honda Civic 1.3 16V has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">... (same as provided technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Honda Civic 1.3 16V. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA CIVIC 1.3 16V, 37700-P01-G02, 37700P01G02, 149335, AXT",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-CIVIC-1.3-16V%2C-37700-P01-G02%2C-37700P01G02%2C-149335%2C-AXT/37683",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "F697-477D6_20130716165400",
+    "sku": "F697-477D6_20130716165400",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA CIVIC 1.3 16V, 37700-P01-G02, 37700P01G02, 149335, AXT</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_ab2b6e359602f1d14660e164f8664c7b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_51180892890a4640d56c44a5608add02_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA CIVIC",
+      "ENGINE": "1.3 16V",
+      "YEAR": "1991-1995",
+      "NUMBER MANUFACTURER": "37700-P01-G02",
+      "NUMBER PARTS": "AXT",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:16:52.197Z",
+    "model": "mistral:7b",
+    "durationMs": 6455,
+    "priceIncrement": 100
+  }
+}

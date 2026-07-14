@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Corsa A 1.4L Engine - OEM Tested Delco 16139619 XK, ASFU - Warranty",
+  "slug": "plug-play-ecu-replacement-opel-corsa-a-delco-16139619-xk-asfu-warranty",
+  "metaDescription": "Buy the tested ECU Engine Controller for Opel Corsa A 1.4L engine by Delco, featuring a 6-month warranty and fast dispatch. Plug & Play replacement.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Corsa A",
+  "tags": [
+    "ECU repair",
+    "Opel Corsa A",
+    "Delco",
+    "1.4L Engine",
+    "Plug & Play ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller is a replacement for the Opel Corsa A 1.4L engine, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used original in good condition</li>\n        <li>Locked or unlocked options available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL CORSA A</td></tr>\n        <tr><th>ENGINE:</th><td>1.4 L</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>DELCO 16139619 XK</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>ASFU</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA A DELCO 16139619 XK, 16139619XK, ASFU",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-A-DELCO-16139619-XK%2C-16139619XK%2C-ASFU/65768",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "2E85-48292_20140912130138",
+    "sku": "2E85-48292_20140912130138",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA A DELCO 16139619 XK, 16139619XK, ASFU</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_7fbf1c5a18fe99823c2c6cc60e87794c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f017276c56839e6c6e6dc67f27f6bc37_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b149ec6c923c3b6fdadf7aee3a2577f3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_02d8db7028e937873b0bd1c3ff140c24_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA A",
+      "ENGINE": "1.4 L",
+      "NUMBER MANUFACTURER": "DELCO 16139619 XK",
+      "NUMBER PARTS": "ASFU",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:52:10.170Z",
+    "model": "mistral:7b",
+    "durationMs": 10525,
+    "priceIncrement": 100
+  }
+}

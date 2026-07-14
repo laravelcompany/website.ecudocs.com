@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mini Cooper 1.6 TDCI Bosch 0 281 015 233 - Warranty Included",
+  "slug": "plug-play-ecu-mini-cooper-1-6-tdci-bosch-0281015233-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller Mini Cooper 1.6 TDCI Bosch 0 281 015 233 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€345.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Mini Cooper 1.6 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 015 233",
+    "Mini Cooper"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Mini Cooper 1.6 TDCI is a reliable replacement, ensuring seamless integration with your vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-Month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MINI COOPER</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6 TDCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2008</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 015 233</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>DDE 7 810 909</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mini Cooper 1.6 TDCI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MINI COOPER 1.6 TDCI BOSCH 0 281 015 233, 0281015233, DDE 7 810 909, 7810909",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MINI-COOPER-1.6-TDCI-BOSCH-0-281-015-233%2C-0281015233%2C-DDE-7-810-909%2C-7810909-/86112",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D5C6-316F3_20160212145752",
+    "sku": "D5C6-316F3_20160212145752",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MINI COOPER 1.6 TDCI BOSCH 0 281 015 233, 0281015233, DDE 7 810 909, 7810909 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MINI COOPER",
+      "ENGINE": "1.6 TDCI",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 233",
+      "NUMBER PARTS": "DDE 7 810 909",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:44:18.349Z",
+    "model": "mistral:7b",
+    "durationMs": 13540,
+    "priceIncrement": 100
+  }
+}

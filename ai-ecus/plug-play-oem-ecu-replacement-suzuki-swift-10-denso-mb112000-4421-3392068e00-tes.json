@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Suzuki Swift 1.0 (Denso MB112000-4421, 3392068E00) - Tested and Warrantied",
+  "slug": "plug-play-oem-ecu-replacement-suzuki-swift-10-denso-mb112000-4421-3392068e00-tes",
+  "metaDescription": "Get a Plug & Play OEM tested ECU Engine Controller for Suzuki Swift 1.0 (Denso MB112000-4421, 3392068E00). Covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Suzuki Swift 1.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso MB112000-4421",
+    "Suzuki Swift",
+    "3392068E00"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Replacement for Suzuki Swift 1.0 (Denso MB112000-4421, 3392068E00) has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SUZUKI SWIFT</td></tr>\n        <tr><th>ENGINE</th><td>1.0</td></tr>\n        <tr><th>YEAR</th><td>1997-1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DENSO MB112000-4421</td></tr>\n        <tr><th>NUMBER PARTS</th><td>3392068E00</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUZUKI SWIFT DENSO MB112000-4421, MB1120004421, 33920-68E00, 3392068E00",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUZUKI-SWIFT-DENSO-MB112000-4421%2C-MB1120004421%2C-33920-68E00%2C-3392068E00/63359",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "9BE3-47248_20140819105321",
+    "sku": "9BE3-47248_20140819105321",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUZUKI SWIFT DENSO MB112000-4421, MB1120004421, 33920-68E00, 3392068E00</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUZUKI SWIFT",
+      "ENGINE": "1.0",
+      "YEAR": "1997-1999",
+      "NUMBER MANUFACTURER": "DENSO MB112000-4421",
+      "NUMBER PARTS": "3392068E00",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:05:13.950Z",
+    "model": "mistral:7b",
+    "durationMs": 10218,
+    "priceIncrement": 100
+  }
+}

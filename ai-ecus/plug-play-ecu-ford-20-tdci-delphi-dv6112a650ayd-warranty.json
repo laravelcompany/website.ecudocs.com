@@ -1,0 +1,59 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford 2.0 TDCI - Delphi DV61-12A650-AYD, Warranty Included",
+  "slug": "plug-play-ecu-ford-20-tdci-delphi-dv6112a650ayd-warranty",
+  "metaDescription": "Buy a tested and reliable Plug & Play ECU Engine Controller for Ford 2.0 TDCI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€480.00",
+  "excerpt": "Reliable OEM ECU Replacement for Ford 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford 2.0 TDCI",
+    "Delphi DV61-12A650-AYD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and inspected ECU Engine Controller is a reliable replacement for your Ford 2.0 TDCI engine.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM quality from Delphi</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD</td></tr>\n        <tr><th>ENGINE</th><td>2.0 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2014</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELPHI 28419069</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DV61-12A650-AYD</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 2.0 TDCI DV61-12A650-AYD, DV6112A650AYD, DELPHI 28419069",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-2.0-TDCI-DV61-12A650-AYD%2C-DV6112A650AYD%2C-DELPHI-28419069/71013",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "FE4A-867D5_20141229211347",
+    "sku": "FE4A-867D5_20141229211347",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 2.0 TDCI DV61-12A650-AYD, DV6112A650AYD, DELPHI 28419069</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_d05af727cac7da02600e94111c6e76de_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_24041a59a5d157ea71632d8aa98445c0_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c50aeca5180d2d6459b1583243d3d9f2_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0670b0fd1a1a326a28ff831b428e0c4f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c4c5f2a5ffbbe0746fc100b03e5502d5_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c07a900c6267557f2d07125cfb15abd0_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_89ba4d991baed4cd99c4d4b2e58fa239_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_51454db1cad79f4fa06336b196f919f6_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2014",
+      "NUMBER MANUFACTURER": "DELPHI 28419069",
+      "NUMBER PARTS": "DV61-12A650-AYD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:51:17.096Z",
+    "model": "mistral:7b",
+    "durationMs": 10718,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Citroen Saxo 1.6 VTS VTR - Bosch 0261206860, Warranty Included",
+  "slug": "plug-play-ecu-citroen-saxo-16-vts-vtr-bosch-0261206860-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for your Citroen Saxo 1.6 VTS VTR, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Citroen Saxo 1.6 VTS VTR",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Saxo",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Replacement for the Citroen Saxo 1.6 VTS VTR is thoroughly inspected, tested, and guaranteed to restore optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Part</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch</li>\n        <li>Tested and Certified</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN SAXO</td></tr>\n        <tr><th>ENGINE</th><td>1.6 VTS VTR</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 206 860</td></tr>\n        <tr><th>NUMBER PARTS</th><td>M7.4.4 31</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen Saxo 1.6 VTS VTR only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN SAXO 1.6 VTS VTR BOSCH 0261206860, 0 261 206 860, 9637839380 id03, 96 378 393 80 id03, 9645800280, 96 458 002 80, M7.4.4 31",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-SAXO-1.6-VTS-VTR-BOSCH-0261206860%2C-0-261-206-860%2C-9637839380-id03%2C-96-378-393-80-id03%2C-9645800280%2C-96-458-002-80%2C-M7.4.4-31-/12928",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "BCD2-582B0",
+    "sku": "BCD2-582B0",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN SAXO 1.6 VTS VTR BOSCH 0261206860, 0 261 206 860, 9637839380 id03, 96 378 393 80 id03, 9645800280, 96 458 002 80, M7.4.4 31 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN SAXO",
+      "ENGINE": "1.6 VTS VTR",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 860",
+      "NUMBER PARTS": "M7.4.4 31",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:35:21.777Z",
+    "model": "mistral:7b",
+    "durationMs": 9400,
+    "priceIncrement": 100
+  }
+}

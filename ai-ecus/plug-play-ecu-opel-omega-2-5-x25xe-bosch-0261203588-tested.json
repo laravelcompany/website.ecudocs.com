@@ -1,0 +1,52 @@
+{
+  "title": "OPEL OMEGA 2.5 X25XE ECU Replacement - Plug & Play, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-omega-2-5-x25xe-bosch-0261203588-tested",
+  "metaDescription": "Plug & Play ECU replacement for OPEL OMEGA 2.5 X25XE, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested ECU for Opel Omega 2.5 X25XE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Omega",
+    "2.5 X25XE",
+    "Bosch 0 261 203 588",
+    "GM 90 492 382 HH"
+  ],
+  "description": "<section class=\"overview\">This ECU engine controller is a direct replacement for the Opel Omega 2.5 X25XE, tested and guaranteed to work seamlessly with your vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-Month Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch and EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL OMEGA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.5 X25XE</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1996-1998</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 203 588</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>GM 90 492 382 HH</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel Omega 2.5 X25XE only. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL OMEGA 2.5 X25XE BOSCH 0 261 203 588, 0261203588, GM 90 492 382 HH, 90492382HH, 90492382",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-OMEGA-2.5-X25XE-BOSCH-0-261-203-588%2C-0261203588%2C-GM-90-492-382-HH%2C-90492382HH%2C-90492382/27067",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9EFE-3660D_20120729085708",
+    "sku": "9EFE-3660D_20120729085708",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL OMEGA 2.5 X25XE BOSCH 0 261 203 588, 0261203588, GM 90 492 382 HH, 90492382HH, 90492382</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL OMEGA",
+      "ENGINE": "2.5 X25XE",
+      "YEAR": "1996-1998",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 588",
+      "NUMBER PARTS": "GM 90 492 382 HH",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:13:03.036Z",
+    "model": "mistral:7b",
+    "durationMs": 11901,
+    "priceIncrement": 100
+  }
+}

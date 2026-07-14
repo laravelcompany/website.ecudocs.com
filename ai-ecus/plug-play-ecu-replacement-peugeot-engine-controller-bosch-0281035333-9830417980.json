@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Peugeot Engine Controller - Bosch 0281035333 9830417980",
+  "slug": "plug-play-ecu-replacement-peugeot-engine-controller-bosch-0281035333-9830417980",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Peugeot, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€800.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot engine controller",
+    "Bosch part number",
+    "OEM tested"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement is a reliable solution for your Peugeot, tested and guaranteed by certified technicians.</section>\n<section class=\"features\"><ul><li>Plug & Play compatibility</li><li>OEM tested and approved</li><li>6-month warranty</li><li>Fast dispatch within EU</li><li>Compatible with various Peugeot models</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER MANUFACTURER</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr>\n<tr><td>ECU ENGINE CONTROLLER</td><td>PEUGEOT</td><td>0281035333 9830417980</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Check compatibility with your Peugeot model before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 0281035333 9830417980",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-0281035333-9830417980/135602",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "05C0-551E2_20230714123404",
+    "sku": "05C0-551E2_20230714123404",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 0281035333 9830417980</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_283524_0_0/PEUGEOT-0281035333-9830417980.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_283525_0_0/PEUGEOT-0281035333-9830417980.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT",
+      "NUMBER MANUFACTURER": "0281035333 9830417980",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:32:48.794Z",
+    "model": "mistral:7b",
+    "durationMs": 8485,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for BMW E36 2.5 TDS - OEM Tested, Warranty Included (Bosch 0 281 001 193, 0281001193, 2 245 130)",
+  "slug": "plug-play-ecu-bmw-e36-25-tds-bosch-0281001193",
+  "metaDescription": "Expertly tested and OEM Bosch ECU for BMW E36 2.5 TDS, Plug & Play, backed by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E36 2.5 TDS - OEM Tested",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E36",
+    "Bosch ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for BMW E36 2.5 TDS is thoroughly inspected and tested by a certified technician, ensuring a reliable fit.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used Original in Good Condition</li><li>Locked or Ready for Programming</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>INSPECTION:</th><th>WARRANTY :</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>BMW E36</td><td>2.5 TDS</td><td>1995</td><td>2245130</td><td>Plug & Play / Locked / Ready for programming</td><td>Device thoroughly inspected and tested by a certified technician</td><td>6-month warranty</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle and its condition. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E36 2.5 TDS, BOSCH 0 281 001 193, 0281001193, 2 245 130, 2245130",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E36-2.5-TDS%2C-BOSCH-0-281-001-193%2C-0281001193%2C-2-245-130%2C-2245130/51038",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D435-671C9_20140204095935",
+    "sku": "D435-671C9_20140204095935",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E36 2.5 TDS, BOSCH 0 281 001 193, 0281001193, 2 245 130, 2245130</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E36",
+      "ENGINE": "2.5 TDS",
+      "YEAR": "1995",
+      "NUMBER PARTS": "2245130",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:26:10.224Z",
+    "model": "mistral:7b",
+    "durationMs": 9443,
+    "priceIncrement": 100
+  }
+}

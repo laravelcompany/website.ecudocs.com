@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Jeep Grand Cherokee 3.0 CRD - OEM Tested, Warranty Included (Bosch 0 281 017 461)",
+  "slug": "plug-play-ecu-jeep-grand-cherokee-3-0-crd-bosch-0281017461",
+  "metaDescription": "OEM tested and Plug & Play ECU replacement for Jeep Grand Cherokee 3.0 CRD, backed by a warranty. Fast dispatch within EU.",
+  "price": "€660.00",
+  "excerpt": "Plug & Play ECU Replacement for Jeep Grand Cherokee 3.0 CRD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Jeep Grand Cherokee",
+    "3.0 CRD",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for Jeep Grand Cherokee 3.0 CRD is a reliable solution to any engine control unit issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>JEEP GRAND CHEROKEE</td></tr>\n        <tr><th>ENGINE</th><td>3.0 CRD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 017 461</td></tr>\n        <tr><th>NUMBER PARTS</th><td>P05150625AB</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on specific vehicle conditions and installation expertise. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JEEP GRAND CHEROKEE 3.0 CRD BOSCH 0 281 017 461, 0281017461, P05150625AB",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JEEP-GRAND-CHEROKEE-3.0-CRD-BOSCH-0-281-017-461%2C-0281017461%2C-P05150625AB/110840",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "AFF8-191AF_20180803131351",
+    "sku": "AFF8-191AF_20180803131351",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JEEP GRAND CHEROKEE 3.0 CRD BOSCH 0 281 017 461, 0281017461, P05150625AB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JEEP GRAND CHEROKEE",
+      "ENGINE": "3.0 CRD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 017 461",
+      "NUMBER PARTS": "P05150625AB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:07:18.691Z",
+    "model": "mistral:7b",
+    "durationMs": 9307,
+    "priceIncrement": 100
+  }
+}

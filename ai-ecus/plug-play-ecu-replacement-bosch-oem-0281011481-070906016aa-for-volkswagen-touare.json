@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Bosch OEM 0281011481 070906016AA for Volkswagen Touareg 5.0 TDI (2004) - Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-bosch-oem-0281011481-070906016aa-for-volkswagen-touare",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Volkswagen Touareg 5.0 TDI (2004) from Bosch, OEM tested and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Volkswagen Touareg 5.0 TDI (2004)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch OEM part numbers",
+    "Volkswagen Touareg"
+  ],
+  "description": "<section class=\"overview\">This Bosch ECU Engine Controller is a direct replacement for your Volkswagen Touareg 5.0 TDI (2004). It's thoroughly inspected and tested by certified technicians to ensure optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM-quality Bosch part</li>\n        <li>Plug & Play installation</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Locked/unlocked option available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>VOLKSWAGEN TOUAREG</td></tr>\n            <tr><td>ENGINE</td><td>5.0 TDI</td></tr>\n            <tr><td>YEAR</td><td>2004</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 011 481</td></tr>\n            <tr><td>NUMBER PARTS</td><td>DIESEL EDC16U1</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty included.</section>\n<section class=\"compatibility\">Please ensure compatibility before purchase. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VOLKSWAGEN 0281011481 070906016AA",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VOLKSWAGEN-0281011481-070906016AA-/25779",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7D4B-187EF_20120609205437",
+    "sku": "7D4B-187EF_20120609205437",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER VOLKSWAGEN  0281011481 070906016AA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VOLKSWAGEN TOUAREG",
+      "ENGINE": "5.0 TDI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 481",
+      "NUMBER PARTS": "DIESEL EDC16U1",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:45:00.897Z",
+    "model": "mistral:7b",
+    "durationMs": 10670,
+    "priceIncrement": 100
+  }
+}

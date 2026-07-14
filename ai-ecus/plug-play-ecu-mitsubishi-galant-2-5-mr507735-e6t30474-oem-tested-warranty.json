@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Mitsubishi Galant 2.5 MR507735, E6T30474 - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-mitsubishi-galant-2-5-mr507735-e6t30474-oem-tested-warranty",
+  "metaDescription": "Get your Mitsubishi Galant back on the road with our Plug & Play ECU replacement, tested and covered by a 6-month warranty. Order today for fast dispatch!",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Mitsubishi Galant 2.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mitsubishi Galant",
+    "2.5 engine",
+    "MR507735",
+    "E6T30474"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for your Mitsubishi Galant 2.5 is a reliable solution to get your vehicle running smoothly again, backed by our 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for guaranteed fitment</li><li>6-month warranty for peace of mind</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>MITSUBISHI GALANT</td></tr>\n    <tr><th>ENGINE</th><td>2.5</td></tr>\n    <tr><th>YEAR</th><td>1997-2003</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>MR507735</td></tr>\n    <tr><th>NUMBER PARTS</th><td>E6T30474</td></tr>\n  </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mitsubishi Galant models from 1997 to 2003. Fitment caution: Ensure proper installation by a certified technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MITSUBISHI GALANT 2.5 MR507735, E6T30474",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MITSUBISHI-GALANT-2.5-MR507735%2C-E6T30474-/44936",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Mitsubishi",
+    "productCode": "0898-3110C",
+    "sku": "0898-3110C",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MITSUBISHI GALANT 2.5 MR507735, E6T30474 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MITSUBISHI GALANT",
+      "ENGINE": "2.5",
+      "YEAR": "1997-2003",
+      "NUMBER MANUFACTURER": "MR507735",
+      "NUMBER PARTS": "E6T30474",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:54:15.171Z",
+    "model": "mistral:7b",
+    "durationMs": 9387,
+    "priceIncrement": 100
+  }
+}

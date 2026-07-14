@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Engine Controller DeAwoo 12201599 DFRC K9 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-deawoo-12201599-dfrc-k9-oem-tested",
+  "metaDescription": "Buy the ECU ENGINE CONTROLLER DEAWOO 12201599 DFRC K9, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Engine Controller DeAwoo 12201599 DFRC K9",
+  "tags": [
+    "ECU Replacement",
+    "DeAwoo",
+    "DFRC K9",
+    "Used in Good Condition",
+    "OEM Tested"
+  ],
+  "description": "<section class=\"overview\">This ECU ENGINE CONTROLLER DeAwoo 12201599 DFRC K9 is a tested and reliable solution for your vehicle's engine control system, backed by a certified technician's inspection and a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Locked / Ready for programming</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Device thoroughly inspected and tested by a certified technician</li>\n        <li>Condition: Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>DEAWOO</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>12201599</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DFRC K9</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Please ensure compatibility with your vehicle before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DEAWOO 12201599 DFRC K9",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DEAWOO-12201599-DFRC-K9-/16340",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "E5B2-397E2",
+    "sku": "E5B2-397E2",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DEAWOO 12201599 DFRC K9 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DEAWOO",
+      "NUMBER MANUFACTURER": "12201599",
+      "NUMBER PARTS": "DFRC K9",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:01:55.678Z",
+    "model": "mistral:7b",
+    "durationMs": 8727,
+    "priceIncrement": 100
+  }
+}

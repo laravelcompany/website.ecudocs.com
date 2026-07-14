@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes Vito 2.2 CDI (0001531179) - OEM Tested, Warranty Included - Bosch 0281010431",
+  "slug": "plug-play-ecu-mercedes-vito-220-cdi-oem-tested-warranty-included",
+  "metaDescription": "Expertly tested and OEM replacement ECU for Mercedes Vito 2.2 CDI (0001531179). Plug & Play, backed by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes Vito 2.2 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Vito",
+    "2.2 CDI",
+    "Bosch 0281010431"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for the Mercedes Vito 2.2 CDI (0001531179) is thoroughly inspected, tested, and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>ECU Replacement</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES VITO</td></tr>\n        <tr><th>ENGINE</th><td>2.2 CDI</td></tr>\n        <tr><th>YEAR</th><td>2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281010431, 0 281 010 431</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0001531179</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Always confirm fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES VITO 220 CDI A0001531179, A 000 153 11 79, 0001531179, BOSCH 0281010431, 0 281 010 431",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-VITO-220-CDI-A0001531179%2C-A-000-153-11-79%2C-0001531179%2C-BOSCH-0281010431%2C-0-281-010-431/16911",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A8AE-95077",
+    "sku": "A8AE-95077",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES VITO 220 CDI A0001531179, A 000 153 11 79, 0001531179, BOSCH 0281010431, 0 281 010 431</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_6cf6241541ed31a1a8f1b4ecb76045f2_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6382b1170f44f0ce1ec3f61266cfe538_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES VITO",
+      "ENGINE": "2.2 CDI",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0281010431, 0 281 010 431",
+      "NUMBER PARTS": "0001531179",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:59:06.331Z",
+    "model": "mistral:7b",
+    "durationMs": 9904,
+    "priceIncrement": 100
+  }
+}

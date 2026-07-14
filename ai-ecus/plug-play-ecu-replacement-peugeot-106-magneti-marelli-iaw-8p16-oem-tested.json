@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Peugeot 106 Magneti Marelli IAW 8P.16 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-106-magneti-marelli-iaw-8p16-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Peugeot 106 by Magneti Marelli, tested and covered by a 6-month warranty. Fast EU shipping.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 106",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 106",
+    "Magneti Marelli",
+    "IAW 8P.16"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Peugeot 106 by Magneti Marelli offers a Plug & Play solution with a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Compatible with Peugeot 106 (1994-1998)</li>\n<li>Original Part Number: 9625002880</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>PEUGEOT 106</td></tr>\n<tr><th>YEAR</th><td>1994-1998</td></tr>\n<tr><th>NUMBER PARTS</th><td>9625002880</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 106 MAGNETI MARELLI IAW 8P.16, IAW8P16, 16236.124, 16236124, 9625002880",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-106-MAGNETI-MARELLI-IAW-8P.16%2C-IAW8P16%2C-16236.124%2C-16236124%2C-9625002880/60929",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "E35B-45734_20140723144333",
+    "sku": "E35B-45734_20140723144333",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 106 MAGNETI MARELLI IAW 8P.16, IAW8P16, 16236.124, 16236124, 9625002880</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 106",
+      "YEAR": "1994-1998",
+      "NUMBER PARTS": "9625002880",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:35:22.942Z",
+    "model": "mistral:7b",
+    "durationMs": 10258,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Mazda Engine Controller Denso RF7K18881T, 6-Month Warranty",
+  "slug": "plug-play-ecu-mazda-engine-controller-denso-rf7k18881t-warranty",
+  "metaDescription": "Expertly tested ECU replacement for Mazda. Plug & Play, OEM quality, backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play Denso ECU Engine Controller for Mazda",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso RF7K18881T",
+    "Mazda Engine Controller"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Mazda is a reliable solution, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Quality</li>\n        <li>6-Month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MAZDA</td></tr>\n        <tr><th>ENGINE</th><td>-</td></tr>\n        <tr><th>YEAR</th><td>-</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DENSO 275800-6595</td></tr>\n        <tr><th>CODE</th><td>RF7K</td></tr>\n        <tr><th>NUMBER PARTS</th><td>RF7K 18 881T</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA DENSO 2758006595, 275800-6595, RF7K18881T, RF7K 18 881T",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-DENSO-2758006595%2C-275800-6595%2C-RF7K18881T%2C-RF7K-18-881T-/31869",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "A35A-7126D",
+    "sku": "A35A-7126D",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA DENSO 2758006595, 275800-6595, RF7K18881T, RF7K 18 881T </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA",
+      "ENGINE": "-",
+      "YEAR": "-",
+      "NUMBER MANUFACTURER": "DENSO 275800-6595",
+      "CODE": "RF7K",
+      "NUMBER PARTS": "RF7K 18 881T",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:01:13.943Z",
+    "model": "mistral:7b",
+    "durationMs": 10380,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W 210 Bosch 0 265 109 046, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w-210-bosch-0-265-109-046-tested",
+  "metaDescription": "OEM tested ECU replacement for Mercedes W 210 with Bosch 0 265 109 046. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU replacement for Mercedes W 210",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W 210",
+    "Bosch 0 265 109 046"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is designed for Mercedes W 210 with Bosch 0 265 109 046. It offers a Plug & Play installation and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM tested</li><li>Plug & Play</li><li>6-month warranty</li><li>Fast dispatch</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your vehicle before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W 210 BOSCH 0 265 109 046, 0265109046, 019 545 48 32, 0195454832",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W-210-BOSCH-0-265-109-046%2C-0265109046%2C-019-545-48-32%2C-0195454832-/44736",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7BBC-188A3",
+    "sku": "7BBC-188A3",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W 210 BOSCH 0 265 109 046, 0265109046, 019 545 48 32, 0195454832 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W 210",
+      "YEAR": "1996-1997",
+      "NUMBER MANUFACTURER": "BOSCH 0 265 109 046",
+      "NUMBER PARTS": "019 545 48 32",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:00:39.566Z",
+    "model": "mistral:7b",
+    "durationMs": 6393,
+    "priceIncrement": 100
+  }
+}

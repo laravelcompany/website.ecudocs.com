@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Fiat Multipla 1.9 JTD Bosch 0281012294 55200651 OEM Tested, Warranty",
+  "slug": "plug-play-ecu-fiat-multipla-1-9-jtd-bosch-oem-tested",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Fiat Multipla 1.9 JTD, tested and covered by a 6-month warranty. Order today!",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Multipla 1.9 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Multipla",
+    "1.9 JTD engine",
+    "Bosch ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for your Fiat Multipla 1.9 JTD is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FIAT MULTIPLA</td></tr>\n        <tr><th>ENGINE:</th><td>1.9 JTD</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 012 294</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>55200651</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Multipla 1.9 JTD. Always ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT MULTIPLA 0281012294 55200651",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-MULTIPLA-0281012294-55200651/109805",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D6A9-701B3_20180516113844",
+    "sku": "D6A9-701B3_20180516113844",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT MULTIPLA 0281012294 55200651</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT MULTIPLA",
+      "ENGINE": "1.9 JTD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 294",
+      "NUMBER PARTS": "55200651",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:04:43.083Z",
+    "model": "mistral:7b",
+    "durationMs": 8931,
+    "priceIncrement": 100
+  }
+}

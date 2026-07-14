@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Renault Espace 2.0 - OEM Siemens S100820102B, HOM7700855526 - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-espace-2-0-oem-siemens-s100820102b-hom77008555",
+  "metaDescription": "Expertly tested ECU Engine Controller for Renault Espace 2.0, featuring Plug & Play compatibility and a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Espace 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Espace 2.0",
+    "Siemens S100820102B",
+    "HOM7700855526"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller for Renault Espace 2.0 offers Plug & Play compatibility and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play compatibility</li>\n<li>OEM tested and certified</li>\n<li>6-month warranty included</li>\n<li>Ready for programming</li>\n<li>Used in good condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>RENAULT ESPACE</td></tr>\n<tr><th>ENGINE</th><td>2.0</td></tr>\n<tr><th>YEAR</th><td>1990-1993</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S100820102 B</td></tr>\n<tr><th>NUMBER PARTS</th><td>HOM7700855526</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Espace 2.0 (1990-1993). Fitment caution may apply, consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT ESPACE 2.0, SIEMENS S100820102 B, S100820102B, HOM7700855526, 7700855526",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-ESPACE-2.0%2C-SIEMENS-S100820102-B%2C-S100820102B%2C-HOM7700855526%2C-7700855526/46950",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "53E5-52640",
+    "sku": "53E5-52640",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT ESPACE 2.0, SIEMENS S100820102 B, S100820102B, HOM7700855526, 7700855526</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT ESPACE",
+      "ENGINE": "2.0",
+      "YEAR": "1990-1993",
+      "NUMBER MANUFACTURER": "SIEMENS S100820102 B",
+      "NUMBER PARTS": "HOM7700855526",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:17:57.741Z",
+    "model": "mistral:7b",
+    "durationMs": 11509,
+    "priceIncrement": 100
+  }
+}

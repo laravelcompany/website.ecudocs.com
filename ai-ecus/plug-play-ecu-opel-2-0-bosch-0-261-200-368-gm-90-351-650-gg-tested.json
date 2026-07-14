@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - OPEL 2.0 ENGINE CONTROLLER BOSCH 0 261 200 368, GM 90 351 650 GG - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-2-0-bosch-0-261-200-368-gm-90-351-650-gg-tested",
+  "metaDescription": "Buy OEM tested ECU ENGINE CONTROLLER for OPEL 2.0 with Plug & Play option, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested ECU Replacement for OPEL 2.0 Engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "OPEL 2.0 engine controller",
+    "Bosch ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for OPEL 2.0 ENGINE CONTROLLOR BOSCH 0 261 200 368, GM 90 351 650 GG is thoroughly inspected and tested by a certified technician to ensure optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Option</li>\n        <li>6-month Warranty</li>\n        <li>Ready for Programming</li>\n        <li>Used but in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 200 368</td></tr>\n        <tr><th>NUMBER PARTS</th><td>GM 90 351 650 GG</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with OPEL vehicles equipped with the specified part numbers. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL BOSCH 0 261 200 368, 0261200368, GM 90 351 650 GG, 90351650 GG",
+    "price": "€20.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-BOSCH-0-261-200-368%2C-0261200368%2C-GM-90-351-650-GG%2C-90351650-GG/64852",
+    "priceCurrency": "EUR",
+    "netPrice": "€16.26",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "811F-3840D_20140902093401",
+    "sku": "811F-3840D_20140902093401",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL BOSCH 0 261 200 368, 0261200368, GM 90 351 650 GG, 90351650 GG</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_0f723247cf06722100836e5977f7c0bd_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7f2ab469598897f067de6c89c0eeff71_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ca748dea1a7e1ff64ce0e8966e2a4579_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_886312f1096694fdc2b4174f80874864_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 200 368",
+      "NUMBER PARTS": "GM 90 351 650 GG",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:27:18.301Z",
+    "model": "mistral:7b",
+    "durationMs": 10086,
+    "priceIncrement": 100
+  }
+}

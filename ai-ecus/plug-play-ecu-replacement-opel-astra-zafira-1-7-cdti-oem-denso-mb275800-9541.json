@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Opel Astra Zafira 1.7 CDTI - OEM Denso MB275800-9541",
+  "slug": "plug-play-ecu-replacement-opel-astra-zafira-1-7-cdti-oem-denso-mb275800-9541",
+  "metaDescription": "OEM Tested ECU Replacement for Opel Astra Zafira 1.7 CDTI, Plug & Play installation, 6-month warranty.",
+  "price": "€522.00",
+  "excerpt": "Plug & Play ECU replacement for Opel Astra Zafira 1.7 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso MB275800-9541",
+    "Opel Astra Zafira",
+    "1.7 CDTI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Opel Astra Zafira 1.7 CDTI ensures reliable engine control and performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM quality Denso part</li>\n        <li>6-month warranty</li>\n        <li>Locked and ready for programming</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA</td></tr>\n        <tr><th>ENGINE</th><td>1.7 CDTI A17DTJ A17DTR Z17DTJ</td></tr>\n        <tr><th>YEAR</th><td>2007-</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DENSO MB275800-9541</td></tr>\n        <tr><th>CODE</th><td>NF</td></tr>\n        <tr><th>NUMBER PARTS</th><td>D09005</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra Zafira 1.7 CDTI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA ZAFIRA 1.7 CDTI A17DTJ A17DTR Z17DTJ 55571776, 98003171, 6237235, 62 37 235, MB2758009541, MB275800-9541",
+    "price": "€475.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-ZAFIRA-1.7-CDTI-A17DTJ-A17DTR-Z17DTJ-55571776%2C-98003171%2C-6237235%2C-62-37-235%2C-MB2758009541%2C-MB275800-9541/9746",
+    "priceCurrency": "EUR",
+    "netPrice": "€475.00",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "9746",
+    "sku": "9746",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA ZAFIRA 1.7 CDTI A17DTJ A17DTR Z17DTJ 55571776, 98003171, 6237235, 62 37 235, MB2758009541, MB275800-9541</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA",
+      "ENGINE": "1.7 CDTI A17DTJ A17DTR Z17DTJ",
+      "YEAR": "2007-",
+      "NUMBER MANUFACTURER": "DENSO MB275800-9541",
+      "CODE": "NF",
+      "NUMBER PARTS": "D09005",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:21:58.199Z",
+    "model": "mistral:7b",
+    "durationMs": 11902,
+    "priceIncrement": 100
+  }
+}

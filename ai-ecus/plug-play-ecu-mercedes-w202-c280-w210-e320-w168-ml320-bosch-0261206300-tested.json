@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Mercedes W202 C280, W210 E320, W168 ML320 BOSCH 0261206300 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w202-c280-w210-e320-w168-ml320-bosch-0261206300-tested",
+  "metaDescription": "Expertly tested ECU Engine Controller for Mercedes W202 C280, W210 E320, W168 ML320. Plug & Play, OEM Tested, and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W202 C280, W210 E320, W168 ML320",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W202 C280",
+    "W210 E320",
+    "W168 ML320",
+    "BOSCH 0261206300"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for Mercedes W202 C280, W210 E320, and W168 ML320 models. It comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W202 C280, W210 E320, W168 ML320 BOSCH 0261206300, 0 261 206 300, A0265456632, A 026 545 66 32, 0265456632",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W202-C280%2C-W210-E320%2C-W168-ML320-BOSCH-0261206300%2C-0-261-206-300%2C-A0265456632%2C-A-026-545-66-32%2C-0265456632/24496",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F31A-700C1_20120531215352",
+    "sku": "F31A-700C1_20120531215352",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W202 C280, W210 E320, W168 ML320 BOSCH 0261206300, 0 261 206 300, A0265456632, A 026 545 66 32, 0265456632</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W202 C280, W210 E320, W168 ML320",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH  0 261 206 300",
+      "NUMBER PARTS": "0265456632",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:18:19.291Z",
+    "model": "mistral:7b",
+    "durationMs": 7833,
+    "priceIncrement": 100
+  }
+}

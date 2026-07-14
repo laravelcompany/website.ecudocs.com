@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Opel Corsa 1.2 - Delco 16204689 GD, Warranty Included",
+  "slug": "plug-play-ecu-opel-corsa-1-2-delco-16204689-gd-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Opel Corsa 1.2 - Delco 16204689 GD, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€70.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Opel Corsa 1.2 - Delco 16204689 GD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delco 16204689 GD",
+    "Opel Corsa",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Opel Corsa 1.2 - Delco 16204689 GD is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CORSA</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELCO 16204689 GD</td></tr>\n        <tr><th>NUMBER PARTS</th><td>BPKM</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Ensure correct fitment before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA 1.2, DELCO 16204689 GD, 16204689GD, D95007, BPKM",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-1.2%2C-DELCO-16204689-GD%2C-16204689GD%2C-D95007%2C-BPKM/72229",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "5922-37676_20150203234553",
+    "sku": "5922-37676_20150203234553",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA 1.2, DELCO 16204689 GD, 16204689GD, D95007, BPKM</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_af4a3b37a9aa697b93eb3da392860a80_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_575ebd55f99017c193b3b29acb7a460b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_389c4f8fe6894f415536067c12382660_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "DELCO 16204689 GD",
+      "NUMBER PARTS": "BPKM",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:50:40.365Z",
+    "model": "mistral:7b",
+    "durationMs": 9288,
+    "priceIncrement": 100
+  }
+}

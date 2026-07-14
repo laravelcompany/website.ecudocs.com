@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - KIA Engine Controller BOSCH 0261S04860, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-kia-bosch-0261s04860",
+  "metaDescription": "Expertly tested and OEM Bosch ECU Engine Controller for KIA. Plug & Play, warranty included. Fast dispatch within EU.",
+  "price": "€700.00",
+  "excerpt": "Plug & Play ECU replacement for KIA with 6-month warranty",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA engine controller",
+    "Bosch 0261S04860"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for KIA is tested and OEM Bosch-certified, ensuring seamless integration with your vehicle's systems.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>KIA</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S04 860</td></tr>\n        <tr><th>NUMBER PARTS</th><td>39110-2B750</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA 391102B750, 39110-2B750 BOSCH 0261S04860, 0 261 S04 860",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-391102B750%2C-39110-2B750-BOSCH-0261S04860%2C-0-261-S04-860/31072",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9944-74537_20121006213206",
+    "sku": "9944-74537_20121006213206",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA 391102B750, 39110-2B750 BOSCH 0261S04860, 0 261 S04 860</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S04 860",
+      "NUMBER PARTS": "39110-2B750",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:14:30.058Z",
+    "model": "mistral:7b",
+    "durationMs": 9861,
+    "priceIncrement": 100
+  }
+}

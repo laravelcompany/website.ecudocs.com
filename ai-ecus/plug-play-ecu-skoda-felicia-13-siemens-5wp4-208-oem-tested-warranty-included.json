@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - SKODA Felicia 1.3 SIEMENS 5WP4 208, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-skoda-felicia-13-siemens-5wp4-208-oem-tested-warranty-included",
+  "metaDescription": "OEM tested ECU Replacement for SKODA Felicia 1.3 SIEMENS 5WP4 208, Plug & Play, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU Replacement for SKODA Felicia 1.3 SIEMENS 5WP4 208",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA Felicia",
+    "Siemens 5WP4 208"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Replacement for SKODA Felicia 1.3 SIEMENS 5WP4 208 is a reliable solution to your engine control unit issues, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>6-month Inspection and Testing by Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SKODA FELICIA</td></tr>\n        <tr><th>ENGINE:</th><td>1.3</td></tr>\n        <tr><th>YEAR:</th><td>1996-1997</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SIEMENS 5WP4 208</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>047 906 030 C</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific faults. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FELICIA 1.3 SIEMENS 5WP4 208, 5WP4208, 047 906 030 C, 047906030C",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FELICIA-1.3-SIEMENS-5WP4-208%2C-5WP4208%2C-047-906-030-C%2C-047906030C/36640",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "98A0-58761_20130703100404",
+    "sku": "98A0-58761_20130703100404",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FELICIA 1.3 SIEMENS 5WP4 208, 5WP4208, 047 906 030 C, 047906030C</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FELICIA",
+      "ENGINE": "1.3",
+      "YEAR": "1996-1997",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP4 208",
+      "NUMBER PARTS": "047 906 030 C",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:28:34.434Z",
+    "model": "mistral:7b",
+    "durationMs": 9646,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Honda Civic 2009-2011, Keihin 9107710741864 - 6-month Warranty",
+  "slug": "plug-play-ecu-honda-civic-keihin-9107710741864-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Honda Civic (2009-2011) by Keihin. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Honda Civic (2009-2011)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Civic",
+    "Keihin",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Honda Civic (2009-2011) by Keihin ensures seamless engine operation and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>ECU Replacement</li>\n        <li>Used, Original in Good Condition</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>HONDA CIVIC</td></tr>\n        <tr><th>YEAR:</th><td>2009-2011</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>9107710741864</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Honda Civic (2009-2011). Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA CIVIC 37820-RSJ-E01, 37820RSJE01, 9107-710 741864, 9107710741864",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-CIVIC-37820-RSJ-E01%2C-37820RSJE01%2C-9107-710-741864%2C-9107710741864-/54196",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Keihin",
+    "productCode": "B708-8257E_20140416182440",
+    "sku": "B708-8257E_20140416182440",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  HONDA CIVIC 37820-RSJ-E01, 37820RSJE01, 9107-710 741864, 9107710741864 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_7e06f846d0ea4f7e64a68f08821cff41_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_cf921440d16c3c8b0bad0773a8fa22f4_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA CIVIC",
+      "YEAR": "2009-2011",
+      "NUMBER PARTS": "9107710741864",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:02:49.838Z",
+    "model": "mistral:7b",
+    "durationMs": 9952,
+    "priceIncrement": 100
+  }
+}

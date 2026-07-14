@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Engine Controller Opel Astra Zafira 2.0 DTI BOSCH 0281010021 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-astra-zafira-20-dti-bosch-0281010021",
+  "metaDescription": "Buy this Plug & Play ECU Engine Controller for Opel Astra Zafira 2.0 DTI, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Opel Astra Zafira 2.0 DTI",
+  "tags": [
+    "ECU Replacement",
+    "Opel Astra",
+    "Zafira 2.0 DTI",
+    "BOSCH 0281010021",
+    "Plug & Play"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Opel Astra Zafira 2.0 DTI is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA</td></tr>\n        <tr><th>ENGINE</th><td>2.0 DTI X20DTL X20DTH</td></tr>\n        <tr><th>YEAR</th><td>1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 021</td></tr>\n        <tr><th>CODE</th><td>CS</td></tr>\n        <tr><th>NUMBER PARTS</th><td>28SA4222</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra Zafira 2.0 DTI. Fitment caution: Ensure proper programming and installation by a professional technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA 2.0 DTI X20DTL X20DTH BOSCH 0281010021, 0 281 010 021, 09133269 CS, 09 133 269, 9133269, 28SA4222",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-ASTRA-ZAFIRA-2.0-DTI-X20DTL-X20DTH-BOSCH-0281010021%2C-0-281-010-021%2C-09133269-CS%2C-09-133-269%2C-9133269%2C-28SA4222-/23738",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7525-5096F_20120529101509",
+    "sku": "7525-5096F_20120529101509",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA 2.0 DTI X20DTL X20DTH BOSCH 0281010021, 0 281 010 021, 09133269 CS, 09 133 269, 9133269, 28SA4222 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA",
+      "ENGINE": "2.0 DTI X20DTL X20DTH",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 021",
+      "CODE": "CS",
+      "NUMBER PARTS": "28SA4222",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:36:33.208Z",
+    "model": "mistral:7b",
+    "durationMs": 12002,
+    "priceIncrement": 100
+  }
+}

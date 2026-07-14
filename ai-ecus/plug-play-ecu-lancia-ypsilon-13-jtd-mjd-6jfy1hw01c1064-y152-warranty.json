@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Lancia Ypsilon 1.3 JTD OEM Tested - MJD 6JF.Y1/HW01C/1064-Y152, 6-month Warranty",
+  "slug": "plug-play-ecu-lancia-ypsilon-13-jtd-mjd-6jfy1hw01c1064-y152-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Lancia Ypsilon 1.3 JTD, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Lancia Ypsilon 1.3 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Ypsilon",
+    "1.3 JTD",
+    "Magneti Marelli"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller for Lancia Ypsilon 1.3 JTD is a reliable solution to your engine control unit issues, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Ready for programming</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>LANCIA YPSILON</td></tr>\n        <tr><th>ENGINE:</th><td>1.3 JTD</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>MJD 6JF.Y1</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>MJD 6JF.Y1/HW01C/1064-Y152</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU-wide delivery.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility with your vehicle before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA YPSILON 1.3 JTD, 53194016, MJD 6JF.Y1, MJD6JFY1, MJD 6JF.Y1/HW01C/1064-Y152",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-YPSILON-1.3-JTD%2C-53194016%2C-MJD-6JF.Y1%2C-MJD6JFY1%2C-MJD-6JF.Y1HW01C1064-Y152/119665",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "8B19-8892D",
+    "sku": "8B19-8892D",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA YPSILON 1.3 JTD, 53194016, MJD 6JF.Y1, MJD6JFY1, MJD 6JF.Y1/HW01C/1064-Y152</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA YPSILON",
+      "ENGINE": "1.3 JTD",
+      "NUMBER MANUFACTURER": "MJD 6JF.Y1",
+      "NUMBER PARTS": "MJD 6JF.Y1/HW01C/1064-Y152",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:39:33.933Z",
+    "model": "mistral:7b",
+    "durationMs": 9560,
+    "priceIncrement": 100
+  }
+}

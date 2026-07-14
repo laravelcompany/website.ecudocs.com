@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Nissan Prima 2.0 MEC32-630 RG B2 3930 - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-prima-2-0-mec32-630-rg-b2-3930-warranty",
+  "metaDescription": "Expertly tested and OEM ECU Engine Controller for Nissan Prima 2.0 MEC32-630 RG B2 3930 with a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Nissan Prima 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Prima",
+    "MEC32-630 RG B2 3930"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Nissan Prima 2.0 MEC32-630 RG B2 3930 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Expertly Inspected and Tested</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>NISSAN PRIMERA</td></tr><tr><th>ENGINE</th><td>2.0</td></tr><tr><th>YEAR</th><td>2003</td></tr><tr><th>NUMBER MANUFACTURER</th><td>MEC32630</td></tr><tr><th>NUMBER PARTS</th><td>MEC32-630 RG B2 3930</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 MEC32630, MEC32-630 RG B2 3930",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-2.0-MEC32630%2C-MEC32-630-RG-B2-3930/30374",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "CEAA-152C4_20120930201916",
+    "sku": "CEAA-152C4_20120930201916",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 MEC32630, MEC32-630 RG B2 3930</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "2.0",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "MEC32630",
+      "NUMBER PARTS": "MEC32-630 RG B2 3930",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:35:18.374Z",
+    "model": "mistral:7b",
+    "durationMs": 10060,
+    "priceIncrement": 100
+  }
+}

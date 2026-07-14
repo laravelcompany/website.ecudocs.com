@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Ka 1.3 i - VISTEON 1S5A-12A650-CA, LGFO, LP4-322 - Warranty Included",
+  "slug": "plug-play-ecu-ford-ka-1-3-i-visteon-1s5a-12a650-ca-lgfo-lp4-322-warranty-include",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Ka 1.3 i - VISTEON 1S5A-12A650-CA, LGFO, LP4-322 with 6-month warranty. Fast dispatch in EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Ka",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Ka",
+    "VISTEON",
+    "1S5A-12A650-CA",
+    "LGFO",
+    "LP4-322"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Ka 1.3 i is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Completely Functional Used ECU</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD KA</td></tr>\n        <tr><th>ENGINE</th><td>1.3 i</td></tr>\n        <tr><th>YEAR</th><td>2001-2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>VISTEON 1S5A-12A650-CA</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / complet</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Ka 1.3 i only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD KA VISTEON 1S5A-12A650-CA, 1S5A12A650CA, LGFO, LP4-322",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-KA-VISTEON-1S5A-12A650-CA%2C-1S5A12A650CA%2C-LGFO%2C-LP4-322/61576",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "E2CF-744F8_20140729165727",
+    "sku": "E2CF-744F8_20140729165727",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD KA VISTEON 1S5A-12A650-CA, 1S5A12A650CA, LGFO, LP4-322</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_beea7fe149c78a3b3ab4268024ec0494_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_51b91e12b9a7b7ecedcadab15b529ce0_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD KA",
+      "ENGINE": "1.3 i",
+      "YEAR": "2001-2003",
+      "NUMBER MANUFACTURER": "VISTEON 1S5A-12A650-CA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:28:12.577Z",
+    "model": "mistral:7b",
+    "durationMs": 11586,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Nissan Suzuki Bosch 0 261 B8 055-07, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-nissan-suzuki-bosch-0-261-b8-055-07",
+  "metaDescription": "OEM tested ECU Engine Controller for Nissan Suzuki Bosch 0 261 B8 055-07. Plug & Play, warranty included.",
+  "price": "€87.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan Suzuki - OEM Tested",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Suzuki Bosch 0 261 B8 055-07"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Nissan Suzuki is OEM tested and comes with a warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li></ul></section>\n<section class=\"specs\">...(technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN SUZUKI BOSCH 0 261 B8 055-07, 0261B8055, 33920-68K00, 3392068K00, ME17.9.5",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-SUZUKI-BOSCH-0-261-B8-055-07%2C-0261B8055%2C-33920-68K00%2C-3392068K00%2C-ME17.9.5/113604",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8405-26825_20190527133953",
+    "sku": "8405-26825_20190527133953",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN SUZUKI BOSCH 0 261 B8 055-07,  0261B8055, 33920-68K00, 3392068K00, ME17.9.5</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_229298_0_0/ECU-ENGINE-CONTROLLER-NISSAN-SUZUKI-BOSCH-0-261-B8-055-07%2C-0261B8055%2C-33920-68K00%2C-3392068K00%2C-ME17.9.5.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_229299_0_0/ECU-ENGINE-CONTROLLER-NISSAN-SUZUKI-BOSCH-0-261-B8-055-07%2C-0261B8055%2C-33920-68K00%2C-3392068K00%2C-ME17.9.5.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN SUZUKI",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 B8 055-07",
+      "NUMBER PARTS": "ME17.9.5",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:46:30.737Z",
+    "model": "mistral:7b",
+    "durationMs": 5952,
+    "priceIncrement": 100
+  }
+}

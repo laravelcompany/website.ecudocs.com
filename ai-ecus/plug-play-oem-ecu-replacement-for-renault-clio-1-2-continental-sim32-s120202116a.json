@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Renault Clio 1.2 - Continental SIM32 S120202116A, Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-for-renault-clio-1-2-continental-sim32-s120202116a",
+  "metaDescription": "Buy the Plug & Play OEM ECU Engine Controller for Renault Clio 1.2 by Continental SIM32 S120202116A, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Renault Clio 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Clio 1.2",
+    "Continental SIM32",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for Renault Clio 1.2 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM-quality part</li>\n        <li>Plug & Play installation</li>\n        <li>6-month warranty</li>\n        <li>Fast EU dispatch</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>RENAULT CLIO</td></tr>\n        <tr><th>ENGINE:</th><td>1.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>CONTINENTAL SIM 32 S120202116 A</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>8200700600</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Clio 1.2. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO 1.2 CONTINENTAL SIM32 S120202116A, S120202116 A, 120202116, 8200851165, 8200700600",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-1.2-CONTINENTAL-SIM32-S120202116A%2C-S120202116-A%2C-120202116%2C-8200851165%2C-8200700600-/16860",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "9F64-96214",
+    "sku": "9F64-96214",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO 1.2 CONTINENTAL SIM32 S120202116A, S120202116 A, 120202116, 8200851165, 8200700600 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "CONTINENTAL SIM 32 S120202116 A",
+      "NUMBER PARTS": "8200 700 600",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:52:59.723Z",
+    "model": "mistral:7b",
+    "durationMs": 9563,
+    "priceIncrement": 100
+  }
+}

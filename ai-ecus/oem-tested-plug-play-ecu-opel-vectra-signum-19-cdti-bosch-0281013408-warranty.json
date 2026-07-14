@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Opel Vectra Signum 1.9 CDTI - Bosch 0281013408, Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-opel-vectra-signum-19-cdti-bosch-0281013408-warranty",
+  "metaDescription": "Buy the OEM tested Plug & Play ECU replacement for Opel Vectra Signum 1.9 CDTI with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Opel Vectra Signum 1.9 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281013408",
+    "Opel Vectra Signum"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Opel Vectra Signum 1.9 CDTI is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch within EU</li>\n<li>Used in Good Condition</li>\n<li>Locked / Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM</td></tr>\n<tr><td>ENGINE</td><td>1.9 CDTI Z19DT Z19DTL Z19DTH</td></tr>\n<tr><td>YEAR</td><td>2006-2008</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 013 408</td></tr>\n<tr><td>CODE</td><td>ET</td></tr>\n<tr><td>NUMBER PARTS</td><td>1039S14418</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel Vectra Signum 1.9 CDTI Z19DT Z19DTL Z19DTH only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM 1.9 CDTI Z19DT Z19DTL Z19DTH 55205633 ET, 55 205 633 ET, BOSCH 0281013408 , 0 281 013 408, 55205627, 55 205 627, 1232119, 12 32 119",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-VECTRA-SIGNUM-1.9-CDTI-Z19DT-Z19DTL-Z19DTH-55205633-ET%2C-55-205-633-ET%2C-BOSCH-0281013408-%2C-0-281-013-408%2C-55205627%2C-55-205-627%2C-1232119%2C-12-32-119-/9950",
+    "priceCurrency": "EUR",
+    "netPrice": "€100.00",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9950",
+    "sku": "9950",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM 1.9 CDTI Z19DT Z19DTL Z19DTH 55205633 ET, 55 205 633 ET, BOSCH 0281013408 , 0 281 013 408, 55205627, 55 205 627, 1232119, 12 32 119 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM",
+      "ENGINE": "1.9 CDTI Z19DT Z19DTL Z19DTH",
+      "YEAR": "2006-2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 408",
+      "CODE": "ET",
+      "NUMBER PARTS": "1039S14418",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:46:48.507Z",
+    "model": "mistral:7b",
+    "durationMs": 11570,
+    "priceIncrement": 100
+  }
+}

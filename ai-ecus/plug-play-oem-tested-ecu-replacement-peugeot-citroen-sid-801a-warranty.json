@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Peugeot Citroen SID 801A - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-peugeot-citroen-sid-801a-warranty",
+  "metaDescription": "Buy a Plug & Play OEM Tested ECU Replacement for Peugeot Citroen SID 801A, backed by a 6-month warranty. Fast EU shipping.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Peugeot Citroen SID 801A",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot Citroen SID 801A",
+    "OEM part",
+    "Used ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Peugeot Citroen SID 801A is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Compatible with Peugeot Citroen Models</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT CITROEN</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HW 9647423380</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot Citroen models, but fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT CITROEN SIEMENS SID 801A 5WS40121B-T, 5WS40121BT, SW 9651506380, HW 9647423380",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-CITROEN-SIEMENS-SID-801A-5WS40121B-T%2C-5WS40121BT%2C-SW-9651506380%2C-HW-9647423380/59173",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "C905-167A3_20140623110235",
+    "sku": "C905-167A3_20140623110235",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT CITROEN SIEMENS SID 801A 5WS40121B-T, 5WS40121BT, SW 9651506380, HW 9647423380</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT CITROEN",
+      "NUMBER PARTS": "HW 9647423380",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:32:17.067Z",
+    "model": "mistral:7b",
+    "durationMs": 9984,
+    "priceIncrement": 100
+  }
+}

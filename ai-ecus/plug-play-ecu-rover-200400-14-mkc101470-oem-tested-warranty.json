@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - ROVER 200/400 1.4 MKC 101470, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-rover-200400-14-mkc101470-oem-tested-warranty",
+  "metaDescription": "Get a Plug & Play ECU Replacement for your ROVER 200/400 1.4 MKC 101470, tested and covered by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for ROVER 200/400 1.4 MKC 101470",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "ROVER 200/400",
+    "MKC 101470"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for your ROVER 200/400 1.4 MKC 101470 ensures seamless engine control and performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for reliability</li><li>6-month warranty for peace of mind</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>ROVER 200/400</td></tr>\n    <tr><th>ENGINE</th><td>1.4</td></tr>\n    <tr><th>YEAR</th><td>1991-1992</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>MKC 101470</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with ROVER 200/400 1.4 MKC 101470. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 200/400 1.4 MKC 101470, MKC101470",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-200400-1.4-MKC-101470%2C-MKC101470/35913",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "619E-90988_20130530011100",
+    "sku": "619E-90988_20130530011100",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 200/400 1.4 MKC 101470, MKC101470</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 200/400",
+      "ENGINE": "1.4",
+      "YEAR": "1991-1992",
+      "NUMBER MANUFACTURER": "MKC 101470",
+      "OPTION AVAILABLE": "Plug & Play / Locked",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:27:49.664Z",
+    "model": "mistral:7b",
+    "durationMs": 10457,
+    "priceIncrement": 100
+  }
+}

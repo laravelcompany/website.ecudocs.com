@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A4 1.6 BOSCH 0261203554/555 - ECU Replacement, Warranty",
+  "slug": "plug-play-ecu-audi-a4-1-6-bosch-0261203554-tested",
+  "metaDescription": "OEM tested Plug & Play ECU Engine Controller for Audi A4 1.6 BOSCH 0261203554/555, offering a seamless replacement with a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested Plug & Play ECU for Audi A4 1.6 BOSCH 0261203554/555",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "BOSCH 0261203554",
+    "1.6 engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Audi A4 1.6 BOSCH 0261203554/555 is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Reliable Replacement</li><li>Certified Technician Inspection</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>AUDI A4</td></tr>\n    <tr><th>ENGINE</th><td>1.6</td></tr>\n    <tr><th>YEAR</th><td>1994-1996</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 203 554</td></tr>\n    <tr><th>CODE</th><td>0 261 203 555</td></tr>\n    <tr><th>NUMBER PARTS</th><td>8D0 907 557 B</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 1.6 8D0907557B, 8D0 907 557 B, BOSCH 0261203554/555, 0 261 203 554, 0 261 203 555",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-1.6-8D0907557B%2C-8D0-907-557-B%2C-BOSCH-0261203554555%2C-0-261-203-554%2C-0-261-203-555/26720",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5F0C-814D3_20120719122854",
+    "sku": "5F0C-814D3_20120719122854",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 1.6 8D0907557B, 8D0 907 557 B, BOSCH 0261203554/555, 0 261 203 554, 0 261 203 555</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "1.6",
+      "YEAR": "1994-1996",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 554",
+      "CODE": "0 261 203 555",
+      "NUMBER PARTS": "8D0 907 557 B",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:56:12.174Z",
+    "model": "mistral:7b",
+    "durationMs": 11338,
+    "priceIncrement": 100
+  }
+}

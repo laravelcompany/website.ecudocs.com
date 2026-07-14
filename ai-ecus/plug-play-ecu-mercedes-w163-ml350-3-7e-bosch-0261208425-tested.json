@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Mercedes W163 ML350 3.7 E - OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w163-ml350-3-7e-bosch-0261208425-tested",
+  "metaDescription": "Expertly tested and OEM Bosch ECU Engine Controller for Mercedes W163 ML350 3.7 E. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€485.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W163 ML350 3.7 E",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W163 ML350",
+    "Bosch 0261208425",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Bosch ECU Engine Controller is a reliable replacement for your Mercedes W163 ML350 3.7 E, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>Expertly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES W163 ML350</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>3.7 E</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0261208425, 0 261 208 425</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1121535379</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W163 ML350 3.7 E. Fitment caution: Ensure correct ECU before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W163 3.7 350 ML BOSCH 0261208425, 0 261 208 425, A1121535379, A 112 153 53 79, 1121535379",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W163-3.7-350-ML-BOSCH-0261208425%2C-0-261-208-425%2C-A1121535379%2C-A-112-153-53-79%2C-1121535379-/13049",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6920-5410D",
+    "sku": "6920-5410D",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W163 3.7 350 ML BOSCH 0261208425, 0 261 208 425, A1121535379, A 112 153 53 79, 1121535379 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W163 ML350",
+      "ENGINE": "3.7 E",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0261208425, 0 261 208 425",
+      "NUMBER PARTS": "1121535379",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:02:34.356Z",
+    "model": "mistral:7b",
+    "durationMs": 14226,
+    "priceIncrement": 100
+  }
+}

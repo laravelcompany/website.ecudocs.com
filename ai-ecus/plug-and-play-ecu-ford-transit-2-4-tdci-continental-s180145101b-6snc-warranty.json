@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Transit 2.4 TDCI Continental S180145101B, 6SNC - ECU Replacement with Warranty",
+  "slug": "plug-and-play-ecu-ford-transit-2-4-tdci-continental-s180145101b-6snc-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Ford Transit 2.4 TDCI Continental S180145101B, 6SNC. Replacement ECU with 6-month warranty and fast dispatch.",
+  "price": "€1300.00",
+  "excerpt": "OEM tested Plug & Play ECU for Ford Transit 2.4 TDCI Continental S180145101B, 6SNC",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Transit",
+    "Continental S180145101B",
+    "6SNC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Ford Transit 2.4 TDCI Continental S180145101B, 6SNC is a reliable replacement solution, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD TRANSIT</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.4 TDCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2011</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>CONTINENTAL S180145101 B</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>6SNC</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD TRANSIT 2.4 TDCI CONTINENTAL S180145101 B, S180145101B, CC11-12A650-BC, CC1112A650BC, 6SNC, SID208",
+    "price": "€1,200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-TRANSIT-2.4-TDCI-CONTINENTAL-S180145101-B%2C-S180145101B%2C-CC11-12A650-BC%2C-CC1112A650BC%2C-6SNC%2C-SID208-/91339",
+    "priceCurrency": "EUR",
+    "netPrice": "€975.61",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "0CE7-112C9_20160517163240",
+    "sku": "0CE7-112C9_20160517163240",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD TRANSIT 2.4 TDCI CONTINENTAL S180145101 B, S180145101B, CC11-12A650-BC, CC1112A650BC, 6SNC, SID208 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_fa7b4947fecc4824ca94cabcc82498d3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_412f67aa4cd5df0f51d8a1923cecc565_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD TRANSIT",
+      "ENGINE": "2.4 TDCI",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "CONTINENTAL S180145101 B",
+      "NUMBER PARTS": "6SNC",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:04:03.898Z",
+    "model": "mistral:7b",
+    "durationMs": 12439,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Plug & Play ECU Replacement for Honda Civic 1.5 - Oryginal 37820-P04-G00, APR - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-honda-civic-1-5-oryginal-37820p04g00-apr-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Honda Civic 1.5 (37820-P04-G00, APR) - Oryginal, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Honda Civic 1.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Civic",
+    "Oryginal",
+    "37820-P04-G00",
+    "APR"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Honda Civic 1.5 (37820-P04-G00, APR) is an OEM tested and reliable replacement part, backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play for easy installation</li>\n<li>OEM Tested for guaranteed fitment</li>\n<li>6-month Warranty for peace of mind</li>\n<li>Used in good condition</li>\n<li>Ready for programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>PARTS</td>\n<td>ECU ENGINE CONTROLLER</td>\n</tr>\n<tr>\n<td>BRAND AND MODEL</td>\n<td>HONDA CIVIC</td>\n</tr>\n<tr>\n<td>ENGINE</td>\n<td>1.5</td>\n</tr>\n<tr>\n<td>YEAR</td>\n<td>1991</td>\n</tr>\n<tr>\n<td>NUMBER MANUFACTURER</td>\n<td>37820-P04-G00</td>\n</tr>\n<tr>\n<td>CODE</td>\n<td>APR</td>\n</tr>\n<tr>\n<td>NUMBER PARTS</td>\n<td>270-107343</td>\n</tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Honda Civic 1.5 (37820-P04-G00). Fitment caution: Ensure correct ECU for your vehicle model and year.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA CIVIC 1.5 37820-P04-G00, 37820P04G00, 270-107343, 270107343, APR",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-CIVIC-1.5-37820-P04-G00%2C-37820P04G00%2C-270-107343%2C-270107343%2C-APR/40053",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "0BB8-955CA_20130817160935",
+    "sku": "0BB8-955CA_20130817160935",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA CIVIC 1.5 37820-P04-G00, 37820P04G00, 270-107343, 270107343, APR</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_ed8fb5b7235d237f857fbf7cf533c6f9_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_76579f4568faf4da78091db5b44dee0d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA CIVIC",
+      "ENGINE": "1.5",
+      "YEAR": "1991",
+      "NUMBER MANUFACTURER": "37820-P04-G00",
+      "CODE": "APR",
+      "NUMBER PARTS": "270-107343",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:18:27.001Z",
+    "model": "mistral:7b",
+    "durationMs": 11961,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Bosch 0 261 208 902, 96 645 380 80 for Citroen Peugeot - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-oem-tested-bosch-0-261-208-902-96-645-380-80-for-citro",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller replacement for your Citroen Peugeot, tested and covered by a 6-month warranty. Order now for fast EU shipping.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen Peugeot",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 261 208 902",
+    "Citroen Peugeot",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a tested and reliable replacement for your Citroen Peugeot, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Shipping</li>\n        <li>Expertly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN PEUGEOT</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 208 902</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>96 645 380 80</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">EU Shipping within 24–48 hours. 12-month warranty included.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with Citroen Peugeot models only. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT BOSCH 0 261 208 902, 0261208902, 96 645 380 80, 9664538080",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-BOSCH-0-261-208-902%2C-0261208902%2C-96-645-380-80%2C-9664538080/109974",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B95B-787D1_20180521134421",
+    "sku": "B95B-787D1_20180521134421",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT BOSCH 0 261 208 902, 0261208902, 96 645 380 80, 9664538080</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 208 902",
+      "NUMBER PARTS": "96 645 380 80",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:23:57.476Z",
+    "model": "mistral:7b",
+    "durationMs": 13128,
+    "priceIncrement": 100
+  }
+}

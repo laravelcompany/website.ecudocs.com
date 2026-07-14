@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Ford Focus 2.0 TDCI Siemens VDO 5WS40602A-T - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-focus-20-tdci-siemens-vdo-5ws40602a-t-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Focus 2.0 TDCI Siemens VDO 5WS40602A-T, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM tested Plug & Play ECU replacement for Ford Focus 2.0 TDCI Siemens VDO 5WS40602A-T",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Siemens VDO",
+    "2.0 TDCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Focus 2.0 TDCI is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Expertly Inspected and Tested</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD FOCUS</td></tr>\n<tr><td>ENGINE</td><td>2.0 TDCI</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>SIEMENS VDO 5WS40602A-T</td></tr>\n<tr><td>NUMBER PARTS</td><td>6ESA</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Focus 2.0 TDCI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 2.0 TDCI SIEMENS VDO 5WS40602A-T, 5WS40602AT, FoMoCo 6M51-12A650-AHA, 6M5112A650AHA, 6ESA, SID803A",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-2.0-TDCI-SIEMENS-VDO-5WS40602A-T%2C-5WS40602AT%2C-FoMoCo-6M51-12A650-AHA%2C-6M5112A650AHA%2C-6ESA%2C-SID803A-/103549",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "0EE8-465D6_20170227155732",
+    "sku": "0EE8-465D6_20170227155732",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 2.0 TDCI SIEMENS VDO 5WS40602A-T, 5WS40602AT, FoMoCo 6M51-12A650-AHA, 6M5112A650AHA, 6ESA, SID803A </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "2.0 TDCI",
+      "NUMBER MANUFACTURER": "SIEMENS VDO 5WS40602A-T",
+      "NUMBER PARTS": "6ESA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:03:07.947Z",
+    "model": "mistral:7b",
+    "durationMs": 10949,
+    "priceIncrement": 100
+  }
+}

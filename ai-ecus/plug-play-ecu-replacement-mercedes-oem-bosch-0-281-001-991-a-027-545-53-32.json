@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes OEM Bosch 0 281 001 991, A 027 545 53 32 - Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-mercedes-oem-bosch-0-281-001-991-a-027-545-53-32",
+  "metaDescription": "OEM Tested ECU Replacement for Mercedes Bosch 0 281 001 991, A 027 545 53 32. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested ECU Replacement for Mercedes Bosch 0 281 001 991, A 027 545 53 32.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes",
+    "Bosch",
+    "0 281 001 991",
+    "A 027 545 53 32"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Mercedes Bosch 0 281 001 991, A 027 545 53 32 is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Parts</th>\n                <th>Brand and Model</th>\n                <th>Number Manufacturer</th>\n                <th>Number Parts</th>\n                <th>Option Available</th>\n                <th>Warranty</th>\n                <th>Inspection</th>\n                <th>Condition</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>ECU ENGINE CONTROLLER</td>\n                <td>MERCEDES</td>\n                <td>BOSCH 0 281 001 991</td>\n                <td>A 027 545 53 32</td>\n                <td>LOCKED / UNLOCKED</td>\n                <td>6-month warranty</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch (EU). 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES BOSCH 0 281 001 991, 0281001991, A 027 545 53 32, A0275455332, CR1.2",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-BOSCH-0-281-001-991%2C-0281001991%2C-A-027-545-53-32%2C-A0275455332%2C-CR1.2-/86094",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "94BA-43754_20160212120931",
+    "sku": "94BA-43754_20160212120931",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES BOSCH 0 281 001 991, 0281001991, A 027 545 53 32, A0275455332, CR1.2 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 991",
+      "NUMBER PARTS": "A 027 545 53 32",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:35:17.197Z",
+    "model": "mistral:7b",
+    "durationMs": 12198,
+    "priceIncrement": 100
+  }
+}

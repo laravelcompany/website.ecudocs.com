@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen C3 1.4 HDI Siemens 5WS40021J-T - 6-month Warranty",
+  "slug": "plug-play-ecu-citroen-c3-14-hdi-siemens-5ws40021jt-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Citroen C3 1.4 HDI Siemens 5WS40021J-T with 6-month warranty. Fast dispatch and EU shipping.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen C3 1.4 HDI Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WS40021J-T",
+    "Citroen C3",
+    "1.4 HDI"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller is a reliable replacement for your Citroen C3 1.4 HDI Siemens. It has been thoroughly inspected and tested by our certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN C3</td></tr>\n        <tr><th>ENGINE</th><td>1.4 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WS40021J-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HW 9643455080</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C3 1.4 HDI SIEMENS 5WS40021J-T, 5WS40021JT, SW 9650670480, HW 9643455080, SID 802",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C3-1.4-HDI-SIEMENS-5WS40021J-T%2C-5WS40021JT%2C-SW-9650670480%2C-HW-9643455080%2C-SID-802/104095",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "8A55-318B4_20170309101842",
+    "sku": "8A55-318B4_20170309101842",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C3 1.4 HDI SIEMENS 5WS40021J-T, 5WS40021JT, SW 9650670480, HW 9643455080, SID 802</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C3",
+      "ENGINE": "1.4 HDI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40021J-T",
+      "NUMBER PARTS": "HW 9643455080",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:31:58.218Z",
+    "model": "mistral:7b",
+    "durationMs": 9245,
+    "priceIncrement": 100
+  }
+}

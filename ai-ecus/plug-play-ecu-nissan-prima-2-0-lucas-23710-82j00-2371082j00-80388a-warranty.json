@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller - NISSAN PRIMERA 2.0 - Lucas 23710-82J00, 2371082J00, 80388A - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-prima-2-0-lucas-23710-82j00-2371082j00-80388a-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for NISSAN PRIMERA 2.0 by Lucas (23710-82J00, 2371082J00, 80388A). Shipped within 24–48 hours with a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for NISSAN PRIMERA 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lucas",
+    "NISSAN PRIMERA",
+    "2.0"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for NISSAN PRIMERA 2.0 by Lucas (23710-82J00, 2371082J00, 80388A) is a reliable replacement part.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th></th>\n                <th>PARTS</th>\n                <th>BRAND AND MODEL</th>\n                <th>ENGINE</th>\n                <th>YEAR</th>\n                <th>NUMBER MANUFACTURER</th>\n                <th>NUMBER PARTS</th>\n                <th>WARRANTY :</th>\n                <th>INSPECTION:</th>\n                <th>CONDITION</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td></td>\n                <td>ECU ENGINE CONTROLLER</td>\n                <td>NISSAN PRIMERA</td>\n                <td>2.0</td>\n                <td>1990-1996</td>\n                <td>23710-82J00</td>\n                <td>80388A</td>\n                <td>6-month warranty</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with NISSAN PRIMERA 2.0 (1990-1996).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 23710-82J00, 2371082J00, 80388A",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-2.0-23710-82J00%2C-2371082J00%2C-80388A-/49150",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "D86D-9748C",
+    "sku": "D86D-9748C",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 23710-82J00, 2371082J00, 80388A </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "2.0",
+      "YEAR": "1990-1996",
+      "NUMBER MANUFACTURER": "23710-82J00",
+      "NUMBER PARTS": "80388A",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:33:31.569Z",
+    "model": "mistral:7b",
+    "durationMs": 13257,
+    "priceIncrement": 100
+  }
+}

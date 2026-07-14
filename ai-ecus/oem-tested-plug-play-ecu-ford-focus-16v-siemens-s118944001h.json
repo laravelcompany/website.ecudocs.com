@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Focus 1.6 16V Siemens S118944001H - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-ford-focus-16v-siemens-s118944001h",
+  "metaDescription": "Expertly tested and OEM replacement ECU Engine Controller for Ford Focus 1.6 16V by Siemens, with 6-month warranty and fast dispatch.",
+  "price": "€135.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Focus 1.6 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Siemens",
+    "1.6 16V"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Ford Focus 1.6 16V by Siemens is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch (EU)</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD FOCUS</td></tr>\n<tr><td>ENGINE</td><td>1.6 16V</td></tr>\n<tr><td>YEAR</td><td>2005</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>SIEMENS S118944001 H</td></tr>\n<tr><td>NUMBER PARTS</td><td>8AZG</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure this ECU is compatible with your vehicle's specific model year before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.6 16V SIEMENS S118944001 H, S118944001H, FoMoCo 5M51-12A650-HG, 5M5112A650HG, 8AZG",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.6-16V-SIEMENS-S118944001-H%2C-S118944001H%2C-FoMoCo-5M51-12A650-HG%2C-5M5112A650HG%2C-8AZG-/83707",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "A6B9-292CB_20151228165026",
+    "sku": "A6B9-292CB_20151228165026",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.6 16V SIEMENS S118944001 H, S118944001H, FoMoCo 5M51-12A650-HG, 5M5112A650HG, 8AZG </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_bf8cb9b37516e6a8d6decba1065df7dc_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4c60f4f444de8566d47f92f9df685aac_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.6 16V",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "SIEMENS S118944001 H",
+      "NUMBER PARTS": "8AZG",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:43:56.230Z",
+    "model": "mistral:7b",
+    "durationMs": 11133,
+    "priceIncrement": 100
+  }
+}

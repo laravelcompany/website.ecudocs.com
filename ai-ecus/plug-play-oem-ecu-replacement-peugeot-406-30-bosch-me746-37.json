@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM ECU Replacement - PEUGEOT 406 3.0 BOSCH ME7.4.6 37",
+  "slug": "plug-play-oem-ecu-replacement-peugeot-406-30-bosch-me746-37",
+  "metaDescription": "Buy a tested and certified Plug & Play OEM ECU Replacement for your PEUGEOT 406 3.0. Covered by a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for PEUGEOT 406 3.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 406",
+    "BOSCH ME7.4.6 37"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Replacement for your PEUGEOT 406 3.0 is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Fast Dispatch</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on your vehicle's condition and history. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 406 3.0 9638855480 BOSCH 0261206740 ME7.4.6 37",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-406-3.0-9638855480-BOSCH-0261206740-ME7.4.6-37-/16500",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1795-707C4",
+    "sku": "1795-707C4",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 406 3.0 9638855480 BOSCH 0261206740 ME7.4.6 37 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 406",
+      "ENGINE": "3.0",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 740",
+      "NUMBER PARTS": "ME7.4.6 37",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:18:05.105Z",
+    "model": "mistral:7b",
+    "durationMs": 6459,
+    "priceIncrement": 100
+  }
+}

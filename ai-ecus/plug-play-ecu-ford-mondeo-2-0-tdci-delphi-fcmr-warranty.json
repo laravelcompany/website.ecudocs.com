@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford Mondeo 2.0 TDCI Delphi FCMR - Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-2-0-tdci-delphi-fcmr-warranty",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Ford Mondeo 2.0 TDCI Delphi FCMR, backed by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Mondeo 2.0 TDCI Delphi FCMR",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.0 TDCI",
+    "Delphi",
+    "FCMR"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Ford Mondeo 2.0 TDCI Delphi FCMR is a reliable solution to your engine control unit problems.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked/Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 TDCI</td></tr>\n        <tr><th>YEAR:</th><td>2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>Delphi 280036931</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>FCMR</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific issues. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI Delphi 280036931, 5S71-12A650-LA, 5S7112A650LA, 12A650LA, R0411C042A, E2U9A, FCMR",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-TDCI-Delphi-280036931%2C-5S71-12A650-LA%2C-5S7112A650LA%2C-12A650LA%2C-R0411C042A%2C-E2U9A%2C-FCMR/35664",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "50A4-4068C_20130528073525",
+    "sku": "50A4-4068C_20130528073525",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI Delphi 280036931, 5S71-12A650-LA, 5S7112A650LA, 12A650LA, R0411C042A, E2U9A, FCMR</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "Delphi 280036931",
+      "NUMBER PARTS": "FCMR",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:43:13.401Z",
+    "model": "mistral:7b",
+    "durationMs": 10764,
+    "priceIncrement": 100
+  }
+}

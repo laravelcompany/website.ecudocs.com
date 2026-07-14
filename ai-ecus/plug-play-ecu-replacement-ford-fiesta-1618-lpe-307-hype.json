@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Fiesta 1.6/1.8 - OEM Tested, Warranty Included - LPE-307 HYPE",
+  "slug": "plug-play-ecu-replacement-ford-fiesta-1618-lpe-307-hype",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for your Ford Fiesta 1.6/1.8 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Fiesta 1.6/1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Visteon",
+    "LPE-307 HYPE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is a reliable solution for your Ford Fiesta 1.6/1.8.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Compatible with Ford Fiesta 1.6/1.8</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FIESTA</td></tr>\n        <tr><th>ENGINE</th><td>1.6/1.8</td></tr>\n        <tr><th>YEAR</th><td>1998</td></tr>\n        <tr><th>NUMBER PARTS</th><td>LPE-307 HYPE</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult with a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.6/1.8, 97FB-12A650-ASC, 97FB12A650ASC, LPE-307 HYPE",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.61.8%2C-97FB-12A650-ASC%2C-97FB12A650ASC%2C-LPE-307-HYPE-/51876",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "429B-35767_20140227121004",
+    "sku": "429B-35767_20140227121004",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.6/1.8, 97FB-12A650-ASC, 97FB12A650ASC, LPE-307 HYPE </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_05aa667771e4e47cca2a53a04594e54d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_88bbe15ad98edd55a39e8869a75e1a08_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.6/1.8",
+      "YEAR": "1998",
+      "NUMBER PARTS": "LPE-307 HYPE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:33:50.429Z",
+    "model": "mistral:7b",
+    "durationMs": 10403,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Skoda Fabia 1.2 AZQ - Siemens 5WP40120 07, Benzin Simos 3PE 4672",
+  "slug": "plug-play-ecu-skoda-fabia-12-azq-siemens-5wp40120-benzin-simos-3pe-4672",
+  "metaDescription": "Expertly tested and OEM ECU replacement for Skoda Fabia 1.2 AZQ, featuring Plug & Play functionality. 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€109.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Skoda Fabia 1.2 AZQ",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WP40120",
+    "Skoda Fabia",
+    "Benzin Simos 3PE 4672"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is specifically designed for Skoda Fabia 1.2 AZQ engines, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play Functionality</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch (EU)</li>\n<li>12-month Warranty</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specifications</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>SKODA FABIA</td></tr>\n<tr><td>ENGINE</td><td>1.2 AZQ</td></tr>\n<tr><td>YEAR</td><td>2003</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>SIEMENS 5WP40120</td></tr>\n<tr><td>NUMBER PARTS</td><td>SIMOS 3PE 4672</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch (EU). 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Compatibility may vary based on vehicle condition and usage history.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FABIA 1.2 AZQ 03E906033A, 03E 906 033 A, SIEMENS 5WP40120 07, BENZIN SIMOS 3PE 4672",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FABIA-1.2-AZQ-03E906033A%2C-03E-906-033-A%2C-SIEMENS-5WP40120-07%2C-BENZIN-SIMOS-3PE-4672/14176",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "ED5D-137B2",
+    "sku": "ED5D-137B2",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FABIA 1.2 AZQ 03E906033A, 03E 906 033 A, SIEMENS 5WP40120 07, BENZIN SIMOS 3PE 4672</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FABIA",
+      "ENGINE": "1.2 AZQ",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP40120",
+      "NUMBER PARTS": "SIMOS 3PE 4672",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:20:29.453Z",
+    "model": "mistral:7b",
+    "durationMs": 11813,
+    "priceIncrement": 100
+  }
+}

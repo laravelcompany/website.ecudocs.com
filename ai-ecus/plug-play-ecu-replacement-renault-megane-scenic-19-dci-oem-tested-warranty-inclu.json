@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Renault Megane Scenic 1.9 DCI - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-megane-scenic-19-dci-oem-tested-warranty-inclu",
+  "metaDescription": "Find the Plug & Play ECU Replacement for your Renault Megane Scenic 1.9 DCI, tested and covered by a 6-month warranty. Order today with fast EU shipping.",
+  "price": "€200.00",
+  "excerpt": "Plug & Play ECU replacement for Renault Megane Scenic 1.9 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane Scenic",
+    "1.9 DCI",
+    "Continental",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Renault Megane Scenic 1.9 DCI ensures optimal engine performance and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>Locked or ready for programming options</li>\n        <li>Used original in good condition</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>6-month warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT MEGANE SCENIC</td></tr>\n        <tr><th>ENGINE</th><td>1.9 DCI</td></tr>\n        <tr><th>YEAR</th><td>2012</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>S180067107 A</td></tr>\n        <tr><th>NUMBER PARTS</th><td>237100345R</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Fast EU shipping and 12-month warranty included.</section>\n<section class=\"compatibility\">Please verify compatibility with your specific vehicle model before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE SCENIC 1.9 DCI S180067107 A, S180067107A, 237100345R",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-SCENIC-1.9-DCI-S180067107-A%2C-S180067107A%2C-237100345R/94847",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "150A-819A4_20160823120228",
+    "sku": "150A-819A4_20160823120228",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE SCENIC 1.9 DCI S180067107 A, S180067107A, 237100345R</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE SCENIC",
+      "ENGINE": "1.9 DCI",
+      "YEAR": "2012",
+      "NUMBER MANUFACTURER": "S180067107 A",
+      "NUMBER PARTS": "237100345R",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:58:24.761Z",
+    "model": "mistral:7b",
+    "durationMs": 9000,
+    "priceIncrement": 100
+  }
+}

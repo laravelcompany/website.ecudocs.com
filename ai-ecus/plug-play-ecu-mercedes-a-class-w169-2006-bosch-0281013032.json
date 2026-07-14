@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes A-Class (W169) 2006 BOSCH 0281013032",
+  "slug": "plug-play-ecu-mercedes-a-class-w169-2006-bosch-0281013032",
+  "metaDescription": "OEM Tested ECU Engine Controller for Mercedes A-Class (W169) 2006, Plug & Play. 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes A-Class (W169) 2006",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes A-Class W169",
+    "BOSCH 0281013032"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller is a direct replacement for your Mercedes A-Class (W169) 2006. Restore optimal vehicle performance with this expertly inspected and tested part.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES</td></tr>\n        <tr><th>YEAR</th><td>2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281013032, 0 281 013 032</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6401508279</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Fast dispatch within EU. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes A-Class (W169) 2006. Always ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES A6401508279, 6401508279, A 640 150 82 79 BOSCH 0281013032, 0 281 013 032",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-A6401508279%2C-6401508279%2C-A-640-150-82-79-BOSCH-0281013032%2C-0-281-013-032/27119",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "85B3-4563F_20120730200348",
+    "sku": "85B3-4563F_20120730200348",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES A6401508279, 6401508279, A 640 150 82 79 BOSCH 0281013032, 0 281 013 032</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0281013032, 0 281 013 032",
+      "NUMBER PARTS": "6401508279",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:12:30.857Z",
+    "model": "mistral:7b",
+    "durationMs": 9443,
+    "priceIncrement": 100
+  }
+}

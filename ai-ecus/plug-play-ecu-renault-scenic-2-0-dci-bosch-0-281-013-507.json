@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Scenic 2.0 DCI Bosch 0 281 013 507, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-renault-scenic-2-0-dci-bosch-0-281-013-507",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Renault Scenic 2.0 DCI, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Scenic 2.0 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Scenic 2.0 DCI",
+    "Bosch 0 281 013 507"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Renault Scenic 2.0 DCI is tested and guaranteed to provide seamless replacement for your vehicle's engine control unit.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Expertly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>RENAULT SCENIC</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 DCI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 013 507</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8200688457</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT SCENIC 2.0 DCI BOSCH 0 281 013 507, 0281013507, 8200688494, 8200688457",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-SCENIC-2.0-DCI-BOSCH-0-281-013-507%2C-0281013507%2C-8200688494%2C-8200688457-/84186",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0776-96713_20160111113132",
+    "sku": "0776-96713_20160111113132",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT SCENIC 2.0 DCI BOSCH 0 281 013 507, 0281013507, 8200688494, 8200688457 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_97a2b5b2339aa445a33e7280fc6cebe7_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4ce1fe8ad3a978b36c6396f8e589c4f1_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT SCENIC",
+      "ENGINE": "2.0 DCI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 507",
+      "NUMBER PARTS": "8200688457",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:11:07.818Z",
+    "model": "mistral:7b",
+    "durationMs": 12760,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.6, GURU - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-fiesta-1-6-guru-oem-tested-warranty",
+  "metaDescription": "Buy the OEM tested Plug & Play ECU Replacement for Ford Fiesta 1.6, GURU with a 6-month warranty. Fast dispatch in EU.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.6, GURU",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "1.6 Engine",
+    "Visteon",
+    "GURU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Ford Fiesta 1.6, GURU is a reliable solution to your engine control unit issues. Restore optimal performance with our expertly refurbished part.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FIESTA</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>YEAR</th><td>1994-1998</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>94AB-12A650-GB</td></tr>\n        <tr><th>NUMBER PARTS</th><td>GURU</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta 1.6 (1994-1998). Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.6, 94AB-12A650-GB, 94AB12A650GB, GURU",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.6%2C-94AB-12A650-GB%2C-94AB12A650GB%2C-GURU-/46599",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "738D-87558",
+    "sku": "738D-87558",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.6, 94AB-12A650-GB, 94AB12A650GB, GURU </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_45bfec5275d5771a3bff5c75157ae5c8_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_cdb57e667f985b62be017f4894b22205_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4aa2330b91beb4d6d5308c86d9ef60c9_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.6",
+      "YEAR": "1994-1998",
+      "NUMBER MANUFACTURER": "94AB-12A650-GB",
+      "NUMBER PARTS": "GURU",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:33:28.431Z",
+    "model": "mistral:7b",
+    "durationMs": 9352,
+    "priceIncrement": 100
+  }
+}

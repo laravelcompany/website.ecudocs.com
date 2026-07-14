@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat IAW 5SF8.NS, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-iaw-5sf8ns-oem-tested-warranty",
+  "metaDescription": "Expertly tested and guaranteed ECU Engine Controller for Fiat IAW 5SF8.NS. Plug & Play, OEM Original in good condition with a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat IAW 5SF8.NS",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat IAW 5SF8.NS",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and guaranteed ECU Engine Controller for Fiat IAW 5SF8.NS offers a reliable solution to your engine control unit issues.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM Original in good condition</li><li>6-month warranty</li><li>Thoroughly inspected and tested by a certified technician</li><li>Used but in excellent working order</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FIAT</td><td>IAW 5SF8.NS</td><td>51918335</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on your vehicle's specific configuration. Please verify fitment before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT IAW 5SF8.NS, IAW5SF8NS, IAW5SF8, 51918335",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-IAW-5SF8.NS%2C-IAW5SF8NS%2C-IAW5SF8%2C-51918335/115261",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "BF9E-57210_20190724162920",
+    "sku": "BF9E-57210_20190724162920",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT IAW 5SF8.NS, IAW5SF8NS, IAW5SF8, 51918335</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT",
+      "NUMBER MANUFACTURER": "IAW 5SF8.NS",
+      "NUMBER PARTS": "51918335",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:56:05.105Z",
+    "model": "mistral:7b",
+    "durationMs": 8685,
+    "priceIncrement": 100
+  }
+}

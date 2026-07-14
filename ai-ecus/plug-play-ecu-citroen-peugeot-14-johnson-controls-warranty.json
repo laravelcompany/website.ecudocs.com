@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen Peugeot 1.4 Johnson Controls - 6-month Warranty",
+  "slug": "plug-play-ecu-citroen-peugeot-14-johnson-controls-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Citroen Peugeot 1.4 by Johnson Controls, used in good condition, 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen Peugeot 1.4",
+  "tags": [
+    "ECU replacement",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "Johnson Controls",
+    "1.4 engine",
+    "used in good condition"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Citroen Peugeot 1.4 by Johnson Controls is a reliable replacement, ensuring optimal vehicle performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY</th><th>INSPECTION</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>CITROEN PEUGEOT</td><td>1.4</td><td>Johnson Controls 21585598-3 A0</td><td>HW 9651696680</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.4 Johnson Controls 21585598-3 A0, 215855983A0, 215855983, SW9660374680, HW9651696680",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-1.4-Johnson-Controls-21585598-3-A0%2C-215855983A0%2C-215855983%2C-SW9660374680%2C-HW9651696680-/86977",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Johnson Controls",
+    "productCode": "7C3E-94975_20160225163813",
+    "sku": "7C3E-94975_20160225163813",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.4 Johnson Controls 21585598-3 A0, 215855983A0, 215855983, SW9660374680, HW9651696680 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_160a95fa3e3c96421ed455bd2772a236_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_267da0855e6e2030a7af636f7cab6503_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "Johnson Controls 21585598-3 A0",
+      "NUMBER PARTS": "HW 9651696680",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:54:02.698Z",
+    "model": "mistral:7b",
+    "durationMs": 9078,
+    "priceIncrement": 100
+  }
+}

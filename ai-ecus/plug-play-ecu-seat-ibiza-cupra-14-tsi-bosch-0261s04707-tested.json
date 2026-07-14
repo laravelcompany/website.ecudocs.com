@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Seat Ibiza Cupra 1.4 TSI - Bosch 0261S04707",
+  "slug": "plug-play-ecu-seat-ibiza-cupra-14-tsi-bosch-0261s04707-tested",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Seat Ibiza Cupra 1.4 TSI with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Seat Ibiza Cupra 1.4 TSI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0261S04707",
+    "Seat Ibiza Cupra",
+    "1.4 TSI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is suitable for Seat Ibiza Cupra 1.4 TSI and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Ready for programming</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SEAT IBIZA CUPRA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4 TSI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2009</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 S04 707</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1039S35736</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA CUPRA 1.4 TSI 03C906027AD, 03C 906 027 AD, BOSCH 0261S04707, 0 261 S04 707, BENZIN MED17.5.5 CAVD 5033, 1039S35736",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-CUPRA-1.4-TSI-03C906027AD%2C-03C-906-027-AD%2C-BOSCH-0261S04707%2C-0-261-S04-707%2C-BENZIN-MED17.5.5-CAVD-5033%2C-1039S35736/25065",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1BAF-63328_20120604175118",
+    "sku": "1BAF-63328_20120604175118",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA CUPRA 1.4 TSI 03C906027AD, 03C 906 027 AD, BOSCH 0261S04707, 0 261 S04 707, BENZIN MED17.5.5 CAVD 5033, 1039S35736</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA CUPRA",
+      "ENGINE": "1.4 TSI",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S04 707",
+      "NUMBER PARTS": "1039S35736",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:02:15.236Z",
+    "model": "mistral:7b",
+    "durationMs": 10951,
+    "priceIncrement": 100
+  }
+}

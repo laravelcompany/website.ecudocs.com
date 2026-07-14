@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Renault Megane 1.6 Sirius - Siemens S110138000C, Warranty Included",
+  "slug": "plug-play-ecu-renault-megane-16-sirius-siemens-s110138000c-warranty",
+  "metaDescription": "Expertly tested and Plug & Play ECU replacement for Renault Megane 1.6 Sirius by Siemens, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Renault Megane 1.6 Sirius",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane",
+    "1.6 Sirius",
+    "Siemens"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for Renault Megane 1.6 Sirius by Siemens ensures seamless vehicle operation with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>Expertly Inspected and Tested</li>\n        <li>Condition: Used Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT MEGANE</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8200044437</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE 1.6 SIRIUS 32N S110138000C, S110138000 C, 8200059086, 8200044437",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-1.6-SIRIUS-32N-S110138000C%2C-S110138000-C%2C-8200059086%2C-8200044437-/54474",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "53C8-83259_20140423181553",
+    "sku": "53C8-83259_20140423181553",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  RENAULT MEGANE 1.6 SIRIUS 32N S110138000C, S110138000 C, 8200059086, 8200044437 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_3fb99988569284efaa52a1c80bfe0c5b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_445ef5ff26a4297246b5fe3048f4e2ea_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_569cb9aba0b61c7a35a46b6b4bc62263_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1c4d87602afcca821788de14c32b2b57_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE",
+      "ENGINE": "1.6",
+      "NUMBER PARTS": "8200044437",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:18:31.205Z",
+    "model": "mistral:7b",
+    "durationMs": 9852,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Vectra Signum 1.9 CDTI - Bosch 0 281 011 915, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-vectra-signum-19-cdti-bosch-0281011915-tested",
+  "metaDescription": "Find your Plug & Play ECU replacement for Opel Vectra Signum 1.9 CDTI, OEM tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Vectra Signum 1.9 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra Signum",
+    "1.9 CDTI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for Opel Vectra Signum 1.9 CDTI is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM tested and inspected</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL VECTRA SIGNUM</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 CDTI Z19DTH</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2004</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 011 915</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>FGP 55 193 967 YY</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA SIGNUM 1.9 CDTI BOSCH 0 281 011 915, 0281011915, FGP 55 193 967 YY, 55193967 YY, 55193967 YY",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-SIGNUM-1.9-CDTI-BOSCH-0-281-011-915%2C-0281011915%2C-FGP-55-193-967-YY%2C-55193967-YY%2C-55193967-YY/17100",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1222-25218",
+    "sku": "1222-25218",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA SIGNUM 1.9 CDTI BOSCH 0 281 011 915, 0281011915, FGP 55 193 967 YY, 55193967 YY, 55193967 YY</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VECTRA SIGNUM",
+      "ENGINE": "1.9 CDTI Z19DTH",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 915",
+      "NUMBER PARTS": "FGP 55 193 967 YY",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:26:48.074Z",
+    "model": "mistral:7b",
+    "durationMs": 13641,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Seat Volkswagen 1.9 SDI - Bosch 0 281 010 007, 038 906 013 AN - Warranty",
+  "slug": "plug-play-ecu-seat-volkswagen-19-sdi-bosch-oem-tested",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Seat Volkswagen 1.9 SDI - Bosch 0 281 010 007, 038 906 013 AN. Shipped within 24–48 hours with a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Seat Volkswagen 1.9 SDI - Bosch 0 281 010 007, 038 906 013 AN",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Volkswagen 1.9 SDI",
+    "Bosch 0 281 010 007",
+    "038 906 013 AN"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement for Seat Volkswagen 1.9 SDI is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SEAT VOLKSWAGEN</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 SDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 010 007</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>038 906 013 AN</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours with a 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT VOLKSWAGEN 1.9 SDI BOSCH 0 281 010 007, 0281010007, 038 906 013 AN, 038906013AN",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-VOLKSWAGEN-1.9-SDI-BOSCH-0-281-010-007%2C-0281010007%2C-038-906-013-AN%2C-038906013AN-/76848",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5EAA-562AA_20150717161050",
+    "sku": "5EAA-562AA_20150717161050",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT VOLKSWAGEN 1.9 SDI BOSCH 0 281 010 007, 0281010007, 038 906 013 AN, 038906013AN </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4cd745d734dba846f6691fbca39736c5_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_78227b80b79af1b1e04d2b2c77820890_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT VOLKSWAGEN",
+      "ENGINE": "1.9 SDI",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 007",
+      "NUMBER PARTS": "038 906 013 AN",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:15:30.170Z",
+    "model": "mistral:7b",
+    "durationMs": 12365,
+    "priceIncrement": 100
+  }
+}

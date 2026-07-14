@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW X1 BOSCH 0 281 031 001, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-bmw-x1-bosch-0281031001-tested",
+  "metaDescription": "Expertly tested ECU replacement for BMW X1 BOSCH 0 281 031 001. Plug & Play, OEM quality, and backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW X1 BOSCH 0 281 031 001",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW X1",
+    "BOSCH 0 281 031 001"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for BMW X1 BOSCH 0 281 031 001 is a reliable solution, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>PARTS</td>\n<td>ECU ENGINE CONTROLLER</td>\n</tr>\n<tr>\n<td>BRAND AND MODEL</td>\n<td>BMW X1</td>\n</tr>\n<tr>\n<td>NUMBER MANUFACTURER</td>\n<td>BOSCH 0 281 031 001</td>\n</tr>\n<tr>\n<td>NUMBER PARTS</td>\n<td>DDE 8580 307</td>\n</tr>\n<tr>\n<td>OPTION AVAILABLE</td>\n<td>Plug & Play / Locked / Ready for programming</td>\n</tr>\n<tr>\n<td>WARRANTY :</td>\n<td>6-month warranty</td>\n</tr>\n<tr>\n<td>INSPECTION:</td>\n<td>Device thoroughly inspected and tested by a certified technician</td>\n</tr>\n<tr>\n<td>CONDITION</td>\n<td>USED ORYGINAL IN GOOD CONDITION</td>\n</tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with BMW X1, but professional installation recommended for optimal results.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW X1 BOSCH 0 281 031 001, 0281031001, DDE 8580 307, DDE8580307, 8580307",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-X1-BOSCH-0-281-031-001%2C-0281031001%2C-DDE-8580-307%2C-DDE8580307%2C-8580307/112344",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "ABCE-649CE_20190305154930",
+    "sku": "ABCE-649CE_20190305154930",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW X1 BOSCH 0 281 031 001, 0281031001, DDE 8580 307, DDE8580307, 8580307</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_225952_0_0/ECU-ENGINE-CONTROLLER-BMW-X1-BOSCH-0-281-031-001%2C-0281031001%2C-DDE-8580-307%2C-DDE8580307%2C-8580307.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_225953_0_0/ECU-ENGINE-CONTROLLER-BMW-X1-BOSCH-0-281-031-001%2C-0281031001%2C-DDE-8580-307%2C-DDE8580307%2C-8580307.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW X1",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 031 001",
+      "NUMBER PARTS": "DDE 8580 307",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:50:03.786Z",
+    "model": "mistral:7b",
+    "durationMs": 11598,
+    "priceIncrement": 100
+  }
+}

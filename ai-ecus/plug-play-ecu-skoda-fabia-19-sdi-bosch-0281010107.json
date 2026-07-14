@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Skoda Fabia 1.9 SDI (OEM Tested, Warranty Included)",
+  "slug": "plug-play-ecu-skoda-fabia-19-sdi-bosch-0281010107",
+  "metaDescription": "Find your OEM tested Plug & Play ECU replacement for Skoda Fabia 1.9 SDI (BOSCH 0281010107). Covered by a 6-month warranty and ready for immediate dispatch.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU replacement for Skoda Fabia 1.9 SDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Fabia",
+    "BOSCH",
+    "1.9 SDI"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Skoda Fabia 1.9 SDI (BOSCH 0281010107) is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>Locked</li>\n<li>Ready for programming</li>\n<li>Used in good condition</li>\n<li>6-month warranty</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>SKODA FABIA</td></tr>\n<tr><td>ENGINE</td><td>1.9 SDI</td></tr>\n<tr><td>YEAR</td><td>2001</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 010 107</td></tr>\n<tr><td>NUMBER PARTS</td><td>28SA4486</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Skoda Fabia 1.9 SDI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FABIA 1.9 SDI 038906012AN BOSCH 0281010107, 0 281 010 107, 038 906 012 AN",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FABIA-1.9-SDI-038906012AN-BOSCH-0281010107%2C-0-281-010-107%2C-038-906-012-AN-/34274",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F815-78266_20121216155714",
+    "sku": "F815-78266_20121216155714",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FABIA 1.9 SDI 038906012AN BOSCH 0281010107, 0 281 010 107, 038 906 012 AN </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FABIA",
+      "ENGINE": "1.9 SDI",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 107",
+      "NUMBER PARTS": "28SA4486",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:25:34.767Z",
+    "model": "mistral:7b",
+    "durationMs": 9523,
+    "priceIncrement": 100
+  }
+}

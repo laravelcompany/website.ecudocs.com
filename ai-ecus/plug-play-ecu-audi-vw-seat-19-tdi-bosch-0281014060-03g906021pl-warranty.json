@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi VW Seat 1.9 TDI Bosch 0 281 014 060, 03G 906 021 PL - 6-month Warranty",
+  "slug": "plug-play-ecu-audi-vw-seat-19-tdi-bosch-0281014060-03g906021pl-warranty",
+  "metaDescription": "Expertly tested and OEM certified Plug & Play ECU Engine Controller for Audi VW Seat 1.9 TDI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi VW Seat 1.9 TDI",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "Audi VW Seat",
+    "1.9 TDI",
+    "Bosch",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Audi VW Seat 1.9 TDI is OEM tested and certified, ensuring seamless integration with your vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked/Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI VOLKSWAGEN SEAT</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 TDI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 014 060</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>03G 906 021 AN</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with Audi VW Seat 1.9 TDI models only. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI VW SEAT 1.9 TDI BOSCH 0 281 014 060, 0281014060, 03G 906 021 PL, 03G906021PL, 03G 906 021 AN, 03G906021AN",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-VW-SEAT-1.9-TDI-BOSCH-0-281-014-060%2C-0281014060%2C-03G-906-021-PL%2C-03G906021PL%2C-03G-906-021-AN%2C-03G906021AN-/76154",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A033-110B5_20150705004738",
+    "sku": "A033-110B5_20150705004738",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI VW SEAT 1.9 TDI BOSCH 0 281 014 060, 0281014060, 03G 906 021 PL, 03G906021PL, 03G 906 021 AN, 03G906021AN </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_3a0d3eede955498ca15f49b84e5218e3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d9f018ff349f9a8e6f8c9791adb91bfd_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI VOLKSWAGEN SEAT",
+      "ENGINE": "1.9 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 060",
+      "NUMBER PARTS": "03G 906 021 AN",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:00:56.852Z",
+    "model": "mistral:7b",
+    "durationMs": 13866,
+    "priceIncrement": 100
+  }
+}

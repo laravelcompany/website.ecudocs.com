@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Mazda CX5 SH13 18 881B, Used in Good Condition, 6-month Warranty",
+  "slug": "plug-play-ecu-mazda-cx5-sh13-18-881b-used-oem-tested-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Mazda CX5 SH13 18 881B, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€800.00",
+  "excerpt": "Plug & Play ECU Replacement for Mazda CX5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mazda CX5",
+    "SH13 18 881B",
+    "OEM Tested"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Mazda CX5 SH13 18 881B is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MAZDA CX5</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SH13 18 881B</td></tr>\n        <tr><th>NUMBER PARTS</th><td>275700-5617</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA CX5 SH13 18 881B, SH1318881B, 275700-5617, 2757005617",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-CX5-SH13-18-881B%2C-SH1318881B%2C-275700-5617%2C-2757005617/108845",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "BF96-495DE_20180201124610",
+    "sku": "BF96-495DE_20180201124610",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA CX5 SH13 18 881B, SH1318881B, 275700-5617, 2757005617</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_35192cdcc39a50b44275af9740ad765c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_8f4cdaca83eff44c9afe31b3d68023de_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA CX5",
+      "NUMBER MANUFACTURER": "SH13 18 881B",
+      "NUMBER PARTS": "275700-5617",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:59:35.390Z",
+    "model": "mistral:7b",
+    "durationMs": 10272,
+    "priceIncrement": 100
+  }
+}

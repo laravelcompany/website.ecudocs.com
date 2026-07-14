@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Fiat Tipo IAW 04N WF4N.07/8LH.DL with 6-month Warranty",
+  "slug": "plug-play-ecu-fiat-tipo-iaw-04n-wf4n078lhdl-tested",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Fiat Tipo IAW 04N, WF4N.07/8LH.DL. Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€135.00",
+  "excerpt": "OEM Tested Fiat Tipo ECU Engine Controller",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "Fiat Tipo",
+    "IAW 04N",
+    "WF4N.07/8LH.DL"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Tipo IAW 04N, WF4N.07/8LH.DL is a reliable replacement option with Plug & Play functionality.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch in EU</li>\n        <li>Reliable Replacement Option</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT TIPO</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1995</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>IAW 04N</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>WF4N.07/8LH.DL</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT TIPO IAW 04N, IAW04N, WF4N.07/8LH.DL",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-TIPO-IAW-04N%2C-IAW04N%2C-WF4N.078LH.DL-/46453",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "AA5B-527B2",
+    "sku": "AA5B-527B2",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT TIPO IAW 04N, IAW04N, WF4N.07/8LH.DL </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT TIPO",
+      "YEAR": "1995",
+      "NUMBER MANUFACTURER": "IAW 04N",
+      "NUMBER PARTS": "WF4N.07/8LH.DL",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:37:14.478Z",
+    "model": "mistral:7b",
+    "durationMs": 10391,
+    "priceIncrement": 100
+  }
+}

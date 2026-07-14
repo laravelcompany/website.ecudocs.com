@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Skoda Fabia 1.2 TDI Delphi 28281647, Warranty Included",
+  "slug": "plug-play-ecu-skoda-fabia-12-tdi-delphi-28281647-warranty",
+  "metaDescription": "OEM Tested Plug & Play ECU Replacement for Skoda Fabia 1.2 TDI Delphi 28281647, backed by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Skoda Fabia 1.2 TDI Delphi",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delphi 28281647",
+    "Skoda Fabia",
+    "1.2 TDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Skoda Fabia 1.2 TDI Delphi is a reliable solution for your engine control unit needs.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SKODA FABIA</td></tr>\n        <tr><th>ENGINE</th><td>1.2 TDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELPHI 28281647</td></tr>\n        <tr><th>NUMBER PARTS</th><td>03P 906 021 K</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on specific vehicle conditions and configurations. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FABIA 1.2 TDI DELPHI 28281647, 03P 906 021 K, 03P906021K, DCM3.7",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FABIA-1.2-TDI-DELPHI-28281647%2C-03P-906-021-K%2C-03P906021K%2C-DCM3.7-/99959",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "9A82-15720_20161201083133",
+    "sku": "9A82-15720_20161201083133",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FABIA 1.2 TDI DELPHI 28281647, 03P 906 021 K, 03P906021K, DCM3.7 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FABIA",
+      "ENGINE": "1.2 TDI",
+      "NUMBER MANUFACTURER": "DELPHI 28281647",
+      "NUMBER PARTS": "03P 906 021 K",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:21:06.303Z",
+    "model": "mistral:7b",
+    "durationMs": 10685,
+    "priceIncrement": 100
+  }
+}

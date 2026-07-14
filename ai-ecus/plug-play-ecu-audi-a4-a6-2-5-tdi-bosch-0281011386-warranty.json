@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A4 A6 2.5 TDI - Bosch 0281011386, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-a6-2-5-tdi-bosch-0281011386-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Audi A4 A6 2.5 TDI. This Bosch 0281011386 part is used in good condition, comes with a 6-month warranty, and ships within 24–48 hours.",
+  "price": "€275.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A4 A6 2.5 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4 A6",
+    "2.5 TDI",
+    "Bosch 0281011386"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Audi A4 A6 2.5 TDI is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Locked / Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>AUDI A4 A6</td></tr>\n<tr><th>ENGINE</th><td>2.5 TDI</td></tr>\n<tr><th>YEAR</th><td>2003</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 386</td></tr>\n<tr><th>NUMBER PARTS</th><td>DIESEL EDC15UM+ 0003</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A4 A6 2.5 TDI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 A6 2.5 TDI 8E0907401N, 8E0 907 401 N, BOSCH 0281011386, 0 281 011 386, DIESEL EDC15UM+ 0003 1039S01878",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-A6-2.5-TDI-8E0907401N%2C-8E0-907-401-N%2C-BOSCH-0281011386%2C-0-281-011-386%2C-DIESEL-EDC15UM-0003-1039S01878/25579",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "761F-106AE_20120608080339",
+    "sku": "761F-106AE_20120608080339",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 A6 2.5 TDI 8E0907401N, 8E0 907 401 N, BOSCH 0281011386, 0 281 011 386, DIESEL EDC15UM+ 0003 1039S01878</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4 A6",
+      "ENGINE": "2.5 TDI",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 386",
+      "NUMBER PARTS": "DIESEL EDC15UM+ 0003",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:18:01.487Z",
+    "model": "mistral:7b",
+    "durationMs": 10202,
+    "priceIncrement": 100
+  }
+}

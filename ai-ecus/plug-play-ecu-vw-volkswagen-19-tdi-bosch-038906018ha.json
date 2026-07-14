@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement VW Volkswagen 1.9 TDI - Bosch 038906018HA",
+  "slug": "plug-play-ecu-vw-volkswagen-19-tdi-bosch-038906018ha",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for VW Volkswagen 1.9 TDI by Bosch (038906018HA). Fast dispatch, 12-month warranty.",
+  "price": "€345.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for VW Volkswagen 1.9 TDI by Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "VW Volkswagen 1.9 TDI",
+    "Bosch 038906018HA"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement for VW Volkswagen 1.9 TDI by Bosch (038906018HA) ensures seamless engine control and is backed by a 12-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Compatible with VW Volkswagen 1.9 TDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>VW VOLKSWAGEN</td></tr>\n            <tr><td>ENGINE</td><td>1.9 TDI</td></tr>\n            <tr><td>NUMBER PARTS</td><td>038 906 018 HA</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with VW Volkswagen 1.9 TDI. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VW VOLKSWAGEN 1.9 TDI, BOSCH 0 281 010 243, 0281010243, 038 906 018 HA, 038906018HA",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VW-VOLKSWAGEN-1.9-TDI%2C-BOSCH-0-281-010-243%2C-0281010243%2C-038-906-018-HA%2C-038906018HA-/54557",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1A82-78650_20140424151210",
+    "sku": "1A82-78650_20140424151210",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  VW VOLKSWAGEN 1.9 TDI, BOSCH 0 281 010 243, 0281010243, 038 906 018 HA, 038906018HA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VW VOLKSWAGEN",
+      "ENGINE": "1.9 TDI",
+      "NUMBER PARTS": "038906018HA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:25:37.805Z",
+    "model": "mistral:7b",
+    "durationMs": 11353,
+    "priceIncrement": 100
+  }
+}

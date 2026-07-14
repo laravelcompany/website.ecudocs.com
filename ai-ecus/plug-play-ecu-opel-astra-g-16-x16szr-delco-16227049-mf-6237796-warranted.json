@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested ECU Replacement for Opel Astra G 1.6 X16SZR - Plug & Play, 6-month Warranty",
+  "slug": "plug-play-ecu-opel-astra-g-16-x16szr-delco-16227049-mf-6237796-warranted",
+  "metaDescription": "Buy OEM Tested ECU Engine Controller for Opel Astra G 1.6 X16SZR, Plug & Play, used in good condition, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested ECU Replacement for Opel Astra G 1.6 X16SZR",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delco",
+    "Opel Astra G",
+    "1.6 X16SZR"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for Opel Astra G 1.6 X16SZR is a reliable replacement, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play Compatibility</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Fast Dispatch within EU</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>OPEL CHEVROLET HOLDEN VAUXHALL ASTRA G</td></tr>\n<tr><td>ENGINE</td><td>1.6 X16SZR</td></tr>\n<tr><td>YEAR</td><td>1998-2000</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>16 227 049</td></tr>\n<tr><td>CODE</td><td>MF</td></tr>\n<tr><td>NUMBER PARTS</td><td>62 37 796</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Locked / Ready for programming / complet</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra G 1.6 X16SZR. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA G 1.6 X16SZR 16227049 MF 16246427 6237796",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-ASTRA-G-1.6-X16SZR-16227049-MF-16246427-6237796/9674",
+    "priceCurrency": "EUR",
+    "netPrice": "€100.00",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "9674",
+    "sku": "9674",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA G 1.6 X16SZR 16227049 MF 16246427 6237796</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL ASTRA G",
+      "ENGINE": "1.6 X16SZR",
+      "YEAR": "1998-2000",
+      "NUMBER MANUFACTURER": "16 227 049",
+      "CODE": "MF",
+      "NUMBER PARTS": "62 37 796",
+      "OPTION AVAILABLE": "Locked / Ready for programming / complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:31:55.294Z",
+    "model": "mistral:7b",
+    "durationMs": 12209,
+    "priceIncrement": 100
+  }
+}

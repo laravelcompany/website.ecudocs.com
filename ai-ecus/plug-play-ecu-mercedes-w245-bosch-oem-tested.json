@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes W245 OEM Bosch 0 281 013 559, A 640 150 12 91, CRA.43 - Oryginal Used in Good Condition",
+  "slug": "plug-play-ecu-mercedes-w245-bosch-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Mercedes W245, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W245",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W245",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Mercedes W245 is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-Month Warranty</li>\n        <li>Used Oryginal in Good Condition</li>\n        <li>Compatible with Mercedes W245</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES W245</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 013 559</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>CRA.43</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W245. Fitment caution may apply, please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W245 BOSCH 0 281 013 559, 0281013559, A 640 150 12 91, A6401501291, CRA.43",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W245-BOSCH-0-281-013-559%2C-0281013559%2C-A-640-150-12-91%2C-A6401501291%2C-CRA.43/105392",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "CA3A-39202_20170529162519",
+    "sku": "CA3A-39202_20170529162519",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W245 BOSCH 0 281 013 559, 0281013559, A 640 150 12 91, A6401501291, CRA.43</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a6fbefc5b837914a29441c71c5b98b20_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_fe28f3bcfb2dcce59dda6f78ac3bd8af_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W245",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 559",
+      "NUMBER PARTS": "CRA.43",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:40:45.870Z",
+    "model": "mistral:7b",
+    "durationMs": 10367,
+    "priceIncrement": 100
+  }
+}

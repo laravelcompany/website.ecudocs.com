@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW 3 Series M57 Engine Bosch 0 261 201 553, DME 7567 321 - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-bmw-3-series-m57-bosch-0261201553-dme7567321-tested",
+  "metaDescription": "OEM tested ECU engine controller for BMW 3 Series M57 engine Bosch 0 261 201 553, DME 7567 321. Plug & Play, warranty included.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW M57 engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW M57 engine",
+    "Bosch 0 261 201 553",
+    "DME 7567 321"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller is a reliable replacement for your BMW 3 Series M57 engine, Bosch 0 261 201 553, DME 7567 321. Trust our expertise and warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>BMW</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 201 553</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>DME 7567 321</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW BOSCH 0 261 201 553, 0261201553, DME 7567 321, DME7567321, 7567321",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-BOSCH-0-261-201-553%2C-0261201553%2C-DME-7567-321%2C-DME7567321%2C-7567321/116808",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B149-511F7_20191126150136",
+    "sku": "B149-511F7_20191126150136",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW BOSCH 0 261 201 553, 0261201553, DME 7567 321, DME7567321, 7567321</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 201 553",
+      "NUMBER PARTS": "DME 7567 321",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:15:40.633Z",
+    "model": "mistral:7b",
+    "durationMs": 11241,
+    "priceIncrement": 100
+  }
+}

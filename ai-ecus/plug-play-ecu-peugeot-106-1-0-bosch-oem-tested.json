@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - PEUGEOT 106 1.0 OEM Bosch 0 261 204 051, 96 249 361 80, MA3.0 86",
+  "slug": "plug-play-ecu-peugeot-106-1-0-bosch-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for PEUGEOT 106 1.0, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU replacement for PEUGEOT 106 1.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 106",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for PEUGEOT 106 1.0 offers Plug & Play functionality and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 106 1.0, BOSCH 0 261 204 051, 0261204051, 96 249 361 80, 9624936180, MA3.0 86",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-106-1.0%2C-BOSCH-0-261-204-051%2C-0261204051%2C-96-249-361-80%2C-9624936180%2C-MA3.0-86/124292",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DA95-387F4",
+    "sku": "DA95-387F4",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 106 1.0, BOSCH 0 261 204 051, 0261204051, 96 249 361 80, 9624936180, MA3.0 86</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 106",
+      "ENGINE": "1.0",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 051",
+      "NUMBER PARTS": "96 249 361 80",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:34:16.075Z",
+    "model": "mistral:7b",
+    "durationMs": 6370,
+    "priceIncrement": 100
+  }
+}

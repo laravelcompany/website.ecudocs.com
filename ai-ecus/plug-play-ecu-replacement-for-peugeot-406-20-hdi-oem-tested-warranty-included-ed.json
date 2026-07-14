@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for PEUGEOT 406 2.0 HDI - OEM Tested, Warranty Included (EDC15C2 65)",
+  "slug": "plug-play-ecu-replacement-for-peugeot-406-20-hdi-oem-tested-warranty-included-ed",
+  "metaDescription": "Buy a tested ECU Engine Controller for PEUGEOT 406 2.0 HDI from a certified technician, backed by a 6-month warranty and Plug & Play installation.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT 406 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 406",
+    "2.0 HDI",
+    "Bosch",
+    "EDC15C2 65"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for PEUGEOT 406 2.0 HDI ensures seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM Tested and Certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Compatible with PEUGEOT 406 2.0 HDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>PEUGEOT 406</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 HDI</td></tr>\n        <tr><th>YEAR:</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 590</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>EDC15C2 65</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with PEUGEOT 406 2.0 HDI. Fitment caution may apply. Consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 406 2.0 HDI BOSCH 0281010590, 0 281 010 590, 9643527480, 96 435 274 80, EDC15C2 65",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-406-2.0-HDI-BOSCH-0281010590%2C-0-281-010-590%2C-9643527480%2C-96-435-274-80%2C-EDC15C2-65/23485",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "51BE-885C7_20120527123938",
+    "sku": "51BE-885C7_20120527123938",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 406 2.0 HDI BOSCH 0281010590, 0 281 010 590, 9643527480, 96 435 274 80, EDC15C2 65</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 406",
+      "ENGINE": "2.0 HDI",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 590",
+      "NUMBER PARTS": "EDC15C2 65",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:14:58.123Z",
+    "model": "mistral:7b",
+    "durationMs": 10318,
+    "priceIncrement": 100
+  }
+}

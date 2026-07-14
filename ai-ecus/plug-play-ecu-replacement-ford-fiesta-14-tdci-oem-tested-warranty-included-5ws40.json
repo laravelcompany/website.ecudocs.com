@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Fiesta 1.4 TDCI - OEM Tested, Warranty Included [5WS40078H-T, 3S61-12A650-JE, 3S6112A650JE, 9PPE]",
+  "slug": "plug-play-ecu-replacement-ford-fiesta-14-tdci-oem-tested-warranty-included-5ws40",
+  "metaDescription": "Buy a tested Plug & Play ECU Engine Controller for Ford Fiesta 1.4 TDCI, backed by a 6-month warranty. Fast shipping within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Fiesta 1.4 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "1.4 TDCI",
+    "Siemens"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller for Ford Fiesta 1.4 TDCI is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Device Thoroughly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FIESTA</td></tr>\n        <tr><th>ENGINE</th><td>1.4 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2005</td></tr>\n        <tr><th>NUMBER PARTS</th><td>5WS40078H-T</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Fiesta 1.4 TDCI models only. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.4 TDCI 5WS40078H-T, 3S61-12A650-JE, 3S6112A650JE, 9PPE",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.4-TDCI-5WS40078H-T%2C-3S61-12A650-JE%2C-3S6112A650JE%2C-9PPE-/52229",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "F084-931C0_20140304182803",
+    "sku": "F084-931C0_20140304182803",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.4 TDCI 5WS40078H-T, 3S61-12A650-JE, 3S6112A650JE, 9PPE </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.4 TDCI",
+      "YEAR": "2005",
+      "NUMBER PARTS": "5WS40078H-T",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:24:18.418Z",
+    "model": "mistral:7b",
+    "durationMs": 11287,
+    "priceIncrement": 100
+  }
+}

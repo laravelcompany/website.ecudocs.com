@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Opel Vectra - Delco 16202299 GG, CKYK - OEM Tested & Warranty Included",
+  "slug": "plug-play-oem-ecu-opel-vectra-delco-16202299-gg-ckyk-tested",
+  "metaDescription": "Buy a tested Plug & Play ECU Engine Controller for Opel Vectra by Delco, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Opel Vectra",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra",
+    "Delco",
+    "16202299 GG",
+    "CKYK"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for Opel Vectra is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for guaranteed fitment</li><li>6-month warranty included</li><li>Used in good condition</li><li>Ready for programming</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL:</th><td>OPEL VECTRA</td></tr>\n    <tr><th>NUMBER MANUFACTURER:</th><td>16202299 GG</td></tr>\n    <tr><th>NUMBER PARTS:</th><td>CKYK</td></tr>\n    <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra models. Fitment caution may apply, verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA 16202299 GG, 16202299GG, CKYK",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-16202299-GG%2C-16202299GG%2C-CKYK/116079",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "61D7-635FB_20190923140421",
+    "sku": "61D7-635FB_20190923140421",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA 16202299 GG, 16202299GG, CKYK</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_234537_0_0/OPEL-VECTRA-16202299-GG%2C-16202299GG%2C-CKYK.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_234538_0_0/OPEL-VECTRA-16202299-GG%2C-16202299GG%2C-CKYK.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VECTRA",
+      "NUMBER MANUFACTURER": "16202299 GG",
+      "NUMBER PARTS": "CKYK",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:20:08.407Z",
+    "model": "mistral:7b",
+    "durationMs": 9799,
+    "priceIncrement": 100
+  }
+}

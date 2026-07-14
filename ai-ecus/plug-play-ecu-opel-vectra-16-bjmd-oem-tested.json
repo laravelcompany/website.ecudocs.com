@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - OPEL VECTRA 1.6 BJMD (OEM Tested, Warranty Included)",
+  "slug": "plug-play-ecu-opel-vectra-16-bjmd-oem-tested",
+  "metaDescription": "Get a tested and certified Plug & Play ECU ENGINE CONTROLLOR for your OPEL VECTRA 1.6 with a 6-month warranty. Order now!",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Vectra 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "OPEL VECTRA",
+    "Delco",
+    "16198339 RF",
+    "BJMD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER for your Opel Vectra 1.6 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used Original in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>OPEL VECTRA</td></tr>\n<tr><th>ENGINE</th><td>1.6</td></tr>\n<tr><th>YEAR</th><td>1994-1995</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>16198339 RF</td></tr>\n<tr><th>NUMBER PARTS</th><td>BJMD</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and installation expertise. Fitment caution advised.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA 1.6 16198339 RF, BJMD",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-1.6-16198339-RF%2C-BJMD/65789",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "B947-93935_20140912134838",
+    "sku": "B947-93935_20140912134838",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA 1.6 16198339 RF, BJMD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VECTRA",
+      "ENGINE": "1.6",
+      "YEAR": "1994-1995",
+      "NUMBER MANUFACTURER": "16198339 RF",
+      "NUMBER PARTS": "BJMD",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:19:46.109Z",
+    "model": "mistral:7b",
+    "durationMs": 8639,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Opel Astra 1.3 JTD Magneti Marelli MJD 6O2.A6 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-opel-astra-13-jtd-magneti-marelli-mjd-6o2a6-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Opel Astra 1.3 JTD by Magneti Marelli, OEM tested and covered by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra 1.3 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "Magneti Marelli",
+    "1.3 JTD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller for Opel Astra 1.3 JTD by Magneti Marelli ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Locked / Unlocked ECUs</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL ASTRA 1.3 JTD</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>MAGNETI MARELLI MJD 6O2.A6, MJD6O2A6, MJD602A6, GM 55565450 GP, 55565450GP, 71600.195.04, 7160019504</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Locked / Unlocked ECUs.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA 1.3 JTD MAGNETI MARELLI MJD 6O2.A6, MJD6O2A6, MJD602A6, GM 55565450 GP, 55565450GP, 71600.195.04, 7160019504",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-1.3-JTD-MAGNETI-MARELLI-MJD-6O2.A6%2C-MJD6O2A6%2C-MJD602A6%2C-GM-55565450-GP%2C-55565450GP%2C-71600.195.04%2C-7160019504-/81408",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "614D-204E6_20151109161136",
+    "sku": "614D-204E6_20151109161136",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA 1.3 JTD MAGNETI MARELLI MJD 6O2.A6, MJD6O2A6, MJD602A6, GM 55565450 GP, 55565450GP, 71600.195.04, 7160019504 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_12acb4db665c9af59e3b6fe2d075fe99_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_228760_0_0/OPEL-ASTRA-1.3-JTD-MAGNETI-MARELLI-MJD-6O2.A6%2C-MJD6O2A6%2C-MJD602A6%2C-GM-55565450-GP%2C-55565450GP%2C-71600.195.04%2C-7160019504.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA",
+      "ENGINE": "1.3 JTD",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 6O2.A6",
+      "NUMBER PARTS": "71600.195.04",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:58:41.461Z",
+    "model": "mistral:7b",
+    "durationMs": 9649,
+    "priceIncrement": 100
+  }
+}

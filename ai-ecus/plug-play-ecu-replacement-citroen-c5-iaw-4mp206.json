@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Citroen C5 IAW 4MP2.06, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-c5-iaw-4mp206",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Citroen C5 (IAW 4MP2.06) with our OEM tested and warrantied product.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen C5 IAW 4MP2.06",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C5",
+    "IAW 4MP2.06",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Citroen C5 (IAW 4MP2.06) is thoroughly inspected, tested by a certified technician and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used Original in Good Condition</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>IAW 4MP2.06</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>SW 9650613080</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen C5 IAW 4MP2.06. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN IAW 4MP2.06, IAW4MP206, HW 9642427080, SW 9650613080",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-IAW-4MP2.06%2C-IAW4MP206%2C-HW-9642427080%2C-SW-9650613080/116644",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "D70D-691E4_20191031123055",
+    "sku": "D70D-691E4_20191031123055",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN IAW 4MP2.06, IAW4MP206, HW 9642427080, SW 9650613080</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN",
+      "NUMBER MANUFACTURER": "IAW 4MP2.06",
+      "NUMBER PARTS": "SW 9650613080",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:46:10.437Z",
+    "model": "mistral:7b",
+    "durationMs": 9955,
+    "priceIncrement": 100
+  }
+}

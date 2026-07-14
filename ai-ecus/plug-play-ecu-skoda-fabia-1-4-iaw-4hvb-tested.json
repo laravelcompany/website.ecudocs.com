@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Skoda Fabia 1.4 IAW 4HV.B - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-skoda-fabia-1-4-iaw-4hvb-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Skoda Fabia 1.4 IAW 4HV.B, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Skoda Fabia 1.4 IAW 4HV.B",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Fabia",
+    "IAW 4HV.B"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Skoda Fabia 1.4 IAW 4HV.B is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is specifically designed for Skoda Fabia 1.4 IAW 4HV.B. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FABIA 1.4 03C906024B, 03C 906 024 B, BENZIN 4HV 0896 H05, 61601.393.03 CR1, 6160139303, IAW 4HV.B",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FABIA-1.4-03C906024B%2C-03C-906-024-B%2C-BENZIN-4HV-0896-H05%2C-61601.393.03-CR1%2C-6160139303%2C-IAW-4HV.B/24867",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "4E4F-72598_20120603190838",
+    "sku": "4E4F-72598_20120603190838",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FABIA 1.4 03C906024B, 03C 906 024 B, BENZIN 4HV 0896 H05, 61601.393.03 CR1, 6160139303, IAW 4HV.B</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FABIA",
+      "ENGINE": "1.4",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "IAW 4HV.B",
+      "NUMBER PARTS": "61601.393.03 CR1",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:22:06.148Z",
+    "model": "mistral:7b",
+    "durationMs": 6940,
+    "priceIncrement": 100
+  }
+}

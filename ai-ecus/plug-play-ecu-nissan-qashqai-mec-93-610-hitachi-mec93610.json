@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Nissan Qashqai MEC 93-610 - Hitachi MEC93610",
+  "slug": "plug-play-ecu-nissan-qashqai-mec-93-610-hitachi-mec93610",
+  "metaDescription": "Buy a tested and warrantied Plug & Play ECU Engine Controller for Nissan Qashqai MEC 93-610 by Hitachi. Replacement guaranteed with 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Nissan Qashqai",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Qashqai MEC 93-610",
+    "Hitachi MEC93610"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Engine Controller is a direct replacement for your Nissan Qashqai MEC 93-610. Trust our certified technician inspections and enjoy a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Certified Technician Inspection</li>\n        <li>Used Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN QASHQAI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MEC 93-610</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Nissan Qashqai MEC 93-610 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN QASHQAI MEC 93-610, MEC93610",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-QASHQAI-MEC-93-610%2C-MEC93610/117359",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "311A-79093_20200217135249",
+    "sku": "311A-79093_20200217135249",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN QASHQAI MEC 93-610, MEC93610</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_238323_0_0/NISSAN-QASHQAI-MEC-93-610%2C-MEC93610.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_238324_0_0/NISSAN-QASHQAI-MEC-93-610%2C-MEC93610.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN QASHQAI",
+      "NUMBER MANUFACTURER": "MEC 93-610",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:42:35.357Z",
+    "model": "mistral:7b",
+    "durationMs": 9859,
+    "priceIncrement": 100
+  }
+}

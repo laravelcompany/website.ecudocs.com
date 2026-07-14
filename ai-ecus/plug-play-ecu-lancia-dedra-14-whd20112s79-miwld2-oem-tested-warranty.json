@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement - Lancia Dedra 1.4 WHD2.01/12S.79, MIW LD2 - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-lancia-dedra-14-whd20112s79-miwld2-oem-tested-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Lancia Dedra 1.4, WHD2.01/12S.79, MIW LD2. OEM tested and covered by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Lancia Dedra 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Dedra",
+    "Marelli Autronica",
+    "WHD2.01/12S.79",
+    "MIW LD2"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Lancia Dedra 1.4, WHD2.01/12S.79, MIW LD2 is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-Month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>LANCIA DEDRA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>WHD2.01/12S.79</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>MIW LD2</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA DEDRA 1.4, WHD2.01/12S.79, WHD20112S79, MIW LD2, MIWLD2",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-DEDRA-1.4%2C-WHD2.0112S.79%2C-WHD20112S79%2C-MIW-LD2%2C-MIWLD2-/44452",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Marelli Autronica",
+    "productCode": "0DC8-11487",
+    "sku": "0DC8-11487",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA DEDRA 1.4, WHD2.01/12S.79, WHD20112S79, MIW LD2, MIWLD2 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_d4a2dcd4bc3669d15725df77160f92a3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_57352dbf3139a487bfcc268c5cfd19ce_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_eb5dded9fb3d8a4fcbf03980d98d7382_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA DEDRA",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "WHD2.01/12S.79",
+      "NUMBER PARTS": "MIW LD2",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:29:41.105Z",
+    "model": "mistral:7b",
+    "durationMs": 11217,
+    "priceIncrement": 100
+  }
+}

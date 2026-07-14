@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Citroen C5, C6, DS3, DS4, DS5 - Sagem 21585162-5, 215851625, 9657070680, 9655997380",
+  "slug": "plug-play-oem-tested-ecu-replacement-citroen-c5-c6-ds3-ds4-ds5-sagem-21585162-5-",
+  "metaDescription": "OEM Tested ECU Replacement for Citroen C5, C6, DS3, DS4, DS5. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Citroen",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C5",
+    "Citroen C6",
+    "DS3",
+    "DS4",
+    "DS5",
+    "Sagem"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement is thoroughly inspected and tested by a certified technician, ensuring reliable performance for your Citroen C5, C6, DS3, DS4, DS5.</section>\n<section class=\"features\">\n  <ul>\n    <li>Plug & Play</li>\n    <li>OEM Tested</li>\n    <li>6-month Warranty</li>\n    <li>Fast Dispatch (EU)</li>\n    <li>Used Original in Good Condition</li>\n  </ul>\n</section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>CITROEN</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>21585162-5</td></tr>\n    <tr><th>NUMBER PARTS</th><td>9655997380</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch across EU.</section>\n<section class=\"compatibility\">Compatible with Citroen C5, C6, DS3, DS4, DS5. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN 21585162-5, 215851625, 9657070680, 9655997380",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-21585162-5%2C-215851625%2C-9657070680%2C-9655997380/112324",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Sagem",
+    "productCode": "E017-609DA_20190305141634",
+    "sku": "E017-609DA_20190305141634",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN 21585162-5, 215851625, 9657070680, 9655997380</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN",
+      "NUMBER MANUFACTURER": "21585162-5",
+      "NUMBER PARTS": "9655997380",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:19:12.038Z",
+    "model": "mistral:7b",
+    "durationMs": 11629,
+    "priceIncrement": 100
+  }
+}

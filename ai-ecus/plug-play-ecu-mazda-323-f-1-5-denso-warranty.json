@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mazda 323 F 1.5 Denso - 6-month Warranty, ECU Replacement",
+  "slug": "plug-play-ecu-mazda-323-f-1-5-denso-warranty",
+  "metaDescription": "Expertly refurbished OEM Tested Plug & Play ECU Engine Controller for Mazda 323 F 1.5 Denso. Fast dispatch, 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mazda 323 F 1.5 Denso",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mazda 323 F",
+    "Denso",
+    "1.5 Engine"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU for Mazda 323 F 1.5 Denso is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MAZDA 323 F</td></tr>\n        <tr><th>ENGINE</th><td>1.5</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DENSO 279700-0192</td></tr>\n        <tr><th>NUMBER PARTS</th><td>ZL05 18 881A</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA 323 F 1.5 DENSO 279700-0192, 2797000192, ZL05 18 881A, ZL0518881A",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-323-F-1.5-DENSO-279700-0192%2C-2797000192%2C-ZL05-18-881A%2C-ZL0518881A/45240",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "5140-45677",
+    "sku": "5140-45677",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA 323 F 1.5 DENSO 279700-0192, 2797000192, ZL05 18 881A, ZL0518881A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA 323 F",
+      "ENGINE": "1.5",
+      "NUMBER MANUFACTURER": "DENSO 279700-0192",
+      "NUMBER PARTS": "ZL05 18 881A",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:53:18.893Z",
+    "model": "mistral:7b",
+    "durationMs": 8945,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Audi VW Volkswagen Bosch 0 261 S02 625, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-vw-volkswagen-bosch-0-261-s02-625-oem-tested-warr",
+  "metaDescription": "Expertly tested and guaranteed ECU replacement for Audi VW Volkswagen. Plug & Play, OEM certified, backed by a 12-month warranty.",
+  "price": "€800.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi VW Volkswagen",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi VW Volkswagen",
+    "Bosch 0 261 S02 625"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Audi VW Volkswagen is OEM tested and backed by a 12-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-Month Warranty</li>\n        <li>Used OEM Part</li>\n        <li>Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI VW VOLKSWAGEN</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S02 625</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MED9.1</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI VW VOLKSWAGEN BOSCH 0 261 S02 625, 0261S02625, 03H 906 032 DQ, 03H906032DQ, MED9.1",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-VW-VOLKSWAGEN-BOSCH-0-261-S02-625%2C-0261S02625%2C-03H-906-032-DQ%2C-03H906032DQ%2C-MED9.1/108496",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8199-478A5_20180112120519",
+    "sku": "8199-478A5_20180112120519",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI VW VOLKSWAGEN BOSCH 0 261 S02 625, 0261S02625, 03H 906 032 DQ, 03H906032DQ, MED9.1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2a401475d18ccb3c08656d4216052485_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3b0e598d58f459caadde2903f7aaea15_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI VW VOLKSWAGEN",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S02 625",
+      "NUMBER PARTS": "MED9.1",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:01:32.563Z",
+    "model": "mistral:7b",
+    "durationMs": 10407,
+    "priceIncrement": 100
+  }
+}

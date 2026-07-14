@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Mondeo 2.0 - OEM Visteon GUDB - Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-mondeo-2-0-visteon-gudb-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for your Ford Mondeo 2.0 with a 6-month warranty. Order now!",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon GUDB"
+  ],
+  "description": "<section class=\"overview\">This OEM Visteon ECU Engine Controller for Ford Mondeo 2.0 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>YEAR</th><td>2001-2006</td></tr>\n        <tr><th>NUMBER PARTS</th><td>GUDB</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo 2.0. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 3S7A-12A650-MB, 3S7A12A650MB, GUDB",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-3S7A-12A650-MB%2C-3S7A12A650MB%2C-GUDB/53365",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "28C7-577A7_20140402144941",
+    "sku": "28C7-577A7_20140402144941",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 3S7A-12A650-MB, 3S7A12A650MB, GUDB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0",
+      "YEAR": "2001-2006",
+      "NUMBER PARTS": "GUDB",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:36:39.365Z",
+    "model": "mistral:7b",
+    "durationMs": 9420,
+    "priceIncrement": 100
+  }
+}

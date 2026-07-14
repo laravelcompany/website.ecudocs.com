@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Audi A6 1.9 TDI AFN - Bosch 0 281 001 609, 038 906 018 G - Warranty Included",
+  "slug": "plug-play-ecu-audi-a6-19-tdi-afn-bosch-0281001609-warranty",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Audi A6 1.9 TDI AFN (Bosch 0 281 001 609, 038 906 018 G) with Plug & Play feature and 6-month warranty. Fast dispatch within EU.",
+  "price": "€135.00",
+  "excerpt": "OEM ECU Replacement for Audi A6 1.9 TDI AFN - Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "1.9 TDI AFN",
+    "Bosch",
+    "0 281 001 609",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Audi A6 1.9 TDI AFN. Trust in the expertise of our certified technicians who thoroughly inspect and test each unit.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play feature</li>\n        <li>OEM tested for quality</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A6</td></tr>\n        <tr><th>ENGINE</th><td>1.9 TDI AFN</td></tr>\n        <tr><th>YEAR</th><td>1997</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 609</td></tr>\n        <tr><th>NUMBER PARTS</th><td>038 906 018 G</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, fast dispatch. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A6 1.9 TDI AFN. Fitment caution: Ensure proper installation and programming by a certified technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 1.9 TDI AFN 038 906 018 G, 038906018G, BOSCH 0 281 001 609, 0281001609",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-1.9-TDI-AFN-038-906-018-G%2C-038906018G%2C-BOSCH-0-281-001-609%2C-0281001609-/12328",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5E0D-4669B",
+    "sku": "5E0D-4669B",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 1.9 TDI AFN 038 906 018 G, 038906018G, BOSCH 0 281 001 609, 0281001609 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "1.9 TDI AFN",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 609",
+      "NUMBER PARTS": "038 906 018 G",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:28:40.260Z",
+    "model": "mistral:7b",
+    "durationMs": 10774,
+    "priceIncrement": 100
+  }
+}

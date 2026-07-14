@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 1.6 16V - VISTEON 93BB-12A650-AD, SME-101 - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-mondeo-16v-visteon-93bb-12a650-ad-sme-101-warranty",
+  "metaDescription": "Get a certified OEM tested Plug & Play ECU replacement for your Ford Mondeo 1.6 16V, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "VISTEON 93BB-12A650-AD",
+    "SME-101"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for your Ford Mondeo 1.6 16V ensures seamless engine control and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used but in good condition</li>\n        <li>Certified technician inspected and tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>1.6 16V</td></tr>\n        <tr><th>YEAR</th><td>1993</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>VISTEON 93BB-12A650-AD</td></tr>\n        <tr><th>NUMBER PARTS</th><td>SME-101</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo 1993 models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO VISTEON 93BB-12A650-AD, 93BB12A650AD, ABUT, SME-101",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-VISTEON-93BB-12A650-AD%2C-93BB12A650AD%2C-ABUT%2C-SME-101/61333",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "BD7F-5590A_20140728131251",
+    "sku": "BD7F-5590A_20140728131251",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO VISTEON 93BB-12A650-AD, 93BB12A650AD, ABUT, SME-101</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e65246fc40acb2304232ea90bb6cebea_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_74511c6d76f179cba9f22e5f7cc21d0c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "1.6 16V",
+      "YEAR": "1993",
+      "NUMBER MANUFACTURER": "VISTEON 93BB-12A650-AD",
+      "NUMBER PARTS": "SME-101",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:51:01.783Z",
+    "model": "mistral:7b",
+    "durationMs": 9758,
+    "priceIncrement": 100
+  }
+}

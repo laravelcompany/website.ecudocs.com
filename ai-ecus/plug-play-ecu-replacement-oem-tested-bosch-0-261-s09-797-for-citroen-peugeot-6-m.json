@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Bosch 0 261 S09 797 for Citroen Peugeot, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-oem-tested-bosch-0-261-s09-797-for-citroen-peugeot-6-m",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller CITROEN PEUGEOT BOSCH 0 261 S09 797, backed by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen Peugeot",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 261 S09 797",
+    "Citroen Peugeot"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Citroen Peugeot. It comes with a 6-month warranty and offers Plug & Play functionality.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Reliable Replacement</li>\n        <li>Compatible with Citroen Peugeot</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>CITROEN PEUGEOT</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 S09 797</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>9807369780</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Citroen Peugeot. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT BOSCH 0 261 S09 797, 0261S09797, 9807369780",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-BOSCH-0-261-S09-797%2C-0261S09797%2C-9807369780/117757",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0B68-8962A_20200228151305",
+    "sku": "0B68-8962A_20200228151305",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT BOSCH 0 261 S09 797, 0261S09797, 9807369780</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_239154_0_0/CITROEN-PEUGEOT-BOSCH-0-261-S09-797%2C-0261S09797%2C-9807369780.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_239155_0_0/CITROEN-PEUGEOT-BOSCH-0-261-S09-797%2C-0261S09797%2C-9807369780.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S09 797",
+      "NUMBER PARTS": "9807369780",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:24:56.400Z",
+    "model": "mistral:7b",
+    "durationMs": 10819,
+    "priceIncrement": 100
+  }
+}

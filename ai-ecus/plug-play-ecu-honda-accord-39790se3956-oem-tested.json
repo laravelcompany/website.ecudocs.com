@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Honda Accord 39790-SE3-956, 6-month Warranty",
+  "slug": "plug-play-ecu-honda-accord-39790se3956-oem-tested",
+  "metaDescription": "Buy Plug & Play OEM Tested ECU Engine Controller for Honda Accord, 39790-SE3-956. 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Honda Accord",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Accord",
+    "39790-SE3-956"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Engine Controller for Honda Accord is a reliable replacement part, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>HONDA ACCORD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>39790-SE3-956</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional technician if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA ACCORD, 39790-SE3-956, 39790SE3956",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-ACCORD%2C-39790-SE3-956%2C-39790SE3956-/47566",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "5019-6305F",
+    "sku": "5019-6305F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA ACCORD, 39790-SE3-956, 39790SE3956 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_dc6dfda0013160935b553352cd7ab06b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_405f5341957dd8900fea7dd59778de01_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA ACCORD",
+      "NUMBER MANUFACTURER": "39790-SE3-956",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:16:00.190Z",
+    "model": "mistral:7b",
+    "durationMs": 8482,
+    "priceIncrement": 100
+  }
+}

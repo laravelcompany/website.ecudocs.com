@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN ATLEON 3.0 DCI BOSCH 0281013371, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-nissan-atlon-3-0-dci-bosch-0281013371-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for NISSAN ATLEON 3.0 DCI BOSCH 0281013371, Plug & Play, 6-month warranty.",
+  "price": "€880.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN ATLEON 3.0 DCI BOSCH.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281013371",
+    "Nissan Atlon"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for NISSAN ATLEON 3.0 DCI BOSCH is a reliable solution, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>6-Month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>NISSAN ATLEON</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>3.0 DCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 013 371</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>23710-CQ03A</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ATLEON 3.0 DCI BOSCH 0281013371, 0 281 013 371, 23710CQ03 Q3, 23710-CQ03A",
+    "price": "€800.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ATLEON-3.0-DCI-BOSCH-0281013371%2C-0-281-013-371%2C-23710CQ03-Q3%2C-23710-CQ03A-/16947",
+    "priceCurrency": "EUR",
+    "netPrice": "€650.41",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FE9B-79604",
+    "sku": "FE9B-79604",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ATLEON 3.0 DCI BOSCH 0281013371, 0 281 013 371, 23710CQ03 Q3, 23710-CQ03A </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ATLEON",
+      "ENGINE": "3.0 DCI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 371",
+      "NUMBER PARTS": "23710-CQ03A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:11:50.915Z",
+    "model": "mistral:7b",
+    "durationMs": 11926,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes C-Class W203 OEM Bosch 0281001544, A0215456432 - OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-c-class-w203-bosch-oem-tested",
+  "metaDescription": "Buy this Plug & Play ECU Replacement for Mercedes C-Class W203, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes C-Class W203",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281001544",
+    "Mercedes C-Class W203",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Mercedes C-Class W203 is a certified, OEM Bosch part (0281001544, A0215456432) that ensures seamless engine control.</section>\n<section class=\"features\">\n  <ul>\n    <li>Plug & Play design for easy installation</li>\n    <li>OEM tested for guaranteed performance</li>\n    <li>6-month warranty for peace of mind</li>\n    <li>Used in good condition</li>\n    <li>Compatible with Mercedes C-Class W203 (1998)</li>\n  </ul>\n</section>\n<section class=\"specs\">\n  <table>\n    <thead>\n      <tr>\n        <th>Specification</th>\n        <th>Details</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td>PARTS</td>\n        <td>ECU ENGINE CONTROLLER</td>\n      </tr>\n      <tr>\n        <td>BRAND AND MODEL</td>\n        <td>MERCEDES</td>\n      </tr>\n      <tr>\n        <td>YEAR</td>\n        <td>1998</td>\n      </tr>\n      <tr>\n        <td>NUMBER MANUFACTURER</td>\n        <td>BOSCH 0281001544, 0 281 001 544</td>\n      </tr>\n      <tr>\n        <td>NUMBER PARTS</td>\n        <td>28SA3263</td>\n      </tr>\n      <tr>\n        <td>OPTION AVAILABLE</td>\n        <td>Plug & Play / Locked / Ready for programming</td>\n      </tr>\n      <tr>\n        <td>INSPECTION:</td>\n        <td>Device thoroughly inspected and tested by a certified technician</td>\n      </tr>\n      <tr>\n        <td>WARRANTY :</td>\n        <td>6-month warranty</td>\n      </tr>\n      <tr>\n        <td>CONDITION</td>\n        <td>USED IN GOOD CONDITION</td>\n      </tr>\n    </tbody>\n  </table>\n</section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mercedes C-Class W203 (1998). Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES BOSCH 0281001544, 0 281 001 544, A0215456432, A 021 545 64 32, 0215456432, 28SA3263",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-BOSCH-0281001544%2C-0-281-001-544%2C-A0215456432%2C-A-021-545-64-32%2C-0215456432%2C-28SA3263/24508",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DC55-336F0_20120531221543",
+    "sku": "DC55-336F0_20120531221543",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES BOSCH 0281001544, 0 281 001 544, A0215456432, A 021 545 64 32, 0215456432, 28SA3263</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "BOSCH 0281001544, 0 281 001 544",
+      "NUMBER PARTS": "28SA3263",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:37:21.529Z",
+    "model": "mistral:7b",
+    "durationMs": 13470,
+    "priceIncrement": 100
+  }
+}

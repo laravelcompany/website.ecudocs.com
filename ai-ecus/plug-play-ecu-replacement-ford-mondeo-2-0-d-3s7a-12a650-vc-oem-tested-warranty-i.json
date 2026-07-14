@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Mondeo 2.0 D 3S7A-12A650-VC, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-mondeo-2-0-d-3s7a-12a650-vc-oem-tested-warranty-i",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Ford Mondeo 2.0 D, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo 2.0 D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.0 D",
+    "3S7A-12A650-VC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller is a reliable replacement for your Ford Mondeo 2.0 D.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch</li>\n<li>Used, Original in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD MONDEO</td></tr>\n<tr><td>ENGINE</td><td>2.0 D</td></tr>\n<tr><td>YEAR</td><td>2003</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>3S7A-12A650-VC</td></tr>\n<tr><td>NUMBER PARTS</td><td>4PDC</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo 2.0 D, may require programming or professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 D 3S7A-12A650-VC, 3S7A12A650VC",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-D-3S7A-12A650-VC%2C-3S7A12A650VC-/43359",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "2E0E-441D1",
+    "sku": "2E0E-441D1",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 D 3S7A-12A650-VC, 3S7A12A650VC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 D",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "3S7A-12A650-VC",
+      "NUMBER PARTS": "4PDC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:38:23.275Z",
+    "model": "mistral:7b",
+    "durationMs": 11056,
+    "priceIncrement": 100
+  }
+}

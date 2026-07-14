@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT IDEA 1.3 JTD Magneti Marelli MJD 6JF.M4, OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-fiat-idea-13-jtd-magneti-marelli-mjd-6jfm4-oem-tested-warranty-inc",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for your FIAT IDEA 1.3 JTD, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT IDEA 1.3 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT IDEA",
+    "Magneti Marelli",
+    "MJD 6JF.M4",
+    "71600.045.02"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for FIAT IDEA 1.3 JTD by Magneti Marelli is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT IDEA</td></tr>\n        <tr><th>ENGINE</th><td>1.3 JTD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI MJD 6JF.M4</td></tr>\n        <tr><th>NUMBER PARTS</th><td>71600.045.02</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with FIAT IDEA 1.3 JTD. Fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT IDEA 1.3 JTD MAGNETI MARELLI MJD 6JF.M4, MJD6JFM4, FGP 51768657, 71600.045.02, 7160004502",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-IDEA-1.3-JTD-MAGNETI-MARELLI-MJD-6JF.M4%2C-MJD6JFM4%2C-FGP-51768657%2C-71600.045.02%2C-7160004502/70071",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "6321-854BC_20141205193910",
+    "sku": "6321-854BC_20141205193910",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT IDEA 1.3 JTD MAGNETI MARELLI MJD 6JF.M4, MJD6JFM4, FGP 51768657, 71600.045.02, 7160004502</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_16d985f71a1c81ab51cfec88a2028994_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c445d75f63a272fd2c4f44c254e6bcf9_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT IDEA",
+      "ENGINE": "1.3 JTD",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 6JF.M4",
+      "NUMBER PARTS": "71600.045.02",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:56:49.584Z",
+    "model": "mistral:7b",
+    "durationMs": 9750,
+    "priceIncrement": 100
+  }
+}

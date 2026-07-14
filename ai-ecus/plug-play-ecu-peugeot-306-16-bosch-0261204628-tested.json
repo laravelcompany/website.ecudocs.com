@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - PEUGEOT 306 1.6 BOSCH 0261204628, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-peugeot-306-16-bosch-0261204628-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for PEUGEOT 306 1.6 BOSCH 0261204628, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU replacement for PEUGEOT 306 1.6 BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch ECU",
+    "PEUGEOT 306 ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for PEUGEOT 306 1.6 BOSCH is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Tested</li>\n      <li>Plug & Play</li>\n      <li>6-month Warranty</li>\n      <li>Fast Dispatch within EU</li>\n      <li>Compatible with PEUGEOT 306 1.6 BOSCH</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL:</th><td>PEUGEOT 306</td></tr>\n      <tr><th>ENGINE:</th><td>1.6</td></tr>\n      <tr><th>YEAR:</th><td>1997</td></tr>\n      <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 204 628</td></tr>\n      <tr><th>NUMBER PARTS:</th><td>96 302 785 80</td></tr>\n      <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility and fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 306 1.6 BOSCH 0261204628, 0 261 204 628, 9630278580, 96 302 785 80",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-306-1.6-BOSCH-0261204628%2C-0-261-204-628%2C-9630278580%2C-96-302-785-80-/32267",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "55A8-6500B",
+    "sku": "55A8-6500B",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 306 1.6 BOSCH 0261204628, 0 261 204 628, 9630278580, 96 302 785 80 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_5135a3e7869aca94ffae71caa34185c7_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_235470_0_0/PEUGEOT-306-1.6-BOSCH-0261204628%2C-0-261-204-628%2C-9630278580%2C-96-302-785-80.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 306",
+      "ENGINE": "1.6",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 628",
+      "NUMBER PARTS": "96 302 785 80",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:58:05.244Z",
+    "model": "mistral:7b",
+    "durationMs": 11536,
+    "priceIncrement": 100
+  }
+}

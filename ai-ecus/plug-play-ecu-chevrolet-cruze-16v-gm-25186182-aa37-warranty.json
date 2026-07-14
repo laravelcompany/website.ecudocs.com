@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Chevrolet Cruze 1.6 16V (2012) - GM 25186182 AA37, 96964295 - Tested & Warranty Included",
+  "slug": "plug-play-ecu-chevrolet-cruze-16v-gm-25186182-aa37-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Replacement for your Chevrolet Cruze (2012, 1.6L engine). Covered by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Chevy Cruze 1.6 16V (2012)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet Cruze",
+    "GM part number",
+    "1.6L engine"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU replacement for your Chevrolet Cruze (2012, 1.6L engine) is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked/Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CHEVROLET CRUZE</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6 16V</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2012</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>GM 25186182 AA37</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>96964295</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply - please verify before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET CRUZE GM 25186182 AA37, CONTINENTAL 5WY1J19B, 96964295",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-CRUZE-GM-25186182-AA37%2C-CONTINENTAL-5WY1J19B%2C-96964295-/83806",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "1E24-179B0_20160104115938",
+    "sku": "1E24-179B0_20160104115938",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET CRUZE GM 25186182 AA37, CONTINENTAL 5WY1J19B, 96964295 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET CRUZE",
+      "ENGINE": "1.6 16V",
+      "YEAR": "2012",
+      "NUMBER MANUFACTURER": "GM 25186182 AA37",
+      "NUMBER PARTS": "96964295",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:58:29.989Z",
+    "model": "mistral:7b",
+    "durationMs": 11426,
+    "priceIncrement": 100
+  }
+}

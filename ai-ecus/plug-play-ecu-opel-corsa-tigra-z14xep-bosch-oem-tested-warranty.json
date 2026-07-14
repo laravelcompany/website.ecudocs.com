@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Engine Controller Opel Corsa Tigra Z14XEP Bosch OEM Tested 0 261 208 394, WC - Warranty Included",
+  "slug": "plug-play-ecu-opel-corsa-tigra-z14xep-bosch-oem-tested-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Opel Corsa Tigra Z14XEP by Bosch with a 6-month warranty. Tested and OEM approved.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Opel Corsa Tigra Z14XEP",
+  "tags": [
+    "ECU Replacement",
+    "Opel Corsa Tigra",
+    "Z14XEP Engine",
+    "Bosch ECU",
+    "OEM Tested",
+    "Used ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Opel Corsa Tigra Z14XEP by Bosch is a reliable replacement part, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Fast Dispatch</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>OPEL CORSA TIGRA</td></tr>\n<tr><th>ENGINE</th><td>Z14XEP</td></tr>\n<tr><th>YEAR</th><td>2001-2006</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 208 394</td></tr>\n<tr><th>NUMBER PARTS</th><td>WC</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Corsa Tigra Z14XEP. Fitment caution may apply. Consult a professional for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA TIGRA Z14XEP BOSCH 0 261 208 394, 0261208394, 55354328 WC",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-TIGRA-Z14XEP-BOSCH-0-261-208-394%2C-0261208394%2C-55354328-WC/70910",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4242-15909_20141228194559",
+    "sku": "4242-15909_20141228194559",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA TIGRA Z14XEP BOSCH 0 261 208 394, 0261208394, 55354328 WC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_d0a5482fc0c198c1f69a6a78430db098_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_722d71d897f0c27bab048ea5ce8fc77e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA TIGRA",
+      "ENGINE": "Z14XEP",
+      "YEAR": "2001-2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 208 394",
+      "NUMBER PARTS": "WC",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:02:36.142Z",
+    "model": "mistral:7b",
+    "durationMs": 9902,
+    "priceIncrement": 100
+  }
+}

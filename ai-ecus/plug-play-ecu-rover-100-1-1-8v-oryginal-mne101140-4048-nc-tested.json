@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement - ROVER 100 1.1 8V, Oryginal MNE101140, 4048 NC - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-rover-100-1-1-8v-oryginal-mne101140-4048-nc-tested",
+  "metaDescription": "Buy Plug & Play ECU Replacement for ROVER 100 1.1 8V, Oryginal MNE101140, 4048 NC - OEM tested, warranty included.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Replacement for ROVER 100 1.1 8V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "ROVER 100",
+    "Oryginal",
+    "MNE101140"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for ROVER 100 1.1 8V, Oryginal MNE101140, 4048 NC is OEM tested and comes with a warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li></ul></section>\n<section class=\"specs\"><table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>ROVER 100</td></tr>\n<tr><th>ENGINE</th><td>1.1 8V</td></tr>\n<tr><th>YEAR</th><td>1994-1995</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>MNE101140</td></tr>\n<tr><th>NUMBER PARTS</th><td>4048 NC</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 100 1.1 8V, MNE101140, 4048 NC",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-100-1.1-8V%2C-MNE101140%2C-4048-NC-/47068",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "5E19-142E4",
+    "sku": "5E19-142E4",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 100 1.1 8V, MNE101140, 4048 NC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_58a28d5b25f5889420a9314dd871b8aa_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_fa571471a35cef4429a0d6d2bcd664a8_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3feece8148bd6233d060d2dfcb40401c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 100",
+      "ENGINE": "1.1 8V",
+      "YEAR": "1994-1995",
+      "NUMBER MANUFACTURER": "MNE101140",
+      "NUMBER PARTS": "4048 NC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:25:39.526Z",
+    "model": "mistral:7b",
+    "durationMs": 10460,
+    "priceIncrement": 100
+  }
+}

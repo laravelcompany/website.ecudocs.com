@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.1, Visteon 88FB-12A650-AC - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-fiesta-11-visteon-88fb-12a650-ac-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford Fiesta 1.1, Visteon 88FB-12A650-AC. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Visteon",
+    "88FB-12A650-AC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Ford Fiesta 1.1, Visteon 88FB-12A650-AC, ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Fast Dispatch</li><li>Expertly Inspected and Tested</li></ul></section>\n<section class=\"specs\"><table><tbody><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>FORD FIESTA</td></tr><tr><th>ENGINE</th><td>1.1</td></tr><tr><th>NUMBER MANUFACTURER</th><td>88FB12A650AC</td></tr><tr><th>WARRANTY</th><td>6-month warranty</td></tr><tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Ford Fiesta 1.1 and may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.1, 88FB-12A650-AC, 88FB12A650AC",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.1%2C-88FB-12A650-AC%2C-88FB12A650AC/66019",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "7C7E-5881C_20140917124011",
+    "sku": "7C7E-5881C_20140917124011",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.1, 88FB-12A650-AC, 88FB12A650AC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.1",
+      "NUMBER MANUFACTURER": "88FB12A650AC",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:15:11.906Z",
+    "model": "mistral:7b",
+    "durationMs": 9470,
+    "priceIncrement": 100
+  }
+}

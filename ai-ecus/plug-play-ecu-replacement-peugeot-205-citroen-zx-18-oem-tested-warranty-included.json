@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Peugeot 205, Citroen ZX 1.8 - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-205-citroen-zx-18-oem-tested-warranty-included",
+  "metaDescription": "OEM tested ECU replacement for Peugeot 205, Citroen ZX 1.8. Plug & Play, warranty included, and fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 205, Citroen ZX 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 205",
+    "Citroen ZX",
+    "IAW 8P.12"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement is suitable for Peugeot 205 and Citroen ZX 1.8 engines.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\">...(technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is intended for Peugeot 205 and Citroen ZX 1.8 models only. Fitment may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 205, CITROEN ZX 1.8, IAW 8P.12, IAW8P12, 16162.004, 16162004, 9616146980",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-205%2C-CITROEN-ZX-1.8%2C-IAW-8P.12%2C-IAW8P12%2C-16162.004%2C-16162004%2C-9616146980/37634",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "3738-6805D_20130716141615",
+    "sku": "3738-6805D_20130716141615",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 205, CITROEN ZX 1.8, IAW 8P.12, IAW8P12, 16162.004, 16162004, 9616146980</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 205, CITROEN ZX",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "IAW 8P.12",
+      "NUMBER PARTS": "9616146980",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:38:39.254Z",
+    "model": "mistral:7b",
+    "durationMs": 6689,
+    "priceIncrement": 100
+  }
+}

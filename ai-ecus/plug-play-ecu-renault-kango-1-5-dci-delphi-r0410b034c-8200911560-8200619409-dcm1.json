@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Renault KANGO 1.5 DCI Delphi R0410B034C, 8200911560, 8200619409, DCM1.2 - 6-month Warranty",
+  "slug": "plug-play-ecu-renault-kango-1-5-dci-delphi-r0410b034c-8200911560-8200619409-dcm1",
+  "metaDescription": "Expertly refurbished ECU Engine Controller for Renault KANGO 1.5 DCI by Delphi, offering Plug & Play convenience and a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Refurbished OEM ECU Replacement for Renault KANGO 1.5 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delphi R0410B034C",
+    "Renault KANGO",
+    "1.5 DCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and thoroughly inspected ECU Engine Controller for Renault KANGO 1.5 DCI by Delphi ensures reliable performance and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>RENAULT KANGO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.5 DCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2008</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>DELPHI R0410B034C</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8200619409</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and usage history. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT KANGO 1.5 DCI DELPHI R0410B034C, 8200911560, 8200619409, DCM1.2",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-KANGO-1.5-DCI-DELPHI-R0410B034C%2C-8200911560%2C-8200619409%2C-DCM1.2-/89806",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "1EB3-6359D_20160418141920",
+    "sku": "1EB3-6359D_20160418141920",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT KANGO 1.5 DCI DELPHI R0410B034C, 8200911560, 8200619409, DCM1.2 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_90ed13901725753cb8be048de7a6d8d6_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_43c83023052e13b1ffdc192900cea71d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT KANGO",
+      "ENGINE": "1.5 DCI",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "DELPHI R0410B034C",
+      "NUMBER PARTS": "8200619409",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:21:50.567Z",
+    "model": "mistral:7b",
+    "durationMs": 12665,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Opel Astra Engine Controller, 16212209 JD, BWLD, 6-month Warranty",
+  "slug": "plug-play-ecu-opel-astra-engine-controller-16212209-bwld-oem-tested-warranty",
+  "metaDescription": "Expertly tested ECU Engine Controller for Opel Astra, Plug & Play, OEM Tested, and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "16212209 JD",
+    "BWLD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Opel Astra is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Condition: Used Oryginal in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL ASTRA</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>16212209 JD</td></tr>\n        <tr><th>NUMBER PARTS</th><td>BWLD</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA, 16212209 JD, 16212209JD, D95030, BWLD",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA%2C-16212209-JD%2C-16212209JD%2C-D95030%2C-BWLD/105839",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "9027-92917_20170619133359",
+    "sku": "9027-92917_20170619133359",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA, 16212209 JD, 16212209JD, D95030, BWLD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA",
+      "NUMBER MANUFACTURER": "16212209 JD",
+      "NUMBER PARTS": "BWLD",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:26:54.970Z",
+    "model": "mistral:7b",
+    "durationMs": 8230,
+    "priceIncrement": 100
+  }
+}

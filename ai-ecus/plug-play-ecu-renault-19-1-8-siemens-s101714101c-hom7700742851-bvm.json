@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Renault 19 1.8 - Siemens S101714101C, HOM7700742851, BVM",
+  "slug": "plug-play-ecu-renault-19-1-8-siemens-s101714101c-hom7700742851-bvm",
+  "metaDescription": "Buy a tested and certified ECU Engine Controller for Renault 19 1.8, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Renault 19 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault 19",
+    "Siemens",
+    "HOM7700742851"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Renault 19 1.8 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT 19</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>S101714101C</td></tr>\n        <tr><th>NUMBER PARTS</th><td>BVM</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific faults. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT 19 1.8, S101714101C, HOM7700742851, HOM 7700742851, 7700862150, BVM",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-19-1.8%2C-S101714101C%2C-HOM7700742851%2C-HOM-7700742851%2C-7700862150%2C-BVM/113435",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "21C6-845BB",
+    "sku": "21C6-845BB",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT 19 1.8, S101714101C, HOM7700742851, HOM 7700742851, 7700862150, BVM</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT 19",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "S101714101C",
+      "NUMBER PARTS": "BVM",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:44:13.993Z",
+    "model": "mistral:7b",
+    "durationMs": 9205,
+    "priceIncrement": 100
+  }
+}

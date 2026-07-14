@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Toyota RAV4 Avensis 2.2 Denso 89661-42C00, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-toyota-rav4-avensis-22-denso-89661-42c00",
+  "metaDescription": "Get a tested Plug & Play ECU Replacement for your Toyota RAV4 Avensis 2.2 with a 6-month warranty. Order today!",
+  "price": "€435.00",
+  "excerpt": "Plug & Play ECU Replacement for Toyota RAV4 Avensis 2.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota RAV4 Avensis",
+    "Denso",
+    "89661-42C00"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Replacement for your Toyota RAV4 Avensis 2.2 ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch in EU</li>\n        <li>Used but in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>TOYOTA RAV4 AVENSIS</td></tr>\n        <tr><th>ENGINE:</th><td>2.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>89661-42C00</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>1758007732</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Always confirm fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA RAV4 AVENSIS 2.2, 89661-42C00, 8966142C00, 175800-7732, 1758007732",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-RAV4-AVENSIS-2.2%2C-89661-42C00%2C-8966142C00%2C-175800-7732%2C-1758007732-/42084",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "E5D0-10605",
+    "sku": "E5D0-10605",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA RAV4 AVENSIS 2.2, 89661-42C00, 8966142C00, 175800-7732, 1758007732 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA RAV4 AVENSIS",
+      "ENGINE": "2.2",
+      "NUMBER MANUFACTURER": "89661-42C00",
+      "NUMBER PARTS": "1758007732",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programmin",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:32:56.211Z",
+    "model": "mistral:7b",
+    "durationMs": 8851,
+    "priceIncrement": 100
+  }
+}

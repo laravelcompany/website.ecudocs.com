@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - ROVER 200 1.4 MKC103360 XC (OEM Tested, Warranty Included)",
+  "slug": "plug-play-ecu-rover-200-14-mkc103360-xc-oem-tested-warranty",
+  "metaDescription": "Get a tested Plug & Play ECU Replacement for your ROVER 200 1.4 MKC103360 XC, backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU for ROVER 200 1.4 MKC103360 XC",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "ROVER 200",
+    "MKC103360 XC"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your ROVER 200 1.4 MKC103360 XC has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play compatibility</li>\n<li>OEM Tested for reliability</li>\n<li>6-month warranty</li>\n<li>Ready for programming</li>\n<li>Used in good condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>ROVER 200</td></tr>\n<tr><td>ENGINE</td><td>1.4</td></tr>\n<tr><td>YEAR</td><td>1995-2000</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>MKC103360 XC</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific issues. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 200 1.4 MKC103360 XC",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-200-1.4-MKC103360-XC/39982",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "53E6-21343_20130817135543",
+    "sku": "53E6-21343_20130817135543",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 200 1.4 MKC103360 XC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_74da48678602c05426cd723137a115f3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4d845d23903a665e45d6fa256035bfaf_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 200",
+      "ENGINE": "1.4",
+      "YEAR": "1995-2000",
+      "NUMBER MANUFACTURER": "MKC103360 XC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:26:44.139Z",
+    "model": "mistral:7b",
+    "durationMs": 10909,
+    "priceIncrement": 100
+  }
+}

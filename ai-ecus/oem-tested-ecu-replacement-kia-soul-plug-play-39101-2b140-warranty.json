@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested ECU Replacement KIA Soul Plug & Play - 39101-2B140, 6-month Warranty",
+  "slug": "oem-tested-ecu-replacement-kia-soul-plug-play-39101-2b140-warranty",
+  "metaDescription": "Buy OEM Tested ECU Engine Controller for KIA Soul. Plug & Play, Used in Good Condition, 6-month Warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested ECU Replacement for KIA Soul",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA Soul",
+    "39101-2B140"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the KIA Soul ensures seamless engine control and performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Lockable/Unlockable</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>KIA SOUL</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>Kefico</td></tr>\n        <tr><th>NUMBER PARTS</th><td>39101-2B140</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA SOUL Kefico 9030933702KF, 39113-2B020, 391132B020, 39101-2B140, 391012B140",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-SOUL-Kefico-9030933702KF%2C-39113-2B020%2C-391132B020%2C-39101-2B140%2C-391012B140-/99832",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Kefico",
+    "productCode": "A5A3-90743_20161130084539",
+    "sku": "A5A3-90743_20161130084539",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA SOUL Kefico 9030933702KF, 39113-2B020, 391132B020, 39101-2B140, 391012B140 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA SOUL",
+      "NUMBER MANUFACTURER": "Kefico",
+      "NUMBER PARTS": "39101-2B140",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:27:46.580Z",
+    "model": "mistral:7b",
+    "durationMs": 9280,
+    "priceIncrement": 100
+  }
+}

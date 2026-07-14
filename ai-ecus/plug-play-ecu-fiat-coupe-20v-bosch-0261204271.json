@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Fiat Coupe 2.0 20V - OEM Tested, Warranty Included (Bosch 0261204271)",
+  "slug": "plug-play-ecu-fiat-coupe-20v-bosch-0261204271",
+  "metaDescription": "Find your Plug & Play ECU Engine Controller for Fiat Coupe 2.0 20V, OEM tested and covered by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Coupe 2.0 20V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0261204271",
+    "Fiat Coupe",
+    "2.0 20V"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for your Fiat Coupe 2.0 20V, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Plug & Play</li>\n        <li>Ready for programming</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT COUPE</td></tr>\n        <tr><th>ENGINE</th><td>2.0 20V</td></tr>\n        <tr><th>YEAR</th><td>1998-2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 204 271</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1277356306</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Coupe 2.0 20V. Installation may require professional assistance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT COUPE 2.0 20V BOSCH 0261204271, 0 261 204 271, 964055, 1277356306, 00467534040, 467534040 033",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-COUPE-2.0-20V-BOSCH-0261204271%2C-0-261-204-271%2C-964055%2C-1277356306%2C-00467534040%2C-467534040-033-/13001",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "EFFF-9855C",
+    "sku": "EFFF-9855C",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT COUPE 2.0 20V BOSCH 0261204271, 0 261 204 271, 964055, 1277356306, 00467534040, 467534040 033 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT COUPE",
+      "ENGINE": "2.0 20V",
+      "YEAR": "1998-2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 271",
+      "NUMBER PARTS": "1277356306",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:30:45.319Z",
+    "model": "mistral:7b",
+    "durationMs": 9789,
+    "priceIncrement": 100
+  }
+}

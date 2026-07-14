@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM ECU Replacement - Subaru Justy, Denso 101757-3001/22611KA171, Tested & Warrantied",
+  "slug": "plug-play-oem-ecu-subaru-justy-denso-101757-3001-22611ka171-tested",
+  "metaDescription": "Buy a tested and certified Plug & Play OEM ECU replacement for your Subaru Justy. Enjoy fast dispatch, 12-month warranty, and expert installation support.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Subaru Justy",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Subaru Justy",
+    "Denso",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement is tested and thoroughly inspected by a certified technician for your Subaru Justy.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>Original Denso part</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Expert support available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SUBARU JUSTY</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>101757-3001</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>22611KA171</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Subaru Justy. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUBARU JUSTY, 101757-3001, 1017573001, 22611KA171",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUBARU-JUSTY%2C-101757-3001%2C-1017573001%2C-22611KA171-/49063",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "4EB0-12420",
+    "sku": "4EB0-12420",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUBARU JUSTY, 101757-3001, 1017573001, 22611KA171 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUBARU JUSTY",
+      "NUMBER MANUFACTURER": "101757-3001",
+      "NUMBER PARTS": "22611KA171",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:54:36.651Z",
+    "model": "mistral:7b",
+    "durationMs": 11800,
+    "priceIncrement": 100
+  }
+}

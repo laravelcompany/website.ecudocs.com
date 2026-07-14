@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - JAGUAR XJ6 X300 3.2 LNA2500BB, Oryginal 3N007214",
+  "slug": "plug-play-ecu-jaguar-xj6-x300-32-lna2500bb-oryginal-3n007214",
+  "metaDescription": "OEM Tested ECU Engine Controller for JAGUAR XJ6 X300 3.2 LNA2500BB, Plug & Play, 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested ECU Engine Controller for JAGUAR XJ6 X300",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Jaguar XJ6 X300",
+    "LNA2500BB",
+    "3N007214"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your JAGUAR XJ6 X300 3.2 LNA2500BB. It offers Plug & Play functionality and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Direct Replacement</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Parts</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>Brand and Model</td>\n                <td>JAGUAR XJ6 X300</td>\n            </tr>\n            <tr>\n                <td>Engine</td>\n                <td>3.2</td>\n            </tr>\n            <tr>\n                <td>Year</td>\n                <td>1996</td>\n            </tr>\n            <tr>\n                <td>Number Manufacturer</td>\n                <td>LNA2500BB</td>\n            </tr>\n            <tr>\n                <td>Number Parts</td>\n                <td>3N007214</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This product is designed for JAGUAR XJ6 X300 3.2 LNA2500BB. Please ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JAGUAR XJ6 X300 3.2 LNA2500BB, F02457, 3N007214",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JAGUAR-XJ6-X300-3.2-LNA2500BB%2C-F02457%2C-3N007214-/44921",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "38E5-9812D",
+    "sku": "38E5-9812D",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JAGUAR XJ6 X300 3.2 LNA2500BB, F02457, 3N007214 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JAGUAR XJ6 X300",
+      "ENGINE": "3.2",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "LNA2500BB",
+      "NUMBER PARTS": "3N007214",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:00:38.555Z",
+    "model": "mistral:7b",
+    "durationMs": 11467,
+    "priceIncrement": 100
+  }
+}

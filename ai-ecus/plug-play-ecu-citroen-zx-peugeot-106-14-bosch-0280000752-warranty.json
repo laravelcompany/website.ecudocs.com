@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller - Citroen ZX, Peugeot 106 1.4, Bosch 0 280 000 752 - Warranty Included",
+  "slug": "plug-play-ecu-citroen-zx-peugeot-106-14-bosch-0280000752-warranty",
+  "metaDescription": "Expertly tested and OEM certified Plug & Play ECU Engine Controller for Citroen ZX, Peugeot 106 1.4 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen ZX, Peugeot 106 1.4",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "Bosch 0 280 000 752",
+    "Citroen ZX",
+    "Peugeot 106"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is designed for seamless replacement in Citroen ZX and Peugeot 106 1.4 vehicles.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Certified</li>\n<li>Plug & Play Design</li>\n<li>6-Month Warranty</li>\n<li>Thoroughly Inspected and Tested</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Details</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>CITROEN ZX, PEUGEOT 106</td></tr>\n<tr><td>ENGINE</td><td>1.4</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 280 000 752</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your vehicle before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN ZX, PEUGEOT 106 1.4, BOSCH 0 280 000 752, 0280000752",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-ZX%2C-PEUGEOT-106-1.4%2C-BOSCH-0-280-000-752%2C-0280000752/50071",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "158C-20830",
+    "sku": "158C-20830",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN ZX, PEUGEOT 106 1.4, BOSCH 0 280 000 752, 0280000752</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER",
+      "BRAND AND MODEL": "CITROEN ZX, PEUGEOT 106",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 000 752",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:51:16.188Z",
+    "model": "mistral:7b",
+    "durationMs": 10953,
+    "priceIncrement": 100
+  }
+}

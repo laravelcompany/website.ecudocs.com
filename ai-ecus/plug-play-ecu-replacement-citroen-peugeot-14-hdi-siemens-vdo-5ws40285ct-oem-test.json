@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Citroen Peugeot 1.4 HDI Siemens VDO 5WS40285C-T, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-citroen-peugeot-14-hdi-siemens-vdo-5ws40285ct-oem-test",
+  "metaDescription": "Buy our Plug & Play ECU Replacement for Citroen Peugeot 1.4 HDI Siemens VDO 5WS40285C-T, tested and covered by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen Peugeot 1.4 HDI Siemens VDO",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "1.4 HDI",
+    "Siemens VDO"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Replacement for Citroen Peugeot 1.4 HDI Siemens VDO is a reliable solution to ensure smooth engine operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN PEUGEOT</td></tr>\n        <tr><th>ENGINE</th><td>1.4 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS VDO 5WS40285C-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HW9653451880</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.4 HDI SIEMENS VDO 5WS40285C-T, 5WS40285CT, SW9660300280, HW9653451880, SID806",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-1.4-HDI-SIEMENS-VDO-5WS40285C-T%2C-5WS40285CT%2C-SW9660300280%2C-HW9653451880%2C-SID806-/83120",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "AE1D-74723_20151204121819",
+    "sku": "AE1D-74723_20151204121819",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.4 HDI SIEMENS VDO 5WS40285C-T, 5WS40285CT, SW9660300280, HW9653451880, SID806 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_23a06d6cc4a10c11024d164b27d37655_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6304fab6f6be96ea792afcfc6c193810_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "1.4 HDI",
+      "NUMBER MANUFACTURER": "SIEMENS VDO 5WS40285C-T",
+      "NUMBER PARTS": "HW9653451880",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:53:52.619Z",
+    "model": "mistral:7b",
+    "durationMs": 9902,
+    "priceIncrement": 100
+  }
+}

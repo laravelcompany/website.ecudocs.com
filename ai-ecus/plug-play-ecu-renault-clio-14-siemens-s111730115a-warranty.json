@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Renault Clio 1.4 Siemens S111730115A - 6-month Warranty",
+  "slug": "plug-play-ecu-renault-clio-14-siemens-s111730115a-warranty",
+  "metaDescription": "OEM Tested Plug & Play ECU Engine Controller for Renault Clio 1.4 by Siemens. Ships within 24–48 hours, backed by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Renault Clio 1.4",
+  "tags": [
+    "ECU replacement",
+    "Plug & Play ECU",
+    "Renault Clio",
+    "Siemens S111730115A",
+    "1.4 engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Renault Clio 1.4 by Siemens is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>RENAULT CLIO</td></tr>\n        <tr><th>ENGINE:</th><td>1.4</td></tr>\n        <tr><th>YEAR:</th><td>1990-1998</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SIEMENS S111730115 A</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>7700873359</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Clio 1.4. Fitment caution may apply, please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO SIEMENS S111730115 A, S111730115A, 7700860340, 7700873359",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-SIEMENS-S111730115-A%2C-S111730115A%2C-7700860340%2C-7700873359-/66435",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "543A-522C1_20140923204802",
+    "sku": "543A-522C1_20140923204802",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO SIEMENS S111730115 A, S111730115A, 7700860340, 7700873359 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO",
+      "ENGINE": "1.4",
+      "YEAR": "1990-1998",
+      "NUMBER MANUFACTURER": "SIEMENS S111730115 A",
+      "NUMBER PARTS": "7700873359",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:14:11.097Z",
+    "model": "mistral:7b",
+    "durationMs": 9734,
+    "priceIncrement": 100
+  }
+}

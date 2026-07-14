@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Daihatsu Cuore - 1.0L (2000-2003) - Denso 112200-3560, 89560-97B66 - Warranty Included",
+  "slug": "plug-play-ecu-daihatsu-cuore-1-0l-2000-2003-denso-112200-3560-89560-97b66-warran",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller Daihatsu Cuore - 1.0L (2000-2003) by Denso. Ships within 24–48 hours, backed by a 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Daihatsu Cuore - 1.0L (2000-2003)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso",
+    "Daihatsu Cuore",
+    "1.0L engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Daihatsu Cuore - 1.0L (2000-2003) offers reliable performance and easy installation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Easy Installation</li>\n        <li>Reliable Performance</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>DAIHATSU CUORE</td></tr>\n        <tr><th>ENGINE</th><td>1.0</td></tr>\n        <tr><th>YEAR</th><td>2000-2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DENSO 112200-3560</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8956097B66</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Daihatsu Cuore models from 2000 to 2003. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DAIHATSU CUORE DENSO 112200-3560, 1122003560, 89560-97B66, 8956097B66",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DAIHATSU-CUORE-DENSO-112200-3560%2C-1122003560%2C-89560-97B66%2C-8956097B66-/62442",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "8099-137DE_20140806145019",
+    "sku": "8099-137DE_20140806145019",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DAIHATSU CUORE DENSO 112200-3560, 1122003560, 89560-97B66, 8956097B66 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DAIHATSU CUORE",
+      "ENGINE": "1.0",
+      "YEAR": "2000-2003",
+      "NUMBER MANUFACTURER": "DENSO 112200-3560",
+      "NUMBER PARTS": "8956097B66",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:00:21.727Z",
+    "model": "mistral:7b",
+    "durationMs": 12113,
+    "priceIncrement": 100
+  }
+}

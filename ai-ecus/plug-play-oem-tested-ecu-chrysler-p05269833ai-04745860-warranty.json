@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Chrysler P05269833AI, 04745860 - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-chrysler-p05269833ai-04745860-warranty",
+  "metaDescription": "Buy the Plug & Play OEM Tested ECU Replacement for Chrysler P05269833AI, 04745860. Covered by a 6-month warranty and shipped within 24–48 hours.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Chrysler",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chrysler P05269833AI",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Chrysler is a reliable solution, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for optimal performance</li><li>6-month warranty for peace of mind</li><li>Used in good condition</li><li>Locked / Unlocked option available</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>CHRYSLER</td><td>P05269833AI</td><td>04745860</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation to ensure proper fitment.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHRYSLER P05269833AI, 04745860",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHRYSLER-P05269833AI%2C-04745860-/95220",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "BCEA-64882_20160830144612",
+    "sku": "BCEA-64882_20160830144612",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHRYSLER P05269833AI, 04745860 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_dabae9298531130229987a70a123b36b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a58eb2e702bea6a9bbfc603471105ac0_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHRYSLER",
+      "NUMBER MANUFACTURER": "P05269833AI",
+      "NUMBER PARTS": "04745860",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:08:31.597Z",
+    "model": "mistral:7b",
+    "durationMs": 9032,
+    "priceIncrement": 100
+  }
+}

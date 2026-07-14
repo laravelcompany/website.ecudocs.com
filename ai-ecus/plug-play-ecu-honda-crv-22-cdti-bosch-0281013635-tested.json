@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - HONDA CRV 2.2 CDTI Bosch 0 281 013 635, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-honda-crv-22-cdti-bosch-0281013635-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for HONDA CRV 2.2 CDTI, tested and covered by a 6-month warranty.",
+  "price": "€870.00",
+  "excerpt": "Plug & Play ECU Replacement for Honda CRV 2.2 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "HONDA CRV",
+    "2.2 CDTI",
+    "Bosch",
+    "0 281 013 635"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller is a reliable replacement for your Honda CRV 2.2 CDTI.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>HONDA CRV</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.2 CDTI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 013 635</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1039S28651</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Honda CRV 2.2 CDTI. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA CRV 2.2 CDTI, BOSCH 0 281 013 635, BOSCH 0281013635, 1039S23787, 1039S28651, UA",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-CRV-2.2-CDTI%2C-BOSCH-0-281-013-635%2C-BOSCH-0281013635%2C-1039S23787%2C-1039S28651%2C-UA/38531",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1C55-78131_20130729114045",
+    "sku": "1C55-78131_20130729114045",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA CRV 2.2 CDTI, BOSCH 0 281 013 635, BOSCH 0281013635, 1039S23787, 1039S28651, UA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_6444998f2a96fb6bcf18fe77772682bd_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a25aaaa159456a2864f02918b50672ff_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA CRV",
+      "ENGINE": "2.2 CDTI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 635",
+      "NUMBER PARTS": "1039S28651",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:23:56.568Z",
+    "model": "mistral:7b",
+    "durationMs": 10673,
+    "priceIncrement": 100
+  }
+}

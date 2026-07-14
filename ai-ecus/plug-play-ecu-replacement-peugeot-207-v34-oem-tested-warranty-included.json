@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Peugeot 207 V34.1 OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-207-v34-oem-tested-warranty-included",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller Peugeot 207 V34.1 CMDE9676782980, V29010314A, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 207",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 207",
+    "Valeo V34.1",
+    "CMDE9676782980",
+    "V29010314A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Peugeot 207 offers reliable performance and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>EU Shipping</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 207</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>VALEO V34.1</td></tr>\n        <tr><th>NUMBER PARTS</th><td>V29010314A</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 207 VALEO V34.1 CMDE9676782980, V29010314A",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-207-VALEO-V34.1-CMDE9676782980%2C-V29010314A/112566",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Valeo",
+    "productCode": "54B0-18256_20190307154417",
+    "sku": "54B0-18256_20190307154417",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 207 VALEO V34.1 CMDE9676782980, V29010314A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_226542_0_0/ECU-ENGINE-CONTROLLER-PEUGEOT-207-VALEO-V34.1-CMDE9676782980%2C-V29010314A.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_226543_0_0/ECU-ENGINE-CONTROLLER-PEUGEOT-207-VALEO-V34.1-CMDE9676782980%2C-V29010314A.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 207",
+      "NUMBER MANUFACTURER": "VALEO V34.1",
+      "NUMBER PARTS": "V29010314A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:56:54.938Z",
+    "model": "mistral:7b",
+    "durationMs": 10192,
+    "priceIncrement": 100
+  }
+}

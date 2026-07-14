@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Rover 25/45 1.4, OEM Tested, Warranty Included - 3199 HC",
+  "slug": "plug-play-ecu-replacement-rover-2545-14-oem-tested-warranty-included-3199hc",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for Rover 25/45 1.4, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Rover 25/45 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 25/45",
+    "1.4 Engine",
+    "Motorola",
+    "NNN100782",
+    "3199 HC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for Rover 25/45 1.4 ensures seamless vehicle operation with a Plug & Play feature and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>ECU Replacement</li>\n        <li>Used, Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>ROVER 25/45</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>NNN100782</td></tr>\n        <tr><th>NUMBER PARTS</th><td>3199 HC</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Always confirm fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 25/45 1.4, NNN100782, 3199 HC, 3199HC",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-2545-1.4%2C-NNN100782%2C-3199-HC%2C-3199HC-/43666",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "41D4-590BD",
+    "sku": "41D4-590BD",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 25/45 1.4, NNN100782, 3199 HC, 3199HC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 25/45",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "NNN100782",
+      "NUMBER PARTS": "3199 HC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:31:43.953Z",
+    "model": "mistral:7b",
+    "durationMs": 8943,
+    "priceIncrement": 100
+  }
+}

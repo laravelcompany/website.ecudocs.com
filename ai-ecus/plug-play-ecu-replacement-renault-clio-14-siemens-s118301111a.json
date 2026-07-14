@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Renault Clio 1.4 Siemens S118301111A - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-clio-14-siemens-s118301111a",
+  "metaDescription": "Find your Plug & Play ECU Replacement for Renault Clio 1.4 Siemens S118301111A, tested and covered by a 6-month warranty. Order now!",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Clio 1.4 Siemens S118301111A",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Clio",
+    "Siemens S118301111A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Renault Clio 1.4 is a reliable solution to your engine control unit issues, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed performance</li>\n        <li>Covered by a 6-month warranty</li>\n        <li>Used original in good condition</li>\n        <li>Compatible with Renault Clio 1.4</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>RENAULT CLIO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS S118301111 A</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8200080285</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Clio 1.4. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO 1.4 SIEMENS S118301111 A, S118301111A, 8200189312, 8200080285",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-1.4-SIEMENS-S118301111-A%2C-S118301111A%2C-8200189312%2C-8200080285/55335",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "F8A8-208DC_20140507112522",
+    "sku": "F8A8-208DC_20140507112522",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO 1.4 SIEMENS S118301111 A, S118301111A, 8200189312, 8200080285</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_44c7bbd89f1aa7d319d1b02097f7dbaa_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6f8635ea7a9a9d58c20b301d18b05a87_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO",
+      "ENGINE": "1.4",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "SIEMENS S118301111 A",
+      "NUMBER PARTS": "8200080285",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:01:04.874Z",
+    "model": "mistral:7b",
+    "durationMs": 13845,
+    "priceIncrement": 100
+  }
+}

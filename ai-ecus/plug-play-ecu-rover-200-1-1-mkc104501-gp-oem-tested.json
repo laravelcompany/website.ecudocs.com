@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - ROVER 200 1.1 MKC104501 GP OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-rover-200-1-1-mkc104501-gp-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU ENGINE CONTROLLER ROVER 200 1.1 MKC104501 GP, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU for ROVER 200 1.1 MKC104501 GP",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "ROVER 200",
+    "MKC104501",
+    "GP"
+  ],
+  "description": "<section class=\"overview\">This Oryginal ECU ENGINE CONTROLLER for ROVER 200 1.1 MKC104501 GP has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>ROVER 200</td></tr>\n    <tr><th>ENGINE</th><td>1.1</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>MKC104501</td></tr>\n    <tr><th>NUMBER PARTS</th><td>GP</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 200 1.1 MKC104501 GP",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-200-1.1-MKC104501-GP/36240",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "AA2B-673F0_20130612114558",
+    "sku": "AA2B-673F0_20130612114558",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 200 1.1 MKC104501 GP</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8ce4076cff48a6084ccc015bd1c6e58e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7f55e8d496a03bd1b44fcbe35de6c150_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 200",
+      "ENGINE": "1.1",
+      "NUMBER MANUFACTURER": "MKC104501",
+      "NUMBER PARTS": "GP",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:26:32.229Z",
+    "model": "mistral:7b",
+    "durationMs": 8398,
+    "priceIncrement": 100
+  }
+}

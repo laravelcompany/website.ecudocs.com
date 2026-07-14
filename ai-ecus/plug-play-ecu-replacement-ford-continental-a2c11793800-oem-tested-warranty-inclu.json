@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Continental A2C11793800, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-continental-a2c11793800-oem-tested-warranty-inclu",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Ford Continental A2C11793800, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€870.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Continental",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Continental",
+    "A2C11793800"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller is a reliable replacement for your Ford Continental A2C11793800.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>FORD</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>CONTINENTAL A2C11793800</td></tr>\n      <tr><th>NUMBER PARTS</th><td>872508785</td></tr>\n      <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD CONTINENTAL A2C11793800, F1DA-12A650-BGA, F1DA12A650BGA, 872508785",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-CONTINENTAL-A2C11793800%2C-F1DA-12A650-BGA%2C-F1DA12A650BGA%2C-872508785/110307",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "B331-684F3_20180706155506",
+    "sku": "B331-684F3_20180706155506",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD CONTINENTAL A2C11793800, F1DA-12A650-BGA, F1DA12A650BGA, 872508785</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_72d31331c5d99923ac424570e0cdb111_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4ce034ffb21dcd40a06a048b6e693aad_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "CONTINENTAL A2C11793800",
+      "NUMBER PARTS": "872508785",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:06:02.748Z",
+    "model": "mistral:7b",
+    "durationMs": 9146,
+    "priceIncrement": 100
+  }
+}

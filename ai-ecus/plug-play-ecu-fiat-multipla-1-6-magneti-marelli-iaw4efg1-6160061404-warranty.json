@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Fiat Multipla 1.6 Engine Controller (BIPOWER F3) - Magneti Marelli IAW 4EF.G1, IAW4EFG1, 61600.614.04, 6160061404 - Warranty Included",
+  "slug": "plug-play-ecu-fiat-multipla-1-6-magneti-marelli-iaw4efg1-6160061404-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat Multipla BIPOWER F3 (1.6) by Magneti Marelli, tested and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Multipla BIPOWER F3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Multipla",
+    "BIPOWER F3",
+    "Magneti Marelli",
+    "1.6 Engine Controller"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and functional ECU engine controller for the Fiat Multipla BIPOWER F3 (1.6) is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Functional Condition</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT MULTIPLA BIPOWER F3</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6160061404</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific ECU programming requirements. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT MULTIPLA BIPOWER F3 MAGNETI MARELLI IAW 4EF.G1, IAW4EFG1, 61600.614.04, 6160061404",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-MULTIPLA-BIPOWER-F3-MAGNETI-MARELLI-IAW-4EF.G1%2C-IAW4EFG1%2C-61600.614.04%2C-6160061404/60050",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "54F2-1053A_20140710114254",
+    "sku": "54F2-1053A_20140710114254",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT MULTIPLA BIPOWER F3 MAGNETI MARELLI IAW 4EF.G1, IAW4EFG1, 61600.614.04, 6160061404</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT MULTIPLA BIPOWER F3",
+      "ENGINE": "1.6",
+      "NUMBER PARTS": "6160061404",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:07:31.779Z",
+    "model": "mistral:7b",
+    "durationMs": 10818,
+    "priceIncrement": 100
+  }
+}

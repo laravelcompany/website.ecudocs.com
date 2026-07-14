@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for NISSAN MICRA 1.2 - Hitachi MEC32-040 U3, MEC32040, F3 - Warranty Included",
+  "slug": "plug-play-ecu-nissan-mica-1-2-hitachi-mec32-040-u3-mec32040-f3-warranty",
+  "metaDescription": "Expertly tested and OEM replacement ECU for NISSAN MICRA 1.2, featuring Plug & Play compatibility, backed by a 6-month warranty.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for NISSAN MICRA 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hitachi MEC32-040 U3",
+    "NISSAN MICRA 1.2"
+  ],
+  "description": "<section class=\"overview\">This Hitachi ECU Engine Controller is a tested and reliable replacement for your NISSAN MICRA 1.2, ensuring seamless engine operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Certified technician inspected and tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>NISSAN MICRA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.2</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2002-05</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MEC32-040 U3</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>MEC32040</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with NISSAN MICRA 1.2. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN MICRA 1.2 MEC32-040 U3 , MEC32040, MEC32-040 F3",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-MICRA-1.2-MEC32-040-U3-%2C-MEC32040%2C-MEC32-040-F3-/13133",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "F7FE-39167",
+    "sku": "F7FE-39167",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN MICRA 1.2 MEC32-040 U3 , MEC32040, MEC32-040 F3 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN MICRA",
+      "ENGINE": "1.2",
+      "YEAR": "2002-05",
+      "NUMBER MANUFACTURER": "MEC32-040 U3",
+      "NUMBER PARTS": "MEC32040",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:17:44.731Z",
+    "model": "mistral:7b",
+    "durationMs": 13538,
+    "priceIncrement": 100
+  }
+}

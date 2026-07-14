@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Opel Corsa D 55485159 AB2T - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-opel-corsa-d-55485159-ab2t-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Opel Corsa D 55485159 AB2T. OEM tested, warranty included, and fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Corsa D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "OPEL CORSA D",
+    "ACDelco"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for the Opel Corsa D is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Compatible with Opel Corsa D</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CORSA D</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>55485159 AB2T</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU engine controller is compatible with Opel Corsa D only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA D 55485159 AB2T",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-D-55485159-AB2T/117429",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "ACDelco",
+    "productCode": "E522-2256C_20200219150050",
+    "sku": "E522-2256C_20200219150050",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA D 55485159 AB2T</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_238232_0_0/OPEL-CORSA-D-55485159-AB2T.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_238233_0_0/OPEL-CORSA-D-55485159-AB2T.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA D",
+      "NUMBER MANUFACTURER": "55485159 AB2T",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:00:00.149Z",
+    "model": "mistral:7b",
+    "durationMs": 9694,
+    "priceIncrement": 100
+  }
+}

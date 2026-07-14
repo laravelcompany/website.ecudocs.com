@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Mitsubishi Colt 1.1 Z30 Oryginal A1341503379, Warranty Included",
+  "slug": "plug-play-ecu-mitsubishi-colt-1-1-z30-oryginal-a1341503379-warranty",
+  "metaDescription": "OEM tested ECU Engine Controller for Mitsubishi Colt 1.1 Z30, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€200.00",
+  "excerpt": "Plug & Play ECU replacement for Mitsubishi Colt 1.1 Z30",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mitsubishi Colt",
+    "Oryginal",
+    "A1341503379"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Mitsubishi Colt 1.1 Z30 is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MITSUBISHI COLT 1.1 Z30 A1341503379, A 134 150 33 79, 1860A823 E6T42495 HZE",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MITSUBISHI-COLT-1.1-Z30-A1341503379%2C-A-134-150-33-79%2C-1860A823-E6T42495-HZE/16921",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "1D1C-55370",
+    "sku": "1D1C-55370",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MITSUBISHI COLT 1.1 Z30 A1341503379, A 134 150 33 79, 1860A823 E6T42495 HZE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MITSUBISHI COLT",
+      "ENGINE": "1.1",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "1860A823 Z30",
+      "NUMBER PARTS": "E6T42495 HZE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:51:45.878Z",
+    "model": "mistral:7b",
+    "durationMs": 6487,
+    "priceIncrement": 100
+  }
+}

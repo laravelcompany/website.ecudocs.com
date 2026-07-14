@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Focus Continental 5WS40735D-T, KYMD - Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-replacement-ford-focus-continental-5ws40735dt-kymd-warr",
+  "metaDescription": "Expertly tested and OEM replacement ECU for Ford Focus Continental. Plug & Play, 6-month warranty, fast dispatch within EU.",
+  "price": "€540.00",
+  "excerpt": "OEM Tested ECU Replacement for Ford Focus Continental",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Continental",
+    "5WS40735D-T",
+    "KYMD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is suitable for Ford Focus Continental. It is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FOCUS</td></tr>\n        <tr><th>YEAR</th><td>2010</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>CONTINENTAL 5WS40735D-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>KYMD</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS CONTINENTAL 5WS40735D-T, 5WS40735DT, FoMoCo 8M 51-12A650-AMD, 8M5112A650AMD, KYMD, SID803A",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-CONTINENTAL-5WS40735D-T%2C-5WS40735DT%2C-FoMoCo-8M-51-12A650-AMD%2C-8M5112A650AMD%2C-KYMD%2C-SID803A-/70991",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "A072-3383C_20141229155258",
+    "sku": "A072-3383C_20141229155258",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS CONTINENTAL 5WS40735D-T, 5WS40735DT, FoMoCo 8M 51-12A650-AMD, 8M5112A650AMD, KYMD, SID803A </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_68c31bc6719f91a6b7828f05fc2c5aae_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7aaf28818614d9307e94b8dcee8b9d43_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "CONTINENTAL 5WS40735D-T",
+      "NUMBER PARTS": "KYMD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:12:50.463Z",
+    "model": "mistral:7b",
+    "durationMs": 10181,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Citroen Xsara / Peugeot 306 2.0 BOSCH - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-xsara-peugeot-306-bosch-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Citroen Xsara / Peugeot 306 2.0 BOSCH (0281001976, EDC15C2 07). OEM tested, warranty included.",
+  "price": "€137.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen Xsara / Peugeot 306 2.0 BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Xsara",
+    "Peugeot 306",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is an OEM replacement for Citroen Xsara and Peugeot 306 2.0 BOSCH models, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN XSARA PEUGEOT 306</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>YEAR</th><td>1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 976</td></tr>\n        <tr><th>NUMBER PARTS</th><td>EDC15C2 07</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen Xsara and Peugeot 306 2.0 BOSCH models. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN XSARA PEUGEOT 306 2.0 BOSCH 0281001976, 0 281 001 976, 9635157580, 96 351 575 80, EDC15C2 07",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-XSARA-PEUGEOT-306-2.0-BOSCH-0281001976%2C-0-281-001-976%2C-9635157580%2C-96-351-575-80%2C-EDC15C2-07/30281",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7DE9-101E1_20120930160043",
+    "sku": "7DE9-101E1_20120930160043",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN XSARA PEUGEOT 306 2.0 BOSCH 0281001976, 0 281 001 976, 9635157580, 96 351 575 80, EDC15C2 07</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN XSARA PEUGEOT 306",
+      "ENGINE": "2.0",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 976",
+      "NUMBER PARTS": "EDC15C2 07",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:45:14.037Z",
+    "model": "mistral:7b",
+    "durationMs": 10207,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Jaguar XJ40 2.9, Bosch 0 280 001 500, DBC 2158 - 6-month Warranty",
+  "slug": "plug-play-ecu-jaguar-xj40-29-bosch-0280001500-dbcm2158",
+  "metaDescription": "Expertly tested and OEM ECU Engine Controller for Jaguar XJ40 2.9, Bosch 0 280 001 500, DBC 2158 - Plug & Play, 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Jaguar XJ40 2.9",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 280 001 500",
+    "DBC 2158",
+    "Jaguar XJ40"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is specifically designed for Jaguar XJ40 2.9 with Bosch 0 280 001 500, DBC 2158.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>JAGUAR XJ40</td></tr><tr><th>ENGINE</th><td>2.9</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 280 001 500</td></tr><tr><th>NUMBER PARTS</th><td>DBC 2158</td></tr><tr><th>WARRANTY</th><td>6-month warranty</td></tr><tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JAGUAR XJ40 2.9, BOSCH 0 280 001 500, 0280001500, DBC 2158, DBC2158",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JAGUAR-XJ40-2.9%2C-BOSCH-0-280-001-500%2C-0280001500%2C-DBC-2158%2C-DBC2158-/47198",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0D3E-11617",
+    "sku": "0D3E-11617",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JAGUAR XJ40 2.9, BOSCH 0 280 001 500, 0280001500, DBC 2158, DBC2158 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JAGUAR XJ40",
+      "ENGINE": "2.9",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 001 500",
+      "NUMBER PARTS": "DBC 2158",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:59:48.612Z",
+    "model": "mistral:7b",
+    "durationMs": 10173,
+    "priceIncrement": 100
+  }
+}

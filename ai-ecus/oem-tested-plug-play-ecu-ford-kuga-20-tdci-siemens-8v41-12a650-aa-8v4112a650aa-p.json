@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Kuga 2.0 TDCI - Siemens 8V41-12A650-AA, 8V4112A650AA, PR122865022, 5010336, 1565981",
+  "slug": "oem-tested-plug-play-ecu-ford-kuga-20-tdci-siemens-8v41-12a650-aa-8v4112a650aa-p",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Ford Kuga 2.0 TDCI. Shipped within 24–48 hours with a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Kuga 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Kuga",
+    "2.0 TDCI",
+    "Siemens",
+    "8V41-12A650-AA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Kuga 2.0 TDCI is a reliable solution to your engine control unit issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>Used, Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr><th>Specification</th><th>Value</th></tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>FORD KUGA</td></tr>\n            <tr><td>ENGINE</td><td>2.0 TDCI</td></tr>\n            <tr><td>YEAR</td><td>2006</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>8V41-12A650-AA</td></tr>\n            <tr><td>NUMBER PARTS</td><td>1565981</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours with a 6-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Kuga 2.0 TDCI, but always ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD KUGA 2.0 TDCI 8V41-12A650-AA, 8V4112A650AA, PR122865022, 5010336, 1565981",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-KUGA-2.0-TDCI-8V41-12A650-AA%2C-8V4112A650AA%2C-PR122865022%2C-5010336%2C-1565981/40459",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "B182-391F4_20130825144519",
+    "sku": "B182-391F4_20130825144519",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD KUGA 2.0 TDCI 8V41-12A650-AA, 8V4112A650AA, PR122865022, 5010336, 1565981</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD KUGA",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "8V41-12A650-AA",
+      "NUMBER PARTS": "1565981",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:28:48.119Z",
+    "model": "mistral:7b",
+    "durationMs": 11287,
+    "priceIncrement": 100
+  }
+}

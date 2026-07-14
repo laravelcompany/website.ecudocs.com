@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Bravo Marea 1.9 TD R04080003J, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-bravo-marea-19-td-r04080003j-oem-tested-warranty",
+  "metaDescription": "OEM tested ECU Engine Controller for Fiat Bravo Marea 1.9 TD R04080003J, 6-month warranty and Plug & Play installation.",
+  "price": "€80.00",
+  "excerpt": "Replacement ECU for Fiat Bravo Marea 1.9 TD - OEM tested, Plug & Play",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Bravo Marea",
+    "1.9 TD",
+    "R04080003J"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement is specifically designed for Fiat Bravo Marea 1.9 TD R04080003J, ensuring seamless integration with your vehicle's engine.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play Installation</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Thoroughly Inspected and Tested by a Certified Technician</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FIAT BRAVO MAREA</td><td>1.9 TD</td><td>1996-2002</td><td>R04080003J</td><td>80537L</td><td>Plug & Play / Locked / Ready for programming</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT BRAVO MAREA 1.9 TD R04080003J, 80537L",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-BRAVO-MAREA-1.9-TD-R04080003J%2C-80537L/35920",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "73F6-410D4_20130530011254",
+    "sku": "73F6-410D4_20130530011254",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT BRAVO MAREA 1.9 TD R04080003J, 80537L</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT BRAVO MAREA",
+      "ENGINE": "1.9 TD",
+      "YEAR": "1996-2002",
+      "NUMBER MANUFACTURER": "R04080003J",
+      "NUMBER PARTS": "80537L",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:28:07.961Z",
+    "model": "mistral:7b",
+    "durationMs": 9269,
+    "priceIncrement": 100
+  }
+}

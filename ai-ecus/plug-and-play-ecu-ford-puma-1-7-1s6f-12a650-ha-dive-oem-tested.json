@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Puma 1.7, 1S6F-12A650-HA, DIVE - ECU Replacement",
+  "slug": "plug-and-play-ecu-ford-puma-1-7-1s6f-12a650-ha-dive-oem-tested",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford Puma 1.7, 1S6F-12A650-HA, DIVE. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Ford Puma 1.7",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Puma",
+    "1S6F-12A650-HA",
+    "DIVE"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller is a reliable replacement for your Ford Puma 1.7, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play Design for Easy Installation</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Fast Dispatch within EU</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD PUMA</td></tr>\n<tr><td>ENGINE</td><td>1.7</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>1S6F-12A650-HA</td></tr>\n<tr><td>NUMBER PARTS</td><td>DIVE</td></tr>\n<tr><td>WARRANTY</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with a 12-month warranty and fast dispatch within EU.</section>\n<section class=\"compatibility\">Compatible with Ford Puma 1.7, but always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD PUMA 1.7, 1S6F-12A650-HA, 1S6F12A650HA, DIVE",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-PUMA-1.7%2C-1S6F-12A650-HA%2C-1S6F12A650HA%2C-DIVE/126400",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "A0E1-8405C",
+    "sku": "A0E1-8405C",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD PUMA 1.7, 1S6F-12A650-HA, 1S6F12A650HA, DIVE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_258433_0_0/IMG_7019.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_258434_0_0/IMG_7020.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD PUMA",
+      "ENGINE": "1.7",
+      "NUMBER MANUFACTURER": "1S6F-12A650-HA",
+      "NUMBER PARTS": "DIVE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:53:10.865Z",
+    "model": "mistral:7b",
+    "durationMs": 10636,
+    "priceIncrement": 100
+  }
+}

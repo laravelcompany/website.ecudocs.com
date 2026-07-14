@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Engine Controller - Citroen Peugeot 1.9 (LUCAS R04080028B) - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-citroen-peugeot-19-lucas-r04080028b-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Citroen Peugeot 1.9 (LUCAS R04080028B). Plug & Play, warranty included. Fast dispatch and 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU Engine Controller for Citroen Peugeot 1.9 (LUCAS R04080028B)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "LUCAS R04080028B"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Citroen Peugeot 1.9 (LUCAS R04080028B) is a reliable replacement, ensuring optimal performance and compatibility.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN PEUGEOT</td></tr>\n        <tr><th>ENGINE</th><td>1.9</td></tr>\n        <tr><th>YEAR</th><td>2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>LUCAS R04080028B</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DWLC12</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific issues. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT LUCAS R04080028B, PSA 9641390180, SOFT 9644506780,DCN2, DWLC12",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-LUCAS-R04080028B%2C-PSA-9641390180%2C-SOFT-9644506780%2CDCN2%2C-DWLC12/53035",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "18ED-27297_20140328141335",
+    "sku": "18ED-27297_20140328141335",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT LUCAS R04080028B, PSA 9641390180, SOFT 9644506780,DCN2, DWLC12</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "1.9",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "LUCAS R04080028B",
+      "NUMBER PARTS": "DWLC12",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:28:13.779Z",
+    "model": "mistral:7b",
+    "durationMs": 10250,
+    "priceIncrement": 100
+  }
+}

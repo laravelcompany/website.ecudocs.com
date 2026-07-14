@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Renault Megane - Johnson Controls 21584288-2A, 215842882A, 8200321263, 8200387138 - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-engine-controller-renault-megane-johnson-controls-21584",
+  "metaDescription": "OEM tested Plug & Play ECU Engine Controller for Renault Megane by Johnson Controls. Used in good condition, 6-month warranty. Ships within 24–48 hours.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Renault Megane",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Johnson Controls",
+    "Renault Megane"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for the Renault Megane by Johnson Controls is a reliable replacement for your vehicle's engine control system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>RENAULT MEGANE</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>Johnson Controls 21584288-2A</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8200387138</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED / COMPLETE</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE Johnson Controls 21584288-2A, 215842882A, 8200321263, 8200387138",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-Johnson-Controls-21584288-2A%2C-215842882A%2C-8200321263%2C-8200387138-/103582",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Johnson Controls",
+    "productCode": "BD73-880F4_20170227223904",
+    "sku": "BD73-880F4_20170227223904",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE Johnson Controls 21584288-2A, 215842882A, 8200321263, 8200387138 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE",
+      "NUMBER MANUFACTURER": "Johnson Controls 21584288-2A",
+      "NUMBER PARTS": "8200387138",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:53:20.882Z",
+    "model": "mistral:7b",
+    "durationMs": 11186,
+    "priceIncrement": 100
+  }
+}

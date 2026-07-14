@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford Fiesta Fusion 1.4 TDCI Siemens 5WS40031E-T - Warranty Included",
+  "slug": "plug-play-ecu-ford-fiesta-fusion-14-tdci-siemens-5ws40031et-warranty",
+  "metaDescription": "Expertly tested and OEM Siemens ECU for Ford Fiesta Fusion 1.4 TDCI. Plug & Play replacement, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested ECU Replacement for Ford Fiesta Fusion 1.4 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta Fusion",
+    "1.4 TDCI",
+    "Siemens",
+    "5WS40031E-T"
+  ],
+  "description": "<section class=\"overview\">This Siemens ECU engine controller is a tested and certified replacement for your Ford Fiesta Fusion 1.4 TDCI. Trust our expert technicians for reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM-tested and approved</li>\n        <li>Plug & Play installation</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Compatible with locked/unlocked options</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FIESTA FUSION</td></tr>\n        <tr><th>ENGINE</th><td>1.4 TDCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WS40031E-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>4AGD</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta Fusion 1.4 TDCI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA FUSION 1.4 TDCI SIEMENS 5WS40031E-T, 5WS40031ET, 2N1A-12A650-AE, 2N1A12A650AE, 4AGD, SID802",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-FUSION-1.4-TDCI-SIEMENS-5WS40031E-T%2C-5WS40031ET%2C-2N1A-12A650-AE%2C-2N1A12A650AE%2C-4AGD%2C-SID802-/104169",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "AF39-4106B_20170309164252",
+    "sku": "AF39-4106B_20170309164252",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA FUSION 1.4 TDCI SIEMENS 5WS40031E-T, 5WS40031ET, 2N1A-12A650-AE, 2N1A12A650AE, 4AGD, SID802 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_b496ff3909bcda5c61501c35c0b26a34_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_31c3bed7da776ba873474d23731cb9a7_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA FUSION",
+      "ENGINE": "1.4 TDCI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40031E-T",
+      "NUMBER PARTS": "4AGD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:37:11.516Z",
+    "model": "mistral:7b",
+    "durationMs": 10722,
+    "priceIncrement": 100
+  }
+}

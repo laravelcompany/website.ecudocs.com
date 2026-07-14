@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Mercedes W208 220 CDI - Delphi R0412C031D, A0054461640",
+  "slug": "oem-tested-plug-play-ecu-replacement-mercedes-w208-220-cdi-delphi-r0412c031d-a00",
+  "metaDescription": "Buy the OEM tested Plug & Play ECU replacement for Mercedes W208 220 CDI by Delphi. This used part is in good condition, comes with a 6-month warranty and ships within 24–48 hours.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mercedes W208 220 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delphi R0412C031D",
+    "Mercedes W208",
+    "220 CDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Mercedes W208 220 CDI is guaranteed to provide reliable performance. It has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W208</td></tr>\n        <tr><th>ENGINE</th><td>220 CDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELPHI R0412C031D 28103309, Q01 CRD.11 0M646 EVO</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0054461640</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">This part ships within 24–48 hours and is covered by a 6-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation. This ECU may require programming or additional parts for proper fitment.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W208 220 CDI A6461501972, A 646 150 19 72, 6461501972, A0054461640, A 005 446 16 40, 0054461640, DELPHI R0412C031D 28103309, Q01 CRD.11 0M646 EVO",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W208-220-CDI-A6461501972%2C-A-646-150-19-72%2C-6461501972%2C-A0054461640%2C-A-005-446-16-40%2C-0054461640%2C-DELPHI-R0412C031D-28103309%2C-Q01-CRD.11-0M646-EVO/26904",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "E674-337A1_20120725195007",
+    "sku": "E674-337A1_20120725195007",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W208 220 CDI A6461501972, A 646 150 19 72, 6461501972, A0054461640, A 005 446 16 40, 0054461640, DELPHI R0412C031D 28103309, Q01 CRD.11 0M646 EVO</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_279155_0_0/MERCEDES-W208-220-CDI-A6461501972%2C-A-646-150-19-72%2C-6461501972%2C-A0054461640%2C-A-005-446-16-40%2C-0054461640%2C-DELPHI-R0412C031D-28103309%2C-Q01-CRD.11-0M646-EVO.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_279156_0_0/MERCEDES-W208-220-CDI-A6461501972%2C-A-646-150-19-72%2C-6461501972%2C-A0054461640%2C-A-005-446-16-40%2C-0054461640%2C-DELPHI-R0412C031D-28103309%2C-Q01-CRD.11-0M646-EVO.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W208",
+      "ENGINE": "220 CDI",
+      "NUMBER MANUFACTURER": "DELPHI R0412C031D 28103309, Q01 CRD.11 0M646 EVO",
+      "NUMBER PARTS": "0054461640",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:24:40.953Z",
+    "model": "mistral:7b",
+    "durationMs": 10468,
+    "priceIncrement": 100
+  }
+}

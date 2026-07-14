@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford 2.3 i 16V (96GP-15K600-DB), Warranty Included",
+  "slug": "plug-play-ecu-ford-2-3i-16v-96gp15k600db-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for Ford 2.3 i 16V (96GP-15K600-DB). Enjoy fast dispatch, 6-month warranty, and expert installation.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford 2.3 i 16V (96GP-15K600-DB)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford 2.3 i 16V",
+    "OEM Tested"
+  ],
+  "description": "<section class=\"overview\">This Oryginal ECU Engine Controller for Ford 2.3 i 16V (96GP-15K600-DB) is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD</td></tr>\n        <tr><th>ENGINE</th><td>2.3 i 16V</td></tr>\n        <tr><th>YEAR</th><td>1994-1998</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>96GP-15K600-DB</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford vehicles from 1994 to 1998 equipped with a 2.3 i 16V engine.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 96GP-15K600-DB, 96GP15K600DB",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-96GP-15K600-DB%2C-96GP15K600DB/67389",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "9F3A-45554_20141006134453",
+    "sku": "9F3A-45554_20141006134453",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 96GP-15K600-DB, 96GP15K600DB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "ENGINE": "2.3 i 16V",
+      "YEAR": "1994-1998",
+      "NUMBER MANUFACTURER": "96GP-15K600-DB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:55:43.702Z",
+    "model": "mistral:7b",
+    "durationMs": 11163,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford Galaxy 2.3 - XM2F-12A650-EB NUKE - Visteon",
+  "slug": "plug-play-oem-ecu-replacement-ford-galaxy-2-3-xm2f-12a650-eb-visteon",
+  "metaDescription": "Buy a tested and certified Plug & Play OEM ECU replacement for your Ford Galaxy 2.3 (1998-2005). Enjoy fast shipping, 12-month warranty, and expert support.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Ford Galaxy 2.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Galaxy",
+    "Visteon",
+    "XM2F-12A650-EB"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for your Ford Galaxy 2.3 (1998-2005) is thoroughly inspected, tested, and covered by a 12-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-Month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Expert Support</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th></th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>FORD GALAXY</td></tr>\n            <tr><td>ENGINE</td><td>2.3</td></tr>\n            <tr><td>YEAR</td><td>1998-2005</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>XM2F-12A650-EB</td></tr>\n            <tr><td>CODE</td><td>NUKE</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Galaxy 2.3 (1998-2005). Fitment caution may apply. Consult our technical support team for assistance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD GALAXY 2.3 XM2F-12A650-EB NUKE, XM2F12A650EB, 12A650EB",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-GALAXY-2.3-XM2F-12A650-EB-NUKE%2C-XM2F12A650EB%2C-12A650EB/39102",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "0A19-310A6_20130807105855",
+    "sku": "0A19-310A6_20130807105855",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD GALAXY 2.3 XM2F-12A650-EB NUKE, XM2F12A650EB, 12A650EB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD GALAXY",
+      "ENGINE": "2.3",
+      "YEAR": "1998-2005",
+      "NUMBER MANUFACTURER": "XM2F-12A650-EB",
+      "CODE": "NUKE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:22:39.686Z",
+    "model": "mistral:7b",
+    "durationMs": 12245,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for SMART A132 153 27 79 (BOSCH 0261S04012) - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-smart-a132-153-27-79-bosch-0261s04012-tested",
+  "metaDescription": "Buy the Plug & Play ECU ENGINE CONTROLLER SMART A1321532779, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for SMART (BOSCH 0261S04012)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SMART A132 153 27 79",
+    "BOSCH 0261S04012"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for SMART (BOSCH 0261S04012) is a reliable solution, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SMART</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S04 012</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1321532779</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the vehicle's specific configuration. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SMART A1321532779, 1321532779, A 132 153 27 79 BOSCH 0261S04012, 0 261 S04 012",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SMART-A1321532779%2C-1321532779%2C-A-132-153-27-79-BOSCH-0261S04012%2C-0-261-S04-012/27157",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E7F2-10757_20120731092313",
+    "sku": "E7F2-10757_20120731092313",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SMART A1321532779, 1321532779, A 132 153 27 79 BOSCH 0261S04012, 0 261 S04 012</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SMART",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S04 012",
+      "NUMBER PARTS": "1321532779",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:48:02.516Z",
+    "model": "mistral:7b",
+    "durationMs": 9488,
+    "priceIncrement": 100
+  }
+}

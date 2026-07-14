@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - KIA Picanto 1.1 CRDI Bosch 0 281 015 672, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-kia-picanto-11-crdi-bosch-0281015672-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Replacement for KIA Picanto 1.1 CRDI Bosch 0 281 015 672, OEM tested and covered by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for KIA Picanto 1.1 CRDI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA Picanto",
+    "Bosch",
+    "1.1 CRDI"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for KIA Picanto 1.1 CRDI Bosch has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with KIA Picanto 1.1 CRDI. Fitment caution may apply. Consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA PICANTO 1.1 CRDI BOSCH 0 281 015 672, 0281015672, 39101-2A031, 391012A031",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-PICANTO-1.1-CRDI-BOSCH-0-281-015-672%2C-0281015672%2C-39101-2A031%2C-391012A031-/89101",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F0DB-4269E_20160404173334",
+    "sku": "F0DB-4269E_20160404173334",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA PICANTO 1.1 CRDI BOSCH 0 281 015 672, 0281015672, 39101-2A031, 391012A031 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA PICANTO",
+      "ENGINE": "1.1 CRDI",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 672",
+      "NUMBER PARTS": "39101-2A031",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:23:02.992Z",
+    "model": "mistral:7b",
+    "durationMs": 6678,
+    "priceIncrement": 100
+  }
+}

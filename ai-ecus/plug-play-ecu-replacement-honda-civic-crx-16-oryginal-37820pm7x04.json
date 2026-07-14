@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Honda Civic CRX 1.6 Oryginal 37820-PM7-X04, Warranty Included",
+  "slug": "plug-play-ecu-replacement-honda-civic-crx-16-oryginal-37820pm7x04",
+  "metaDescription": "Buy the tested and certified Plug & Play ECU Engine Controller for Honda Civic CRX 1.6 (37820-PM7-X04, MR). Includes a 6-month warranty and fast shipping.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Honda Civic CRX 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Civic CRX",
+    "Oryginal part",
+    "1.6 engine"
+  ],
+  "description": "<section class=\"overview\">This Oryginal ECU Engine Controller for Honda Civic CRX 1.6 has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast shipping within 24–48 hours</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Parts</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>Brand and Model</td>\n                <td>HONDA CIVIC CRX</td>\n            </tr>\n            <tr>\n                <td>Engine</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>Year</td>\n                <td>1991</td>\n            </tr>\n            <tr>\n                <td>Number Parts</td>\n                <td>MR</td>\n            </tr>\n            <tr>\n                <td>Inspection</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>Warranty</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>Condition</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific year and model. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA CIVIC CRX 1.6 37820-PM7-X04, 37820PM7X04, 644-319484, MR",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-CIVIC-CRX-1.6-37820-PM7-X04%2C-37820PM7X04%2C-644-319484%2C-MR/59168",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "13C1-476A8_20140623105236",
+    "sku": "13C1-476A8_20140623105236",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA CIVIC CRX 1.6 37820-PM7-X04, 37820PM7X04, 644-319484, MR</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA CIVIC CRX",
+      "ENGINE": "1.6",
+      "YEAR": "1991",
+      "NUMBER PARTS": "MR",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:22:12.058Z",
+    "model": "mistral:7b",
+    "durationMs": 11880,
+    "priceIncrement": 100
+  }
+}

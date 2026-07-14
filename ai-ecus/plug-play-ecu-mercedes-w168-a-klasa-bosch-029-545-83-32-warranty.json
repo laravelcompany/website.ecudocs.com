@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Mercedes W168 A Klasa ESP+HBA (029 545 83 32) - Warranty Included",
+  "slug": "plug-play-ecu-mercedes-w168-a-klasa-bosch-029-545-83-32-warranty",
+  "metaDescription": "Get a Plug & Play ECU Replacement for your Mercedes W168 A Klasa, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU replacement for Mercedes W168 A Klasa",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W168 A Klasa",
+    "Bosch 029 545 83 32"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for your Mercedes W168 A Klasa offers Plug & Play functionality and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch within EU</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER ESP+HBA</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W168 A KLASA</td></tr>\n        <tr><th>NUMBER PARTS</th><td>029 545 83 32</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ESP+HBA MERCEDES W168 A KLASA BOSCH 0 265 109 496, 0265109496, 029 545 83 32, 0295458332",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ESP-HBA-MERCEDES-W168-A-KLASA-BOSCH-0-265-109-496%2C-0265109496%2C-029-545-83-32%2C-0295458332/61002",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "478B-683EF_20140723182212",
+    "sku": "478B-683EF_20140723182212",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ESP+HBA MERCEDES W168 A KLASA BOSCH 0 265 109 496, 0265109496, 029 545 83 32, 0295458332</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER ESP+HBA",
+      "BRAND AND MODEL": "MERCEDES W168 A KLASA",
+      "NUMBER PARTS": "0295458332",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:06:22.737Z",
+    "model": "mistral:7b",
+    "durationMs": 10001,
+    "priceIncrement": 100
+  }
+}

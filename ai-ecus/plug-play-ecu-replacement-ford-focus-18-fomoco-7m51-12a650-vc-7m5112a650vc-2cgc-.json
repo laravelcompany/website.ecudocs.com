@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Ford Focus 1.8 FoMoCo 7M51-12A650-VC, 7M5112A650VC, 2CGC - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-focus-18-fomoco-7m51-12a650-vc-7m5112a650vc-2cgc-",
+  "metaDescription": "Find the Plug & Play ECU Replacement for your Ford Focus 1.8 FoMoCo 7M51-12A650-VC, 7M5112A650VC, 2CGC. This OEM tested part comes with a 6-month warranty and is ready for fast dispatch.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Focus 1.8 FoMoCo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "1.8 FoMoCo",
+    "7M51-12A650-VC",
+    "7M5112A650VC",
+    "2CGC"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your Ford Focus 1.8 FoMoCo has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Plug & Play</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FOCUS</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>FoMoCo 7M51-12A650-VC</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>2CGC</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">This product comes with a 6-month warranty and ships within 24–48 hours.</section>\n<section class=\"compatibility\">Please ensure this ECU is compatible with your specific Ford Focus model before purchase. Contact our support team for assistance if needed.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.8 FoMoCo 7M51-12A650-VC, 7M5112A650VC, 2CGC",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.8-FoMoCo-7M51-12A650-VC%2C-7M5112A650VC%2C-2CGC-/82033",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "FoMoCo",
+    "productCode": "1E54-762DF_20151118151243",
+    "sku": "1E54-762DF_20151118151243",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.8 FoMoCo 7M51-12A650-VC, 7M5112A650VC, 2CGC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "FoMoCo 7M51-12A650-VC",
+      "NUMBER PARTS": "2CGC",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:55:06.431Z",
+    "model": "mistral:7b",
+    "durationMs": 12617,
+    "priceIncrement": 100
+  }
+}

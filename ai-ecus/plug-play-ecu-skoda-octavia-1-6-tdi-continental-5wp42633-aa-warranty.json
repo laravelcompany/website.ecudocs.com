@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Skoda Octavia 1.6 TDI Continental 5WP42633 AA - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-skoda-octavia-1-6-tdi-continental-5wp42633-aa-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Replacement for your Skoda Octavia 1.6 TDI Continental 5WP42633 AA, backed by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Skoda Octavia 1.6 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Octavia",
+    "Continental 5WP42633 AA",
+    "1.6 TDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Skoda Octavia 1.6 TDI is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM Tested and Certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SKODA OCTAVIA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6 TDI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>CONTINENTAL 5WP42633 AA</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>03L 906 023 DD</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Skoda Octavia 1.6 TDI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 1.6 TDI CONTINENTAL 5WP42633 AA, 5WP42633AA, 03L906023DD, 03L 906 023 DD",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-1.6-TDI-CONTINENTAL-5WP42633-AA%2C-5WP42633AA%2C-03L906023DD%2C-03L-906-023-DD/30906",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "DEE2-871A0_20121005183722",
+    "sku": "DEE2-871A0_20121005183722",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 1.6 TDI CONTINENTAL 5WP42633 AA, 5WP42633AA, 03L906023DD, 03L 906 023 DD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.6 TDI",
+      "NUMBER MANUFACTURER": "CONTINENTAL 5WP42633 AA",
+      "NUMBER PARTS": "03L 906 023 DD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:33:43.650Z",
+    "model": "mistral:7b",
+    "durationMs": 10376,
+    "priceIncrement": 100
+  }
+}

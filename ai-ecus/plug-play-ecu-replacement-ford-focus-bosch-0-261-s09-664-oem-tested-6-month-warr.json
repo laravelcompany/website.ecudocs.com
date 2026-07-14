@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Focus BOSCH 0 261 S09 664, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-ford-focus-bosch-0-261-s09-664-oem-tested-6-month-warr",
+  "metaDescription": "OEM tested ECU replacement for Ford Focus BOSCH 0 261 S09 664. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Focus BOSCH 0 261 S09 664",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "BOSCH",
+    "C1BA12B684DA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Ford Focus BOSCH 0 261 S09 664 ensures seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FOCUS</td></tr>\n        <tr><th>NUMBER PARTS</th><td>C1BA12B684DA</td></tr>\n        <tr><th>WARRANTY</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS BOSCH 0 261 S09 664, 0261S09664, C1BY-12A650-AD, C1BY12A650AD, C1BA-12B684-DA, C1BA12B684DA",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-BOSCH-0-261-S09-664%2C-0261S09664%2C-C1BY-12A650-AD%2C-C1BY12A650AD%2C-C1BA-12B684-DA%2C-C1BA12B684DA-/54271",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4A96-34456_20140418142316",
+    "sku": "4A96-34456_20140418142316",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  FORD FOCUS BOSCH 0 261 S09 664, 0261S09664, C1BY-12A650-AD, C1BY12A650AD, C1BA-12B684-DA, C1BA12B684DA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "NUMBER PARTS": "C1BA12B684DA",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:58:24.893Z",
+    "model": "mistral:7b",
+    "durationMs": 9262,
+    "priceIncrement": 100
+  }
+}

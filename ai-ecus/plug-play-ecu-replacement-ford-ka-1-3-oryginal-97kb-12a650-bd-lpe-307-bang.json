@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Ka 1.3 Oryginal 97KB-12A650-BD LPE-307 BANG",
+  "slug": "plug-play-ecu-replacement-ford-ka-1-3-oryginal-97kb-12a650-bd-lpe-307-bang",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Ford Ka 1.3 (97KB-12A650-BD LPE-307 BANG) with 6-month warranty and fast shipping.",
+  "price": "€80.00",
+  "excerpt": "OEM tested, Plug & Play ECU for Ford Ka 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Ka",
+    "1.3 engine",
+    "Oryginal"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Ka 1.3 (97KB-12A650-BD LPE-307 BANG) ensures seamless engine control and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for reliable performance</li>\n        <li>Plug & Play for easy installation</li>\n        <li>Locked or ready for programming</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>Parts:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>Brand and Model:</th><td>FORD KA</td></tr>\n        <tr><th>Engine:</th><td>1.3</td></tr>\n        <tr><th>Year:</th><td>1996-1998</td></tr>\n        <tr><th>Number Manufacturer:</th><td>LPE-307</td></tr>\n        <tr><th>Code:</th><td>BANG</td></tr>\n        <tr><th>Number Parts:</th><td>97KB-12A650-BD</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD KA 1.3 97KB12A650BD, 97KB-12A650-BD LPE-307 BANG",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-KA-1.3-97KB12A650BD%2C-97KB-12A650-BD-LPE-307-BANG/26219",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "15B2-5251D_20120623125428",
+    "sku": "15B2-5251D_20120623125428",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD KA 1.3 97KB12A650BD, 97KB-12A650-BD LPE-307 BANG</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4d0c34c60f3cf19b54fca7cf259dd05d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_960d62c400030e3d1abec65028e3d4f7_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD KA",
+      "ENGINE": "1.3",
+      "YEAR": "1996-1998",
+      "NUMBER MANUFACTURER": "LPE-307",
+      "CODE": "BANG",
+      "NUMBER PARTS": "97KB-12A650-BD",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:25:29.075Z",
+    "model": "mistral:7b",
+    "durationMs": 9667,
+    "priceIncrement": 100
+  }
+}

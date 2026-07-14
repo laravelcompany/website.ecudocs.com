@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - PEUGEOT 605 2.0 G5M00A04, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-peugeot-605-2-0-g5m00a04-oem-tested",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for PEUGEOT 605 2.0 G5M00A04, guaranteed fitment and 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for PEUGEOT 605 2.0 G5M00A04",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 605",
+    "G5M00A04"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement for PEUGEOT 605 2.0 G5M00A04 is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested and approved</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used original in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>PEUGEOT 605</td></tr>\n        <tr><th>ENGINE:</th><td>2.0</td></tr>\n        <tr><th>YEAR:</th><td>1992</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>G5.M0/0A04</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with PEUGEOT 605 2.0 G5M00A04 only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 605 2.0, G5.M0/0A04, G5M00A04",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-605-2.0%2C-G5.M00A04%2C-G5M00A04-/49115",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "ED98-2147A",
+    "sku": "ED98-2147A",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 605 2.0, G5.M0/0A04, G5M00A04 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 605",
+      "ENGINE": "2.0",
+      "YEAR": "1992",
+      "NUMBER MANUFACTURER": "G5.M0/0A04",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:24:02.741Z",
+    "model": "mistral:7b",
+    "durationMs": 10571,
+    "priceIncrement": 100
+  }
+}

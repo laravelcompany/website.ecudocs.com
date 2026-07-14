@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford Transit 2.0 TDCI Continental 5WS40819G-T, 5WS40819GT, 9TGD - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-transit-2-0-tdci-continental-5ws40819g-t-5ws40819gt-9tgd-warr",
+  "metaDescription": "Buy Plug & Play OEM Tested ECU Replacement for Ford Transit 2.0 TDCI Continental, covered by a 6-month warranty. Expertly inspected and tested by certified technicians.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Transit 2.0 TDCI Continental",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Transit 2.0 TDCI",
+    "Continental",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Ford Transit 2.0 TDCI Continental is expertly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Expert Inspection</li><li>Certified Technician Tested</li></ul></section>\n<section class=\"specs\"><table><tbody><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>FORD TRANSIT</td></tr><tr><th>ENGINE</th><td>2.0 TDCI</td></tr><tr><th>NUMBER MANUFACTURER</th><td>Continental 5WS40819G-T, 5WS40819GT, 9TGD</td></tr><tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD TRANSIT 2.0 TDCI Continental 5WS40819G-T, 5WS40819GT, FoMoCo 9T11-12A650-GD, 9T1112A650GD, 9TGD, SID206",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-TRANSIT-2.0-TDCI-Continental-5WS40819G-T%2C-5WS40819GT%2C-FoMoCo-9T11-12A650-GD%2C-9T1112A650GD%2C-9TGD%2C-SID206-/100648",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "F1FE-9832C_20161214105455",
+    "sku": "F1FE-9832C_20161214105455",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD TRANSIT 2.0 TDCI Continental 5WS40819G-T, 5WS40819GT, FoMoCo 9T11-12A650-GD, 9T1112A650GD, 9TGD, SID206 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_dcc0dbc15cc96a6e5eb2b236281e27c0_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9810a0473d2cca299a5e189735f22a11_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD TRANSIT",
+      "ENGINE": "2.0 TDCI",
+      "NUMBER MANUFACTURER": "Continental 5WS40819G-T",
+      "NUMBER PARTS": "9TGD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:01:00.089Z",
+    "model": "mistral:7b",
+    "durationMs": 10207,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Mercedes W170 SLK 230 - Bosch A 111 153 28 79 SIEMENS SIM4 LE 5WK9 0413 (2) 5WK90413",
+  "slug": "plug-play-ecu-mercedes-w170-slk-230-bosch-a-111-153-28-79-siemens-sim4-le-5wk9-0",
+  "metaDescription": "OEM tested and 6-month warranty. Plug & Play ECU replacement for Mercedes W170 SLK 230 by Bosch (A 111 153 28 79 SIEMENS SIM4 LE 5WK9 0413 (2) 5WK90413).",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Mercedes W170 SLK 230",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W170 SLK 230",
+    "Bosch",
+    "SIEMENS SIM4 LE 5WK9 0413 (2) 5WK90413"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for Mercedes W170 SLK 230 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Part</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Certified Technician Tested</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES W170 SLK 230</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS SIM4 LE 5WK9 0413 (2) 5WK90413</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1111532879</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Mercedes W170 SLK 230. Please ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W170 SLK 230 A1111532879, 1111532879, A 111 153 28 79 SIEMENS SIM4 LE 5WK9 0413 (2) 5WK90413",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W170-SLK-230-A1111532879%2C-1111532879%2C-A-111-153-28-79-SIEMENS-SIM4-LE-5WK9-0413-2-5WK90413/28318",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "EC74-224DD_20120824182355",
+    "sku": "EC74-224DD_20120824182355",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W170 SLK 230 A1111532879, 1111532879, A 111 153 28 79 SIEMENS SIM4 LE 5WK9 0413 (2) 5WK90413</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W170 SLK 230",
+      "NUMBER MANUFACTURER": "SIEMENS SIM4 LE 5WK9 0413 (2) 5WK90413",
+      "NUMBER PARTS": "1111532879",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:11:30.118Z",
+    "model": "mistral:7b",
+    "durationMs": 14565,
+    "priceIncrement": 100
+  }
+}

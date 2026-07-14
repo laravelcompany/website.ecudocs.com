@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford KA 1.3 YARD - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-ka-1-3-yard-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Ford KA 1.3 YARD, offering a seamless replacement with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford KA 1.3 YARD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford KA",
+    "Visteon",
+    "97KB-12A650-AC",
+    "YARD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Ford KA 1.3 YARD is a reliable replacement, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD KA</td></tr>\n        <tr><th>ENGINE</th><td>1.3</td></tr>\n        <tr><th>YEAR</th><td>1997-1999</td></tr>\n        <tr><th>NUMBER PARTS</th><td>YARD</td></tr>\n        <tr><th>WARRANTY</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD KA 1.3 97KB-12A650-AC, 97KB12A650AC, YARD",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-KA-1.3-97KB-12A650-AC%2C-97KB12A650AC%2C-YARD/51313",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "3850-449EF_20140211105717",
+    "sku": "3850-449EF_20140211105717",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD KA 1.3 97KB-12A650-AC, 97KB12A650AC, YARD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD KA",
+      "ENGINE": "1.3",
+      "YEAR": "1997-1999",
+      "NUMBER PARTS": "YARD",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:24:52.701Z",
+    "model": "mistral:7b",
+    "durationMs": 9108,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for NISSAN NOTE 1.6 - OEM Tested, Warranty Included [MEC93-040 C1 8428]",
+  "slug": "plug-play-ecu-replacement-nissan-note-1-6-mec93-040-c1-8428",
+  "metaDescription": "Buy a tested, Plug & Play ECU Engine Controller for NISSAN NOTE 1.6 [MEC93-040 C1 8428]. Covered by a 6-month warranty and fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU for NISSAN NOTE 1.6 - Tested, Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "MEC93-040 C1 8428",
+    "NISSAN NOTE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for NISSAN NOTE 1.6 [MEC93-040 C1 8428] is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>NISSAN NOTE</td></tr>\n        <tr><th>ENGINE:</th><td>1.6</td></tr>\n        <tr><th>YEAR:</th><td>2003-2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>MEC93-040 0R</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>MEC93-040 C1 8428</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle's condition and specific ECU programming requirements.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN NOTE 1.6 MEC93-040 0R, MEC930400R, MEC93-040 C1 8428, MEC93040C18428",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-NOTE-1.6-MEC93-040-0R%2C-MEC930400R%2C-MEC93-040-C1-8428%2C-MEC93040C18428/39984",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "073E-6742C_20130817135623",
+    "sku": "073E-6742C_20130817135623",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN NOTE 1.6 MEC93-040 0R, MEC930400R, MEC93-040 C1 8428, MEC93040C18428</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN NOTE",
+      "ENGINE": "1.6",
+      "YEAR": "2003-2006",
+      "NUMBER MANUFACTURER": "MEC93-040 0R",
+      "NUMBER PARTS": "MEC93-040 C1 8428",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:29:33.742Z",
+    "model": "mistral:7b",
+    "durationMs": 9825,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Opel Tigra 1.6 - Delco 16178209UC, Warranty Included",
+  "slug": "plug-play-oem-ecu-opel-tigra-1-6-delco-16178209uc-warranty",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Opel Tigra 1.6, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Opel Tigra 1.6",
+  "tags": [
+    "ECU repair",
+    "Opel Tigra",
+    "Delco",
+    "1.6",
+    "16178209UC"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for Opel Tigra 1.6 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Part</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>Tested and Certified</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL TIGRA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>16178209UC</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>BNAM</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel Tigra 1.6, but it's essential to confirm fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL TIGRA 1.6 16178209 UC, 16178209UC, D95021, BNAM",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-TIGRA-1.6-16178209-UC%2C-16178209UC%2C-D95021%2C-BNAM/64571",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "C6CF-57104_20140828094301",
+    "sku": "C6CF-57104_20140828094301",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL TIGRA 1.6 16178209 UC, 16178209UC, D95021, BNAM</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_63ed7316fc62d902c9d2039dc09cd462_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1d1e1e646ba37f31d1bd966d445b64b8_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9276852e15f0a8671f8e7e48af3e294c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL TIGRA",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "16178209UC",
+      "NUMBER PARTS": "BNAM",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:19:13.929Z",
+    "model": "mistral:7b",
+    "durationMs": 10160,
+    "priceIncrement": 100
+  }
+}

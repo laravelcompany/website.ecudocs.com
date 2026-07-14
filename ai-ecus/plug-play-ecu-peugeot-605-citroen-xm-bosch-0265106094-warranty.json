@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot 605, Citroen XM - Bosch 0 265 106 094, Warranty Included",
+  "slug": "plug-play-ecu-peugeot-605-citroen-xm-bosch-0265106094-warranty",
+  "metaDescription": "OEM Tested Plug & Play ECU Engine Controller for Peugeot 605, Citroen XM - Bosch 0 265 106 094. Warranty included and fast EU shipping.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Peugeot 605, Citroen XM - Bosch 0 265 106 094",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "Peugeot 605",
+    "Citroen XM",
+    "Bosch 0 265 106 094"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a reliable replacement for your Peugeot 605 or Citroen XM. It's thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PEUGEOT 605, CITROEN XM</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 265 106 094</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Peugeot 605 and Citroen XM. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 605, CITROEN XM, BOSCH 0 265 106 094, 0265106094",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-605%2C-CITROEN-XM%2C-BOSCH-0-265-106-094%2C-0265106094-/47398",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "39F6-529FA",
+    "sku": "39F6-529FA",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 605, CITROEN XM, BOSCH 0 265 106 094, 0265106094 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 605, CITROEN XM",
+      "NUMBER MANUFACTURER": "BOSCH 0 265 106 094",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:24:40.875Z",
+    "model": "mistral:7b",
+    "durationMs": 13015,
+    "priceIncrement": 100
+  }
+}

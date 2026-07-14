@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Lancia Kappa 3.0 24V Bosch 0 261 203 482, OEM Tested",
+  "slug": "plug-play-ecu-lancia-kappa-3-0-24v-bosch-0-261-203-482-tested",
+  "metaDescription": "OEM tested Plug & Play ECU replacement for Lancia Kappa 3.0 24V Bosch, backed by a 6-month warranty and fast dispatch.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Lancia Kappa 3.0 24V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Kappa",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement is a direct fit for Lancia Kappa 3.0 24V engines and has been thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch</li><li>Used, Original in Good Condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>LANCIA KAPPA</td></tr>\n    <tr><th>ENGINE</th><td>3.0 24V</td></tr>\n    <tr><th>YEAR</th><td>1995-2001</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 203 482</td></tr>\n    <tr><th>NUMBER PARTS</th><td>0 046 461 783 0</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific faults. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA KAPPA 3.0 24V BOSCH 0 261 203 482, 0261203482, 0 046 461 783 0, 00464617830",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-KAPPA-3.0-24V-BOSCH-0-261-203-482%2C-0261203482%2C-0-046-461-783-0%2C-00464617830/44672",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D238-552F4",
+    "sku": "D238-552F4",
+    "availability": "on request24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA KAPPA 3.0 24V BOSCH 0 261 203 482, 0261203482, 0 046 461 783 0, 00464617830</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA KAPPA",
+      "ENGINE": "3.0 24V",
+      "YEAR": "1995-2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 482",
+      "NUMBER PARTS": "0 046 461 783 0",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:33:52.826Z",
+    "model": "mistral:7b",
+    "durationMs": 10880,
+    "priceIncrement": 100
+  }
+}

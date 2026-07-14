@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Focus 1.8 - Visteon 2S4A-12A650-ND, 2S4A12A650-ND, 1X4C - Warranty Included",
+  "slug": "plug-play-ecu-ford-focus-18-visteon-2s4a-12a650-nd-2s4a12a650-nd-1x4c-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Focus 1.8 by Visteon (2S4A-12A650-ND, 2S4A12A650-ND, 1X4C). Shipped within 24–48 hours with a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM tested Plug & Play ECU for Ford Focus 1.8 by Visteon",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Visteon",
+    "1.8"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is a reliable solution for your Ford Focus 1.8 engine.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Fast Dispatch</li><li>Reliable Performance</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>FORD FOCUS</td></tr>\n    <tr><th>ENGINE</th><td>1.8</td></tr>\n    <tr><th>NUMBER PARTS</th><td>1X4C</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Focus 1.8. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.8 2S4A-12A650-ND, 2S4A12A650-ND, 1X4C",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.8-2S4A-12A650-ND%2C-2S4A12A650-ND%2C-1X4C-/58153",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "6CEF-488CF_20140609165451",
+    "sku": "6CEF-488CF_20140609165451",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.8 2S4A-12A650-ND, 2S4A12A650-ND, 1X4C </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.8",
+      "NUMBER PARTS": "1X4C",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:54:17.159Z",
+    "model": "mistral:7b",
+    "durationMs": 9825,
+    "priceIncrement": 100
+  }
+}

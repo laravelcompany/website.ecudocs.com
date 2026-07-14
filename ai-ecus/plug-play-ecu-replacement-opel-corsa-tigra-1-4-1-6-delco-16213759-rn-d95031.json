@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Corsa Tigra 1.4/1.6 - OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-opel-corsa-tigra-1-4-1-6-delco-16213759-rn-d95031",
+  "metaDescription": "Buy the tested ECU Engine Controller for Opel Corsa Tigra 1.4/1.6, backed by a 6-month warranty and Plug & Play functionality.",
+  "price": "€40.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Corsa Tigra",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delco",
+    "Opel Corsa Tigra",
+    "1.4",
+    "1.6"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Opel Corsa Tigra 1.4/1.6.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM Tested and Certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Compatible with 1.4/1.6 engines</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL VAUXHALL HOLDEN TIGRA</td></tr>\n        <tr><th>ENGINE</th><td>1.4 1.6</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>16213759 RN</td></tr>\n        <tr><th>NUMBER PARTS</th><td>D95031</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and programming before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA TIGRA 1.4 1.6 16213759 RN, D95031",
+    "price": "€30.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-TIGRA-1.4-1.6-16213759-RN%2C-D95031-/42783",
+    "priceCurrency": "EUR",
+    "netPrice": "€24.39",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "F475-805EE",
+    "sku": "F475-805EE",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA TIGRA 1.4 1.6 16213759 RN, D95031 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VAUXHALL HOLDEN TIGRA",
+      "ENGINE": "1.4 1.6",
+      "NUMBER MANUFACTURER": "16213759 RN",
+      "NUMBER PARTS": "D95031",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:02:25.239Z",
+    "model": "mistral:7b",
+    "durationMs": 8941,
+    "priceIncrement": 100
+  }
+}

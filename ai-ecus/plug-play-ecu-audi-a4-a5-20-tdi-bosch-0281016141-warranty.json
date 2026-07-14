@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A4 A5 2.0 TDI Bosch 0 281 016 141, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-a5-20-tdi-bosch-0281016141-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Audi A4 A5 2.0 TDI (Bosch 0 281 016 141). Shipped within 24–48 hours with a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A4 A5 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4 A5",
+    "2.0 TDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Audi A4 A5 2.0 TDI (Bosch 0 281 016 141) is a reliable replacement, ensuring seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI A4 A5</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 TDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 016 141</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>03L 906 019 AL</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific issues. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 A5 2.0 TDI BOSCH 0 281 016 141, 0281016141, 03L 906 022 NP, 03L906022NP, 03L906019AL, EDC17CP20",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-A5-2.0-TDI-BOSCH-0-281-016-141%2C-0281016141%2C-03L-906-022-NP%2C-03L906022NP%2C-03L906019AL%2C-EDC17CP20-/81808",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5984-24359_20151113163817",
+    "sku": "5984-24359_20151113163817",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 A5 2.0 TDI BOSCH 0 281 016 141, 0281016141, 03L 906 022 NP, 03L906022NP, 03L906019AL, EDC17CP20 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4 A5",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 141",
+      "NUMBER PARTS": "03L 906 019 AL",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:14:51.947Z",
+    "model": "mistral:7b",
+    "durationMs": 12107,
+    "priceIncrement": 100
+  }
+}

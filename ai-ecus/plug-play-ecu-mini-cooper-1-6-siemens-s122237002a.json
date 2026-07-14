@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Siemens S122237002A for Mini Cooper 1.6 (OEM Tested, Warranty Included)",
+  "slug": "plug-play-ecu-mini-cooper-1-6-siemens-s122237002a",
+  "metaDescription": "Expertly tested ECU Engine Controller for Mini Cooper 1.6 with Siemens S122237002A, backed by a 6-month warranty and fast shipping.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Replacement for Mini Cooper 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens S122237002A",
+    "Mini Cooper 1.6"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Mini Cooper 1.6, featuring Siemens S122237002A, offers a reliable replacement solution.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM Tested and Certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Mini Cooper 1.6</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MINI COOPER</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>YEAR</th><td>2005</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S122237002 A</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1214-7545789-01</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This product is designed for Mini Cooper 1.6 and may require professional installation or programming.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MINI COOPER 1.6, SIEMENS S122237002 A, S122237002A, S83293, 1214-7545789-01",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MINI-COOPER-1.6%2C-SIEMENS-S122237002-A%2C-S122237002A%2C-S83293%2C-1214-7545789-01-/42182",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "8ABE-34674",
+    "sku": "8ABE-34674",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MINI COOPER 1.6, SIEMENS S122237002 A, S122237002A, S83293, 1214-7545789-01 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MINI COOPER",
+      "ENGINE": "1.6",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "SIEMENS S122237002 A",
+      "NUMBER PARTS": "1214-7545789-01",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:44:51.731Z",
+    "model": "mistral:7b",
+    "durationMs": 9340,
+    "priceIncrement": 100
+  }
+}

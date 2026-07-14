@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Bravo Multipla 1.4, 1.6 Engine - OEM Tested Bosch 0 261 201 635, Warranty Included",
+  "slug": "plug-play-ecu-fiat-bravo-multipla-bosch-0261201635-warranty",
+  "metaDescription": "OEM tested ECU Engine Controller for Fiat Bravo Multipla with Plug & Play feature, 6-month warranty. Fast dispatch in EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Bravo Multipla",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Bravo Multipla",
+    "Bosch ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for Fiat Bravo Multipla models with 1.4 and 1.6 engines. It features the Plug & Play option for easy installation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Option</li>\n        <li>6-month Warranty</li>\n        <li>Inspection by Certified Technician</li>\n        <li>Used, Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT BRAVO MULTIPLA</td></tr>\n        <tr><th>ENGINE</th><td>1.4 1.6</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S23319</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Bravo Multipla models only. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT BRAVO MULTIPLA BOSCH 0 261 201 635, 0261201635, 1039S23319",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-BRAVO-MULTIPLA-BOSCH-0-261-201-635%2C-0261201635%2C-1039S23319/53237",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9D68-87082_20140401144110",
+    "sku": "9D68-87082_20140401144110",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT BRAVO MULTIPLA BOSCH 0 261 201 635, 0261201635, 1039S23319</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_d890494112d6e32fe08a02754fa55e0b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_303089_0_0/ECU-ENGINE-CONTROLLER-FIAT-BRAVO-MULTIPLA-BOSCH-0-261-201-635%2C-0261201635.png"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT BRAVO MULTIPLA",
+      "ENGINE": "1.4 1.6",
+      "NUMBER PARTS": "1039S23319",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:28:19.297Z",
+    "model": "mistral:7b",
+    "durationMs": 10335,
+    "priceIncrement": 100
+  }
+}

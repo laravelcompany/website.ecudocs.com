@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Lancia Thema, Bosch 0 280 000 324 - ECU Replacement",
+  "slug": "plug-play-ecu-lancia-thema-bosch-0280000324-oem-tested",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller Lancia Thema, Bosch 0 280 000 324. Fast dispatch, 12-month warranty.",
+  "price": "€87.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Lancia Thema",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Thema",
+    "Bosch 0 280 000 324"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Lancia Thema is a reliable replacement part, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Lancia Thema (1993-1997). Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA THEMA, BOSCH 0 280 000 324, 0280000324",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-THEMA%2C-BOSCH-0-280-000-324%2C-0280000324-/47096",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1D0B-39535",
+    "sku": "1D0B-39535",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA THEMA, BOSCH 0 280 000 324, 0280000324 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_1ad64075ce2f10addd5fb757a1297223_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_070c097e0eb142230327323f587d7b02_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_499e7a4aa959b0ba9fb904c3035bcac5_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA THEMA",
+      "YEAR": "1993-1997",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 000 324",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:35:54.488Z",
+    "model": "mistral:7b",
+    "durationMs": 6222,
+    "priceIncrement": 100
+  }
+}

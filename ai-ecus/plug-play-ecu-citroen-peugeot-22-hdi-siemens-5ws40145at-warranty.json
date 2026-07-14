@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Citroen Peugeot 2.2 HDI - Siemens 5WS40145A-T, Warranty Included",
+  "slug": "plug-play-ecu-citroen-peugeot-22-hdi-siemens-5ws40145at-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Citroen Peugeot 2.2 HDI Siemens 5WS40145A-T, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen Peugeot 2.2 HDI Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot 2.2 HDI",
+    "Siemens 5WS40145A-T"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Citroen Peugeot 2.2 HDI is a reliable solution to keep your vehicle running smoothly.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-Month Warranty Included</li>\n        <li>Fast EU Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN PEUGEOT</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.2 HDI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WS40145A-T</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>HW9647423380</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen Peugeot 2.2 HDI models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.2 HDI SIEMENS 5WS40145A-T, 5WS40145AT, SW9653205380, HW9647423380",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-2.2-HDI-SIEMENS-5WS40145A-T%2C-5WS40145AT%2C-SW9653205380%2C-HW9647423380/66383",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "438D-23282_20140923101139",
+    "sku": "438D-23282_20140923101139",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.2 HDI SIEMENS 5WS40145A-T, 5WS40145AT, SW9653205380, HW9647423380</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_7ef7567ccc3dccf829c7ce316362bef2_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_92e0348582cbcfc8ae747073af7cbe9a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "2.2 HDI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40145A-T",
+      "NUMBER PARTS": "HW9647423380",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:17:08.152Z",
+    "model": "mistral:7b",
+    "durationMs": 13546,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Focus C-MAX (2011) - OEM Tested Bosch 0 261 S07 356, BV6112A650BDB, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-focus-c-max-bosch-0-261-s07-356-bv6112a650bdb-war",
+  "metaDescription": "OEM tested ECU replacement for Ford Focus C-MAX (2011) by Bosch. Plug & Play, 6-month warranty, and fast dispatch.",
+  "price": "€330.00",
+  "excerpt": "OEM tested ECU Replacement for Ford Focus C-MAX",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus C-MAX",
+    "Bosch",
+    "BV6112A650BDB"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Ford Focus C-MAX (2011) by Bosch ensures seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD FOCUS C-MAX</td></tr>\n        <tr><th>YEAR:</th><td>2011</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 S07 356</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>FoMoCo BV61-12A650-BDB, BV6112A650BDB, BV6112A650B</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS C-MAX BOSCH 0 261 S07 356, 0261S07356, FoMoCo BV61-12A650-BDB, BV6112A650BDB, BV6112A650B",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-C-MAX-BOSCH-0-261-S07-356%2C-0261S07356%2C-FoMoCo-BV61-12A650-BDB%2C-BV6112A650BDB%2C-BV6112A650B-/83652",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E45C-146CE_20151224090246",
+    "sku": "E45C-146CE_20151224090246",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS C-MAX BOSCH 0 261 S07 356, 0261S07356, FoMoCo BV61-12A650-BDB, BV6112A650BDB, BV6112A650B </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS C-MAX",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S07 356",
+      "NUMBER PARTS": "FoMoCo BV61-12A650-BDB",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:12:16.993Z",
+    "model": "mistral:7b",
+    "durationMs": 11391,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Fiesta 1.4 VISTEON 96FB-12A650-ACA, Warranty Included",
+  "slug": "plug-play-ecu-ford-fiesta-14-visteon-96fb12a650aca-warranty",
+  "metaDescription": "Get a tested and certified OEM Plug & Play ECU Replacement for your Ford Fiesta 1.4 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€87.00",
+  "excerpt": "OEM Tested, Plug & Play ECU for Ford Fiesta 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Visteon",
+    "1.4"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Ford Fiesta 1.4 VISTEON 96FB-12A650-ACA is a reliable solution to your engine control unit needs.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play for Easy Installation</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Fast Dispatch within EU</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specifications</th><th>Details</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD FIESTA</td></tr>\n<tr><td>ENGINE</td><td>1.4</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>VISTEON 96FB-12A650-ACA</td></tr>\n<tr><td>NUMBER PARTS</td><td>SNOB</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED / COMPLETE</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta 1.4 VISTEON ECU systems. Fitment caution may apply; consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.4 VISTEON 96FB-12A650-ACA, 96FB12A650ACA, SNOB, LPE-107",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.4-VISTEON-96FB-12A650-ACA%2C-96FB12A650ACA%2C-SNOB%2C-LPE-107/16453",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "AB3C-817F4",
+    "sku": "AB3C-817F4",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.4 VISTEON 96FB-12A650-ACA, 96FB12A650ACA, SNOB, LPE-107</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a93360fbfdfccbb141e47aa707b2c3c7_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0705e6c7bf288a95c4aa7ea8aca0b7ee_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "VISTEON 96FB-12A650-ACA",
+      "NUMBER PARTS": "SNOW",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:27:30.623Z",
+    "model": "mistral:7b",
+    "durationMs": 11178,
+    "priceIncrement": 100
+  }
+}

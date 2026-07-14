@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for PEUGEOT 307 1.4 HDI - Bosch 0 281 010 390, EDC16C3 47",
+  "slug": "plug-play-oem-ecu-replacement-for-peugeot-307-14-hdi-bosch-0281010390-edc16c3-47",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for PEUGEOT 307 1.4 HDI - Bosch 0 281 010 390, EDC16C3 47. Plug & Play, warranty included.",
+  "price": "€300.00",
+  "excerpt": "OEM tested ECU Engine Controller for PEUGEOT 307 1.4 HDI - Bosch 0 281 010 390, EDC16C3 47.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 307",
+    "Bosch",
+    "1.4 HDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your PEUGEOT 307 1.4 HDI. Trust our expertise in ECU repair.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 307</td></tr>\n        <tr><th>ENGINE</th><td>1.4 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 390</td></tr>\n        <tr><th>NUMBER PARTS</th><td>EDC16C3 47</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with PEUGEOT 307 1.4 HDI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 307 1.4 HDI BOSCH 0 281 010 390, 0281010390, 96 471 581 80, 9647158180, 9647785580, 1039S00913, EDC16C3 47",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-307-1.4-HDI-BOSCH-0-281-010-390%2C-0281010390%2C-96-471-581-80%2C-9647158180%2C-9647785580%2C-1039S00913%2C-EDC16C3-47/76014",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F380-17538_20150702154649",
+    "sku": "F380-17538_20150702154649",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 307 1.4 HDI BOSCH 0 281 010 390, 0281010390, 96 471 581 80, 9647158180, 9647785580, 1039S00913, EDC16C3 47</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 307",
+      "ENGINE": "1.4 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 390",
+      "NUMBER PARTS": "EDC16C3 47",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming /",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:02:01.796Z",
+    "model": "mistral:7b",
+    "durationMs": 10236,
+    "priceIncrement": 100
+  }
+}

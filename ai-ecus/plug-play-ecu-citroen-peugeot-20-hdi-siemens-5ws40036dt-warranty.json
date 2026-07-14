@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller - Citroen Peugeot 2.0 HDI Siemens 5WS40036D-T, Warranty Included",
+  "slug": "plug-play-ecu-citroen-peugeot-20-hdi-siemens-5ws40036dt-warranty",
+  "metaDescription": "Expertly tested and OEM Siemens ECU Engine Controller for Citroen Peugeot 2.0 HDI. Plug & Play, warranty included.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen Peugeot 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "Siemens 5WS40036D-T",
+    "2.0 HDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a reliable replacement for your Citroen Peugeot 2.0 HDI. Trust our expertise and enjoy peace of mind with the included warranty.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN PEUGEOT</td></tr>\n        <tr><th>ENGINE</th><td>2.0 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WS40036D-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HW 9644302380</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with locked and unlocked options. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.0 HDI SIEMENS 5WS40036D-T, 5WS40036DT, SW 9649063480, HW 9644302380",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-2.0-HDI-SIEMENS-5WS40036D-T%2C-5WS40036DT%2C-SW-9649063480%2C-HW-9644302380/55140",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "3638-771FC_20140506090959",
+    "sku": "3638-771FC_20140506090959",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.0 HDI SIEMENS 5WS40036D-T, 5WS40036DT, SW 9649063480, HW 9644302380</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40036D-T",
+      "NUMBER PARTS": "HW 9644302380",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:11:51.081Z",
+    "model": "mistral:7b",
+    "durationMs": 8964,
+    "priceIncrement": 100
+  }
+}

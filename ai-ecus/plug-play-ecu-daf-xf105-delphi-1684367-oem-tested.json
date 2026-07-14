@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - DAF XF105 Delphi 1684367 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-daf-xf105-delphi-1684367-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller DAF XF105 Delphi 1684367. OEM tested, warranty included, and fast dispatch within EU.",
+  "price": "€800.00",
+  "excerpt": "Plug & Play ECU Replacement for DAF XF105",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "DAF XF105",
+    "Delphi 1684367"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for DAF XF105 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested by certified technicians</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>DAF XF105</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELPHI 1684367</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DAF XF105 DELPHI 1684367",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DAF-XF105-DELPHI-1684367/75961",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "E124-361B0_20150701173310",
+    "sku": "E124-361B0_20150701173310",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DAF XF105 DELPHI 1684367</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_913eaa2a9c735b04dd9da9db2cf8fd99_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_23f2a264475b700a933bc4356a995817_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DAF XF105",
+      "NUMBER MANUFACTURER": "DELPHI 1684367",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:59:47.203Z",
+    "model": "mistral:7b",
+    "durationMs": 8866,
+    "priceIncrement": 100
+  }
+}

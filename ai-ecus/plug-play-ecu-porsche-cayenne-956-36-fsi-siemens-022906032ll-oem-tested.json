@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Porsche Cayenne 956 3.6 FSI Siemens 022906032LL, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-porsche-cayenne-956-36-fsi-siemens-022906032ll-oem-tested",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Porsche Cayenne 956 3.6 FSI by Siemens. 6-month warranty. Fast dispatch in EU.",
+  "price": "€650.00",
+  "excerpt": "Plug & Play ECU Replacement for Porsche Cayenne 956 3.6 FSI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Porsche Cayenne 956",
+    "Siemens"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Porsche Cayenne 956 3.6 FSI is a reliable solution to restore your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Compatible with 3.6 FSI engine</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PORSCHE CAYENNE 956</td></tr>\n        <tr><th>ENGINE</th><td>3.6 FSI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>5WP46502 04</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6576635304</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PORSCHE CAYENNE 956 3.6 FSI 022906032LL, 022 906 032 LL, 6576635304, 5WP46502 04",
+    "price": "€550.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PORSCHE-CAYENNE-956-3.6-FSI-022906032LL%2C-022-906-032-LL%2C-6576635304%2C-5WP46502-04/30932",
+    "priceCurrency": "EUR",
+    "netPrice": "€447.16",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "FB18-13322_20121006104258",
+    "sku": "FB18-13322_20121006104258",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PORSCHE CAYENNE 956 3.6 FSI 022906032LL, 022 906 032 LL, 6576635304, 5WP46502 04</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PORSCHE CAYENNE 956",
+      "ENGINE": "3.6 FSI",
+      "NUMBER MANUFACTURER": "5WP46502 04",
+      "NUMBER PARTS": "6576635304",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:37:41.267Z",
+    "model": "mistral:7b",
+    "durationMs": 9034,
+    "priceIncrement": 100
+  }
+}

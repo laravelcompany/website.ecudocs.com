@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Engine Controller Magneti Marelli IAW 59F.M5, 48TF8P86F - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-iaw-59fm5-48tf8p86f-oem-tested",
+  "metaDescription": "Get a certified Plug & Play ECU Engine Controller for Fiat, model Magneti Marelli IAW 59F.M5, 48TF8P86F. OEM tested and backed by a 12-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat",
+    "Magneti Marelli IAW 59F.M5",
+    "48TF8P86F"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Fiat is a tested and reliable solution, offering seamless integration with your vehicle's systems.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Inspection by Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI IAW 59F.M5</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>48TF8P86F</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on your vehicle's specific model and year. Please verify fitment before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT MAGNETI MARELLI IAW 59F.M5, IAW59FM5, 48TF8P86F",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-MAGNETI-MARELLI-IAW-59F.M5%2C-IAW59FM5%2C-48TF8P86F/105564",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "B894-49861_20170606145413",
+    "sku": "B894-49861_20170606145413",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT MAGNETI MARELLI IAW 59F.M5, IAW59FM5, 48TF8P86F</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8327a1448b6f22aa0222caae1a43331a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_54122474f7818866ad7a10a331fa28b8_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 59F.M5",
+      "NUMBER PARTS": "48TF8P86F",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:01:27.192Z",
+    "model": "mistral:7b",
+    "durationMs": 10293,
+    "priceIncrement": 100
+  }
+}

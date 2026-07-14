@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Mercedes W211 220 CDI - OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-mercedes-w211-220-cdi-delphi-r0412c005e-28061844-teste",
+  "metaDescription": "OEM tested ECU replacement for Mercedes W211 220 CDI. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€270.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W211 220 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W211",
+    "Delphi R0412C005E",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Mercedes W211 220 CDI is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W211</td></tr>\n        <tr><th>ENGINE</th><td>220 CDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELPHI R0412C005E 28061844</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0034469040</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W211 220 CDI A6461505478, 6461505478, A 646 150 54 78, A0034469040, 0034469040, A 003 446 90 40, DELPHI R0412C005E 28061844",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W211-220-CDI-A6461505478%2C-6461505478%2C-A-646-150-54-78%2C-A0034469040%2C-0034469040%2C-A-003-446-90-40%2C-DELPHI-R0412C005E-28061844/27152",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "DB44-628FD_20120731084950",
+    "sku": "DB44-628FD_20120731084950",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W211 220 CDI A6461505478, 6461505478, A 646 150 54 78, A0034469040, 0034469040, A 003 446 90 40, DELPHI R0412C005E 28061844</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W211",
+      "ENGINE": "220 CDI",
+      "NUMBER MANUFACTURER": "DELPHI R0412C005E 28061844",
+      "NUMBER PARTS": "0034469040",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:31:25.775Z",
+    "model": "mistral:7b",
+    "durationMs": 8657,
+    "priceIncrement": 100
+  }
+}

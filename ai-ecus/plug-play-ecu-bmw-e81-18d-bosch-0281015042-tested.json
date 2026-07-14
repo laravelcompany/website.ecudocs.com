@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E81 1.8D Engine Bosch 0 281 015 042, DDE 7 811 701 -01, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-bmw-e81-18d-bosch-0281015042-tested",
+  "metaDescription": "OEM tested ECU replacement for BMW E81 1.8D engine, Plug & Play, 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E81 1.8D Engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E81",
+    "Bosch 0 281 015 042",
+    "DDE 7 811 701 -01"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for BMW E81 1.8D engine offers a reliable solution to potential engine control issues.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM tested for guaranteed fitment</li>\n<li>6-month warranty for peace of mind</li>\n<li>Used in good condition</li>\n<li>Locked/cloned option available</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>BMW E81</td></tr>\n<tr><th>ENGINE</th><td>1.8 D</td></tr>\n<tr><th>YEAR</th><td>2008</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 015 042</td></tr>\n<tr><th>NUMBER PARTS</th><td>DDE 7 811 701 -01</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / CLON</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with BMW E81 1.8D engine only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E81 BOSCH 0 281 015 042, 0281015042, DDE 7 811 701 -01, DDE781170101, 7811701",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E81-BOSCH-0-281-015-042%2C-0281015042%2C-DDE-7-811-701-01%2C-DDE781170101%2C-7811701/24853",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "41F7-405EF_20120603154905",
+    "sku": "41F7-405EF_20120603154905",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E81 BOSCH 0 281 015 042, 0281015042, DDE 7 811 701 -01, DDE781170101, 7811701</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E81",
+      "ENGINE": "1.8 D",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 042",
+      "NUMBER PARTS": "DDE 7 811 701 -01",
+      "OPTION AVAILABLE": "LOCKED / CLON",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:39:20.883Z",
+    "model": "mistral:7b",
+    "durationMs": 11212,
+    "priceIncrement": 100
+  }
+}

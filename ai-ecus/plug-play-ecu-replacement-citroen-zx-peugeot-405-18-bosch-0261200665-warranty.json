@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - CITROEN ZX, PEUGEOT 405 1.8 BOSCH 0 261 200 665, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-zx-peugeot-405-18-bosch-0261200665-warranty",
+  "metaDescription": "Expertly tested and OEM ECU replacement for CITROEN ZX, PEUGEOT 405 1.8 BOSCH 0 261 200 665, backed by a 6-month warranty.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Replacement for CITROEN ZX, PEUGEOT 405 1.8 BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "CITROEN ZX",
+    "PEUGEOT 405",
+    "BOSCH 0 261 200 665"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU replacement for CITROEN ZX, PEUGEOT 405 1.8 BOSCH is a reliable solution, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used Original in Good Condition</li>\n<li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>CITROEN ZX, PEUGEOT 405</td></tr>\n<tr><td>ENGINE</td><td>1.8</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 200 665</td></tr>\n<tr><td>NUMBER PARTS</td><td>96 150 461 80</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device Thoroughly Inspected and Tested by a Certified Technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN ZX PEUGEOT 405 1.8 BOSCH 0 261 200 665, 0261200665, 96 150 461 80, 9615046180",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-ZX-PEUGEOT-405-1.8-BOSCH-0-261-200-665%2C-0261200665%2C-96-150-461-80%2C-9615046180/46268",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "59FE-30045",
+    "sku": "59FE-30045",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN ZX PEUGEOT 405 1.8 BOSCH 0 261 200 665, 0261200665, 96 150 461 80, 9615046180</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN ZX, PEUGEOT 405",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 200 665",
+      "NUMBER PARTS": "96 150 461 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:50:51.064Z",
+    "model": "mistral:7b",
+    "durationMs": 12352,
+    "priceIncrement": 100
+  }
+}

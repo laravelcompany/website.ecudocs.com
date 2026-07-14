@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for Seat Toledo 1.8 8V - OEM Tested, Warranty Included (Bosch 0 261 203 635/636, 8A0 907 311 AK)",
+  "slug": "plug-play-ecu-seat-toledo-1-8-8v-oem-tested-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Seat Toledo 1.8 8V, OEM tested, and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Seat Toledo 1.8 8V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Toledo",
+    "Bosch ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a reliable replacement for your Seat Toledo 1.8 8V, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SEAT TOLEDO</td></tr>\n        <tr><th>ENGINE</th><td>1.8 8V</td></tr>\n        <tr><th>YEAR</th><td>1995</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8A0907311AK</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Seat Toledo 1.8 8V. Fitment caution may apply; verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT TOLEDO 1.8 8V, BOSCH 0 261 203 635/636, 0261203635 /636, 8A0 907 311 AK, 8A0907311AK",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-TOLEDO-1.8-8V%2C-BOSCH-0-261-203-635636%2C-0261203635-636%2C-8A0-907-311-AK%2C-8A0907311AK-/50949",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "CCDF-79983_20140128141723",
+    "sku": "CCDF-79983_20140128141723",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT TOLEDO 1.8 8V, BOSCH 0 261 203 635/636, 0261203635 /636, 8A0 907 311 AK, 8A0907311AK </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT TOLEDO",
+      "ENGINE": "1.8 8V",
+      "YEAR": "1995",
+      "NUMBER PARTS": "8A0907311AK",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:13:31.037Z",
+    "model": "mistral:7b",
+    "durationMs": 10067,
+    "priceIncrement": 100
+  }
+}

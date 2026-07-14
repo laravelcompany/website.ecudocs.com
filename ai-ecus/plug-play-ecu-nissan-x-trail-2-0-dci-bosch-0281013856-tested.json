@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN X-TRAIL 2.0 DCI Bosch 0281013856, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-nissan-x-trail-2-0-dci-bosch-0281013856-tested",
+  "metaDescription": "OEM tested ECU replacement for NISSAN X-TRAIL 2.0 DCI Bosch 0281013856, Plug & Play, 6-month warranty.",
+  "price": "€700.00",
+  "excerpt": "Plug & Play ECU replacement for NISSAN X-TRAIL 2.0 DCI Bosch.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan X-Trail",
+    "Bosch 0281013856"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for NISSAN X-TRAIL 2.0 DCI Bosch 0281013856 ensures reliable performance and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>ECU Replacement</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN X-TRAIL</td></tr>\n        <tr><th>ENGINE</th><td>2.0 DCI</td></tr>\n        <tr><th>YEAR</th><td>2008</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 013 856</td></tr>\n        <tr><th>NUMBER PARTS</th><td>23710-JG78D</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Professional installation recommended.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN X-TRAIL 2.0 DCI BOSCH 0281013856, 0 281 013 856, 23710JG78D, 23710-JG78D",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-X-TRAIL-2.0-DCI-BOSCH-0281013856%2C-0-281-013-856%2C-23710JG78D%2C-23710-JG78D/31387",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "44BB-83292_20121011140627",
+    "sku": "44BB-83292_20121011140627",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN X-TRAIL 2.0 DCI BOSCH 0281013856, 0 281 013 856, 23710JG78D, 23710-JG78D</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN X-TRAIL",
+      "ENGINE": "2.0 DCI",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 856",
+      "NUMBER PARTS": "23710-JG78D",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:48:30.661Z",
+    "model": "mistral:7b",
+    "durationMs": 9945,
+    "priceIncrement": 100
+  }
+}

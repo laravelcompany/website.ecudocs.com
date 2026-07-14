@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Valeo START-STOP Smart Fortwo 2617062A, A1329002000 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-valeo-start-stop-smart-fortwo-2617062a-a1329002000",
+  "metaDescription": "OEM tested ECU replacement for Smart Fortwo START-STOP system by Valeo. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€880.00",
+  "excerpt": "Plug & Play ECU replacement for Smart Fortwo START-STOP system",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Valeo 2617062A",
+    "Smart Fortwo",
+    "START-STOP"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Smart Fortwo START-STOP system ensures seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SMART FORTWO</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>VALEO 2617062-A</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A 132 900 20 00</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER START-STOP SMART FORTWO VALEO 2617062-A, 2617062A, A 132 900 20 00, A1329002000",
+    "price": "€800.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-START-STOP-SMART-FORTWO-VALEO-2617062-A%2C-2617062A%2C-A-132-900-20-00%2C-A1329002000-/79817",
+    "priceCurrency": "EUR",
+    "netPrice": "€650.41",
+    "category": "ECU Engine control unit",
+    "brand": "Valeo",
+    "productCode": "A463-4006F_20150926190215",
+    "sku": "A463-4006F_20150926190215",
+    "availability": "Shortage",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER START-STOP SMART FORTWO VALEO 2617062-A, 2617062A, A 132 900 20 00, A1329002000 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e47b376480e783fc6ec73647c39a090b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ed6750a6a8a380cb076dad42544259e5_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SMART FORTWO",
+      "NUMBER MANUFACTURER": "VALEO 2617062-A",
+      "NUMBER PARTS": "A 132 900 20 00",
+      "OPTION AVAILABLE": "LOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:52:06.554Z",
+    "model": "mistral:7b",
+    "durationMs": 9800,
+    "priceIncrement": 100
+  }
+}

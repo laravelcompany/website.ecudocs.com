@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - CITROEN C4 1.6 HDI Bosch 0 281 013 332, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-c4-1-6-hdi-bosch-0-281-013-332-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for your CITROEN C4 1.6 HDI, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen C4 1.6 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C4",
+    "1.6 HDI",
+    "Bosch",
+    "0 281 013 332"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Citroen C4 1.6 HDI, ensuring smooth engine operation.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play installation</li>\n<li>OEM quality part</li>\n<li>6-month warranty</li>\n<li>Expertly inspected and tested</li>\n<li>Used in good condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>CITROEN C4</td></tr>\n<tr><th>ENGINE</th><td>1.6 HDI</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 013 332</td></tr>\n<tr><th>NUMBER PARTS</th><td>9653958980</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen C4 1.6 HDI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C4 1.6 HDI BOSCH 0 281 013 332, 0281013332, 96 642 575 80, 9664257580, 9653958980, EDC16C34",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C4-1.6-HDI-BOSCH-0-281-013-332%2C-0281013332%2C-96-642-575-80%2C-9664257580%2C-9653958980%2C-EDC16C34-/98713",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "99E5-6744D_20161103151634",
+    "sku": "99E5-6744D_20161103151634",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C4 1.6 HDI BOSCH 0 281 013 332, 0281013332, 96 642 575 80, 9664257580, 9653958980, EDC16C34 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C4",
+      "ENGINE": "1.6 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 332",
+      "NUMBER PARTS": "9653958980",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:37:37.925Z",
+    "model": "mistral:7b",
+    "durationMs": 10876,
+    "priceIncrement": 100
+  }
+}

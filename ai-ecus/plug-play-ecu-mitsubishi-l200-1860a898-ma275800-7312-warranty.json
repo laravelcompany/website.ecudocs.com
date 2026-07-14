@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Mitsubishi L200 1860A898 MA275800-7312 - 6-month Warranty",
+  "slug": "plug-play-ecu-mitsubishi-l200-1860a898-ma275800-7312-warranty",
+  "metaDescription": "Buy a tested and reliable ECU Engine Controller for Mitsubishi L200 1860A898 MA275800-7312. Plug & Play, OEM quality, and backed by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Mitsubishi L200",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mitsubishi L200",
+    "OEM part",
+    "6-month warranty"
+  ],
+  "description": "<section class=\"overview\">This Denso ECU Engine Controller for Mitsubishi L200 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MITSUBISHI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>1860A898 MA275800-7312</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mitsubishi L200 models only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MITSUBISHI L200 1860A898 MA275800-7312 MA2758007312",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MITSUBISHI-L200-1860A898-MA275800-7312-MA2758007312/138246",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "5F29-937A9_20240115160948",
+    "sku": "5F29-937A9_20240115160948",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MITSUBISHI L200 1860A898 MA275800-7312 MA2758007312</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_289998_0_0/MITSUBISHI-L200-1860A898%2C-MA275800-7312%2C-MA2758007312.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_289999_0_0/MITSUBISHI-L200-1860A898%2C-MA275800-7312%2C-MA2758007312.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MITSUBISHI",
+      "NUMBER MANUFACTURER": "1860A898 MA275800-7312",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:55:06.934Z",
+    "model": "mistral:7b",
+    "durationMs": 10317,
+    "priceIncrement": 100
+  }
+}

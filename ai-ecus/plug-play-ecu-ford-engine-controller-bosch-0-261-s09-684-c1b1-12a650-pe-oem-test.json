@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Engine Controller Bosch 0 261 S09 684, C1B1-12A650-PE - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-engine-controller-bosch-0-261-s09-684-c1b1-12a650-pe-oem-test",
+  "metaDescription": "Expertly tested and OEM certified ECU Engine Controller for Ford, model Bosch 0 261 S09 684, C1B1-12A650-PE. Plug & Play, 6-month warranty, fast EU dispatch.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play Ford ECU Replacement - Bosch 0 261 S09 684, C1B1-12A650-PE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford engine controller",
+    "Bosch 0 261 S09 684",
+    "C1B1-12A650-PE"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Ford, model Bosch 0 261 S09 684, C1B1-12A650-PE, is thoroughly inspected and tested by a certified technician. It ensures optimal engine performance and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Fast EU Dispatch</li>\n        <li>Compatible with Ford vehicles</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 S09 684</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>C1B1-12A650-PE</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with Ford vehicles. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD BOSCH 0 261 S09 684, 0261S09684, C1B1-12A650-PE, C1B112A650PE",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-BOSCH-0-261-S09-684%2C-0261S09684%2C-C1B1-12A650-PE%2C-C1B112A650PE/118667",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "BAA8-5369F",
+    "sku": "BAA8-5369F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD BOSCH 0 261 S09 684, 0261S09684, C1B1-12A650-PE, C1B112A650PE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S09 684",
+      "NUMBER PARTS": "C1B1-12A650-PE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:58:16.095Z",
+    "model": "mistral:7b",
+    "durationMs": 13950,
+    "priceIncrement": 100
+  }
+}

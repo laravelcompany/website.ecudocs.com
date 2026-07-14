@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - KIA CARNIVAL III 2.9 CRDI DELPHI R0412C001C, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-kia-carnival-iii-29-crdi-delphi-r0412c001c",
+  "metaDescription": "OEM tested ECU Engine Controller for KIA CARNIVAL III 2.9 CRDI DELPHI R0412C001C, Plug & Play, 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU Engine Controller for KIA CARNIVAL III 2.9 CRDI DELPHI R0412C001C",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA CARNIVAL III",
+    "2.9 CRDI",
+    "DELPHI R0412C001C"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for KIA CARNIVAL III 2.9 CRDI DELPHI R0412C001C.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month warranty</li><li>Used but in good condition</li></ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>KIA CARNIVAL III</td></tr>\n<tr><td>ENGINE</td><td>2.9 CRDI</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>DELPHI R0412C001C</td></tr>\n<tr><td>NUMBER PARTS</td><td>DCM3.2AP</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This product is intended for KIA CARNIVAL III 2.9 CRDI DELPHI R0412C001C and may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA CARNIVAL III 2.9 CRDI DELPHI R0412C001C, 28060241, 39104-4X910, 391044X910, DCM3.2AP",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-CARNIVAL-III-2.9-CRDI-DELPHI-R0412C001C%2C-28060241%2C-39104-4X910%2C-391044X910%2C-DCM3.2AP/39567",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "8EFF-72893_20130811163940",
+    "sku": "8EFF-72893_20130811163940",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA CARNIVAL III 2.9 CRDI DELPHI R0412C001C, 28060241, 39104-4X910, 391044X910, DCM3.2AP</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA CARNIVAL III",
+      "ENGINE": "2.9 CRDI",
+      "NUMBER MANUFACTURER": "DELPHI R0412C001C",
+      "NUMBER PARTS": "DCM3.2AP",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:18:06.371Z",
+    "model": "mistral:7b",
+    "durationMs": 11193,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Opel Vectra C16NZ - GM 16164389 QJ, AYCP - Warranty Included",
+  "slug": "plug-play-oem-ecu-opel-vectra-c16nz-gm-16164389-qj-aycp-warranty",
+  "metaDescription": "Buy the tested and OEM certified ECU Engine Controller for Opel Vectra C16NZ GM 16164389 QJ, AYCP. Enjoy a 6-month warranty and fast shipping.",
+  "price": "€110.00",
+  "excerpt": "OEM ECU Replacement for Opel Vectra C16NZ",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra C16NZ",
+    "GM 16164389 QJ",
+    "AYCP"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller is a direct replacement for Opel Vectra C16NZ, ensuring seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Locked/unlocked options available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL VECTRA C16NZ</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>GM 16164389 QJ</td></tr>\n        <tr><th>NUMBER PARTS</th><td>AYCP</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra C16NZ. Fitment caution: Always consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA C16NZ GM 16164389 QJ, 16164389QJ, AYCP",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-C16NZ-GM-16164389-QJ%2C-16164389QJ%2C-AYCP-/83179",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "37E3-71031_20151207150458",
+    "sku": "37E3-71031_20151207150458",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA C16NZ GM 16164389 QJ, 16164389QJ, AYCP </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_27b08cf5625b299524c0628b00877d46_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_8d8c4b6c52c7fe71f0293679a24592e4_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VECTRA C16NZ",
+      "NUMBER MANUFACTURER": "GM 16164389 QJ",
+      "NUMBER PARTS": "AYCP",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:25:19.852Z",
+    "model": "mistral:7b",
+    "durationMs": 9065,
+    "priceIncrement": 100
+  }
+}

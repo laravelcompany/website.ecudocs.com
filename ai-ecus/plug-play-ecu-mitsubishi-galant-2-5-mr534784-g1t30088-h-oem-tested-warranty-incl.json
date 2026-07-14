@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Mitsubishi Galant 2.5 MR534784, G1T30088 H - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-mitsubishi-galant-2-5-mr534784-g1t30088-h-oem-tested-warranty-incl",
+  "metaDescription": "Get a Plug & Play ECU Replacement for your Mitsubishi Galant 2.5 MR534784, G1T30088 H. This OEM tested part comes with a 6-month warranty and is ready for immediate installation.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Mitsubishi Galant 2.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mitsubishi Galant",
+    "MR534784",
+    "G1T30088 H"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Mitsubishi Galant 2.5 MR534784, G1T30088 H is tested and certified by a professional technician, ensuring optimal performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming (locked)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MITSUBISHI GALANT</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.5</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1997-2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MR534784</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>G1T30088 H</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility with your vehicle before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MITSUBISHI GALANT 2.5 MR534784, G1T30088 H",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MITSUBISHI-GALANT-2.5-MR534784%2C-G1T30088-H/44967",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Mitsubishi",
+    "productCode": "405A-330C2",
+    "sku": "405A-330C2",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MITSUBISHI GALANT 2.5 MR534784, G1T30088 H</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MITSUBISHI GALANT",
+      "ENGINE": "2.5",
+      "YEAR": "1997-2003",
+      "NUMBER MANUFACTURER": "MR534784",
+      "NUMBER PARTS": "G1T30088 H",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:54:27.880Z",
+    "model": "mistral:7b",
+    "durationMs": 11708,
+    "priceIncrement": 100
+  }
+}

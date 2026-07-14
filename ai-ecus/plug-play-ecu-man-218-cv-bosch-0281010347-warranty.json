@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - MAN 218 CV Bosch 0 281 010 347, L32 2102 - Warranty Included",
+  "slug": "plug-play-ecu-man-218-cv-bosch-0281010347-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for MAN 218 CV Bosch. Shipped within 24–48 hours with a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for MAN 218 CV Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "MAN 218 CV",
+    "Bosch",
+    "0 281 010 347",
+    "L32 2102"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement for MAN 218 CV Bosch is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\"><table><tbody><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>MAN 218 CV</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 347</td></tr><tr><th>NUMBER PARTS</th><td>L32 2102</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAN 218 CV BOSCH 0 281 010 347, 0281010347, L32 2102, 51.11616-7151, 51116167151",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAN-218-CV-BOSCH-0-281-010-347%2C-0281010347%2C-L32-2102%2C-51.11616-7151%2C-51116167151-/78500",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "93EC-578E1_20150828113536",
+    "sku": "93EC-578E1_20150828113536",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAN 218 CV BOSCH 0 281 010 347, 0281010347, L32 2102, 51.11616-7151, 51116167151 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_68897435832b5775c46741ee27b37457_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_677b495864e44d7a491ec48a212a4876_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAN 218 CV",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 347",
+      "NUMBER PARTS": "L32 2102",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:48:00.011Z",
+    "model": "mistral:7b",
+    "durationMs": 9033,
+    "priceIncrement": 100
+  }
+}

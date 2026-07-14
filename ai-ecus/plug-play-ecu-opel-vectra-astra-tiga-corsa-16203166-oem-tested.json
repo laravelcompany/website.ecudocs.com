@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Vectra Astra Tiga Corsa, OEM Tested - 6-month Warranty",
+  "slug": "plug-play-ecu-opel-vectra-astra-tiga-corsa-16203166-oem-tested",
+  "metaDescription": "Buy the tested ECU Engine Controller for Opel Vectra Astra Tiga Corsa, 1996-1998. Plug & Play, OEM, and backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU for Opel Vectra Astra Tiga Corsa - Tested & Warranty Included",
+  "tags": [
+    "ECU Replacement",
+    "Opel Vectra Astra Tiga Corsa",
+    "Delco 16203166",
+    "Plug & Play ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Opel Vectra Astra Tiga Corsa. It comes with a 6-month warranty and is ready for immediate use.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Compatible with 1996-1998 models</li><li>Condition: Used, Original in Good Condition</li><li>6-month Warranty</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>OPTION AVAILABLE</th><th>INSPECTION:</th><th>WARRANTY :</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>OPEL VAUXHALL HOLDEN VECTRA ASTRA TIGRA CORSA</td><td>1996-1998</td><td>16203166</td><td>Plug & Play / Locked / Ready for programming</td><td>Device thoroughly inspected and tested by a certified technician</td><td>6-month warranty</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra Astra Tiga Corsa (1996-1998). Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA ASTRA TIGRA CORSA, 16203166",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-ASTRA-TIGRA-CORSA%2C-16203166-/45729",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "FA1C-32202",
+    "sku": "FA1C-32202",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA ASTRA TIGRA CORSA, 16203166 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VAUXHALL HOLDEN VECTRA ASTRA TIGRA CORSA",
+      "YEAR": "1996-1998",
+      "NUMBER MANUFACTURER": "16203166",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:22:50.249Z",
+    "model": "mistral:7b",
+    "durationMs": 9980,
+    "priceIncrement": 100
+  }
+}

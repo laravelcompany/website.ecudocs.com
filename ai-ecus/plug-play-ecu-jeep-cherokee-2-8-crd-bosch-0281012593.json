@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Jeep Cherokee 2.8 CRD Bosch 0 281 012 593 - ECU Replacement",
+  "slug": "plug-play-ecu-jeep-cherokee-2-8-crd-bosch-0281012593",
+  "metaDescription": "OEM Tested Plug & Play ECU Engine Controller Jeep Cherokee 2.8 CRD Bosch 0 281 012 593 - 6-month warranty, fast dispatch.",
+  "price": "€1100.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Jeep Cherokee 2.8 CRD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 012 593",
+    "Jeep Cherokee"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Jeep Cherokee 2.8 CRD is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>JEEP CHEROKEE</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.8 CRD</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 012 593</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>P56044773AD</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">12-month warranty, fast dispatch within EU.</section>\n<section class=\"compatibility\">Compatible with Jeep Cherokee 2.8 CRD. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JEEP CHEROKEE 2.8 CRD BOSCH 0 281 012 593, 0281012593, P56044773AD, FM5EA",
+    "price": "€1,000.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JEEP-CHEROKEE-2.8-CRD-BOSCH-0-281-012-593%2C-0281012593%2C-P56044773AD%2C-FM5EA-/80854",
+    "priceCurrency": "EUR",
+    "netPrice": "€813.01",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D19A-46810_20151021174707",
+    "sku": "D19A-46810_20151021174707",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JEEP CHEROKEE 2.8 CRD BOSCH 0 281 012 593, 0281012593, P56044773AD, FM5EA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JEEP CHEROKEE",
+      "ENGINE": "2.8 CRD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 593",
+      "NUMBER PARTS": "P56044773AD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:02:37.446Z",
+    "model": "mistral:7b",
+    "durationMs": 11361,
+    "priceIncrement": 100
+  }
+}

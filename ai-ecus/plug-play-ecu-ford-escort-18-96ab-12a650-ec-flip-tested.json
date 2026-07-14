@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Escort 1.8, 96AB-12A650-EC, FLIP - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-escort-18-96ab-12a650-ec-flip-tested",
+  "metaDescription": "Buy the OEM Tested Plug & Play ECU Engine Controller for Ford Escort 1.8, 96AB-12A650-EC, FLIP with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Ford Escort 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Escort",
+    "Visteon",
+    "96AB-12A650-EC"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Ford Escort 1.8 is a reliable replacement part, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr>\n<tr><td>ECU ENGINE CONTROLLER</td><td>FORD ESCORT</td><td>1.8</td><td>1996</td><td>96AB-12A650-EC</td><td>FLIP</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Escort models equipped with the specified ECU. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD ESCORT 1.8, 96AB-12A650-EC, 96AB12A650FC, FLIP",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-ESCORT-1.8%2C-96AB-12A650-EC%2C-96AB12A650FC%2C-FLIP-/49007",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "EBDD-45570",
+    "sku": "EBDD-45570",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD ESCORT 1.8, 96AB-12A650-EC, 96AB12A650FC, FLIP </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_17206ee7f913365189cd76e38c3a2e03_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ed2c9a9c4ca200e0004874a92541d1d2_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD ESCORT",
+      "ENGINE": "1.8",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "96AB-12A650-EC",
+      "NUMBER PARTS": "FLIP",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:11:18.539Z",
+    "model": "mistral:7b",
+    "durationMs": 9449,
+    "priceIncrement": 100
+  }
+}

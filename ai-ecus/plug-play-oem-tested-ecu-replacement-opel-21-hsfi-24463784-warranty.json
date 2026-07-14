@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Opel 2.1 HSFI 24463784 - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-opel-21-hsfi-24463784-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Opel 2.1 HSFI (24463784 DRYB) tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play OEM Tested Opel ECU Replacement",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel 2.1 HSFI",
+    "OEM part",
+    "6-month warranty"
+  ],
+  "description": "<section class=\"overview\">This Delphi Delco ECU Engine Controller for Opel 2.1 HSFI (24463784 DRYB) is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used Original in Good Condition</li><li>Condition: Used Oryginal in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER MANUFACTURER</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>OPEL</td><td>24463784 DRYB HSFI 2.1</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please check the compatibility chart before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL 24463784 DRYB HSFI 2.1",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-24463784-DRYB-HSFI-2.1/139046",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "061C-24091_20240229121622",
+    "sku": "061C-24091_20240229121622",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL 24463784 DRYB HSFI 2.1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_291966_0_0/OPEL-24463784-DRYB-HSFI-2.1.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_291967_0_0/OPEL-24463784-DRYB-HSFI-2.1.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL",
+      "NUMBER MANUFACTURER": "24463784 DRYB HSFI 2.1",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:55:06.830Z",
+    "model": "mistral:7b",
+    "durationMs": 9048,
+    "priceIncrement": 100
+  }
+}

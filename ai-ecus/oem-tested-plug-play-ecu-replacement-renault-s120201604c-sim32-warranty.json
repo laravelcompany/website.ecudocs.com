@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Renault - S120201604C, SIM32 - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-replacement-renault-s120201604c-sim32-warranty",
+  "metaDescription": "Buy the OEM Tested, Plug & Play ECU Engine Controller for Renault S120201604C, SIM32. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Renault",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault S120201604C",
+    "SIM32"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested, Plug & Play ECU Engine Controller for Renault is a reliable replacement for your vehicle's engine control system.</section>\n<section class=\"features\"><ul><li>Tested and certified by a professional technician</li><li>6-month warranty</li><li>Compatible with Renault S120201604C</li><li>SIM32 part number</li><li>Plug & Play for easy installation</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>RENAULT</td><td>S120201604C</td><td>SIM32</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Renault S120201604C. Please verify compatibility with your vehicle before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT S120201604C, 8200473764, SIM32",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-S120201604C%2C-8200473764%2C-SIM32/120798",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "8C2C-87649_20200914150127",
+    "sku": "8C2C-87649_20200914150127",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT S120201604C, 8200473764, SIM32</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_246749_0_0/RENAULT-S120201604C%2C-8200473764%2C-SIM32.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_246750_0_0/RENAULT-S120201604C%2C-8200473764%2C-SIM32.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT",
+      "NUMBER MANUFACTURER": "S120201604C",
+      "NUMBER PARTS": "SIM32",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:06:38.465Z",
+    "model": "mistral:7b",
+    "durationMs": 9238,
+    "priceIncrement": 100
+  }
+}

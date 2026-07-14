@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot 206 1.1 Magneti Marelli IAW 1AP.80 - 6-month Warranty",
+  "slug": "plug-play-ecu-peugeot-206-11-magneti-marelli-iaw-1ap80-warranty",
+  "metaDescription": "Expertly inspected and tested OEM replacement ECU Engine Controller for Peugeot 206 1.1 Magneti Marelli IAW 1AP.80, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Peugeot 206 1.1 Magneti Marelli",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 206",
+    "Magneti Marelli IAW 1AP.80"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Peugeot 206 1.1 Magneti Marelli IAW 1AP.80 is a reliable replacement, ensuring seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Peugeot 206 1.1</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PEUGEOT 206</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.1</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI IAW 1AP.80</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>9639907780 E</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 206 1.1 MAGNETI MARELLI IAW 1AP.80, IAW1AP80, 16300.684, 16300684, 9639907780 E",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-206-1.1-MAGNETI-MARELLI-IAW-1AP.80%2C-IAW1AP80%2C-16300.684%2C-16300684%2C-9639907780-E/16824",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "7E26-283AD",
+    "sku": "7E26-283AD",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 206 1.1 MAGNETI MARELLI IAW 1AP.80, IAW1AP80, 16300.684, 16300684, 9639907780 E</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 206",
+      "ENGINE": "1.1",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 1AP.80",
+      "NUMBER PARTS": "9639907780 E",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:39:29.624Z",
+    "model": "mistral:7b",
+    "durationMs": 11798,
+    "priceIncrement": 100
+  }
+}

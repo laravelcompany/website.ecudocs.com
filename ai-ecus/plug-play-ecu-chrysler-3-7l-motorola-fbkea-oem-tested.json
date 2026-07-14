@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Chrysler 3.7L Motorola FBKEA - 6-month Warranty, ECU Replacement",
+  "slug": "plug-play-ecu-chrysler-3-7l-motorola-fbkea-oem-tested",
+  "metaDescription": "Expertly tested and OEM Motorola ECU Engine Controller for Chrysler 3.7L, offering Plug & Play installation and a 6-month warranty.",
+  "price": "€900.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Chrysler 3.7L",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chrysler 3.7L",
+    "Motorola FBKEA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller for Chrysler 3.7L offers reliable performance and a seamless installation process.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>ECU Replacement</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>CHRYSLER</td></tr>\n        <tr><th>ENGINE:</th><td>3.7L</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>Motorola</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>FBKEA</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION: </th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHRYSLER 3.7L Motorola P56044221AE, 56044221AE, 932180, FBKEA",
+    "price": "€800.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHRYSLER-3.7L-Motorola-P56044221AE%2C-56044221AE%2C-932180%2C-FBKEA-/99911",
+    "priceCurrency": "EUR",
+    "netPrice": "€650.41",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "A7F8-550B9_20161130155736",
+    "sku": "A7F8-550B9_20161130155736",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHRYSLER 3.7L Motorola P56044221AE, 56044221AE, 932180, FBKEA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_baa0f9c1ff268d54816416e1cb9d9bf4_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3b5222503e326dd8efd82dabb9a64003_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHRYSLER",
+      "ENGINE": "3.7L",
+      "NUMBER MANUFACTURER": "Motorola",
+      "NUMBER PARTS": "FBKEA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:03:34.049Z",
+    "model": "mistral:7b",
+    "durationMs": 9856,
+    "priceIncrement": 100
+  }
+}

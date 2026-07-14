@@ -1,0 +1,47 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller BMW Siemens 5WK33701AH - Warranty Included, ECU Replacement",
+  "slug": "oem-tested-plug-play-ecu-bmw-siemens-5wk33701ah-warranty-included",
+  "metaDescription": "OEM tested Plug & Play ECU Engine Controller for BMW Siemens 5WK33701AH. Warranty included, fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU replacement for BMW Siemens 5WK33701AH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW Siemens 5WK33701AH",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for BMW Siemens 5WK33701AH is a reliable replacement, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>BMW SIEMENS 5WK33701 AH</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>622.0.0250.00</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW SIEMENS 5WK33701AH, 5WK33701 AH, 7836383, 7836382, 622.0.0250.00",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-SIEMENS-5WK33701AH%2C-5WK33701-AH%2C-7836383%2C-7836382%2C-622.0.0250.00-/16303",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "2C8D-963F0",
+    "sku": "2C8D-963F0",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW SIEMENS 5WK33701AH, 5WK33701 AH, 7836383, 7836382, 622.0.0250.00 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK33701 AH",
+      "NUMBER PARTS": "622.0.0250.00",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:49:05.458Z",
+    "model": "mistral:7b",
+    "durationMs": 9136,
+    "priceIncrement": 100
+  }
+}

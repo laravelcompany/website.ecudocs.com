@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - KIA RIO 1.4 - Kefico 9030933808KB EK GJB-044DFS1-5000, 39110-26CF0",
+  "slug": "plug-play-oem-tested-ecu-replacement-kia-rio-14-kefico-9030933808kb-ek-gjb-044df",
+  "metaDescription": "OEM tested Plug & Play ECU replacement for KIA RIO 1.4 by Kefico. Covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for KIA RIO 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA RIO",
+    "1.4 Engine",
+    "Kefico"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement is a reliable solution for your KIA RIO 1.4.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>KIA RIO</td></tr><tr><th>ENGINE</th><td>1.4</td></tr><tr><th>NUMBER MANUFACTURER</th><td>39110-26CF0</td></tr><tr><th>CODE</th><td>EK</td></tr><tr><th>NUMBER PARTS</th><td>9030933808KB</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA RIO 1.4 9030933808KB EK GJB-044DFS1-5000, 39110-26CF0, 3911026CF0",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-RIO-1.4-9030933808KB-EK-GJB-044DFS1-5000%2C-39110-26CF0%2C-3911026CF0/23646",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Kefico",
+    "productCode": "E9D5-48020_20120528124040",
+    "sku": "E9D5-48020_20120528124040",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA RIO 1.4 9030933808KB EK GJB-044DFS1-5000, 39110-26CF0, 3911026CF0</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA RIO",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "39110-26CF0",
+      "CODE": "EK",
+      "NUMBER PARTS": "9030933808KB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:25:04.638Z",
+    "model": "mistral:7b",
+    "durationMs": 10141,
+    "priceIncrement": 100
+  }
+}

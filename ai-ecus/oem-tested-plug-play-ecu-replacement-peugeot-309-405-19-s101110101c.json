@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Peugeot 309 405 1.9 S101110101C, Used in Good Condition",
+  "slug": "oem-tested-plug-play-ecu-replacement-peugeot-309-405-19-s101110101c",
+  "metaDescription": "Expertly tested and OEM certified ECU replacement for Peugeot 309 405 1.9 S101110101C, offering a seamless Plug & Play installation. Backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested ECU Replacement for Peugeot 309 405 1.9 S101110101C",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 309 405",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is designed for seamless installation in your Peugeot 309 405 1.9 S101110101C.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 309 405</td></tr>\n        <tr><th>ENGINE</th><td>1.9</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>S101110101 C</td></tr>\n        <tr><th>TRANSMISSION</th><td>18280</td></tr>\n    </table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Always confirm fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 309 405 1.9 S101110101C, S 101110101 C, S101110101 C, 18280",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-309-405-1.9-S101110101C%2C-S-101110101-C%2C-S101110101-C%2C-18280-/16840",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bendix",
+    "productCode": "5E9E-70011",
+    "sku": "5E9E-70011",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 309 405 1.9 S101110101C, S 101110101 C, S101110101 C, 18280 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 309 405",
+      "ENGINE": "1.9",
+      "NUMBER MANUFACTURER": "S101110101 C",
+      "TRANSMISSION": "18280",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:10:24.907Z",
+    "model": "mistral:7b",
+    "durationMs": 9000,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Audi VW - Bosch 0261S07495 MED17.5.5 - Tested & Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-for-audi-vw-bosch-0261s07495-med1755-tested",
+  "metaDescription": "Buy the Plug & Play OEM ECU Engine Controller for Audi VW, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Audi VW - Tested & Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi VW ECU",
+    "Bosch ECU",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Replacement for Audi VW is tested and thoroughly inspected by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM quality guarantee</li><li>6-month warranty</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>AUDI VW</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S07 495</td></tr>\n    <tr><th>NUMBER PARTS</th><td>MED17.5.5</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Audi VW models. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI VW 0261S07495 03C906016DL MED17.5.5",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-VW-0261S07495-03C906016DL-MED17.5.5/120994",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "627D-891DC_20200917135723",
+    "sku": "627D-891DC_20200917135723",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI VW  0261S07495 03C906016DL MED17.5.5</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI VW",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S07 495",
+      "NUMBER PARTS": "MED17.5.5",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:59:13.632Z",
+    "model": "mistral:7b",
+    "durationMs": 9893,
+    "priceIncrement": 100
+  }
+}

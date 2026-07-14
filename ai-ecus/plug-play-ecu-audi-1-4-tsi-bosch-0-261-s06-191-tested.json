@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Audi 1.4 TSI BOSCH 0 261 S06 191 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-1-4-tsi-bosch-0-261-s06-191-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Audi 1.4 TSI BOSCH 0 261 S06 191, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi 1.4 TSI BOSCH 0 261 S06 191",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi 1.4 TSI",
+    "BOSCH 0 261 S06 191"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller for Audi 1.4 TSI BOSCH 0 261 S06 191 is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play</li>\n      <li>OEM Tested</li>\n      <li>Warranty Included</li>\n      <li>Fast Dispatch within EU</li>\n      <li>6-month Warranty</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>PARTS</td>\n          <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n          <td>BRAND AND MODEL</td>\n          <td>AUDI</td>\n        </tr>\n        <tr>\n          <td>ENGINE</td>\n          <td>1.4 TSI</td>\n        </tr>\n        <tr>\n          <td>NUMBER MANUFACTURER</td>\n          <td>BOSCH 0 261 S06 191</td>\n        </tr>\n        <tr>\n          <td>NUMBER PARTS</td>\n          <td>MED17.5.5</td>\n        </tr>\n        <tr>\n          <td>OPTION AVAILABLE</td>\n          <td>Plug & Play / Locked / Ready for programming</td>\n        </tr>\n        <tr>\n          <td>WARRANTY :</td>\n          <td>6-month warranty</td>\n        </tr>\n        <tr>\n          <td>INSPECTION:</td>\n          <td>Device thoroughly inspected and tested by a certified technician</td>\n        </tr>\n        <tr>\n          <td>CONDITION</td>\n          <td>USED ORYGINAL IN GOOD CONDITION</td>\n        </tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI 1.4 TSI BOSCH 0 261 S06 191, 0261S06191, 03C 906 016 BH, 03C9061016BH, MED17.5.5",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-1.4-TSI-BOSCH-0-261-S06-191%2C-0261S06191%2C-03C-906-016-BH%2C-03C9061016BH%2C-MED17.5.5/108264",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A794-223E1_20180110125956",
+    "sku": "A794-223E1_20180110125956",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI 1.4 TSI BOSCH 0 261 S06 191, 0261S06191, 03C 906 016 BH, 03C9061016BH, MED17.5.5</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_ee2906c5a0f4035739703400c685494a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_51f1a2f10c3b5730eb235c521fb5c1d8_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI",
+      "ENGINE": "1.4 TSI",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S06 191",
+      "NUMBER PARTS": "MED17.5.5",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:33:28.063Z",
+    "model": "mistral:7b",
+    "durationMs": 13034,
+    "priceIncrement": 100
+  }
+}

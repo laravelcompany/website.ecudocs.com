@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Audi - Bosch 0281016353, 03L906019C, EDC17CP20",
+  "slug": "plug-play-oem-tested-ecu-replacement-audi-bosch-0281016353",
+  "metaDescription": "Buy a Plug & Play OEM Tested ECU Engine Controller for Audi, Bosch 0281016353. Covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Audi",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi Bosch ECU",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Audi is a reliable solution for your engine control unit issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281016353</td></tr>\n        <tr><th>NUMBER PARTS</th><td>03L906019C, EDC17CP20</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI BOSCH 0281016353, 0 281 016 353, 03L906019C, EDC17CP20",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-BOSCH-0281016353%2C-0-281-016-353%2C-03L906019C%2C-EDC17CP20/130545",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "CF6C-93491_20220525152252",
+    "sku": "CF6C-93491_20220525152252",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI BOSCH 0281016353, 0 281 016 353, 03L906019C, EDC17CP20</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI",
+      "NUMBER MANUFACTURER": "BOSCH 0281016353",
+      "NUMBER PARTS": "03L906019C, EDC17CP20",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:46:15.801Z",
+    "model": "mistral:7b",
+    "durationMs": 8213,
+    "priceIncrement": 100
+  }
+}

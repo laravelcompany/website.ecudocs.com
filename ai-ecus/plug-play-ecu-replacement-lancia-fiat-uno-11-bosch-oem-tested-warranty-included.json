@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Lancia Fiat Uno 1.1 Bosch 0 280 000 715, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-lancia-fiat-uno-11-bosch-oem-tested-warranty-included",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Lancia Fiat Uno 1.1, tested and covered by a 6-month warranty. OEM Bosch part number: 0 280 000 715.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Lancia Fiat Uno 1.1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Fiat Uno",
+    "Bosch 0 280 000 715"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Lancia Fiat Uno 1.1 is tested and guaranteed to work seamlessly with your vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>LANCIA, FIAT UNO</td></tr>\n        <tr><th>ENGINE</th><td>1.1</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 280 000 715</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch (EU). 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Lancia Fiat Uno 1.1. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA, FIAT UNO 1.1, BOSCH 0 280 000 715, 0280000715",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA%2C-FIAT-UNO-1.1%2C-BOSCH-0-280-000-715%2C-0280000715-/46498",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7C96-9506C",
+    "sku": "7C96-9506C",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA, FIAT UNO 1.1, BOSCH 0 280 000 715, 0280000715 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_17b74432ee474a5f0a8402bfb92e47f6_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0bf0a4749a1ac72527afeb85086886d5_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c8609e715865a0704b3da14f7375e958_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA, FIAT UNO",
+      "ENGINE": "1.1",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 000 715",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:40:49.565Z",
+    "model": "mistral:7b",
+    "durationMs": 10656,
+    "priceIncrement": 100
+  }
+}

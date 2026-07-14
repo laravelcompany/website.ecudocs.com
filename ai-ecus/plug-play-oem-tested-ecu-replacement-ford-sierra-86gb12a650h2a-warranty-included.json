@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford Sierra 86GB-12A650-H2A, Warranty Included",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-sierra-86gb12a650h2a-warranty-included",
+  "metaDescription": "Buy this Plug & Play OEM Tested ECU Replacement for Ford Sierra 86GB-12A650-H2A, backed by a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Sierra",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Sierra",
+    "Visteon",
+    "86GB12A650H2A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Ford Sierra is a reliable solution to your engine control unit issues, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used but in good condition</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD SIERRA</td></tr>\n        <tr><th>YEAR</th><td>1987-1992</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>86GB12A650H2A</td></tr>\n        <tr><th>WARRANTY</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Sierra models from 1987 to 1992.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD SIERRA 86GB-12A650-H2A, 86GB12A650H2A",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-SIERRA-86GB-12A650-H2A%2C-86GB12A650H2A/66007",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "E462-68701_20140917121718",
+    "sku": "E462-68701_20140917121718",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD SIERRA 86GB-12A650-H2A, 86GB12A650H2A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD SIERRA",
+      "YEAR": "1987-1992",
+      "NUMBER MANUFACTURER": "86GB12A650H2A",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:58:40.740Z",
+    "model": "mistral:7b",
+    "durationMs": 9856,
+    "priceIncrement": 100
+  }
+}

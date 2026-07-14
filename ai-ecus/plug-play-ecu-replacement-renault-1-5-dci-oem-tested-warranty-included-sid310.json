@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Renault 1.5 DCI - OEM Tested, Warranty Included (SID310)",
+  "slug": "plug-play-ecu-replacement-renault-1-5-dci-oem-tested-warranty-included-sid310",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Renault 1.5 DCI (SID310) - OEM tested, warranty included, and fast shipping.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault 1.5 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault 1.5 DCI",
+    "OEM part numbers",
+    "SID310"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Renault 1.5 DCI (SID310) is thoroughly inspected, tested by a certified technician, and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used Original in Good Condition</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>RENAULT</td></tr>\n        <tr><th>ENGINE:</th><td>1.5 DCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>A2C98849200</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>SID310</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT 1.5 DCI 237106968R, A2C98849200, SID310",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-1.5-DCI-237106968R%2C-A2C98849200%2C-SID310/110097",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "3D04-91067_20180525113850",
+    "sku": "3D04-91067_20180525113850",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT 1.5 DCI 237106968R, A2C98849200, SID310</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_b94be29f108d125095588556c90101d5_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_5373efd26e9fad394c08771a685d42a3_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT",
+      "ENGINE": "1.5 DCI",
+      "NUMBER MANUFACTURER": "A2C98849200",
+      "NUMBER PARTS": "SID310",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:40:24.596Z",
+    "model": "mistral:7b",
+    "durationMs": 8829,
+    "priceIncrement": 100
+  }
+}

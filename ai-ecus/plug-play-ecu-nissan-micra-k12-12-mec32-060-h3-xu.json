@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for NISSAN MICRA K12 1.2 - OEM Tested, Warranty Included [MEC32-060 H3, XU]",
+  "slug": "plug-play-ecu-nissan-micra-k12-12-mec32-060-h3-xu",
+  "metaDescription": "Expertly tested and OEM certified ECU replacement for NISSAN MICRA K12 1.2 [MEC32-060 H3, XU]. Plug & Play, warranty included.",
+  "price": "€250.00",
+  "excerpt": "Expertly tested ECU replacement for NISSAN MICRA K12 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Micra K12",
+    "MEC32-060 H3",
+    "XU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for NISSAN MICRA K12 1.2 has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used, Original in Good Condition</li><li>Compatible with 2005 Model Year</li></ul></section>\n<section class=\"specs\"><table><tbody><tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL:</th><td>NISSAN MICRA K12</td></tr><tr><th>ENGINE:</th><td>1.2</td></tr><tr><th>YEAR:</th><td>2005</td></tr><tr><th>NUMBER MANUFACTURER:</th><td>MEC32-060 H3</td></tr><tr><th>NUMBER PARTS:</th><td>XU</td></tr></tbody></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific installation requirements. Please consult a professional technician for assistance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN MICRA K12 1.2, MEC32-060 H3, MEC32060 H3, MEC32060H3, 3Z15, XU",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-MICRA-K12-1.2%2C-MEC32-060-H3%2C-MEC32060-H3%2C-MEC32060H3%2C-3Z15%2C-XU/38419",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "D7F0-1934C_20130724104516",
+    "sku": "D7F0-1934C_20130724104516",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN MICRA K12 1.2, MEC32-060 H3, MEC32060 H3, MEC32060H3, 3Z15, XU</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN MICRA K12",
+      "ENGINE": "1.2",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "MEC32-060 H3",
+      "NUMBER PARTS": "XU",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:27:03.064Z",
+    "model": "mistral:7b",
+    "durationMs": 8915,
+    "priceIncrement": 100
+  }
+}

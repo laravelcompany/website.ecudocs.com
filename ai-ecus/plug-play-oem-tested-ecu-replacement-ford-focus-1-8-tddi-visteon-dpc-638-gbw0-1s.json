@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford Focus 1.8 TDDI - Visteon DPC-638 GBW0, 1S4F-12A650-BCA",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-focus-1-8-tddi-visteon-dpc-638-gbw0-1s",
+  "metaDescription": "Buy this OEM tested ECU replacement for your Ford Focus 1.8 TDDI, backed by a 6-month warranty and ready for plug & play installation.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Focus 1.8 TDDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "1.8 TDDI",
+    "Visteon DPC-638"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for your Ford Focus 1.8 TDDI offers a reliable solution to potential engine control issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming (if locked)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD FOCUS</td></tr>\n        <tr><th>ENGINE:</th><td>1.8 TDDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>DPC-638</td></tr>\n        <tr><th>CODE:</th><td>GBW0</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>1S4F-12A650-BCA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Focus 1.8 TDDI. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.8 TDDI 1S4F12A650BCA, 1S4F-12A650-BCA GBW0, DPC-638",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.8-TDDI-1S4F12A650BCA%2C-1S4F-12A650-BCA-GBW0%2C-DPC-638-/31571",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "E226-23668_20121016140355",
+    "sku": "E226-23668_20121016140355",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.8 TDDI 1S4F12A650BCA, 1S4F-12A650-BCA GBW0, DPC-638 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.8 TDDI",
+      "NUMBER MANUFACTURER": "DPC-638",
+      "CODE": "GBW0",
+      "NUMBER PARTS": "1S4F-12A650-BCA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:58:40.132Z",
+    "model": "mistral:7b",
+    "durationMs": 9385,
+    "priceIncrement": 100
+  }
+}

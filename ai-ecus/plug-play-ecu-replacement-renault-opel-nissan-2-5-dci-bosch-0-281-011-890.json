@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Opel Nissan 2.5 DCI Bosch 0 281 011 890, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-opel-nissan-2-5-dci-bosch-0-281-011-890",
+  "metaDescription": "OEM tested ECU Engine Controller for Renault Opel Nissan 2.5 DCI, Plug & Play replacement with 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Opel Nissan 2.5 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Opel Nissan",
+    "2.5 DCI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for Renault Opel Nissan 2.5 DCI vehicles, ensuring seamless engine control.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM quality and performance</li><li>6-month warranty</li><li>Thoroughly inspected and tested by a certified technician</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Value</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>RENAULT OPEL NISSAN</td></tr><tr><td>ENGINE</td><td>2.5 DCI</td></tr><tr><td>YEAR</td><td>2001-2006</td></tr><tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 011 890</td></tr><tr><td>NUMBER PARTS</td><td>HOM8200091517</td></tr><tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr><tr><td>WARRANTY :</td><td>6-month warranty</td></tr><tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Opel Nissan 2.5 DCI vehicles. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT OPEL NISSAN 2.5 DCI BOSCH 0 281 011 890, 0281011890, HOM8200091517",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-OPEL-NISSAN-2.5-DCI-BOSCH-0-281-011-890%2C-0281011890%2C-HOM8200091517/71222",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B59E-73870_20150104221819",
+    "sku": "B59E-73870_20150104221819",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT OPEL NISSAN 2.5 DCI BOSCH 0 281 011 890, 0281011890, HOM8200091517</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT OPEL NISSAN",
+      "ENGINE": "2.5 DCI",
+      "YEAR": "2001-2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 890",
+      "NUMBER PARTS": "HOM8200091517",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:03:48.749Z",
+    "model": "mistral:7b",
+    "durationMs": 10564,
+    "priceIncrement": 100
+  }
+}

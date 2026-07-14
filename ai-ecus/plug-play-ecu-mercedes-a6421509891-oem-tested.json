@@ -1,0 +1,47 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mercedes A6421509891 - Warranty Included",
+  "slug": "plug-play-ecu-mercedes-a6421509891-oem-tested",
+  "metaDescription": "Buy the OEM Tested Plug & Play ECU Engine Controller Mercedes A6421509891 with a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Mercedes A6421509891",
+  "tags": [
+    "ECU replacement",
+    "Plug & Play ECU",
+    "Mercedes A-Class",
+    "Bosch 0 281 013 391",
+    "A6421509891"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Mercedes is a reliable solution to replace your faulty engine control unit.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested and certified</li>\n        <li>Plug & Play installation</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Compatible with Mercedes A-Class models</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A6421509891</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes A-Class models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES BOSCH 0 281 013 391, 0281013391, A 642 150 98 91, A6421509891",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-BOSCH-0-281-013-391%2C-0281013391%2C-A-642-150-98-91%2C-A6421509891/55492",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7078-638FE_20140508115946",
+    "sku": "7078-638FE_20140508115946",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES BOSCH 0 281 013 391, 0281013391, A 642 150 98 91, A6421509891</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "NUMBER PARTS": "A6421509891",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:36:04.860Z",
+    "model": "mistral:7b",
+    "durationMs": 9273,
+    "priceIncrement": 100
+  }
+}

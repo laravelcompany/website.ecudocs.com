@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Renault Clio 1.5 DCI - Delphi R0410C041C, 8200250663, Warranty Included",
+  "slug": "plug-play-ecu-renault-clio-1-5-dci-delphi-r0410c041c-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Renault Clio 1.5 DCI by Delphi, covered by a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€200.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Renault Clio 1.5 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delphi R0410C041C",
+    "Renault Clio",
+    "1.5 DCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Renault Clio 1.5 DCI by Delphi ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Inspected and Tested by a Certified Technician</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>RENAULT CLIO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.5 DCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2002</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>DELPHI R0410C041C</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8200250663</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Renault Clio 1.5 DCI. Fitment caution may apply, please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO 1.5 DCI Delphi R0410C041C, 8200250663, HOM 8200129109",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-1.5-DCI-Delphi-R0410C041C%2C-8200250663%2C-HOM-8200129109/94141",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "4932-54532_20160715104707",
+    "sku": "4932-54532_20160715104707",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO 1.5 DCI Delphi R0410C041C, 8200250663, HOM 8200129109</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_d57eb3f0e49fd01772fd8eb5f93c356c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1b8bb320144216aca4c785ac58ac4c68_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO",
+      "ENGINE": "1.5 DCI",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "DELPHI R0410C041C",
+      "NUMBER PARTS": "8200250663",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:04:52.701Z",
+    "model": "mistral:7b",
+    "durationMs": 13642,
+    "priceIncrement": 100
+  }
+}

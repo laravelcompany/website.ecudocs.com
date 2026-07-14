@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Skoda Octavia 1.9 TDI (2009) Bosch 0 281 014 715, 03G 906 021 TG - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-skoda-octavia-19-tdi-bosch-oem-tested",
+  "metaDescription": "Expertly reconditioned ECU Engine Controller for Skoda Octavia 1.9 TDI (2009) by Bosch, offering Plug & Play functionality and backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Expertly reconditioned ECU for Skoda Octavia 1.9 TDI (2009)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Octavia",
+    "Bosch",
+    "1.9 TDI"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller is specifically designed for Skoda Octavia 1.9 TDI (2009), ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM-tested for quality assurance</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Locked/unlocked options available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Parts</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>Brand and Model</td>\n                <td>SKODA OCTAVIA</td>\n            </tr>\n            <tr>\n                <td>Engine</td>\n                <td>1.9 TDI</td>\n            </tr>\n            <tr>\n                <td>Year</td>\n                <td>2009</td>\n            </tr>\n            <tr>\n                <td>Number Manufacturer</td>\n                <td>BOSCH 0 281 014 715</td>\n            </tr>\n            <tr>\n                <td>Number Parts</td>\n                <td>03G 906 021 AB</td>\n            </tr>\n            <tr>\n                <td>Option Available</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>Warranty</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>Inspection</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>Condition</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Skoda Octavia 1.9 TDI (2009). Fitment caution may apply, please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA BOSCH 0 281 014 715, 0281014715, 03G 906 021 TG, 03G906021TG, 03G906021AB, EDC16U34",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-BOSCH-0-281-014-715%2C-0281014715%2C-03G-906-021-TG%2C-03G906021TG%2C-03G906021AB%2C-EDC16U34-/93756",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "CF3E-5180F_20160620163629",
+    "sku": "CF3E-5180F_20160620163629",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA BOSCH 0 281 014 715, 0281014715, 03G 906 021 TG, 03G906021TG, 03G906021AB, EDC16U34 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 715",
+      "NUMBER PARTS": "03G 906 021 AB",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:41:45.680Z",
+    "model": "mistral:7b",
+    "durationMs": 13375,
+    "priceIncrement": 100
+  }
+}

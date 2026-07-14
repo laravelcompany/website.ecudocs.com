@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W210 Bosch 0 281 010 534, A 611 153 28 79 - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-mercedes-w210-bosch-oem-tested-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Mercedes W210, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W210",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W210",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement is a tested and reliable solution for your Mercedes W210 engine control unit.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Used but in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W210</td></tr>\n        <tr><th>YEAR</th><td>2000</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A6111532879</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W210 BOSCH 0 281 010 534, 0281010534, A 611 153 28 79, A6111532879",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W210-BOSCH-0-281-010-534%2C-0281010534%2C-A-611-153-28-79%2C-A6111532879-/55388",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3DD5-6384D_20140507155324",
+    "sku": "3DD5-6384D_20140507155324",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  MERCEDES W210 BOSCH 0 281 010 534, 0281010534, A 611 153 28 79, A6111532879 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W210",
+      "YEAR": "2000",
+      "NUMBER PARTS": "A6111532879",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:09:01.757Z",
+    "model": "mistral:7b",
+    "durationMs": 9445,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Fiat Punto Engine Controller IAW 5AF.P4, 51782650 - 6-month Warranty",
+  "slug": "plug-play-ecu-fiat-punto-iaw-5afp4-51782650-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat Punto IAW 5AF.P4, 51782650, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Punto - 6-month Warranty",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Punto",
+    "IAW 5AF.P4",
+    "51782650"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Punto IAW 5AF.P4, 51782650, is a reliable replacement option that ensures smooth engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used but in good condition</li><li>Ready for programming</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL:</th><td>FIAT PUNTO</td></tr>\n      <tr><th>NUMBER MANUFACTURER:</th><td>IAW 5AF.P4</td></tr>\n      <tr><th>NUMBER PARTS:</th><td>51782650</td></tr>\n      <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>CONDITION:</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on specific vehicle conditions. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO IAW 5AF.P4, IAW5AFP4, 51782650",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-IAW-5AF.P4%2C-IAW5AFP4%2C-51782650/111212",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "F127-52599_20180829125042",
+    "sku": "F127-52599_20180829125042",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO IAW 5AF.P4, IAW5AFP4, 51782650</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_0edac3a32d49ccb95ccaf7d6a8b559b2_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_dfa8d263a301f3f9100758c010095085_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO",
+      "NUMBER MANUFACTURER": "IAW 5AF.P4",
+      "NUMBER PARTS": "51782650",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:26:59.918Z",
+    "model": "mistral:7b",
+    "durationMs": 10093,
+    "priceIncrement": 100
+  }
+}

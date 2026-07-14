@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM ECU Replacement - Toyota Celica 1.6 4A-FE (89661-2B210, 896612B210) - Denso",
+  "slug": "plug-play-oem-ecu-replacement-toyota-celica-1-6-4a-fe-denso-89661-2b210",
+  "metaDescription": "OEM tested ECU replacement for Toyota Celica 1.6 4A-FE (89661-2B210, 896612B210) by Denso. Plug & Play, 6-month warranty, and fast dispatch.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Toyota Celica 1.6 4A-FE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Celica 1.6 4A-FE",
+    "Denso"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Toyota Celica 1.6 4A-FE (89661-2B210, 896612B210) by Denso offers Plug & Play functionality and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for reliable performance</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Covering Toyota Celica 1.6 4A-FE (89661-2B210, 896612B210)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>TOYOTA CELICA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1992</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>89661-2B210</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>4A-FE</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Toyota Celica 1.6 4A-FE (89661-2B210, 896612B210). Please ensure compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA CELICA 1.6 89661-2B210, 896612B210, 4A-FE",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-CELICA-1.6-89661-2B210%2C-896612B210%2C-4A-FE-/44446",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "AD98-32012",
+    "sku": "AD98-32012",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA CELICA 1.6 89661-2B210, 896612B210, 4A-FE </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA CELICA",
+      "ENGINE": "1.6",
+      "YEAR": "1992",
+      "NUMBER MANUFACTURER": "89661-2B210",
+      "NUMBER PARTS": "4A-FE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:19:51.731Z",
+    "model": "mistral:7b",
+    "durationMs": 14792,
+    "priceIncrement": 100
+  }
+}

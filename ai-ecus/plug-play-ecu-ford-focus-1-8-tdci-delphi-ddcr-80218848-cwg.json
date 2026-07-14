@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Focus 1.8 TDCI OEM Part 1S4A9F954SP, Delphi DDCR 80218848 CWG",
+  "slug": "plug-play-ecu-ford-focus-1-8-tdci-delphi-ddcr-80218848-cwg",
+  "metaDescription": "OEM Tested ECU Engine Controller for Ford Focus 1.8 TDCI, Plug & Play, 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Focus 1.8 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus 1.8 TDCI",
+    "Delphi DDCR",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Ford Focus 1.8 TDCI is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Thoroughly Inspected and Tested by a Certified Technician</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FORD FOCUS</td><td>1.8 TDCI</td><td>1S4A9F954SP</td><td>80218848 CWG</td><td>Plug & Play / Locked / Ready for programming</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.8 TDCI 1S4A9F954SP, DDCR 80927N 80218848 CWG",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.8-TDCI-1S4A9F954SP%2C-DDCR-80927N-80218848-CWG/119081",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "EE94-81064",
+    "sku": "EE94-81064",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.8 TDCI 1S4A9F954SP, DDCR 80927N 80218848 CWG</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.8 TDCI",
+      "NUMBER MANUFACTURER": "1S4A9F954SP",
+      "NUMBER PARTS": "80218848 CWG",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:55:28.346Z",
+    "model": "mistral:7b",
+    "durationMs": 8421,
+    "priceIncrement": 100
+  }
+}

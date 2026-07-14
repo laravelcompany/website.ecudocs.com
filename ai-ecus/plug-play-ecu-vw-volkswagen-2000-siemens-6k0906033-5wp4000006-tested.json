@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - VW Volkswagen 2000 Engine, Siemens 6K0 906 033, 5WP40000 06 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-vw-volkswagen-2000-siemens-6k0906033-5wp4000006-tested",
+  "metaDescription": "OEM tested ECU replacement for VW Volkswagen 2000 engine, featuring Plug & Play functionality and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for VW Volkswagen 2000 Engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "VW Volkswagen",
+    "Siemens",
+    "5WP40000 06"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for VW Volkswagen 2000 engine is a reliable solution, ensuring optimal performance and longevity.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>VW VOLKSWAGEN</td></tr>\n        <tr><th>YEAR</th><td>2000</td></tr>\n        <tr><th>NUMBER PARTS</th><td>5WP40000 06</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VW VOLKSWAGEN 6K0 906 033, 6K0906033, 5WP40000 06, 5WP4000006",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VW-VOLKSWAGEN-6K0-906-033%2C-6K0906033%2C-5WP40000-06%2C-5WP4000006-/54629",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "F1D9-44195_20140425175942",
+    "sku": "F1D9-44195_20140425175942",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  VW VOLKSWAGEN 6K0 906 033, 6K0906033, 5WP40000 06, 5WP4000006 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_926bec8e3dfaf9085040b764afd3db9a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d32b0124ba4757065ba50cf5e179c1ad_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VW VOLKSWAGEN",
+      "YEAR": "2000",
+      "NUMBER PARTS": "5WP4000006",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:25:48.767Z",
+    "model": "mistral:7b",
+    "durationMs": 9960,
+    "priceIncrement": 100
+  }
+}

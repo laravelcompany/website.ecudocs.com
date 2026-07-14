@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A6 2.5 TDI Bosch 0 281 010 095, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-a6-2-5-tdi-bosch-0-281-010-095-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Audi A6 2.5 TDI, Plug & Play replacement with 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A6 2.5 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "2.5 TDI",
+    "Bosch",
+    "0 281 010 095"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Audi A6 2.5 TDI is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed performance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Locked/unlocked option available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A6</td></tr>\n        <tr><th>ENGINE</th><td>2.5 TDI</td></tr>\n        <tr><th>YEAR</th><td>2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 095</td></tr>\n        <tr><th>NUMBER PARTS</th><td>4B1 907 401 A</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment may vary. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 2.5 TDI BOSCH 0 281 010 095, 0281010095, 4B1 907 401 A, 4B1907401A",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-2.5-TDI-BOSCH-0-281-010-095%2C-0281010095%2C-4B1-907-401-A%2C-4B1907401A/25485",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F9E0-91896_20120606220644",
+    "sku": "F9E0-91896_20120606220644",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 2.5 TDI BOSCH 0 281 010 095, 0281010095, 4B1 907 401 A, 4B1907401A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "2.5 TDI",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 095",
+      "NUMBER PARTS": "4B1 907 401 A",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:33:31.793Z",
+    "model": "mistral:7b",
+    "durationMs": 9392,
+    "priceIncrement": 100
+  }
+}

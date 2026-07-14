@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Toyota Carina 2.0 3S-FE - Denso MB175700-5961, MB1757005961",
+  "slug": "plug-play-ecu-toyota-carina-20-3s-fe-denso-mb175700-5961-mb1757005961",
+  "metaDescription": "Buy the tested and warrantied ECU Engine Controller for Toyota Carina 2.0 3S-FE by Denso. Fast dispatch, 12-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Toyota Carina 2.0 3S-FE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Carina",
+    "Denso",
+    "3S-FE"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for Toyota Carina 2.0 3S-FE is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Part</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Tested and Certified</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>TOYOTA CARINA</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>YEAR</th><td>1995</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MB175700-5961, MB1757005961</td></tr>\n        <tr><th>NUMBER PARTS</th><td>3S-FE</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Toyota Carina 2.0 3S-FE. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA CARINA 2.0 3S-FE 89661-05040 8966105040 MB175700-5961 MB1757005961",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-CARINA-2.0-3S-FE-89661-05040-8966105040-MB175700-5961-MB1757005961-/16993",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "C4A9-312D9",
+    "sku": "C4A9-312D9",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA CARINA 2.0 3S-FE 89661-05040 8966105040 MB175700-5961 MB1757005961 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA CARINA",
+      "ENGINE": "2.0",
+      "YEAR": "1995",
+      "NUMBER MANUFACTURER": "MB175700-5961, MB1757005961",
+      "NUMBER PARTS": "3S-FE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:19:14.419Z",
+    "model": "mistral:7b",
+    "durationMs": 9518,
+    "priceIncrement": 100
+  }
+}

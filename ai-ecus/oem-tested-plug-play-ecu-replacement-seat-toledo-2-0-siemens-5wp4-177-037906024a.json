@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - SEAT Toledo 2.0 Siemens 5WP4 177 037906024AQ",
+  "slug": "oem-tested-plug-play-ecu-replacement-seat-toledo-2-0-siemens-5wp4-177-037906024a",
+  "metaDescription": "OEM Tested Plug & Play ECU Replacement for SEAT Toledo 2.0 Siemens 5WP4 177 037906024AQ, offering a 6-month warranty and fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for SEAT Toledo 2.0 Siemens 5WP4 177 037906024AQ",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT Toledo",
+    "Siemens 5WP4",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement for SEAT Toledo 2.0 Siemens 5WP4 177 037906024AQ is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with SEAT Toledo 2.0</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SEAT TOLEDO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1995</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WP4 177</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>037 906 024 AQ</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SEAT Toledo 2.0. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT TOLEDO 2.0 037906024AQ, 037 906 024 AQ, SIEMENS 5WP4 177 5WP4177",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-TOLEDO-2.0-037906024AQ%2C-037-906-024-AQ%2C-SIEMENS-5WP4-177-5WP4177-/17040",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "F8C0-3930C",
+    "sku": "F8C0-3930C",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT TOLEDO 2.0 037906024AQ, 037 906 024 AQ, SIEMENS 5WP4 177 5WP4177 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT TOLEDO",
+      "ENGINE": "2.0",
+      "YEAR": "1995",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP4 177",
+      "NUMBER PARTS": "037 906 024 AQ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:14:17.955Z",
+    "model": "mistral:7b",
+    "durationMs": 11927,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Opel Vectra B X20DTL Bosch 0 281 001 638, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-opel-vectra-b-x20dtl-bosch-0281001638-tested",
+  "metaDescription": "Expertly tested ECU Engine Controller for Opel Vectra B X20DTL, Plug & Play, OEM quality, and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Vectra B X20DTL",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra B",
+    "X20DTL",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller for Opel Vectra B X20DTL is a reliable solution, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Quality</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL VECTRA B</td></tr>\n        <tr><th>ENGINE</th><td>X20DTL</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 638</td></tr>\n        <tr><th>NUMBER PARTS</th><td>90 512 790 KA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA B X20DTL BOSCH 0 281 001 638, 0281001638, 90 512 790 KA, 90512790",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-B-X20DTL-BOSCH-0-281-001-638%2C-0281001638%2C-90-512-790-KA%2C-90512790/65553",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8286-65490_20140910104947",
+    "sku": "8286-65490_20140910104947",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA B X20DTL BOSCH 0 281 001 638, 0281001638, 90 512 790 KA, 90512790</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VECTRA B",
+      "ENGINE": "X20DTL",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 638",
+      "NUMBER PARTS": "90 512 790 KA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:24:08.331Z",
+    "model": "mistral:7b",
+    "durationMs": 9240,
+    "priceIncrement": 100
+  }
+}

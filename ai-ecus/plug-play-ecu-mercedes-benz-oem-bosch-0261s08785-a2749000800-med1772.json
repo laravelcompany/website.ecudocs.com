@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes Benz OEM Bosch 0 261 S08 785, A2749000800, MED17.7.2",
+  "slug": "plug-play-ecu-mercedes-benz-oem-bosch-0261s08785-a2749000800-med1772",
+  "metaDescription": "OEM Tested ECU Replacement for Mercedes Benz with Bosch 0 261 S08 785, A2749000800, MED17.7.2. Plug & Play, 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes Benz",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Benz",
+    "Bosch 0 261 S08 785",
+    "A2749000800",
+    "MED17.7.2"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Mercedes Benz is a reliable solution for your engine control unit issues, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used original in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES BENZ</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 S08 785</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>A2749000800, MED17.7.2</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES BENZ BOSCH 0 261 S08 785, 0261S08785, A2749000800, MED17.7.2",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-BENZ-BOSCH-0-261-S08-785%2C-0261S08785%2C-A2749000800%2C-MED17.7.2/128536",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A713-72267_20220202100406",
+    "sku": "A713-72267_20220202100406",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES BENZ BOSCH 0 261 S08 785, 0261S08785, A2749000800, MED17.7.2</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES BENZ",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S08 785",
+      "NUMBER PARTS": "A2749000800, MED17.7.2",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:26:59.825Z",
+    "model": "mistral:7b",
+    "durationMs": 11184,
+    "priceIncrement": 100
+  }
+}

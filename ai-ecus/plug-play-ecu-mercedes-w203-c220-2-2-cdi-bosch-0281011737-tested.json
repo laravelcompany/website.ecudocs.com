@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Mercedes W203 C220 2.2 CDI - Bosch 0281011737, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w203-c220-2-2-cdi-bosch-0281011737-tested",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Mercedes W203 C220 2.2 CDI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Mercedes W203 C220 2.2 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W203 C220",
+    "Bosch 0281011737"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Mercedes W203 C220 2.2 CDI is a reliable solution to common engine control issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES W203 C220</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.2 CDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2004</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 011 737</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>6461500679</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 12-month.</section>\n<section class=\"compatibility\">This ECU is a direct fit for Mercedes W203 C220 2.2 CDI. Always consult with a professional technician before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W203 220 2.2 CDI A6461500679, 6461500679, A 646 150 06 79 BOSCH 0281011737, 0 281 011 737",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W203-220-2.2-CDI-A6461500679%2C-6461500679%2C-A-646-150-06-79-BOSCH-0281011737%2C-0-281-011-737/27085",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5584-6600F_20120730133703",
+    "sku": "5584-6600F_20120730133703",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W203 220 2.2 CDI A6461500679, 6461500679, A 646 150 06 79 BOSCH 0281011737, 0 281 011 737</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_39c9a1baf4f6df915f7a37d2f0b06d91_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_502d001458a6cb653363819dfd9f35d7_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W203 C220",
+      "ENGINE": "2.2 CDI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 737",
+      "NUMBER PARTS": "6461500679",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:20:32.125Z",
+    "model": "mistral:7b",
+    "durationMs": 11960,
+    "priceIncrement": 100
+  }
+}

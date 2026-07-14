@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Mondeo MK3 2.0 TDCI Delphi 2S7Q-9F954-FA, DDCR 80981A - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-mondeo-mk3-20-tdci-delphi-2s7q-9f954-fa-ddcr-80981a-warranty",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Ford Mondeo MK3 2.0 TDCI with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "OEM tested, Plug & Play ECU replacement for Ford Mondeo MK3 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo MK3",
+    "2.0 TDCI",
+    "Delphi",
+    "DDCR 80981A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is suitable for Ford Mondeo MK3 2.0 TDCI engines.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO MK3</td></tr>\n        <tr><th>ENGINE</th><td>2.0 TDCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DDCR 80981A</td></tr>\n        <tr><th>NUMBER PARTS</th><td>2S7Q-9F954-FA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific issues. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO MK3 2.0 TDCI 2S7Q-9F954-FA, 2S7Q9F954FA, DDCR 80981A",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-MK3-2.0-TDCI-2S7Q-9F954-FA%2C-2S7Q9F954FA%2C-DDCR-80981A/70764",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "ECB8-704C8_20141218225417",
+    "sku": "ECB8-704C8_20141218225417",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO MK3 2.0 TDCI 2S7Q-9F954-FA, 2S7Q9F954FA, DDCR 80981A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_da1da172b1e5e940ca26c46e884ded9d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_29ac500a8e17391f75b52dfb39f6af0c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO MK3",
+      "ENGINE": "2.0 TDCI",
+      "NUMBER MANUFACTURER": "DDCR 80981A",
+      "NUMBER PARTS": "2S7Q-9F954-FA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:49:39.165Z",
+    "model": "mistral:7b",
+    "durationMs": 9669,
+    "priceIncrement": 100
+  }
+}

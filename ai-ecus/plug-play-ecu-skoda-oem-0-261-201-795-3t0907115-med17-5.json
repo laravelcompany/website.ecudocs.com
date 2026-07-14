@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - SKODA OEM Engine Controller 0 261 201 795, 3T0907115, MED17.5 (Oryginal in Good Condition)",
+  "slug": "plug-play-ecu-skoda-oem-0-261-201-795-3t0907115-med17-5",
+  "metaDescription": "Buy OEM tested ECU Engine Controller SKODA BOSCH 0 261 201 795, 3T0907115, MED17.5. Plug & Play, 6-month warranty, and fast dispatch within EU.",
+  "price": "€550.00",
+  "excerpt": "OEM tested ECU Engine Controller for SKODA",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA BOSCH",
+    "0 261 201 795",
+    "3T0907115",
+    "MED17.5"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and thoroughly inspected ECU Engine Controller SKODA BOSCH 0 261 201 795, 3T0907115, MED17.5 is a reliable replacement for your vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested and Inspected</li>\n        <li>6-month Warranty</li>\n        <li>Original in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SKODA</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>OSCH 0 261 201 795</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>3T0907115, MED17.5</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility and fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA BOSCH 0 261 201 795, 0261201795, 3T0907115, MED17.5",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-BOSCH-0-261-201-795%2C-0261201795%2C-3T0907115%2C-MED17.5/130419",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C758-484E9_20220520142534",
+    "sku": "C758-484E9_20220520142534",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA BOSCH 0 261 201 795, 0261201795, 3T0907115, MED17.5</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_269748_0_0/SKODA-BOSCH-0-261-201-795%2C-0261201795%2C-3T0907115%2C-MED17.5.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_269749_0_0/SKODA-BOSCH-0-261-201-795%2C-0261201795%2C-3T0907115%2C-MED17.5.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA",
+      "NUMBER MANUFACTURER": "OSCH 0 261 201 795",
+      "NUMBER PARTS": "3T0907115, MED17.5",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:19:10.886Z",
+    "model": "mistral:7b",
+    "durationMs": 13166,
+    "priceIncrement": 100
+  }
+}

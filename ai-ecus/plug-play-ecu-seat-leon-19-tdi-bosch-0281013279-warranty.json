@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Seat Leon 1.9 TDI Bosch 0 281 013 279 - 6-month Warranty",
+  "slug": "plug-play-ecu-seat-leon-19-tdi-bosch-0281013279-warranty",
+  "metaDescription": "OEM Tested Plug & Play ECU Engine Controller for Seat Leon 1.9 TDI BOSCH 0 281 013 279, offering a 6-month warranty and fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Seat Leon 1.9 TDI BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Leon 1.9 TDI",
+    "Bosch 0 281 013 279"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Seat Leon 1.9 TDI BOSCH 0 281 013 279 is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SEAT LEON</td></tr>\n        <tr><th>ENGINE:</th><td>1.9 TDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 013 279</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>03G 906 021 LK</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION: </th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT LEON 1.9 TDI BOSCH 0 281 013 279, 0281013279, 03G 906 021 LK, 03G906021LK, EDC16U34",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-LEON-1.9-TDI-BOSCH-0-281-013-279%2C-0281013279%2C-03G-906-021-LK%2C-03G906021LK%2C-EDC16U34-/99455",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "ABD2-4957D_20161125092404",
+    "sku": "ABD2-4957D_20161125092404",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT LEON 1.9 TDI BOSCH 0 281 013 279, 0281013279, 03G 906 021 LK, 03G906021LK, EDC16U34 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT LEON",
+      "ENGINE": "1.9 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 279",
+      "NUMBER PARTS": "03G 906 021 LK",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:08:02.620Z",
+    "model": "mistral:7b",
+    "durationMs": 11006,
+    "priceIncrement": 100
+  }
+}

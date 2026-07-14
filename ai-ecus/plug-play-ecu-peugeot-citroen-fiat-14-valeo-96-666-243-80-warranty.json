@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot Citroen Fiat 1.4 - Valeo 96 666 243 80, Warranty Included",
+  "slug": "plug-play-ecu-peugeot-citroen-fiat-14-valeo-96-666-243-80-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Peugeot Citroen Fiat 1.4 by Valeo. Ships within 24–48 hours, backed by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Peugeot Citroen Fiat 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Valeo",
+    "Peugeot Citroen Fiat",
+    "1.4 Engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Peugeot Citroen Fiat 1.4 by Valeo is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT CITROEN FIAT</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>Valeo</td></tr>\n        <tr><th>NUMBER PARTS</th><td>96 666 243 80</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>COMPLETE</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot Citroen Fiat 1.4. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT CITROEN FIAT 1.4 Valeo 96 666 243 80, 9666624380, V34P 9048 512908, 9048512908",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-CITROEN-FIAT-1.4-Valeo-96-666-243-80%2C-9666624380%2C-V34P-9048-512908%2C-9048512908-/98105",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Valeo",
+    "productCode": "9185-95825_20161007123658",
+    "sku": "9185-95825_20161007123658",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT CITROEN FIAT 1.4 Valeo 96 666 243 80, 9666624380, V34P 9048 512908, 9048512908 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_269449_0_0/PEUGEOT-CITROEN-FIAT-1.4-Valeo-96-666-243-80%2C-9666624380%2C-V34P-9048-512908%2C-9048512908.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1ada9ae1e327600a2c59e79c703f4c9c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT CITROEN FIAT",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "Valeo",
+      "NUMBER PARTS": "96 666 243 80",
+      "OPTION AVAILABLE": "COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:31:20.984Z",
+    "model": "mistral:7b",
+    "durationMs": 9988,
+    "priceIncrement": 100
+  }
+}

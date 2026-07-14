@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes SLK 230 2.1 OEM Bosch 0 261 204 112, A0205450932",
+  "slug": "plug-play-ecu-mercedes-slk-230-21-bosch-oem-replacement",
+  "metaDescription": "OEM Tested ECU Engine Controller for Mercedes SLK 230 2.1, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€485.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes SLK 230 2.1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes SLK 230",
+    "Bosch OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement is a tested and certified solution for your Mercedes SLK 230 2.1, ensuring seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Compatible with Mercedes SLK 230 2.1</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES SLK 230</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.1</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1996</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 204 112</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>A0205450932</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Mercedes SLK 230 2.1 and may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES SLK 230 2.1, BOSCH 0 261 204 112, BOSCH 0261204112, A 020 545 09 32, A0205450932",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-SLK-230-2.1%2C-BOSCH-0-261-204-112%2C-BOSCH-0261204112%2C-A-020-545-09-32%2C-A0205450932/37684",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0B54-482DD_20130716165420",
+    "sku": "0B54-482DD_20130716165420",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES SLK 230 2.1, BOSCH 0 261 204 112, BOSCH 0261204112, A 020 545 09 32, A0205450932</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES SLK 230",
+      "ENGINE": "2.1",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 112",
+      "NUMBER PARTS": "A0205450932",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:48:13.479Z",
+    "model": "mistral:7b",
+    "durationMs": 11185,
+    "priceIncrement": 100
+  }
+}

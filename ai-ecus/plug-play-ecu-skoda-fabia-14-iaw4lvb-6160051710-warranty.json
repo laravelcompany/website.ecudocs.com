@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for SKODA FABIA 1.4 - IAW4LVB, 61600.517.10, Warranty Included",
+  "slug": "plug-play-ecu-skoda-fabia-14-iaw4lvb-6160051710-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for SKODA FABIA 1.4 (IAW4LVB, 61600.517.10) with 6-month warranty. Fast dispatch in EU.",
+  "price": "€135.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for SKODA FABIA 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA FABIA",
+    "Magneti Marelli",
+    "61600.517.10"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for SKODA FABIA 1.4 (IAW4LVB, 61600.517.10) is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM tested and certified</li>\n<li>Plug & Play for easy installation</li>\n<li>6-month warranty</li>\n<li>Compatible with SKODA FABIA 1.4</li>\n<li>Magneti Marelli branded part</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>SKODA FABIA</td></tr>\n<tr><td>ENGINE</td><td>1.4</td></tr>\n<tr><td>YEAR</td><td>2001</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>IAW4LV.B</td></tr>\n<tr><td>NUMBER PARTS</td><td>61600.517.10</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure correct fitment before installation. Consult a professional technician if needed.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FABIA 1.4 036906034AE, 036 906 034 AE, 61600.517.10, 6160051710, IAW4LVB IAW4LV.B",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FABIA-1.4-036906034AE%2C-036-906-034-AE%2C-61600.517.10%2C-6160051710%2C-IAW4LVB-IAW4LV.B-/14426",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "79CD-74935",
+    "sku": "79CD-74935",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FABIA 1.4 036906034AE, 036 906 034 AE, 61600.517.10, 6160051710, IAW4LVB IAW4LV.B </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FABIA",
+      "ENGINE": "1.4",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "IAW4LV.B",
+      "NUMBER PARTS": "61600.517.10",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:21:33.485Z",
+    "model": "mistral:7b",
+    "durationMs": 11752,
+    "priceIncrement": 100
+  }
+}

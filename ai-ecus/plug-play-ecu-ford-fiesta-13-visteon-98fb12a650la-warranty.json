@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.3 - Visteon 98FB-12A650-LA, 6-month Warranty",
+  "slug": "plug-play-ecu-ford-fiesta-13-visteon-98fb12a650la-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford Fiesta 1.3 by Visteon, guaranteed to fit and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Visteon",
+    "98FB-12A650-LA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Ford Fiesta 1.3 by Visteon ensures seamless engine control and is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Fast Dispatch, EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FIESTA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1999</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>VILE</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.3 98FB-12A650-LA, 98FB12A650LA, VILE",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.3-98FB-12A650-LA%2C-98FB12A650LA%2C-VILE/53397",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "1E27-661DE_20140402155551",
+    "sku": "1E27-661DE_20140402155551",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.3 98FB-12A650-LA, 98FB12A650LA, VILE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.3",
+      "YEAR": "1999",
+      "NUMBER PARTS": "VILE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:20:22.814Z",
+    "model": "mistral:7b",
+    "durationMs": 12101,
+    "priceIncrement": 100
+  }
+}

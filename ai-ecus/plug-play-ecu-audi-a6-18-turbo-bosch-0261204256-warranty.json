@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A6 1.8 Turbo Bosch 0 261 204 256 - 6-month Warranty",
+  "slug": "plug-play-ecu-audi-a6-18-turbo-bosch-0261204256-warranty",
+  "metaDescription": "Expertly tested and OEM Plug & Play ECU Engine Controller for Audi A6 1.8 Turbo Bosch 0 261 204 256, backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A6 1.8 Turbo Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "Bosch 0 261 204 256"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Audi A6 1.8 Turbo Bosch 0 261 204 256 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Locked / Unlocked Option Available</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>PARTS</td>\n<td>ECU ENGINE CONTROLLER</td>\n</tr>\n<tr>\n<td>BRAND AND MODEL</td>\n<td>AUDI A6</td>\n</tr>\n<tr>\n<td>ENGINE</td>\n<td>1.8 TURBO</td>\n</tr>\n<tr>\n<td>YEAR</td>\n<td>1997</td>\n</tr>\n<tr>\n<td>NUMBER MANUFACTURER</td>\n<td>BOSCH 0 261 204 256</td>\n</tr>\n<tr>\n<td>NUMBER PARTS</td>\n<td>4B0 907 557 A</td>\n</tr>\n<tr>\n<td>OPTION AVAILABLE</td>\n<td>LOCKED / UNLOCKED</td>\n</tr>\n<tr>\n<td>WARRANTY :</td>\n<td>6-month warranty</td>\n</tr>\n<tr>\n<td>INSPECTION:</td>\n<td>Device thoroughly inspected and tested by a certified technician</td>\n</tr>\n<tr>\n<td>CONDITION</td>\n<td>USED IN GOOD CONDITION</td>\n</tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Audi A6 1.8 Turbo Bosch 0 261 204 256. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 1.8 TURBO BOSCH 0 261 204 256, 0261204256, 4B0 907 557 A, 4B0907557A",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-1.8-TURBO-BOSCH-0-261-204-256%2C-0261204256%2C-4B0-907-557-A%2C-4B0907557A/26323",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E3E7-36605_20120625190938",
+    "sku": "E3E7-36605_20120625190938",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 1.8 TURBO BOSCH 0 261 204 256, 0261204256, 4B0 907 557 A, 4B0907557A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "1.8 TURBO",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 256",
+      "NUMBER PARTS": "4B0 907 557 A",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:27:13.143Z",
+    "model": "mistral:7b",
+    "durationMs": 12900,
+    "priceIncrement": 100
+  }
+}

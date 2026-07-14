@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W203 C-Klasse C 200 2.2 CDI OEM Bosch 0281011001",
+  "slug": "plug-play-ecu-replacement-mercedes-w203-c-klasse-c-200-22-cdi-oem-bosch-02810110",
+  "metaDescription": "Buy the tested Plug & Play ECU Replacement for Mercedes W203 C-Klasse C 200 2.2 CDI OEM Bosch 0281011001, backed by a 6-month warranty and fast EU dispatch.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W203 C-Klasse C 200 2.2 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W203 C-Klasse",
+    "Bosch 0281011001"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Replacement for Mercedes W203 C-Klasse C 200 2.2 CDI ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play</li>\n      <li>OEM Tested</li>\n      <li>6-month Warranty</li>\n      <li>Fast EU Dispatch</li>\n      <li>Used in Good Condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><td>BRAND AND MODEL</td><td>MERCEDES W203 C-KLASA C 200</td></tr>\n        <tr><td>ENGINE</td><td>2.2 CDI</td></tr>\n        <tr><td>YEAR</td><td>2002</td></tr>\n        <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 011 001</td></tr>\n        <tr><td>NUMBER PARTS</td><td>6111537779</td></tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery and a 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with the specified Mercedes W203 C-Klasse C 200 2.2 CDI model only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W203 C-KLASA C 200 2.2 CDI A6111537779, A 611 153 77 79, 6111537779, BOSCH 0281011001, 0 281 011 001",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W203-C-KLASA-C-200-2.2-CDI-A6111537779%2C-A-611-153-77-79%2C-6111537779%2C-BOSCH-0281011001%2C-0-281-011-001-/12868",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0B61-782A4",
+    "sku": "0B61-782A4",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W203 C-KLASA C 200 2.2 CDI A6111537779, A 611 153 77 79, 6111537779, BOSCH 0281011001, 0 281 011 001 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W203 C-KLASA C 200",
+      "ENGINE": "2.2 CDI",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 001",
+      "NUMBER PARTS": "6111537779",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:21:20.914Z",
+    "model": "mistral:7b",
+    "durationMs": 11544,
+    "priceIncrement": 100
+  }
+}

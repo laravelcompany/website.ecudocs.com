@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Mini Cooper 1.6 TDCI BOSCH 0 281 015 233 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-mini-cooper-1-6-tdci-bosch-0281015233-tested",
+  "metaDescription": "Expertly tested and OEM ECU replacement for Mini Cooper 1.6 TDCI BOSCH 0 281 015 233, backed by a 6-month warranty.",
+  "price": "€345.00",
+  "excerpt": "Expertly tested ECU replacement for Mini Cooper 1.6 TDCI BOSCH 0 281 015 233",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mini Cooper 1.6 TDCI",
+    "BOSCH 0 281 015 233"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Mini Cooper 1.6 TDCI BOSCH 0 281 015 233 has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MINI COOPER</td></tr>\n        <tr><th>ENGINE:</th><td>1.6 TDCI</td></tr>\n        <tr><th>YEAR:</th><td>2010</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 015 233</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>DDE 7 823 934</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Professional installation is recommended for optimal results.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MINI COOPER 1.6 TDCI BOSCH 0 281 015 233, 0281015233, DDE 7 823 934, 7823934",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MINI-COOPER-1.6-TDCI-BOSCH-0-281-015-233%2C-0281015233%2C-DDE-7-823-934%2C-7823934-/86104",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F26B-5071B_20160212140318",
+    "sku": "F26B-5071B_20160212140318",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MINI COOPER 1.6 TDCI BOSCH 0 281 015 233, 0281015233, DDE 7 823 934, 7823934 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MINI COOPER",
+      "ENGINE": "1.6 TDCI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 233",
+      "NUMBER PARTS": "DDE 7 823 934",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:44:29.714Z",
+    "model": "mistral:7b",
+    "durationMs": 10364,
+    "priceIncrement": 100
+  }
+}

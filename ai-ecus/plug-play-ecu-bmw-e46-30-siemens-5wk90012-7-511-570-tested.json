@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E46 3.0 SIEMENS 5WK90012, 7 511 570, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-e46-30-siemens-5wk90012-7-511-570-tested",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for BMW E46 3.0, SIEMENS 5WK90012, 7 511 570. OEM tested and covered by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E46 3.0, SIEMENS 5WK90012, 7 511 570",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E46",
+    "SIEMENS 5WK90012",
+    "7 511 570"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for BMW E46 3.0, SIEMENS 5WK90012, 7 511 570 is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>BMW E46</td></tr>\n            <tr><td>ENGINE</td><td>3.0</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>SIEMENS 5WK90012</td></tr>\n            <tr><td>NUMBER PARTS</td><td>7 511 570</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E46 3.0, SIEMENS 5WK90012, 7 511 570, 7511570",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E46-3.0%2C-SIEMENS-5WK90012%2C-7-511-570%2C-7511570-/42394",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "4E32-5415A",
+    "sku": "4E32-5415A",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E46 3.0, SIEMENS 5WK90012, 7 511 570, 7511570 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E46",
+      "ENGINE": "3.0",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK90012",
+      "NUMBER PARTS": "7 511 570",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:30:32.666Z",
+    "model": "mistral:7b",
+    "durationMs": 10953,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested ECU Replacement Audi A4 A6 VW Passat 1.8T Bosch 0261204185 Plug & Play - Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-a6-vw-passat-1-8t-bosch-0261204185-tested",
+  "metaDescription": "Buy OEM Tested ECU Replacement for Audi A4 A6 VW Passat 1.8T Bosch 0261204185 with Plug & Play feature and 6-month warranty. Fast dispatch within EU.",
+  "price": "€135.00",
+  "excerpt": "OEM Tested ECU Replacement for Audi A4 A6 VW Passat 1.8T Bosch 0261204185",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0261204185",
+    "Audi A4 A6",
+    "VW Passat 1.8T"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested ECU Replacement for Audi A4 A6 VW Passat 1.8T Bosch 0261204185 ensures seamless engine control and is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A4 A6 VW PASSAT</td></tr>\n        <tr><th>ENGINE</th><td>1.8T</td></tr>\n        <tr><th>YEAR</th><td>1997</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 204 184/185</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8D0 907 557 T</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A4 A6 VW Passat 1.8T, but always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 A6 VW PASSAT 1.8T 8D0907557T, 8D0 907 557 T, BOSCH 0261204185, 0 261 204 185, 0261204184, 0 261 204 184",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-A6-VW-PASSAT-1.8T-8D0907557T%2C-8D0-907-557-T%2C-BOSCH-0261204185%2C-0-261-204-185%2C-0261204184%2C-0-261-204-184-/13328",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "078C-505EA",
+    "sku": "078C-505EA",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 A6 VW PASSAT 1.8T 8D0907557T, 8D0 907 557 T, BOSCH 0261204185, 0 261 204 185, 0261204184, 0 261 204 184 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_98e3ff6e64c117cb966d0b5d643e3efd_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_159279c5624f8ba1c1c07ea5f215c8f7_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_92ca2c0c2a718a257c7a143d559b2da3_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4 A6 VW PASSAT",
+      "ENGINE": "1.8T",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 184/185",
+      "NUMBER PARTS": "8D0 907 557 T",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:20:05.802Z",
+    "model": "mistral:7b",
+    "durationMs": 10774,
+    "priceIncrement": 100
+  }
+}

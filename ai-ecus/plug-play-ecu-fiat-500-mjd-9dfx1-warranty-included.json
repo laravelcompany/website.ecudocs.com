@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Fiat 500 MJD 9DF.X1, Warranty Included",
+  "slug": "plug-play-ecu-fiat-500-mjd-9dfx1-warranty-included",
+  "metaDescription": "Buy the tested and reliable ECU ENGINE CONTROLLER FIAT 500 MJD 9DF.X1, 55281054. Enjoy fast shipping within EU and a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat 500",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat 500",
+    "MJD 9DF.X1",
+    "55281054"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER for Fiat 500 is in good condition and ready for plug & play installation.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used but in Good Condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>FIAT 500</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>MJD 9DF.X1</td></tr>\n    <tr><th>NUMBER PARTS</th><td>55281054</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult with a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 500 MJD 9DF.X1, MJD9DFX1, 55281054",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-500-MJD-9DF.X1%2C-MJD9DFX1%2C-55281054/111814",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "6A30-86252_20190107143407",
+    "sku": "6A30-86252_20190107143407",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 500 MJD 9DF.X1, MJD9DFX1, 55281054</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_224479_0_0/ECU-ENGINE-CONTROLLER-FIAT-500-MJD-9DF.X1%2C-MJD9DFX1%2C-55281054.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_224480_0_0/ECU-ENGINE-CONTROLLER-FIAT-500-MJD-9DF.X1%2C-MJD9DFX1%2C-55281054.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT 500",
+      "NUMBER MANUFACTURER": "MJD 9DF.X1",
+      "NUMBER PARTS": "55281054",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:16:12.182Z",
+    "model": "mistral:7b",
+    "durationMs": 9493,
+    "priceIncrement": 100
+  }
+}

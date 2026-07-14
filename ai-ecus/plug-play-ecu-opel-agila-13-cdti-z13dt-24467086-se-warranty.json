@@ -1,0 +1,57 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Opel Agila 1.3 CDTI Z13DT - 24467086 SE, Warranty Included",
+  "slug": "plug-play-ecu-opel-agila-13-cdti-z13dt-24467086-se-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Opel Agila 1.3 CDTI Z13DT - 24467086 SE, backed by a 6-month warranty and fast dispatch in EU.",
+  "price": "€40.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Opel Agila 1.3 CDTI Z13DT - 24467086 SE",
+  "tags": [
+    "ECU replacement",
+    "Opel Agila",
+    "1.3 CDTI Z13DT",
+    "Magneti Marelli",
+    "used ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Opel Agila 1.3 CDTI Z13DT - 24467086 SE is a reliable replacement part, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Tested</li>\n      <li>Plug & Play</li>\n      <li>Warranty Included</li>\n      <li>Fast Dispatch in EU</li>\n      <li>Reliable Replacement Part</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL:</th><td>OPEL CHEVROLET HOLDEN VAUXHALL AGILA</td></tr>\n      <tr><th>ENGINE:</th><td>1.3 CDTI Z13DT</td></tr>\n      <tr><th>YEAR:</th><td>2004-2007</td></tr>\n      <tr><th>NUMBER MANUFACTURER:</th><td>MJD 6JO.C5</td></tr>\n      <tr><th>NUMBER PARTS:</th><td>24467086 SE</td></tr>\n      <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL AGILA 1.3 CDTI Z13DT 24467086 SE, MJD 6JO.C5, MJD6JOC5",
+    "price": "€30.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-AGILA-1.3-CDTI-Z13DT-24467086-SE%2C-MJD-6JO.C5%2C-MJD6JOC5/28271",
+    "priceCurrency": "EUR",
+    "netPrice": "€24.39",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "D985-97982_20120824085202",
+    "sku": "D985-97982_20120824085202",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL AGILA 1.3 CDTI Z13DT 24467086 SE, MJD 6JO.C5, MJD6JOC5</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c37b86bb20c1f3fd8899542cf6956efc_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7cccf11bbc6c2311895542a25f5dc540_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_67b252e7f97be2503fb4048a789d1667_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_037c6f0ab0a3ea890613664366094c5b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_88423eff1d9c07a430db346a3d102438_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL AGILA",
+      "ENGINE": "1.3 CDTI Z13DT",
+      "YEAR": "2004-2007",
+      "NUMBER MANUFACTURER": "MJD 6JO.C5",
+      "NUMBER PARTS": "24467086 SE",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:56:04.894Z",
+    "model": "mistral:7b",
+    "durationMs": 11833,
+    "priceIncrement": 100
+  }
+}

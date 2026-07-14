@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Jeep Grand Cherokee P56041353AG, 6-month Warranty",
+  "slug": "plug-play-ecu-jeep-grand-cherokee-p56041353ag-warranty",
+  "metaDescription": "Get a certified Plug & Play ECU Engine Controller for your Jeep Grand Cherokee P56041353AG, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Jeep Grand Cherokee",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Jeep Grand Cherokee",
+    "P56041353AG"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for your Jeep Grand Cherokee ensures seamless engine control and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>JEEP GRAND CHEROKEE</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>P56041353AG</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Professional installation recommended.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JEEP GRAND CHEROKEE P56041353AG",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JEEP-GRAND-CHEROKEE-P56041353AG/111588",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "D140-880C3_20181221140209",
+    "sku": "D140-880C3_20181221140209",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JEEP GRAND CHEROKEE P56041353AG</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_224017_0_0/ECU-ENGINE-CONTROLLER-JEEP-GRAND-CHEROKEE-P56041353AG.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_224018_0_0/ECU-ENGINE-CONTROLLER-JEEP-GRAND-CHEROKEE-P56041353AG.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JEEP GRAND CHEROKEE",
+      "NUMBER MANUFACTURER": "P56041353AG",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:10:06.249Z",
+    "model": "mistral:7b",
+    "durationMs": 9431,
+    "priceIncrement": 100
+  }
+}

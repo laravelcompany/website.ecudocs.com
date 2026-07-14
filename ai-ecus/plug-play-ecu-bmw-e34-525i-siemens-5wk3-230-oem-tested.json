@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E34 525i Siemens 5WK3 230, 5WK3230, OEM Tested",
+  "slug": "plug-play-ecu-bmw-e34-525i-siemens-5wk3-230-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for BMW E34 525i Siemens 5WK3 230, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "OEM tested ECU Engine Controller for BMW E34 525i Siemens 5WK3 230",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E34 525i",
+    "Siemens 5WK3 230"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for BMW E34 525i Siemens 5WK3 230 ensures seamless engine operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>BMW E34 525i</td></tr>\n        <tr><th>YEAR:</th><td>1988-1996</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SIEMENS 5WK3 230</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>ESD</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E34 525i SIEMENS 5WK3 230, 5WK3230, 33.19-1 139 133, 33191139133, ESD",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E34-525i-SIEMENS-5WK3-230%2C-5WK3230%2C-33.19-1-139-133%2C-33191139133%2C-ESD-/35701",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "8DC1-9825E_20130528090137",
+    "sku": "8DC1-9825E_20130528090137",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E34 525i SIEMENS 5WK3 230, 5WK3230, 33.19-1 139 133, 33191139133, ESD </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E34 525i",
+      "YEAR": "1988-1996",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK3 230",
+      "NUMBER PARTS": "ESD",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:25:16.215Z",
+    "model": "mistral:7b",
+    "durationMs": 9892,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - JAGUAR X-TYPE 2.5 V6 1X43-10K975-AR, OEM Tested - 6-month Warranty",
+  "slug": "plug-play-ecu-jaguar-x-type-25-v6-1x43-10k975-ar-oem-tested-warranty",
+  "metaDescription": "OEM tested ECU replacement for Jaguar X-TYPE 2.5 V6, Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Jaguar X-TYPE 2.5 V6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "JAGUAR X-TYPE",
+    "OEM part numbers",
+    "2.5 V6"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Jaguar X-TYPE 2.5 V6 ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li><li>Compatible with Jaguar X-TYPE 2.5 V6</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>OPTION AVAILABLE</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>JAGUAR X-TYPE</td><td>2.5 V6</td><td>2001</td><td>1X43-10K975-AR</td><td>Plug & Play / Locked / Ready for programming</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed specifically for Jaguar X-TYPE 2.5 V6 and may not fit other models or engines.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JAGUAR X-TYPE 2.5 V6 1X43-10K975-AR, 1X4310K975AR",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JAGUAR-X-TYPE-2.5-V6-1X43-10K975-AR%2C-1X4310K975AR-/43194",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "E5F5-9153F",
+    "sku": "E5F5-9153F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JAGUAR X-TYPE 2.5 V6 1X43-10K975-AR, 1X4310K975AR </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JAGUAR X-TYPE",
+      "ENGINE": "2.5 V6",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "1X43-10K975-AR",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:58:23.822Z",
+    "model": "mistral:7b",
+    "durationMs": 8927,
+    "priceIncrement": 100
+  }
+}

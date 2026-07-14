@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested CITROEN 1.4 Engine Controller (21584553-1, 9651556680) - Warranty Included",
+  "slug": "plug-play-ecu-citroen-14-sagem-21584553-1-9651556680-warranty",
+  "metaDescription": "Buy ECU ENGINE CONTROLLER CITROEN 1.4 21584553-1, 9651556680 - Plug & Play, OEM tested, and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for CITROEN 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "CITROEN 1.4",
+    "Sagem",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER for CITROEN 1.4 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used original in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>YEAR</th><td>2001-2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>PSA 21584553-1</td></tr>\n        <tr><th>NUMBER PARTS</th><td>9651556680</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN 1.4 21584553-1, 9651556680",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-1.4-21584553-1%2C-9651556680-/44590",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Sagem",
+    "productCode": "3DCA-4387D",
+    "sku": "3DCA-4387D",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN 1.4 21584553-1, 9651556680 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN",
+      "ENGINE": "1.4",
+      "YEAR": "2001-2003",
+      "NUMBER MANUFACTURER": "PSA 21584553-1",
+      "NUMBER PARTS": "9651556680",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:16:19.201Z",
+    "model": "mistral:7b",
+    "durationMs": 9757,
+    "priceIncrement": 100
+  }
+}

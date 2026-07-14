@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - BMW E90/91 330 3.0 SIEMENS 5WK98083, DME MSV70 7561817, Warranty Included",
+  "slug": "plug-play-ecu-bmw-330-siemens-5wk98083-dme-msv70-7561817-warranty",
+  "metaDescription": "OEM Tested Plug & Play ECU Replacement for BMW E90/91 330 3.0 SIEMENS 5WK98083, DME MSV70 7561817. Ships within 24-48 hours and covered by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for BMW E90/91 330 3.0 SIEMENS",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E90/91 330",
+    "Siemens 5WK98083",
+    "DME MSV70 7561817"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is suitable for BMW E90/91 330 3.0 SIEMENS 5WK98083, DME MSV70 7561817.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW E90/91 330</td></tr>\n        <tr><th>ENGINE</th><td>3.0</td></tr>\n        <tr><th>YEAR</th><td>2005</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WK98083</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DME MSV70 7561817</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. If you have any doubts, consult a professional technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E90/91 330 3.0 SIEMENS 5WK98083, DME MSV70 7561817, DME7561817, 7 561 817",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E9091-330-3.0-SIEMENS-5WK98083%2C-DME-MSV70-7561817%2C-DME7561817%2C-7-561-817/24776",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "C612-699F7_20120602173432",
+    "sku": "C612-699F7_20120602173432",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E90/91 330 3.0 SIEMENS 5WK98083, DME MSV70 7561817, DME7561817, 7 561 817</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_f22ad50dfaf1a4772a59f38e7c7befd1_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d88ca0ebb0492a6a78ee1b7d386eb9ca_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E90/91 330",
+      "ENGINE": "3.0",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK98083",
+      "NUMBER PARTS": "DME MSV70 7561817",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:44:09.989Z",
+    "model": "mistral:7b",
+    "durationMs": 12785,
+    "priceIncrement": 100
+  }
+}

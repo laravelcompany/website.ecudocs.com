@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Smart 1.5 CDI - OEM Tested, Bosch 0281012393, Warranty Included",
+  "slug": "plug-play-ecu-replacement-smart-15-cdi-bosch-0281012393-tested",
+  "metaDescription": "Expertly tested ECU Engine Controller for Smart 1.5 CDI by Bosch (0281012393, A6391501179, PMN902330, 1039S09258). Plug & Play, 6-month warranty, and fast shipping.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Smart 1.5 CDI - OEM Tested",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Smart 1.5 CDI",
+    "Bosch",
+    "0281012393"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Smart 1.5 CDI by Bosch (0281012393) is expertly tested and covered by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Shipping</li></ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>SMART</td></tr>\n<tr><td>ENGINE</td><td>1.5 CDI</td></tr>\n<tr><td>YEAR</td><td>2005</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH  0 281 012 393</td></tr>\n<tr><td>NUMBER PARTS</td><td>1039S09258</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SMART 1.5 CDI BOSCH 0281012393, 0 281 012 393, A6391501179, A 639 150 11 79, PMN902330, 1039S09258",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SMART-1.5-CDI-BOSCH-0281012393%2C-0-281-012-393%2C-A6391501179%2C-A-639-150-11-79%2C-PMN902330%2C-1039S09258-/13171",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "18FF-60893",
+    "sku": "18FF-60893",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SMART 1.5 CDI BOSCH 0281012393, 0 281 012 393, A6391501179, A 639 150 11 79, PMN902330, 1039S09258 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SMART",
+      "ENGINE": "1.5 CDI",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH  0 281 012 393",
+      "NUMBER PARTS": "1039S09258",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:47:07.187Z",
+    "model": "mistral:7b",
+    "durationMs": 11381,
+    "priceIncrement": 100
+  }
+}

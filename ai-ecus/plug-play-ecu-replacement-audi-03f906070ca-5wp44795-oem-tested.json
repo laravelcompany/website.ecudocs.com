@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Audi 03F906070CA 5WP44795 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-03f906070ca-5wp44795-oem-tested",
+  "metaDescription": "Buy the tested ECU Engine Controller for Audi 03F906070CA 5WP44795. Plug & Play, OEM certified, and backed by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi 03F906070CA 5WP44795",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi ECU replacement",
+    "Continental ECU",
+    "OEM part number"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Audi is OEM tested, ensuring optimal performance and reliability.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>OEM certified</li><li>6-month warranty</li><li>Thoroughly inspected and tested by a certified technician</li><li>Used but in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>AUDI</td></tr><tr><th>NUMBER MANUFACTURER</th><td>03F906070CA 5WP44795</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi vehicles equipped with this ECU part number. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI 03F906070CA 5WP44795",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-03F906070CA-5WP44795/136123",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "5CC3-309F3_20230817130056",
+    "sku": "5CC3-309F3_20230817130056",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI 03F906070CA 5WP44795</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_284796_0_0/AUDI-03F906070CA-5WP44795.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_284797_0_0/AUDI-03F906070CA-5WP44795.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI",
+      "NUMBER MANUFACTURER": "03F906070CA 5WP44795",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:32:29.330Z",
+    "model": "mistral:7b",
+    "durationMs": 9149,
+    "priceIncrement": 100
+  }
+}

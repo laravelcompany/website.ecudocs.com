@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN PRIMERA 2.0 BOSCH 3J80185800 BR OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-nissan-primeras-bosch-3j80185800-br-tested",
+  "metaDescription": "OEM tested ECU replacement for NISSAN PRIMERA 2.0 BOSCH 3J80185800 BR, offering Plug & Play functionality and backed by a 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "OEM tested ECU replacement for NISSAN PRIMERA 2.0 BOSCH 3J80185800 BR",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "NISSAN PRIMERA",
+    "Bosch",
+    "OEM part number"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for NISSAN PRIMERA 2.0 BOSCH 3J80185800 BR offers Plug & Play functionality and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>EU Shipping</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>NISSAN PRIMERA</td><td>2.0</td><td>1998</td><td>BOSCH 0 261 203 857</td><td>3J80185800 BR</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 BOSCH 0261203857, 0 261 203 857, 23710 3J801, 237103J801, 3J801-85800, 3J80185800 BR",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-2.0-BOSCH-0261203857%2C-0-261-203-857%2C-23710-3J801%2C-237103J801%2C-3J801-85800%2C-3J80185800-BR-/13130",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D689-313AA",
+    "sku": "D689-313AA",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 BOSCH 0261203857, 0 261 203 857, 23710 3J801, 237103J801, 3J801-85800, 3J80185800 BR </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "2.0",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 857",
+      "NUMBER PARTS": "3J80185800 BR",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:33:55.839Z",
+    "model": "mistral:7b",
+    "durationMs": 10264,
+    "priceIncrement": 100
+  }
+}

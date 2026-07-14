@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Ducato 2.0 JTD Bosch 0 281 012 597, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-fiat-ducato-2-0-jtd-bosch-0-281-012-597-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Fiat Ducato 2.0 JTD Bosch 0 281 012 597, Plug & Play replacement with 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Ducato 2.0 JTD Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Ducato",
+    "Bosch",
+    "0 281 012 597"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Ducato 2.0 JTD Bosch is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play functionality</li><li>OEM Tested</li><li>6-month warranty</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FIAT DUCATO</td><td>2.0 JTD</td><td>2005</td><td>BOSCH 0 281 012 597</td><td>1039S09594</td><td>LOCKED / UNLOCKED</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and installation. Professional installation recommended.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT DUCATO 2.0 JTD BOSCH 0 281 012 597, 0281012597, 9658309980, 1039S09594",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-DUCATO-2.0-JTD-BOSCH-0-281-012-597%2C-0281012597%2C-9658309980%2C-1039S09594-/13007",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "27D6-4492D",
+    "sku": "27D6-4492D",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT DUCATO 2.0 JTD BOSCH 0 281 012 597, 0281012597, 9658309980, 1039S09594 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT DUCATO",
+      "ENGINE": "2.0 JTD",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 597",
+      "NUMBER PARTS": "1039S09594",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:39:47.942Z",
+    "model": "mistral:7b",
+    "durationMs": 8728,
+    "priceIncrement": 100
+  }
+}

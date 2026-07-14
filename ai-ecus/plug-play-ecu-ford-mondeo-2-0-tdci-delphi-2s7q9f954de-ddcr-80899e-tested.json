@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford Mondeo 2.0 TDCI - Delphi 2S7Q9F954DE, DDCR 80899E - Tested & Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-2-0-tdci-delphi-2s7q9f954de-ddcr-80899e-tested",
+  "metaDescription": "Get a tested and certified Plug & Play OEM ECU replacement for your Ford Mondeo 2.0 TDCI. Enjoy fast dispatch, EU warranty, and expert service with our Delphi part.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Ford Mondeo 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Delphi",
+    "2S7Q9F954DE",
+    "DDCR 80899E"
+  ],
+  "description": "<section class=\"overview\">This Delphi ECU engine controller is a tested and certified OEM replacement for your Ford Mondeo 2.0 TDCI, ensuring seamless performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM quality for reliable operation</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Compatible with your Ford Mondeo 2.0 TDCI (2S7Q-9F954-DE, DDCR 80899E)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 TDCI</td></tr>\n        <tr><th>YEAR:</th><td>2000-2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>2S7Q-9F954-DE</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>DDCR 80899E</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU engine controller is compatible with your Ford Mondeo 2.0 TDCI (2S7Q-9F954-DE, DDCR 80899E). Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 2S7Q-9F954-DE, 2S7Q9F954DE, DDCR 80899E",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-TDCI-2S7Q-9F954-DE%2C-2S7Q9F954DE%2C-DDCR-80899E/35928",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "B77E-4596B_20130530013608",
+    "sku": "B77E-4596B_20130530013608",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 2S7Q-9F954-DE, 2S7Q9F954DE, DDCR 80899E</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2000-2007",
+      "NUMBER MANUFACTURER": "2S7Q-9F954-DE",
+      "NUMBER PARTS": "DDCR 80899E",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:39:35.391Z",
+    "model": "mistral:7b",
+    "durationMs": 11031,
+    "priceIncrement": 100
+  }
+}

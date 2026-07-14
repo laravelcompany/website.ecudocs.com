@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Citroen Berlingo 2.0 HDI - Siemens 5WS40049C-T, HW9647423380 - Tested and Warrantied",
+  "slug": "plug-play-ecu-citroen-berlingo-2-0-hdi-siemens-5ws40049ct-hw9647423380-tested",
+  "metaDescription": "Get a tested and OEM certified ECU Engine Controller for your Citroen Berlingo 2.0 HDI, backed by a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen Berlingo 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Berlingo",
+    "2.0 HDI",
+    "Siemens"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller is a reliable replacement for your Citroen Berlingo 2.0 HDI, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM certified and tested</li>\n        <li>6-month warranty</li>\n        <li>Compatible with 2003-2008 models</li>\n        <li>Condition: Used, Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>ITROEN BERLINGO</td></tr>\n        <tr><th>ENGINE</th><td>2.0 HDI</td></tr>\n        <tr><th>YEAR</th><td>2003-2008</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>5WS40049C-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HW9647423380</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen Berlingo 2.0 HDI models from 2003 to 2008. Fitment caution may apply; consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN BERLINGO 2.0 HDI 5WS40049C-T, 5WS40049CT, SW90650517880, HW9647423380",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-BERLINGO-2.0-HDI-5WS40049C-T%2C-5WS40049CT%2C-SW90650517880%2C-HW9647423380/104858",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "CA4A-896B1_20170419160924",
+    "sku": "CA4A-896B1_20170419160924",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN BERLINGO 2.0 HDI 5WS40049C-T, 5WS40049CT, SW90650517880, HW9647423380</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2fd762a7317f01a553f65abe5c4b1dbc_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_93dcc96904c6bf13a86bbdf6f67e5369_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ITROEN BERLINGO",
+      "ENGINE": "2.0 HDI",
+      "YEAR": "2003-2008",
+      "NUMBER MANUFACTURER": "5WS40049C-T",
+      "NUMBER PARTS": "HW9647423380",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:21:23.791Z",
+    "model": "mistral:7b",
+    "durationMs": 10477,
+    "priceIncrement": 100
+  }
+}

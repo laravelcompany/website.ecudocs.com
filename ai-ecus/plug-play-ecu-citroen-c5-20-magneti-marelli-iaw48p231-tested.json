@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Engine Controller Citroen C5 2.0 Magneti Marelli IAW48P231 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-citroen-c5-20-magneti-marelli-iaw48p231-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Citroen C5 2.0 (Magneti Marelli IAW48P231) - OEM tested, warranty included.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Citroen C5 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C5",
+    "Magneti Marelli IAW48P231"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Citroen C5 2.0 (Magneti Marelli IAW48P231) is a reliable replacement, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Lockable / Unlockable</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN C5</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2004</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI IAW 48P2.31</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>9643790280</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen C5 (2004) 2.0 engine. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C5 MAGNETI MARELLI IAW 48P2.31, IAW48P231, 16469034, 9642606280, 16394064, 9643790280",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C5-MAGNETI-MARELLI-IAW-48P2.31%2C-IAW48P231%2C-16469034%2C-9642606280%2C-16394064%2C-9643790280/32489",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "AD21-473F4",
+    "sku": "AD21-473F4",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C5 MAGNETI MARELLI IAW 48P2.31, IAW48P231, 16469034, 9642606280, 16394064, 9643790280</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_512078ad4c219e7644d5dd967add1df3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_737326ecdb06b295cfb43dae9275a83b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C5",
+      "ENGINE": "2.0",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 48P2.31",
+      "NUMBER PARTS": "9643790280",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:44:17.386Z",
+    "model": "mistral:7b",
+    "durationMs": 13740,
+    "priceIncrement": 100
+  }
+}

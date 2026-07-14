@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Toyota RAV4 2.0 VVTi 1AZ-FE Fujitsu - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-toyota-rav4-20-vvtifujitsu-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Toyota RAV4 2.0 VVTi 1AZ-FE by Fujitsu, OEM tested and covered by a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Toyota RAV4 2.0 VVTi 1AZ-FE by Fujitsu",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota RAV4",
+    "1AZ-FE",
+    "Fujitsu"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Toyota RAV4 2.0 VVTi 1AZ-FE by Fujitsu is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>TOYOTA RAV4</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 VVTi 1AZ-FE</td></tr>\n        <tr><th>YEAR:</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>FUJITSU 2110007663, 211000-7663</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>89661-42673</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Toyota RAV4 2.0 VVTi 1AZ-FE. Fitment caution may apply, consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA RAV4 2.0 VVTi 1AZ-FE FUJITSU 2110007663, 211000-7663 8966142673, 89661-42673",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-RAV4-2.0-VVTi-1AZ-FE-FUJITSU-2110007663%2C-211000-7663-8966142673%2C-89661-42673/32192",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Fujitsu",
+    "productCode": "D3C9-536EF",
+    "sku": "D3C9-536EF",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA RAV4 2.0 VVTi 1AZ-FE FUJITSU 2110007663, 211000-7663 8966142673, 89661-42673</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA RAV4",
+      "ENGINE": "2.0 VVTi 1AZ-FE",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "FUJITSU 2110007663, 211000-7663",
+      "NUMBER PARTS": "89661-42673",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:31:58.764Z",
+    "model": "mistral:7b",
+    "durationMs": 10160,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Astra 1.7 DTI ISUZU - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-opel-astra-17-dti-isuzu-delphi-delco-21000087",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for Opel Astra 1.7 DTI ISUZU by Delphi Delco, backed by a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra 1.7 DTI ISUZU",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "Delphi Delco",
+    "ISUZU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is a reliable replacement for your Opel Astra 1.7 DTI ISUZU.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified for quality assurance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Compatible with your Opel Astra 1.7 DTI ISUZU</li>\n        <li>Original part in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>ASTRA</td></tr>\n        <tr><th>ENGINE</th><td>1.7 DTI</td></tr>\n        <tr><th>YEAR</th><td>2000-2005</td></tr>\n        <tr><th>NUMBER PARTS</th><td>21000087</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra 1.7 DTI ISUZU only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA 1.7 DTI ISUZU 8973743620, 21000087",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-1.7-DTI-ISUZU-8973743620%2C-21000087-/55409",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "4664-550E4_20140507172700",
+    "sku": "4664-550E4_20140507172700",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA 1.7 DTI ISUZU 8973743620, 21000087 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ASTRA",
+      "ENGINE": "1.7 DTI",
+      "YEAR": "2000-2005",
+      "NUMBER PARTS": "21000087",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:02:19.693Z",
+    "model": "mistral:7b",
+    "durationMs": 10793,
+    "priceIncrement": 100
+  }
+}

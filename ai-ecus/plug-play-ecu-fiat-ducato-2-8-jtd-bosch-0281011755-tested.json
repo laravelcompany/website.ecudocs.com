@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Ducato 2.8 JTD Bosch 0281011755, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-ducato-2-8-jtd-bosch-0281011755-tested",
+  "metaDescription": "Buy our Plug & Play ECU Replacement for Fiat Ducato 2.8 JTD Bosch 0281011755, OEM tested and covered by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Ducato 2.8 JTD Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Ducato 2.8 JTD",
+    "Bosch 0281011755"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Fiat Ducato 2.8 JTD Bosch is tested and thoroughly inspected by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>FIAT DUCATO</td></tr><tr><th>ENGINE</th><td>2.8 JTD</td></tr><tr><th>YEAR</th><td>2008</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 755</td></tr><tr><th>NUMBER PARTS</th><td>D2845ACL AFS</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT DUCATO 2.8 JTD BOSCH 0281011755, 0 281 011 755, 55206654, D2845ACL AFS",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-DUCATO-2.8-JTD-BOSCH-0281011755%2C-0-281-011-755%2C-55206654%2C-D2845ACL-AFS-/31825",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2EBD-4330B",
+    "sku": "2EBD-4330B",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT DUCATO 2.8 JTD BOSCH 0281011755, 0 281 011 755, 55206654, D2845ACL AFS </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT DUCATO",
+      "ENGINE": "2.8 JTD",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 755",
+      "NUMBER PARTS": "D2845ACL AFS",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:45:07.324Z",
+    "model": "mistral:7b",
+    "durationMs": 8715,
+    "priceIncrement": 100
+  }
+}

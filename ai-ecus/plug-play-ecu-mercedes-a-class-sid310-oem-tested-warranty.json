@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes A-Class SID310, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-a-class-sid310-oem-tested-warranty",
+  "metaDescription": "Find the Plug & Play ECU Replacement Mercedes A-Class SID310, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU replacement for Mercedes A-Class SID310",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes A-Class",
+    "SID310",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Mercedes A-Class SID310 is tested and covered by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li><li>Expertly Inspected</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>MERCEDES</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>A 607 900 23 00</td></tr>\n    <tr><th>NUMBER PARTS</th><td>SID310</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES A 607 900 23 00, A6079002300, A2C99155200, SID310",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-A-607-900-23-00%2C-A6079002300%2C-A2C99155200%2C-SID310/108804",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "AB88-738C4_20180131135921",
+    "sku": "AB88-738C4_20180131135921",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES A 607 900 23 00, A6079002300, A2C99155200, SID310</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e5313d64e2c4a5f27fb543c10029f485_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d1b744d5220bac3ae1bd29245733c7e8_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "NUMBER MANUFACTURER": "A 607 900 23 00",
+      "NUMBER PARTS": "SID310",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:09:48.999Z",
+    "model": "mistral:7b",
+    "durationMs": 9276,
+    "priceIncrement": 100
+  }
+}

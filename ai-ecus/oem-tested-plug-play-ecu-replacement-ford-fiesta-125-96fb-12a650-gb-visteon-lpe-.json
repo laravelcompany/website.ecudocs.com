@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.25 (96FB-12A650-GB) - Visteon LPE-101",
+  "slug": "oem-tested-plug-play-ecu-replacement-ford-fiesta-125-96fb-12a650-gb-visteon-lpe-",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.25 (96FB-12A650-GB) by Visteon. Fast dispatch, 12-month warranty.",
+  "price": "€87.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.25",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Visteon",
+    "96FB-12A650-GB"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.25 (LPE-101) ensures seamless engine control and is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD FIESTA</td></tr>\n<tr><td>ENGINE</td><td>1.25</td></tr>\n<tr><td>YEAR</td><td>1996</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>LPE-101</td></tr>\n<tr><td>CODE</td><td>SLIM</td></tr>\n<tr><td>NUMBER PARTS</td><td>96FB-12A650-GB</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta 1.25 (96FB-12A650-GB). Fitment caution may apply. Consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.25 96FB-12A650-GB SLIM, 96FB12A650GB LPE-101",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.25-96FB-12A650-GB-SLIM%2C-96FB12A650GB-LPE-101/28338",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "D8BE-1256A_20120824194454",
+    "sku": "D8BE-1256A_20120824194454",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.25 96FB-12A650-GB SLIM, 96FB12A650GB LPE-101</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.25",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "LPE-101",
+      "CODE": "SLIM",
+      "NUMBER PARTS": "96FB-12A650-GB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:17:38.133Z",
+    "model": "mistral:7b",
+    "durationMs": 10619,
+    "priceIncrement": 100
+  }
+}

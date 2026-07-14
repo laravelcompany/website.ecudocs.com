@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Mazda 323 1.5L - Z573 18 881, E2T84986M - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-mazda-323-1-5l-z573-18-881-e2t84986m-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Mazda 323 1.5L - Z573 18 881, E2T84986M with a 6-month warranty. Fast dispatch and EU shipping.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Mazda 323 1.5L",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mazda 323",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Mazda 323 1.5L is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MAZDA 323</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.5 L</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1994-1998</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>Z573 18 881</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>E2T84986M</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA 323 1.5 L Z573 18 881, Z57318881, Z573 5R, E2T84986M",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-323-1.5-L-Z573-18-881%2C-Z57318881%2C-Z573-5R%2C-E2T84986M/35926",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Mitsubishi",
+    "productCode": "D21E-6329C_20130530013539",
+    "sku": "D21E-6329C_20130530013539",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA 323 1.5 L Z573 18 881, Z57318881, Z573 5R, E2T84986M</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA 323",
+      "ENGINE": "1.5 L",
+      "YEAR": "1994-1998",
+      "NUMBER MANUFACTURER": "Z573 18 881",
+      "NUMBER PARTS": "E2T84986M",
+      "OPTION AVAILABLE": "Plug & Play / Locked",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:52:15.369Z",
+    "model": "mistral:7b",
+    "durationMs": 11500,
+    "priceIncrement": 100
+  }
+}

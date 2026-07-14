@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Renault Clio 1.2 Johnson Controls - 6-month Warranty, ECU Replacement",
+  "slug": "oem-tested-plug-play-ecu-renault-clio-12-johnson-controls-warranty",
+  "metaDescription": "Expertly tested and OEM certified Plug & Play ECU Engine Controller for Renault Clio 1.2 by Johnson Controls, with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Renault Clio 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Clio",
+    "Johnson Controls",
+    "1.2 engine"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested Plug & Play ECU Engine Controller for Renault Clio 1.2 by Johnson Controls ensures reliable performance and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Tested</li>\n      <li>Plug & Play</li>\n      <li>6-month Warranty</li>\n      <li>Fast Dispatch within EU</li>\n      <li>Reliable Performance</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>RENAULT CLIO</td></tr>\n      <tr><th>ENGINE</th><td>1.2</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>JOHNSON CONTROLS 21585412-6B, 215854126B, 21669390-7C, 216693907C, 8200504593, 8200461733</td></tr>\n      <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED / COMPLETE</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO 1.2 JOHNSON CONTROLS 21585412-6B, 215854126B, 21669390-7C, 216693907C, 8200504593, 8200461733",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-1.2-JOHNSON-CONTROLS-21585412-6B%2C-215854126B%2C-21669390-7C%2C-216693907C%2C-8200504593%2C-8200461733/31524",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Johnson Controls",
+    "productCode": "A494-9876E_20121013125944",
+    "sku": "A494-9876E_20121013125944",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO 1.2 JOHNSON CONTROLS 21585412-6B, 215854126B, 21669390-7C, 216693907C, 8200504593, 8200461733</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_1868768abc53ce7ead27ecb884aa6bde_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_5edab77d09a6e83bd89ea7a88ddcafa6_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "JOHNSON CONTROLS 21585412-6B",
+      "NUMBER PARTS": "8200461733",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:53:24.228Z",
+    "model": "mistral:7b",
+    "durationMs": 11036,
+    "priceIncrement": 100
+  }
+}

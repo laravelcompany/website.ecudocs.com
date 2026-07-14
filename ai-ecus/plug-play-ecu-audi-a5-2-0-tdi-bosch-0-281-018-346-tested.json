@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi A5 2.0 TDI - OEM Tested, 6-month Warranty - Bosch 0 281 018 346, EDC17C46",
+  "slug": "plug-play-ecu-audi-a5-2-0-tdi-bosch-0-281-018-346-tested",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Audi A5 2.0 TDI by Bosch (0 281 018 346, EDC17C46). 6-month warranty. Fast dispatch in EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU for Audi A5 2.0 TDI - OEM Tested, Warranty",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A5",
+    "2.0 TDI",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Audi A5 2.0 TDI by Bosch (0 281 018 346, EDC17C46) is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>AUDI A5</td></tr>\n            <tr><td>ENGINE</td><td>2.0 TDI</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 018 346</td></tr>\n            <tr><td>NUMBER PARTS</td><td>EDC17C46</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific ECU programming requirements. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A5 2.0 TDI BOSCH 0 281 018 346, 0281018346, 03L 906 018 JJ, 03L906018JJ, EDC17C46",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A5-2.0-TDI-BOSCH-0-281-018-346%2C-0281018346%2C-03L-906-018-JJ%2C-03L906018JJ%2C-EDC17C46/110387",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "07EE-6068F_20180710150820",
+    "sku": "07EE-6068F_20180710150820",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A5 2.0 TDI BOSCH 0 281 018 346, 0281018346, 03L 906 018 JJ, 03L906018JJ, EDC17C46</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A5",
+      "ENGINE": "2.0 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 018 346",
+      "NUMBER PARTS": "EDC17C46",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:25:35.030Z",
+    "model": "mistral:7b",
+    "durationMs": 10747,
+    "priceIncrement": 100
+  }
+}

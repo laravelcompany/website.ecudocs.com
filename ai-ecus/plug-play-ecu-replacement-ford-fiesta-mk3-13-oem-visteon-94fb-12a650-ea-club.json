@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Fiesta MK3 1.3, OEM Visteon 94FB-12A650-EA, Club",
+  "slug": "plug-play-ecu-replacement-ford-fiesta-mk3-13-oem-visteon-94fb-12a650-ea-club",
+  "metaDescription": "OEM Tested ECU Replacement for Ford Fiesta MK3 1.3, featuring Plug & Play installation and backed by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU replacement for Ford Fiesta MK3 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta MK3",
+    "Visteon",
+    "94FB-12A650-EA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Ford Fiesta MK3 1.3 ensures reliable engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM quality Visteon part</li>\n        <li>Ready for programming</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FIESTA MK3</td></tr>\n        <tr><th>ENGINE</th><td>1.3</td></tr>\n        <tr><th>YEAR</th><td>1995</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>94FB-12A650-EA</td></tr>\n        <tr><th>NUMBER PARTS</th><td>CLUB</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and history. Professional installation recommended.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA MK3 1.3, 94FB-12A650-EA, 94FB12A650EA, CLUB",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-MK3-1.3%2C-94FB-12A650-EA%2C-94FB12A650EA%2C-CLUB-/46604",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "6AB5-9814B",
+    "sku": "6AB5-9814B",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA MK3 1.3, 94FB-12A650-EA, 94FB12A650EA, CLUB </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e523a4e27cbd254194f611a522335ce0_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_41456657e7b6ef1a4a58d97e34f3ae02_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_31a6b586474b1e391642239407a94ae6_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA MK3",
+      "ENGINE": "1.3",
+      "YEAR": "1995",
+      "NUMBER MANUFACTURER": "94FB-12A650-EA",
+      "NUMBER PARTS": "CLUB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:39:22.711Z",
+    "model": "mistral:7b",
+    "durationMs": 9075,
+    "priceIncrement": 100
+  }
+}

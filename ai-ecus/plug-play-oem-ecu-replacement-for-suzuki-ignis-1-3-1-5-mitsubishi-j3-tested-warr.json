@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Suzuki Ignis 1.3/1.5 - Mitsubishi J3 - Tested & Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-for-suzuki-ignis-1-3-1-5-mitsubishi-j3-tested-warr",
+  "metaDescription": "Get a Plug & Play OEM ECU replacement for your Suzuki Ignis 1.3/1.5 with a 6-month warranty. Tested and ready for immediate installation.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Suzuki Ignis 1.3/1.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Suzuki Ignis",
+    "Mitsubishi J3"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for your Suzuki Ignis 1.3/1.5 is thoroughly inspected and tested by a certified technician to ensure optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Part</li><li>Plug & Play</li><li>6-month Warranty</li><li>Tested and Ready for Installation</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Suzuki Ignis models equipped with the specified engine and part number.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUZUKI IGNIS 1.3 1.5 33920-86G5, 3392086G5, E6T17274HBZE, J3",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUZUKI-IGNIS-1.3-1.5-33920-86G5%2C-3392086G5%2C-E6T17274HBZE%2C-J3/58750",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Mitsubishi",
+    "productCode": "3F90-728CF_20140616120220",
+    "sku": "3F90-728CF_20140616120220",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUZUKI IGNIS 1.3 1.5 33920-86G5, 3392086G5, E6T17274HBZE, J3</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4399ac60eef77f9ce3078c0a4a0f4e36_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4e009f80def3f9c9696e1ce455b7b832_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUZUKI IGNIS",
+      "ENGINE": "1.3 1.5",
+      "YEAR": "2003-",
+      "NUMBER PARTS": "J3",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:59:43.915Z",
+    "model": "mistral:7b",
+    "durationMs": 6373,
+    "priceIncrement": 100
+  }
+}

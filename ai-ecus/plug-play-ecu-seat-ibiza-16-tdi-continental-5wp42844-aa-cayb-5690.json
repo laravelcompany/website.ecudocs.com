@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Seat Ibiza 1.6 TDI - Continental 5WP42844 AA, CAYB 5690",
+  "slug": "plug-play-ecu-seat-ibiza-16-tdi-continental-5wp42844-aa-cayb-5690",
+  "metaDescription": "Expertly tested ECU replacement for Seat Ibiza 1.6 TDI, offering Plug & Play convenience and backed by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "OEM Tested ECU Replacement for Seat Ibiza 1.6 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Ibiza",
+    "1.6 TDI",
+    "Continental",
+    "CAYB 5690"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is specifically designed for Seat Ibiza 1.6 TDI engines, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Convenience</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SEAT IBIZA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6 TDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2010</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>CONTINENTAL 5WP42844 AA</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>CAYB 5690</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Seat Ibiza 1.6 TDI engines only. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA 1.6 TDI 03L906023S, 03L 906 023 S, DIESEL SIMOS PCR2.1 CAYB 5690, CONTINENTAL 5WP42844 AA, 5WP42844AA",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-1.6-TDI-03L906023S%2C-03L-906-023-S%2C-DIESEL-SIMOS-PCR2.1-CAYB-5690%2C-CONTINENTAL-5WP42844-AA%2C-5WP42844AA/25417",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "1A87-249E4_20120606155040",
+    "sku": "1A87-249E4_20120606155040",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA 1.6 TDI 03L906023S, 03L 906 023 S, DIESEL SIMOS PCR2.1 CAYB 5690, CONTINENTAL 5WP42844 AA, 5WP42844AA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.6 TDI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "CONTINENTAL 5WP42844 AA",
+      "NUMBER PARTS": "CAYB 5690",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:56:51.399Z",
+    "model": "mistral:7b",
+    "durationMs": 11194,
+    "priceIncrement": 100
+  }
+}

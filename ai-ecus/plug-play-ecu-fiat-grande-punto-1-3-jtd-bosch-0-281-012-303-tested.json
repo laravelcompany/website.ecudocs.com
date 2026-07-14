@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Grande Punto 1.3 JTD Bosch 0 281 012 303, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-fiat-grande-punto-1-3-jtd-bosch-0-281-012-303-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Fiat Grande Punto 1.3 JTD Bosch 0 281 012 303, Plug & Play replacement with a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM tested ECU Engine Controller for Fiat Grande Punto 1.3 JTD Bosch 0 281 012 303",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Grande Punto",
+    "Bosch 0 281 012 303"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your Fiat Grande Punto 1.3 JTD, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT GRANDE PUNTO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3 JTD</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 012 303</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>55206219</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Grande Punto 1.3 JTD only. Installation may require professional assistance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT GRANDE PUNTO 1.3 JTD BOSCH 0 281 012 303, 0281012303, 55206219",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-GRANDE-PUNTO-1.3-JTD-BOSCH-0-281-012-303%2C-0281012303%2C-55206219-/86022",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3C1A-430BC_20160211155300",
+    "sku": "3C1A-430BC_20160211155300",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT GRANDE PUNTO 1.3 JTD BOSCH 0 281 012 303, 0281012303, 55206219 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT GRANDE PUNTO",
+      "ENGINE": "1.3 JTD",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 303",
+      "NUMBER PARTS": "55206219",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:52:21.504Z",
+    "model": "mistral:7b",
+    "durationMs": 12208,
+    "priceIncrement": 100
+  }
+}

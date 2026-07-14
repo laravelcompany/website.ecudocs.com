@@ -1,0 +1,56 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Sierra Scorpio 2.0 16V Visteon 88GB-12A650-AA, 8GAA - Warranty Included",
+  "slug": "plug-play-ecu-ford-sierra-scorpio-2-0-16v-visteon-88gb-12a650-aa-8gaa-warranty",
+  "metaDescription": "Buy the OEM tested Plug & Play ECU Replacement for Ford Sierra Scorpio 2.0 16V Visteon 88GB-12A650-AA, 8GAA. Shipped within 24–48 hours and covered by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Sierra Scorpio",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Sierra Scorpio",
+    "Visteon",
+    "2.0 16V"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Ford Sierra Scorpio is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Parts</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>Brand and Model</td>\n                <td>FORD SIERRA SCORPIO</td>\n            </tr>\n            <tr>\n                <td>Engine</td>\n                <td>2.0 16V</td>\n            </tr>\n            <tr>\n                <td>Year</td>\n                <td>1987-1993</td>\n            </tr>\n            <tr>\n                <td>Number Manufacturer</td>\n                <td>VISTEON 88GB-12A650-AA</td>\n            </tr>\n            <tr>\n                <td>Number Parts</td>\n                <td>8GAA</td>\n            </tr>\n            <tr>\n                <td>Option Available</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle configuration. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD SIERRA SCORPIO VISTEON 88GB-12A650-AA, 88GB12A650AA, 8GAA",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-SIERRA-SCORPIO-VISTEON-88GB-12A650-AA%2C-88GB12A650AA%2C-8GAA/71895",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "9979-273C2_20150121170623",
+    "sku": "9979-273C2_20150121170623",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD SIERRA SCORPIO VISTEON 88GB-12A650-AA, 88GB12A650AA, 8GAA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_86eba94ae4180ac839b25483a161d4e6_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3e16be14911a93f344f0247705c4fa56_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f8e1b26d9363ec8bd6d477ab384e0a12_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ec04617aded795244abcb1210aef36fa_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD SIERRA SCORPIO",
+      "ENGINE": "2.0 16V",
+      "YEAR": "1987-1993",
+      "NUMBER MANUFACTURER": "VISTEON 88GB-12A650-AA",
+      "NUMBER PARTS": "8GAA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:59:28.256Z",
+    "model": "mistral:7b",
+    "durationMs": 11906,
+    "priceIncrement": 100
+  }
+}

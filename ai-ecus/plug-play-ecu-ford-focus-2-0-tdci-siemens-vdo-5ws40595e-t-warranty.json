@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Ford Focus 2.0 TDCI Siemens VDO 5WS40595E-T - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-focus-2-0-tdci-siemens-vdo-5ws40595e-t-warranty",
+  "metaDescription": "Expertly tested and OEM Siemens VDO ECU for Ford Focus 2.0 TDCI, offering Plug & Play functionality with a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Focus 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus 2.0 TDCI",
+    "Siemens VDO",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Replacement for Ford Focus 2.0 TDCI offers reliable performance with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play functionality</li><li>OEM Siemens VDO part</li><li>Tested and inspected by certified technicians</li><li>6-month warranty</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 2.0 TDCI SIEMENS VDO 5WS40595E-T, 5WS40595ET, FoMoCo 7G91-12A650-UE, 7G9112A650UE, EU6E, SID206",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-2.0-TDCI-SIEMENS-VDO-5WS40595E-T%2C-5WS40595ET%2C-FoMoCo-7G91-12A650-UE%2C-7G9112A650UE%2C-EU6E%2C-SID206-/85007",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "629F-89314_20160125133749",
+    "sku": "629F-89314_20160125133749",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 2.0 TDCI SIEMENS VDO 5WS40595E-T, 5WS40595ET, FoMoCo 7G91-12A650-UE, 7G9112A650UE, EU6E, SID206 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_72694b51bfcea9bda00c0e0ce7d7d843_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f46ac07d1210e107f50f442efc362a87_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "SIEMENS VDO 5WS40595E-T",
+      "NUMBER PARTS": "EU6E",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:02:55.997Z",
+    "model": "mistral:7b",
+    "durationMs": 6637,
+    "priceIncrement": 100
+  }
+}

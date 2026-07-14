@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Explorer F47F-12A650-DLA, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-explorer-f47f-12a650-dla-oem-tested-warranty-included",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for your Ford Explorer. This OEM part, F47F12A650DLA/HITO, comes with a 6-month warranty and is ready for fast dispatch.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU replacement for Ford Explorer",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Explorer",
+    "Visteon",
+    "F47F-12A650-DLA"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Ford Explorer is a tested and certified OEM part, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for optimal performance</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Certified by a professional technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD EXPLORER</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HITO</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is designed for Ford Explorer models only. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD EXPLORER, F47F-12A650-DLA, F47F12A650DLA, HITO",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-EXPLORER%2C-F47F-12A650-DLA%2C-F47F12A650DLA%2C-HITO/56444",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "B308-9929E_20140519093243",
+    "sku": "B308-9929E_20140519093243",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD EXPLORER, F47F-12A650-DLA, F47F12A650DLA, HITO</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD EXPLORER",
+      "NUMBER PARTS": "HITO",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:14:41.700Z",
+    "model": "mistral:7b",
+    "durationMs": 9345,
+    "priceIncrement": 100
+  }
+}

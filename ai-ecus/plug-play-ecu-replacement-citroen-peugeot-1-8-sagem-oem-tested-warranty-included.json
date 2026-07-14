@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for Citroen Peugeot 1.8 Sagem - OEM Tested, Warranty Included (21649010-3, 216490103, 9629566880, SL96-1)",
+  "slug": "plug-play-ecu-replacement-citroen-peugeot-1-8-sagem-oem-tested-warranty-included",
+  "metaDescription": "Buy our OEM tested ECU Engine Controller for Citroen Peugeot 1.8 Sagem (21649010-3, 216490103, 9629566880, SL96-1). 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "OEM tested ECU Engine Controller for Citroen Peugeot 1.8 Sagem",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "Sagem",
+    "1.8 engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Citroen Peugeot 1.8 Sagem (21649010-3, 216490103, 9629566880, SL96-1) is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested and certified</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN PEUGEOT</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SAGEM 21649010-3</td></tr>\n        <tr><th>NUMBER PARTS</th><td>SL96-1</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen Peugeot models equipped with the specified ECU part number.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.8 SAGEM 21649010-3, 216490103, 9629566880, SL96-1",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-1.8-SAGEM-21649010-3%2C-216490103%2C-9629566880%2C-SL96-1/77925",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Sagem",
+    "productCode": "A76F-997E8_20150811161844",
+    "sku": "A76F-997E8_20150811161844",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.8 SAGEM 21649010-3, 216490103, 9629566880, SL96-1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4b17a25d540c434147a295f3365cbeb9_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d28e1ef43698bdae83ccb3b041d2d5c7_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "SAGEM 21649010-3",
+      "NUMBER PARTS": "SL96-1",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:02:53.516Z",
+    "model": "mistral:7b",
+    "durationMs": 12478,
+    "priceIncrement": 100
+  }
+}

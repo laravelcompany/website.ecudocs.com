@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Chevrolet Matiz 0.8 LPG Engine - OEM Siemens 96417290PZ",
+  "slug": "plug-play-ecu-chevrolet-matiz-siemens-96417290pz",
+  "metaDescription": "Get a tested and warrantied ECU Engine Controller for your Chevrolet Matiz 0.8 LPG engine. Our OEM Siemens part, 96417290PZ, is Plug & Play and ready for immediate installation.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU replacement for Chevrolet Matiz",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet Matiz",
+    "Siemens",
+    "96417290PZ"
+  ],
+  "description": "<section class=\"overview\">This OEM Siemens ECU Engine Controller for the Chevrolet Matiz 0.8 LPG engine is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play compatibility</li>\n<li>OEM Tested</li>\n<li>6-month warranty</li>\n<li>Used in good condition</li>\n<li>Ready for programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>CHEVROLET MATIZ</td></tr>\n<tr><td>ENGINE</td><td>0.8 LPG</td></tr>\n<tr><td>YEAR</td><td>2005-2006</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>5WY5403F</td></tr>\n<tr><td>NUMBER PARTS</td><td>96417290PZ</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Chevrolet Matiz 0.8 LPG engine only. Fitment caution may apply.",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET MATIZ 5WY5403F, 96417290, 96417290PZ",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-MATIZ-5WY5403F%2C-96417290%2C-96417290PZ/61838",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "1C74-218E7_20140731125653",
+    "sku": "1C74-218E7_20140731125653",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET MATIZ 5WY5403F, 96417290, 96417290PZ</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET MATIZ",
+      "ENGINE": "0.8 LPG",
+      "YEAR": "2005-2006",
+      "NUMBER MANUFACTURER": "5WY5403F",
+      "NUMBER PARTS": "96417290PZ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:01:42.401Z",
+    "model": "mistral:7b",
+    "durationMs": 9752,
+    "priceIncrement": 100
+  }
+}

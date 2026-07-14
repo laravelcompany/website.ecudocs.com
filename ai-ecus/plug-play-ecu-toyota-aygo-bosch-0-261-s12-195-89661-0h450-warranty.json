@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Toyota AYGO Bosch 0 261 S12 195, 89661-0H450 - 6-month Warranty",
+  "slug": "plug-play-ecu-toyota-aygo-bosch-0-261-s12-195-89661-0h450-warranty",
+  "metaDescription": "Buy this Plug & Play OEM Tested ECU Replacement for Toyota AYGO Bosch 0 261 S12 195, 89661-0H450. Covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Toyota AYGO Bosch 0 261 S12 195, 89661-0H450 - 6-month Warranty",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota AYGO",
+    "Bosch 0 261 S12 195",
+    "89661-0H450"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Toyota AYGO is a reliable solution to engine control issues. It is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>TOYOTA AYGO</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S12 195</td></tr>\n        <tr><th>NUMBER PARTS</th><td>89661-0H450</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is specifically designed for Toyota AYGO. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA AYGO BOSCH 0 261 S12 195, 0261S12195, 89661-0H450, 896610H450",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-AYGO-BOSCH-0-261-S12-195%2C-0261S12195%2C-89661-0H450%2C-896610H450/107107",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6C44-6366B_20171025120223",
+    "sku": "6C44-6366B_20171025120223",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA AYGO BOSCH 0 261 S12 195, 0261S12195, 89661-0H450, 896610H450</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA AYGO",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S12 195",
+      "NUMBER PARTS": "89661-0H450",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:16:18.268Z",
+    "model": "mistral:7b",
+    "durationMs": 11367,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Engine Controller Opel Vectra 2.6 Y26SE OEM Tested Bosch 0261206494, Warranty Included",
+  "slug": "plug-play-ecu-opel-vectra-2-6-y26se-bosch-0261206494-warranty",
+  "metaDescription": "OEM tested ECU Engine Controller for Opel Vectra 2.6 Y26SE, Plug & Play replacement with 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Opel Vectra 2.6 Y26SE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Opel Vectra 2.6 Y26SE is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Compatible with Opel Vectra 2.6 Y26SE</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CHEVROLET HOLDEN VAUXHALL VECTRA</td></tr>\n        <tr><th>ENGINE</th><td>2.6 Y26SE</td></tr>\n        <tr><th>YEAR</th><td>1999-2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 206 494</td></tr>\n        <tr><th>CODE</th><td>AC</td></tr>\n        <tr><th>NUMBER PARTS</th><td>62 37 143</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming / complet</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra 2.6 Y26SE only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA 2.6 Y26SE 09136112 AC, 09 136 112 AC, BOSCH 0261206494, 0 261 206 494, 24434532, 24 434 532, 6237143, 62 37 143",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-2.6-Y26SE-09136112-AC%2C-09-136-112-AC%2C-BOSCH-0261206494%2C-0-261-206-494%2C-24434532%2C-24-434-532%2C-6237143%2C-62-37-143-/9986",
+    "priceCurrency": "EUR",
+    "netPrice": "€100.00",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9986",
+    "sku": "9986",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA 2.6 Y26SE 09136112 AC, 09 136 112 AC, BOSCH 0261206494, 0 261 206 494, 24434532, 24 434 532, 6237143, 62 37 143 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL VECTRA",
+      "ENGINE": "2.6 Y26SE",
+      "YEAR": "1999-2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 494",
+      "CODE": "AC",
+      "NUMBER PARTS": "62 37 143",
+      "OPTION AVAILABLE": "Locked / Ready for programming / complet",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:21:30.326Z",
+    "model": "mistral:7b",
+    "durationMs": 11892,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford Fiesta 1.4 - Siemens S120977013F, 4S6112A650ND, SIM210, 3BTD",
+  "slug": "plug-play-oem-ecu-ford-fiesta-14-siemens-s120977013f-4s6112a650nd-sim210-3btd",
+  "metaDescription": "Buy a tested and certified Plug & Play OEM ECU Engine Controller for Ford Fiesta 1.4, backed by a 6-month warranty. Fast EU shipping.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Ford Fiesta 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Siemens",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Engine Controller for Ford Fiesta 1.4 is tested and certified by a professional technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used but in good condition</li>\n        <li>Compatible with your Ford Fiesta 1.4</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FIESTA</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>YEAR</th><td>2005-2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>S120977013F</td></tr>\n        <tr><th>NUMBER PARTS</th><td>3BTD</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with your Ford Fiesta 1.4 but may require programming or professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.4, S120977013F, 4S6112A650ND, SIM210, 3BTD",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.4%2C-S120977013F%2C-4S6112A650ND%2C-SIM210%2C-3BTD/40510",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "BD92-64620_20130825225903",
+    "sku": "BD92-64620_20130825225903",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.4, S120977013F, 4S6112A650ND, SIM210, 3BTD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.4",
+      "YEAR": "2005-2007",
+      "NUMBER MANUFACTURER": "S120977013F",
+      "NUMBER PARTS": "3BTD",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:27:53.363Z",
+    "model": "mistral:7b",
+    "durationMs": 9554,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Engine Controller Fiat Punto, Bravo 1.4 - OEM Tested Bosch 0 261 201 687 - Warranty Included",
+  "slug": "plug-play-ecu-fiat-punto-bravo-14-bosch-oem-tested",
+  "metaDescription": "Expertly refurbished ECU Engine Controller for Fiat Punto, Bravo 1.4 by Bosch (0 261 201 687, 51805023B). Plug & Play, OEM Tested, and backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Refurbished ECU Engine Controller for Fiat Punto, Bravo 1.4 - Bosch 0 261 201 687",
+  "tags": [
+    "ECU Replacement",
+    "Fiat Punto",
+    "Bravo 1.4",
+    "Bosch ECU",
+    "OEM Tested",
+    "Plug & Play"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Fiat Punto, Bravo 1.4 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used but in Good Condition</li>\n        <li>Locked/Unlock Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT PUNTO, BRAVO</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 201 687</td></tr>\n        <tr><th>NUMBER PARTS</th><td>51805023B</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Punto and Bravo 1.4 models. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO, BRAVO 1.4, BOSCH 0 261 201 687, 0261201687, 51805023B",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO%2C-BRAVO-1.4%2C-BOSCH-0-261-201-687%2C-0261201687%2C-51805023B-/45378",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6887-685EB",
+    "sku": "6887-685EB",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO, BRAVO 1.4, BOSCH 0 261 201 687, 0261201687, 51805023B </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO, BRAVO",
+      "ENGINE": "1.4",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 201 687",
+      "NUMBER PARTS": "51805023B",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:29:40.912Z",
+    "model": "mistral:7b",
+    "durationMs": 10137,
+    "priceIncrement": 100
+  }
+}

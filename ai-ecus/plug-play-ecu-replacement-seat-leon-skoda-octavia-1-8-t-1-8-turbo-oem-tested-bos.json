@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Seat Leon, Skoda Octavia 1.8 T 1.8 Turbo - OEM Tested Bosch 0261208531 - Warranty Included",
+  "slug": "plug-play-ecu-replacement-seat-leon-skoda-octavia-1-8-t-1-8-turbo-oem-tested-bos",
+  "metaDescription": "OEM tested ECU replacement for Seat Leon, Skoda Octavia 1.8 T 1.8 Turbo - Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€600.00",
+  "excerpt": "Plug & Play ECU Replacement for Seat Leon, Skoda Octavia 1.8 T 1.8 Turbo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0261208531",
+    "Seat Leon",
+    "Skoda Octavia"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Seat Leon, Skoda Octavia 1.8 T 1.8 Turbo ensures optimal engine performance and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">...(technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Seat Leon and Skoda Octavia 1.8 T 1.8 Turbo. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT LEON SKODA OCTAVIA 1.8 T 1.8 TURBO 06A906032SJ, 06A 906 032 SJ, BOSCH 0261208531, 0 261 208 531 BENZIN ME7.5",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-LEON-SKODA-OCTAVIA-1.8-T-1.8-TURBO-06A906032SJ%2C-06A-906-032-SJ%2C-BOSCH-0261208531%2C-0-261-208-531-BENZIN-ME7.5-/14197",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B0B1-221AB",
+    "sku": "B0B1-221AB",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT LEON SKODA OCTAVIA 1.8 T 1.8 TURBO 06A906032SJ, 06A 906 032 SJ, BOSCH 0261208531, 0 261 208 531 BENZIN ME7.5 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT LEON SKODA OCTAVIA",
+      "ENGINE": "1.8 T 1.8 TURBO",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 208 531",
+      "NUMBER PARTS": "1039S05263",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:09:30.897Z",
+    "model": "mistral:7b",
+    "durationMs": 7174,
+    "priceIncrement": 100
+  }
+}

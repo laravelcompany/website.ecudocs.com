@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Opel Astra Zafira 1.8 X18XE1, 2.0 X20XEV - Siemens 5WK9 161, GM 90 520 859 MD - Warranty Included",
+  "slug": "plug-play-ecu-opel-astra-zafira-1-8-x18xe1-2-0-x20xev-siemens-5wk9-161-gm-90-520",
+  "metaDescription": "Buy a tested and OEM certified ECU Engine Controller for Opel Astra Zafira 1.8 X18XE1, 2.0 X20XEV with Siemens 5WK9 161, GM 90 520 859 MD. Fast shipping and 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM ECU Replacement for Opel Astra Zafira",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra Zafira",
+    "Siemens 5WK9",
+    "GM 90 520 859"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller is a direct replacement for Opel Astra Zafira models with 1.8 X18XE1, 2.0 X20XEV engines equipped with Siemens 5WK9 161 or GM 90 520 859 MD.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL ASTRA ZAFIRA</td></tr>\n        <tr><th>ENGINE</th><td>1.8 X18XE1 2.0 X20XEV</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WK9 161, GM 90 520 859 MD</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED / COMPLETE</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific ECU configuration. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA ZAFIRA 1.8 X18XE1 2.0 X20XEV SIEMENS 5WK9 161, 5WK9161, GM 90 520 859 MD, 90520859",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-ZAFIRA-1.8-X18XE1-2.0-X20XEV-SIEMENS-5WK9-161%2C-5WK9161%2C-GM-90-520-859-MD%2C-90520859-/94474",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "2942-52854_20160807164158",
+    "sku": "2942-52854_20160807164158",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA ZAFIRA 1.8 X18XE1 2.0 X20XEV SIEMENS 5WK9 161, 5WK9161, GM 90 520 859 MD, 90520859 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9cf6374462c3c25a9084b4241e6e55ae_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_642f46dbcaecb7aecd99ccd30967972d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA ZAFIRA",
+      "ENGINE": "1.8 X18XE1 2.0 X20XEV",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK9 161",
+      "NUMBER PARTS": "GM 90 520 859 MD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:22:27.692Z",
+    "model": "mistral:7b",
+    "durationMs": 12718,
+    "priceIncrement": 100
+  }
+}

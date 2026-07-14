@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - PORSCHE BOXSTER 3.2 S BOSCH OEM 0 261 204 790, Used in Good Condition",
+  "slug": "plug-play-ecu-porsche-boxster-3-2-s-bosch-oem-0-261-204-790",
+  "metaDescription": "OEM Tested ECU Replacement for PORSCHE BOXSTER 3.2 S BOSCH 0 261 204 790, Plug & Play, 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested ECU Replacement for PORSCHE BOXSTER 3.2 S BOSCH 0 261 204 790.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PORSCHE BOXSTER 3.2 S",
+    "BOSCH OEM",
+    "OEM Tested"
+  ],
+  "description": "<section class=\"overview\">This ECU Engine Controller for PORSCHE BOXSTER 3.2 S BOSCH 0 261 204 790 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PORSCHE BOXSTER 3.2 S BOSCH 0 261 204 790, 0261204790, 996.618.605.00, 99661860500",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PORSCHE-BOXSTER-3.2-S-BOSCH-0-261-204-790%2C-0261204790%2C-996.618.605.00%2C-99661860500-/80811",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "63C8-28053_20151021140408",
+    "sku": "63C8-28053_20151021140408",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PORSCHE BOXSTER 3.2 S BOSCH 0 261 204 790, 0261204790, 996.618.605.00, 99661860500 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PORSCHE BOXSTER",
+      "ENGINE": "3.2 S",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 790",
+      "NUMBER PARTS": "996.618.605.00",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:36:55.596Z",
+    "model": "mistral:7b",
+    "durationMs": 6985,
+    "priceIncrement": 100
+  }
+}

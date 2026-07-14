@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Renault Megane 1.5 DCI - Delphi R0413B007E, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-renault-megane-1-5-dci-delphi-r0413b007e",
+  "metaDescription": "OEM tested ECU Engine Controller for Renault Megane 1.5 DCI by Delphi, Plug & Play, 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Megane 1.5 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delphi R0413B007E",
+    "Renault Megane",
+    "1.5 DCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Renault Megane 1.5 DCI is a reliable replacement by Delphi, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Parts</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>Brand and Model</td>\n                <td>RENAULT MEGANE</td>\n            </tr>\n            <tr>\n                <td>Engine</td>\n                <td>1.5 DCI</td>\n            </tr>\n            <tr>\n                <td>Year</td>\n                <td>2009</td>\n            </tr>\n            <tr>\n                <td>Number Manufacturer</td>\n                <td>DELPHI R0413B007E</td>\n            </tr>\n            <tr>\n                <td>Number Parts</td>\n                <td>237100627R</td>\n            </tr>\n            <tr>\n                <td>Option Available</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific issues. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE 1.5 DCI DELPHI R0413B007E, 237100120R, 237100627R, DCM3.4",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-1.5-DCI-DELPHI-R0413B007E%2C-237100120R%2C-237100627R%2C-DCM3.4-/95835",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "F7AC-379B0_20160905203452",
+    "sku": "F7AC-379B0_20160905203452",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE 1.5 DCI DELPHI R0413B007E, 237100120R, 237100627R, DCM3.4 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE",
+      "ENGINE": "1.5 DCI",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "DELPHI R0413B007E",
+      "NUMBER PARTS": "237100627R",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:46:51.154Z",
+    "model": "mistral:7b",
+    "durationMs": 10957,
+    "priceIncrement": 100
+  }
+}

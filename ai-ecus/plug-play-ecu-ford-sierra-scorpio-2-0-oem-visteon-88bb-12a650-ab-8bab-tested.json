@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Sierra, Scorpio 2.0 - OEM Visteon 88BB-12A650-AB, 8BAB - Tested & Warranty Included",
+  "slug": "plug-play-ecu-ford-sierra-scorpio-2-0-oem-visteon-88bb-12a650-ab-8bab-tested",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Ford Sierra or Scorpio 2.0, guaranteed OEM Visteon part number 88BB-12A650-AB, 8BAB. Tested and covered by a 6-month warranty.",
+  "price": "€870.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Sierra/Scorpio 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Sierra",
+    "Scorpio 2.0",
+    "Visteon"
+  ],
+  "description": "<section class=\"overview\">This OEM Visteon ECU Engine Controller is a reliable replacement for your Ford Sierra or Scorpio 2.0, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty included</li>\n        <li>Thoroughly inspected and tested by certified technicians</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD SIERRA, SCORPIO</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>88BB-12A650-AB</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8BAB</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Sierra and Scorpio 2.0 models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD SIERRA, SCORPIO 2.0, 88BB-12A650-AB, 88BB12A650AB, 8BAB",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-SIERRA%2C-SCORPIO-2.0%2C-88BB-12A650-AB%2C-88BB12A650AB%2C-8BAB-/46609",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "617E-52117",
+    "sku": "617E-52117",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD SIERRA, SCORPIO 2.0, 88BB-12A650-AB, 88BB12A650AB, 8BAB </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e0e6677f5a27b7c021ecdf8b2ca19aff_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a9a9aed219f4f62e784f99488ea57059_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b0b890179e7191ae3965e4e9f450929a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD SIERRA, SCORPIO",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "88BB-12A650-AB",
+      "NUMBER PARTS": "8BAB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:00:02.464Z",
+    "model": "mistral:7b",
+    "durationMs": 9591,
+    "priceIncrement": 100
+  }
+}

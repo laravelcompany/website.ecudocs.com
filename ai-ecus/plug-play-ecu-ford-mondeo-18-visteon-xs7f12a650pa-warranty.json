@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 1.8 - Visteon XS7F-12A650-PA, Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-18-visteon-xs7f12a650pa-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford Mondeo 1.8 by Visteon (XS7F-12A650-PA). Covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon XS7F-12A650-PA",
+    "Used OEM Part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Ford Mondeo 1.8 by Visteon (XS7F-12A650-PA) is tested and certified to ensure seamless integration with your vehicle's engine control system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used but in Good Condition</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>Parts:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>Brand and Model:</th><td>FORD MONDEO</td></tr>\n        <tr><th>Engine:</th><td>1.8</td></tr>\n        <tr><th>Year:</th><td>1998-2005</td></tr>\n        <tr><th>Number Parts:</th><td>WEAR</td></tr>\n        <tr><th>Inspection:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>Condition:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo 1.8 (XS7F-12A650-PA). Fitment caution may apply. Consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 1.8 XS7F-12A650-PA, XS7F12A650PA, WEAR",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-1.8-XS7F-12A650-PA%2C-XS7F12A650PA%2C-WEAR-/59977",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "ABFD-55073_20140709153144",
+    "sku": "ABFD-55073_20140709153144",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 1.8 XS7F-12A650-PA, XS7F12A650PA, WEAR </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c51cb09ba5e03895fdd04b86d49e84e8_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_79cafdb803c0f7b281425a8459ad1cdd_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "1.8",
+      "YEAR": "1998-2005",
+      "NUMBER PARTS": "WEAR",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:34:29.214Z",
+    "model": "mistral:7b",
+    "durationMs": 10161,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - PORSCHE CAYENNE 957 3.6 BOSCH 03H906032DK, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-porsche-cayenne-957-36-bosch-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for PORSCHE CAYENNE 957 3.6, offering Plug & Play installation and backed by a warranty. Fast dispatch within EU.",
+  "price": "€1040.00",
+  "excerpt": "Plug & Play ECU replacement for PORSCHE CAYENNE 957 3.6, OEM tested and warrantied.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Porsche Cayenne",
+    "3.6 engine",
+    "BOSCH"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for PORSCHE CAYENNE 957 3.6 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM tested for quality assurance</li><li>Backed by a warranty</li><li>Locked or ready for programming</li><li>Used original in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>PORSCHE CAYENNE 957</td></tr><tr><th>ENGINE</th><td>3.6</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S02 365</td></tr><tr><th>NUMBER PARTS</th><td>03H 906 032 DK</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with PORSCHE CAYENNE 957 3.6. Fitment caution may apply, consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PORSCHE CAYENNE 957 3.6 03H906032DK, 03H 906 032 DK, BOSCH 0261S02365, 0 261 S02 365",
+    "price": "€950.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PORSCHE-CAYENNE-957-3.6-03H906032DK%2C-03H-906-032-DK%2C-BOSCH-0261S02365%2C-0-261-S02-365/110821",
+    "priceCurrency": "EUR",
+    "netPrice": "€772.36",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "62BF-91349_20180803113602",
+    "sku": "62BF-91349_20180803113602",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PORSCHE CAYENNE 957 3.6 03H906032DK, 03H 906 032 DK,  BOSCH 0261S02365, 0 261 S02 365</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PORSCHE CAYENNE 957",
+      "ENGINE": "3.6",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S02 365",
+      "NUMBER PARTS": "03H 906 032 DK",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:38:02.333Z",
+    "model": "mistral:7b",
+    "durationMs": 9005,
+    "priceIncrement": 100
+  }
+}

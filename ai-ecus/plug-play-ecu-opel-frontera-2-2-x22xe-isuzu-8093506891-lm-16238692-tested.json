@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OPEL FRONTERA 2.2 X22XE ISUZU 8093506891 LM, 16238692 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-opel-frontera-2-2-x22xe-isuzu-8093506891-lm-16238692-tested",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for OPEL FRONTERA 2.2 X22XE ISUZU, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for OPEL FRONTERA 2.2 X22XE ISUZU",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "OPEL FRONTERA 2.2 X22XE",
+    "ISUZU 8093506891 LM",
+    "16238692"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for the OPEL FRONTERA 2.2 X22XE ISUZU, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>OEM tested</li><li>6-month warranty</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>OPEL FRONTERA</td></tr><tr><th>ENGINE</th><td>2.2 X22XE</td></tr><tr><th>NUMBER MANUFACTURER</th><td>ISUZU 8093506891 LM</td></tr><tr><th>NUMBER PARTS</th><td>16238692</td></tr><tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with OPEL FRONTERA 2.2 X22XE ISUZU only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL FRONTERA 2.2 X22XE ISUZU 8093506891 LM, 09350689 CURN, 16238692",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-FRONTERA-2.2-X22XE-ISUZU-8093506891-LM%2C-09350689-CURN%2C-16238692-/98125",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "ISUZU",
+    "productCode": "F462-756F2_20161010113240",
+    "sku": "F462-756F2_20161010113240",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL FRONTERA 2.2 X22XE ISUZU 8093506891 LM, 09350689 CURN, 16238692 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL FRONTERA",
+      "ENGINE": "2.2 X22XE",
+      "NUMBER MANUFACTURER": "ISUZU 8093506891 LM",
+      "NUMBER PARTS": "16238692",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:03:43.934Z",
+    "model": "mistral:7b",
+    "durationMs": 10929,
+    "priceIncrement": 100
+  }
+}

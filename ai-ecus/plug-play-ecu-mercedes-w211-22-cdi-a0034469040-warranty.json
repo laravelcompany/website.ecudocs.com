@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W211 2.2 CDI OEM Tested - A0034469040 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w211-22-cdi-a0034469040-warranty",
+  "metaDescription": "OEM tested ECU replacement for Mercedes W211 2.2 CDI, featuring Plug & Play installation and a 6-month warranty. Fast dispatch within EU.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W211 2.2 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W211",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Delphi ECU engine controller is a tested and reliable replacement for your Mercedes W211 2.2 CDI, ensuring smooth operation.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM tested for quality assurance</li><li>6-month warranty</li><li>Used in good condition</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W211</td></tr>\n        <tr><th>ENGINE</th><td>2.2 CDI</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A0034469040</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W211 2.2 CDI. Fitment caution may apply; please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W211 2.2 CDI, A 646 150 98 78, A6461509878, A 003 446 90 40, A0034469040",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W211-2.2-CDI%2C-A-646-150-98-78%2C-A6461509878%2C-A-003-446-90-40%2C-A0034469040/57788",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "9462-90885_20140604115418",
+    "sku": "9462-90885_20140604115418",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W211 2.2 CDI, A 646 150 98 78, A6461509878, A 003 446 90 40, A0034469040</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W211",
+      "ENGINE": "2.2 CDI",
+      "NUMBER PARTS": "A0034469040",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:31:16.116Z",
+    "model": "mistral:7b",
+    "durationMs": 9241,
+    "priceIncrement": 100
+  }
+}

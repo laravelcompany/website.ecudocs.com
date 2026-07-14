@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A4 1.6 AHL Siemens 5WP4333 02 - 6-month Warranty",
+  "slug": "plug-play-ecu-audi-a4-1-6-ahl-siemens-5wp4333-02-warranty",
+  "metaDescription": "Expertly tested and OEM Siemens ECU Engine Controller for Audi A4 1.6 AHL (3B0907557B, 5WP4333 02). Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€275.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A4 1.6 AHL",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Siemens"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller for Audi A4 1.6 AHL (3B0907557B, SIEMENS 5WP4333 02) is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>Certified Technician Inspected</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>AUDI A4</td></tr>\n            <tr><td>ENGINE</td><td>1.6 AHL</td></tr>\n            <tr><td>YEAR</td><td>1998</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>SIEMENS 5WP4 333 02</td></tr>\n            <tr><td>NUMBER PARTS</td><td>3B0 907 557 B</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A4 1.6 AHL. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 1.6 AHL 3B0907557B, 3B0 907 557 B, SIEMENS 5WP4333 02, 5WP4 333 02",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-1.6-AHL-3B0907557B%2C-3B0-907-557-B%2C-SIEMENS-5WP4333-02%2C-5WP4-333-02/14181",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "0754-540B0",
+    "sku": "0754-540B0",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 1.6 AHL 3B0907557B, 3B0 907 557 B, SIEMENS 5WP4333 02, 5WP4 333 02</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "1.6 AHL",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP4 333 02",
+      "NUMBER PARTS": "3B0 907 557 B",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:56:46.505Z",
+    "model": "mistral:7b",
+    "durationMs": 10818,
+    "priceIncrement": 100
+  }
+}

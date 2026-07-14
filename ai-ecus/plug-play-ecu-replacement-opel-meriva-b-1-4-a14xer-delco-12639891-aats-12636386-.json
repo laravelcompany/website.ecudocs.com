@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Opel Meriva B 1.4 A14XER Delco - 12639891 AATS / 12636386 - OEM Tested",
+  "slug": "plug-play-ecu-replacement-opel-meriva-b-1-4-a14xer-delco-12639891-aats-12636386-",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Opel Meriva B 1.4 A14XER Delco - 12639891 AATS / 12636386. Covered by a 6-month warranty, shipped within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "OEM tested Plug & Play ECU replacement for Opel Meriva B 1.4 A14XER Delco",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Meriva B",
+    "Delco",
+    "A14XER"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Opel Meriva B 1.4 A14XER Delco is a reliable solution to ensure smooth engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM tested and approved</li>\n<li>Plug & Play for easy installation</li>\n<li>6-month warranty</li>\n<li>Coverage for 1.4 A14XER engine</li>\n<li>Compatible with Opel Meriva B</li>\n<li>Delco branded part</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>OPEL CHEVROLET HOLDEN VAUXHALL MERIVA B</td></tr>\n<tr><td>ENGINE</td><td>1.4 A14XER</td></tr>\n<tr><td>YEAR</td><td>2010-</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>12 639 891</td></tr>\n<tr><td>CODE</td><td>AATS</td></tr>\n<tr><td>NUMBER PARTS</td><td>12 636 386</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel Meriva B 1.4 A14XER only. Fitment caution: Ensure correct part number and year of manufacture before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL MERIVA B 1.4 A14XER 12639891 AATS 12636386",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-MERIVA-B-1.4-A14XER-12639891-AATS-12636386/9640",
+    "priceCurrency": "EUR",
+    "netPrice": "€100.00",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "9640",
+    "sku": "9640",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL MERIVA B 1.4 A14XER 12639891 AATS 12636386</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL MERIVA B",
+      "ENGINE": "1.4 A14XER",
+      "YEAR": "2010-",
+      "NUMBER MANUFACTURER": "12 639 891",
+      "CODE": "AATS",
+      "NUMBER PARTS": "12 636 386",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:42:06.483Z",
+    "model": "mistral:7b",
+    "durationMs": 13145,
+    "priceIncrement": 100
+  }
+}

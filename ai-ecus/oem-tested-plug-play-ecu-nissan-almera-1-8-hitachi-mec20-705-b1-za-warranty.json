@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Nissan Almera 1.8 - Hitachi MEC20-705, B1, ZA - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-nissan-almera-1-8-hitachi-mec20-705-b1-za-warranty",
+  "metaDescription": "Expertly tested and OEM replacement ECU for Nissan Almera 1.8, featuring Plug & Play compatibility. 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Nissan Almera 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Almera",
+    "Hitachi MEC20-705",
+    "B1",
+    "ZA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Nissan Almera 1.8 ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Compatibility</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN ALMERA</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MEC20-705</td></tr>\n        <tr><th>CODE</th><td>B1</td></tr>\n        <tr><th>NUMBER PARTS</th><td>ZA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA 1.8 MEC20-705, MEC20705, B1, 1Z11, ZA",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-1.8-MEC20-705%2C-MEC20705%2C-B1%2C-1Z11%2C-ZA/37637",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "BC01-54734_20130716141753",
+    "sku": "BC01-54734_20130716141753",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA 1.8 MEC20-705, MEC20705, B1, 1Z11, ZA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "ENGINE": "1.8",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "MEC20-705",
+      "CODE": "B1",
+      "NUMBER PARTS": "ZA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:06:00.583Z",
+    "model": "mistral:7b",
+    "durationMs": 9344,
+    "priceIncrement": 100
+  }
+}

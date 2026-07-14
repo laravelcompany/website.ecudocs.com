@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen Xantia 2.0 HDI Bosch 0 281 001 975 - 6-month Warranty",
+  "slug": "plug-play-ecu-citroen-xantia-2-0-hdi-bosch-0281001975-warranty",
+  "metaDescription": "Expertly tested and OEM Bosch ECU Engine Controller for Citroen Xantia 2.0 HDI, Plug & Play, 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen Xantia 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Xantia 2.0 HDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is specifically designed for Citroen Xantia 2.0 HDI engines, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>CITROEN XANTIA</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 001 975</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>96 351 576 80</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN XANTIA 2.0 HDI BOSCH 0 281 001 975, 0281001975, 96 351 576 80, 9635157680, 28FM0000, EDC15C2 06",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-XANTIA-2.0-HDI-BOSCH-0-281-001-975%2C-0281001975%2C-96-351-576-80%2C-9635157680%2C-28FM0000%2C-EDC15C2-06/76118",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4B5C-9463E_20150703160800",
+    "sku": "4B5C-9463E_20150703160800",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN XANTIA 2.0 HDI BOSCH 0 281 001 975, 0281001975, 96 351 576 80, 9635157680, 28FM0000, EDC15C2 06</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN XANTIA",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 975",
+      "NUMBER PARTS": "96 351 576 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:38:04.942Z",
+    "model": "mistral:7b",
+    "durationMs": 9420,
+    "priceIncrement": 100
+  }
+}

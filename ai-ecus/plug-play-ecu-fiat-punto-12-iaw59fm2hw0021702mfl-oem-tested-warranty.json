@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Punto 1.2 IAW59FM2/HW002/1702-MFL, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-punto-12-iaw59fm2hw0021702mfl-oem-tested-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat Punto 1.2 IAW59FM2/HW002/1702-MFL, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Punto 1.2 IAW59FM2/HW002/1702-MFL",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Punto",
+    "IAW59FM2",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Fiat Punto 1.2 IAW59FM2/HW002/1702-MFL is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT PUNTO</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>YEAR</th><td>2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>IAW 59F.M2</td></tr>\n        <tr><th>NUMBER PARTS</th><td>C146</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU-wide with 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and installation. Professional installation is recommended for optimal results.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO 1.2 IAW59FM2, IAW59F.M2, IAW 59F.M2/HW002/1702-MFL, 46760606, 61600.389.04, 6160038904, C146",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-1.2-IAW59FM2%2C-IAW59F.M2%2C-IAW-59F.M2HW0021702-MFL%2C-46760606%2C-61600.389.04%2C-6160038904%2C-C146-/12845",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "5A88-705CB",
+    "sku": "5A88-705CB",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO 1.2 IAW59FM2, IAW59F.M2,  IAW 59F.M2/HW002/1702-MFL, 46760606, 61600.389.04, 6160038904, C146 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO",
+      "ENGINE": "1.2",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "IAW 59F.M2",
+      "NUMBER PARTS": "C146",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:20:04.898Z",
+    "model": "mistral:7b",
+    "durationMs": 9985,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Citroen Peugeot 2.0 HDI 5WS40309B-T, SW9659211680 - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-oem-tested-citroen-peugeot-2-0-hdi-5ws40309b-t-sw96592",
+  "metaDescription": "Expertly tested and OEM certified ECU replacement for Citroen Peugeot 2.0 HDI. Plug & Play, 6-month warranty, fast EU shipping.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen Peugeot 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "2.0 HDI",
+    "Siemens"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU replacement for Citroen Peugeot 2.0 HDI ensures seamless engine control.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Expertly Inspected and Tested</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>CITROEN PEUGEOT</td><td>2.0 HDI</td><td>5WS40309B-T</td><td>SW9659211680</td><td>Plug & Play / Locked / Ready for programming</td></tr></table></section>\n<section class=\"shipping\">Fast EU shipping, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment may vary. Always verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.0 HDI 5WS40309B-T, 5WS40309BT, SW9659211680",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-2.0-HDI-5WS40309B-T%2C-5WS40309BT%2C-SW9659211680/105344",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "1D45-31120_20170529132347",
+    "sku": "1D45-31120_20170529132347",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.0 HDI 5WS40309B-T, 5WS40309BT, SW9659211680</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_7e34bcd212729a4512f4b8f217ae964d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6807e39fd124125bfde3db41f7d97dd3_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "5WS40309B-T",
+      "NUMBER PARTS": "SW9659211680",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:06:53.430Z",
+    "model": "mistral:7b",
+    "durationMs": 8680,
+    "priceIncrement": 100
+  }
+}

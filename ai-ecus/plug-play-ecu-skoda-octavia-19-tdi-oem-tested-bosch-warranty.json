@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Skoda Octavia 1.9 TDI - OEM Tested, Bosch 0 281 014 136, Warranty Included",
+  "slug": "plug-play-ecu-skoda-octavia-19-tdi-oem-tested-bosch-warranty",
+  "metaDescription": "OEM Tested ECU Replacement for Skoda Octavia 1.9 TDI. Plug & Play, Warranty Included. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU for Skoda Octavia 1.9 TDI - OEM Tested, Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Octavia",
+    "1.9 TDI",
+    "Bosch",
+    "0281014136"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested ECU Replacement for Skoda Octavia 1.9 TDI ensures seamless engine control and is backed by a warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM part for guaranteed fitment</li><li>6-month warranty for peace of mind</li><li>Thoroughly inspected and tested by certified technicians</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Value</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>SKODA OCTAVIA</td></tr><tr><td>ENGINE</td><td>1.9 TDI</td></tr><tr><td>YEAR</td><td>2007</td></tr><tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 014 136</td></tr><tr><td>NUMBER PARTS</td><td>1039S22815</td></tr></tbody></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Skoda Octavia 1.9 TDI. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 1.9 TDI 03G906021RH, 03G 906 021 RH, 03G906021AB, 03G 906 021 AB, BOSCH 0 281 014 136, 0281014136, DIESEL EDC16U34, 1039S22815",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-1.9-TDI-03G906021RH%2C-03G-906-021-RH%2C-03G906021AB%2C-03G-906-021-AB%2C-BOSCH-0-281-014-136%2C-0281014136%2C-DIESEL-EDC16U34%2C-1039S22815-/16114",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D6C3-3921A",
+    "sku": "D6C3-3921A",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 1.9 TDI 03G906021RH, 03G 906 021 RH, 03G906021AB, 03G 906 021 AB, BOSCH 0 281 014 136, 0281014136, DIESEL EDC16U34, 1039S22815 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 136",
+      "NUMBER PARTS": "1039S22815",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:36:34.343Z",
+    "model": "mistral:7b",
+    "durationMs": 9344,
+    "priceIncrement": 100
+  }
+}

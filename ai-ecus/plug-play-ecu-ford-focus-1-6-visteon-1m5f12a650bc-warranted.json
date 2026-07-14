@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Ford Focus 1.6 VISTEON 1M5F-12A650-BC, Used in Good Condition, 6-month Warranty",
+  "slug": "plug-play-ecu-ford-focus-1-6-visteon-1m5f12a650bc-warranted",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Ford Focus 1.6 VISTEON 1M5F-12A650-BC, used in good condition and covered by a 6-month warranty.",
+  "price": "€275.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Focus 1.6 VISTEON",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Visteon",
+    "1M5F-12A650-BC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Focus 1.6 VISTEON is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Used in Good Condition</li><li>6-month Warranty</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FORD FOCUS</td><td>1.6</td><td>VISTEON 1M5F-12A650-BC</td><td>JQZ1</td><td>LOCKED / UNLOCKED / COMPLETE</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.6 VISTEON 1M5F-12A650-BC,1M5F12A650BC, JQZ1, LP4-335",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.6-VISTEON-1M5F-12A650-BC%2C1M5F12A650BC%2C-JQZ1%2C-LP4-335-/100603",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "B0CF-49096_20161213150723",
+    "sku": "B0CF-49096_20161213150723",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.6 VISTEON 1M5F-12A650-BC,1M5F12A650BC, JQZ1, LP4-335 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_b317020985603670eeb30d0da57dc498_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f976452498ee20c90d9d3ecfe476d698_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "VISTEON 1M5F-12A650-BC",
+      "NUMBER PARTS": "JQZ1",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:52:27.818Z",
+    "model": "mistral:7b",
+    "durationMs": 8937,
+    "priceIncrement": 100
+  }
+}

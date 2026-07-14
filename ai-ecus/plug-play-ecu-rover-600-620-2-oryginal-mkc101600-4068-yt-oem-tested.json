@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - ROVER 600 620 2.0, Oryginal MKC101600, 4068 YT - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-rover-600-620-2-oryginal-mkc101600-4068-yt-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for ROVER 600 620 2.0, MKC101600, 4068 YT. Oryginal, tested and covered by a 6-month warranty.",
+  "price": "€500.00",
+  "excerpt": "Plug & Play ECU Replacement for Rover 600 620 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 600 620",
+    "Oryginal MKC101600",
+    "4068 YT"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is an OEM tested replacement for your Rover 600 620 2.0, offering a seamless fit and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed compatibility</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition, thoroughly inspected and tested by a certified technician</li>\n        <li>Compatible with Rover 600 620 2.0</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>ROVER 600 620</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MKC101600</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>4068 YT</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Rover 600 620 2.0. Fitment caution: Ensure correct part number before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 600 620 2.0, MKC101600, 4068 YT",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-600-620-2.0%2C-MKC101600%2C-4068-YT-/48153",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "AAD1-398E4",
+    "sku": "AAD1-398E4",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 600 620 2.0, MKC101600, 4068 YT </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 600 620",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "MKC101600",
+      "NUMBER PARTS": "4068 YT",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:32:28.007Z",
+    "model": "mistral:7b",
+    "durationMs": 11613,
+    "priceIncrement": 100
+  }
+}

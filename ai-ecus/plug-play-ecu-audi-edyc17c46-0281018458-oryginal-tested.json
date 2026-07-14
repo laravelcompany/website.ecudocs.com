@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Audi - EDC17C46 (0281018458 03L906018JH) - Oryginal, Tested, Warranty",
+  "slug": "plug-play-ecu-audi-edyc17c46-0281018458-oryginal-tested",
+  "metaDescription": "Buy the Plug & Play OEM ECU Engine Controller for Audi (EDC17C46, 0281018458 03L906018JH) - tested, 6-month warranty, fast dispatch.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Audi",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi ECU",
+    "OEM part numbers",
+    "0281018458"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Engine Controller for Audi (EDC17C46, 0281018458 03L906018JH) has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Oryginal in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>0281018458 03L906018JH</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>EDC17C46</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify the compatibility with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI 0281018458 03L906018JH EDC17C46",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-0281018458-03L906018JH-EDC17C46/134515",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "356F-90115_20230403163844",
+    "sku": "356F-90115_20230403163844",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI 0281018458 03L906018JH EDC17C46</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI",
+      "NUMBER MANUFACTURER": "0281018458 03L906018JH",
+      "NUMBER PARTS": "EDC17C46",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:31:02.740Z",
+    "model": "mistral:7b",
+    "durationMs": 10583,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Focus 1.6 VISTEON 1S4F-12A650-BD, Warranty Included",
+  "slug": "plug-play-ecu-ford-focus-1-6-visteon-1s4f-12a650-bd-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford Focus 1.6 VISTEON 1S4F-12A650-BD, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Ford Focus 1.6 VISTEON",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Visteon 1S4F-12A650-BD"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Ford Focus 1.6 VISTEON 1S4F-12A650-BD is a reliable replacement, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FOCUS</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>VISTEON 1S4F-12A650-B</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS VISTEON 1S4F-12A650-BD, 1S4F12A650BD, POLE, LP4-335",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-VISTEON-1S4F-12A650-BD%2C-1S4F12A650BD%2C-POLE%2C-LP4-335/61570",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "1E83-43792_20140729162255",
+    "sku": "1E83-43792_20140729162255",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS VISTEON 1S4F-12A650-BD, 1S4F12A650BD, POLE, LP4-335</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9a12efdfe64162ca4e412bb4b1a5b700_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_931d7cf609da59faa6ba39825a9ea010_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "VISTEON 1S4F-12A650-B",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:17:16.566Z",
+    "model": "mistral:7b",
+    "durationMs": 9602,
+    "priceIncrement": 100
+  }
+}

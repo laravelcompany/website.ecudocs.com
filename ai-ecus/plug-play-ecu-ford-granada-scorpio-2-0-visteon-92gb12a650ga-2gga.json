@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Granada Scorpio 2.0, OEM Tested, 6-month Warranty, Visteon 92GB12A650GA, 2GGA",
+  "slug": "plug-play-ecu-ford-granada-scorpio-2-0-visteon-92gb12a650ga-2gga",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Ford Granada Scorpio 2.0, backed by a 6-month warranty and Plug & Play installation.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Granada Scorpio 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Granada Scorpio",
+    "Visteon",
+    "92GB12A650GA",
+    "2GGA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Ford Granada Scorpio 2.0.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM quality</li><li>6-month warranty</li><li>Thoroughly inspected and tested by a certified technician</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FORD GRANADA SCORPIO</td><td>2.0</td><td>1992</td><td>92GB-12A650-GA</td><td>2GGA</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on your vehicle's specific configuration. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD GRANADA SCORPIO 2.0, 92GB-12A650-GA, 92GB12A650GA, 2GGA",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-GRANADA-SCORPIO-2.0%2C-92GB-12A650-GA%2C-92GB12A650GA%2C-2GGA-/48113",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "1B61-84501",
+    "sku": "1B61-84501",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD GRANADA SCORPIO 2.0, 92GB-12A650-GA, 92GB12A650GA, 2GGA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c0e6f58aa787e2c418e04adde7404a79_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f857ee8a705d02d007936fecb04994d3_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD GRANADA SCORPIO",
+      "ENGINE": "2.0",
+      "YEAR": "1992",
+      "NUMBER MANUFACTURER": "92GB-12A650-GA",
+      "NUMBER PARTS": "2GGA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:23:41.639Z",
+    "model": "mistral:7b",
+    "durationMs": 9715,
+    "priceIncrement": 100
+  }
+}

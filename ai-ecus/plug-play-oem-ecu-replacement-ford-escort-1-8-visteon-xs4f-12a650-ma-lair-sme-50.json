@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford Escort 1.8 - Visteon XS4F-12A650-MA LAIR, SME-505 - 6-month Warranty",
+  "slug": "plug-play-oem-ecu-replacement-ford-escort-1-8-visteon-xs4f-12a650-ma-lair-sme-50",
+  "metaDescription": "Get a Plug & Play OEM tested ECU Engine Controller for your Ford Escort 1.8 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Ford Escort 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Escort",
+    "Visteon XS4F-12A650-MA LAIR, SME-505"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for your Ford Escort 1.8 is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>ECU Replacement</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FORD ESCORT</td></tr>\n<tr><th>ENGINE</th><td>1.8</td></tr>\n<tr><th>YEAR</th><td>1999</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>SME-505</td></tr>\n<tr><th>CODE</th><td>LAIR</td></tr>\n<tr><th>NUMBER PARTS</th><td>XS4F-12A650-MA</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Escort 1.8 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD ESCORT 1.8 XS4F12A650MA, XS4F-12A650-MA LAIR, SME-505",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-ESCORT-1.8-XS4F12A650MA%2C-XS4F-12A650-MA-LAIR%2C-SME-505/29891",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "35AD-1567D_20120928215221",
+    "sku": "35AD-1567D_20120928215221",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD ESCORT 1.8 XS4F12A650MA, XS4F-12A650-MA LAIR, SME-505</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD ESCORT",
+      "ENGINE": "1.8",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "SME-505",
+      "CODE": "LAIR",
+      "NUMBER PARTS": "XS4F-12A650-MA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:11:08.089Z",
+    "model": "mistral:7b",
+    "durationMs": 11081,
+    "priceIncrement": 100
+  }
+}

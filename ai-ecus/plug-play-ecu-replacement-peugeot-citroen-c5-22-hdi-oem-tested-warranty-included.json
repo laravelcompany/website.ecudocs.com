@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for PEUGEOT, CITROEN C5 2.2 HDI - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-citroen-c5-22-hdi-oem-tested-warranty-included",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your PEUGEOT, CITROEN C5 2.2 HDI. OEM tested and covered by a 6-month warranty.",
+  "price": "€200.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT, CITROEN C5 2.2 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT C5 HDI",
+    "Bosch ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and used in good condition ECU Engine Controller is a reliable replacement for your PEUGEOT, CITROEN C5 2.2 HDI.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PEUGEOT, CITROEN C5</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.2 HDI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>0 281 011 362</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>96 509 315 80</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT, CITROEN C5 2.2 HDI, BOSCH 0 281 011 362, BOSCH 0281011362, 96 509 315 80, 9650931580",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT%2C-CITROEN-C5-2.2-HDI%2C-BOSCH-0-281-011-362%2C-BOSCH-0281011362%2C-96-509-315-80%2C-9650931580/37589",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "381D-34018_20130716122230",
+    "sku": "381D-34018_20130716122230",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT, CITROEN C5 2.2 HDI, BOSCH 0 281 011 362, BOSCH 0281011362, 96 509 315 80, 9650931580</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT, CITROEN C5",
+      "ENGINE": "2.2 HDI",
+      "NUMBER MANUFACTURER": "0 281 011 362",
+      "NUMBER PARTS": "96 509 315 80",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:35:51.024Z",
+    "model": "mistral:7b",
+    "durationMs": 10506,
+    "priceIncrement": 100
+  }
+}

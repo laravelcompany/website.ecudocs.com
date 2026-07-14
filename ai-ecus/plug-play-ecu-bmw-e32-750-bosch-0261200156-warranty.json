@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E32 750 OEM Tested - Bosch 0261200156 - Warranty Included",
+  "slug": "plug-play-ecu-bmw-e32-750-bosch-0261200156-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for BMW E32 750, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E32 750",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E32 750",
+    "Bosch 0261200156"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for BMW E32 750 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW E32 750</td></tr>\n        <tr><th>YEAR</th><td>1992</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0261200156</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific ECU programming requirements. Always consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E32 750, BOSCH 0 261 200 156, 0261200156",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E32-750%2C-BOSCH-0-261-200-156%2C-0261200156/56464",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2742-32626_20140519103830",
+    "sku": "2742-32626_20140519103830",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E32 750, BOSCH 0 261 200 156, 0261200156</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_051267f10a63daac92e8538724c6525d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_fa59dac626607b58bfe7b1f56af416c2_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6a52c55f0a218b51800f7ad1b6a7daba_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_321947f6ee166473413216387743f06d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E32 750",
+      "YEAR": "1992",
+      "NUMBER PARTS": "0261200156",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:23:58.438Z",
+    "model": "mistral:7b",
+    "durationMs": 8320,
+    "priceIncrement": 100
+  }
+}

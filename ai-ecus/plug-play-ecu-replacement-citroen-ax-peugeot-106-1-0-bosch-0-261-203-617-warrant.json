@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - CITROEN AX, PEUGEOT 106 1.0 BOSCH 0 261 203 617 OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-ax-peugeot-106-1-0-bosch-0-261-203-617-warrant",
+  "metaDescription": "OEM tested ECU replacement for CITROEN AX, PEUGEOT 106 1.0 BOSCH 0 261 203 617 with 6-month warranty and Plug & Play feature.",
+  "price": "€100.00",
+  "excerpt": "OEM tested ECU replacement for CITROEN AX, PEUGEOT 106 1.0 BOSCH 0 261 203 617.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen AX",
+    "Peugeot 106",
+    "Bosch 0 261 203 617"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for CITROEN AX, PEUGEOT 106 1.0 BOSCH 0 261 203 617 is a reliable solution backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used Original in Good Condition</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITOREN AX, PEUGEOT 106</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.0</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 203 617</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>MA3.0 65</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and usage history. Always consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITOREN AX, PEUGEOT 106 1.0, BOSCH 0 261 203 617, 0261203617, 96 226 777 80, 9622677780, MA3.0 65",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITOREN-AX%2C-PEUGEOT-106-1.0%2C-BOSCH-0-261-203-617%2C-0261203617%2C-96-226-777-80%2C-9622677780%2C-MA3.0-65/46308",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "431D-1246E",
+    "sku": "431D-1246E",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITOREN AX, PEUGEOT 106 1.0, BOSCH 0 261 203 617, 0261203617, 96 226 777 80, 9622677780, MA3.0 65</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITOREN AX, PEUGEOT 106",
+      "ENGINE": "1.0",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 617",
+      "NUMBER PARTS": "MA3.0 65",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:15:06.551Z",
+    "model": "mistral:7b",
+    "durationMs": 12429,
+    "priceIncrement": 100
+  }
+}

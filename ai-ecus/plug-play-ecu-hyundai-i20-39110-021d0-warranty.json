@@ -1,0 +1,47 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Hyundai i20 (39110-021D0, 39110021D0, 9030933656KB) - 6-month Warranty",
+  "slug": "plug-play-ecu-hyundai-i20-39110-021d0-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for your Hyundai i20. OEM part, 6-month warranty, fast dispatch in EU.",
+  "price": "€275.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Hyundai i20",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai i20",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is a reliable solution for your Hyundai i20.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM part for guaranteed fitment</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>HYUNDAI I20</td></tr>\n        <tr><th>YEAR</th><td>2008-</td></tr>\n        <tr><th>NUMBER PARTS</th><td>9030933656KB</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Hyundai i20 models from 2008 onwards. Fitment caution may apply, please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI I20 39110-021D0, 39110021D0, 9030933656KB",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-I20-39110-021D0%2C-39110021D0%2C-9030933656KB/56316",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Kefico",
+    "productCode": "C147-8654D_20140516112458",
+    "sku": "C147-8654D_20140516112458",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI I20 39110-021D0, 39110021D0, 9030933656KB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI I20",
+      "YEAR": "2008-",
+      "NUMBER PARTS": "9030933656KB",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:42:57.686Z",
+    "model": "mistral:7b",
+    "durationMs": 9976,
+    "priceIncrement": 100
+  }
+}

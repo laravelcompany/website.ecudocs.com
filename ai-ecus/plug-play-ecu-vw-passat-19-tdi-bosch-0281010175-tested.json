@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - VW Passat 1.9 TDI Bosch 0281010175, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-vw-passat-19-tdi-bosch-0281010175-tested",
+  "metaDescription": "Expertly tested ECU replacement for VW Passat 1.9 TDI (Bosch 0281010175). Plug & Play, OEM certified, and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for VW Passat 1.9 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "VW Passat",
+    "1.9 TDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU replacement is suitable for VW Passat 1.9 TDI (Bosch 0281010175). It's a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested and Certified</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>VW VOLKSWAGEN PASSAT</td><td>1.9 TDI</td><td>1999</td><td>038 906 019 AC</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VW VOLKSWAGEN PASSAT 1.9 TDI BOSCH 0 281 010 175, 0281010175, 038 906 019 AC, 038906019AC",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VW-VOLKSWAGEN-PASSAT-1.9-TDI-BOSCH-0-281-010-175%2C-0281010175%2C-038-906-019-AC%2C-038906019AC-/52558",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5A27-3491E_20140311193551",
+    "sku": "5A27-3491E_20140311193551",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  VW VOLKSWAGEN PASSAT 1.9 TDI BOSCH 0 281 010 175, 0281010175, 038 906 019 AC, 038906019AC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VW VOLKSWAGEN PASSAT",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "1999",
+      "NUMBER PARTS": "038906019AC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:28:08.026Z",
+    "model": "mistral:7b",
+    "durationMs": 9233,
+    "priceIncrement": 100
+  }
+}

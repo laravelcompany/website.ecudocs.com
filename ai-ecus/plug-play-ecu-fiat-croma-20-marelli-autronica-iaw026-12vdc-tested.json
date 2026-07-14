@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Croma 2.0 IAW 02.6, Marelli Autronica IAW026, 12V.DC - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-fiat-croma-20-marelli-autronica-iaw026-12vdc-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Fiat Croma 2.0, Marelli Autronica IAW 02.6, IAW026, 12V.DC. Plug & Play replacement with 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "OEM tested ECU for Fiat Croma 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Croma",
+    "Marelli Autronica",
+    "IAW 02.6"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Fiat Croma 2.0, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT CROMA</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>IAW 02.6</td></tr>\n        <tr><th>NUMBER PARTS</th><td>12V.DC</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT CROMA 2.0, IAW 02.6, IAW026, 12V.DC",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-CROMA-2.0%2C-IAW-02.6%2C-IAW026%2C-12V.DC-/46880",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Marelli Autronica",
+    "productCode": "D6C3-612FF",
+    "sku": "D6C3-612FF",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT CROMA 2.0, IAW 02.6, IAW026, 12V.DC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_38ac00d5ef619ec660cb9bd84c7323e7_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_edbd876bf7580ef8c66de7000d23477e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT CROMA",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "IAW 02.6",
+      "NUMBER PARTS": "12V.DC",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:32:19.803Z",
+    "model": "mistral:7b",
+    "durationMs": 9001,
+    "priceIncrement": 100
+  }
+}

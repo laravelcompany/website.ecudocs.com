@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN MICRA 1.2 OEM Engine Controller (MEC37-300 YK, MEC37300, MEC37-300 G2, MEC37300G2) - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-nissan-mica-1-2-hitachi-mec37-300-oem-tested-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Replacement for NISSAN MICRA 1.2 with OEM Testing and 6-month warranty. Fast dispatch within EU.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN MICRA 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Micra",
+    "Hitachi",
+    "MEC37-300 YK",
+    "MEC37300"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for NISSAN MICRA 1.2 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>6-month Warranty</li><li>Plug & Play</li><li>Ready for programming</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th></tr></thead>\n<tbody><tr><td>ECU ENGINE CONTROLLER</td><td>NISSAN MICRA</td><td>1.2</td><td>MEC37-300 YK, MEC37300</td><td>MEC37-300 G2, MEC37300G2</td><td>Plug & Play / Locked / Ready for programming</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle's specifications and region. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN MICRA 1.2 MEC37-300 YK, MEC37300, MEC37-300 G2, MEC37300G2",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-MICRA-1.2-MEC37-300-YK%2C-MEC37300%2C-MEC37-300-G2%2C-MEC37300G2/39988",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "356C-4307A_20130817135831",
+    "sku": "356C-4307A_20130817135831",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN MICRA 1.2 MEC37-300 YK, MEC37300, MEC37-300 G2, MEC37300G2</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN MICRA",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "MEC37-300 YK, MEC37300",
+      "NUMBER PARTS": "MEC37-300 G2, MEC37300G2",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:19:58.852Z",
+    "model": "mistral:7b",
+    "durationMs": 9579,
+    "priceIncrement": 100
+  }
+}

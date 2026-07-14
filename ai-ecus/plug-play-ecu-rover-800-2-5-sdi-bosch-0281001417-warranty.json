@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Rover 800 2.5 SDI Bosch 0281001417, Warranty Included",
+  "slug": "plug-play-ecu-rover-800-2-5-sdi-bosch-0281001417-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Rover 800 2.5 SDI Bosch 0281001417, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Rover 800 2.5 SDI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 800",
+    "Bosch",
+    "0281001417"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is suitable for Rover 800 2.5 SDI engine and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">...(technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Rover 800 2.5 SDI engine. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 800 2.5 SDI BOSCH 0281001417, 0 281 001 417 TYPE 4110 MSBi00380",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-800-2.5-SDI-BOSCH-0281001417%2C-0-281-001-417-TYPE-4110-MSBi00380/28383",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D15C-8743E_20120826190237",
+    "sku": "D15C-8743E_20120826190237",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 800 2.5 SDI BOSCH 0281001417, 0 281 001 417 TYPE 4110 MSBi00380</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 800",
+      "ENGINE": "2.5 SDI",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 417",
+      "NUMBER PARTS": "MSBi00380",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:34:03.525Z",
+    "model": "mistral:7b",
+    "durationMs": 6678,
+    "priceIncrement": 100
+  }
+}

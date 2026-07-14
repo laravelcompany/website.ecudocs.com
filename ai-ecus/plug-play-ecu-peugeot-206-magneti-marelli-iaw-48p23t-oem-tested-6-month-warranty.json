@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - Peugeot 206 Magneti Marelli IAW 48P2.3T, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-peugeot-206-magneti-marelli-iaw-48p23t-oem-tested-6-month-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Peugeot 206 by Magneti Marelli IAW 48P2.3T, 9649140480. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 206",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 206",
+    "Magneti Marelli IAW 48P2.3T"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Peugeot 206 by Magneti Marelli IAW 48P2.3T offers reliable performance and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used, Original in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Details</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><td>BRAND AND MODEL</td><td>PEUGEOT 206 MAGNETI MARELLI IAW 48P2.3T</td></tr>\n        <tr><td>NUMBER PARTS</td><td>9649140480</td></tr>\n        <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n        <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n      </tbody>\n    </table></section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery and a 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot 206. Fitment caution may apply, please consult our experts for assistance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 206 MAGNETI MARELLI IAW 48P2.3T, IAW48P23T, 9649140480",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-206-MAGNETI-MARELLI-IAW-48P2.3T%2C-IAW48P23T%2C-9649140480/106449",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "FC5A-981EF_20170830153756",
+    "sku": "FC5A-981EF_20170830153756",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 206 MAGNETI MARELLI IAW 48P2.3T, IAW48P23T, 9649140480</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 206",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 48P2.3T",
+      "NUMBER PARTS": "9649140480",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:52:31.324Z",
+    "model": "mistral:7b",
+    "durationMs": 11276,
+    "priceIncrement": 100
+  }
+}

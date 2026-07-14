@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Audi A4 1.8T Turbo Bosch 0 261 208 230, 1039SA02991 - Used in Good Condition",
+  "slug": "plug-play-ecu-audi-a4-1-8t-bosch-0261208230-used",
+  "metaDescription": "OEM tested and Plug & Play ECU replacement for Audi A4 1.8T Turbo (2002-2004). Used in good condition, backed by a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU replacement for Audi A4 1.8T Turbo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "1.8T Turbo",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for the Audi A4 1.8T Turbo (2002-2004) is expertly inspected, tested, and guaranteed to perform optimally.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>PARTS</td>\n<td>ECU ENGINE CONTROLLER</td>\n</tr>\n<tr>\n<td>BRAND AND MODEL</td>\n<td>AUDI A4</td>\n</tr>\n<tr>\n<td>ENGINE</td>\n<td>1.8T, 1.8 TURBO</td>\n</tr>\n<tr>\n<td>YEAR</td>\n<td>2002-2004</td>\n</tr>\n<tr>\n<td>NUMBER MANUFACTURER</td>\n<td>BOSCH 0 261 208 230</td>\n</tr>\n<tr>\n<td>NUMBER PARTS</td>\n<td>1039SA02991</td>\n</tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific ECU programming requirements. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 1.8T 1.8 TURBO 8E0 909 518 AK, 8E0909518AK, BOSCH 0 261 208 230, 0261208230, 1039SA02991",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-1.8T-1.8-TURBO-8E0-909-518-AK%2C-8E0909518AK%2C-BOSCH-0-261-208-230%2C-0261208230%2C-1039SA02991-/12281",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FBED-491B0",
+    "sku": "FBED-491B0",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 1.8T 1.8 TURBO 8E0 909 518 AK, 8E0909518AK, BOSCH 0 261 208 230, 0261208230, 1039SA02991 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "1.8T, 1.8 TURBO",
+      "YEAR": "2002-2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 208 230",
+      "NUMBER PARTS": "1039SA02991",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:59:29.076Z",
+    "model": "mistral:7b",
+    "durationMs": 10832,
+    "priceIncrement": 100
+  }
+}

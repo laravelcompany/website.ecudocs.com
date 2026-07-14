@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Mazda 323 1.3 B33J EGI - Denso 279700-0182",
+  "slug": "plug-play-ecu-mazda-323-b33j-denso-279700-0182",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Mazda 323 1.3 B33J EGI by Denso. 6-month warranty and fast dispatch.",
+  "price": "€109.00",
+  "excerpt": "Plug & Play ECU Replacement for Mazda 323 1.3 B33J EGI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mazda 323",
+    "Denso",
+    "B33J EGI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Mazda 323 1.3 B33J EGI is a reliable solution, backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">...(technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mazda 323 1.3 B33J EGI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA 323 1.3 B33J EGI B33J18881A, B33J 18 881 A, 279700-0182, 2797000182",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-323-1.3-B33J-EGI-B33J18881A%2C-B33J-18-881-A%2C-279700-0182%2C-2797000182-/16899",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "680E-74953",
+    "sku": "680E-74953",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA 323 1.3 B33J EGI B33J18881A, B33J 18 881 A, 279700-0182, 2797000182 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA 323",
+      "ENGINE": "1.3",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "B33J 18 881 A",
+      "NUMBER PARTS": "279700-0182",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:51:50.261Z",
+    "model": "mistral:7b",
+    "durationMs": 6416,
+    "priceIncrement": 100
+  }
+}

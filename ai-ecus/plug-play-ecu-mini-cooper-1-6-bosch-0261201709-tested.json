@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mini Cooper 1.6 Bosch 0 261 201 709, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-mini-cooper-1-6-bosch-0261201709-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Mini Cooper 1.6 Bosch 0 261 201 709, DME 7 600 076. Plug & Play replacement with 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM tested ECU for Mini Cooper 1.6 Bosch 0 261 201 709",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch DME 7 600 076",
+    "Mini Cooper"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Mini Cooper 1.6 Bosch 0 261 201 709 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <thead>\n      <tr>\n        <th>Specification</th>\n        <th>Value</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><td>BRAND AND MODEL</td><td>MINI COOPER</td></tr>\n      <tr><td>ENGINE</td><td>1.6</td></tr>\n      <tr><td>YEAR</td><td>2006</td></tr>\n      <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 201 709</td></tr>\n      <tr><td>NUMBER PARTS</td><td>DME 7 600 076</td></tr>\n      <tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n      <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n      <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n    </tbody>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mini Cooper 1.6 Bosch engine. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MINI COOPER 1.6 BOSCH 0 261 201 709, 0261201709, DME 7 600 076, DME7600076, 7600076",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MINI-COOPER-1.6-BOSCH-0-261-201-709%2C-0261201709%2C-DME-7-600-076%2C-DME7600076%2C-7600076-/91141",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "40AE-504B0_20160515143515",
+    "sku": "40AE-504B0_20160515143515",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MINI COOPER 1.6 BOSCH 0 261 201 709, 0261201709, DME 7 600 076, DME7600076, 7600076 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MINI COOPER",
+      "ENGINE": "1.6",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 201 709",
+      "NUMBER PARTS": "DME 7 600 076",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:42:56.223Z",
+    "model": "mistral:7b",
+    "durationMs": 11514,
+    "priceIncrement": 100
+  }
+}

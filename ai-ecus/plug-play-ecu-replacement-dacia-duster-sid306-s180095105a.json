@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Dacia Duster SID306 S180095105A, Warranty Included",
+  "slug": "plug-play-ecu-replacement-dacia-duster-sid306-s180095105a",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for your Dacia Duster SID306. OEM tested, warranty included, and fast shipping.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Dacia Duster SID306",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Dacia Duster SID306",
+    "OEM part",
+    "Used OEM"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for your Dacia Duster SID306 is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used OEM Part</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>DACIA DUSTER</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SID306 S180095105 A</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>237101496R</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Dacia Duster SID306 only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DACIA DUSTER SID306 S180095105 A, S180095105A, 237101496R",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DACIA-DUSTER-SID306-S180095105-A%2C-S180095105A%2C-237101496R/107091",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "879D-312A0_20171025113153",
+    "sku": "879D-312A0_20171025113153",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DACIA DUSTER SID306 S180095105 A, S180095105A, 237101496R</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_940ccab677b4e71b1b7adef258008cf1_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_431c5065b8dea27725a645ce340ae03f_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DACIA DUSTER",
+      "NUMBER MANUFACTURER": "SID306 S180095105 A",
+      "NUMBER PARTS": "237101496R",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:54:06.992Z",
+    "model": "mistral:7b",
+    "durationMs": 8419,
+    "priceIncrement": 100
+  }
+}

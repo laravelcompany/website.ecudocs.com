@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E39/E46 Siemens 5WK90329 DME MS42 1 430 844, Tested & OEM Guaranteed",
+  "slug": "plug-play-ecu-bmw-e39-e46-siemens-5wk90329-dme-ms42-1-430-844-tested",
+  "metaDescription": "OEM Tested ECU Replacement for BMW E39/E46 Siemens 5WK90329 DME MS42 1 430 844, Plug & Play, 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested ECU Replacement for BMW E39/E46 Siemens 5WK90329 DME MS42 1 430 844.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E39/E46",
+    "Siemens 5WK90329",
+    "DME MS42"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and guaranteed ECU replacement for BMW E39/E46 Siemens 5WK90329 DME MS42 1 430 844 offers a Plug & Play solution with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Guaranteed</li>\n        <li>Plug & Play Solution</li>\n        <li>6-Month Warranty</li>\n        <li>Locked / Ready for Programming</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>BMW E39 E46</td></tr>\n            <tr><td>YEAR</td><td>1999</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>SIEMENS 5WK90329</td></tr>\n            <tr><td>NUMBER PARTS</td><td>1 430 844</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>Locked / Ready for programming</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with BMW E39/E46 models. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E39 E46 SIEMENS 5WK90329 INDEX 2 DME MS42 1 430 844, 1430844",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E39-E46-SIEMENS-5WK90329-INDEX-2-DME-MS42-1-430-844%2C-1430844-/16304",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "D805-770FC",
+    "sku": "D805-770FC",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E39 E46 SIEMENS 5WK90329 INDEX 2 DME MS42 1 430 844, 1430844  </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E39 E46",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK90329",
+      "NUMBER PARTS": "1 430 844",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:29:56.397Z",
+    "model": "mistral:7b",
+    "durationMs": 12793,
+    "priceIncrement": 100
+  }
+}

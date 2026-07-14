@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A4 3.0 TDI - Bosch 0281013191",
+  "slug": "plug-play-ecu-audi-a4-3-0-tdi-bosch-0281013191",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Audi A4 3.0 TDI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A4 3.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "3.0 TDI",
+    "Bosch",
+    "0281013191"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller is a reliable replacement for your Audi A4 3.0 TDI.</section>\n<section class=\"features\"><ul><li>OEM Tested and Certified</li><li>Plug & Play Installation</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 3.0 TDI 8E0910401P, 8E0 910 401 P, 8E0907401AL, 8E0 907 401 AL BOSCH 0281013191, 0 281 013 191",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-3.0-TDI-8E0910401P%2C-8E0-910-401-P%2C-8E0907401AL%2C-8E0-907-401-AL-BOSCH-0281013191%2C-0-281-013-191/30967",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2786-29484_20121006122522",
+    "sku": "2786-29484_20121006122522",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 3.0 TDI 8E0910401P, 8E0 910 401 P, 8E0907401AL, 8E0 907 401 AL BOSCH 0281013191, 0 281 013 191</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "3.0 TDI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 191",
+      "NUMBER PARTS": "8E0 907 401 AL",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:13:41.125Z",
+    "model": "mistral:7b",
+    "durationMs": 6104,
+    "priceIncrement": 100
+  }
+}

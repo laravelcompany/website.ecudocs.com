@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Skoda Superb 1.6 TDI Continental 5WP42678 AA - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-skoda-superb-16-tdi-continental-5wp42678-aa",
+  "metaDescription": "Get a tested and reliable ECU Engine Controller for your Skoda Superb 1.6 TDI Continental. Plug & Play, OEM Tested, and backed by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Skoda Superb 1.6 TDI Continental",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA SUPERB",
+    "1.6 TDI",
+    "CONTINENTAL",
+    "5WP42678 AA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Skoda Superb 1.6 TDI Continental ensures optimal engine performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM Tested for guaranteed fitment</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SKODA SUPERB</td></tr>\n        <tr><th>ENGINE</th><td>1.6 TDI</td></tr>\n        <tr><th>YEAR</th><td>2010</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>CONTINENTAL 5WP42678 AA</td></tr>\n        <tr><th>NUMBER PARTS</th><td>03L 906 023 JH</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Skoda Superb 1.6 TDI Continental models only. Fitment may vary depending on the specific vehicle configuration.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA SUPERB 1.6 TDI CONTINENTAL 5WP42678 AA, 5WP42678AA, 03L 906 023 JJ, 03L906023JJ, 03L906023JH, SIMOS PCR 2.1",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-SUPERB-1.6-TDI-CONTINENTAL-5WP42678-AA%2C-5WP42678AA%2C-03L-906-023-JJ%2C-03L906023JJ%2C-03L906023JH%2C-SIMOS-PCR-2.1-/92540",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "395C-773F7_20160601133705",
+    "sku": "395C-773F7_20160601133705",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA SUPERB 1.6 TDI CONTINENTAL 5WP42678 AA, 5WP42678AA, 03L 906 023 JJ, 03L906023JJ, 03L906023JH, SIMOS PCR 2.1 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA SUPERB",
+      "ENGINE": "1.6 TDI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "CONTINENTAL 5WP42678 AA",
+      "NUMBER PARTS": "03L 906 023 JH",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:43:10.792Z",
+    "model": "mistral:7b",
+    "durationMs": 11133,
+    "priceIncrement": 100
+  }
+}

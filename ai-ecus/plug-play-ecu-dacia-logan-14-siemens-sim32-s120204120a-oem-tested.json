@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Dacia Logan 1.4 Siemens SIM32 S120204120A, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-dacia-logan-14-siemens-sim32-s120204120a-oem-tested",
+  "metaDescription": "Buy a tested Plug & Play ECU Engine Controller for Dacia Logan 1.4 with Siemens SIM32 S120204120A, backed by a 6-month warranty and fast shipping.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU replacement for Dacia Logan 1.4 with Siemens SIM32 S120204120A",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Dacia Logan",
+    "Siemens SIM32",
+    "1.4 Engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for Dacia Logan 1.4 with Siemens SIM32 S120204120A offers a reliable replacement solution, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>12-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>DACIA LOGAN</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS SIM32 S120204120 A</td></tr>\n        <tr><th>NUMBER PARTS</th><td>82 006 726 44</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DACIA LOGAN 1.4 SIEMENS SIM32 S120204120A, S120204120 A, 8200672654 8200672644",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DACIA-LOGAN-1.4-SIEMENS-SIM32-S120204120A%2C-S120204120-A%2C-8200672654-8200672644/32624",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "DF5E-363D0",
+    "sku": "DF5E-363D0",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DACIA LOGAN 1.4 SIEMENS SIM32 S120204120A, S120204120 A, 8200672654 8200672644</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DACIA LOGAN",
+      "ENGINE": "1.4",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "SIEMENS SIM32 S120204120 A",
+      "NUMBER PARTS": "82 006 726 44",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:54:19.689Z",
+    "model": "mistral:7b",
+    "durationMs": 11696,
+    "priceIncrement": 100
+  }
+}

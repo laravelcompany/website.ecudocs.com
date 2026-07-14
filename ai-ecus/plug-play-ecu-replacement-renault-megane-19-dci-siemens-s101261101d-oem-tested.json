@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Renault Megane 1.9 DCI (Siemens S101261101D) - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-megane-19-dci-siemens-s101261101d-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Renault Megane 1.9 DCI (Siemens S101261101D) - OEM tested, warranty included, and fast shipping.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Megane 1.9 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane",
+    "1.9 DCI",
+    "Siemens S101261101D"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller for Renault Megane 1.9 DCI (Siemens S101261101D) is a reliable solution to replace your faulty or damaged ECU.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast shipping within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>RENAULT MEGANE</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 DCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001-2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS S101261101 D</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>7700854851</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Fast shipping within EU, 12-month warranty included.</section>\n<section class=\"compatibility\">This ECU is compatible with Renault Megane 1.9 DCI (2001-2003). Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE SIEMENS S101261101 D, S101261101D, 7700742849, 7700854851",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-SIEMENS-S101261101-D%2C-S101261101D%2C-7700742849%2C-7700854851-/61460",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "CD27-84215_20140728191011",
+    "sku": "CD27-84215_20140728191011",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE SIEMENS S101261101 D, S101261101D, 7700742849, 7700854851 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE",
+      "ENGINE": "1.9 DCI",
+      "YEAR": "2001-2003",
+      "NUMBER MANUFACTURER": "SIEMENS S101261101 D",
+      "NUMBER PARTS": "7700854851",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:00:55.289Z",
+    "model": "mistral:7b",
+    "durationMs": 11559,
+    "priceIncrement": 100
+  }
+}

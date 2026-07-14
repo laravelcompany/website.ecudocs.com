@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Dacia S110140011A, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-dacia-s110140011a-oem-tested-warranty-included",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Renault Dacia, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Dacia",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Dacia S110140011A",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Renault Dacia is a tested and reliable replacement part, ensuring seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>Original OEM Part</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>RENAULT DACIA</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>S110140011 A</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>8200483732</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Renault Dacia models. Always confirm fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT DACIA S110140011 A, S110140011A, 8200483732",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-DACIA-S110140011-A%2C-S110140011A%2C-8200483732/107766",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "FF39-5105D_20171208123155",
+    "sku": "FF39-5105D_20171208123155",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT DACIA S110140011 A, S110140011A, 8200483732</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a9081a36c6605091db7301831bcd08cb_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_45e7b4046f54aad9f88a74f0fc643170_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT DACIA",
+      "NUMBER MANUFACTURER": "S110140011 A",
+      "NUMBER PARTS": "8200483732",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:16:44.703Z",
+    "model": "mistral:7b",
+    "durationMs": 8118,
+    "priceIncrement": 100
+  }
+}

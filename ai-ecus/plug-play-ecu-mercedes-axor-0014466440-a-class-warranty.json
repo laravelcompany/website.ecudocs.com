@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes AXOR 0014466440, A-Class - 6-Month Warranty",
+  "slug": "plug-play-ecu-mercedes-axor-0014466440-a-class-warranty",
+  "metaDescription": "OEM tested ECU engine controller for Mercedes AXOR 0014466440, A-Class. Plug & Play replacement with 6-month warranty. Fast dispatch within EU.",
+  "price": "€1100.00",
+  "excerpt": "OEM tested ECU engine controller for Mercedes AXOR 0014466440, A-Class",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes AXOR",
+    "A-Class",
+    "Temic"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for Mercedes AXOR 0014466440, A-Class is a reliable replacement solution, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for optimal performance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES AXOR</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>A 001 446 64 40</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>0014466440</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES AXOR 0014466440, 001 446 64 40, A0014466440",
+    "price": "€1,000.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-AXOR-0014466440%2C-001-446-64-40%2C-A0014466440/29657",
+    "priceCurrency": "EUR",
+    "netPrice": "€813.01",
+    "category": "ECU Engine control unit",
+    "brand": "Temic",
+    "productCode": "56A9-33520_20120926194941",
+    "sku": "56A9-33520_20120926194941",
+    "availability": "Shortage",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES AXOR 0014466440, 001 446 64 40, A0014466440</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES AXOR",
+      "NUMBER MANUFACTURER": "A 001 446 64 40",
+      "NUMBER PARTS": "0014466440",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:14:43.505Z",
+    "model": "mistral:7b",
+    "durationMs": 9483,
+    "priceIncrement": 100
+  }
+}

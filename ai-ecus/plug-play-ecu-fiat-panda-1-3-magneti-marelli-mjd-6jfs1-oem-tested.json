@@ -1,0 +1,56 @@
+{
+  "title": "Plug & Play ECU Replacement Fiat Panda 1.3 Magneti Marelli MJD 6JF.S1 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-panda-1-3-magneti-marelli-mjd-6jfs1-oem-tested",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Replacement for your Fiat Panda 1.3 with Magneti Marelli MJD 6JF.S1. Enjoy fast shipping and a 6-month warranty.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Panda 1.3 by Magneti Marelli",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Panda",
+    "Magneti Marelli",
+    "MJD 6JF.S1"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Replacement for your Fiat Panda 1.3 by Magneti Marelli ensures seamless engine control.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM tested and certified for optimal performance</li>\n<li>6-month warranty for peace of mind</li>\n<li>Used in good condition</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT PANDA</td></tr>\n<tr><td>ENGINE</td><td>1.3</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>MAGNETI MARELLI MJD 6JF.S1</td></tr>\n<tr><td>NUMBER PARTS</td><td>71600.005.04</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility before installation. Consult with a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PANDA 1.3 MAGNETI MARELLI MJD 6JF.S1, MJD6JFS1, FGP 51775008, 71600.005.04, 7160000504",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PANDA-1.3-MAGNETI-MARELLI-MJD-6JF.S1%2C-MJD6JFS1%2C-FGP-51775008%2C-71600.005.04%2C-7160000504/73940",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "C041-627A3_20150323192011",
+    "sku": "C041-627A3_20150323192011",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PANDA 1.3 MAGNETI MARELLI MJD 6JF.S1, MJD6JFS1, FGP 51775008, 71600.005.04, 7160000504</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_cfc145dcc1617e3cb6a03b13e9149631_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_188d9c3f11a236c457ca5bb375c92dac_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_8e4437eb5de14fbfae87973bd7bb245e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_5548314118720fefac691e760946c945_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_fefb63d85397649fc38e5894632e3e57_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PANDA",
+      "ENGINE": "1.3",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 6JF.S1",
+      "NUMBER PARTS": "71600.005.04",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:13:34.539Z",
+    "model": "mistral:7b",
+    "durationMs": 10880,
+    "priceIncrement": 100
+  }
+}

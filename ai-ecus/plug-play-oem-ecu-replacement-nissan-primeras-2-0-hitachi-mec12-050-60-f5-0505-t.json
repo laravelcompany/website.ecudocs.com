@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for NISSAN PRIMERA 2.0 - Hitachi MEC12-050 60 F5 0505 - Tested & Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-nissan-primeras-2-0-hitachi-mec12-050-60-f5-0505-t",
+  "metaDescription": "Buy this Plug & Play OEM ECU Engine Controller for NISSAN PRIMERA 2.0, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€30.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for NISSAN PRIMERA 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hitachi MEC12-050 60 F5 0505",
+    "Nissan Primeras 2.0"
+  ],
+  "description": "<section class=\"overview\">This OEM replacement ECU engine controller for NISSAN PRIMERA 2.0 is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play</li>\n      <li>OEM Tested</li>\n      <li>6-month Warranty</li>\n      <li>Used in Good Condition</li>\n      <li>Ready for Programming</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specifications</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>PARTS</td>\n          <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n          <td>BRAND AND MODEL</td>\n          <td>NISSAN PRIMERA</td>\n        </tr>\n        <tr>\n          <td>ENGINE</td>\n          <td>2.0</td>\n        </tr>\n        <tr>\n          <td>YEAR</td>\n          <td>1996-99</td>\n        </tr>\n        <tr>\n          <td>NUMBER MANUFACTURER</td>\n          <td>MEC12050 60</td>\n        </tr>\n        <tr>\n          <td>NUMBER PARTS</td>\n          <td>MEC12-050 60 F5 0505</td>\n        </tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 MEC12050 60, MEC12-050 60 F5 0505",
+    "price": "€20.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-2.0-MEC12050-60%2C-MEC12-050-60-F5-0505/28452",
+    "priceCurrency": "EUR",
+    "netPrice": "€16.26",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "7325-7579C_20120828164211",
+    "sku": "7325-7579C_20120828164211",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 MEC12050 60, MEC12-050 60 F5 0505</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "2.0",
+      "YEAR": "1996-99",
+      "NUMBER MANUFACTURER": "MEC12050 60",
+      "NUMBER PARTS": "MEC12-050 60 F5 0505",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:34:29.426Z",
+    "model": "mistral:7b",
+    "durationMs": 11390,
+    "priceIncrement": 100
+  }
+}

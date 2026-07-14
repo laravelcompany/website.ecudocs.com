@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Fiat 1.3 MJD - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-13-mjd-oem-tested-warranty",
+  "metaDescription": "Buy the Plug & Play ECU ENGINE CONTROLLER FIAT 1.3 MJD, thoroughly inspected and tested by a certified technician. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat 1.3 MJD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat 1.3 MJD",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU ENGINE CONTROLLER for Fiat 1.3 MJD is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Reliable Replacement</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT</td></tr>\n        <tr><th>ENGINE</th><td>1.3 MJD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MJD 6F3.Y8</td></tr>\n        <tr><th>NUMBER PARTS</th><td>51862572</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery and a 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 1.3 MJD 51862572, MJD 6F3.Y8, MJD6F3Y8",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-1.3-MJD-51862572%2C-MJD-6F3.Y8%2C-MJD6F3Y8/115738",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "9685-5138C_20190730160750",
+    "sku": "9685-5138C_20190730160750",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 1.3 MJD 51862572, MJD 6F3.Y8, MJD6F3Y8</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT",
+      "ENGINE": "1.3 MJD",
+      "NUMBER MANUFACTURER": "MJD 6F3.Y8",
+      "NUMBER PARTS": "51862572",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:08:05.036Z",
+    "model": "mistral:7b",
+    "durationMs": 9789,
+    "priceIncrement": 100
+  }
+}

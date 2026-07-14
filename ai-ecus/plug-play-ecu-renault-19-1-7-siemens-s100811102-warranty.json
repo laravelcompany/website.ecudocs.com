@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Renault 19 1.7 Siemens S100811102 F, D, C, HOM7700731802 - Warranty Included",
+  "slug": "plug-play-ecu-renault-19-1-7-siemens-s100811102-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller Renault 19 1.7 Siemens S100811102 F, D, C, HOM7700731802 with 6-month warranty. Fast dispatch within EU.",
+  "price": "€70.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Renault 19 1.7 Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault 19",
+    "Siemens S100811102"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Renault 19 1.7 Siemens is a reliable replacement part, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>RENAULT 19</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.7</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1987-1991</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS S100811102</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>HOM7700731802</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT 19 1.7 SIEMENS S100811102 F, S100811102 D, S100811102 C, HOM7700731802",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-19-1.7-SIEMENS-S100811102-F%2C-S100811102-D%2C-S100811102-C%2C-HOM7700731802/30391",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "1E85-68358_20120930205151",
+    "sku": "1E85-68358_20120930205151",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT 19 1.7 SIEMENS S100811102 F, S100811102 D, S100811102 C, HOM7700731802</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_12a751b1de7e106ed9b8a883ac045074_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_edb6cff7728ea1e76d5daa782d269431_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT 19",
+      "ENGINE": "1.7",
+      "YEAR": "1987-1991",
+      "NUMBER MANUFACTURER": "SIEMENS S100811102",
+      "NUMBER PARTS": "HOM7700731802",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:43:41.339Z",
+    "model": "mistral:7b",
+    "durationMs": 12232,
+    "priceIncrement": 100
+  }
+}

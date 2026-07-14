@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Toyota Avensis RAV-4 2.2 DENSO - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-toyota-avensis-rav-4-2-2-denso-oem-tested-warranty-inc",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Toyota Avensis RAV-4 2.2 DENSO (175800-7734, 1758007734, 89661-42C00, 8966142C00) - OEM tested, warranty included and shipped within 24–48 hours.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Toyota Avensis RAV-4 2.2 DENSO",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Avensis RAV-4",
+    "Denso",
+    "2.2 Engine"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Toyota Avensis RAV-4 2.2 DENSO is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Fast Dispatch</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>TOYOTA AVENSIS RAV-4</td></tr>\n<tr><td>ENGINE</td><td>2.2</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>DENSO 175800-7734</td></tr>\n<tr><td>NUMBER PARTS</td><td>89661-42C00</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA AVENSIS RAV-4 2.2 DENSO 175800-7734, 1758007734, 89661-42C00, 8966142C00",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-AVENSIS-RAV-4-2.2-DENSO-175800-7734%2C-1758007734%2C-89661-42C00%2C-8966142C00-/86926",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "6D60-3773A_20160225104643",
+    "sku": "6D60-3773A_20160225104643",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA AVENSIS RAV-4 2.2 DENSO 175800-7734, 1758007734, 89661-42C00, 8966142C00 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_bb05d3a49588ae5d93ae95fce532056b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a93436e3a0beb918240f60bac06aa1ce_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA AVENSIS RAV-4",
+      "ENGINE": "2.2",
+      "NUMBER MANUFACTURER": "DENSO 175800-7734",
+      "NUMBER PARTS": "89661-42C00",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:15:14.434Z",
+    "model": "mistral:7b",
+    "durationMs": 11431,
+    "priceIncrement": 100
+  }
+}

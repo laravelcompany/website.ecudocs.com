@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Panda 1.2 IAW 5SF8.E7, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-panda-iaw-5sf8e7-oem-tested-warranty",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Fiat Panda 1.2 IAW 5SF8.E7, backed by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Panda 1.2 IAW 5SF8.E7",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Panda",
+    "IAW 5SF8.E7"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is a reliable replacement for your Fiat Panda 1.2 IAW 5SF8.E7.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Compatibility</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FIAT PANDA</td></tr>\n        <tr><th>ENGINE:</th><td>1.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>IAW 5SF8.E7</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>51937624</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with our support team before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PANDA 1.2 IAW 5SF8.E7, IAW5SF8E7, 51937624",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PANDA-1.2-IAW-5SF8.E7%2C-IAW5SF8E7%2C-51937624/105442",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "261C-27567_20170530135818",
+    "sku": "261C-27567_20170530135818",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PANDA 1.2 IAW 5SF8.E7,  IAW5SF8E7, 51937624</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_d93bd71fff2b7119d6372b5565153ccb_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e3c96517f0992551b7d101f1afab9d2a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PANDA",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "IAW 5SF8.E7",
+      "NUMBER PARTS": "51937624",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:10:44.454Z",
+    "model": "mistral:7b",
+    "durationMs": 10467,
+    "priceIncrement": 100
+  }
+}

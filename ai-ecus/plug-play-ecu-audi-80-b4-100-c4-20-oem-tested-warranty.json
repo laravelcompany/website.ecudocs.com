@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi 80 B4 100 C4 2.0, 6-month Warranty - ECU Replacement",
+  "slug": "plug-play-ecu-audi-80-b4-100-c4-20-oem-tested-warranty",
+  "metaDescription": "OEM tested Plug & Play ECU Engine Controller for Audi 80 B4 100 C4 2.0, offering a 6-month warranty and fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Audi 80 B4 100 C4 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi 80 B4 100 C4",
+    "Siemens 5WP4 174",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Audi 80 B4 100 C4 2.0 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Reliable Engine Performance</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI 80 B4 100 C4</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1994</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>5WP4 174</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>039 906 024 D</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility and fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI 80 B4 100 C4 2.0 039906024D, 039 906 024 D, 5WP4174, 5WP4 174",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-80-B4-100-C4-2.0-039906024D%2C-039-906-024-D%2C-5WP4174%2C-5WP4-174/31038",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "D83A-9960D_20121006154304",
+    "sku": "D83A-9960D_20121006154304",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI 80 B4 100 C4 2.0 039906024D, 039 906 024 D, 5WP4174, 5WP4 174</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI 80 B4 100 C4",
+      "ENGINE": "2.0",
+      "YEAR": "1994",
+      "NUMBER MANUFACTURER": "5WP4 174",
+      "NUMBER PARTS": "039 906 024 D",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:38:04.301Z",
+    "model": "mistral:7b",
+    "durationMs": 11288,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - BMW 3 E36 316 1.6 Bosch 0 261 203 660, 26RT4722 - Warranty Included",
+  "slug": "plug-play-ecu-bmw-3e36-316-16-bosch-0261203660-26rt4722-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for BMW 3 E36 316 1.6 (Bosch 0 261 203 660, 26RT4722). Shipped within 24-48 hours with a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU for BMW 3 E36 316",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW 3 E36 316",
+    "Bosch",
+    "0 261 203 660",
+    "26RT4722"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement is specifically designed for BMW 3 E36 316 with a 1.6L engine.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked/Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW 3 E36 316</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>YEAR</th><td>1995-1997</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 203 660</td></tr>\n        <tr><th>NUMBER PARTS</th><td>26RT4722</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24-48 hours with EU delivery and a 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Contact us for any compatibility concerns.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW 3 E36 316 BOSCH 0 261 203 660, 0261203660, 1 432 521, 1432521 26RT4722",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-3-E36-316-BOSCH-0-261-203-660%2C-0261203660%2C-1-432-521%2C-1432521-26RT4722/16310",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "477B-376B7",
+    "sku": "477B-376B7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW 3 E36 316 BOSCH 0 261 203 660, 0261203660, 1 432 521, 1432521 26RT4722</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW 3 E36 316",
+      "ENGINE": "1.6",
+      "YEAR": "1995-1997",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 660",
+      "NUMBER PARTS": "26RT4722",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:09:19.428Z",
+    "model": "mistral:7b",
+    "durationMs": 10729,
+    "priceIncrement": 100
+  }
+}

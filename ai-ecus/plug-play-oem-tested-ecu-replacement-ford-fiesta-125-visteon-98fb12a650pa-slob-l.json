@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford Fiesta 1.25 - Visteon 98FB12A650PA SLOB LPE-627",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-fiesta-125-visteon-98fb12a650pa-slob-l",
+  "metaDescription": "Buy Plug & Play OEM Tested ECU Replacement for Ford Fiesta 1.25 by Visteon (98FB12A650PA SLOB LPE-627). Covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Fiesta 1.25",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Visteon",
+    "Ford Fiesta",
+    "98FB12A650PA"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Ford Fiesta 1.25 by Visteon (98FB12A650PA SLOB LPE-627) is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Part</li>\n        <li>Plug & Play</li>\n        <li>Locked</li>\n        <li>Ready for programming</li>\n        <li>6-month warranty</li>\n        <li>Used, original in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FIESTA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.25</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>98FB-12A650-PA</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>SLOB LPE-627</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta 1.25. Fitment caution: Ensure proper installation by a professional technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.25 98FB12A650PA, 98FB-12A650-PA SLOB LPE-627",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.25-98FB12A650PA%2C-98FB-12A650-PA-SLOB-LPE-627/118873",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "146C-31083",
+    "sku": "146C-31083",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.25 98FB12A650PA, 98FB-12A650-PA SLOB LPE-627</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.25",
+      "NUMBER MANUFACTURER": "98FB-12A650-PA",
+      "NUMBER PARTS": "SLOB LPE-627",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:18:14.077Z",
+    "model": "mistral:7b",
+    "durationMs": 11439,
+    "priceIncrement": 100
+  }
+}

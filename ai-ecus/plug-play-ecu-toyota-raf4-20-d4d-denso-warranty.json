@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Toyota RAF4 2.0 D4D DENSO - 6-month Warranty",
+  "slug": "plug-play-ecu-toyota-raf4-20-d4d-denso-warranty",
+  "metaDescription": "Expertly tested ECU Engine Controller for Toyota RAF4 2.0 D4D by Denso, offering Plug & Play installation and backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Toyota RAF4 2.0 D4D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota RAF4",
+    "2.0 D4D",
+    "Denso",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Toyota RAF4 2.0 D4D, manufactured by Denso, ensures optimal engine performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>TOYOTA RAF4</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 D4D</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>DENSO 175800-5441</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>89661-42A10</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty included.</section>\n<section class=\"compatibility\">Please ensure compatibility before purchase. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA RAF4 2.0 D4D DENSO 175800-5441, 1758005441, 89661-42A10, 8966142A10",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-RAF4-2.0-D4D-DENSO-175800-5441%2C-1758005441%2C-89661-42A10%2C-8966142A10-/92153",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "559B-61523_20160526170532",
+    "sku": "559B-61523_20160526170532",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA RAF4 2.0 D4D DENSO 175800-5441, 1758005441, 89661-42A10, 8966142A10 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA RAF4",
+      "ENGINE": "2.0 D4D",
+      "NUMBER MANUFACTURER": "DENSO 175800-5441",
+      "NUMBER PARTS": "89661-42A10",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:30:10.738Z",
+    "model": "mistral:7b",
+    "durationMs": 10206,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Escort Fiesta 1.6 Turbo, OEM Tested Bosch 0 280 800 194, V86AB12A297BA",
+  "slug": "plug-play-ecu-replacement-ford-escort-fiesta-1-6-turbo-oem-tested-bosch-0-280-80",
+  "metaDescription": "OEM tested ECU replacement for Ford Escort Fiesta 1.6 Turbo, backed by a 6-month warranty and fast dispatch.",
+  "price": "€80.00",
+  "excerpt": "Replacement ECU for Ford Escort Fiesta 1.6 Turbo, OEM tested and warrantied.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Escort Fiesta",
+    "Bosch",
+    "0 280 800 194",
+    "V86AB12A297BA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Ford Escort Fiesta 1.6 Turbo is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM quality and fitment</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Expertly inspected and tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD ESCORT FIESTA</td></tr>\n        <tr><th>ENGINE</th><td>1.6 TURBO</td></tr>\n        <tr><th>YEAR</th><td>1990-1993</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 280 800 194</td></tr>\n        <tr><th>NUMBER PARTS</th><td>V86AB12A297BA</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD ESCORT FIESTA 1.6 TURBO, BOSCH 0 280 800 194, 0280800194, V86AB12A297BA",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-ESCORT-FIESTA-1.6-TURBO%2C-BOSCH-0-280-800-194%2C-0280800194%2C-V86AB12A297BA/48067",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C142-251B9",
+    "sku": "C142-251B9",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD ESCORT FIESTA 1.6 TURBO, BOSCH 0 280 800 194, 0280800194, V86AB12A297BA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_944f4445ce9d86e219cdafa0d1d687c9_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b0ffdcb5f73e3b7a77ba0d626f09dded_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c83ff99c769a69a9fc79d0505a66cfa4_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD ESCORT FIESTA",
+      "ENGINE": "1.6 TURBO",
+      "YEAR": "1990-1993",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 800 194",
+      "NUMBER PARTS": "V86AB12A297BA",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:12:48.032Z",
+    "model": "mistral:7b",
+    "durationMs": 10748,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford S-MAX 2.0 TDCI - Delphi BG91-12A650-PJ, DCM3.5",
+  "slug": "oem-tested-plug-play-ecu-ford-s-max-2-0-tdci-delphi-bg9112a650pj-dcm3-5",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford S-MAX 2.0 TDCI from Delphi. Shipped within 24–48 hours, backed by a 6-month warranty.",
+  "price": "€540.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford S-MAX 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford S-MAX",
+    "2.0 TDCI",
+    "Delphi",
+    "BG91-12A650-PJ",
+    "DCM3.5"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford S-MAX 2.0 TDCI is a reliable solution to restore your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Design</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD S-MAX</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 TDCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BG91-12A650-PJ</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>DCM3.5</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours, EU wide with fast dispatch.</section>\n<section class=\"compatibility\">This ECU is designed for Ford S-MAX 2.0 TDCI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD S-MAX 2.0 TDCI BG91-12A650-PJ, BG9112A650PJ, 28334092, DCM3.5",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-S-MAX-2.0-TDCI-BG91-12A650-PJ%2C-BG9112A650PJ%2C-28334092%2C-DCM3.5/104696",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "6689-86728_20170322101024",
+    "sku": "6689-86728_20170322101024",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD S-MAX 2.0 TDCI BG91-12A650-PJ, BG9112A650PJ, 28334092, DCM3.5</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_003b3b629e6c84b130a2fbe99cac062d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_10b1c868374022cad58757bdefa04394_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD S-MAX",
+      "ENGINE": "2.0 TDCI",
+      "NUMBER MANUFACTURER": "BG91-12A650-PJ",
+      "NUMBER PARTS": "DCM3.5",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:54:08.969Z",
+    "model": "mistral:7b",
+    "durationMs": 9445,
+    "priceIncrement": 100
+  }
+}

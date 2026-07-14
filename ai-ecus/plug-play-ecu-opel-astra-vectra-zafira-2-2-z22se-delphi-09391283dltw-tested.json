@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Astra Vectra Zafira 2.2 Z22SE - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-astra-vectra-zafira-2-2-z22se-delphi-09391283dltw-tested",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Opel Astra Vectra Zafira 2.2 Z22SE by Delphi, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra Vectra Zafira 2.2 Z22SE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra Vectra Zafira",
+    "Delphi"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Opel Astra Vectra Zafira 2.2 Z22SE is a direct replacement, ensuring seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for reliability</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Opel Astra Vectra Zafira 2.2 Z22SE</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>OPEL ASTRA VECTRA ZAFIRA</td></tr>\n            <tr><td>ENGINE</td><td>2.2 Z22SE</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>09391283 DLTW</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is specifically designed for Opel Astra Vectra Zafira 2.2 Z22SE. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA VECTRA ZAFIRA 2.2 Z22SE 09391283 DLTW, 09391283DLTW",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-VECTRA-ZAFIRA-2.2-Z22SE-09391283-DLTW%2C-09391283DLTW/111015",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "B396-70555_20180808114833",
+    "sku": "B396-70555_20180808114833",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA VECTRA ZAFIRA 2.2 Z22SE 09391283 DLTW, 09391283DLTW</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_621d1d5996442554039ca41193aad1b5_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b38845b852dd20fa23bdf28ad8727d35_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA VECTRA ZAFIRA",
+      "ENGINE": "2.2 Z22SE",
+      "NUMBER MANUFACTURER": "09391283 DLTW",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:18:38.722Z",
+    "model": "mistral:7b",
+    "durationMs": 11874,
+    "priceIncrement": 100
+  }
+}

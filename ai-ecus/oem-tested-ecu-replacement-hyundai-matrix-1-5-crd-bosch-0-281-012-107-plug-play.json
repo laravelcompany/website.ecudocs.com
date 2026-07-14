@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested ECU Replacement Hyundai Matrix 1.5 CRD Bosch 0 281 012 107, Plug & Play",
+  "slug": "oem-tested-ecu-replacement-hyundai-matrix-1-5-crd-bosch-0-281-012-107-plug-play",
+  "metaDescription": "OEM Tested ECU Replacement for Hyundai Matrix 1.5 CRD Bosch 0 281 012 107, Plug & Play, Used in Good Condition, 6-month warranty.",
+  "price": "€275.00",
+  "excerpt": "OEM Tested ECU Replacement for Hyundai Matrix 1.5 CRD Bosch 0 281 012 107.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai Matrix",
+    "1.5 CRD",
+    "Bosch",
+    "OEM part number"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested ECU Replacement for Hyundai Matrix 1.5 CRD Bosch 0 281 012 107 is a reliable solution for your vehicle's engine control system.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play for Easy Installation</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Fast Dispatch within EU</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>HYUNDAI MATRIX</td></tr>\n<tr><td>ENGINE</td><td>1.5 CRD</td></tr>\n<tr><td>YEAR</td><td>2005</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 012 107</td></tr>\n<tr><td>NUMBER PARTS</td><td>39101-2A310</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI MATRIX 1.5 CRD BOSCH 0 281 012 107, 0281012107, 39101-2A310, 391012A310",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-MATRIX-1.5-CRD-BOSCH-0-281-012-107%2C-0281012107%2C-39101-2A310%2C-391012A310-/84715",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C125-19325_20160120111630",
+    "sku": "C125-19325_20160120111630",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI MATRIX 1.5 CRD BOSCH 0 281 012 107, 0281012107, 39101-2A310, 391012A310 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI MATRIX",
+      "ENGINE": "1.5 CRD",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 107",
+      "NUMBER PARTS": "39101-2A310",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:47:20.146Z",
+    "model": "mistral:7b",
+    "durationMs": 11927,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW X5 2.0D Bosch 0 281 011 411, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-x5-20d-bosch-0281011411-tested",
+  "metaDescription": "Expertly tested ECU Engine Controller for BMW X5 2.0D Bosch 0 281 011 411, Plug & Play, OEM quality, and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW X5 2.0D Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW X5",
+    "Bosch",
+    "0 281 011 411"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for BMW X5 2.0D Bosch 0 281 011 411 is a reliable solution, providing expert replacement and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Quality</li>\n        <li>Warranty Included</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used but in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>BMW X5</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 D</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 011 411</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>DDE 7792 025</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU in 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for BMW X5 2.0D Bosch and may require professional installation or programming.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW X5 2.0 D BOSCH 0 281 011 411, 0281011411, DDE 7792 025, DDE7792025, 7792025",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-X5-2.0-D-BOSCH-0-281-011-411%2C-0281011411%2C-DDE-7792-025%2C-DDE7792025%2C-7792025/107379",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2F1A-42811_20171109134737",
+    "sku": "2F1A-42811_20171109134737",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW X5 2.0 D BOSCH 0 281 011 411, 0281011411, DDE 7792 025, DDE7792025, 7792025</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW X5",
+      "ENGINE": "2.0 D",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 411",
+      "NUMBER PARTS": "DDE 7792 025",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:52:05.649Z",
+    "model": "mistral:7b",
+    "durationMs": 13506,
+    "priceIncrement": 100
+  }
+}

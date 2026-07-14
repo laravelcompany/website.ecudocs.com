@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford Mondeo 1.8 TDCI - Continental EU2J",
+  "slug": "plug-play-ecu-ford-mondeo-1-8-tdci-continental-eu2j",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Ford Mondeo 1.8 TDCI by Continental. EU warranty, fast dispatch.",
+  "price": "€345.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Mondeo 1.8 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "1.8 TDCI",
+    "Continental",
+    "EU2J"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Ford Mondeo 1.8 TDCI ensures reliable engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Reliable Engine Control</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>1.8 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2009</td></tr>\n        <tr><th>NUMBER PARTS</th><td>EU2J</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 1.8 TDCI 7G91-12A650-YJ, 7G9112A650YJ, 5WS40592J-T, 5WS40592JT, EU2J",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-1.8-TDCI-7G91-12A650-YJ%2C-7G9112A650YJ%2C-5WS40592J-T%2C-5WS40592JT%2C-EU2J-/56824",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "DE94-51574_20140523183244",
+    "sku": "DE94-51574_20140523183244",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  FORD MONDEO 1.8 TDCI 7G91-12A650-YJ, 7G9112A650YJ, 5WS40592J-T, 5WS40592JT, EU2J </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "1.8 TDCI",
+      "YEAR": "2009",
+      "NUMBER PARTS": "EU2J",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:59:46.887Z",
+    "model": "mistral:7b",
+    "durationMs": 8999,
+    "priceIncrement": 100
+  }
+}

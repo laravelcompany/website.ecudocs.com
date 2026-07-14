@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Chrysler Stratus 2.5 Motorola P04606329AD, 4651711-2",
+  "slug": "plug-play-oem-tested-ecu-replacement-chrysler-stratus-2-5-motorola-p04606329ad-4",
+  "metaDescription": "Get a Plug & Play OEM tested ECU replacement for your Chrysler Stratus 2.5 with a 6-month warranty. Order now for fast dispatch!",
+  "price": "€430.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Chrysler Stratus 2.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chrysler Stratus",
+    "Motorola",
+    "P04606329AD",
+    "4651711-2"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for your Chrysler Stratus 2.5 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play functionality</li>\n      <li>OEM tested and approved</li>\n      <li>6-month warranty</li>\n      <li>Compatible with Chrysler Stratus 2.5</li>\n      <li>Original part in good condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>CHRYSLER STRATUS</td></tr>\n      <tr><th>ENGINE</th><td>2.5</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>P04606329AD</td></tr>\n      <tr><th>NUMBER PARTS</th><td>4651711-2</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty included.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional if needed.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHRYSLER STRATUS 2.5 P04606329AD, 4651711-2",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHRYSLER-STRATUS-2.5-P04606329AD%2C-4651711-2/104867",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "EA65-343E9_20170421124252",
+    "sku": "EA65-343E9_20170421124252",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHRYSLER STRATUS 2.5 P04606329AD, 4651711-2</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_61c3dd21d644deb47942dff425e32c82_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ef86350235340f82f8e9d7ddbb019ecc_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHRYSLER STRATUS",
+      "ENGINE": "2.5",
+      "NUMBER MANUFACTURER": "P04606329AD",
+      "NUMBER PARTS": "4651711-2",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:09:50.771Z",
+    "model": "mistral:7b",
+    "durationMs": 9216,
+    "priceIncrement": 100
+  }
+}

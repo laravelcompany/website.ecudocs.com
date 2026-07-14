@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A4 A5 2.0 TDI - Bosch 0281016572, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-a5-2-0-tdi-bosch-0281016572-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Audi A4 A5 2.0 TDI, covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A4 A5 2.0 TDI - Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4 A5",
+    "2.0 TDI",
+    "Bosch 0281016572"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Audi A4 A5 2.0 TDI is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A4 A5</td></tr>\n        <tr><th>ENGINE</th><td>2.0 TDI</td></tr>\n        <tr><th>YEAR</th><td>2010</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 016 572</td></tr>\n        <tr><th>NUMBER PARTS</th><td>CAGE 6032</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 A5 2.0 TDI 03L906019AL, 03L 906 019AL, BOSCH 0281016572, 0 281 016 572, DIESEL EDC17CP20 CAGE 6032, 1039S39395",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-A5-2.0-TDI-03L906019AL%2C-03L-906-019AL%2C-BOSCH-0281016572%2C-0-281-016-572%2C-DIESEL-EDC17CP20-CAGE-6032%2C-1039S39395/25331",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4568-66362_20120606085819",
+    "sku": "4568-66362_20120606085819",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 A5 2.0 TDI 03L906019AL, 03L 906 019AL, BOSCH 0281016572, 0 281 016 572, DIESEL EDC17CP20 CAGE 6032, 1039S39395</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4 A5",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 572",
+      "NUMBER PARTS": "CAGE 6032",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:14:38.838Z",
+    "model": "mistral:7b",
+    "durationMs": 11185,
+    "priceIncrement": 100
+  }
+}

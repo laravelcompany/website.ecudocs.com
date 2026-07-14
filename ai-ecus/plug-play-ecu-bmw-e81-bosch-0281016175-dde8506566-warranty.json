@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for BMW E81 - Bosch 0 281 016 175, DDE 8 506 566, Warranty Included",
+  "slug": "plug-play-ecu-bmw-e81-bosch-0281016175-dde8506566-warranty",
+  "metaDescription": "Get a Plug & Play ECU Replacement for your BMW E81 with Bosch 0 281 016 175, DDE 8 506 566. OEM tested and backed by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for BMW E81",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch",
+    "BMW E81",
+    "DDE 8 506 566"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for BMW E81 is a reliable solution to any engine control unit issues. The Bosch 0 281 016 175 part is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Tested</li>\n      <li>Plug & Play</li>\n      <li>6-month Warranty</li>\n      <li>Used in Good Condition</li>\n      <li>Locked / Unlocked Option Available</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><td>BRAND AND MODEL</td><td>BMW E81</td></tr>\n        <tr><td>YEAR</td><td>2013</td></tr>\n        <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 016 175</td></tr>\n        <tr><td>NUMBER PARTS</td><td>DDE 8 506 566</td></tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific issues. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E81 BOSCH 0 281 016 175, 0281016175, DDE 8 506 566, DDE8506566, 8506566",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E81-BOSCH-0-281-016-175%2C-0281016175%2C-DDE-8-506-566%2C-DDE8506566%2C-8506566-/93148",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "24B8-5356D_20160613114221",
+    "sku": "24B8-5356D_20160613114221",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E81 BOSCH 0 281 016 175, 0281016175, DDE 8 506 566, DDE8506566, 8506566 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E81",
+      "YEAR": "2013",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 175",
+      "NUMBER PARTS": "DDE 8 506 566",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:39:32.735Z",
+    "model": "mistral:7b",
+    "durationMs": 10850,
+    "priceIncrement": 100
+  }
+}

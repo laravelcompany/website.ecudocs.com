@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Renault Sirius 32 - Siemens S110010004C, Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-for-renault-sirius-32-siemens-s110010004c",
+  "metaDescription": "Buy the tested and certified Plug & Play ECU Engine Controller for Renault Sirius 32 by Siemens. Includes a 6-month warranty and fast shipping.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Renault Sirius 32",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Sirius 32",
+    "Siemens S110010004C"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Replacement for Renault Sirius 32 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play functionality</li><li>OEM Tested</li><li>6-month warranty</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>RENAULT</td><td>S110010004C</td><td>SIRIUS 32</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Sirius 32, but always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT SIRIUS 32 S110010004C, 8200046482",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-SIRIUS-32-S110010004C%2C-8200046482/116510",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "4E33-602CC_20191023133923",
+    "sku": "4E33-602CC_20191023133923",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT SIRIUS 32 S110010004C, 8200046482</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT",
+      "NUMBER MANUFACTURER": "S110010004C",
+      "NUMBER PARTS": "SIRIUS 32",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:14:02.866Z",
+    "model": "mistral:7b",
+    "durationMs": 8502,
+    "priceIncrement": 100
+  }
+}

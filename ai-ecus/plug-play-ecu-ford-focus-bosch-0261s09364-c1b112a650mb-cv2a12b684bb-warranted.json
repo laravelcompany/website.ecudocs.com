@@ -1,0 +1,47 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Focus Bosch 0 261 S09 364, C1B1-12A650-MB, CV2A-12B684-BB - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-focus-bosch-0261s09364-c1b112a650mb-cv2a12b684bb-warranted",
+  "metaDescription": "OEM tested Plug & Play ECU replacement for Ford Focus Bosch 0 261 S09 364, C1B1-12A650-MB, CV2A-12B684-BB. 6-month warranty. Fast dispatch.",
+  "price": "€700.00",
+  "excerpt": "OEM tested Plug & Play ECU replacement for Ford Focus Bosch 0 261 S09 364, C1B1-12A650-MB, CV2A-12B684-BB.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Focus Bosch 0 261 S09 364, C1B1-12A650-MB, CV2A-12B684-BB is thoroughly inspected and tested by a certified technician. It comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FOCUS</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2013</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>CV2A12B684BB</td>\n            </tr>\n            <tr>\n                <td>WARRANTY</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORIGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Focus models equipped with the Bosch 0 261 S09 364, C1B1-12A650-MB, CV2A-12B684-BB engine control unit.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS BOSCH 0 261 S09 364, 0261S09364, C1B1-12A650-MB, C1B112A650MB, CV2A-12B684-BB, CV2A12B684BB",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-BOSCH-0-261-S09-364%2C-0261S09364%2C-C1B1-12A650-MB%2C-C1B112A650MB%2C-CV2A-12B684-BB%2C-CV2A12B684BB-/54237",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3496-46501_20140417134411",
+    "sku": "3496-46501_20140417134411",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  FORD FOCUS BOSCH 0 261 S09 364, 0261S09364, C1B1-12A650-MB, C1B112A650MB, CV2A-12B684-BB, CV2A12B684BB </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "YEAR": "2013",
+      "NUMBER PARTS": "CV2A12B684BB",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:58:14.629Z",
+    "model": "mistral:7b",
+    "durationMs": 13265,
+    "priceIncrement": 100
+  }
+}

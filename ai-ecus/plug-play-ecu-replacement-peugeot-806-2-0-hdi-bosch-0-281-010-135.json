@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement Peugeot 806 2.0 HDI Bosch 0 281 010 135, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-peugeot-806-2-0-hdi-bosch-0-281-010-135",
+  "metaDescription": "Expertly tested and OEM replacement ECU for Peugeot 806 2.0 HDI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 806 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 806",
+    "2.0 HDI",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Peugeot 806 2.0 HDI is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>PEUGEOT 806</td></tr>\n    <tr><th>ENGINE</th><td>2.0 HDI</td></tr>\n    <tr><th>YEAR</th><td>1999</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 135</td></tr>\n    <tr><th>NUMBER PARTS</th><td>28FM0154</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot 806 2.0 HDI, but always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 806 2.0 HDI BOSCH 0 281 010 135, 0281010135, 96 362 545 80, 9636254580, 28FM0154, EDC15C2 17",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-806-2.0-HDI-BOSCH-0-281-010-135%2C-0281010135%2C-96-362-545-80%2C-9636254580%2C-28FM0154%2C-EDC15C2-17/32318",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7E26-210ED",
+    "sku": "7E26-210ED",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 806 2.0 HDI BOSCH 0 281 010 135, 0281010135, 96 362 545 80, 9636254580, 28FM0154, EDC15C2 17</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_0cc58823d98c87a11442c464d2b0627c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4a5c4762a82c5698d9f5bed627fadf72_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 806",
+      "ENGINE": "2.0 HDI",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 135",
+      "NUMBER PARTS": "28FM0154",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:26:30.137Z",
+    "model": "mistral:7b",
+    "durationMs": 10656,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Opel Astra Corsa 5SE 006 661-00 - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-opel-astra-corsa-5se-006-661-00-warranty",
+  "metaDescription": "Buy Plug & Play OEM Tested ECU Replacement for Opel Astra Corsa 5SE 006 661-00, covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Opel Astra Corsa",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra Corsa",
+    "5SE 006 661-00"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Opel Astra Corsa is a reliable solution to your engine control unit issues, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Design</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL VAUXHALL HOLDEN ASTRA CORSA</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>90339998 HE</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>5SE 006 661-00</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra Corsa only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL 90339998 HE 5SE00666100",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-90339998-HE-5SE00666100/48935",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Hella",
+    "productCode": "9583-17182",
+    "sku": "9583-17182",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL 90339998 HE 5SE00666100</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VAUXHALL HOLDEN ASTRA CORSA",
+      "NUMBER MANUFACTURER": "90339998 HE",
+      "NUMBER PARTS": "5SE 006 661-00",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:55:18.088Z",
+    "model": "mistral:7b",
+    "durationMs": 10257,
+    "priceIncrement": 100
+  }
+}

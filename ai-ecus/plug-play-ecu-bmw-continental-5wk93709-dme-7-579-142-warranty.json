@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - BMW Continental 5WK93709, DME 7 579 142, Warranty Included",
+  "slug": "plug-play-ecu-bmw-continental-5wk93709-dme-7-579-142-warranty",
+  "metaDescription": "Expertly tested ECU replacement for BMW Continental 5WK93709, DME 7 579 142. Plug & Play, OEM quality, and backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested ECU Replacement for BMW Continental 5WK93709",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW",
+    "Continental 5WK93709",
+    "DME 7 579 142"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for BMW Continental 5WK93709, DME 7 579 142, ensures seamless engine control and performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Locked / Unlocked Option Available</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>BMW</td><td>2008</td><td>CONTINENTAL 5WK93709</td><td>DME 7 579 142</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW CONTINENTAL 5WK93709, DME 7 579 142, 7579142",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-CONTINENTAL-5WK93709%2C-DME-7-579-142%2C-7579142-/82041",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "89AA-1604E_20151118152517",
+    "sku": "89AA-1604E_20151118152517",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW CONTINENTAL 5WK93709, DME 7 579 142, 7579142 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_57d80b7ef2282eaecfc8b70bf2c56477_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_295738_0_0/BMW-CONTINENTAL-5WK93709%2C-DME-7-579-142%2C-7579142.webp"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "CONTINENTAL 5WK93709",
+      "NUMBER PARTS": "DME 7 579 142",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:21:57.164Z",
+    "model": "mistral:7b",
+    "durationMs": 9721,
+    "priceIncrement": 100
+  }
+}

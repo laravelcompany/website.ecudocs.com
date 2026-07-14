@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Toyota G5 OEM Tested - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-toyota-g5-oem-tested-warranty",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Toyota G5, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "OEM Tested ECU Replacement for Toyota G5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota G5",
+    "Denso",
+    "89661-42J11",
+    "2759002600",
+    "27500-2600"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Toyota G5 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Compatible with Toyota G5</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>TOYOTA</td><td>2759002600, 27500-2600</td><td>89661-42J11</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Toyota G5. Fitment caution may apply, please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA G5 8966142J11, 89661-42J11, 2759002600, 27500-2600",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-G5-8966142J11%2C-89661-42J11%2C-2759002600%2C-27500-2600/31289",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "CA1B-549A4_20121009143943",
+    "sku": "CA1B-549A4_20121009143943",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA G5 8966142J11, 89661-42J11, 2759002600, 27500-2600</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA",
+      "NUMBER MANUFACTURER": "2759002600, 27500-2600",
+      "NUMBER PARTS": "89661-42J11",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:25:59.649Z",
+    "model": "mistral:7b",
+    "durationMs": 8648,
+    "priceIncrement": 100
+  }
+}

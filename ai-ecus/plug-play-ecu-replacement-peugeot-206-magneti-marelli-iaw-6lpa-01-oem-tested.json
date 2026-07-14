@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement PEUGEOT 206 Magneti Marelli IAW 6LPA.01 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-206-magneti-marelli-iaw-6lpa-01-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for PEUGEOT 206 by Magneti Marelli. OEM tested, warranty included, and fast shipping.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 206",
+  "tags": [
+    "ECU repair",
+    "Peugeot 206",
+    "Magneti Marelli",
+    "IAW 6LPA.01"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller for Peugeot 206 by Magneti Marelli ensures seamless engine operation and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design</li>\n<li>OEM tested</li>\n<li>6-month warranty</li>\n<li>Thoroughly inspected and tested by a certified technician</li>\n<li>Used in good condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>PEUGEOT 206</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>Magneti Marelli IAW 6LPA.01</td></tr>\n<tr><td>NUMBER PARTS</td><td>SW 9656815380</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is designed for Peugeot 206 and may require professional installation. Please ensure proper fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 206 Magneti Marelli IAW 6LPA.01, IAW6LPA01, HW 16575084, 9657649580, SW 16626124, 9656815380",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-206-Magneti-Marelli-IAW-6LPA.01%2C-IAW6LPA01%2C-HW-16575084%2C-9657649580%2C-SW-16626124%2C-9656815380-/103226",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "51F5-772A2_20170217125600",
+    "sku": "51F5-772A2_20170217125600",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 206 Magneti Marelli IAW 6LPA.01, IAW6LPA01, HW 16575084, 9657649580, SW 16626124, 9656815380 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 206",
+      "NUMBER MANUFACTURER": "Magneti Marelli IAW 6LPA.01",
+      "NUMBER PARTS": "SW 9656815380",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:53:10.771Z",
+    "model": "mistral:7b",
+    "durationMs": 10774,
+    "priceIncrement": 100
+  }
+}

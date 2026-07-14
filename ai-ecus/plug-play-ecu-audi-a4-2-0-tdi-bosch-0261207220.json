@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A4 2.0 TDI OEM Bosch 0261207220",
+  "slug": "plug-play-ecu-audi-a4-2-0-tdi-bosch-0261207220",
+  "metaDescription": "OEM Tested ECU Replacement for Audi A4 2.0 TDI, Plug & Play, 6-month warranty, fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU replacement for Audi A4 2.0 TDI.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Bosch",
+    "0261207220"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for your Audi A4 2.0 TDI is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li><li>Compatible with Audi A4 2.0 TDI</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr>\n<tr><td>ECU ENGINE CONTROLLER</td><td>AUDI A4</td><td>2.0 TDI</td><td>2001</td><td>BENZIN ME7.5</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 2.0 TDI 8E0909557C, 8E0 909 557 C BOSCH 0261207220, 0 261 207 220 BENZIN ME7.5 0003 26SA7964",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-2.0-TDI-8E0909557C%2C-8E0-909-557-C-BOSCH-0261207220%2C-0-261-207-220-BENZIN-ME7.5-0003-26SA7964-/52346",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5B2B-3974F_20140306162903",
+    "sku": "5B2B-3974F_20140306162903",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 2.0 TDI 8E0909557C, 8E0 909 557 C BOSCH 0261207220, 0 261 207 220 BENZIN ME7.5 0003 26SA7964 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "2001",
+      "NUMBER PARTS": "BENZIN ME7.5",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:05:26.020Z",
+    "model": "mistral:7b",
+    "durationMs": 8956,
+    "priceIncrement": 100
+  }
+}

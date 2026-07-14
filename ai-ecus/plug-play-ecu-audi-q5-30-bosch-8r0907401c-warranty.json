@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Audi Q5 3.0, OEM Tested Bosch 8R0907401C - 6-month Warranty",
+  "slug": "plug-play-ecu-audi-q5-30-bosch-8r0907401c-warranty",
+  "metaDescription": "Expertly tested ECU replacement for Audi Q5 3.0, OEM Bosch part 8R0907401C. Plug & Play installation, backed by a 6-month warranty.",
+  "price": "€660.00",
+  "excerpt": "Expertly tested ECU replacement for Audi Q5 3.0, OEM Bosch part 8R0907401C.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi Q5",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU engine controller for Audi Q5 3.0 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM Tested</li><li>6-month warranty</li><li>Expertly refurbished</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY</th><th>INSPECTION</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>AUDI Q5 8R</td><td>3.0</td><td>2008</td><td>BOSCH 0 281 014 723</td><td>8K1907401</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi Q5 3.0. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI Q5 8R, 3.0, BOSCH 0 281 014 723, 0281014723, 8R0 907 401 C, 8R0907401C, 8K1907401",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-Q5-8R%2C-3.0%2C-BOSCH-0-281-014-723%2C-0281014723%2C-8R0-907-401-C%2C-8R0907401C%2C-8K1907401/39093",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0664-9893A_20130807105614",
+    "sku": "0664-9893A_20130807105614",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI Q5 8R, 3.0, BOSCH 0 281 014 723, 0281014723, 8R0 907 401 C, 8R0907401C, 8K1907401</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI Q5 8R",
+      "ENGINE": "3.0",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 723",
+      "NUMBER PARTS": "8K1 907 401",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:49:14.182Z",
+    "model": "mistral:7b",
+    "durationMs": 9751,
+    "priceIncrement": 100
+  }
+}

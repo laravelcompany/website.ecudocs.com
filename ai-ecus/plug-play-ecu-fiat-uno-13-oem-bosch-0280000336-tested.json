@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT UNO 1.3, OEM Bosch 0280000336, Tested & Warranty Included",
+  "slug": "plug-play-ecu-fiat-uno-13-oem-bosch-0280000336-tested",
+  "metaDescription": "Buy OEM ECU Engine Controller for FIAT UNO 1.3, BOSCH 0280000336. Plug & Play, tested and covered by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT UNO 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT UNO",
+    "BOSCH 0280000336",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for FIAT UNO 1.3 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used but in Good Condition</li></ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FIAT UNO</td></tr>\n<tr><th>ENGINE</th><td>1.3</td></tr>\n<tr><th>NUMBER PARTS</th><td>0280000336</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with FIAT UNO 1.3. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT UNO 1.3, BOSCH 0 280 000 336, 0280000336",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-UNO-1.3%2C-BOSCH-0-280-000-336%2C-0280000336-/51521",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6853-1414D_20140219183239",
+    "sku": "6853-1414D_20140219183239",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT UNO 1.3, BOSCH 0 280 000 336, 0280000336 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_cf7b267b3c01c0db46a323f59e14f19e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_98dbd87fda2b71aa23dfa0a3a921acae_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT UNO",
+      "ENGINE": "1.3",
+      "NUMBER PARTS": "0280000336",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:39:16.506Z",
+    "model": "mistral:7b",
+    "durationMs": 8941,
+    "priceIncrement": 100
+  }
+}

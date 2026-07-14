@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Fiat - MJD8F2.G1, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-mjd8f2g1-oem-tested-warranty-included",
+  "metaDescription": "Buy the tested Plug & Play ECU ENGINE CONTROLLER FIAT 51879338, MJD8F2.G1, MJD8F2G1 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat MJD8F2.G1",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU ENGINE CONTROLLER is thoroughly inspected and tested by a certified technician for your peace of mind.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used, Original in Good Condition</li>\n<li>Ready for Programming</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>MJD8F2.G1</td></tr>\n<tr><td>NUMBER PARTS</td><td>51879338</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on your vehicle's specifications. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 51879338, MJD8F2.G1, MJD8F2G1",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-51879338%2C-MJD8F2.G1%2C-MJD8F2G1/117920",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "DA97-7984E_20200306134233",
+    "sku": "DA97-7984E_20200306134233",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 51879338, MJD8F2.G1, MJD8F2G1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_239613_0_0/FIAT-51879338%2C-MJD8F2.G1%2C-MJD8F2G1.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_239614_0_0/FIAT-51879338%2C-MJD8F2.G1%2C-MJD8F2G1.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT",
+      "NUMBER MANUFACTURER": "MJD8F2.G1",
+      "NUMBER PARTS": "51879338",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:17:18.319Z",
+    "model": "mistral:7b",
+    "durationMs": 10074,
+    "priceIncrement": 100
+  }
+}

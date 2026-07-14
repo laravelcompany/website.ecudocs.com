@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot Citroen Lucas AV01025-B, 7186-600 - 6-month Warranty",
+  "slug": "plug-play-ecu-peugeot-citroen-lucas-av01025b-7186600-warranty",
+  "metaDescription": "Expertly refurbished OEM Tested Plug & Play ECU Engine Controller for Peugeot Citroen, model Lucas AV01025-B, 7186-600. 6-month warranty and fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Peugeot Citroen",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot Citroen Lucas AV01025-B",
+    "7186-600"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Peugeot Citroen, model Lucas AV01025-B, 7186-600 is thoroughly inspected and tested by a certified technician to ensure optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT CITROEN LUCAS AV01025-B</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>7186-600</td></tr>\n        <tr><th>WARRANTY</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT CITROEN LUCAS AV01025-B, AV01025B, EGR1, 7186-600, 7186600",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-CITROEN-LUCAS-AV01025-B%2C-AV01025B%2C-EGR1%2C-7186-600%2C-7186600/115884",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "CDF0-665BB",
+    "sku": "CDF0-665BB",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT CITROEN LUCAS AV01025-B, AV01025B, EGR1, 7186-600, 7186600</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_233937_0_0/PEUGEOT-CITROEN-LUCAS-AV01025-B%2C-AV01025B%2C-EGR1%2C-7186-600%2C-7186600.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_233938_0_0/PEUGEOT-CITROEN-LUCAS-AV01025B%2C-EGR1%2C-7186-600%2C-7186600.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT CITROEN",
+      "NUMBER MANUFACTURER": "LUCAS AV01025-B",
+      "NUMBER PARTS": "7186-600",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:31:31.703Z",
+    "model": "mistral:7b",
+    "durationMs": 9718,
+    "priceIncrement": 100
+  }
+}

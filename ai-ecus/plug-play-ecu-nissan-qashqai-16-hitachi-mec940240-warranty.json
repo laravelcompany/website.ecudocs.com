@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Nissan Qashqai 1.6 Hitachi MEC940-240, Warranty Included",
+  "slug": "plug-play-ecu-nissan-qashqai-16-hitachi-mec940240-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Nissan Qashqai 1.6 Hitachi MEC940-240, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Nissan Qashqai 1.6 Hitachi MEC940-240",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Qashqai",
+    "Hitachi MEC940-240",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Nissan Qashqai 1.6 Hitachi MEC940-240 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>NISSAN QASHQAI</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>HITACHI MEC940-240</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>H3</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN QASHQAI 1.6 HITACHI MEC940-240, MEC940240, H3",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-QASHQAI-1.6-HITACHI-MEC940-240%2C-MEC940240%2C-H3-/86901",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "C846-10921_20160224174905",
+    "sku": "C846-10921_20160224174905",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN QASHQAI 1.6 HITACHI MEC940-240, MEC940240, H3 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN QASHQAI",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "HITACHI MEC940-240",
+      "NUMBER PARTS": "H3",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:40:42.595Z",
+    "model": "mistral:7b",
+    "durationMs": 11300,
+    "priceIncrement": 100
+  }
+}

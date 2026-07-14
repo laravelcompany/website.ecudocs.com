@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Fiat 500 1.2 9GF.T9 OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-fiat-500-1-2-9gft9-oem-tested-warranty",
+  "metaDescription": "Expertly tested ECU Engine Controller for Fiat 500 1.2, Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat 500 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat 500",
+    "1.2 engine",
+    "9GF.T9"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat 500 1.2 ensures optimal vehicle performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT 500</td></tr>\n<tr><td>ENGINE</td><td>1.2</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>9GF.T9</td></tr>\n<tr><td>NUMBER PARTS</td><td>51994083</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Professional installation recommended.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 500 1.2 51994083, 9GF.T9, 9GFT9",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-500-1.2-51994083%2C-9GF.T9%2C-9GFT9/105425",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "FPT",
+    "productCode": "1A4A-90731_20170530131909",
+    "sku": "1A4A-90731_20170530131909",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 500 1.2 51994083, 9GF.T9, 9GFT9</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT 500",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "9GF.T9",
+      "NUMBER PARTS": "51994083",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:10:12.626Z",
+    "model": "mistral:7b",
+    "durationMs": 8591,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Peugeot 307 2.0 HDI OEM SWS40423C-T, HW9655534080 - Tested & Warranty Included",
+  "slug": "plug-play-ecu-peugeot-307-2-0-hdi-sws40423c-t-hw9655534080-tested-warranty",
+  "metaDescription": "OEM tested ECU replacement for Peugeot 307 2.0 HDI SWS40423C-T, HW9655534080. Plug & Play, 6-month warranty, and fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM tested ECU replacement for Peugeot 307 2.0 HDI SWS40423C-T, HW9655534080.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 307",
+    "2.0 HDI",
+    "Siemens",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is suitable for Peugeot 307 2.0 HDI. It comes with a 6-month warranty and Plug & Play functionality.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Locked</li><li>Ready for programming</li><li>6-month warranty</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>PEUGEOT 307</td></tr><tr><th>ENGINE</th><td>2.0 HDI</td></tr><tr><th>YEAR</th><td>2007</td></tr><tr><th>NUMBER MANUFACTURER</th><td>SWS40423C-T</td></tr><tr><th>NUMBER PARTS</th><td>HW9655534080</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific faults. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 307 2.0 HDI SWS40423C-T, SW9663607080, HW9655534080",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-307-2.0-HDI-SWS40423C-T%2C-SW9663607080%2C-HW9655534080-/45335",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "6E41-4032D",
+    "sku": "6E41-4032D",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 307 2.0 HDI SWS40423C-T, SW9663607080, HW9655534080 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 307",
+      "ENGINE": "2.0 HDI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "SWS40423C-T",
+      "NUMBER PARTS": "HW9655534080",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:08:16.816Z",
+    "model": "mistral:7b",
+    "durationMs": 9660,
+    "priceIncrement": 100
+  }
+}

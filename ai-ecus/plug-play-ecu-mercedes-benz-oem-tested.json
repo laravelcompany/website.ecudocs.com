@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes Benz - OEM Tested, Warranty Included (0281012352 A6461502491)",
+  "slug": "plug-play-ecu-mercedes-benz-oem-tested",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Mercedes Benz (0281012352 A6461502491). Backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes Benz",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Benz",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for your Mercedes Benz (0281012352 A6461502491). It's thoroughly inspected, tested, and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Locked or Ready for Programming</li>\n        <li>Used, Original in Good Condition</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>MERCEDES BENZ</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>0281012352 A6461502491</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mercedes Benz models. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES BENZ 0281012352 A6461502491",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-BENZ-0281012352-A6461502491/142604",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "MERCEDES",
+    "brand": "Bosch",
+    "productCode": "2199-4765A_20250314112559",
+    "sku": "2199-4765A_20250314112559",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES BENZ 0281012352 A6461502491</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES BENZ",
+      "NUMBER MANUFACTURER": "0281012352 A6461502491",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:20:18.738Z",
+    "model": "mistral:7b",
+    "durationMs": 11080,
+    "priceIncrement": 100
+  }
+}

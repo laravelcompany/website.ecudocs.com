@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Citroen Xsara Picasso 1.8 Sagem - Warranty Included",
+  "slug": "plug-play-ecu-replacement-oem-tested-citroen-xsara-picasso-18-sagem-warranty-inc",
+  "metaDescription": "OEM tested ECU replacement for Citroen Xsara Picasso 1.8 Sagem, offering Plug & Play installation and backed by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen Xsara Picasso 1.8 Sagem",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Xsara Picasso",
+    "Sagem",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Citroen Xsara Picasso 1.8 Sagem ensures seamless integration and reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM tested for optimal compatibility</li><li>6-month warranty</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY</th><th>INSPECTION</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>CITROEN XSARA PICASSO</td><td>1.8</td><td>Sagem 21644729-8</td><td>9632727280-02</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN XSARA PICASSO 1.8 Sagem 21644729-8, 216447298, PSA 9641338980, 9632727280-02",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-XSARA-PICASSO-1.8-Sagem-21644729-8%2C-216447298%2C-PSA-9641338980%2C-9632727280-02-/97092",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Sagem",
+    "productCode": "058E-361E9_20160922175227",
+    "sku": "058E-361E9_20160922175227",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN XSARA PICASSO 1.8 Sagem 21644729-8, 216447298, PSA 9641338980, 9632727280-02 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN XSARA PICASSO",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "Sagem 21644729-8",
+      "NUMBER PARTS": "9632727280-02",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:47:59.276Z",
+    "model": "mistral:7b",
+    "durationMs": 9036,
+    "priceIncrement": 100
+  }
+}

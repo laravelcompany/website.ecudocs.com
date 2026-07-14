@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Toyota Yaris, MB275300-4332 - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-replacement-toyota-yaris-mb275300-4332-warranty",
+  "metaDescription": "Expertly tested and OEM replacement ECU for Toyota Yaris, offering Plug & Play functionality with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Toyota Yaris",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Yaris",
+    "Denso",
+    "MB275300-4332"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for Toyota Yaris (2006-2011) ensures seamless engine control.</section>\n<section class=\"features\"><ul><li>Original Denso part</li><li>Compatible with 2006-2011 Toyota Yaris</li><li>Plug & Play functionality</li><li>Locked or ready for programming</li><li>Inspection and testing by certified technician</li></ul></section>\n<section class=\"specs\"><table><tbody><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>TOYOTA YARIS</td></tr><tr><th>YEAR</th><td>2006-2011</td></tr><tr><th>NUMBER MANUFACTURER</th><td>89661-0DB00</td></tr><tr><th>NUMBER PARTS</th><td>MB275300-4332</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programmin</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific issues. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA YARIS, 89661-0DB00, 896610DB00, MB275300-4332, MB2753004332",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-YARIS%2C-89661-0DB00%2C-896610DB00%2C-MB275300-4332%2C-MB2753004332-/44266",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "9304-718C2",
+    "sku": "9304-718C2",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA YARIS, 89661-0DB00, 896610DB00, MB275300-4332, MB2753004332 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_89d4de7f00036ff8489d1ff5abc4096b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e416d046889102487bd79473bc51fc14_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA YARIS",
+      "YEAR": "2006-2011",
+      "NUMBER MANUFACTURER": "89661-0DB00",
+      "NUMBER PARTS": "MB275300-4332",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programmin",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:42:56.268Z",
+    "model": "mistral:7b",
+    "durationMs": 9742,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot 307 2.0 HDI Siemens - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-peugeot-307-2-0-hdi-siemens-warranty",
+  "metaDescription": "Expertly tested and OEM Siemens ECU Engine Controller for Peugeot 307 2.0 HDI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Peugeot 307 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 307",
+    "Siemens",
+    "2.0 HDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller for Peugeot 307 2.0 HDI Siemens is a reliable replacement, ensuring seamless engine operation.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Expertly Inspected and Tested</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>PEUGEOT 307</td><td>2.0 HDI</td><td>2005</td><td>SIEMENS 5WS40020H-T</td><td>HW9641849280</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot 307 2.0 HDI Siemens ECU. Fitment caution may apply, consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 307 2.0 HDI SIEMENS 5WS40020H-T, 5WS40020HT, SW9644895180, SW 9644895180, HW9641849280, HW 9641849280",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-307-2.0-HDI-SIEMENS-5WS40020H-T%2C-5WS40020HT%2C-SW9644895180%2C-SW-9644895180%2C-HW9641849280%2C-HW-9641849280/32212",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "0E57-85226",
+    "sku": "0E57-85226",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 307 2.0 HDI SIEMENS 5WS40020H-T, 5WS40020HT, SW9644895180, SW 9644895180, HW9641849280, HW 9641849280</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 307",
+      "ENGINE": "2.0 HDI",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40020H-T",
+      "NUMBER PARTS": "HW9641849280",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:06:41.897Z",
+    "model": "mistral:7b",
+    "durationMs": 10027,
+    "priceIncrement": 100
+  }
+}

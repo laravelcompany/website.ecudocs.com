@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot 206 1.4 Magneti Marelli - IAW 1AP.81, Warranty Included",
+  "slug": "plug-play-ecu-peugeot-206-14-magneti-marelli-iaw-1ap81-warranty-included",
+  "metaDescription": "OEM Tested Plug & Play ECU Engine Controller Peugeot 206 1.4 Magneti Marelli - IAW 1AP.81, 6-month warranty, tested and ready for fast dispatch.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Peugeot 206 1.4 by Magneti Marelli",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 206",
+    "Magneti Marelli",
+    "IAW 1AP.81"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Peugeot 206 1.4 by Magneti Marelli ensures seamless engine control and performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Certified Technician Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PEUGEOT 206</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>Magneti Marelli IAW 1AP.81</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>9639907880</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 206 1.4 Magneti Marelli IAW 1AP.81, IAW1AP81, 16301.794, 16301794, 9639907880",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-206-1.4-Magneti-Marelli-IAW-1AP.81%2C-IAW1AP81%2C-16301.794%2C-16301794%2C-9639907880-/97038",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "D31C-477D5_20160921235548",
+    "sku": "D31C-477D5_20160921235548",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 206 1.4 Magneti Marelli IAW 1AP.81, IAW1AP81, 16301.794, 16301794, 9639907880 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 206",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "Magneti Marelli IAW 1AP.81",
+      "NUMBER PARTS": "9639907880",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:43:05.434Z",
+    "model": "mistral:7b",
+    "durationMs": 13077,
+    "priceIncrement": 100
+  }
+}

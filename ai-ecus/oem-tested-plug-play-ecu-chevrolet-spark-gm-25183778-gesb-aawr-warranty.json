@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Chevrolet Spark GM 25183778 GESB, AAWR (6-month Warranty)",
+  "slug": "oem-tested-plug-play-ecu-chevrolet-spark-gm-25183778-gesb-aawr-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Chevrolet Spark GM 25183778 GESB, AAWR. Covered by a 6-month warranty and shipping within 24–48 hours.",
+  "price": "€275.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Chevrolet Spark",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet Spark",
+    "GM",
+    "25183778 GESB",
+    "AAWR"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Chevrolet Spark GM 25183778 GESB, AAWR is expertly inspected and ready to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Expert Inspection</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CHEVROLET SPARK</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>GM 25183778 GESB</td></tr>\n        <tr><th>NUMBER PARTS</th><td>AAWR</td></tr>\n        <tr><th>WARRANTY</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET SPARK GM 25183778 GESB, AAWR",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-SPARK-GM-25183778-GESB%2C-AAWR-/78610",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "086D-99526_20150907203434",
+    "sku": "086D-99526_20150907203434",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET SPARK GM 25183778 GESB, AAWR </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET SPARK",
+      "NUMBER MANUFACTURER": "GM 25183778 GESB",
+      "NUMBER PARTS": "AAWR",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:02:50.873Z",
+    "model": "mistral:7b",
+    "durationMs": 9950,
+    "priceIncrement": 100
+  }
+}

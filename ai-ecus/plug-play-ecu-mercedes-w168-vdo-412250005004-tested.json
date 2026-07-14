@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mercedes W168 VDO - 412.250/005/004, A 028 545 38 32 (1) - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w168-vdo-412250005004-tested",
+  "metaDescription": "Expertly tested and OEM VDO ECU Engine Controller for Mercedes W168. Plug & Play, 6-month warranty, fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mercedes W168",
+  "tags": [
+    "ECU replacement",
+    "Plug & Play ECU",
+    "Mercedes W168",
+    "VDO",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested, Plug & Play ECU Engine Controller for Mercedes W168 VDO is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Reliable Performance</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES W168</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>VDO 412.250/005/004</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>A 028 545 38 32 (1)</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mercedes W168 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W168 VDO 412.250/005/004, 412250005004, A 028 545 38 32 (1), A0285453832",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W168-VDO-412.250005004%2C-412250005004%2C-A-028-545-38-32-1%2C-A0285453832-/76861",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "VDO",
+    "productCode": "33B6-817F4_20150717180039",
+    "sku": "33B6-817F4_20150717180039",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W168 VDO 412.250/005/004, 412250005004, A 028 545 38 32 (1), A0285453832 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W168",
+      "NUMBER MANUFACTURER": "VDO 412.250/005/004",
+      "NUMBER PARTS": "A 028 545 38 32 (1)",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:06:51.077Z",
+    "model": "mistral:7b",
+    "durationMs": 12110,
+    "priceIncrement": 100
+  }
+}

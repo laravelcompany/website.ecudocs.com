@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Engine Controller Bosch 0 281 033 076, FN15-12A650-DAA - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-ford-engine-controller-bosch-0-281-033-076-fn15-12a650-daa",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Ford, tested and covered by a 6-month warranty. OEM part FN15-12A650-DAA from Bosch. Fast dispatch in EU.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford - OEM Tested & Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford engine controller",
+    "Bosch 0 281 033 076",
+    "FN15-12A650-DAA"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Ford is a tested and reliable replacement part from Bosch (0 281 033 076, FN15-12A650-DAA).</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and inspected by a certified technician</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 033 076</td></tr>\n        <tr><th>NUMBER PARTS</th><td>FN15-12A650-DAA</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford vehicles requiring this specific ECU Engine Controller part number (0 281 033 076, FN15-12A650-DAA).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD BOSCH 0 281 033 076, 0281033076, FN1512A650DAA, FN15-12A650-DAA",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-BOSCH-0-281-033-076%2C-0281033076%2C-FN1512A650DAA%2C-FN15-12A650-DAA/114260",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A733-812F1_20190703143326",
+    "sku": "A733-812F1_20190703143326",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD BOSCH 0 281 033 076, 0281033076,  FN1512A650DAA, FN15-12A650-DAA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_230634_0_0/FORD-BOSCH-0-281-033-076%2C-0281033076%2C-FN1512A650DAA%2C-FN15-12A650-DAA.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_230635_0_0/FORD-BOSCH-0-281-033-076%2C-0281033076%2C-FN1512A650DAA%2C-FN15-12A650-DAA.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 033 076",
+      "NUMBER PARTS": "FN15-12A650-DAA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:02:50.895Z",
+    "model": "mistral:7b",
+    "durationMs": 11654,
+    "priceIncrement": 100
+  }
+}

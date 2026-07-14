@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement NISSAN ALMERA 1.6 OEM Tested - Hitachi MEC-N203, MECN203",
+  "slug": "plug-play-ecu-replacement-nissan-almera-1-6-oem-tested-hitachi-mec-n203-mecn203",
+  "metaDescription": "OEM tested and Plug & Play ECU replacement for NISSAN ALMERA 1.6, backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan Almera 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Almera",
+    "Hitachi MEC-N203",
+    "MECN203"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for NISSAN ALMERA 1.6 is a reliable choice, offering seamless integration into your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Inspection by Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN ALMERA</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>YEAR</th><td>1999</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MECN203</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA 1.6 23710 2N300, 237102N300, MEC-N203, MECN203",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-1.6-23710-2N300%2C-237102N300%2C-MEC-N203%2C-MECN203/58755",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "DF2C-958F6_20140616121216",
+    "sku": "DF2C-958F6_20140616121216",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA 1.6 23710 2N300, 237102N300, MEC-N203, MECN203</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "ENGINE": "1.6",
+      "YEAR": "1999",
+      "NUMBER PARTS": "MECN203",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:04:25.844Z",
+    "model": "mistral:7b",
+    "durationMs": 9947,
+    "priceIncrement": 100
+  }
+}

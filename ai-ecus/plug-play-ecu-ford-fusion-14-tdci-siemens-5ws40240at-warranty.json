@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Fusion 1.4 TDCI Siemens 5WS40240A-T, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-fusion-14-tdci-siemens-5ws40240at-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Ford Fusion 1.4 TDCI Siemens 5WS40240A-T, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Fusion 1.4 TDCI Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fusion",
+    "Siemens",
+    "1.4 TDCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller for Ford Fusion 1.4 TDCI Siemens is a reliable replacement part, ensuring smooth engine operation.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FORD FUSION</td></tr>\n<tr><th>ENGINE</th><td>1.4 TDCI</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WS40240A-T</td></tr>\n<tr><th>NUMBER PARTS</th><td>7BMA</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FUSION 1.4 TDCI SIEMENS 5WS40240A-T, 5WS40240AT, 5S61-12A650-HA, 5S6112A650HA, 7BMA, SID804",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FUSION-1.4-TDCI-SIEMENS-5WS40240A-T%2C-5WS40240AT%2C-5S61-12A650-HA%2C-5S6112A650HA%2C-7BMA%2C-SID804-/104135",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "338E-1297F_20170309142531",
+    "sku": "338E-1297F_20170309142531",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FUSION 1.4 TDCI SIEMENS 5WS40240A-T, 5WS40240AT, 5S61-12A650-HA, 5S6112A650HA, 7BMA, SID804 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FUSION",
+      "ENGINE": "1.4 TDCI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40240A-T",
+      "NUMBER PARTS": "7BMA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:18:23.789Z",
+    "model": "mistral:7b",
+    "durationMs": 10365,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - CITROEN SAXO, PEUGEOT 106 1.0 BOSCH 0 261 203 943 OEM Tested - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-citroen-saxo-peugeot-106-10-bosch-0-261-203-943-warran",
+  "metaDescription": "OEM tested ECU replacement for CITROEN SAXO, PEUGEOT 106 1.0 BOSCH 0 261 203 943. Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€90.00",
+  "excerpt": "OEM tested ECU replacement for CITROEN SAXO, PEUGEOT 106 1.0 BOSCH 0 261 203 943.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "CITROEN SAXO",
+    "PEUGEOT 106",
+    "BOSCH 0 261 203 943"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for CITROEN SAXO, PEUGEOT 106 1.0 BOSCH 0 261 203 943 is a reliable solution backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITOREN SAXO, PEUGEOT 106</td></tr>\n        <tr><th>ENGINE</th><td>1.0</td></tr>\n        <tr><th>YEAR</th><td>1997</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 203 943</td></tr>\n        <tr><th>NUMBER PARTS</th><td>96 237 926 80</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with CITROEN SAXO and PEUGEOT 106 1.0. Fitment caution: Ensure correct part number before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITOREN SAXO, PEUGEOT 106 1.0, BOSCH 0 261 203 943, 0261203943, 96 237 926 80, 9623792680, MA3.1 54",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITOREN-SAXO%2C-PEUGEOT-106-1.0%2C-BOSCH-0-261-203-943%2C-0261203943%2C-96-237-926-80%2C-9623792680%2C-MA3.1-54-/46303",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "32F5-75625",
+    "sku": "32F5-75625",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITOREN SAXO, PEUGEOT 106 1.0, BOSCH 0 261 203 943, 0261203943, 96 237 926 80, 9623792680, MA3.1 54 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITOREN SAXO, PEUGEOT 106",
+      "ENGINE": "1.0",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 943",
+      "NUMBER PARTS": "96 237 926 80",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:15:20.639Z",
+    "model": "mistral:7b",
+    "durationMs": 13086,
+    "priceIncrement": 100
+  }
+}

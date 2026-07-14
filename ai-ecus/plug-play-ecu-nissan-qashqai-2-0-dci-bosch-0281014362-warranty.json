@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Nissan Qashqai 2.0 DCI Bosch 0281014362 - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-qashqai-2-0-dci-bosch-0281014362-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Nissan Qashqai 2.0 DCI (Bosch 0281014362) with a 6-month warranty. Fast dispatch, EU shipping.",
+  "price": "€540.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Nissan Qashqai 2.0 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Qashqai",
+    "Bosch 0281014362"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Nissan Qashqai 2.0 DCI (Bosch 0281014362) is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN QASHQAI</td></tr>\n        <tr><th>ENGINE</th><td>2.0 DCI</td></tr>\n        <tr><th>YEAR</th><td>2009</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281014362, 0 281 014 362</td></tr>\n        <tr><th>NUMBER PARTS</th><td>23710-JG78E</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN QASHQAI 2.0 DCI BOSCH 0281014362, 0 281 014 362, 23710JG78E JN, 23710 JG78E, 23710-JG78E",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-QASHQAI-2.0-DCI-BOSCH-0281014362%2C-0-281-014-362%2C-23710JG78E-JN%2C-23710-JG78E%2C-23710-JG78E-/16950",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B2AA-31372",
+    "sku": "B2AA-31372",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN QASHQAI 2.0 DCI BOSCH 0281014362, 0 281 014 362, 23710JG78E JN, 23710 JG78E, 23710-JG78E </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN QASHQAI",
+      "ENGINE": "2.0 DCI",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0281014362, 0 281 014 362",
+      "NUMBER PARTS": "23710-JG78E",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:41:40.431Z",
+    "model": "mistral:7b",
+    "durationMs": 11163,
+    "priceIncrement": 100
+  }
+}

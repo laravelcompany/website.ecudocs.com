@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Ford 96AB-12A650-EC, Even - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-96ab-12a650-even-warranty",
+  "metaDescription": "Buy this Plug & Play OEM Tested ECU Replacement for Ford 96AB-12A650-EC, Even. Covered by a 6-month warranty and shipping within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford - 6-month Warranty",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford 96AB-12A650-EC",
+    "Even",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This Visteon ECU Engine Controller is a tested and reliable replacement for your Ford vehicle. It comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used but in good condition</li>\n        <li>Certified Technician Inspected</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>96AB-12A650-EC</td></tr>\n        <tr><th>NUMBER PARTS</th><td>EVEN</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Please ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 96AB-12A650-EC, 96AB12A650EC, EVEN",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-96AB-12A650-EC%2C-96AB12A650EC%2C-EVEN/122525",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "02DB-31640_20201116125255",
+    "sku": "02DB-31640_20201116125255",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 96AB-12A650-EC, 96AB12A650EC, EVEN</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_249714_0_0/FORD-96AB-12A650-EC%2C-96AB12A650EC%2C-EVEN.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_249715_0_0/FORD-96AB-12A650-EC%2C-96AB12A650EC%2C-EVEN.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "96AB-12A650-EC",
+      "NUMBER PARTS": "EVEN",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:55:07.464Z",
+    "model": "mistral:7b",
+    "durationMs": 9893,
+    "priceIncrement": 100
+  }
+}

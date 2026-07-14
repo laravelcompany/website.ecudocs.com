@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Laguna 2.0 DCI Bosch 0 281 015 781, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-renault-laguna-20-dci-bosch-0-281-015-781",
+  "metaDescription": "OEM tested ECU Engine Controller for Renault Laguna 2.0 DCI Bosch 0 281 015 781, Plug & Play replacement with 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU Engine Controller for Renault Laguna 2.0 DCI Bosch 0 281 015 781",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Laguna",
+    "2.0 DCI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Renault Laguna 2.0 DCI Bosch 0 281 015 781 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Parts</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>Brand and Model</td>\n                <td>RENAULT LAGUNA</td>\n            </tr>\n            <tr>\n                <td>Engine</td>\n                <td>2.0 DCI</td>\n            </tr>\n            <tr>\n                <td>Number Manufacturer</td>\n                <td>BOSCH 0 281 015 781</td>\n            </tr>\n            <tr>\n                <td>Number Parts</td>\n                <td>8200980329</td>\n            </tr>\n            <tr>\n                <td>Option Available</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT LAGUNA 2.0 DCI BOSCH 0 281 015 781, 0281015781, 8200726880, 8200980329",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-LAGUNA-2.0-DCI-BOSCH-0-281-015-781%2C-0281015781%2C-8200726880%2C-8200980329/99752",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FC8F-774CF_20161129091947",
+    "sku": "FC8F-774CF_20161129091947",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  RENAULT LAGUNA 2.0 DCI BOSCH 0 281 015 781, 0281015781, 8200726880, 8200980329</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8af565de79889559ea823f25cff242f3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_255236_0_0/Screenshot_2021-04-23-KOMPUTER-SILNIKA-2-0-DCI-LAGUNA-III-0281015781.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT LAGUNA",
+      "ENGINE": "2.0 DCI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 781",
+      "NUMBER PARTS": "8200980329",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:17:57.619Z",
+    "model": "mistral:7b",
+    "durationMs": 11083,
+    "priceIncrement": 100
+  }
+}

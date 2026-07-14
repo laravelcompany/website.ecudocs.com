@@ -1,0 +1,56 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Fiesta Fusion Mazda 1.3 Siemens 3S61-12A650-CC OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-fiesta-fusion-mazda-1-3-siemens-3s61-12a650-cc-oe",
+  "metaDescription": "Buy OEM ECU Engine Controller for Ford Fiesta Fusion Mazda 1.3 Siemens SIM 22 S118107004E, Plug & Play, tested and covered by a 6-month warranty.",
+  "price": "€275.00",
+  "excerpt": "OEM ECU Replacement for Ford Fiesta Fusion Mazda 1.3 Siemens SIM 22 S118107004E, Plug & Play.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta Fusion",
+    "Mazda",
+    "Siemens",
+    "1.3"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for Ford Fiesta Fusion Mazda 1.3 Siemens SIM 22 S118107004E is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked or Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FIESTA FUSION MAZDA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS SIM 22 S118107004 E</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>1PDC</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>3S61-12A650-CC</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta Fusion Mazda 1.3 Siemens SIM 22 S118107004E, but always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA FUSION MAZDA 1.3 3S6112A650CC SIEMENS SIM 22 S118107004E, S118107004 E, 3S61-12A650-CC 1PDC",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-FUSION-MAZDA-1.3-3S6112A650CC-SIEMENS-SIM-22-S118107004E%2C-S118107004-E%2C-3S61-12A650-CC-1PDC/31981",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "9186-7074B",
+    "sku": "9186-7074B",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA FUSION MAZDA 1.3 3S6112A650CC SIEMENS SIM 22 S118107004E, S118107004 E, 3S61-12A650-CC 1PDC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_d650818cde1e582bbb036927d29a4626_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7731c4dbc0a86bb19ab450e5a5efc019_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA FUSION MAZDA",
+      "ENGINE": "1.3",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "SIEMENS SIM 22 S118107004 E",
+      "CODE": "1PDC",
+      "NUMBER PARTS": "3S61-12A650-CC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:39:12.635Z",
+    "model": "mistral:7b",
+    "durationMs": 13192,
+    "priceIncrement": 100
+  }
+}

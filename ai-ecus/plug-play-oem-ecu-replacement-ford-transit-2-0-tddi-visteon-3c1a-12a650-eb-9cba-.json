@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford Transit 2.0 TDDI - Visteon 3C1A-12A650-EB, 9CBA - Tested & Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-ford-transit-2-0-tddi-visteon-3c1a-12a650-eb-9cba-",
+  "metaDescription": "Buy Plug & Play OEM ECU replacement for Ford Transit 2.0 TDDI by Visteon (3C1A-12A650-EB, 9CBA). Tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Ford Transit 2.0 TDDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Transit",
+    "Visteon",
+    "2.0 TDDI"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for Ford Transit 2.0 TDDI is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Compatible with Ford Transit 2.0 TDDI</li>\n<li>Original, Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD TRANSIT</td></tr>\n<tr><td>ENGINE</td><td>2.0 TDDI</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>3C1A-12A650-EB</td></tr>\n<tr><td>NUMBER PARTS</td><td>9CBA</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Transit 2.0 TDDI only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD TRANSIT 2.0 TDDI 3C1A-12A650-EB, 3C1A12A650EB, 9CBA",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-TRANSIT-2.0-TDDI-3C1A-12A650-EB%2C-3C1A12A650EB%2C-9CBA/107388",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "F22D-1337A_20171109145311",
+    "sku": "F22D-1337A_20171109145311",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD TRANSIT 2.0 TDDI 3C1A-12A650-EB, 3C1A12A650EB, 9CBA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2150e53d060bbae7ab410c551d087718_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_16bc9299207f8ced7abbb9adb5899ba4_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD TRANSIT",
+      "ENGINE": "2.0 TDDI",
+      "NUMBER MANUFACTURER": "3C1A-12A650-EB",
+      "NUMBER PARTS": "9CBA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:01:50.709Z",
+    "model": "mistral:7b",
+    "durationMs": 11308,
+    "priceIncrement": 100
+  }
+}

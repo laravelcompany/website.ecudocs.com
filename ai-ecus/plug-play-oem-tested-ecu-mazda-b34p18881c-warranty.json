@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mazda B34P18881C, 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-mazda-b34p18881c-warranty",
+  "metaDescription": "Buy this Plug & Play OEM Tested ECU Replacement for Mazda, model B34P18881C. Covered by a 6-month warranty and ready for immediate dispatch.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Mazda",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mazda B34P18881C",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Mazda is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>MAZDA</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>279700-0971</td></tr>\n<tr><th>NUMBER PARTS</th><td>B34P 18 881C</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA, 279700-0971, 2797000971, B34P 18 881C, B34P18881C",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA%2C-279700-0971%2C-2797000971%2C-B34P-18-881C%2C-B34P18881C-/44532",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "ABDC-796B6",
+    "sku": "ABDC-796B6",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA, 279700-0971, 2797000971, B34P 18 881C, B34P18881C </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA",
+      "NUMBER MANUFACTURER": "279700-0971",
+      "NUMBER PARTS": "B34P 18 881C",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:04:35.210Z",
+    "model": "mistral:7b",
+    "durationMs": 9139,
+    "priceIncrement": 100
+  }
+}

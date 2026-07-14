@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A4 1.8 ADR - Bosch 0261203938/939, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-1-8-adr-bosch-0261203938-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Audi A4 1.8 ADR by Bosch (0261203938/939). Ships within 24–48 hours, backed by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A4 1.8 ADR",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Bosch",
+    "1.8 ADR"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Audi A4 1.8 ADR by Bosch (0261203938/939) ensures seamless engine management and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>Warranty Included</li>\n<li>Fast Dispatch (EU)</li>\n<li>12-month Warranty</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>AUDI A4</td></tr>\n<tr><td>ENGINE</td><td>1.8 ADR</td></tr>\n<tr><td>YEAR</td><td>1995-1996</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 203 938</td></tr>\n<tr><td>NUMBER PARTS</td><td>8D0 907 557 C</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours, backed by a 12-month warranty and fast dispatch (EU).</section>\n<section class=\"compatibility\">This ECU is designed for Audi A4 1.8 ADR models only. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 1.8 ADR 8D0907557C, 8D0 907 557 C, BOSCH 0261203938/939, 0 261 203 938, 0261 203 939",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-1.8-ADR-8D0907557C%2C-8D0-907-557-C%2C-BOSCH-0261203938939%2C-0-261-203-938%2C-0261-203-939-/14391",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0E06-867B9",
+    "sku": "0E06-867B9",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 1.8 ADR 8D0907557C, 8D0 907 557 C, BOSCH 0261203938/939, 0 261 203 938, 0261 203 939 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "1.8 ADR",
+      "YEAR": "1995-1996",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 938",
+      "NUMBER PARTS": "8D0 907 557 C",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:57:45.592Z",
+    "model": "mistral:7b",
+    "durationMs": 11915,
+    "priceIncrement": 100
+  }
+}

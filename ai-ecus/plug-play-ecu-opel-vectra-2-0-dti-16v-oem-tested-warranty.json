@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Vectra 2.0 DTI 16V - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-vectra-2-0-dti-16v-oem-tested-warranty",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Opel Vectra 2.0 DTI 16V, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Vectra",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra",
+    "2.0 DTI 16V",
+    "Bosch 0 281 001 872",
+    "GM 09 136 117 CU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Opel Vectra 2.0 DTI 16V is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL VECTRA</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 DTI 16V</td></tr>\n        <tr><th>YEAR:</th><td>2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 001 872</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>GM 09 136 117 CU</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra 2.0 DTI 16V. Fitment caution may apply, consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA BOSCH 0 281 001 872, 0281001872, GM 09 136 117 CU, 09136117CU",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-BOSCH-0-281-001-872%2C-0281001872%2C-GM-09-136-117-CU%2C-09136117CU/61599",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DC31-138E9_20140730091337",
+    "sku": "DC31-138E9_20140730091337",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA BOSCH 0 281 001 872, 0281001872, GM 09 136 117 CU, 09136117CU</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VECTRA",
+      "ENGINE": "2.0 DTI 16V",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 872",
+      "NUMBER PARTS": "GM 09 136 117 CU",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:24:32.864Z",
+    "model": "mistral:7b",
+    "durationMs": 10016,
+    "priceIncrement": 100
+  }
+}

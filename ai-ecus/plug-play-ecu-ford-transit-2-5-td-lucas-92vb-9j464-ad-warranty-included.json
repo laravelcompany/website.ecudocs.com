@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Transit 2.5 TD Lucas 92VB 9J464 AD, Warranty Included",
+  "slug": "plug-play-ecu-ford-transit-2-5-td-lucas-92vb-9j464-ad-warranty-included",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford Transit 2.5 TD Lucas 92VB 9J464 AD, backed by a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Transit 2.5 TD Lucas",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Transit",
+    "Lucas",
+    "92VB 9J464 AD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Ford Transit 2.5 TD Lucas is a reliable solution, ensuring seamless engine control.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Reliable Engine Control</li></ul></section>\n<section class=\"specs\">...(technical specifications table)</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Ensure proper fitment before installation. Consult a professional technician if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD TRANSIT 2.5 TD LUCAS 92VB 9J464 AD, 92VB9J464AD",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-TRANSIT-2.5-TD-LUCAS-92VB-9J464-AD%2C-92VB9J464AD-/65316",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "E8F2-50687_20140907121156",
+    "sku": "E8F2-50687_20140907121156",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD TRANSIT 2.5 TD LUCAS 92VB 9J464 AD, 92VB9J464AD </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD TRANSIT",
+      "ENGINE": "2,5",
+      "YEAR": "1993",
+      "NUMBER MANUFACTURER": "LUCAS 92VB 9J464 AD",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:06:16.112Z",
+    "model": "mistral:7b",
+    "durationMs": 6437,
+    "priceIncrement": 100
+  }
+}

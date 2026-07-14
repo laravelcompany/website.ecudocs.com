@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Volvo V70/S70/XC, Bosch 0261204609 - ECU Replacement with 6-month Warranty",
+  "slug": "plug-play-ecu-volvo-v70s70xc-bosch-0261204609-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Volvo V70/S70/XC, Bosch 0261204609. This ECU Replacement comes with a 6-month warranty and fast dispatch within EU.",
+  "price": "€540.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Volvo V70/S70/XC",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0261204609",
+    "Volvo V70/S70/XC"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Volvo V70/S70/XC, Bosch 0261204609, is a direct replacement for your faulty unit. It has been thoroughly inspected and tested by a certified technician to ensure optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Direct Replacement</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>VOLVO V70/S70/XC</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1997-2000</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>KH.2</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify the compatibility of this ECU with your specific vehicle model and year before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VOLVO V70/S70/XC, BOSCH 0 261 204 609, 0261204609, P09490034, KH.2",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VOLVO-V70S70XC%2C-BOSCH-0-261-204-609%2C-0261204609%2C-P09490034%2C-KH.2-/55364",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B101-54487_20140507142924",
+    "sku": "B101-54487_20140507142924",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  VOLVO V70/S70/XC, BOSCH 0 261 204 609, 0261204609, P09490034, KH.2 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_6025b93c38eeef14790f38e511c38688_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ebca0c5d728dba601cf63eee7ba63ff0_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VOLVO V70/S70/XC",
+      "YEAR": "1997-2000",
+      "NUMBER PARTS": "KH.2",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:25:15.790Z",
+    "model": "mistral:7b",
+    "durationMs": 12255,
+    "priceIncrement": 100
+  }
+}

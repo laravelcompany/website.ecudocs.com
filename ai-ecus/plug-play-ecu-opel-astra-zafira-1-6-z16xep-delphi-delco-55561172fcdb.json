@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested ECU Replacement Opel Astra Zafira 1.6 Z16XEP Z16XE1 Delphi Delco 55561172 FCDB, Plug & Play, Warranty Included",
+  "slug": "plug-play-ecu-opel-astra-zafira-1-6-z16xep-delphi-delco-55561172fcdb",
+  "metaDescription": "Buy OEM tested ECU engine controller for Opel Astra Zafira 1.6 Z16XEP Z16XE1 Delphi Delco 55561172 FCDB, Plug & Play, warranty included.",
+  "price": "€350.00",
+  "excerpt": "OEM tested ECU replacement for Opel Astra Zafira",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra Zafira",
+    "Delphi Delco"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller is a direct replacement for Opel Astra Zafira 1.6 Z16XEP Z16XE1, ensuring reliable and efficient engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked/Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL ASTRA ZAFIRA</td></tr>\n        <tr><th>ENGINE</th><td>1.6 Z16XEP Z16XE1</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELPHI DELCO 55561172 FCDB</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MT35E 2.3</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra Zafira 1.6 Z16XEP Z16XE1 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA ZAFIRA 1.6 Z16XEP Z16XE1 DELPHI DELCO 55561172 FCDB, 55561172FCDB, MT35E 2.3",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-ZAFIRA-1.6-Z16XEP-Z16XE1-DELPHI-DELCO-55561172-FCDB%2C-55561172FCDB%2C-MT35E-2.3/9694",
+    "priceCurrency": "EUR",
+    "netPrice": "€250.00",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "9694",
+    "sku": "9694",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA ZAFIRA 1.6 Z16XEP Z16XE1 DELPHI DELCO 55561172 FCDB, 55561172FCDB, MT35E 2.3</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA ZAFIRA",
+      "ENGINE": "1.6 Z16XEP Z16XE1",
+      "NUMBER MANUFACTURER": "DELPHI DELCO 55561172 FCDB",
+      "NUMBER PARTS": "MT35E 2.3",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:21:01.879Z",
+    "model": "mistral:7b",
+    "durationMs": 9849,
+    "priceIncrement": 100
+  }
+}

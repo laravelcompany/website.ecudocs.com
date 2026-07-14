@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.5 - Visteon 1S7E-12A650-CE, GONG - Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-25-visteon-1s7e12a650ce-gong-warranty",
+  "metaDescription": "Get a certified, OEM tested Plug & Play ECU Replacement for your Ford Mondeo 2.5 with a 6-month warranty. Order now for fast dispatch!",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Mondeo 2.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "1S7E-12A650-CE",
+    "GONG"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for your Ford Mondeo 2.5 ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n<tr><th>ENGINE</th><td>2.5</td></tr>\n<tr><th>YEAR</th><td>2001</td></tr>\n<tr><th>NUMBER PARTS</th><td>GONG</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Mondeo 2.5. Fitment caution may apply; please confirm compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.5 1S7E-12A650-CE, 1S7E12A650CE, GONG",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.5-1S7E-12A650-CE%2C-1S7E12A650CE%2C-GONG/53360",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "FBEB-574DC_20140402143710",
+    "sku": "FBEB-574DC_20140402143710",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.5 1S7E-12A650-CE, 1S7E12A650CE, GONG</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.5",
+      "YEAR": "2001",
+      "NUMBER PARTS": "GONG",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:46:32.470Z",
+    "model": "mistral:7b",
+    "durationMs": 9340,
+    "priceIncrement": 100
+  }
+}

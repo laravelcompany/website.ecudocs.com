@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested ECU Replacement Opel Astra 1.6 Z16XE Delphi Delco 09353459 DLSP - Plug & Play, Warranty",
+  "slug": "plug-and-play-ecu-opel-astra-16-z16xe-delphi-delco-09353459-dlsp",
+  "metaDescription": "OEM tested ECU replacement for Opel Astra 1.6 Z16XE. Plug & Play, warranty included. Fast dispatch in EU.",
+  "price": "€480.00",
+  "excerpt": "OEM tested ECU replacement for Opel Astra 1.6 Z16XE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "Delphi Delco",
+    "1.6 Z16XE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Opel Astra 1.6 Z16XE is a reliable solution to your engine control unit issues.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>Warranty Included</li>\n<li>Fast Dispatch in EU</li>\n<li>Reliable Solution</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA</td></tr>\n<tr><th>ENGINE</th><td>1.6 Z16XE</td></tr>\n<tr><th>YEAR</th><td>2001-2004</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>09 353 459</td></tr>\n<tr><th>CODE</th><td>DLSP</td></tr>\n<tr><th>NUMBER PARTS</th><td>HSFI-2.1</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA 1.6 Z16XE 09353459 DLSP 9353459, 9364459, 62 37 436",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-ASTRA-ZAFIRA-1.6-Z16XE-09353459-DLSP-9353459%2C-9364459%2C-62-37-436/26079",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "2853_20120619160046",
+    "sku": "2853_20120619160046",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA 1.6 Z16XE 09353459 DLSP 9353459, 9364459, 62 37 436</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA",
+      "ENGINE": "1.6 Z16XE",
+      "YEAR": "2001-2004",
+      "NUMBER MANUFACTURER": "09 353 459",
+      "CODE": "DLSP",
+      "NUMBER PARTS": "HSFI-2.1",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:35:40.370Z",
+    "model": "mistral:7b",
+    "durationMs": 10990,
+    "priceIncrement": 100
+  }
+}

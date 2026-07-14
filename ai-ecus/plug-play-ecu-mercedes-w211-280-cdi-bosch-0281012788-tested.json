@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W211 280 CDI Bosch 0281012788, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-w211-280-cdi-bosch-0281012788-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Mercedes W211 280 CDI, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W211 280 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W211",
+    "Bosch 0281012788"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a replacement for the Mercedes W211 280 CDI. It's thoroughly inspected, tested by certified technicians, and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 6-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply, please verify before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W211 280 CDI BOSCH 0281012788, 0 281 012 788, A6421500691, A 642 150 06 91, 6421500691, Q01 CR4.11 1039S12873",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W211-280-CDI-BOSCH-0281012788%2C-0-281-012-788%2C-A6421500691%2C-A-642-150-06-91%2C-6421500691%2C-Q01-CR4.11-1039S12873/26884",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "68C7-88546_20120725172040",
+    "sku": "68C7-88546_20120725172040",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W211 280 CDI BOSCH 0281012788, 0 281 012 788, A6421500691, A 642 150 06 91, 6421500691, Q01 CR4.11 1039S12873</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W211",
+      "ENGINE": "280 CDI",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0281012788, 0 281 012 788",
+      "NUMBER PARTS": "1039S12873",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:31:33.362Z",
+    "model": "mistral:7b",
+    "durationMs": 6586,
+    "priceIncrement": 100
+  }
+}

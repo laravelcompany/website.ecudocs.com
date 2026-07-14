@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Toyota Yaris 1.0 BOSCH 0 261 S06 138 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-toyota-yaris-10-bosch-0261s06138-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Toyota Yaris 1.0 BOSCH 0 261 S06 138, OEM tested and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Toyota Yaris 1.0 BOSCH 0 261 S06 138",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Yaris",
+    "BOSCH 0 261 S06 138"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Toyota Yaris 1.0 BOSCH 0 261 S06 138 is a tested and reliable replacement part, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>TOYOTA YARIS</td></tr>\n        <tr><th>ENGINE</th><td>1.0</td></tr>\n        <tr><th>YEAR</th><td>2011</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S06 138</td></tr>\n        <tr><th>NUMBER PARTS</th><td>89661-0DD80</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure this ECU is compatible with your vehicle's specific model year and engine configuration before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA YARIS 1.0 BOSCH 0 261 S06 138, 0261S06138, 89661-0DD80, 896610DD80",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-YARIS-1.0-BOSCH-0-261-S06-138%2C-0261S06138%2C-89661-0DD80%2C-896610DD80-/86893",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9E33-8614B_20160224171436",
+    "sku": "9E33-8614B_20160224171436",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA YARIS 1.0 BOSCH 0 261 S06 138, 0261S06138, 89661-0DD80, 896610DD80 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_33145d89d15d845af24a6cdee7df18dc_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_268369_0_0/TOYOTA-YARIS-1.0-BOSCH-0-261-S06-138%2C-0261S06138%2C-89661-0DD80%2C-896610DD80.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA YARIS",
+      "ENGINE": "1.0",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S06 138",
+      "NUMBER PARTS": "89661-0DD80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:36:17.670Z",
+    "model": "mistral:7b",
+    "durationMs": 11299,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Citroen C2 C3 1.4 HDI SIEMENS 5WS40514A-T, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-c2-c3-1-4-hdi-siemens-5ws40514a-t",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Citroen C2 C3 1.4 HDI SIEMENS 5WS40514A-T, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen C2 C3 1.4 HDI SIEMENS 5WS40514A-T",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C2 C3",
+    "Siemens 5WS40514A-T",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Citroen C2 C3 1.4 HDI SIEMENS 5WS40514A-T ensures seamless engine operation and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Locked/Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN C2 C3</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4 HDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2007</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WS40514A-T</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>89661-YV011</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific ECU programming requirements.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C2 C3 1.4 HDI SIEMENS 5WS40514A-T, 5WS40514AT, 9663181680 89661-YV011",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C2-C3-1.4-HDI-SIEMENS-5WS40514A-T%2C-5WS40514AT%2C-9663181680-89661-YV011/16483",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "4978-861FB",
+    "sku": "4978-861FB",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C2 C3 1.4 HDI SIEMENS 5WS40514A-T, 5WS40514AT, 9663181680 89661-YV011</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_dceeb6934de07299e0e65ce45ff6a10a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4108c55dc4e30515f36707434b60e92a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C2 C3",
+      "ENGINE": "1.4 HDI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40514A-T",
+      "NUMBER PARTS": "89661-YV011",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:28:25.938Z",
+    "model": "mistral:7b",
+    "durationMs": 14365,
+    "priceIncrement": 100
+  }
+}

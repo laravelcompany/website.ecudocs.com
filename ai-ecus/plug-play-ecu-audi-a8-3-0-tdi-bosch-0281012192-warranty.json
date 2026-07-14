@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A8 3.0 TDI Bosch 0281012192, Warranty Included",
+  "slug": "plug-play-ecu-audi-a8-3-0-tdi-bosch-0281012192-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Audi A8 3.0 TDI Bosch 0281012192, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€485.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A8 3.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A8",
+    "3.0 TDI",
+    "Bosch",
+    "0281012192"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Audi A8 3.0 TDI is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI A8</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>3.0 TDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 012 192</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>4E0 910 401 Q</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A8 3.0 TDI. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A8 3.0 TDI BOSCH 0281012192, 0 281 012 192, 4E0907401C, 4E0 907 401 C, 4E0910401Q, 4E0 910 401 Q",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A8-3.0-TDI-BOSCH-0281012192%2C-0-281-012-192%2C-4E0907401C%2C-4E0-907-401-C%2C-4E0910401Q%2C-4E0-910-401-Q-/34220",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2F70-9762D_20121216115027",
+    "sku": "2F70-9762D_20121216115027",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A8 3.0 TDI BOSCH 0281012192, 0 281 012 192, 4E0907401C, 4E0 907 401 C, 4E0910401Q, 4E0 910 401 Q </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A8",
+      "ENGINE": "3.0 TDI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 192",
+      "NUMBER PARTS": "4E0 910 401 Q",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:41:42.392Z",
+    "model": "mistral:7b",
+    "durationMs": 13744,
+    "priceIncrement": 100
+  }
+}

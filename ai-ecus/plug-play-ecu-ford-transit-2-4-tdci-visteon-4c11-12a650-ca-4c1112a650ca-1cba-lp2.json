@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Transit 2.4 TDCI - Visteon 4C11-12A650-CA, 4C1112A650CA, 1CBA, LP2-337 - Warranty Included",
+  "slug": "plug-play-ecu-ford-transit-2-4-tdci-visteon-4c11-12a650-ca-4c1112a650ca-1cba-lp2",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Ford Transit 2.4 TDCI by Visteon (4C11-12A650-CA, 4C1112A650CA, 1CBA, LP2-337). Enjoy a 6-month warranty and fast shipping.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Transit 2.4 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Transit",
+    "Visteon",
+    "2.4 TDCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Transit 2.4 TDCI by Visteon is a reliable solution to your engine control unit issues.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play Design</li>\n<li>6-month Warranty</li>\n<li>Fast Shipping</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FORD TRANSIT</td></tr>\n<tr><th>ENGINE</th><td>2.4 TDCI</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>VISTEON 4C11-12A650-CA</td></tr>\n<tr><th>NUMBER PARTS</th><td>1CBA</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD TRANSIT 2.4 TDCI VISTEON 4C11-12A650-CA, 4C1112A650CA, 1CBA, LP2-337",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-TRANSIT-2.4-TDCI-VISTEON-4C11-12A650-CA%2C-4C1112A650CA%2C-1CBA%2C-LP2-337-/85648",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "FE92-7730F_20160208105411",
+    "sku": "FE92-7730F_20160208105411",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD TRANSIT 2.4 TDCI VISTEON 4C11-12A650-CA, 4C1112A650CA, 1CBA, LP2-337 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9a9329f218924f4f0ddb4de76f691ecf_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_fe9958b271a14f863f81a9ae375afc74_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD TRANSIT",
+      "ENGINE": "2.4 TDCI",
+      "NUMBER MANUFACTURER": "VISTEON 4C11-12A650-CA",
+      "NUMBER PARTS": "1CBA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:05:32.387Z",
+    "model": "mistral:7b",
+    "durationMs": 11409,
+    "priceIncrement": 100
+  }
+}

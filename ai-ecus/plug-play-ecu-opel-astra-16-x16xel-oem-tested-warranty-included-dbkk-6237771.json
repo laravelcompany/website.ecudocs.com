@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Opel Astra 1.6 X16XEL OEM Tested, Warranty Included (DBKK, 6237771)",
+  "slug": "plug-play-ecu-opel-astra-16-x16xel-oem-tested-warranty-included-dbkk-6237771",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Opel Astra 1.6 X16XEL, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra 1.6 X16XEL",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "1.6 X16XEL",
+    "OEM Tested",
+    "Warranty"
+  ],
+  "description": "<section class=\"overview\">This Delphi Delco ECU Engine Controller for Opel Astra 1.6 X16XEL has been thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM-tested for guaranteed fitment</li>\n        <li>6-month warranty included</li>\n        <li>Used in good condition</li>\n        <li>Locked, ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA</td></tr>\n        <tr><th>ENGINE:</th><td>1.6 X16XEL</td></tr>\n        <tr><th>YEAR:</th><td>1998-2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>16 250 009</td></tr>\n        <tr><th>CODE:</th><td>DBKK</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>HSFI-C</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra and Vauxhall Zafira models from 1998 to 2000. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA 1.6 X16XEL 16250009 DBKK, 6237771, 62 37 771",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-ASTRA-ZAFIRA-1.6-X16XEL-16250009-DBKK%2C-6237771%2C-62-37-771/26072",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "7103_20120619133638",
+    "sku": "7103_20120619133638",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA 1.6 X16XEL 16250009 DBKK, 6237771, 62 37 771</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA",
+      "ENGINE": "1.6 X16XEL",
+      "YEAR": "1998-2000",
+      "NUMBER MANUFACTURER": "16 250 009",
+      "CODE": "DBKK",
+      "NUMBER PARTS": "HSFI-C",
+      "OPTION AVAILABLE": "Locked / Ready for programming / complet",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:35:28.378Z",
+    "model": "mistral:7b",
+    "durationMs": 10457,
+    "priceIncrement": 100
+  }
+}

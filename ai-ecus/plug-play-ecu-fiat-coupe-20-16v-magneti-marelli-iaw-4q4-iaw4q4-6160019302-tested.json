@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Coupe 2.0 16V Engine - Magneti Marelli IAW 4Q4, IAW4Q4, 6160019302 - OEM Tested",
+  "slug": "plug-play-ecu-fiat-coupe-20-16v-magneti-marelli-iaw-4q4-iaw4q4-6160019302-tested",
+  "metaDescription": "Buy the tested ECU Engine Controller for Fiat Coupe 2.0 16V. Plug & Play, OEM Tested, 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Coupe",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Coupe",
+    "Magneti Marelli",
+    "IAW 4Q4"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your Fiat Coupe 2.0 16V engine.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT COUPE</td></tr>\n        <tr><th>ENGINE</th><td>2.0 16V</td></tr>\n        <tr><th>YEAR</th><td>1995</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI IAW 4Q4</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6160019302</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Coupe 2.0 16V engine. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT COUPE MAGNETI MARELLI IAW 4Q4, IAW4Q4, 6160019302",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-COUPE-MAGNETI-MARELLI-IAW-4Q4%2C-IAW4Q4%2C-6160019302/62666",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "D9DF-183CF_20140811110010",
+    "sku": "D9DF-183CF_20140811110010",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT COUPE MAGNETI MARELLI IAW 4Q4, IAW4Q4, 6160019302</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_7c437520334dff4d3bf42e5e4e1d5651_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_646722ea40575cc35be4e459faa802cc_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT COUPE",
+      "ENGINE": "2.0 16V",
+      "YEAR": "1995",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 4Q4",
+      "NUMBER PARTS": "6160019302",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:31:10.419Z",
+    "model": "mistral:7b",
+    "durationMs": 9761,
+    "priceIncrement": 100
+  }
+}

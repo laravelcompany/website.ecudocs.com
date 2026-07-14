@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - SKODA Octavia 1.8 TSI OEM Tested - SIMOS PPD1.2, Warranty Included",
+  "slug": "plug-play-ecu-replacement-skoda-octavia-18-tsi-siemens-5wp45561-af-simos-ppd12-w",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for SKODA Octavia 1.8 TSI. OEM Tested, Warranty Included. Fast dispatch in EU.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for SKODA Octavia 1.8 TSI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA Octavia",
+    "1.8 TSI",
+    "Siemens"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a tested, reliable replacement for your SKODA Octavia 1.8 TSI. Trust our OEM-certified technicians for quality and peace of mind.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for added protection</li>\n        <li>Used, original part in good condition</li>\n        <li>Ready for programming if required</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SKODA</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>5WP45561 AF</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>SIMOS PPD1.2</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SKODA Octavia 1.8 TSI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA 03G906018EB, 5WP45561 AF, 5WP45561AF, SIMOS PPD1.2",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-03G906018EB%2C-5WP45561-AF%2C-5WP45561AF%2C-SIMOS-PPD1.2/124149",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "FA63-7179D_20210222185813",
+    "sku": "FA63-7179D_20210222185813",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA 03G906018EB, 5WP45561 AF, 5WP45561AF, SIMOS PPD1.2</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA",
+      "NUMBER MANUFACTURER": "5WP45561 AF",
+      "NUMBER PARTS": "SIMOS PPD1.2",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:17:44.596Z",
+    "model": "mistral:7b",
+    "durationMs": 12177,
+    "priceIncrement": 100
+  }
+}

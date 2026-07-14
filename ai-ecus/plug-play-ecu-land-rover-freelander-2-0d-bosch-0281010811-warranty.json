@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Land Rover Freelander 2.0 D Bosch 0 281 010 811, Warranty Included",
+  "slug": "plug-play-ecu-land-rover-freelander-2-0d-bosch-0281010811-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller Land Rover Freelander 2.0 D Bosch 0 281 010 811, used in good condition with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Land Rover Freelander 2.0 D Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Land Rover Freelander",
+    "Bosch 0 281 010 811",
+    "DDE 7 792 938"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is specifically designed for Land Rover Freelander 2.0 D models with Bosch part number 0 281 010 811 and DDE 7 792 938. It ensures optimal engine performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>LAND ROVER FREELANDER</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 D</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 811</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>DDE 7 792 938</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LAND ROVER FREELANDER 2.0 D BOSCH 0 281 010 811, 0281010811, DDE 7 792 938, 7792938",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LAND-ROVER-FREELANDER-2.0-D-BOSCH-0-281-010-811%2C-0281010811%2C-DDE-7-792-938%2C-7792938-/82225",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D4AC-876A6_20151122210816",
+    "sku": "D4AC-876A6_20151122210816",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LAND ROVER FREELANDER 2.0 D BOSCH 0 281 010 811, 0281010811, DDE 7 792 938, 7792938 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LAND ROVER FREELANDER",
+      "ENGINE": "2.0 D",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 811",
+      "NUMBER PARTS": "DDE 7 792 938",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:43:41.792Z",
+    "model": "mistral:7b",
+    "durationMs": 9824,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Peugeot 207/308 1.4 16V - Bosch 0261S04009, 1039S25679",
+  "slug": "plug-play-ecu-peugeot-207-308-1-4-oem-tested",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Peugeot 207/308 1.4 16V with a 6-month warranty. Fast dispatch and EU shipping available.",
+  "price": "€330.00",
+  "excerpt": "OEM tested Plug & Play ECU replacement for Peugeot 207/308 1.4 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0261S04009",
+    "Peugeot 207 308",
+    "1.4 16V"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is specifically designed for Peugeot 207/308 1.4 16V engines, ensuring optimal performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 207 308</td></tr>\n        <tr><th>ENGINE</th><td>1.4 16V</td></tr>\n        <tr><th>YEAR</th><td>2008</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S04 009</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S25679</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Peugeot 207 and 308 models equipped with a 1.4 16V engine. Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 207 308 1.4 16V 9665291180 9663193780 BOSCH 0261S04009 1039S25679 RB CMME MEV174 CEM0 MEV17.4",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-207-308-1.4-16V-9665291180-9663193780-BOSCH-0261S04009-1039S25679-RB-CMME-MEV174-CEM0-MEV17.4-/16490",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7728-75335",
+    "sku": "7728-75335",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 207 308 1.4 16V 9665291180 9663193780 BOSCH 0261S04009 1039S25679 RB CMME MEV174 CEM0 MEV17.4 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 207 308",
+      "ENGINE": "1.4 16V",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S04 009",
+      "NUMBER PARTS": "1039S25679",
+      "OPTION AVAILABLE": "Plug & Play / Locked",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:56:32.655Z",
+    "model": "mistral:7b",
+    "durationMs": 11939,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Twingo 1.2 Magneti Marelli IAW 6R.30, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-twingo-12-magneti-marelli-iaw-6r30",
+  "metaDescription": "OEM tested ECU Engine Controller for Renault Twingo 1.2 Magneti Marelli IAW 6R.30, backed by a 6-month warranty and fast dispatch.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Twingo 1.2 Magneti Marelli IAW 6R.30",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Magneti Marelli IAW 6R.30",
+    "Renault Twingo"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Renault Twingo 1.2 Magneti Marelli IAW 6R.30.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for guaranteed fitment</li><li>6-month warranty for peace of mind</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Twingo 1.2 Magneti Marelli IAW 6R.30. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT TWINGO 1.2 MAGNETI MARELLI IAW 6R.30, IAW6R30, 7700860324, 7700874631, 16231.014, 16231014",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-TWINGO-1.2-MAGNETI-MARELLI-IAW-6R.30%2C-IAW6R30%2C-7700860324%2C-7700874631%2C-16231.014%2C-16231014/16666",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "4F67-11282",
+    "sku": "4F67-11282",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT TWINGO 1.2 MAGNETI MARELLI IAW 6R.30, IAW6R30, 7700860324, 7700874631, 16231.014, 16231014</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT TWINGO",
+      "ENGINE": "1.2",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 6R.30",
+      "NUMBER PARTS": "16231.014",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:18:32.707Z",
+    "model": "mistral:7b",
+    "durationMs": 6769,
+    "priceIncrement": 100
+  }
+}

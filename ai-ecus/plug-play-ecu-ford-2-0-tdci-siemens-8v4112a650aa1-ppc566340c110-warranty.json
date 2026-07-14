@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford 2.0 TDCI - Siemens 8V41-12A650-AA1, PPC566340C110 - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-2-0-tdci-siemens-8v4112a650aa1-ppc566340c110-warranty",
+  "metaDescription": "Get a certified Plug & Play ECU replacement for your Ford 2.0 TDCI engine, tested and covered by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford 2.0 TDCI",
+    "Siemens",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU replacement for your Ford 2.0 TDCI engine ensures seamless performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Certified Technician Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD</td></tr>\n        <tr><th>ENGINE</th><td>2.0 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>8V41-12A650-AA1</td></tr>\n        <tr><th>NUMBER PARTS</th><td>PPC566340C110</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford 2.0 TDCI engines only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 2.0 TDCI 8V41-12A650-AA1, 8V4112A650AA1, 5010344, PPC566340C110",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-2.0-TDCI-8V41-12A650-AA1%2C-8V4112A650AA1%2C-5010344%2C-PPC566340C110-/42258",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "2E31-576D7",
+    "sku": "2E31-576D7",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 2.0 TDCI 8V41-12A650-AA1, 8V4112A650AA1, 5010344, PPC566340C110 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "8V41-12A650-AA1",
+      "NUMBER PARTS": "PPC566340C110",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:50:14.706Z",
+    "model": "mistral:7b",
+    "durationMs": 9990,
+    "priceIncrement": 100
+  }
+}

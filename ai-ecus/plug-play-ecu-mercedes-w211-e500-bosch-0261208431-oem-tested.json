@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W211 E500 Bosch 0261208431, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w211-e500-bosch-0261208431-oem-tested",
+  "metaDescription": "Buy this Plug & Play ECU Engine Controller for Mercedes W211 E500. OEM tested, 6-month warranty, and fast shipping.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W211 E500",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W211 E500",
+    "Bosch 0261208431"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Mercedes W211 E500 is OEM tested, ensuring a reliable replacement.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MERCEDES W211</td></tr>\n<tr><td>ENGINE</td><td>E500</td></tr>\n<tr><td>YEAR</td><td>2005</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 208 431</td></tr>\n<tr><td>NUMBER PARTS</td><td>A 113 153 44 79</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W211 E500. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W211 E500 BOSCH 0261208431, 0 261 208 431, A1131534479, A 113 153 44 79, 1131534479",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W211-E500-BOSCH-0261208431%2C-0-261-208-431%2C-A1131534479%2C-A-113-153-44-79%2C-1131534479/24520",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B19C-73579_20120531224919",
+    "sku": "B19C-73579_20120531224919",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W211 E500 BOSCH 0261208431, 0 261 208 431, A1131534479, A 113 153 44 79, 1131534479</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W211",
+      "ENGINE": "E500",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 208 431",
+      "NUMBER PARTS": "A 113 153 44 79",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:37:48.308Z",
+    "model": "mistral:7b",
+    "durationMs": 10069,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT IBIZA 1.0 AAU Bosch 0261204054/055",
+  "slug": "plug-play-ecu-replacement-seat-ibiza-1-0-aau-bosch-0261204054-oem-tested",
+  "metaDescription": "OEM Tested Plug & Play ECU Replacement for SEAT IBIZA 1.0 AAU, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€87.00",
+  "excerpt": "Plug & Play ECU Replacement for SEAT IBIZA 1.0 AAU",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT IBIZA",
+    "1.0 AAU",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for SEAT IBIZA 1.0 AAU is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SEAT IBIZA</td></tr>\n        <tr><th>ENGINE</th><td>1.0 AAU</td></tr>\n        <tr><th>YEAR</th><td>1997-99</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 204 054 / 055</td></tr>\n        <tr><th>NUMBER PARTS</th><td>26SA4315</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA 1.0 AAU 6K0906027A, 6K0 906 027 A, BOSCH 0261204054/055, 0261204055",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-1.0-AAU-6K0906027A%2C-6K0-906-027-A%2C-BOSCH-0261204054055%2C-0261204055/14381",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FE2A-47410",
+    "sku": "FE2A-47410",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA 1.0 AAU 6K0906027A, 6K0 906 027 A, BOSCH 0261204054/055, 0261204055</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.0 AAU",
+      "YEAR": "1997-99",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 054 / 055",
+      "NUMBER PARTS": "26SA4315",
+      "OPTION AVAILABLE": "Plug & Play",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:51:35.806Z",
+    "model": "mistral:7b",
+    "durationMs": 8903,
+    "priceIncrement": 100
+  }
+}

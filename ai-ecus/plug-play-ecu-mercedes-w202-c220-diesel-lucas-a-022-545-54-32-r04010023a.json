@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W202 C220 2.2 Diesel Engine - OEM Tested - Lucas A 022 545 54 32 R04010023A, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w202-c220-diesel-lucas-a-022-545-54-32-r04010023a",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for your Mercedes W202 C220 Diesel. OEM Tested, 6-month warranty, and fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W202 C220 Diesel Engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W202 C220",
+    "Diesel engine",
+    "Lucas part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for your Mercedes W202 C220 2.2 Diesel Engine is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W202 C220</td></tr>\n        <tr><th>ENGINE</th><td>2.2 DIESEL</td></tr>\n        <tr><th>YEAR</th><td>1997-98</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>R04010023A, R 04010023 A</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0225455432</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W202 C220 Diesel Engine. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W202 C220 DIESEL A0225455432, 0225455432, A 022 545 54 32 R04010023A, R 04010023 A",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W202-C220-DIESEL-A0225455432%2C-0225455432%2C-A-022-545-54-32-R04010023A%2C-R-04010023-A/28316",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "084B-60150_20120824181002",
+    "sku": "084B-60150_20120824181002",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W202 C220 DIESEL A0225455432, 0225455432, A 022 545 54 32 R04010023A, R 04010023 A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_ef83ca9eef7a74e6ca47b0cf8eaaa48e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_29b6e2c7213161aedd1533f4e14ecf1f_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W202 C220",
+      "ENGINE": "2.2 DIESEL",
+      "YEAR": "1997-98",
+      "NUMBER MANUFACTURER": "R04010023A, R 04010023 A",
+      "NUMBER PARTS": "0225455432",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:16:53.440Z",
+    "model": "mistral:7b",
+    "durationMs": 10307,
+    "priceIncrement": 100
+  }
+}

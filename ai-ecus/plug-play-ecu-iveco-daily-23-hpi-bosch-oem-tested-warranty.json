@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Engine Controller IVECO DAILY 2.3 HPI BOSCH OEM Tested 0 281 011 228, 504073032 - Warranty Included",
+  "slug": "plug-play-ecu-iveco-daily-23-hpi-bosch-oem-tested-warranty",
+  "metaDescription": "OEM tested ECU Engine Controller for IVECO DAILY 2.3 HPI, Plug & Play replacement. Covered by a 6-month warranty.",
+  "price": "€700.00",
+  "excerpt": "Plug & Play ECU Engine Controller for IVECO DAILY 2.3 HPI",
+  "tags": [
+    "ECU Replacement",
+    "IVECO DAILY",
+    "2.3 HPI",
+    "BOSCH",
+    "0 281 011 228",
+    "504073032"
+  ],
+  "description": "<section class=\"overview\">This ECU Engine Controller for IVECO DAILY 2.3 HPI is a tested and reliable replacement, ensuring smooth engine operation.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with IVECO DAILY 2.3 HPI. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER IVECO DAILY 2.3 HPI BOSCH 0 281 011 228, 0281011228, 504073032",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-IVECO-DAILY-2.3-HPI-BOSCH-0-281-011-228%2C-0281011228%2C-504073032-/82136",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D2C4-65158_20151120092815",
+    "sku": "D2C4-65158_20151120092815",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER IVECO DAILY 2.3 HPI BOSCH 0 281 011 228, 0281011228, 504073032 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "IVECO DAILY",
+      "ENGINE": "2.3 HPI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 228",
+      "NUMBER PARTS": "504073032",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:52:38.115Z",
+    "model": "mistral:7b",
+    "durationMs": 6556,
+    "priceIncrement": 100
+  }
+}

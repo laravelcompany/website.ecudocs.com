@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Nissan - MEC32-100 F3, U9 - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-for-nissan-mec32-100-f3-u9-warranty",
+  "metaDescription": "Buy a Plug & Play OEM tested ECU Engine Controller for Nissan, MEC32-100 F3, U9. This used original part in good condition comes with a 6-month warranty and is ready for immediate dispatch.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Nissan",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan MEC32-100 F3",
+    "MEC32100F3",
+    "U9",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Nissan has been thoroughly inspected and tested by a certified technician to ensure optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used Original in Good Condition</li><li>Ready for Programming</li></ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>NISSAN</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>MEC32-100 F3</td></tr>\n<tr><th>NUMBER PARTS</th><td>U9</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN, MEC32-100 F3, MEC32100 F3, MEC32100F3, 3723, U9",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN%2C-MEC32-100-F3%2C-MEC32100-F3%2C-MEC32100F3%2C-3723%2C-U9/38412",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "356D-72970_20130724104321",
+    "sku": "356D-72970_20130724104321",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN, MEC32-100 F3, MEC32100 F3, MEC32100F3, 3723, U9</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN",
+      "NUMBER MANUFACTURER": "MEC32-100 F3",
+      "NUMBER PARTS": "U9",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:51:26.054Z",
+    "model": "mistral:7b",
+    "durationMs": 9968,
+    "priceIncrement": 100
+  }
+}

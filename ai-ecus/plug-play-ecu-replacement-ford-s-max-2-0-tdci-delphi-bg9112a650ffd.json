@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford S-MAX 2.0 TDCI OEM Tested - BG91-12A650-FFD, Delphi",
+  "slug": "plug-play-ecu-replacement-ford-s-max-2-0-tdci-delphi-bg9112a650ffd",
+  "metaDescription": "OEM tested ECU replacement for Ford S-MAX 2.0 TDCI, offering a seamless Plug & Play installation. Covered by a 6-month warranty.",
+  "price": "€650.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford S-MAX 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford S-MAX",
+    "2.0 TDCI",
+    "Delphi",
+    "BG9112A650FFD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Ford S-MAX 2.0 TDCI offers a seamless Plug & Play installation and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play Installation</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD S-MAX</td></tr>\n        <tr><th>ENGINE</th><td>2.0 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2012</td></tr>\n        <tr><th>NUMBER PARTS</th><td>BG9112A650FFD</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific model year. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD S-MAX 2.0 TDCI 28362908, BG91-12A650-FFD, BG9112A650FFD",
+    "price": "€550.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-S-MAX-2.0-TDCI-28362908%2C-BG91-12A650-FFD%2C-BG9112A650FFD-/56744",
+    "priceCurrency": "EUR",
+    "netPrice": "€447.16",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "697E-3649D_20140523132842",
+    "sku": "697E-3649D_20140523132842",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  FORD S-MAX 2.0 TDCI 28362908, BG91-12A650-FFD, BG9112A650FFD </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD S-MAX",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2012",
+      "NUMBER PARTS": "BG9112A650FFD",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:00:59.799Z",
+    "model": "mistral:7b",
+    "durationMs": 9185,
+    "priceIncrement": 100
+  }
+}

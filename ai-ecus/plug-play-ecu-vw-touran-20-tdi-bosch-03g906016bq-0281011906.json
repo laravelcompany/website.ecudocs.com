@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for VW Touran 2.0 TDI - OEM Tested Bosch 03G906016BQ 0281011906",
+  "slug": "plug-play-ecu-vw-touran-20-tdi-bosch-03g906016bq-0281011906",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your VW Touran 2.0 TDI, tested and covered by a 6-month warranty. Order today!",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for VW Touran 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "VW Touran",
+    "2.0 TDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your VW Touran 2.0 TDI engine, ensuring optimal performance and reliability.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM Tested for guaranteed fitment</li><li>6-month warranty for peace of mind</li><li>Used in good condition</li><li>Ready for programming</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>VW VOLKSWAGEN TOURAN</td></tr><tr><th>ENGINE</th><td>2.0 TDI</td></tr><tr><th>YEAR</th><td>2005-06</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 906</td></tr><tr><th>NUMBER PARTS</th><td>1039S06275</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with VW Touran 2.0 TDI engines only. Fitment may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VOLKSWAGEN 03G906016BQ 0281011906",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VOLKSWAGEN-03G906016BQ-0281011906/15923",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3AF6-441B5",
+    "sku": "3AF6-441B5",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER VOLKSWAGEN  03G906016BQ 0281011906</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VW VOLKSWAGEN TOURAN",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "2005-06",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 906",
+      "NUMBER PARTS": "1039S06275",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:45:10.656Z",
+    "model": "mistral:7b",
+    "durationMs": 8758,
+    "priceIncrement": 100
+  }
+}

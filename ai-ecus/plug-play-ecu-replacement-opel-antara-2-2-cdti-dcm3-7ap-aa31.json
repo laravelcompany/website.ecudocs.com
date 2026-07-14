@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Antara 2.2 CDTI - OEM Tested, Warranty Included (DCM3.7AP AA31)",
+  "slug": "plug-play-ecu-replacement-opel-antara-2-2-cdti-dcm3-7ap-aa31",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Opel Antara 2.2 CDTI, backed by a 6-month warranty. Order now for fast EU dispatch.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested ECU Replacement for Opel Antara 2.2 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Antara",
+    "2.2 CDTI",
+    "DCM3.7AP AA31"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller is a reliable replacement for your Opel Antara 2.2 CDTI.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM quality for optimal performance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Locked and ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CHEVROLET HOLDEN VAUXHALL ANTARA</td></tr>\n        <tr><th>ENGINE</th><td>2.2 CDTI</td></tr>\n        <tr><th>YEAR</th><td>2008</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DCM3.7AP</td></tr>\n        <tr><th>CODE</th><td>AA31</td></tr>\n        <tr><th>NUMBER PARTS</th><td>595172891</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel Antara 2.2 CDTI only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ANTARA 2.2 CDTI 25184305, 28311471, 96951477, 595172891 DCM3.7AP AA31",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-ANTARA-2.2-CDTI-25184305%2C-28311471%2C-96951477%2C-595172891-DCM3.7AP-AA31-/23649",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "E6FA-39957_20120528125655",
+    "sku": "E6FA-39957_20120528125655",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ANTARA 2.2 CDTI 25184305, 28311471, 96951477, 595172891 DCM3.7AP AA31 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL ANTARA",
+      "ENGINE": "2.2 CDTI",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "DCM3.7AP",
+      "CODE": "AA31",
+      "NUMBER PARTS": "595172891",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:30:21.189Z",
+    "model": "mistral:7b",
+    "durationMs": 9853,
+    "priceIncrement": 100
+  }
+}

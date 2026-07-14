@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A8 OEM Tested 5WP4611701 SIMOS 8.20 - Warranty Included",
+  "slug": "plug-play-ecu-audi-a8-oem-tested-5wp4611701-simos-8-20-warranty-included",
+  "metaDescription": "Expertly tested ECU Replacement for Audi A8 (5WP4611701, SIMOS 8.20) with Plug & Play feature and 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A8",
+    "5WP4611701",
+    "SIMOS 8.20"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Replacement for Audi A8 (5WP4611701, SIMOS 8.20) ensures seamless engine control.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play feature</li>\n<li>OEM tested and certified</li>\n<li>6-month warranty</li>\n<li>Compatible with Audi A8</li>\n<li>Used in good condition</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL:</th><td>AUDI</td></tr>\n<tr><th>NUMBER MANUFACTURER:</th><td>5WP46117 01</td></tr>\n<tr><th>NUMBER PARTS:</th><td>SIMOS 8.20</td></tr>\n<tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A8. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI 8T0 907 55 9D, 8T0907559D, 5WP4611701, 5WP46117 01, SIMOS 8.20",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-8T0-907-55-9D%2C-8T0907559D%2C-5WP4611701%2C-5WP46117-01%2C-SIMOS-8.20/124122",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "F44E-376D7_20210222153427",
+    "sku": "F44E-376D7_20210222153427",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI 8T0 907 55 9D, 8T0907559D,  5WP4611701, 5WP46117 01,  SIMOS 8.20</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI",
+      "NUMBER MANUFACTURER": "5WP46117 01",
+      "NUMBER PARTS": "SIMOS 8.20",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:40:30.117Z",
+    "model": "mistral:7b",
+    "durationMs": 10011,
+    "priceIncrement": 100
+  }
+}

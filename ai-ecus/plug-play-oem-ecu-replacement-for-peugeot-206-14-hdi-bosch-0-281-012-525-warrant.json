@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for PEUGEOT 206 1.4 HDI - Bosch 0 281 012 525, Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-for-peugeot-206-14-hdi-bosch-0-281-012-525-warrant",
+  "metaDescription": "Get a tested and certified Plug & Play OEM ECU replacement for your PEUGEOT 206 1.4 HDI with a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€80.00",
+  "excerpt": "OEM ECU Replacement for PEUGEOT 206 1.4 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 012 525",
+    "PEUGEOT 206"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU replacement for the PEUGEOT 206 1.4 HDI is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked / Full ECU Set Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>PEUGEOT 206</td></tr>\n        <tr><th>ENGINE:</th><td>1.4 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 012 525</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>96 613 763 80</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle condition and history. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 206 1.4 HDI BOSCH 0 281 012 525, 0281012525, 96 613 763 80, 9661376380, EDC16C34",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-206-1.4-HDI-BOSCH-0-281-012-525%2C-0281012525%2C-96-613-763-80%2C-9661376380%2C-EDC16C34-/98380",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F546-631EC_20161017120139",
+    "sku": "F546-631EC_20161017120139",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 206 1.4 HDI BOSCH 0 281 012 525, 0281012525, 96 613 763 80, 9661376380, EDC16C34 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_0a0e5ba14e0e81ce660d4ac954664322_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_dc2087e9d3f9f4fe066e11ae09d26d16_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 206",
+      "ENGINE": "1.4 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 525",
+      "NUMBER PARTS": "96 613 763 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / ECU FULL SET",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:41:14.846Z",
+    "model": "mistral:7b",
+    "durationMs": 9670,
+    "priceIncrement": 100
+  }
+}

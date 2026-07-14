@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 1.8 - Visteon 2S7A12A650AEA, YBE0 - Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-1-8-visteon-2s7a12a650aeaybe0-warranty",
+  "metaDescription": "Buy OEM tested, Plug & Play ECU replacement for Ford Mondeo 1.8 by Visteon (2S7A12A650AEA, YBE0). Ships within 24–48 hours with 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "2S7A12A650AEA",
+    "YBE0"
+  ],
+  "description": "<section class=\"overview\">This OEM tested, Plug & Play ECU replacement for Ford Mondeo 1.8 by Visteon ensures seamless engine control.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch (EU)</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER PARTS</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FORD MONDEO</td><td>1.8</td><td>YBE0</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORIGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours with 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo 1.8. Fitment caution may apply, consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 1.8 2S7A-12A650-AEA, 2S7A12A650AEA, YBE0",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-1.8-2S7A-12A650-AEA%2C-2S7A12A650AEA%2C-YBE0/53391",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "8762-1763E_20140402154556",
+    "sku": "8762-1763E_20140402154556",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 1.8 2S7A-12A650-AEA, 2S7A12A650AEA, YBE0</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "1.8",
+      "NUMBER PARTS": "YBE0",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:32:03.296Z",
+    "model": "mistral:7b",
+    "durationMs": 8815,
+    "priceIncrement": 100
+  }
+}

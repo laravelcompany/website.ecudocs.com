@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT Grande Punto 1.4 Magneti Marelli IAW 5SF3.M2, 61601.099.06 - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-fiat-grande-punto-14-magneti-marelli-iaw-5sf3m2-6160109906-oem-tes",
+  "metaDescription": "Buy this Plug & Play ECU Replacement for your FIAT Grande Punto 1.4 with Magneti Marelli IAW 5SF3.M2, 61601.099.06. OEM tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT Grande Punto 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT Grande Punto",
+    "Magneti Marelli",
+    "IAW 5SF3.M2",
+    "61601.099.06"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Replacement is specifically designed for your FIAT Grande Punto 1.4 with Magneti Marelli IAW 5SF3.M2, 61601.099.06.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty included</li>\n        <li>Used in good condition</li>\n        <li>Locked/unlocked options available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT GRANDE PUNTO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI IAW 5SF3.M2</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>61601.099.06</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on your vehicle's specifications. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT GRANDE PUNTO 1.4 MAGNETI MARELLI IAW 5SF3.M2, IAW5SF3M2, 51784957, 61601.099.06, 6160109906",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-GRANDE-PUNTO-1.4-MAGNETI-MARELLI-IAW-5SF3.M2%2C-IAW5SF3M2%2C-51784957%2C-61601.099.06%2C-6160109906/42054",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "2ADE-6933F",
+    "sku": "2ADE-6933F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT GRANDE PUNTO 1.4 MAGNETI MARELLI IAW 5SF3.M2, IAW5SF3M2, 51784957, 61601.099.06, 6160109906</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4c04ba9c9626d2f32c344dfe9363b39b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9411dd43622f08e253b5e7a279cdee15_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT GRANDE PUNTO",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 5SF3.M2",
+      "NUMBER PARTS": "61601.099.06",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:54:50.876Z",
+    "model": "mistral:7b",
+    "durationMs": 14328,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Ford 1.8 TDCI OEM Tested Siemens 5WS40419F-T, SID206 - Warranty Included",
+  "slug": "plug-play-ecu-ford-18-tdci-siemens-5ws40419ft-sid206-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Ford 1.8 TDCI with OEM Tested and Warranty. Fast dispatch within EU.",
+  "price": "€485.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford 1.8 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford 1.8 TDCI",
+    "Siemens ECU",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Ford 1.8 TDCI is OEM tested, reliable, and comes with a warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used Oryginal in Good Condition</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD 1.8 TDCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>5WS40419F-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>SID206</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford 1.8 TDCI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 1.8 TDCI 5WS40419F-T, 5WS40419FT, 6G91-12A650-LF, 6G9112A650LF, SID206",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-1.8-TDCI-5WS40419F-T%2C-5WS40419FT%2C-6G91-12A650-LF%2C-6G9112A650LF%2C-SID206/109741",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "314E-1841F_20180514143027",
+    "sku": "314E-1841F_20180514143027",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 1.8 TDCI 5WS40419F-T, 5WS40419FT, 6G91-12A650-LF, 6G9112A650LF, SID206</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "ENGINE": "1.8 TDCI",
+      "NUMBER MANUFACTURER": "5WS40419F-T",
+      "NUMBER PARTS": "SID206",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:48:10.818Z",
+    "model": "mistral:7b",
+    "durationMs": 9352,
+    "priceIncrement": 100
+  }
+}

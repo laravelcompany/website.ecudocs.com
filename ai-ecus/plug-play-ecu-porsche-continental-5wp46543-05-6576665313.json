@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - PORSCHE Engine Controller Continental 5WP46543 05 - 6576665313",
+  "slug": "plug-play-ecu-porsche-continental-5wp46543-05-6576665313",
+  "metaDescription": "OEM Tested ECU Engine Controller for PORSCHE, offering Plug & Play installation and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€880.00",
+  "excerpt": "Plug & Play ECU Replacement for PORSCHE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PORSCHE engine controller",
+    "Continental 5WP46543",
+    "6576665313"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and thoroughly inspected ECU Engine Controller for PORSCHE offers Plug & Play installation, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PORSCHE</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>CONTINENTAL 5WP46543 05</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>6576665313</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on your vehicle's specific model and year. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PORSCHE 97061860103 6576665313 CONTINENTAL 5WP46543 05 5WP4654305",
+    "price": "€800.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PORSCHE-97061860103-6576665313-CONTINENTAL-5WP46543-05-5WP4654305-/16773",
+    "priceCurrency": "EUR",
+    "netPrice": "€650.41",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "6576-91209",
+    "sku": "6576-91209",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PORSCHE 97061860103 6576665313 CONTINENTAL 5WP46543 05 5WP4654305 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PORSCHE",
+      "NUMBER MANUFACTURER": "CONTINENTAL 5WP46543 05",
+      "NUMBER PARTS": "6576665313",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:36:47.609Z",
+    "model": "mistral:7b",
+    "durationMs": 12315,
+    "priceIncrement": 100
+  }
+}

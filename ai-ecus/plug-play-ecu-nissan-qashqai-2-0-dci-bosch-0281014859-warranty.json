@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Nissan Qashqai 2.0 DCI - Bosch 0281014859, 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-qashqai-2-0-dci-bosch-0281014859-warranty",
+  "metaDescription": "Expertly tested ECU replacement for Nissan Qashqai 2.0 DCI, featuring Plug & Play compatibility and backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Nissan Qashqai 2.0 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Qashqai",
+    "Bosch",
+    "2.0 DCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Nissan Qashqai 2.0 DCI is a reliable solution, offering Plug & Play compatibility and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Compatibility</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN QASHQAI</td></tr>\n        <tr><th>ENGINE</th><td>2.0 DCI</td></tr>\n        <tr><th>YEAR</th><td>2010</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 014 859</td></tr>\n        <tr><th>NUMBER PARTS</th><td>23710JD78E</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Compatible with Nissan Qashqai 2.0 DCI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN QASHQAI 2.0 DCI BOSCH 0281014859, 0 281 014 859, 23710 JD78E, 23710JD78E",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-QASHQAI-2.0-DCI-BOSCH-0281014859%2C-0-281-014-859%2C-23710-JD78E%2C-23710JD78E-/16783",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B13A-495C2",
+    "sku": "B13A-495C2",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN QASHQAI 2.0 DCI BOSCH 0281014859, 0 281 014 859, 23710 JD78E, 23710JD78E </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN QASHQAI",
+      "ENGINE": "2.0 DCI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 859",
+      "NUMBER PARTS": "23710JD78E",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:41:51.061Z",
+    "model": "mistral:7b",
+    "durationMs": 9628,
+    "priceIncrement": 100
+  }
+}

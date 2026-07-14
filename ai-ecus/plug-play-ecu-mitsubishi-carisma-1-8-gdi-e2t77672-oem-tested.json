@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mitsubishi Carisma 1.8 GDI OEM Tested, Warranty Included (E2T77672)",
+  "slug": "plug-play-ecu-mitsubishi-carisma-1-8-gdi-e2t77672-oem-tested",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Mitsubishi Carisma 1.8 GDI with 6-month warranty. Tested and ready for immediate dispatch.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Mitsubishi Carisma 1.8 GDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mitsubishi Carisma",
+    "1.8 GDI",
+    "E2T77672"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable solution for your Mitsubishi Carisma 1.8 GDI.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Compatible with 2000-2004 Models</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MITSUBISHI CARISMA</td></tr>\n        <tr><th>ENGINE</th><td>1.8 GDI</td></tr>\n        <tr><th>YEAR</th><td>2000-2004</td></tr>\n        <tr><th>NUMBER PARTS</th><td>E2T77672</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MITSUBISHI CARISMA 1.8 GDI MR514210, E2T77672",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MITSUBISHI-CARISMA-1.8-GDI-MR514210%2C-E2T77672-/53307",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Mitsubishi",
+    "productCode": "C076-3100D_20140402103848",
+    "sku": "C076-3100D_20140402103848",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MITSUBISHI CARISMA 1.8 GDI MR514210, E2T77672 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MITSUBISHI CARISMA",
+      "ENGINE": "1.8 GDI",
+      "YEAR": "2000-2004",
+      "NUMBER PARTS": "E2T77672",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:50:03.243Z",
+    "model": "mistral:7b",
+    "durationMs": 10707,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for Mercedes W164 3.0 CDI - OEM Tested Bosch 0 281 013 381, A 642 150 63 91, CR4.12 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w164-30-cdi-bosch-0281013381-tested",
+  "metaDescription": "OEM tested ECU engine controller for Mercedes W164 3.0 CDI, Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€485.00",
+  "excerpt": "Plug & Play ECU replacement for Mercedes W164 3.0 CDI - OEM tested and warrantied.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W164",
+    "Bosch",
+    "3.0 CDI"
+  ],
+  "description": "<section class=\"overview\">This ECU engine controller for Mercedes W164 3.0 CDI is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch (EU)</li>\n<li>Used, Oryginal in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MERCEDES W164</td></tr>\n<tr><td>ENGINE</td><td>3.0 CDI</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 013 381</td></tr>\n<tr><td>NUMBER PARTS</td><td>CR4.12</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle configuration. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W164 3.0 CDI BOSCH 0 281 013 381, 0281013381, A 642 150 63 91, A6421506391, CR4.12",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W164-3.0-CDI-BOSCH-0-281-013-381%2C-0281013381%2C-A-642-150-63-91%2C-A6421506391%2C-CR4.12/109510",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "17B0-285A2_20180418160603",
+    "sku": "17B0-285A2_20180418160603",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W164 3.0 CDI BOSCH 0 281 013 381, 0281013381, A 642 150 63 91, A6421506391, CR4.12</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4c932b394aada706f3d20c2a84b4a287_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7364d837122f1149e3e436b3a976c060_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W164",
+      "ENGINE": "3.0 CDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 381",
+      "NUMBER PARTS": "CR4.12",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:03:08.660Z",
+    "model": "mistral:7b",
+    "durationMs": 9749,
+    "priceIncrement": 100
+  }
+}

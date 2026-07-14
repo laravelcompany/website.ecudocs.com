@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E87 E90 1.6 Engine Siemens 5WK93643, DME MSD80.2 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-e87-e90-16-siemens-5wk93643-dme-msd80-2-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for BMW E87 E90 1.6 engine with Siemens 5WK93643, DME MSD80.2. Plug & Play, warranty included.",
+  "price": "€430.00",
+  "excerpt": "OEM tested ECU replacement for BMW E87 E90 1.6 engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E87 E90",
+    "Siemens 5WK93643",
+    "DME MSD80.2"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for BMW E87 E90 1.6 engine with Siemens 5WK93643, DME MSD80.2 ensures seamless performance and reliability.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Expertly Inspected and Tested</li><li>Locked / Ready for Programming</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>INSPECTION:</th><th>WARRANTY :</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>BMW E87 E90</td><td>1.6</td><td>2007-2009</td><td>SIEMENS 5WK93643</td><td>DME MSD80.2</td><td>Locked / Ready for programming</td><td>Device thoroughly inspected and tested by a certified technician</td><td>6-month warranty</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E87 E90 SIEMENS 5WK93643, 12147583225, DME 7 583 225, 7583225, DME MSD80.2, DME7583225",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E87-E90-SIEMENS-5WK93643%2C-12147583225%2C-DME-7-583-225%2C-7583225%2C-DME-MSD80.2%2C-DME7583225-/12900",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "52B3-299F9",
+    "sku": "52B3-299F9",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E87 E90 SIEMENS 5WK93643, 12147583225, DME 7 583 225, 7583225, DME MSD80.2, DME7583225 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E87 E90",
+      "ENGINE": "1.6",
+      "YEAR": "2007-2009",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK93643",
+      "NUMBER PARTS": "DME MSD80.2",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:41:20.052Z",
+    "model": "mistral:7b",
+    "durationMs": 10573,
+    "priceIncrement": 100
+  }
+}

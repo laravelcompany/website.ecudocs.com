@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Skoda Octavia 2.0 TDI - OEM Tested, Warranty Included (BOSCH 0 281 014 712)",
+  "slug": "plug-play-ecu-skoda-octavia-2-0-tdi-oem-tested",
+  "metaDescription": "Expertly tested ECU replacement for Skoda Octavia 2.0 TDI, featuring Plug & Play compatibility and a 6-month warranty. Fast EU dispatch.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Skoda Octavia 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Octavia",
+    "2.0 TDI",
+    "BOSCH"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Skoda Octavia 2.0 TDI ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM tested and inspected</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast EU dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>SKODA OCTAVIA</td></tr>\n            <tr><td>ENGINE</td><td>2.0 TDI</td></tr>\n            <tr><td>YEAR</td><td>2009</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 014 712</td></tr>\n            <tr><td>NUMBER PARTS</td><td>1039S25994</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Skoda Octavia 2.0 TDI (2009) and may require professional installation or programming.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 2.0 TDI 03G906021TC, 03G 906 021 TC, 03G906021AN, 03G 906 021 AN, BOSCH 0 281 014 712, 0281014712",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-2.0-TDI-03G906021TC%2C-03G-906-021-TC%2C-03G906021AN%2C-03G-906-021-AN%2C-BOSCH-0-281-014-712%2C-0281014712/16118",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B83B-20933",
+    "sku": "B83B-20933",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 2.0 TDI 03G906021TC, 03G 906 021 TC, 03G906021AN, 03G 906 021 AN, BOSCH 0 281 014 712, 0281014712</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 712",
+      "NUMBER PARTS": "1039S25994",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:39:32.983Z",
+    "model": "mistral:7b",
+    "durationMs": 11373,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Rover 25 45 MG ZR 1.4 NNN100743 A0047 YM NNW004140 4161 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-rover-25-45-mg-zr-14-oem-tested-warranty",
+  "metaDescription": "Expertly tested ECU Engine Controller for Rover 25 45 MG ZR 1.4, Plug & Play, OEM Tested, and backed by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Rover 25 45 MG ZR 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 25 45 MG ZR",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Rover 25 45 MG ZR 1.4 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>ROVER 25 45 MG ZR</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>YEAR</th><td>1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>NNN100743 A0047 YM</td></tr>\n        <tr><th>NUMBER PARTS</th><td>NNW004140 4161</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 25 45 MG ZR 1.4 NNN100743 A0047 YM NNW004140 4161",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-25-45-MG-ZR-1.4-NNN100743-A0047-YM-NNW004140-4161-/16973",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "787C-339C7",
+    "sku": "787C-339C7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 25 45 MG ZR 1.4 NNN100743 A0047 YM NNW004140 4161 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 25 45 MG ZR",
+      "ENGINE": "1.4",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "NNN100743 A0047 YM",
+      "NUMBER PARTS": "NNW004140 4161",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:30:46.068Z",
+    "model": "mistral:7b",
+    "durationMs": 9497,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT STILO 2.4 20V BOSCH 0 261 206 655, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-stilo-24-20v-bosch-0261206655-oem-tested",
+  "metaDescription": "OEM ECU Engine Controller for FIAT STILO 2.4 20V BOSCH 0 261 206 655, Plug & Play, tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU for FIAT STILO 2.4 20V BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT STILO",
+    "BOSCH 0 261 206 655"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for FIAT STILO 2.4 20V BOSCH has been thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT STILO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.4 20V</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 206 655</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>00551823810</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for FIAT STILO 2.4 20V BOSCH vehicles only. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT STILO 2.4 20V BOSCH 0 261 206 655, 0261206655, 00551823810",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-STILO-2.4-20V-BOSCH-0-261-206-655%2C-0261206655%2C-00551823810/105193",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "569A-86134_20170526101809",
+    "sku": "569A-86134_20170526101809",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT STILO 2.4 20V BOSCH 0 261 206 655, 0261206655, 00551823810</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_dd9af23109d47f251cc7776b29e4cb1b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_60679d2b24ccb3e122c256712b3b6107_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT STILO",
+      "ENGINE": "2.4 20V",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 655",
+      "NUMBER PARTS": "00551823810",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:35:28.286Z",
+    "model": "mistral:7b",
+    "durationMs": 11194,
+    "priceIncrement": 100
+  }
+}

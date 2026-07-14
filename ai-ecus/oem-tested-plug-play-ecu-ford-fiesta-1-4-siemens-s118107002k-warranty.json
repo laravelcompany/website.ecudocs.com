@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Fiesta 1.4 Siemens S118107002K - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-ford-fiesta-1-4-siemens-s118107002k-warranty",
+  "metaDescription": "Expertly refurbished OEM Siemens ECU Engine Controller for Ford Fiesta 1.4 (S118107002K, 2S6A-12A650-SG, 4ROV, SIM22). Plug & Play, 6-month warranty, fast EU dispatch.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Ford Fiesta 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Siemens S118107002K",
+    "1.4 engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and refurbished ECU Engine Controller for Ford Fiesta 1.4 (S118107002K, 2S6A-12A650-SG, 4ROV, SIM22) is a reliable choice for your vehicle's smooth operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Refurbished</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FIESTA</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>YEAR</th><td>2002-2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S118107002 K</td></tr>\n        <tr><th>NUMBER PARTS</th><td>4ROV</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">EU, 12-month warranty, fast dispatch</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta 1.4 (S118107002K, 2S6A-12A650-SG, 4ROV, SIM22). Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.4 SIEMENS S118107002 K, S118107002K, 2S6A-12A650-SG, 2S6A12A650SG, 4ROV, SIM22",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.4-SIEMENS-S118107002-K%2C-S118107002K%2C-2S6A-12A650-SG%2C-2S6A12A650SG%2C-4ROV%2C-SIM22-/85121",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "24E9-825C4_20160126162713",
+    "sku": "24E9-825C4_20160126162713",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.4 SIEMENS S118107002 K, S118107002K, 2S6A-12A650-SG, 2S6A12A650SG, 4ROV, SIM22 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.4",
+      "YEAR": "2002-2003",
+      "NUMBER MANUFACTURER": "SIEMENS S118107002 K",
+      "NUMBER PARTS": "4ROV",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:23:31.274Z",
+    "model": "mistral:7b",
+    "durationMs": 12374,
+    "priceIncrement": 100
+  }
+}

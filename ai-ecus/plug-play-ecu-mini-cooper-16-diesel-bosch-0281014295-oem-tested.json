@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mini Cooper 1.6 Diesel Bosch 0281014295, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mini-cooper-16-diesel-bosch-0281014295-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for Mini Cooper 1.6 Diesel Bosch 0281014295, offering Plug & Play convenience and backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU replacement for Mini Cooper 1.6 Diesel Bosch 0281014295",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mini Cooper 1.6 Diesel",
+    "Bosch 0281014295"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Mini Cooper 1.6 Diesel Bosch 0281014295 offers Plug & Play convenience and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MINI COOPER 1.6 DIESEL BOSCH 0281014295, 0 281 014 295, DDE 7808778, 7 808 778",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MINI-COOPER-1.6-DIESEL-BOSCH-0281014295%2C-0-281-014-295%2C-DDE-7808778%2C-7-808-778/26929",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1815-416AF_20120726122728",
+    "sku": "1815-416AF_20120726122728",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MINI COOPER 1.6 DIESEL BOSCH 0281014295, 0 281 014 295, DDE 7808778, 7 808 778</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MINI COOPER",
+      "ENGINE": "1.6 DIESEL",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 295",
+      "NUMBER PARTS": "7 808 778",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:44:03.808Z",
+    "model": "mistral:7b",
+    "durationMs": 6679,
+    "priceIncrement": 100
+  }
+}

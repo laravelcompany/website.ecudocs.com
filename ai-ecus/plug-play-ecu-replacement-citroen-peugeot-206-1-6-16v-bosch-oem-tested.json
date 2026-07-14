@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested CITROEN, PEUGEOT 206 1.6 16V Bosch 0 261 208 101, ME7.4.4 79 - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-citroen-peugeot-206-1-6-16v-bosch-oem-tested",
+  "metaDescription": "Expertly tested and OEM replacement ECU for CITROEN, PEUGEOT 206 1.6 16V. Plug & Play, 6-month warranty, fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU replacement for CITROEN, PEUGEOT 206 1.6 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen 206",
+    "Peugeot 206",
+    "Bosch ME7.4.4"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for CITROEN, PEUGEOT 206 1.6 16V is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Dispatch</li>\n        <li>Expertly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN, PEUGEOT 206</td></tr>\n        <tr><th>ENGINE</th><td>1.6 16V</td></tr>\n        <tr><th>NUMBER PARTS</th><td>ME7.4.4 79</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for CITROEN, PEUGEOT 206 1.6 16V and may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN, PEUGEOT 206 1.6 16V, BOSCH 0 261 208 101, 0261208101, 96 484 829 80, 9648482980, ME7.4.4 79",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN%2C-PEUGEOT-206-1.6-16V%2C-BOSCH-0-261-208-101%2C-0261208101%2C-96-484-829-80%2C-9648482980%2C-ME7.4.4-79-/54536",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B795-32011_20140424133810",
+    "sku": "B795-32011_20140424133810",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  CITROEN, PEUGEOT 206 1.6 16V, BOSCH 0 261 208 101, 0261208101, 96 484 829 80, 9648482980, ME7.4.4 79 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN, PEUGEOT 206",
+      "ENGINE": "1.6 16V",
+      "NUMBER PARTS": "ME7.4.4 79",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:52:16.902Z",
+    "model": "mistral:7b",
+    "durationMs": 10876,
+    "priceIncrement": 100
+  }
+}

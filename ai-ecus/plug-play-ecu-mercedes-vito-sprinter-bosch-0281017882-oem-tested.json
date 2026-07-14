@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes Vito Sprinter Bosch 0281017882, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-vito-sprinter-bosch-0281017882-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for Mercedes Vito Sprinter (Bosch 0281017882). Plug & Play, 6-month warranty, and fast dispatch. Order now!",
+  "price": "€880.00",
+  "excerpt": "Plug & Play ECU for Mercedes Vito Sprinter",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Vito Sprinter",
+    "Bosch 0281017882"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Mercedes Vito Sprinter (Bosch 0281017882) ensures seamless engine control. Trust our expert repair service.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes Vito Sprinter only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES VITO SPRINTER BOSCH 0281017882, 0 281 017 882, A6469006400, A 646 900 64 00, 6469006400",
+    "price": "€800.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-VITO-SPRINTER-BOSCH-0281017882%2C-0-281-017-882%2C-A6469006400%2C-A-646-900-64-00%2C-6469006400/24683",
+    "priceCurrency": "EUR",
+    "netPrice": "€650.41",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "75EF-772F5_20120601175003",
+    "sku": "75EF-772F5_20120601175003",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES VITO SPRINTER BOSCH 0281017882, 0 281 017 882, A6469006400, A 646 900 64 00, 6469006400</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES VITO SPRINTER",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "BOSCH 0281017882, 0 281 017 882",
+      "NUMBER PARTS": "6469006400",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:59:25.124Z",
+    "model": "mistral:7b",
+    "durationMs": 6272,
+    "priceIncrement": 100
+  }
+}

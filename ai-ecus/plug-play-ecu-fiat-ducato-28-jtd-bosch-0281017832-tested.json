@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT DUCATO 2.8 JTD BOSCH 0 281 017 832, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-ducato-28-jtd-bosch-0281017832-tested",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for FIAT DUCATO 2.8 JTD BOSCH 0 281 017 832, OEM tested and covered by a 6-month warranty.",
+  "price": "€1045.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT DUCATO 2.8 JTD BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT DUCATO",
+    "BOSCH 0 281 017 832"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for FIAT DUCATO 2.8 JTD BOSCH is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked/Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT DUCATO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.8 JTD</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2011</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 017 832</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>55244342</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT DUCATO 2.8 JTD BOSCH 0 281 017 832, 0281017832, 55244342",
+    "price": "€950.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-DUCATO-2.8-JTD-BOSCH-0-281-017-832%2C-0281017832%2C-55244342-/45618",
+    "priceCurrency": "EUR",
+    "netPrice": "€772.36",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "10B3-866DD",
+    "sku": "10B3-866DD",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT DUCATO 2.8 JTD BOSCH 0 281 017 832, 0281017832, 55244342 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT DUCATO",
+      "ENGINE": "2.8 JTD",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 017 832",
+      "NUMBER PARTS": "55244342",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:44:22.166Z",
+    "model": "mistral:7b",
+    "durationMs": 13642,
+    "priceIncrement": 100
+  }
+}

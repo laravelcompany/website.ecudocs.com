@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Escort 1.4 VISTEON 95AB-12A650-PC, SME-405 - OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-ford-escort-14-visteon-95ab-12a650-pc-sme-405-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Ford Escort 1.4 with OEM Testing and 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Escort 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Escort",
+    "Visteon",
+    "95AB-12A650-PC",
+    "SME-405"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Ford Escort 1.4 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>OEM Tested and Certified</li><li>6-month warranty</li><li>Used in good condition</li><li>Original Visteon part number: 95AB-12A650-PC, SME-405</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>FORD ESCORT</td></tr><tr><th>ENGINE</th><td>1.4</td></tr><tr><th>YEAR</th><td>1994-1996</td></tr><tr><th>NUMBER MANUFACTURER</th><td>VISTEON 95AB-12A650-PC</td></tr><tr><th>NUMBER PARTS</th><td>SME-405</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Ford Escort 1.4 (1994-1996). Fitment caution may apply due to vehicle specifics or installation requirements.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD ESCORT VISTEON 95AB-12A650-PC, 95AB12A650PC, PIGS, SME-405",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-ESCORT-VISTEON-95AB-12A650-PC%2C-95AB12A650PC%2C-PIGS%2C-SME-405/66893",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "E87F-570A2_20140930134157",
+    "sku": "E87F-570A2_20140930134157",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD ESCORT VISTEON 95AB-12A650-PC, 95AB12A650PC, PIGS, SME-405</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_792931b339377735ba5f5c38063a944c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0804e39f91fef77096a9d0dad6e16995_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD ESCORT",
+      "ENGINE": "1.4",
+      "YEAR": "1994-1996",
+      "NUMBER MANUFACTURER": "VISTEON 95AB-12A650-PC",
+      "NUMBER PARTS": "SME-405",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:13:53.876Z",
+    "model": "mistral:7b",
+    "durationMs": 10288,
+    "priceIncrement": 100
+  }
+}

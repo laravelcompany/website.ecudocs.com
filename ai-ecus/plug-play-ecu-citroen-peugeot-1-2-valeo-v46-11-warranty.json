@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen Peugeot 1.2 Valeo V46.11, Warranty Included",
+  "slug": "plug-play-ecu-citroen-peugeot-1-2-valeo-v46-11-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Citroen Peugeot 1.2 Valeo V46.11, with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen Peugeot 1.2 Valeo V46.11",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "Valeo V46.11",
+    "OEM Tested"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a direct replacement for Citroen Peugeot 1.2 Valeo V46.11, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN PEUGEOT</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>VALEO V46.11</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HW 9800913080</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Citroen Peugeot 1.2 Valeo V46.11 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.2 VALEO V46.11, 9804609480, HW 9800913080",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-1.2-VALEO-V46.11%2C-9804609480%2C-HW-9800913080-/101112",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Valeo",
+    "productCode": "1E94-1678E_20161222141005",
+    "sku": "1E94-1678E_20161222141005",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  CITROEN PEUGEOT 1.2 VALEO V46.11, 9804609480, HW 9800913080 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_35f628b152c450eabf47b9409dfca2c4_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a4ee0b092dd4a0ce125bef565e7b4bf4_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "VALEO V46.11",
+      "NUMBER PARTS": "HW 9800913080",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:47:58.919Z",
+    "model": "mistral:7b",
+    "durationMs": 9305,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mazda 6 2.0 CITD RF5C18881E, Warranty Included",
+  "slug": "plug-play-ecu-mazda-6-2-0-citd-rf5c18881e-denso-2758006025-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Mazda 6 2.0 CITD RF5C18881E, covered by a 6-month warranty and shipped within 24–48 hours.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mazda 6 2.0 CITD RF5C18881E",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mazda 6",
+    "Denso",
+    "RF5C18881E"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Mazda 6 2.0 CITD RF5C18881E is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MAZDA 6</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 CITD</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2004</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>DENSO 275800-6025</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>RF5C</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>RF5C 18 881E</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility Notes: Please ensure this ECU is compatible with your vehicle's specific year and model before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA 6 2.0 CITD RF5C18881E, RF5C 18 881E, DENSO 2758006025, 275800-6025",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-6-2.0-CITD-RF5C18881E%2C-RF5C-18-881E%2C-DENSO-2758006025%2C-275800-6025/26231",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "2E18-629B8_20120623142814",
+    "sku": "2E18-629B8_20120623142814",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA 6 2.0 CITD RF5C18881E, RF5C 18 881E, DENSO 2758006025, 275800-6025</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA 6",
+      "ENGINE": "2.0 CITD",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "DENSO 275800-6025",
+      "CODE": "RF5C",
+      "NUMBER PARTS": "RF5C 18 881E",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:55:37.812Z",
+    "model": "mistral:7b",
+    "durationMs": 12821,
+    "priceIncrement": 100
+  }
+}

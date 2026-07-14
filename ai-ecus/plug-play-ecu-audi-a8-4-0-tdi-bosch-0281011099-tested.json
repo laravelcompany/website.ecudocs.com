@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A8 4.0 TDI Bosch 0 281 011 099, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-audi-a8-4-0-tdi-bosch-0281011099-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Audi A8 4.0 TDI, OEM tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested ECU Replacement for Audi A8 4.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A8",
+    "4.0 TDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Audi A8 4.0 TDI is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>AUDI A8</td><td>4.0 TDI</td><td>BOSCH 0 281 011 099</td><td>4E0 910 409 C</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A8 4.0 TDI BOSCH 0 281 011 099, 0281011099, 4E0 907 409 B, 4E0907409B, 4E0910409C, EDC16CP",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A8-4.0-TDI-BOSCH-0-281-011-099%2C-0281011099%2C-4E0-907-409-B%2C-4E0907409B%2C-4E0910409C%2C-EDC16CP-/103825",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E89E-338E6_20170303155127",
+    "sku": "E89E-338E6_20170303155127",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A8 4.0 TDI BOSCH 0 281 011 099, 0281011099, 4E0 907 409 B, 4E0907409B, 4E0910409C, EDC16CP </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A8",
+      "ENGINE": "4.0 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 099",
+      "NUMBER PARTS": "4E0 910 409 C",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:42:05.070Z",
+    "model": "mistral:7b",
+    "durationMs": 9050,
+    "priceIncrement": 100
+  }
+}

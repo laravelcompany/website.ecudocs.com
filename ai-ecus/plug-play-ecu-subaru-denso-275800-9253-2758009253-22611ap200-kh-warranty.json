@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Denso Subaru 275800-9253, 2758009253, 22611AP200 KH - 6-month Warranty",
+  "slug": "plug-play-ecu-subaru-denso-275800-9253-2758009253-22611ap200-kh-warranty",
+  "metaDescription": "OEM tested ECU Engine Controller for Subaru, Plug & Play, 6-month warranty. Replace your faulty engine control unit now!",
+  "price": "€300.00",
+  "excerpt": "Replacement Denso ECU for Subaru - 6-month Warranty",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso",
+    "Subaru",
+    "275800-9253",
+    "2758009253",
+    "22611AP200 KH"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Subaru is a reliable replacement for your faulty engine control unit. It comes with a 6-month warranty and is ready for plug & play installation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Locked</li>\n        <li>Ready for programming</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SUBARU</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>275800-9253</td></tr>\n        <tr><th>NUMBER PARTS</th><td>22611AP200 KH</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Subaru vehicles only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUBARU DENSO 275800-9253, 2758009253, 22611AP200 KH",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUBARU-DENSO-275800-9253%2C-2758009253%2C-22611AP200-KH-/31744",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "910B-397E3",
+    "sku": "910B-397E3",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUBARU DENSO 275800-9253, 2758009253, 22611AP200 KH </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUBARU",
+      "NUMBER MANUFACTURER": "275800-9253",
+      "NUMBER PARTS": "22611AP200 KH",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:52:51.319Z",
+    "model": "mistral:7b",
+    "durationMs": 9016,
+    "priceIncrement": 100
+  }
+}

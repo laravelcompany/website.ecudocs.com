@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Ford Focus Fiesta Siemens S118934101G - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-focus-fiesta-siemens-s118934101g",
+  "metaDescription": "Get a tested and reliable ECU Engine Controller for your Ford Focus Fiesta. This Siemens S118934101G is OEM Tested, Plug & Play, and comes with a 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Focus Fiesta by Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens S118934101G",
+    "Ford Focus Fiesta"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your Ford Focus Fiesta is tested and covered by a 6-month warranty. Shipping within 24–48 hours.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS FIESTA SIEMENS S118934101 G, S118934101G, FoMoCo 4M51-12A650-HG, 4M5112A650HG, 9AYG, SIM28",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-FIESTA-SIEMENS-S118934101-G%2C-S118934101G%2C-FoMoCo-4M51-12A650-HG%2C-4M5112A650HG%2C-9AYG%2C-SIM28-/85211",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "D52B-514D6_20160128153658",
+    "sku": "D52B-514D6_20160128153658",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS FIESTA SIEMENS S118934101 G, S118934101G, FoMoCo 4M51-12A650-HG, 4M5112A650HG, 9AYG, SIM28 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS FIESTA",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "SIEMENS S118934101 G",
+      "NUMBER PARTS": "9AYG",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:14:04.010Z",
+    "model": "mistral:7b",
+    "durationMs": 6239,
+    "priceIncrement": 100
+  }
+}

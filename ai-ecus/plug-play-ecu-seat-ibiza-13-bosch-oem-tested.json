@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement for SEAT IBIZA 1.3 - OEM Tested, Warranty Included (BOSCH 0 261 200 776, 030 906 026 G)",
+  "slug": "plug-play-ecu-seat-ibiza-13-bosch-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for SEAT IBIZA 1.3, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for SEAT IBIZA 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT IBIZA",
+    "BOSCH"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your SEAT IBIZA 1.3, ensuring optimal engine performance and reliability.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch</li>\n<li>Used, Oryginal in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>SEAT IBIZA</td></tr>\n<tr><td>ENGINE</td><td>1.3</td></tr>\n<tr><td>YEAR</td><td>1993-1995</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 200 776</td></tr>\n<tr><td>NUMBER PARTS</td><td>030 906 026 G</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SEAT IBIZA 1.3 (1993-1995). Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA 1.3, BOSCH 0 261 200 776, 0261200776, 030 906 026 G, 030906026G",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-1.3%2C-BOSCH-0-261-200-776%2C-0261200776%2C-030-906-026-G%2C-030906026G-/46945",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B8EE-826B0",
+    "sku": "B8EE-826B0",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA 1.3, BOSCH 0 261 200 776, 0261200776, 030 906 026 G, 030906026G </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_38a7949ae0799373d2ebba3722e4680f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e41d54370188fe4158d2fb0605270f20_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6aac136778d662cf58d4d4b360f7fa52_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.3",
+      "YEAR": "1993-1995",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 200 776",
+      "NUMBER PARTS": "030 906 026 G",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:52:53.760Z",
+    "model": "mistral:7b",
+    "durationMs": 11311,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for VW Volkswagen Seat 1.9 DTI - OEM Tested, Warranty Included (038 906 019NQ)",
+  "slug": "plug-play-ecu-replacement-vw-volkswagen-seat-19-dti-oem-tested-warranty-included",
+  "metaDescription": "Buy ECU Engine Controller for VW Volkswagen Seat 1.9 DTI (038 906 019NQ) - Plug & Play, OEM Tested, 6-month warranty.",
+  "price": "€485.00",
+  "excerpt": "Plug & Play ECU Replacement for VW Volkswagen Seat 1.9 DTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "VW Volkswagen Seat",
+    "1.9 DTI",
+    "Bosch",
+    "038 906 019NQ"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller is a direct replacement for your VW Volkswagen Seat 1.9 DTI (038 906 019NQ).</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used but in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>VW VOLKSWAGEN SEAT</td></tr>\n        <tr><th>ENGINE</th><td>1.9 DTI</td></tr>\n        <tr><th>YEAR</th><td>2005</td></tr>\n        <tr><th>NUMBER PARTS</th><td>038 906 019NQ</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with VW Volkswagen Seat 1.9 DTI (038 906 019NQ). Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VW VOLKSWAGEN SEAT 1.9 DTI BOSCH 0 281 012 287, 0281012287, 038 906 019 NQ, 038906019NQ",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VW-VOLKSWAGEN-SEAT-1.9-DTI-BOSCH-0-281-012-287%2C-0281012287%2C-038-906-019-NQ%2C-038906019NQ-/54169",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DBD8-64787_20140416142117",
+    "sku": "DBD8-64787_20140416142117",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  VW VOLKSWAGEN SEAT 1.9 DTI BOSCH 0 281 012 287, 0281012287, 038 906 019 NQ, 038906019NQ </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VW VOLKSWAGEN SEAT",
+      "ENGINE": "1.9 DTI",
+      "YEAR": "2005",
+      "NUMBER PARTS": "038906019NQ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:28:53.799Z",
+    "model": "mistral:7b",
+    "durationMs": 15176,
+    "priceIncrement": 100
+  }
+}

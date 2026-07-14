@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mercedes W169 2.0 CDI Bosch 0 281 017 707 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w169-20-cdi-bosch-0281017707-warranty",
+  "metaDescription": "Expertly reconditioned OEM ECU Engine Controller for Mercedes W169 2.0 CDI, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mercedes W169 2.0 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W169",
+    "Bosch 0 281 017 707",
+    "2.0 CDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Mercedes W169 2.0 CDI is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL:</th><td>MERCEDES W169</td></tr><tr><th>ENGINE:</th><td>2.0 CDI</td></tr><tr><th>YEAR:</th><td>2010</td></tr><tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 017 707</td></tr><tr><th>NUMBER PARTS:</th><td>A 640 900 46 00</td></tr><tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr><tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W169 2.0 CDI BOSCH 0 281 017 707, 0281017707, A 640 900 46 00, A6409004600, CR40.40",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W169-2.0-CDI-BOSCH-0-281-017-707%2C-0281017707%2C-A-640-900-46-00%2C-A6409004600%2C-CR40.40-/95124",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "95B4-970F8_20160830005245",
+    "sku": "95B4-970F8_20160830005245",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W169 2.0 CDI BOSCH 0 281 017 707, 0281017707, A 640 900 46 00, A6409004600, CR40.40 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_0c32dab3bd4b412c5ebe5b264b8ddad4_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_cabf3d211debe9ebf4836be9cad6dd06_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W169",
+      "ENGINE": "2.0 CDI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 017 707",
+      "NUMBER PARTS": "A 640 900 46 00",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:07:37.769Z",
+    "model": "mistral:7b",
+    "durationMs": 12208,
+    "priceIncrement": 100
+  }
+}

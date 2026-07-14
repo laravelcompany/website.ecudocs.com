@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Seicento 600 1.1 MPI OEM Tested - Magneti Marelli 73501877, 61600.627.02",
+  "slug": "plug-play-ecu-fiat-seicento-600-mpi-magneti-marelli-73501877-6160062702",
+  "metaDescription": "OEM Tested ECU Replacement for Fiat Seicento 600 1.1 MPI, backed by a 6-month warranty and fast shipping.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU replacement for Fiat Seicento 600 1.1 MPI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Seicento 600",
+    "Magneti Marelli"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Fiat Seicento 600 1.1 MPI is a reliable solution to your engine control unit issues, backed by our 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT SEICENTO 600</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.1 MPI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>IAW 4AF.M7</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>61600.627.02</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Fiat Seicento 600 1.1 MPI only. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT SEICENTO 600 1.1 MPI IAW4AFM7, IAW4AF.M7, IAW 4AF.M7/HW204/1808-07B, 73501877, 61600.627.02, 6160062702",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-SEICENTO-600-1.1-MPI-IAW4AFM7%2C-IAW4AF.M7%2C-IAW-4AF.M7HW2041808-07B%2C-73501877%2C-61600.627.02%2C-6160062702/31759",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "BB2E-741C2",
+    "sku": "BB2E-741C2",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT SEICENTO 600 1.1 MPI IAW4AFM7, IAW4AF.M7, IAW 4AF.M7/HW204/1808-07B, 73501877, 61600.627.02, 6160062702</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT SEICENTO 600",
+      "ENGINE": "1.1 MPI",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "IAW 4AF.M7",
+      "NUMBER PARTS": "61600.627.02",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:31:54.525Z",
+    "model": "mistral:7b",
+    "durationMs": 11738,
+    "priceIncrement": 100
+  }
+}

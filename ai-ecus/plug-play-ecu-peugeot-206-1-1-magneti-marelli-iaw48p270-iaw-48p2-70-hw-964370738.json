@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Peugeot 206 1.1 - Magneti Marelli IAW48P270, IAW 48P2.70, HW 9643707380, SW 9645243180",
+  "slug": "plug-play-ecu-peugeot-206-1-1-magneti-marelli-iaw48p270-iaw-48p2-70-hw-964370738",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Peugeot 206 1.1 by Magneti Marelli. 6-month warranty and fast shipping within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested, Plug & Play ECU Replacement for Peugeot 206 1.1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 206",
+    "Magneti Marelli",
+    "IAW48P270"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Peugeot 206 1.1 by Magneti Marelli ensures seamless engine control and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>PEUGEOT 206</td></tr>\n        <tr><th>ENGINE:</th><td>1.1</td></tr>\n        <tr><th>YEAR:</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>IAW 48P2.70</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>16449.094</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 206 1.1 9645243180 IAW48P270, IAW48P2.70, IAW 48P2.70, HW 9643707380, 16552004, 16552.004, SW 9645243180, 16449094, 16449.094",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-206-1.1-9645243180-IAW48P270%2C-IAW48P2.70%2C-IAW-48P2.70%2C-HW-9643707380%2C-16552004%2C-16552.004%2C-SW-9645243180%2C-16449094%2C-16449.094/30358",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "A3CC-34326_20120930195502",
+    "sku": "A3CC-34326_20120930195502",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 206 1.1 9645243180 IAW48P270, IAW48P2.70, IAW 48P2.70, HW 9643707380, 16552004, 16552.004, SW 9645243180, 16449094, 16449.094</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 206",
+      "ENGINE": "1.1",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "IAW 48P2.70",
+      "NUMBER PARTS": "16449.094",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:38:52.352Z",
+    "model": "mistral:7b",
+    "durationMs": 12096,
+    "priceIncrement": 100
+  }
+}

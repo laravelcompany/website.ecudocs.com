@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Land Rover Engine Controller Bosch 0 281 013 202, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-land-rover-bosch-0-281-013-202-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Land Rover by Bosch (0 281 013 202, CG91-12A650-AE). Plug & Play, warranty included. Fast dispatch and 12-month EU warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Land Rover by Bosch (0 281 013 202)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Land Rover",
+    "Bosch",
+    "0 281 013 202"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Land Rover by Bosch (0 281 013 202, CG91-12A650-AE) offers a Plug & Play solution, ensuring easy installation. The device is thoroughly inspected and tested by a certified technician, providing peace of mind.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used but in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>LAND ROVER</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 013 202</td></tr>\n        <tr><th>NUMBER PARTS</th><td>CG91-12A650-AE</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle model and year. Always verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LAND ROVER BOSCH 0 281 013 202, 0281013202, CG91-12A650-AE, CG9112A650AE",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LAND-ROVER-BOSCH-0-281-013-202%2C-0281013202%2C-CG91-12A650-AE%2C-CG9112A650AE/120360",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F757-4538D_20200825162834",
+    "sku": "F757-4538D_20200825162834",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LAND ROVER BOSCH 0 281 013 202, 0281013202, CG91-12A650-AE, CG9112A650AE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_245875_0_0/LAND-ROVER-BOSCH-0-281-013-202%2C-0281013202%2C-CG91-12A650-AE%2C-CG9112A650AE.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_245876_0_0/LAND-ROVER-BOSCH-0-281-013-202%2C-0281013202%2C-CG91-12A650-AE%2C-CG9112A650AE.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LAND ROVER",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 202",
+      "NUMBER PARTS": "CG91-12A650-AE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:42:08.031Z",
+    "model": "mistral:7b",
+    "durationMs": 9610,
+    "priceIncrement": 100
+  }
+}

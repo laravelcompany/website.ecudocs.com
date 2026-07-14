@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Jeep Grand Cherokee 4.0 Motorola 06A0100R7A18, Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-jeep-grand-cherokee-40-motorola-06a0100r7a18",
+  "metaDescription": "OEM tested ECU replacement for Jeep Grand Cherokee 4.0 Motorola 06A0100R7A18, plug & play installation, backed by a 6-month warranty.",
+  "price": "€435.00",
+  "excerpt": "OEM tested ECU replacement for Jeep Grand Cherokee 4.0 Motorola",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Jeep Grand Cherokee",
+    "Motorola",
+    "06A0100R7A18"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is designed for Jeep Grand Cherokee 4.0 Motorola and ensures seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested for reliability</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>JEEP GRAND CHEROKEE</td></tr>\n        <tr><th>ENGINE</th><td>4.0</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>P56041 893AA</td></tr>\n        <tr><th>NUMBER PARTS</th><td>WB4AA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours, EU wide with a 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JEEP GRAND CHEROKEE 4.0 MOTOROLA 06A0100R7A18, P56041 893AA, P56041893AA, WB4AA",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JEEP-GRAND-CHEROKEE-4.0-MOTOROLA-06A0100R7A18%2C-P56041-893AA%2C-P56041893AA%2C-WB4AA/71435",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "4D1A-31828_20150108004929",
+    "sku": "4D1A-31828_20150108004929",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JEEP GRAND CHEROKEE 4.0 MOTOROLA 06A0100R7A18, P56041 893AA, P56041893AA, WB4AA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JEEP GRAND CHEROKEE",
+      "ENGINE": "4.0",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "P56041 893AA",
+      "NUMBER PARTS": "WB4AA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:08:45.801Z",
+    "model": "mistral:7b",
+    "durationMs": 9031,
+    "priceIncrement": 100
+  }
+}

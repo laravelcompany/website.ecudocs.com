@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Renault Clio 1.2 Engine Magneti Marelli IAW5NR2C2 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-clio-12-engine-magneti-marelli-iaw5nr2c2-oem-t",
+  "metaDescription": "Expertly tested ECU replacement for Renault Clio 1.2 Engine with Magneti Marelli IAW5NR2C2. Plug & Play, OEM certified, and backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Clio 1.2 Engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Clio",
+    "Magneti Marelli",
+    "IAW5NR2C2"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Renault Clio 1.2 Engine is a reliable solution, ensuring seamless engine control and performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM certified for guaranteed fitment</li><li>6-month warranty for peace of mind</li><li>Thoroughly inspected and tested by a certified technician</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>RENAULT CLIO</td><td>1.2</td><td>2001</td><td>MAGNETI MARELLI IAW 5NR2.C2</td><td>16553904</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO Magneti Marelli IAW 5NR2.C2, IAW5NR2C2, 8200181482, 16481134, 8200229098, 16553904",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-Magneti-Marelli-IAW-5NR2.C2%2C-IAW5NR2C2%2C-8200181482%2C-16481134%2C-8200229098%2C-16553904/67841",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "E87B-749CE_20141010132140",
+    "sku": "E87B-749CE_20141010132140",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO Magneti Marelli IAW 5NR2.C2, IAW5NR2C2, 8200181482, 16481134, 8200229098, 16553904</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO",
+      "ENGINE": "1.2",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 5NR2.C2",
+      "NUMBER PARTS": "16553904",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:10:51.013Z",
+    "model": "mistral:7b",
+    "durationMs": 9841,
+    "priceIncrement": 100
+  }
+}

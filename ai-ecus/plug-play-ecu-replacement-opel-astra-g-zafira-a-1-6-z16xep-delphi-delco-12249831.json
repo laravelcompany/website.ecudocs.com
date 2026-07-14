@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Opel Astra G Zafira A 1.6 Z16XEP Delphi Delco 12249831 DZKR",
+  "slug": "plug-play-ecu-replacement-opel-astra-g-zafira-a-1-6-z16xep-delphi-delco-12249831",
+  "metaDescription": "OEM tested ECU Engine Controller for Opel Astra G Zafira A 1.6 Z16XEP, offering Plug & Play functionality and backed by a 6-month warranty.",
+  "price": "€700.00",
+  "excerpt": "OEM tested ECU Engine Controller for Opel Astra G Zafira A 1.6 Z16XEP",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "Z16XEP engine",
+    "Delphi Delco"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is specifically designed for Opel Astra G Zafira A 1.6 Z16XEP, ensuring optimal performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested for quality assurance</li>\n        <li>6-month warranty</li>\n        <li>Compatible with locked ECUs</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CHEVROLET HOLDEN VAUXHALL ASTRA G ZAFIRA A</td></tr>\n        <tr><th>ENGINE</th><td>1.6 Z16XEP</td></tr>\n        <tr><th>YEAR</th><td>2004-2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>12249831</td></tr>\n        <tr><th>CODE</th><td>DZKR</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HSFI-2.4</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming / complet</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra G Zafira A 1.6 Z16XEP. Fitment caution may apply for locked ECUs.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA G ZAFIRA A 1.6 Z16XEP 12249831 DZKR",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-G-ZAFIRA-A-1.6-Z16XEP-12249831-DZKR-/9689",
+    "priceCurrency": "EUR",
+    "netPrice": "€600.00",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "9689",
+    "sku": "9689",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL  ASTRA G ZAFIRA A 1.6 Z16XEP 12249831 DZKR </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL ASTRA G ZAFIRA A",
+      "ENGINE": "1.6 Z16XEP",
+      "YEAR": "2004-2006",
+      "NUMBER MANUFACTURER": "12249831",
+      "CODE": "DZKR",
+      "NUMBER PARTS": "HSFI-2.4",
+      "OPTION AVAILABLE": "Locked / Ready for programming / complet",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:52:19.376Z",
+    "model": "mistral:7b",
+    "durationMs": 11871,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen C2 1.4 HDI Siemens SID806 - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-citroen-c2-14-hdi-siemens-sid806-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Citroen C2 1.4 HDI Siemens SID806, used in good condition with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen C2 1.4 HDI Siemens SID806",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C2",
+    "Siemens SID806",
+    "1.4 HDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Citroen C2 1.4 HDI Siemens SID806 is a reliable replacement, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN C2</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4 HDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2009</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS SID806 5WS40285E-T</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>96 534 618 80</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the vehicle's condition and specific faults. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C2 1.4 HDI SIEMENS SID806 5WS40285E-T 9663483180, 9653461880",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C2-1.4-HDI-SIEMENS-SID806-5WS40285E-T-9663483180%2C-9653461880-/32222",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "1E61-377DA",
+    "sku": "1E61-377DA",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C2 1.4 HDI SIEMENS SID806 5WS40285E-T 9663483180, 9653461880 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C2",
+      "ENGINE": "1.4 HDI",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "SIEMENS SID806 5WS40285E-T",
+      "NUMBER PARTS": "96 534 618 80",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:26:50.759Z",
+    "model": "mistral:7b",
+    "durationMs": 11696,
+    "priceIncrement": 100
+  }
+}

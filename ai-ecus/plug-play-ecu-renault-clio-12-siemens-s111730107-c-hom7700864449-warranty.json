@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Renault Clio 1.2 - Siemens S111730107 C, HOM7700864449 - 6-month Warranty",
+  "slug": "plug-play-ecu-renault-clio-12-siemens-s111730107-c-hom7700864449-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Renault Clio 1.2, Siemens S111730107 C, HOM7700864449. Covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Renault Clio 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens S111730107 C",
+    "HOM7700864449",
+    "Renault Clio"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Renault Clio 1.2 is a reliable solution to your engine control unit problems, backed by our 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Ready for programming</li>\n        <li>6-month Warranty</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT CLIO</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>YEAR</th><td>1998-2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S111730107 C</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HOM7700864449</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 12-month.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO 1.2, SIEMENS S111730107 C, S111730107C, HOM7700864449, 7700864449",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-1.2%2C-SIEMENS-S111730107-C%2C-S111730107C%2C-HOM7700864449%2C-7700864449/49037",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "D9B1-123F6",
+    "sku": "D9B1-123F6",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO 1.2, SIEMENS S111730107 C, S111730107C, HOM7700864449, 7700864449</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO",
+      "ENGINE": "1.2",
+      "YEAR": "1998-2001",
+      "NUMBER MANUFACTURER": "SIEMENS S111730107 C",
+      "NUMBER PARTS": "HOM7700864449",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:58:49.467Z",
+    "model": "mistral:7b",
+    "durationMs": 10126,
+    "priceIncrement": 100
+  }
+}

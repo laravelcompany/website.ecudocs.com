@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Fiesta Continental 5WP22365AH, 8A61-14C337-AH - Warranty Included",
+  "slug": "plug-play-ecu-ford-fiesta-continental-5wp22365ah-8a61-14c337-ah-warranty",
+  "metaDescription": "Expertly tested and OEM approved ECU Engine Controller for Ford Fiesta Continental. Plug & Play, warranty included. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Fiesta Continental",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Continental",
+    "5WP22365AH",
+    "8A61-14C337-AH"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Ford Fiesta Continental ensures seamless engine control and performance. The device undergoes thorough inspection by certified technicians before shipping.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Approved</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FIESTA</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>Continental 5WP22365AH</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8A61-14C337-AH</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty included.</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta Continental. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA Continental 5WP22365AH, 8A61-12B565-AH, 8A6112B565AH, 8A61-14C337-AH, 8A6114C337AH",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-Continental-5WP22365AH%2C-8A61-12B565-AH%2C-8A6112B565AH%2C-8A61-14C337-AH%2C-8A6114C337AH-/103558",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "0471-375A9_20170227184942",
+    "sku": "0471-375A9_20170227184942",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA Continental 5WP22365AH, 8A61-12B565-AH, 8A6112B565AH, 8A61-14C337-AH, 8A6114C337AH </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "NUMBER MANUFACTURER": "Continental 5WP22365AH",
+      "NUMBER PARTS": "8A61-14C337-AH",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:35:10.741Z",
+    "model": "mistral:7b",
+    "durationMs": 10285,
+    "priceIncrement": 100
+  }
+}

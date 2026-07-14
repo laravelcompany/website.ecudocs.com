@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Focus 1.8 TDDI - Visteon DPC-808, 2S41-12A650-DA, Warranty Included",
+  "slug": "plug-play-ecu-ford-focus-18-tddi-visteon-dpc-808-2s41-12a650-da-warranty",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Ford Focus 1.8 TDDI by Visteon. Fast dispatch and 6-month warranty included.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Focus 1.8 TDDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "1.8 TDDI",
+    "Visteon"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Focus 1.8 TDDI is a reliable solution to get your vehicle back on the road.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD FOCUS</td></tr>\n<tr><td>ENGINE</td><td>1.8 TDDI</td></tr>\n<tr><td>YEAR</td><td>2004</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>DPC-808</td></tr>\n<tr><td>CODE</td><td>6TVA</td></tr>\n<tr><td>NUMBER PARTS</td><td>2S41-12A650-DA</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Focus 1.8 TDDI. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.8 TDDI 2S4112A650DA, 2S41-12A650-DA 6TVA, DPC-808",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.8-TDDI-2S4112A650DA%2C-2S41-12A650-DA-6TVA%2C-DPC-808/30835",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "ABE6-29262_20121005134847",
+    "sku": "ABE6-29262_20121005134847",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.8 TDDI 2S4112A650DA, 2S41-12A650-DA 6TVA, DPC-808</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c9fa9d0e544c2a944e106361c14ecf86_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_10e87d257cd891425c016ccfaf63f36a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.8 TDDI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "DPC-808",
+      "CODE": "6TVA",
+      "NUMBER PARTS": "2S41-12A650-DA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:58:52.717Z",
+    "model": "mistral:7b",
+    "durationMs": 11583,
+    "priceIncrement": 100
+  }
+}

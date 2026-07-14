@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.0 TDCI - Bosch 0281014832, Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-2-0-tdci-bosch-0281014832-warranty",
+  "metaDescription": "Get a certified Plug & Play ECU Engine Controller for your Ford Mondeo 2.0 TDCI, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€485.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.0 TDCI",
+    "Bosch",
+    "0281014832"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Ford Mondeo 2.0 TDCI is tested and certified by a professional technician, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Compatible with Ford Mondeo 2.0 TDCI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD MONDEO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 TDCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2009</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 014 832</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>8FML</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8G91-12A650-EL</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty applies to EU customers.</section>\n<section class=\"compatibility\">This product is designed for Ford Mondeo 2.0 TDCI models only. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI BOSCH 0281014832, 0 281 014 832, 8G9112A650EL, 8G91-12A650-EL 8FML",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-TDCI-BOSCH-0281014832%2C-0-281-014-832%2C-8G9112A650EL%2C-8G91-12A650-EL-8FML-/34726",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "BD9C-8301E_20121231153936",
+    "sku": "BD9C-8301E_20121231153936",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI BOSCH 0281014832, 0 281 014 832, 8G9112A650EL, 8G91-12A650-EL 8FML </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 832",
+      "CODE": "8FML",
+      "NUMBER PARTS": "8G91-12A650-EL",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:43:01.636Z",
+    "model": "mistral:7b",
+    "durationMs": 14485,
+    "priceIncrement": 100
+  }
+}

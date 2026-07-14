@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for Renault Clio 1.2 - OEM Tested Siemens Sirius 32N S110130104A - Warranty Included",
+  "slug": "plug-play-ecu-renault-clio-1-2-siemens-sirius-32n-s110130104a-warranty",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Renault Clio 1.2 with Plug & Play feature, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested ECU Replacement for Renault Clio 1.2 - Plug & Play",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Clio 1.2",
+    "Siemens Sirius 32N"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for Renault Clio 1.2 ensures seamless engine operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT CLIO</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS SIRIUS 32N S110130104 A</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8200044453, 8200044437</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Clio 1.2 only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO 1.2 SIEMENS SIRIUS 32N S110130104A, S110130104 A, 110130104, 8200044453, 8200044437",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-1.2-SIEMENS-SIRIUS-32N-S110130104A%2C-S110130104-A%2C-110130104%2C-8200044453%2C-8200044437-/16851",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "8F22-859DA",
+    "sku": "8F22-859DA",
+    "availability": "dostepny24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO 1.2 SIEMENS SIRIUS 32N S110130104A, S110130104 A, 110130104, 8200044453, 8200044437 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "SIEMENS SIRIUS 32N S110130104 A",
+      "NUMBER PARTS": "8200 044 437",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:56:52.047Z",
+    "model": "mistral:7b",
+    "durationMs": 9221,
+    "priceIncrement": 100
+  }
+}

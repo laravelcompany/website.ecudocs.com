@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Hyundai Engine Controller H103300125 A, Used in Good Condition, 6-month Warranty",
+  "slug": "plug-play-ecu-hyundai-h103300125-a-used-oem-tested-warranty",
+  "metaDescription": "Find your Plug & Play ECU Replacement for Hyundai. OEM Tested, Used in Good Condition, and backed by a 6-month Warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Hyundai",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai H103300125 A",
+    "Used OEM Part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Hyundai is tested and covered by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Used in Good Condition</li><li>6-month Warranty</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>HYUNDAI</td><td>1990-1997</td><td>SIEMENS H103300125 A</td><td>39100-22476</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI SIEMENS H103300125 A, H103300125A, 39100-22476, 3910022476, 39110-22476, 3911022476",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-SIEMENS-H103300125-A%2C-H103300125A%2C-39100-22476%2C-3910022476%2C-39110-22476%2C-3911022476/67947",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "D1A1-62361_20141010163223",
+    "sku": "D1A1-62361_20141010163223",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI SIEMENS H103300125 A, H103300125A, 39100-22476, 3910022476, 39110-22476, 3911022476</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI",
+      "YEAR": "1990-1997",
+      "NUMBER MANUFACTURER": "SIEMENS H103300125 A",
+      "NUMBER PARTS": "39100-22476",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:49:31.251Z",
+    "model": "mistral:7b",
+    "durationMs": 8962,
+    "priceIncrement": 100
+  }
+}

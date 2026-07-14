@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Toyota Yaris 1.3 - Denso 89661-52080, 2NZ-FE - Warranty Included",
+  "slug": "plug-play-ecu-toyota-yaris-1-3-denso-89661-52080-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Toyota Yarisa 1.3 by Denso, in good condition with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Toyota Yaris 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso",
+    "Toyota Yaris",
+    "1.3"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Toyota Yaris 1.3 by Denso ensures seamless engine control.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>TOYOTA YARIS</td></tr>\n<tr><th>ENGINE</th><td>1.3</td></tr>\n<tr><th>YEAR</th><td>2001</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>DENSO 211000-5990, 2110005990</td></tr>\n<tr><th>NUMBER PARTS</th><td>89661-52080 2NZ-FE, 8966152080</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA YARIS 1.3 89661-52080 2NZ-FE, 8966152080, 211000-5990, 2110005990",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-YARIS-1.3-89661-52080-2NZ-FE%2C-8966152080%2C-211000-5990%2C-2110005990-/13183",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "9035-76318",
+    "sku": "9035-76318",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA YARIS 1.3 89661-52080 2NZ-FE, 8966152080, 211000-5990, 2110005990 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA YARIS",
+      "ENGINE": "1.3",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "DENSO 211000-5990, 2110005990",
+      "NUMBER PARTS": "89661-52080 2NZ-FE, 8966152080",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:37:29.351Z",
+    "model": "mistral:7b",
+    "durationMs": 10146,
+    "priceIncrement": 100
+  }
+}

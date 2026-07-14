@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Mercedes W211 E220 CDI - OEM Tested, 6-month Warranty - Bosch 28254848, A6511501879, CRD2.00 0M651",
+  "slug": "plug-play-ecu-replacement-mercedes-w211-e220-cdi-bosch-28254848-tested",
+  "metaDescription": "OEM tested ECU replacement for Mercedes W211 E220 CDI. Plug & Play, 6-month warranty, and fast dispatch in EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W211 E220 CDI - OEM Tested, 6-month Warranty",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W211",
+    "E220 CDI",
+    "Bosch",
+    "Delphi 28254848"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Mercedes W211 E220 CDI ensures seamless engine control and is a reliable solution for your vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Mercedes W211 E220 CDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES W211</td></tr>\n        <tr><th>ENGINE:</th><td>E220 CDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>DELPHI 28254848</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>CRD2.00 0M651</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W211 E220 CDI. Fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W211 E220 CDI DELPHI 28254848, A6511501879, 6511501879, A 651 150 18 79, A0054469640, 0054469640, A 005 446 96 40, CRD2.00 0M651",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W211-E220-CDI-DELPHI-28254848%2C-A6511501879%2C-6511501879%2C-A-651-150-18-79%2C-A0054469640%2C-0054469640%2C-A-005-446-96-40%2C-CRD2.00-0M651/24697",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D9D3-24547_20120601183544",
+    "sku": "D9D3-24547_20120601183544",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W211 E220 CDI DELPHI 28254848, A6511501879, 6511501879, A 651 150 18 79, A0054469640, 0054469640, A 005 446 96 40, CRD2.00 0M651</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W211",
+      "ENGINE": "E220 CDI",
+      "NUMBER MANUFACTURER": "DELPHI 28254848",
+      "NUMBER PARTS": "CRD2.00 0M651",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:34:21.356Z",
+    "model": "mistral:7b",
+    "durationMs": 10263,
+    "priceIncrement": 100
+  }
+}

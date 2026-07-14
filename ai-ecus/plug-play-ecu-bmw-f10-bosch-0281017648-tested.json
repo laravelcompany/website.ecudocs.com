@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW F10 Engine Controller (OEM Bosch 0 281 017 648, DDE 8 513 250) - Oryiginal Used, Tested & Warranty Included",
+  "slug": "plug-play-ecu-bmw-f10-bosch-0281017648-tested",
+  "metaDescription": "OEM ECU Engine Controller for BMW F10, tested and covered by a 6-month warranty. Plug & Play, ready for immediate use.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW F10",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW F10 Bosch ECU",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Oryiginal Used ECU Engine Controller for BMW F10 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Ready for programming</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">...(technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW F10 BOSCH 0 281 017 648, 0281017648, DDE 8 513 250, DDE8513250, 8513250",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-F10-BOSCH-0-281-017-648%2C-0281017648%2C-DDE-8-513-250%2C-DDE8513250%2C-8513250/115221",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DD8A-98411_20190724131827",
+    "sku": "DD8A-98411_20190724131827",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW F10 BOSCH 0 281 017 648, 0281017648, DDE 8 513 250, DDE8513250, 8513250</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW F10",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 017 648",
+      "NUMBER PARTS": "DDE 8 513 250",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:45:36.885Z",
+    "model": "mistral:7b",
+    "durationMs": 6215,
+    "priceIncrement": 100
+  }
+}

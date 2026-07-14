@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Jeep Grand Cherokee 3.1 TD Bosch 0 281 001 767, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-jeep-grand-cherokee-3-1-td-bosch-0281001767-warranty",
+  "metaDescription": "OEM tested ECU Engine Controller for Jeep Grand Cherokee 3.1 TD Bosch 0 281 001 767, Plug & Play replacement with 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU Engine Controller for Jeep Grand Cherokee 3.1 TD Bosch 0 281 001 767",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Jeep Grand Cherokee",
+    "Bosch 0 281 001 767"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for the Bosch 0 281 001 767 on Jeep Grand Cherokee 3.1 TD. It ensures optimal engine performance and comes with a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Used in Good Condition</li>\n<li>Fast Dispatch (EU)</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>JEEP GRAND CHEROKEE</td></tr>\n<tr><td>ENGINE</td><td>3.1 TD</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 001 767</td></tr>\n<tr><td>NUMBER PARTS</td><td>WB4AA</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JEEP GRAND CHEROKEE 3.1 TD BOSCH 0 281 001 767, 0281001767, P56029114AE, WB4AA",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JEEP-GRAND-CHEROKEE-3.1-TD-BOSCH-0-281-001-767%2C-0281001767%2C-P56029114AE%2C-WB4AA/30276",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4047-5366B_20120930154945",
+    "sku": "4047-5366B_20120930154945",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JEEP GRAND CHEROKEE 3.1 TD BOSCH 0 281 001 767, 0281001767, P56029114AE, WB4AA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4343d249113bfdbdc5709e27a2587e73_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7b7d6a12832fd5493719013398b366c5_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JEEP GRAND CHEROKEE",
+      "ENGINE": "3.1 TD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 767",
+      "NUMBER PARTS": "WB4AA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:08:09.819Z",
+    "model": "mistral:7b",
+    "durationMs": 11621,
+    "priceIncrement": 100
+  }
+}

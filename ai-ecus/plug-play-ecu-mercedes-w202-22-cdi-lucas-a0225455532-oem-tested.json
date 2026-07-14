@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W202 2.2 CDI Lucas A0225455532 - OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w202-22-cdi-lucas-a0225455532-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Mercedes W202 2.2 CDI by Lucas A0225455532, tested and covered by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU replacement for Mercedes W202 2.2 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W202",
+    "Lucas A0225455532"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Mercedes W202 2.2 CDI.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>6-month warranty</li><li>OEM part number: A0225455532</li><li>Compatible with Mercedes W202 2.2 CDI</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>MERCEDES W202</td></tr><tr><th>ENGINE</th><td>2.2 CDI</td></tr><tr><th>YEAR</th><td>1999</td></tr><tr><th>NUMBER PARTS</th><td>A0225455532</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W202 2.2 CDI only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W202 2.2 CDI, LUCAS 0099082, R 04010024 B, R04010024B, A 022 545 55 32, A0225455532",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W202-2.2-CDI%2C-LUCAS-0099082%2C-R-04010024-B%2C-R04010024B%2C-A-022-545-55-32%2C-A0225455532-/52299",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "50C4-5886E_20140306104935",
+    "sku": "50C4-5886E_20140306104935",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W202 2.2 CDI, LUCAS 0099082, R 04010024 B, R04010024B, A 022 545 55 32, A0225455532 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W202",
+      "ENGINE": "2.2 CDI",
+      "YEAR": "1999",
+      "NUMBER PARTS": "A0225455532",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:14:08.732Z",
+    "model": "mistral:7b",
+    "durationMs": 10098,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Dodge Caliber - Siemens P68044507AA, A2C53286727 - OEM Tested & Warranty Included",
+  "slug": "plug-play-oem-ecu-dodge-caliber-siemens-p68044507aa-a2c53286727-warranty",
+  "metaDescription": "Get a Plug & Play OEM tested ECU replacement for your Dodge Caliber. This Siemens P68044507AA, A2C53286727 ECU is in good condition and covered by a 6-month warranty.",
+  "price": "€800.00",
+  "excerpt": "Plug & Play OEM ECU for Dodge Caliber - Siemens P68044507AA, A2C53286727",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Dodge Caliber",
+    "Siemens",
+    "P68044507AA",
+    "A2C53286727"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for your Dodge Caliber is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>DODGE CALIBER</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>P68044507AA</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>A2C53286727</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific ECU programming requirements. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DODGE CALIBER P68044507AA, 765960, A2C53286727",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DODGE-CALIBER-P68044507AA%2C-765960%2C-A2C53286727/117343",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "6ED3-330E1_20200217132550",
+    "sku": "6ED3-330E1_20200217132550",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DODGE CALIBER P68044507AA, 765960, A2C53286727</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_238112_0_0/DODGE-CALIBER-P68044507AA%2C-765960%2C-A2C53286727.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_238113_0_0/DODGE-CALIBER-P68044507AA%2C-765960%2C-A2C53286727.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DODGE CALIBER",
+      "NUMBER MANUFACTURER": "P68044507AA",
+      "NUMBER PARTS": "A2C53286727",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:04:41.773Z",
+    "model": "mistral:7b",
+    "durationMs": 9548,
+    "priceIncrement": 100
+  }
+}

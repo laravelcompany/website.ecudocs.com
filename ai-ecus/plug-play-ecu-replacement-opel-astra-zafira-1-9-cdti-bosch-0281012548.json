@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Opel Astra Zafira 1.9 CDTI BOSCH 0281012548, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-opel-astra-zafira-1-9-cdti-bosch-0281012548",
+  "metaDescription": "OEM tested ECU replacement for Opel Astra Zafira 1.9 CDTI BOSCH 0281012548, offering Plug & Play functionality and backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM tested ECU replacement for Opel Astra Zafira 1.9 CDTI BOSCH 0281012548",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra Zafira",
+    "BOSCH 0281012548"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is designed for Opel Astra Zafira 1.9 CDTI and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play functionality</li><li>OEM quality</li><li>Tested and inspected by certified technicians</li><li>Locked or unlocked options available</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Value</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>OPEL ASTRA ZAFIRA</td></tr><tr><td>ENGINE</td><td>1.9 CDTI</td></tr><tr><td>YEAR</td><td>2005-2006</td></tr><tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 012 548</td></tr><tr><td>NUMBER PARTS</td><td>GM 55 198 921 BQ</td></tr><tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr><tr><td>WARRANTY :</td><td>6-month warranty</td></tr><tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra Zafira 1.9 CDTI. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA ZAFIRA 1.9 CDTI BOSCH 0 281 012 548, 0281012548, GM 55 198 921 BQ, 55198921BQ, 55198921",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-ZAFIRA-1.9-CDTI-BOSCH-0-281-012-548%2C-0281012548%2C-GM-55-198-921-BQ%2C-55198921BQ%2C-55198921/28265",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "10E9-877A0_20120824081744",
+    "sku": "10E9-877A0_20120824081744",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  OPEL ASTRA ZAFIRA 1.9 CDTI BOSCH 0 281 012 548, 0281012548, GM 55 198 921 BQ, 55198921BQ, 55198921</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_68d4c924177efbf8f036478a3997a960_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7e34382ff3e7b5fc6de0fa63ad8af2b4_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA ZAFIRA",
+      "ENGINE": "1.9 CDTI",
+      "YEAR": "2005-2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 548",
+      "NUMBER PARTS": "GM 55 198 921 BQ",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:11:59.996Z",
+    "model": "mistral:7b",
+    "durationMs": 10727,
+    "priceIncrement": 100
+  }
+}

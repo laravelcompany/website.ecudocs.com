@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN 200 SX 2.0 OEM Tested - Warranty Included - MEC-D007",
+  "slug": "plug-play-ecu-nissan-200-sx-2-0-mec-d007-warranty",
+  "metaDescription": "Buy Plug & Play ECU Replacement for NISSAN 200 SX 2.0, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€485.00",
+  "excerpt": "Plug & Play ECU replacement for NISSAN 200 SX 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan 200 SX",
+    "MEC-D007"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for NISSAN 200 SX 2.0 is a reliable replacement, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Specification</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>PARTS</td>\n<td>ECU ENGINE CONTROLLER</td>\n</tr>\n<tr>\n<td>BRAND AND MODEL</td>\n<td>NISSAN 200 SX</td>\n</tr>\n<tr>\n<td>ENGINE</td>\n<td>2.0</td>\n</tr>\n<tr>\n<td>YEAR</td>\n<td>1992-1995</td>\n</tr>\n<tr>\n<td>NUMBER MANUFACTURER</td>\n<td>23710 39F00</td>\n</tr>\n<tr>\n<td>NUMBER PARTS</td>\n<td>MEC-D007</td>\n</tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with NISSAN 200 SX 2.0. Fitment caution may apply. Please consult a professional technician before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN 200 SX 2.0, 23710 39F00, 2371039F00, MEC-D007, MECD007",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-200-SX-2.0%2C-23710-39F00%2C-2371039F00%2C-MEC-D007%2C-MECD007-/36778",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "918D-17463_20130705105719",
+    "sku": "918D-17463_20130705105719",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN 200 SX 2.0, 23710 39F00, 2371039F00, MEC-D007, MECD007 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN 200 SX",
+      "ENGINE": "2.0",
+      "YEAR": "1992-1995",
+      "NUMBER MANUFACTURER": "23710 39F00",
+      "NUMBER PARTS": "MEC-D007",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:00:10.123Z",
+    "model": "mistral:7b",
+    "durationMs": 10274,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested BMW 3 Series 0281030741 DDE 8577839, Warranty Included",
+  "slug": "plug-play-ecu-bmw-3-series-0281030741-dde-8577839-tested",
+  "metaDescription": "Get a certified Plug & Play ECU Engine Controller for BMW 3 Series, tested and covered by a 6-month warranty. Fast EU shipping.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW 3 Series",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW 3 Series",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct OEM replacement for BMW 3 Series, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Fast EU shipping</li>\n        <li>Used, original in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>0281030741 DDE 8577839</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with BMW 3 Series. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW 0281030741 DDE 8577839 DDE8577839",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-0281030741-DDE-8577839-DDE8577839/138533",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6E14-62650_20240216142915",
+    "sku": "6E14-62650_20240216142915",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW 0281030741 DDE 8577839 DDE8577839</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_290769_0_0/BMW-0281030741-DDE-8577839-DDE8577839.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_290770_0_0/BMW-0281030741-DDE-8577839-DDE8577839.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW",
+      "NUMBER MANUFACTURER": "0281030741 DDE 8577839",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:05:30.207Z",
+    "model": "mistral:7b",
+    "durationMs": 9455,
+    "priceIncrement": 100
+  }
+}

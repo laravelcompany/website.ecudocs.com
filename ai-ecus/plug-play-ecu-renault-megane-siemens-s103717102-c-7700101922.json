@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Renault Megane Siemens S103717102 C, 7700101922 - Warranty Included",
+  "slug": "plug-play-ecu-renault-megane-siemens-s103717102-c-7700101922",
+  "metaDescription": "Buy a Plug & Play OEM Tested ECU Engine Controller for Renault Megane by Siemens. Covered by a 6-month warranty, tested and ready to ship within 24–48 hours.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Renault Megane",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane",
+    "Siemens S103717102 C",
+    "7700101922"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Engine Controller for Renault Megane by Siemens is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM tested and certified</li><li>6-month warranty</li><li>Used in good condition</li><li>Thoroughly inspected and tested by a certified technician</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>RENAULT MEGANE</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S103717102 C</td></tr>\n<tr><th>NUMBER PARTS</th><td>7700101922</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle model and year. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE SIEMENS S103717102 C, S103717102C, HOM 7700868306, 7700101922",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-SIEMENS-S103717102-C%2C-S103717102C%2C-HOM-7700868306%2C-7700101922-/94123",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "D177-17607_20160714155909",
+    "sku": "D177-17607_20160714155909",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE SIEMENS S103717102 C, S103717102C, HOM 7700868306, 7700101922 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_85f88e1abbd7394783611473259bf288_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0e02ea0d29c72b679074deae28d8984d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE",
+      "NUMBER MANUFACTURER": "SIEMENS S103717102 C",
+      "NUMBER PARTS": "7700101922",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:01:06.341Z",
+    "model": "mistral:7b",
+    "durationMs": 10051,
+    "priceIncrement": 100
+  }
+}

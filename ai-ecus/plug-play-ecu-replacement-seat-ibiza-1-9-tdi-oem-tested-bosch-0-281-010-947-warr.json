@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for SEAT IBIZA 1.9 TDI - OEM Tested BOSCH 0 281 010 947, Warranty Included",
+  "slug": "plug-play-ecu-replacement-seat-ibiza-1-9-tdi-oem-tested-bosch-0-281-010-947-warr",
+  "metaDescription": "Get a Plug & Play ECU replacement for your SEAT IBIZA 1.9 TDI with our OEM tested BOSCH part (0 281 010 947). Covered by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for SEAT IBIZA 1.9 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT IBIZA 1.9 TDI",
+    "BOSCH 0 281 010 947"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for your SEAT IBIZA 1.9 TDI is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with SEAT IBIZA 1.9 TDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SEAT IBIZA</td></tr>\n        <tr><th>ENGINE:</th><td>1.9 TDI</td></tr>\n        <tr><th>YEAR:</th><td>2002-2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 947</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>EDC15P+ 1503</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with SEAT IBIZA 1.9 TDI. However, we recommend verifying compatibility before installation to ensure a perfect fitment.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA 1.9 TDI 038 906 019 HT, 038906019HT, BOSCH 0 281 010 947, 0281010947, DIESEL EDC15P+ 1503 1039S00316",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-1.9-TDI-038-906-019-HT%2C-038906019HT%2C-BOSCH-0-281-010-947%2C-0281010947%2C-DIESEL-EDC15P-1503-1039S00316-/35182",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FD82-20626_20130123175058",
+    "sku": "FD82-20626_20130123175058",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA 1.9 TDI 038 906 019 HT, 038906019HT, BOSCH 0 281 010 947, 0281010947, DIESEL EDC15P+ 1503 1039S00316 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_5f5af543739a5f928b11defe81089a78_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_23272a8c7f8d75cdd67724b3eb012f62_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "2002-2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 947",
+      "NUMBER PARTS": "EDC15P+ 1503",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:57:02.866Z",
+    "model": "mistral:7b",
+    "durationMs": 10465,
+    "priceIncrement": 100
+  }
+}

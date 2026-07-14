@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Skoda Octavia 1.9 TDI ASV AHF (2002) - Bosch 0281010380, 6-month Warranty",
+  "slug": "plug-play-ecu-skoda-octavia-19-tdi-asv-ahf-bosch-0281010380-warranted",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Skoda Octavia 1.9 TDI ASV AHF (2002) with a 6-month warranty. Fast dispatch in EU.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Skoda Octavia 1.9 TDI ASV AHF (2002)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Octavia",
+    "Bosch",
+    "1.9 TDI ASV AHF"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Skoda Octavia 1.9 TDI ASV AHF (2002) ensures seamless engine control and is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SKODA OCTAVIA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 TDI ASV AHF</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2002</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 010 380</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>038 906 012 CL</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and installation expertise. Always consult a professional before installing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 1.9 TDI 038906012CL, 038 906 012 CL, BOSCH 0281010380, 0 281 010 380",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-1.9-TDI-038906012CL%2C-038-906-012-CL%2C-BOSCH-0281010380%2C-0-281-010-380/16175",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "74F6-15499",
+    "sku": "74F6-15499",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 1.9 TDI 038906012CL, 038 906 012 CL, BOSCH 0281010380, 0 281 010 380</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.9 TDI ASV AHF",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 380",
+      "NUMBER PARTS": "038 906 012 CL",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:35:51.128Z",
+    "model": "mistral:7b",
+    "durationMs": 11783,
+    "priceIncrement": 100
+  }
+}

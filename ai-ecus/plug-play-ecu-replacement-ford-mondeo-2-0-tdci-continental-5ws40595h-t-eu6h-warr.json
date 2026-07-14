@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Ford Mondeo 2.0 TDCI OEM Tested - 5WS40595H-T, EU6H - Warranty",
+  "slug": "plug-play-ecu-replacement-ford-mondeo-2-0-tdci-continental-5ws40595h-t-eu6h-warr",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Ford Mondeo 2.0 TDCI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.0 TDCI",
+    "Continental",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller is a direct replacement for your Ford Mondeo 2.0 TDCI engine.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>OEM tested for quality assurance</li><li>6-month warranty</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n    <tr><th>ENGINE</th><td>2.0 TDCI</td></tr>\n    <tr><th>YEAR</th><td>2009</td></tr>\n    <tr><th>NUMBER PARTS</th><td>5WS40595H-T, EU6H</td></tr>\n    <tr><th>WARRANTY</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty applies to EU customers.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 7G91-12A650-UH, 7G9112A650UH, 5WS40595H-T, EU6H",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-TDCI-7G91-12A650-UH%2C-7G9112A650UH%2C-5WS40595H-T%2C-EU6H/53986",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "FFED-5173D_20140415100024",
+    "sku": "FFED-5173D_20140415100024",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI 7G91-12A650-UH, 7G9112A650UH, 5WS40595H-T, EU6H</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2009",
+      "NUMBER PARTS": "5WS40595H-T, EU6H",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:42:33.177Z",
+    "model": "mistral:7b",
+    "durationMs": 9000,
+    "priceIncrement": 100
+  }
+}

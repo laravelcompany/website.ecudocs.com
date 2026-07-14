@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat 1.9 MJD Bosch 0 281 013 674, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-1-9-mjd-bosch-0-281-013-674-oem-tested",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Fiat 1.9 MJD, tested and covered by a 6-month warranty. Fast shipping within EU.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat 1.9 MJD",
+  "tags": [
+    "ECU Repair",
+    "Plug & Play ECU",
+    "Fiat 1.9 MJD",
+    "Bosch 0 281 013 674"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat 1.9 MJD is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play</li>\n      <li>OEM Tested</li>\n      <li>6-month Warranty</li>\n      <li>Used in Good Condition</li>\n      <li>Ready for Programming</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>PARTS</td>\n          <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n          <td>BRAND AND MODEL</td>\n          <td>FIAT</td>\n        </tr>\n        <tr>\n          <td>ENGINE</td>\n          <td>1.9 MJD</td>\n        </tr>\n        <tr>\n          <td>NUMBER MANUFACTURER</td>\n          <td>BOSCH 0 281 013 674</td>\n        </tr>\n        <tr>\n          <td>NUMBER PARTS</td>\n          <td>55209120</td>\n        </tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">EU, Fast Dispatch, 12-month Warranty</section>\n<section class=\"compatibility\">Compatible with Fiat 1.9 MJD. Professional installation recommended.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 1.9 MJD BOSCH 0 281 013 674, 0281013674, 55209120",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-1.9-MJD-BOSCH-0-281-013-674%2C-0281013674%2C-55209120/114425",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4CD6-61671_20190705160146",
+    "sku": "4CD6-61671_20190705160146",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 1.9 MJD BOSCH 0 281 013 674, 0281013674, 55209120</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT",
+      "ENGINE": "1.9 MJD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 674",
+      "NUMBER PARTS": "55209120",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:08:49.169Z",
+    "model": "mistral:7b",
+    "durationMs": 10265,
+    "priceIncrement": 100
+  }
+}

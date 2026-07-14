@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Skoda Octavia 1.9 TDI AGR - OEM Tested, Warranty Included [BOSCH 0281001849]",
+  "slug": "plug-play-ecu-skoda-octavia-19-tdi-agr-bosch-0281001849",
+  "metaDescription": "OEM tested ECU replacement for Skoda Octavia 1.9 TDI AGR, offering Plug & Play convenience and backed by a warranty. Fast dispatch within EU.",
+  "price": "€87.00",
+  "excerpt": "Plug & Play ECU Replacement for Skoda Octavia 1.9 TDI AGR",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Octavia",
+    "1.9 TDI AGR",
+    "BOSCH"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Skoda Octavia 1.9 TDI AGR ensures seamless engine control and is backed by a warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play convenience</li>\n        <li>OEM quality</li>\n        <li>Warranty included</li>\n        <li>Fast EU dispatch</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SKODA OCTAVIA</td></tr>\n        <tr><th>ENGINE</th><td>1.9 TDI AGR</td></tr>\n        <tr><th>YEAR</th><td>1998-2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 849</td></tr>\n        <tr><th>NUMBER PARTS</th><td>28SA3732</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and history. Always consult a professional for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 1.9 TDI 038906018BQ, 038 906 018 BQ, BOSCH 0 281 001 849, 0281001849",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-1.9-TDI-038906018BQ%2C-038-906-018-BQ%2C-BOSCH-0-281-001-849%2C-0281001849/16209",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "AD7B-68745",
+    "sku": "AD7B-68745",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 1.9 TDI 038906018BQ, 038 906 018 BQ, BOSCH 0 281 001 849, 0281001849</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.9 TDI AGR",
+      "YEAR": "1998-2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 849",
+      "NUMBER PARTS": "28SA3732",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:36:13.450Z",
+    "model": "mistral:7b",
+    "durationMs": 9135,
+    "priceIncrement": 100
+  }
+}

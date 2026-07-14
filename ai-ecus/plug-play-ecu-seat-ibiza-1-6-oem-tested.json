@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Seat Ibiza 1.6 - OEM Tested, Warranty Included (Bosch 0261S04187)",
+  "slug": "plug-play-ecu-seat-ibiza-1-6-oem-tested",
+  "metaDescription": "Expertly tested and OEM-certified ECU replacement for Seat Ibiza 1.6, offering Plug & Play convenience with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Seat Ibiza 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Ibiza",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for the Seat Ibiza 1.6 has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM-certified</li><li>Plug & Play convenience</li><li>6-month warranty</li><li>Fast dispatch within EU</li><li>Expertly tested</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SEAT IBIZA</td></tr>\n        <tr><th>ENGINE:</th><td>1.6</td></tr>\n        <tr><th>YEAR:</th><td>2008</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 S04 187</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>BENZIN MED7.5.20 2775</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific ECU programming requirements. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA 1.6 03C906057CA, 03C 906 057 CA, 03C906057M, 03C 906 057 M, BOSCH 0261S04187, 0 261 S04 187, BENZIN MED7.5.20 2775, 1039S27511",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-1.6-03C906057CA%2C-03C-906-057-CA%2C-03C906057M%2C-03C-906-057-M%2C-BOSCH-0261S04187%2C-0-261-S04-187%2C-BENZIN-MED7.5.20-2775%2C-1039S27511/25079",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "CA85-928B7_20120604185627",
+    "sku": "CA85-928B7_20120604185627",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA 1.6 03C906057CA, 03C 906 057 CA, 03C906057M, 03C 906 057 M, BOSCH 0261S04187, 0 261 S04 187, BENZIN MED7.5.20 2775, 1039S27511</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.6",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S04 187",
+      "NUMBER PARTS": "BENZIN MED7.5.20 2775",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:56:05.222Z",
+    "model": "mistral:7b",
+    "durationMs": 10210,
+    "priceIncrement": 100
+  }
+}

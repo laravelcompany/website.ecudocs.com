@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Mitsubishi Colt Smart 1.5 DCI Bosch 0 281 011 841, A 639 150 04 79, PMN902175 - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-mitsubishi-colt-smart-1-5-dci-bosch-0-281-011-841-a-639-150-04-79-",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Mitsubishi Colt Smart 1.5 DCI Bosch 0 281 011 841, A 639 150 04 79, PMN902175 with a 6-month warranty and fast shipping.",
+  "price": "€80.00",
+  "excerpt": "OEM tested ECU Engine Controller for Mitsubishi Colt Smart 1.5 DCI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mitsubishi Colt Smart",
+    "Bosch",
+    "0 281 011 841",
+    "A 639 150 04 79",
+    "PMN902175"
+  ],
+  "description": "<section class=\"overview\">This ECU Engine Controller for Mitsubishi Colt Smart 1.5 DCI Bosch is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the exact model and year of your vehicle. Please check the compatibility chart before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MITSUBISHI COLT SMART 1.5 DCI BOSCH 0 281 011 841, 0281011841, A 639 150 04 79, A6391500479, PMN902175",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MITSUBISHI-COLT-SMART-1.5-DCI-BOSCH-0-281-011-841%2C-0281011841%2C-A-639-150-04-79%2C-A6391500479%2C-PMN902175-/85755",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "088D-163E1_20160209111436",
+    "sku": "088D-163E1_20160209111436",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MITSUBISHI COLT SMART 1.5 DCI BOSCH 0 281 011 841, 0281011841, A 639 150 04 79, A6391500479, PMN902175 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MITSUBISHI COLT SMART",
+      "ENGINE": "1.5 DCI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 841",
+      "NUMBER PARTS": "PMN902175",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:53:30.595Z",
+    "model": "mistral:7b",
+    "durationMs": 8359,
+    "priceIncrement": 100
+  }
+}

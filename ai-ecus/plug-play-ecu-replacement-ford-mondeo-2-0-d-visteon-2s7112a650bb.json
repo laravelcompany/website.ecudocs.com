@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Mondeo 2.0 D OEM Tested - 6-month Warranty - Visteon 2S7112A650BB",
+  "slug": "plug-play-ecu-replacement-ford-mondeo-2-0-d-visteon-2s7112a650bb",
+  "metaDescription": "Get a certified Plug & Play ECU Replacement for your Ford Mondeo 2.0 D with a 6-month warranty. Tested and ready to install!",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo 2.0 D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "2S7112A650BB"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Replacement for your Ford Mondeo 2.0 D is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM quality for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition, ready to install</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>2.0 D</td></tr>\n        <tr><th>YEAR</th><td>2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>2S71-12A650-BB</td></tr>\n        <tr><th>NUMBER PARTS</th><td>2BMA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo 2.0 D only. Fitment caution: Ensure proper programming and installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 D 2S71-12A650-BB, 2S7112A650BB",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-D-2S71-12A650-BB%2C-2S7112A650BB-/43241",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "C47C-8059F",
+    "sku": "C47C-8059F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 D 2S71-12A650-BB, 2S7112A650BB </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 D",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "2S71-12A650-BB",
+      "NUMBER PARTS": "2BMA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:37:59.326Z",
+    "model": "mistral:7b",
+    "durationMs": 9460,
+    "priceIncrement": 100
+  }
+}

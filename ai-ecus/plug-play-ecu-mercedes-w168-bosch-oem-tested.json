@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mercedes W168 Bosch 0 281 010 427, A 000 153 32 79 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w168-bosch-oem-tested",
+  "metaDescription": "Expertly tested and OEM certified Plug & Play ECU Engine Controller for Mercedes W168. Fast dispatch, 12-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mercedes W168",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W168",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a reliable solution for your Mercedes W168, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Certified</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W168</td></tr>\n        <tr><th>ENGINE</th><td>1.7 L</td></tr>\n        <tr><th>YEAR</th><td>2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 427</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A 000 153 32 79</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on specific vehicle conditions and models. Always consult a professional for fitment advice.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W168 BOSCH 0 281 010 427, 0281010427, A 000 153 32 79, A0001533279",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W168-BOSCH-0-281-010-427%2C-0281010427%2C-A-000-153-32-79%2C-A0001533279/76891",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D072-12221_20150718113344",
+    "sku": "D072-12221_20150718113344",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W168 BOSCH 0 281 010 427, 0281010427, A 000 153 32 79, A0001533279</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W168",
+      "ENGINE": "1.7 L",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 427",
+      "NUMBER PARTS": "A 000 153 32 79",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:06:05.346Z",
+    "model": "mistral:7b",
+    "durationMs": 10614,
+    "priceIncrement": 100
+  }
+}

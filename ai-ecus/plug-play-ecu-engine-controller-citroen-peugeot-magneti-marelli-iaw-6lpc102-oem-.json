@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Engine Controller - Citroen Peugeot Magneti Marelli IAW 6LPC.102, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-engine-controller-citroen-peugeot-magneti-marelli-iaw-6lpc102-oem-",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Citroen Peugeot Magneti Marelli IAW 6LPC.102 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Citroen Peugeot",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "Magneti Marelli IAW 6LPC.102"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Citroen Peugeot is a tested and certified replacement part from Magneti Marelli, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Plug & Play</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN PEUGEOT</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>Magneti Marelli IAW 6LPC.102</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>SW 9662162780</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with Citroen Peugeot vehicles. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT Magneti Marelli IAW 6LPC.102, IAW6LPC102, HW 16784004, 9654596080, SW 16804054, 9662162780",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-Magneti-Marelli-IAW-6LPC.102%2C-IAW6LPC102%2C-HW-16784004%2C-9654596080%2C-SW-16804054%2C-9662162780-/99587",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "BFAC-526F8_20161127010202",
+    "sku": "BFAC-526F8_20161127010202",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  CITROEN PEUGEOT Magneti Marelli IAW 6LPC.102, IAW6LPC102, HW 16784004, 9654596080, SW 16804054, 9662162780 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "NUMBER MANUFACTURER": "Magneti Marelli IAW 6LPC.102",
+      "NUMBER PARTS": "SW 9662162780",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:50:56.109Z",
+    "model": "mistral:7b",
+    "durationMs": 12208,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Lancia Thema 2.0 Bosch 0261200980, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-lancia-thema-20-bosch-0261200980-oem-tested-warranty",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Lancia Thema 2.0 (Bosch 0261200980, 1267357196). Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Lancia Thema 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Thema 2.0",
+    "Bosch 0261200980"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Lancia Thema 2.0 (Bosch 0261200980, 1267357196) is a direct replacement and ensures seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed performance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within 24–48 hours</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>LANCIA THEMA</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>YEAR</th><td>1992-94</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 200 980</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1267357196</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Lancia Thema 2.0 (1992-94). Please ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA THEMA 2.0 BOSCH 0261200980, 0 261 200 980, 1267357196",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-THEMA-2.0-BOSCH-0261200980%2C-0-261-200-980%2C-1267357196-/31785",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FCA7-32156",
+    "sku": "FCA7-32156",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA THEMA 2.0 BOSCH 0261200980, 0 261 200 980, 1267357196 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA THEMA",
+      "ENGINE": "2.0",
+      "YEAR": "1992-94",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 200 980",
+      "NUMBER PARTS": "1267357196",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:35:36.561Z",
+    "model": "mistral:7b",
+    "durationMs": 11431,
+    "priceIncrement": 100
+  }
+}

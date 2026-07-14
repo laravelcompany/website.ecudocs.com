@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Opel Zafira 1.9 CDTI - Bosch 0 281 012 549, GM 55 198 922 BR - Warranty Included",
+  "slug": "plug-play-ecu-opel-zafira-19-cdti-bosch-0281012549-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Opel Zafira 1.9 CDTI with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Opel Zafira",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Zafira",
+    "1.9 CDTI",
+    "Bosch",
+    "GM"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU replacement for the Opel Zafira 1.9 CDTI is a reliable solution to engine control issues, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>Compatible with Z19DT, Z19DTL, and Z19DTH Engines</li>\n        <li>Used in Good Condition</li>\n        <li>6-month Warranty Included</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr>\n            <th>PARTS</th>\n            <th>BRAND AND MODEL</th>\n            <th>ENGINE</th>\n            <th>YEAR</th>\n            <th>NUMBER MANUFACTURER</th>\n            <th>NUMBER PARTS</th>\n        </tr>\n        <tr>\n            <td>ECU ENGINE CONTROLLER</td>\n            <td>OPEL ZAFIRA</td>\n            <td>1.9 CDTI Z19DT Z19DTL Z19DTH</td>\n            <td>2006</td>\n            <td>BOSCH 0 281 012 549</td>\n            <td>GM 55 198 922 BR</td>\n        </tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel Zafira models equipped with the specified engine and year. For best results, consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ZAFIRA 1.9 CDTI Z19DT Z19DTL Z19DTH BOSCH 0 281 012 549 , 0281012549, GM 55 198 922 BR, 55198922 BR",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ZAFIRA-1.9-CDTI-Z19DT-Z19DTL-Z19DTH-BOSCH-0-281-012-549-%2C-0281012549%2C-GM-55-198-922-BR%2C-55198922-BR/9955",
+    "priceCurrency": "EUR",
+    "netPrice": "€200.00",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9955",
+    "sku": "9955",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ZAFIRA 1.9 CDTI Z19DT Z19DTL Z19DTH BOSCH 0 281 012 549 , 0281012549, GM 55 198 922 BR, 55198922 BR</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ZAFIRA",
+      "ENGINE": "1.9 CDTI Z19DT Z19DTL Z19DTH",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 549",
+      "NUMBER PARTS": "GM 55 198 922 BR",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:30:33.477Z",
+    "model": "mistral:7b",
+    "durationMs": 10897,
+    "priceIncrement": 100
+  }
+}

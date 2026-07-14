@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested NISSAN ALMERA 1.5 Engine Controller (MEC21-010, D2, 0608, KJ) - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-almera-1-5-mec21-010-d2-0608-kj-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for NISSAN ALMERA 1.5 (MEC21-010, D2, 0608, KJ) - OEM tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN ALMERA 1.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Almera",
+    "MEC21-010",
+    "D2",
+    "0608",
+    "KJ"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for NISSAN ALMERA 1.5 (MEC21-010, D2, 0608, KJ) is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with NISSAN ALMERA 1.5 (MEC21-010, D2, 0608, KJ)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>NISSAN ALMERA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.5</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001-2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MEC21-010</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>D2</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>KJ</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with NISSAN ALMERA 1.5 (MEC21-010, D2, 0608, KJ).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA 1.5 MEC21-010, MEC21010, D2, 0608, KJ",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-1.5-MEC21-010%2C-MEC21010%2C-D2%2C-0608%2C-KJ/37648",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "DBCD-73839_20130716150238",
+    "sku": "DBCD-73839_20130716150238",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA 1.5 MEC21-010, MEC21010, D2, 0608, KJ</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "ENGINE": "1.5",
+      "YEAR": "2001-2006",
+      "NUMBER MANUFACTURER": "MEC21-010",
+      "CODE": "D2",
+      "NUMBER PARTS": "KJ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:03:00.959Z",
+    "model": "mistral:7b",
+    "durationMs": 13086,
+    "priceIncrement": 100
+  }
+}

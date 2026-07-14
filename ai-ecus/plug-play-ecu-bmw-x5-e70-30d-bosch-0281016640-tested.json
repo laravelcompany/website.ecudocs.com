@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW X5 E70 3.0D Bosch 0281016640, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-bmw-x5-e70-30d-bosch-0281016640-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for BMW X5 E70 3.0D Bosch 0281016640, Plug & Play, 6-month warranty.",
+  "price": "€900.00",
+  "excerpt": "OEM tested ECU for BMW X5 E70 3.0D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281016640",
+    "BMW X5 E70",
+    "3.0D"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is specifically designed for BMW X5 E70 3.0D, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Locked / Ready for programming</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW X5 E70</td></tr>\n        <tr><th>ENGINE</th><td>3.0 DIESEL</td></tr>\n        <tr><th>YEAR</th><td>2009</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 016 640</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8509036</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW X5 E70 3.0D BOSCH 0281016640, 0 281 016 640, DDE 8509036, DDE8509036, 8 509 036 -01",
+    "price": "€800.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-X5-E70-3.0D-BOSCH-0281016640%2C-0-281-016-640%2C-DDE-8509036%2C-DDE8509036%2C-8-509-036-01/16326",
+    "priceCurrency": "EUR",
+    "netPrice": "€650.41",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "85F2-895E6",
+    "sku": "85F2-895E6",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW X5 E70 3.0D BOSCH 0281016640, 0 281 016 640, DDE 8509036, DDE8509036, 8 509 036 -01</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW X5 E70",
+      "ENGINE": "3.0 DIESEL",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 640",
+      "NUMBER PARTS": "8509036",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:52:54.630Z",
+    "model": "mistral:7b",
+    "durationMs": 9578,
+    "priceIncrement": 100
+  }
+}

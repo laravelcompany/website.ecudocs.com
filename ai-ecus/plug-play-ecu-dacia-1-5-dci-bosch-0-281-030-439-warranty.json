@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for Dacia 1.5 DCI - OEM Tested Bosch 0 281 030 439, Warranty Included",
+  "slug": "plug-play-ecu-dacia-1-5-dci-bosch-0-281-030-439-warranty",
+  "metaDescription": "OEM tested ECU Engine Controller for Dacia 1.5 DCI by Bosch (0 281 030 439, 237102213R). Plug & Play, 6-month warranty, and fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU Engine Controller for Dacia 1.5 DCI by Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Dacia 1.5 DCI",
+    "Bosch 0 281 030 439"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Dacia 1.5 DCI by Bosch (0 281 030 439, 237102213R) is a reliable replacement option, offering Plug & Play functionality and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Covered by a 6-month warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>DACIA</td></tr>\n        <tr><th>ENGINE:</th><td>1.5 DCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 030 439</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>237102213R</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Dacia 1.5 DCI. Fitment caution: Ensure proper programming and installation for optimal performance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DACIA 1.5 DCI BOSCH 0 281 030 439, 0281030439, 237102213R",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DACIA-1.5-DCI-BOSCH-0-281-030-439%2C-0281030439%2C-237102213R/105229",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "92FC-12677_20170526114346",
+    "sku": "92FC-12677_20170526114346",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DACIA 1.5 DCI BOSCH 0 281 030 439, 0281030439, 237102213R</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DACIA",
+      "ENGINE": "1.5 DCI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 030 439",
+      "NUMBER PARTS": "237102213R",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:53:24.393Z",
+    "model": "mistral:7b",
+    "durationMs": 10467,
+    "priceIncrement": 100
+  }
+}

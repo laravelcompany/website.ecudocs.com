@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Mercedes Benz 022 545 89 32 0225458932",
+  "slug": "plug-play-ecu-mercedes-benz-oem-tested-0225458932",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Mercedes Benz. Enjoy a 6-month warranty and fast shipping.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Mercedes Benz",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Benz",
+    "VDO",
+    "022 545 89 32"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Mercedes Benz has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Fast Dispatch (EU)</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES BENZ</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>022 545 89 32</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES BENZ 022 545 89 32 0225458932",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-BENZ-022-545-89-32-0225458932/144726",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "MERCEDES",
+    "brand": "VDO",
+    "productCode": "9C33-384E1_20251013113809",
+    "sku": "9C33-384E1_20251013113809",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES BENZ 022 545 89 32 0225458932</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES BENZ",
+      "NUMBER MANUFACTURER": "022 545 89 32",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:16:59.964Z",
+    "model": "mistral:7b",
+    "durationMs": 8828,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Renault Laguna 3.0 V6 - OEM Tested, Warranty Included (Bosch 0 261 206 143)",
+  "slug": "plug-play-ecu-renault-laguna-3-0-v6-oem-tested",
+  "metaDescription": "Expertly tested and OEM-approved ECU Engine Controller for Renault Laguna 3.0 V6, featuring Plug & Play compatibility and a 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Laguna 3.0 V6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Laguna",
+    "Bosch",
+    "0 261 206 143"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller for Renault Laguna 3.0 V6 offers Plug & Play compatibility and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play Compatibility</li><li>Warranty Included</li><li>Expertly Inspected</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>RENAULT LAGUNA</td></tr><tr><th>ENGINE</th><td>3.0 V6</td></tr><tr><th>YEAR</th><td>2001-2005</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 206 143</td></tr><tr><th>NUMBER PARTS</th><td>8200135967</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle's specific configuration. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT LAGUNA 3.0 V6 BOSCH 0 261 206 143, 0261206143, HOM8200046214, 26FM0856, 8200135967",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-LAGUNA-3.0-V6-BOSCH-0-261-206-143%2C-0261206143%2C-HOM8200046214%2C-26FM0856%2C-8200135967/35711",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C362-884CC_20130528191610",
+    "sku": "C362-884CC_20130528191610",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT LAGUNA 3.0 V6 BOSCH 0 261 206 143, 0261206143, HOM8200046214, 26FM0856, 8200135967</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT LAGUNA",
+      "ENGINE": "3.0 V6",
+      "YEAR": "2001-2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 143",
+      "NUMBER PARTS": "8200135967",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:37:43.918Z",
+    "model": "mistral:7b",
+    "durationMs": 10078,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement PEUGEOT 107 5WS40691C-T, 5WS40691CT, 9666526480, 896661-YV013, 896661YV013 - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-peugeot-107-5ws40691c-t-5ws40691ct-9666526480-896661yv0",
+  "metaDescription": "Buy Plug & Play OEM Tested ECU Replacement for PEUGEOT 107, covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Peugeot 107",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 107",
+    "Siemens"
+  ],
+  "description": "<section class=\"overview\">This Siemens ECU Engine Controller is a tested and reliable replacement for your PEUGEOT 107. It comes with a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Ready for Programming</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>PEUGEOT 107</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>5WS40691C-T</td></tr>\n<tr><td>NUMBER PARTS</td><td>896661-YV013</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with PEUGEOT 107. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 107 5WS40691C-T, 5WS40691CT, 9666526480, 896661-YV013, 896661YV013",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-107-5WS40691C-T%2C-5WS40691CT%2C-9666526480%2C-896661-YV013%2C-896661YV013/112478",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "44C9-118DC_20190306192520",
+    "sku": "44C9-118DC_20190306192520",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 107 5WS40691C-T, 5WS40691CT, 9666526480, 896661-YV013, 896661YV013</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_226302_0_0/ECU-ENGINE-CONTROLLER-PEUGEOT-107-5WS40691C-T%2C-5WS40691CT%2C-9666526480%2C-896661-YV013%2C-896661YV013.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_226303_0_0/ECU-ENGINE-CONTROLLER-PEUGEOT-107-5WS40691C-T%2C-5WS40691CT%2C-9666526480%2C-896661-YV013%2C-896661YV013.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 107",
+      "NUMBER MANUFACTURER": "5WS40691C-T",
+      "NUMBER PARTS": "896661-YV013",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:36:01.345Z",
+    "model": "mistral:7b",
+    "durationMs": 11519,
+    "priceIncrement": 100
+  }
+}

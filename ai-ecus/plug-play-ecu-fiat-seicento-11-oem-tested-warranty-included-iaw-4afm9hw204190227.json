@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Seicento 1.1 OEM Tested - Warranty Included, IAW 4AF.M9/HW204/1902-27H",
+  "slug": "plug-play-ecu-fiat-seicento-11-oem-tested-warranty-included-iaw-4afm9hw204190227",
+  "metaDescription": "Buy OEM ECU Engine Controller for Fiat Seicento 1.1, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Seicento 1.1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Seicento 1.1",
+    "Magneti Marelli"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller for Fiat Seicento 1.1 ensures seamless vehicle operation with a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>ECU Replacement</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT SEICENTO</td></tr>\n<tr><td>ENGINE</td><td>1.1</td></tr>\n<tr><td>YEAR</td><td>1998</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>55187372</td></tr>\n<tr><td>NUMBER PARTS</td><td>IAW 4AF.M9/HW204/1902-27H</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT SEICENTO 1.1, 55187372, 61600.627.05, 6160062705, IAW 4AF.M9/HW204/1902-27H, IAW4AFM9HW204190227H, IAW 4AF.M9, IAW4AFM9",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-SEICENTO-1.1%2C-55187372%2C-61600.627.05%2C-6160062705%2C-IAW-4AF.M9HW2041902-27H%2C-IAW4AFM9HW204190227H%2C-IAW-4AF.M9%2C-IAW4AFM9/37659",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "4E01-7331A_20130716150519",
+    "sku": "4E01-7331A_20130716150519",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT SEICENTO 1.1, 55187372, 61600.627.05, 6160062705, IAW 4AF.M9/HW204/1902-27H, IAW4AFM9HW204190227H, IAW 4AF.M9, IAW4AFM9</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT SEICENTO",
+      "ENGINE": "1.1",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "55187372",
+      "NUMBER PARTS": "IAW 4AF.M9/HW204/1902-27H",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:30:44.378Z",
+    "model": "mistral:7b",
+    "durationMs": 11287,
+    "priceIncrement": 100
+  }
+}

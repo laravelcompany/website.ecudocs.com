@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Peugeot 2.0 HDI - OEM Tested Bosch 0 281 011 520, 96 521 834 80 - Warranty",
+  "slug": "plug-play-ecu-peugeot-20-hdi-bosch-0281011520-warranty",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Peugeot 2.0 HDI (Bosch 0 281 011 520, 96 521 834 80) with Plug & Play functionality and a 6-month warranty. Fast dispatch in EU.",
+  "price": "€137.00",
+  "excerpt": "OEM tested ECU Engine Controller for Peugeot 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 2.0 HDI",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Peugeot 2.0 HDI (Bosch 0 281 011 520, 96 521 834 80) offers Plug & Play functionality and is in good condition.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Certified Technician Inspection</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT</td></tr>\n        <tr><th>ENGINE</th><td>2.0 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 520</td></tr>\n        <tr><th>NUMBER PARTS</th><td>96 521 834 80</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 2.0 HDI BOSCH 0 281 011 520, 0281011520, 96 521 834 80, 9652183480",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-2.0-HDI-BOSCH-0-281-011-520%2C-0281011520%2C-96-521-834-80%2C-9652183480-/98008",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2C4C-543E9_20161005025503",
+    "sku": "2C4C-543E9_20161005025503",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 2.0 HDI BOSCH 0 281 011 520, 0281011520, 96 521 834 80, 9652183480 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8183904066e45306df21689878863b88_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_05c535e32d89e31f5ca19c60d6ca83f1_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 520",
+      "NUMBER PARTS": "96 521 834 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:36:59.199Z",
+    "model": "mistral:7b",
+    "durationMs": 11594,
+    "priceIncrement": 100
+  }
+}

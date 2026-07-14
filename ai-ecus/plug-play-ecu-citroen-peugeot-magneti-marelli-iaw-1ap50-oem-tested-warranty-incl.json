@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Engine Controller - Citroen Peugeot Magneti Marelli IAW 1AP.50, OEM Tested, Warranty Included, ECU Replacement",
+  "slug": "plug-play-ecu-citroen-peugeot-magneti-marelli-iaw-1ap50-oem-tested-warranty-incl",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for Citroen Peugeot Magneti Marelli IAW 1AP.50, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Citroen Peugeot",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "Magneti Marelli IAW 1AP.50",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Citroen Peugeot is tested and covered by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\">...(technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT Magneti Marelli IAW 1AP.50, IAW1AP50, 16370.014, 16370014, 9630181180",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-Magneti-Marelli-IAW-1AP.50%2C-IAW1AP50%2C-16370.014%2C-16370014%2C-9630181180-/100781",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "68BA-473F6_20161216135442",
+    "sku": "68BA-473F6_20161216135442",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  CITROEN PEUGEOT Magneti Marelli IAW 1AP.50, IAW1AP50, 16370.014, 16370014, 9630181180 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "NUMBER MANUFACTURER": "Magneti Marelli IAW 1AP.50",
+      "NUMBER PARTS": "9630181180",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:50:42.899Z",
+    "model": "mistral:7b",
+    "durationMs": 6064,
+    "priceIncrement": 100
+  }
+}

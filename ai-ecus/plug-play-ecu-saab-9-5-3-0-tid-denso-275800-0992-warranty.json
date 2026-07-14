@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - SAAB 9-5 3.0 TID DENSO 275800-0992, 6-month Warranty",
+  "slug": "plug-play-ecu-saab-9-5-3-0-tid-denso-275800-0992-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for SAAB 9-5 3.0 TID DENSO 275800-0992, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for SAAB 9-5 3.0 TID DENSO 275800-0992",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SAAB 9-5",
+    "3.0 TID",
+    "DENSO",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for SAAB 9-5 3.0 TID DENSO 275800-0992 is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch</li><li>Reliable Performance</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>SAAB 9-5</td></tr>\n      <tr><th>ENGINE</th><td>3.0 TID</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>DENSO 275800-0992</td></tr>\n      <tr><th>NUMBER PARTS</th><td>PN 5166996</td></tr>\n      <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SAAB 9-5 3.0 TID. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SAAB 9-5 3.0 TID PN 5166996 ISUZU 897240-8662, 8972408662, DENSO 275800-0992, 2758000992",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SAAB-9-5-3.0-TID-PN-5166996-ISUZU-897240-8662%2C-8972408662%2C-DENSO-275800-0992%2C-2758000992/28432",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "BF78-678F9_20120828151534",
+    "sku": "BF78-678F9_20120828151534",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SAAB 9-5 3.0 TID PN 5166996 ISUZU 897240-8662, 8972408662, DENSO 275800-0992, 2758000992</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_5e1f87fb46bc9dc811d26bc84620fe89_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c7de3ec5a12d75348e3e66c47ee15605_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SAAB 9-5",
+      "ENGINE": "3.0 TID",
+      "NUMBER MANUFACTURER": "DENSO 275800-0992",
+      "NUMBER PARTS": "PN 5166996",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:38:45.946Z",
+    "model": "mistral:7b",
+    "durationMs": 10981,
+    "priceIncrement": 100
+  }
+}

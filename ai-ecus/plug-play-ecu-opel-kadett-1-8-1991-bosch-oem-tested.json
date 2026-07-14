@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Kadett 1.8 (91) - Bosch 0 285 007 016, 90 287 456 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-kadett-1-8-1991-bosch-oem-tested",
+  "metaDescription": "Get a Plug & Play ECU Replacement for Opel Kadett (1.8, 1991) with Bosch 0 285 007 016, 90 287 456 - OEM tested and covered by a warranty.",
+  "price": "€30.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Kadett 1.8 (1991)",
+  "tags": [
+    "ECU repair",
+    "Opel Kadett ECU",
+    "Bosch 0 285 007 016",
+    "90 287 456"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Opel Kadett (1.8, 1991) is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL KADETT</td></tr>\n        <tr><th>ENGINE:</th><td>1.8</td></tr>\n        <tr><th>YEAR:</th><td>1991</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 285 007 016</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>90287456</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific fault. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL KADETT BOSCH 0 285 007 016, 0285007016, PIERBURG 7.18159.54, 71815954, 90 287 456, 90287456",
+    "price": "€20.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-KADETT-BOSCH-0-285-007-016%2C-0285007016%2C-PIERBURG-7.18159.54%2C-71815954%2C-90-287-456%2C-90287456/64821",
+    "priceCurrency": "EUR",
+    "netPrice": "€16.26",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "12CD-10972_20140901134052",
+    "sku": "12CD-10972_20140901134052",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL KADETT BOSCH 0 285 007 016, 0285007016, PIERBURG 7.18159.54, 71815954, 90 287 456, 90287456</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c50f25105cbb01e2d5914aab2ae3e445_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f722687a019d6a81992d1f03f1688695_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_edacb1b7fc510e6ebafdf3cb43aedd1c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_eb361ca15dab6249279f0834b2f08217_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL KADETT",
+      "ENGINE": "1.8",
+      "YEAR": "1991",
+      "NUMBER MANUFACTURER": "BOSCH 0 285 007 016",
+      "NUMBER PARTS": "90287456",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:05:42.100Z",
+    "model": "mistral:7b",
+    "durationMs": 10159,
+    "priceIncrement": 100
+  }
+}

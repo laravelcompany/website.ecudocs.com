@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Mercedes C200 CDI W204 - Oryginal A6461504172, 0054467140",
+  "slug": "plug-play-ecu-mercedes-c200-cdi-w204-oryginal-a6461504172-0054467140",
+  "metaDescription": "OEM Tested ECU Engine Controller for Mercedes C200 CDI W204. Plug & Play, 6-month warranty, and fast dispatch.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes C200 CDI W204",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes C-KLASS W204",
+    "C200 CDI",
+    "Oryginal"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Mercedes C200 CDI W204 is tested and covered by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes C200 CDI W204. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES C200 CDI C-KLASS W204 A6461504172, A 646 150 41 72, 6461504172, A0054467140, A 005 446 71 40, 0054467140, 28114618 R0412C034G",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-C200-CDI-C-KLASS-W204-A6461504172%2C-A-646-150-41-72%2C-6461504172%2C-A0054467140%2C-A-005-446-71-40%2C-0054467140%2C-28114618-R0412C034G-/16791",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "2F69-218B0",
+    "sku": "2F69-218B0",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES C200 CDI C-KLASS W204 A6461504172, A 646 150 41 72, 6461504172, A0054467140, A 005 446 71 40, 0054467140, 28114618 R0412C034G </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES C-KLASS W204",
+      "ENGINE": "C200 CDI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "28114618 R0412C034G",
+      "NUMBER PARTS": "0054467140",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:38:14.027Z",
+    "model": "mistral:7b",
+    "durationMs": 6735,
+    "priceIncrement": 100
+  }
+}

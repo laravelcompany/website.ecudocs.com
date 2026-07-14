@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Chevrolet Cruze - 25181013, 5WY1J11A, AAGR - Warranty Included",
+  "slug": "plug-play-oem-ecu-chevrolet-cruze-25181013-5wy1j11a-aagr-warranty-included",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Chevrolet Cruze. This OEM part, number 25181013, 5WY1J11A, AAGR, comes with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€900.00",
+  "excerpt": "Plug & Play OEM ECU for Chevrolet Cruze - Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet Cruze",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for Chevrolet Cruze is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Ready for programming</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CHEVROLET CRUZE</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>25181013</td></tr>\n        <tr><th>NUMBER PARTS</th><td>5WY1J11A, AAGR</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET CRUZE 25181013, 5WY1J11A, AAGR",
+    "price": "€800.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-CRUZE-25181013%2C-5WY1J11A%2C-AAGR/126804",
+    "priceCurrency": "EUR",
+    "netPrice": "€650.41",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "F034-27335_20211025134339",
+    "sku": "F034-27335_20211025134339",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET CRUZE 25181013, 5WY1J11A, AAGR</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET CRUZE",
+      "NUMBER MANUFACTURER": "25181013",
+      "NUMBER PARTS": "5WY1J11A, AAGR",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:57:57.735Z",
+    "model": "mistral:7b",
+    "durationMs": 8318,
+    "priceIncrement": 100
+  }
+}

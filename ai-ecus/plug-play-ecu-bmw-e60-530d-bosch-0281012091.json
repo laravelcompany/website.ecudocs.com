@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E60 530D 3.0D Bosch 0281012091, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-e60-530d-bosch-0281012091",
+  "metaDescription": "OEM tested ECU replacement for BMW E60 530D 3.0D, backed by a 6-month warranty and fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "OEM tested, Plug & Play ECU for BMW E60 530D 3.0D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281012091",
+    "BMW 5 E60 530D",
+    "3.0D diesel"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is specifically designed for BMW E60 530D 3.0D engines, ensuring optimal performance and reliability.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM tested for guaranteed fitment</li>\n<li>6-month warranty for peace of mind</li>\n<li>Locked and ready for programming</li>\n<li>Used in good condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>BMW 5 E60 530 D 530D</td></tr>\n<tr><td>ENGINE</td><td>3.0 DIESEL</td></tr>\n<tr><td>YEAR</td><td>2005</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 012 091</td></tr>\n<tr><td>NUMBER PARTS</td><td>DDE 7 796 637</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for BMW E60 530D 3.0D engines only. Fitment caution may apply to other models or years.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E60 530 D 530D 3.0 D BOSCH 0281012091, 0 281 012 091, 7796637, DDE7796637, DDE 7 796 637",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E60-530-D-530D-3.0-D-BOSCH-0281012091%2C-0-281-012-091%2C-7796637%2C-DDE7796637%2C-DDE-7-796-637/12896",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6330-725D0",
+    "sku": "6330-725D0",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E60 530 D 530D 3.0 D BOSCH 0281012091, 0 281 012 091, 7796637, DDE7796637, DDE 7 796 637</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW 5 E60 530 D 530D",
+      "ENGINE": "3.0 DIESEL",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 091",
+      "NUMBER PARTS": "DDE 7 796 637",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:36:10.597Z",
+    "model": "mistral:7b",
+    "durationMs": 10571,
+    "priceIncrement": 100
+  }
+}

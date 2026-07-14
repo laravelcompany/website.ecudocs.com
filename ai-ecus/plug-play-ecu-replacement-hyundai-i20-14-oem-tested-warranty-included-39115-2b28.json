@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Hyundai i20 1.4 - OEM Tested, Warranty Included (39115-2B282, 391152B282, 39103-2B212, 391032B212, 9001040326KC)",
+  "slug": "plug-play-ecu-replacement-hyundai-i20-14-oem-tested-warranty-included-39115-2b28",
+  "metaDescription": "OEM tested ECU replacement for Hyundai i20 1.4, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Hyundai i20 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai i20",
+    "1.4 Engine",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Hyundai i20 1.4 is a reliable solution, offering Plug & Play functionality and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Reliable Solution</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>HYUNDAI I20</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>YEAR</th><td>2009</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>39115-2B282</td></tr>\n        <tr><th>NUMBER PARTS</th><td>9001040326KC</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI I20 1.4 39115-2B282, 391152B282, 39103-2B212, 391032B212, 9001040326KC",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-I20-1.4-39115-2B282%2C-391152B282%2C-39103-2B212%2C-391032B212%2C-9001040326KC/45647",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Kefico",
+    "productCode": "118A-2361E",
+    "sku": "118A-2361E",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI I20 1.4 39115-2B282, 391152B282, 39103-2B212, 391032B212, 9001040326KC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI I20",
+      "ENGINE": "1.4",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "39115-2B282",
+      "NUMBER PARTS": "9001040326KC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:42:24.775Z",
+    "model": "mistral:7b",
+    "durationMs": 12241,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford Fiesta 1.5 TDCI - Bosch 0 281 034 902, HA6A-12A650-VB - Tested & Warranty Included",
+  "slug": "plug-play-ecu-ford-fiesta-1-5-tdci-bosch-0-281-034-902-ha6a-12a650-vb-tested",
+  "metaDescription": "Buy a Plug & Play OEM ECU Engine Controller for Ford Fiesta 1.5 TDCI by Bosch (0 281 034 902, HA6A-12A650-VB). Tested and covered by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play OEM ECU for Ford Fiesta 1.5 TDCI - Tested & Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Bosch",
+    "1.5 TDCI"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Engine Controller is a tested and reliable solution for your Ford Fiesta 1.5 TDCI.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Compatible with Ford Fiesta 1.5 TDCI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th></th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FIESTA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.5 TDCI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 034 902</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>HA6A-12A650-VB</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Fiesta 1.5 TDCI only. Please verify your vehicle's compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.5 TDCI BOSCH 0 281 034 902, 0281034902, HA6A-12A650-VB, HA6A12A650VB",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.5-TDCI-BOSCH-0-281-034-902%2C-0281034902%2C-HA6A-12A650-VB%2C-HA6A12A650VB/126374",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DE13-477C1_20211004155746",
+    "sku": "DE13-477C1_20211004155746",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.5 TDCI BOSCH 0 281 034 902, 0281034902, HA6A-12A650-VB, HA6A12A650VB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_258366_0_0/FORD-FIESTA-1.5-TDCI-BOSCH-0-281-034-902%2C-0281034902%2C-HA6A-12A650-VB%2C-HA6A12A650VB.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_258367_0_0/FORD-FIESTA-1.5-TDCI-BOSCH-0-281-034-902%2C-0281034902%2C-HA6A-12A650-VB%2C-HA6A12A650VB.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.5 TDCI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 034 902",
+      "NUMBER PARTS": "HA6A-12A650-VB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:28:59.506Z",
+    "model": "mistral:7b",
+    "durationMs": 11509,
+    "priceIncrement": 100
+  }
+}

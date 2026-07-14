@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested ECU Replacement Audi A3 2.0 TDI BKD Bosch 03G906016G - Plug & Play, 6-month Warranty",
+  "slug": "plug-play-ecu-audi-a3-2-0-tdi-bkd-bosch-03g906016g-tested",
+  "metaDescription": "Plug & Play ECU replacement for Audi A3 2.0 TDI BKD, OEM tested and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested ECU Replacement for Audi A3 2.0 TDI BKD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "2.0 TDI BKD",
+    "Bosch",
+    "03G906016G"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Audi A3 2.0 TDI BKD is a reliable solution, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Locked and ready for programming</li><li>Thoroughly inspected and tested by a certified technician</li><li>6-month warranty</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">...(technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A3 2.0 TDI BKD. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 2.0 TDI BKD 03G906016G, 03G 906 016 G, BOSCH 0281011364, 0 281 011 364",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-2.0-TDI-BKD-03G906016G%2C-03G-906-016-G%2C-BOSCH-0281011364%2C-0-281-011-364/30865",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E80A-482CA_20121005145447",
+    "sku": "E80A-482CA_20121005145447",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A3 2.0 TDI BKD 03G906016G, 03G 906 016 G, BOSCH 0281011364, 0 281 011 364</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "ENGINE": "2.0 TDI BKD",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 364",
+      "NUMBER PARTS": "03G 906 016 G",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:52:41.217Z",
+    "model": "mistral:7b",
+    "durationMs": 6556,
+    "priceIncrement": 100
+  }
+}

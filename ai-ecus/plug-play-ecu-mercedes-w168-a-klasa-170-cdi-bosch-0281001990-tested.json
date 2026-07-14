@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W168 A-KLASA 170 CDI BOSCH 0281001990, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w168-a-klasa-170-cdi-bosch-0281001990-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Mercedes W168 A-KLASA 170 CDI, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€87.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W168 A-KLASA 170 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W168 A-KLASA 170 CDI",
+    "BOSCH 0281001990"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a replacement for the Mercedes W168 A-KLASA 170 CDI. It features Plug & Play functionality and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\">\n<table>\n  <tr>\n    <th>PARTS</th>\n    <td>ECU ENGINE CONTROLLER</td>\n  </tr>\n  <tr>\n    <th>BRAND AND MODEL</th>\n    <td>MERCEDES W168 A-KLASA A170</td>\n  </tr>\n  <tr>\n    <th>ENGINE</th>\n    <td>1.7 CDI</td>\n  </tr>\n  <tr>\n    <th>YEAR</th>\n    <td>1998-2000</td>\n  </tr>\n  <tr>\n    <th>NUMBER MANUFACTURER</th>\n    <td>BOSCH 0281001990, 0 285 001 990</td>\n  </tr>\n  <tr>\n    <th>NUMBER PARTS</th>\n    <td>0275455232</td>\n  </tr>\n  <tr>\n    <th>OPTION AVAILABLE</th>\n    <td>Plug & Play / Locked / Ready for programming</td>\n  </tr>\n  <tr>\n    <th>WARRANTY :</th>\n    <td>6-month warranty</td>\n  </tr>\n  <tr>\n    <th>INSPECTION:</th>\n    <td>Device thoroughly inspected and tested by a certified technician</td>\n  </tr>\n  <tr>\n    <th>CONDITION</th>\n    <td>USED IN GOOD CONDITION</td>\n  </tr></table></section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W168 A-KLASA 170 CDI BOSCH 0281001990, 0 285 001 990, A0275455232, A 027 545 52 32, 0275455232",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W168-A-KLASA-170-CDI-BOSCH-0281001990%2C-0-285-001-990%2C-A0275455232%2C-A-027-545-52-32%2C-0275455232-/13057",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "15F1-27120",
+    "sku": "15F1-27120",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W168 A-KLASA 170 CDI BOSCH 0281001990, 0 285 001 990, A0275455232, A 027 545 52 32, 0275455232 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_3aeaf6e256abed7264030da87f09ad35_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_2981eed17f8963dd8ac4e661b92f8c67_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W168 A-KLASA A170",
+      "ENGINE": "1.7 CDI",
+      "YEAR": "1998-2000",
+      "NUMBER MANUFACTURER": "BOSCH 0281001990, 0 285 001 990",
+      "NUMBER PARTS": "0275455232",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:05:05.910Z",
+    "model": "mistral:7b",
+    "durationMs": 12924,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Jeep Wrangler P56041, YNPAC - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-jeep-wrangler-p56041-ynpac-warranty",
+  "metaDescription": "Get your Jeep Wrangler back on the road with our Plug & Play OEM Tested ECU Replacement. Covered by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested, Plug & Play ECU for Jeep Wrangler",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Jeep Wrangler",
+    "P56041",
+    "YNPAC"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU replacement for your Jeep Wrangler ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Quality</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>JEEP WRANGLER</td></tr>\n        <tr><th>YEAR</th><td>1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>P56041 618AC</td></tr>\n        <tr><th>NUMBER PARTS</th><td>YNPAC</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific ECU programming requirements. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JEEP WRANGLER P56041 618AC, P56041618AC, T2727, YNPAC",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JEEP-WRANGLER-P56041-618AC%2C-P56041618AC%2C-T2727%2C-YNPAC/45608",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "8195-19058",
+    "sku": "8195-19058",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JEEP WRANGLER P56041 618AC, P56041618AC, T2727, YNPAC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JEEP WRANGLER",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "P56041 618AC",
+      "NUMBER PARTS": "YNPAC",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:11:44.131Z",
+    "model": "mistral:7b",
+    "durationMs": 10107,
+    "priceIncrement": 100
+  }
+}

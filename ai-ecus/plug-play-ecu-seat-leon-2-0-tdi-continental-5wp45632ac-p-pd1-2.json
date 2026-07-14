@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Seat Leon 2.0 TDI - Continental 5WP45632AC, PPD1.2",
+  "slug": "plug-play-ecu-seat-leon-2-0-tdi-continental-5wp45632ac-p-pd1-2",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Seat Leon 2.0 TDI by Continental (5WP45632AC, PPD1.2). 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Seat Leon 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Leon",
+    "2.0 TDI",
+    "Continental",
+    "5WP45632AC",
+    "PPD1.2"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Seat Leon 2.0 TDI is a reliable solution to ensure smooth engine operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Design for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Seat Leon 2.0 TDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SEAT LEON</td></tr>\n        <tr><th>ENGINE</th><td>2.0 TDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>5WP45632AC</td></tr>\n        <tr><th>NUMBER PARTS</th><td>PPD1.2</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is specifically designed for Seat Leon 2.0 TDI and may not fit other models or engines.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT LEON 2.0 TDI 03G 906 018 GP, 03G906018GP, 5WP45632AC, PPD1.2",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-LEON-2.0-TDI-03G-906-018-GP%2C-03G906018GP%2C-5WP45632AC%2C-PPD1.2/108248",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "06DD-422E5_20180110120441",
+    "sku": "06DD-422E5_20180110120441",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT LEON 2.0 TDI 03G 906 018 GP, 03G906018GP, 5WP45632AC, PPD1.2</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e0199aef53494cec293281c159346329_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_dc38623c3e092451b0fb622bfb096d74_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT LEON",
+      "ENGINE": "2.0 TDI",
+      "NUMBER MANUFACTURER": "5WP45632AC",
+      "NUMBER PARTS": "PPD1.2",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:08:37.336Z",
+    "model": "mistral:7b",
+    "durationMs": 9126,
+    "priceIncrement": 100
+  }
+}

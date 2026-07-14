@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford Taxi (95BB-12A650-KA), 6-month Warranty",
+  "slug": "plug-play-ecu-ford-taxi-95bb-12a650-ka-warranty",
+  "metaDescription": "Buy the tested and reliable ECU ENGINE CONTROLLER FORD 95BB-12A650-KA, 95BB12A650KA, TAXI. Enjoy Plug & Play installation, 6-month warranty, and fast shipping.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Ford Taxi (95BB-12A650-KA)",
+  "tags": [
+    "ECU repair",
+    "Plug and Play ECU",
+    "Ford Taxi ECU",
+    "OEM part",
+    "Visteon"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER is a reliable replacement for your Ford Taxi (95BB-12A650-KA).</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play installation</li>\n<li>OEM tested and inspected by certified technicians</li>\n<li>6-month warranty</li>\n<li>Used in good condition</li>\n<li>Ready for programming (locked)</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>95BB-12A650-KA</td></tr>\n<tr><td>NUMBER PARTS</td><td>TAXI</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is suitable for Ford Taxi (95BB-12A650-KA). Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 95BB-12A650-KA, 95BB12A650KA, TAXI",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-95BB-12A650-KA%2C-95BB12A650KA%2C-TAXI/125555",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "B5AE-1270D_20210519110554",
+    "sku": "B5AE-1270D_20210519110554",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 95BB-12A650-KA, 95BB12A650KA, TAXI</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_255867_0_0/FORD-95BB-12A650-KA%2C-95BB12A650KA%2C-TAXI.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_255868_0_0/FORD-95BB-12A650-KA%2C-95BB12A650KA%2C-TAXI.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "95BB-12A650-KA",
+      "NUMBER PARTS": "TAXI",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:54:56.570Z",
+    "model": "mistral:7b",
+    "durationMs": 10923,
+    "priceIncrement": 100
+  }
+}

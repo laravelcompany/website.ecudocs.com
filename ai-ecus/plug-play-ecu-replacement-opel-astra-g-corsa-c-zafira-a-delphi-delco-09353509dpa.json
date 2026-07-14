@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Astra G, Corsa C, Zafira A - Delphi Delco 09353509DPAC HSFI-2.1 (OEM Tested, Warranty Included)",
+  "slug": "plug-play-ecu-replacement-opel-astra-g-corsa-c-zafira-a-delphi-delco-09353509dpa",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Opel Astra G, Corsa C, Zafira A (Delphi Delco 09353509DPAC HSFI-2.1). Plug & Play replacement with 6-month warranty.",
+  "price": "€485.00",
+  "excerpt": "OEM tested ECU Engine Controller for Opel Astra G, Corsa C, Zafira A",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delphi Delco 09353509DPAC",
+    "Opel Astra",
+    "Corsa C",
+    "Zafira A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for Opel Astra G, Corsa C, and Zafira A models equipped with 1.4 Z14XE, 1.6 Z16XE, or 1.6 Z16SE engines.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for reliable performance</li>\n        <li>Plug & Play installation</li>\n        <li>6-month warranty</li>\n        <li>Compatible with locked, unlocked, and complete ECUs</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL ASTRA G CORSA C ZAFIRA A</td></tr>\n        <tr><th>ENGINE</th><td>1.4 Z14XE 1.6 Z16XE Z16SE</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELPHI DELCO 09353509 DPAC</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HSFI-2.1</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra G, Corsa C, and Zafira A models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA G CORSA C ZAFIRA A DELPHI DELCO 09353509 DPAC, 09353509DPAC, HSFI-2.1",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-G-CORSA-C-ZAFIRA-A-DELPHI-DELCO-09353509-DPAC%2C-09353509DPAC%2C-HSFI-2.1/9663",
+    "priceCurrency": "EUR",
+    "netPrice": "€350.00",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "9663",
+    "sku": "9663",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA G CORSA C ZAFIRA A DELPHI DELCO 09353509 DPAC, 09353509DPAC, HSFI-2.1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_5925983406f47389e7084bd7645c2b02_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_dd6b5684045d426146445dae044dc89f_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA G CORSA C ZAFIRA A",
+      "ENGINE": "1.4 Z14XE 1.6 Z16XE Z16SE",
+      "NUMBER MANUFACTURER": "DELPHI DELCO 09353509 DPAC",
+      "NUMBER PARTS": "HSFI-2.1",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:09:47.983Z",
+    "model": "mistral:7b",
+    "durationMs": 10948,
+    "priceIncrement": 100
+  }
+}

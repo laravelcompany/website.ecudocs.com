@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Engine Controller Rover MKC 103370 XB, OEM Tested, Warranty Included - ECU Replacement",
+  "slug": "plug-play-ecu-rover-mkc-103370-xbmkc103370xbbosch-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for Rover MKC 103370 XB. Enjoy 6-month warranty, fast dispatch, and expert installation.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Rover MKC 103370 XB",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover MKC 103370 XB",
+    "OEM part",
+    "Used in good condition"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Rover MKC 103370 XB is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Expertly Installed</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>ROVER MKC 103370 XB</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Rover MKC 103370 XB. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER MKC 103370 XB, MKC103370, MKC103370XB",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-MKC-103370-XB%2C-MKC103370%2C-MKC103370XB-/93261",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "5328-705E8_20160614193424",
+    "sku": "5328-705E8_20160614193424",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER MKC 103370 XB, MKC103370, MKC103370XB </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER",
+      "NUMBER MANUFACTURER": "MKC 103370 XB",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:35:58.724Z",
+    "model": "mistral:7b",
+    "durationMs": 9238,
+    "priceIncrement": 100
+  }
+}

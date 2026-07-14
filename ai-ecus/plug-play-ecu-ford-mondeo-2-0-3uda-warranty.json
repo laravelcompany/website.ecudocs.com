@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Mondeo 2.0 - 3UDA - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-mondeo-2-0-3uda-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford Mondeo 2.0 - 3UDA. Ships within 24–48 hours, backed by a 6-month warranty.",
+  "price": "€345.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Mondeo 2.0 - 6-month Warranty",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.0 Engine",
+    "3UDA",
+    "OEM Tested"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU engine controller is a reliable replacement for your Ford Mondeo 2.0, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>YEAR</th><td>2001-2007</td></tr>\n        <tr><th>NUMBER PARTS</th><td>3UDA</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours, backed by a 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Mondeo 2.0 models from 2001 to 2007.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 2S7A-12A650-AGB, 2S7A12A650AGB, 3UDA",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-2S7A-12A650-AGB%2C-2S7A12A650AGB%2C-3UDA-/53354",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "E69D-7097C_20140402141320",
+    "sku": "E69D-7097C_20140402141320",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 2S7A-12A650-AGB, 2S7A12A650AGB, 3UDA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0",
+      "YEAR": "2001-2007",
+      "NUMBER PARTS": "3UDA",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:36:17.375Z",
+    "model": "mistral:7b",
+    "durationMs": 9879,
+    "priceIncrement": 100
+  }
+}

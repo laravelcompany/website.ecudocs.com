@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - PEUGEOT 206 1.4 BOSCH 0 281 011 784, 9655919780, EDC16C34 - 6-month Warranty",
+  "slug": "plug-play-ecu-peugeot-206-14-bosch-oem-tested",
+  "metaDescription": "OEM Tested Plug & Play ECU Replacement for PEUGEOT 206 1.4 BOSCH 0 281 011 784, 9655919780, EDC16C34 - 6-month warranty and fast dispatch.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for PEUGEOT 206 1.4 BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 206",
+    "BOSCH",
+    "1.4"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement for PEUGEOT 206 1.4 BOSCH is a reliable solution, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>PEUGEOT 206</td></tr>\n    <tr><th>ENGINE</th><td>1.4</td></tr>\n    <tr><th>YEAR</th><td>2004</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 784</td></tr>\n    <tr><th>NUMBER PARTS</th><td>EDC16C34</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n  </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 206 1.4 BOSCH 0 281 011 784, 0281011784, 96 559 197 80, 9655919780, 9654490280, 1039S06089, EDC16C34",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-206-1.4-BOSCH-0-281-011-784%2C-0281011784%2C-96-559-197-80%2C-9655919780%2C-9654490280%2C-1039S06089%2C-EDC16C34/75901",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FFB9-4313C_20150701132749",
+    "sku": "FFB9-4313C_20150701132749",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 206 1.4 BOSCH 0 281 011 784, 0281011784, 96 559 197 80, 9655919780, 9654490280, 1039S06089, EDC16C34</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_7869fc4fff02f6a2dda63bd544aadb33_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_16e368fd0f599613bb2ae5c5cd798328_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 206",
+      "ENGINE": "1.4",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 784",
+      "NUMBER PARTS": "EDC16C34",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:40:41.227Z",
+    "model": "mistral:7b",
+    "durationMs": 11406,
+    "priceIncrement": 100
+  }
+}

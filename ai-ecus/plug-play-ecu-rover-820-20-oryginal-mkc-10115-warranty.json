@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Rover 820 2.0 MKC 10115 Oryginal - 6-month Warranty",
+  "slug": "plug-play-ecu-rover-820-20-oryginal-mkc-10115-warranty",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for Rover 820 2.0 MKC 10115, OEM tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Rover 820 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 820",
+    "MKC 10115",
+    "Oryginal"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is OEM tested and suitable for Rover 820 2.0 MKC 10115.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>ROVER 820</td></tr>\n<tr><th>ENGINE</th><td>2.0</td></tr>\n<tr><th>YEAR</th><td>1993</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>MKC 10115</td></tr>\n<tr><th>NUMBER PARTS</th><td>2902010115</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 820 2.0, MKC 10115, MKC10115, 2902, 4041 YN, 2902010115",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-820-2.0%2C-MKC-10115%2C-MKC10115%2C-2902%2C-4041-YN%2C-2902010115-/44558",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "6948-659D9",
+    "sku": "6948-659D9",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 820 2.0, MKC 10115, MKC10115, 2902, 4041 YN, 2902010115 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_5898f309883599a1cddc5bc9e5e5858e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_098760b5e485e7c8156aab616cfc8ce9_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 820",
+      "ENGINE": "2.0",
+      "YEAR": "1993",
+      "NUMBER MANUFACTURER": "MKC 10115",
+      "NUMBER PARTS": "2902010115",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:34:23.228Z",
+    "model": "mistral:7b",
+    "durationMs": 8698,
+    "priceIncrement": 100
+  }
+}

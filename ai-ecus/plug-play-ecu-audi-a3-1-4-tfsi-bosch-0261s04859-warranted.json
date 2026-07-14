@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Engine Controller Audi A3 1.4 TFSI BOSCH OEM Tested 0261S04859, Warranty Included",
+  "slug": "plug-play-ecu-audi-a3-1-4-tfsi-bosch-0261s04859-warranted",
+  "metaDescription": "OEM tested and Plug & Play ECU Engine Controller for Audi A3 1.4 TFSI BOSCH 0261S04859, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM tested and Plug & Play ECU for Audi A3 1.4 TFSI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "1.4 TFSI",
+    "BOSCH 0261S04859"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Audi A3 1.4 TFSI BOSCH 0261S04859 is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Expertly Inspected</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>AUDI A3</td></tr>\n    <tr><th>ENGINE</th><td>1.4 TFSI</td></tr>\n    <tr><th>YEAR</th><td>2012</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S04 859</td></tr>\n    <tr><th>NUMBER PARTS</th><td>03C 906 016 S</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Audi A3 1.4 TFSI BOSCH 0261S04859. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 1.4 TFSI BOSCH 0 261 S04 859, 0261S04859, 03C 906 016 S, 03C906016S, MED17.5.5",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-1.4-TFSI-BOSCH-0-261-S04-859%2C-0261S04859%2C-03C-906-016-S%2C-03C906016S%2C-MED17.5.5-/86289",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F824-296B5_20160216123218",
+    "sku": "F824-296B5_20160216123218",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A3 1.4 TFSI BOSCH 0 261 S04 859, 0261S04859, 03C 906 016 S, 03C906016S, MED17.5.5 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "ENGINE": "1.4 TFSI",
+      "YEAR": "2012",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S04 859",
+      "NUMBER PARTS": "03C 906 016 S",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:41:35.040Z",
+    "model": "mistral:7b",
+    "durationMs": 11184,
+    "priceIncrement": 100
+  }
+}

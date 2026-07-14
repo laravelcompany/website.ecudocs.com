@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Skoda Fabia, VW Polo, Seat Ibiza 1.2 - OEM Tested, Warranty Included (Siemens 5WP40460 04, 5WP4046004, 03E 906 023 D, 03E906023D)",
+  "slug": "plug-play-ecu-replacement-skoda-fabia-vw-polo-seat-ibiza-12-siemens-5wp40460-04-",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Skoda Fabia, VW Polo, Seat Ibiza 1.2. Covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM tested ECU replacement for Skoda Fabia, VW Polo, Seat Ibiza 1.2.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WP40460",
+    "Skoda Fabia",
+    "VW Polo",
+    "Seat Ibiza"
+  ],
+  "description": "<section class=\"overview\">This OEM tested, Plug & Play ECU replacement is suitable for Skoda Fabia, VW Polo, and Seat Ibiza 1.2 models.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used but in good condition</li><li>Ready for programming</li></ul></section>\n<section class=\"specs\">...(technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FABIA, VW POLO, SEAT IBIZA 1.2, SIEMENS 5WP40460 04, 5WP4046004, 03E 906 023 D, 03E906023D",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FABIA%2C-VW-POLO%2C-SEAT-IBIZA-1.2%2C-SIEMENS-5WP40460-04%2C-5WP4046004%2C-03E-906-023-D%2C-03E906023D/56652",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "EC43-486B3_20140522131301",
+    "sku": "EC43-486B3_20140522131301",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FABIA, VW POLO, SEAT IBIZA 1.2, SIEMENS 5WP40460 04, 5WP4046004, 03E 906 023 D, 03E906023D</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FABIA, VW POLO, SEAT IBIZA",
+      "ENGINE": "1.2",
+      "NUMBER PARTS": "03E906023D",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:28:11.181Z",
+    "model": "mistral:7b",
+    "durationMs": 7818,
+    "priceIncrement": 100
+  }
+}

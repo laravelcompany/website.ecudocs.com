@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - KIA Engine Controller 39110-02SM0, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-kia-engine-controller-39110-02sm0-oem-tested-warranty-",
+  "metaDescription": "Buy Plug & Play ECU Replacement for KIA. OEM Tested, 6-month warranty, and fast dispatch. Order now!",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for KIA",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA engine controller",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for KIA is tested and covered by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Quick Dispatch</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>KIA</td></tr><tr><th>NUMBER MANUFACTURER</th><td>39110-02SM0  9001040427KB</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA 39110-02SM0 3911002SM0 9001040427KB",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-39110-02SM0-3911002SM0-9001040427KB/138525",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Kefico",
+    "productCode": "8979-58193_20240216141135",
+    "sku": "8979-58193_20240216141135",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA 39110-02SM0 3911002SM0 9001040427KB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_290753_0_0/KIA-39110-02SM0-3911002SM0-9001040427KB.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_290754_0_0/KIA-39110-02SM0-3911002SM0-9001040427KB.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA",
+      "NUMBER MANUFACTURER": "39110-02SM0  9001040427KB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:14:19.195Z",
+    "model": "mistral:7b",
+    "durationMs": 8600,
+    "priceIncrement": 100
+  }
+}

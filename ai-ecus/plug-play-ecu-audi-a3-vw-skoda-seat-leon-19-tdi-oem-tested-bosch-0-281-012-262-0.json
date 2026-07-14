@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi A3, VW, Skoda, SEAT Leon 1.9 TDI - OEM Tested Bosch 0 281 012 262, 03G 906 021 AA - Warranty Included",
+  "slug": "plug-play-ecu-audi-a3-vw-skoda-seat-leon-19-tdi-oem-tested-bosch-0-281-012-262-0",
+  "metaDescription": "OEM tested and certified ECU replacement for Audi A3, VW, Skoda, SEAT Leon 1.9 TDI. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "OEM tested and certified ECU replacement for Audi A3, VW, Skoda, SEAT Leon 1.9 TDI.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 012 262",
+    "Audi A3",
+    "VW",
+    "Skoda",
+    "SEAT Leon"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU replacement is designed for Audi A3, VW, Skoda, SEAT Leon 1.9 TDI vehicles. It offers Plug & Play functionality and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested and certified</li>\n        <li>Plug & Play functionality</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Used, original in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Part Type</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>Brand and Model</td>\n                <td>AUDI A3, VOLKSWAGEN, SKODA, SEAT LEON</td>\n            </tr>\n            <tr>\n                <td>Engine</td>\n                <td>1.9 TDI</td>\n            </tr>\n            <tr>\n                <td>Number Manufacturer</td>\n                <td>BOSCH 0 281 012 262</td>\n            </tr>\n            <tr>\n                <td>Number Parts</td>\n                <td>03G 906 021 AA</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Audi A3, VW, Skoda, SEAT Leon 1.9 TDI vehicles. Always ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3, VOLKSWAGEN, SKODA, SEAT LEON 1.9 TDI, BOSCH 0 281 012 262, 0281012262, 03G 906 021 AA, 03G906021AA",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3%2C-VOLKSWAGEN%2C-SKODA%2C-SEAT-LEON-1.9-TDI%2C-BOSCH-0-281-012-262%2C-0281012262%2C-03G-906-021-AA%2C-03G906021AA-/43784",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7ED4-2427F",
+    "sku": "7ED4-2427F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A3, VOLKSWAGEN, SKODA, SEAT LEON 1.9 TDI, BOSCH 0 281 012 262, 0281012262, 03G 906 021 AA, 03G906021AA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3, VOLKSWAGEN, SKODA, SEAT LEON",
+      "ENGINE": "1.9 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 262",
+      "NUMBER PARTS": "03G 906 021 AA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:55:49.672Z",
+    "model": "mistral:7b",
+    "durationMs": 12535,
+    "priceIncrement": 100
+  }
+}

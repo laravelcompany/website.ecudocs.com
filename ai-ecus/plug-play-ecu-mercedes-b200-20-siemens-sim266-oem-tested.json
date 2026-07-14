@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes B200 2.0 Siemens SIM266 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-b200-20-siemens-sim266-oem-tested",
+  "metaDescription": "Expertly refurbished Plug & Play ECU replacement for Mercedes B200 2.0 with Siemens SIM266, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes B200 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes B200",
+    "Siemens SIM266"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Mercedes B200 2.0 is thoroughly inspected, tested, and guaranteed to ensure optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES B200</td></tr>\n        <tr><th>ENGINE:</th><td>2.0</td></tr>\n        <tr><th>YEAR:</th><td>2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SIEMENS SIM266 5WK90939</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>0014460440</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes B200 2.0. May require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES B200 2.0 SIEMENS SIM266 5WK90939 A2661536479, A 266 153 64 79, 2661536479, A0014460440, A 001 446 04 40, 0014460440",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-B200-2.0-SIEMENS-SIM266-5WK90939-A2661536479%2C-A-266-153-64-79%2C-2661536479%2C-A0014460440%2C-A-001-446-04-40%2C-0014460440/26902",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "19A3-89760_20120725193347",
+    "sku": "19A3-89760_20120725193347",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES B200 2.0 SIEMENS SIM266 5WK90939 A2661536479, A 266 153 64 79, 2661536479, A0014460440, A 001 446 04 40, 0014460440</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES B200",
+      "ENGINE": "2.0",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "SIEMENS SIM266 5WK90939",
+      "NUMBER PARTS": "0014460440",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:16:50.134Z",
+    "model": "mistral:7b",
+    "durationMs": 9239,
+    "priceIncrement": 100
+  }
+}

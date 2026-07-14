@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Nissan Qashqai 1.5 DCI Continental S180033107A, SID303 BA - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-qashqai-1-5-dci-continental-s180033107a-sid303-ba-warranted",
+  "metaDescription": "Expertly reconditioned ECU Engine Controller for Nissan Qashqai 1.5 DCI by Continental (S180033107A, SID303 BA). Plug & Play, OEM tested, and backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Nissan Qashqai 1.5 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Qashqai",
+    "Continental S180033107A",
+    "SID303 BA"
+  ],
+  "description": "<section class=\"overview\">This reconditioned ECU Engine Controller for Nissan Qashqai 1.5 DCI by Continental (S180033107A, SID303 BA) is thoroughly inspected and tested by a certified technician to ensure optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN QASHQAI</td></tr>\n        <tr><th>ENGINE</th><td>1.5 DCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>CONTINENTAL S180033107 A</td></tr>\n        <tr><th>NUMBER PARTS</th><td>SID303 BA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN QASHQAI 1.5 DCI CONTINENTAL S180033107 A, S180033107A, 23710JD59C, SID303 BA",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-QASHQAI-1.5-DCI-CONTINENTAL-S180033107-A%2C-S180033107A%2C-23710JD59C%2C-SID303-BA-/79551",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "99AB-72712_20150919190709",
+    "sku": "99AB-72712_20150919190709",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN QASHQAI 1.5 DCI CONTINENTAL S180033107 A, S180033107A, 23710JD59C, SID303 BA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_120bdfc748097aa04e8dc7dd9c6d4b7b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_93e0c7ad7eb74a71911f0ab6b0617326_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN QASHQAI",
+      "ENGINE": "1.5 DCI",
+      "NUMBER MANUFACTURER": "CONTINENTAL S180033107 A",
+      "NUMBER PARTS": "SID303 BA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:39:20.353Z",
+    "model": "mistral:7b",
+    "durationMs": 10496,
+    "priceIncrement": 100
+  }
+}

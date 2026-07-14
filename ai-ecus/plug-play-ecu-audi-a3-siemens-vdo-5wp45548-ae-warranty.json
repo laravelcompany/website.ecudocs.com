@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Audi A3 Siemens VDO 5WP45548 AE - 6-month Warranty",
+  "slug": "plug-play-ecu-audi-a3-siemens-vdo-5wp45548-ae-warranty",
+  "metaDescription": "Expertly reconditioned OEM ECU Engine Controller for Audi A3 Siemens VDO 5WP45548 AE. Plug & Play installation, 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Audi A3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens VDO 5WP45548 AE",
+    "Audi A3",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and reconditioned ECU Engine Controller for Audi A3 Siemens VDO 5WP45548 AE ensures reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested and reconditioned</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Locked/unlocked option available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A3 SIEMENS VDO 5WP45548 AE</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>03G 906 018 DH</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and usage history. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 SIEMENS VDO 5WP45548 AE, 5WP45548AE, 03G 906 018 DH, 03G906018DH, SIMOS PPD1.2",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-SIEMENS-VDO-5WP45548-AE%2C-5WP45548AE%2C-03G-906-018-DH%2C-03G906018DH%2C-SIMOS-PPD1.2-/100054",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "4B19-25057_20161202145045",
+    "sku": "4B19-25057_20161202145045",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  AUDI A3 SIEMENS VDO 5WP45548 AE, 5WP45548AE, 03G 906 018 DH, 03G906018DH, SIMOS PPD1.2 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "NUMBER MANUFACTURER": "SIEMENS VDO 5WP45548 AE",
+      "NUMBER PARTS": "03G 906 018 DH",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:44:12.886Z",
+    "model": "mistral:7b",
+    "durationMs": 9291,
+    "priceIncrement": 100
+  }
+}

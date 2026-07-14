@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Lancia Y 1.2 - OEM Tested Bosch 0261207905, 6-month Warranty",
+  "slug": "plug-play-ecu-lancia-y-1-2-bosch-0261207905-warranty",
+  "metaDescription": "Expertly tested and OEM ECU replacement for Lancia Y 1.2 with Bosch 0261207905, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Lancia Y 1.2 - OEM Tested",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Y",
+    "Bosch",
+    "0261207905"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Lancia Y 1.2 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>LANCIA Y</td></tr>\n<tr><th>ENGINE</th><td>1.2</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 207 905</td></tr>\n<tr><th>NUMBER PARTS</th><td>ME73H4L001</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA Y 1.2 BOSCH 0261207905, 0 261 207 905, 00551803150, 55180315, 0 055 180 315 0, ME73H4L001",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-Y-1.2-BOSCH-0261207905%2C-0-261-207-905%2C-00551803150%2C-55180315%2C-0-055-180-315-0%2C-ME73H4L001/30272",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B9B4-6917E_20120930153845",
+    "sku": "B9B4-6917E_20120930153845",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA Y 1.2 BOSCH 0261207905, 0 261 207 905, 00551803150, 55180315, 0 055 180 315 0, ME73H4L001</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA Y",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 905",
+      "NUMBER PARTS": "ME73H4L001",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:36:47.896Z",
+    "model": "mistral:7b",
+    "durationMs": 8693,
+    "priceIncrement": 100
+  }
+}

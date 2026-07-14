@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes E320 3.2 CDI OEM Bosch 0 281 010 068",
+  "slug": "plug-play-ecu-mercedes-e320-32-cdi-bosch-0281010068",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Mercedes E320 3.2 CDI by Bosch (0 281 010 068, A 025 545 56 32, A0255455632, ED0031). 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes E320 3.2 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes E320",
+    "Bosch 0 281 010 068"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller for Mercedes E320 3.2 CDI by Bosch (0 281 010 068, A 025 545 56 32, A0255455632, ED0031) is a reliable solution for your vehicle's ECU issues. Trust our expert technicians for a seamless replacement.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Expertly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES E320</td></tr>\n        <tr><th>ENGINE:</th><td>3.2 CDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 068</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>ED0031</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Mercedes E320 3.2 CDI. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES E320 3.2 CDI, BOSCH 0 281 010 068, BOSCH 0281010068, A 025 545 56 32, A0255455632, ED0031",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-E320-3.2-CDI%2C-BOSCH-0-281-010-068%2C-BOSCH-0281010068%2C-A-025-545-56-32%2C-A0255455632%2C-ED0031/39059",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E9E9-736B4_20130807101044",
+    "sku": "E9E9-736B4_20130807101044",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES E320 3.2 CDI, BOSCH 0 281 010 068, BOSCH 0281010068, A 025 545 56 32, A0255455632, ED0031</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES E320",
+      "ENGINE": "3.2 CDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 068",
+      "NUMBER PARTS": "ED0031",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:43:38.470Z",
+    "model": "mistral:7b",
+    "durationMs": 10776,
+    "priceIncrement": 100
+  }
+}

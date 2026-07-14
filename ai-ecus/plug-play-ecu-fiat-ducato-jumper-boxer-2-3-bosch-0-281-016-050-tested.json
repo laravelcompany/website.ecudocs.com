@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Ducato Jumper Boxer 2.3 JTD Bosch 0 281 016 050, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-ducato-jumper-boxer-2-3-bosch-0-281-016-050-tested",
+  "metaDescription": "Buy our Plug & Play ECU Engine Controller for Fiat Ducato Jumper Boxer 2.3 JTD Bosch 0 281 016 050, OEM tested and covered by a 6-month warranty.",
+  "price": "€900.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Ducato Jumper Boxer 2.3 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Ducato Jumper Boxer",
+    "Bosch 0 281 016 050"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Ducato Jumper Boxer 2.3 JTD by Bosch is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>FIAT DUCATO JUMPER BOXER</td></tr>\n            <tr><td>ENGINE</td><td>2.3 JTD</td></tr>\n            <tr><td>YEAR</td><td>2009</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 016 050</td></tr>\n            <tr><td>NUMBER PARTS</td><td>51861914</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and usage history. Always consult a professional technician for proper installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT DUCATO JUMPER BOXER 2.3 JTD BOSCH 0 281 016 050, 0281016050, 51861914",
+    "price": "€800.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-DUCATO-JUMPER-BOXER-2.3-JTD-BOSCH-0-281-016-050%2C-0281016050%2C-51861914/69818",
+    "priceCurrency": "EUR",
+    "netPrice": "€650.41",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B20B-189EC_20141202161148",
+    "sku": "B20B-189EC_20141202161148",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT DUCATO JUMPER BOXER 2.3 JTD BOSCH 0 281 016 050, 0281016050, 51861914</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT DUCATO JUMPER BOXER",
+      "ENGINE": "2.3 JTD",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 050",
+      "NUMBER PARTS": "51861914",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:49:02.639Z",
+    "model": "mistral:7b",
+    "durationMs": 10875,
+    "priceIncrement": 100
+  }
+}

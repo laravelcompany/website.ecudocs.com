@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - SAAB 9-3 1.9 TID BOSCH 0 281 011 970, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-saab-9-3-tid-bosch-0281011970",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for SAAB 9-3 1.9 TID BOSCH 0 281 011 970, backed by a 6-month warranty.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Replacement for SAAB 9-3 1.9 TID BOSCH 0 281 011 970",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SAAB 9-3",
+    "1.9 TID",
+    "BOSCH 0 281 011 970"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is designed for a seamless replacement in your SAAB 9-3 1.9 TID. Trust our expert technicians for reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Expert technician inspected and tested</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SAAB 9-3</td></tr>\n        <tr><th>ENGINE:</th><td>1.9 TID</td></tr>\n        <tr><th>YEAR:</th><td>2003-2012</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 011 970</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>55 354 770</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with your SAAB 9-3 1.9 TID. However, always consult a professional before installation to ensure proper fitment.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SAAB 9-3 1.9 TID BOSCH 0 281 011 970, 0281011970, 55 354 770, 55354770",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SAAB-9-3-1.9-TID-BOSCH-0-281-011-970%2C-0281011970%2C-55-354-770%2C-55354770/76769",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "23D7-37499_20150716153309",
+    "sku": "23D7-37499_20150716153309",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SAAB 9-3 1.9 TID BOSCH 0 281 011 970, 0281011970, 55 354 770, 55354770</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SAAB 9-3",
+      "ENGINE": "1.9 TID",
+      "YEAR": "2003-2012",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 970",
+      "NUMBER PARTS": "55 354 770",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:37:53.312Z",
+    "model": "mistral:7b",
+    "durationMs": 11827,
+    "priceIncrement": 100
+  }
+}

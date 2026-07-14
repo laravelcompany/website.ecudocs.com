@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Mercedes C220 2.2 CDI Bosch 0 281 001 881, A 026 545 03 32 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-c220-2-2-cdi-bosch-0281001881-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Mercedes C220 2.2 CDI Bosch 0 281 001 881, A 026 545 03 32. Shipped within 24–48 hours with a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mercedes C220 2.2 CDI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes C220",
+    "Bosch 0 281 001 881",
+    "A 026 545 03 32"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is a reliable solution for your Mercedes C220 2.2 CDI engine.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES C220</td></tr>\n        <tr><th>ENGINE</th><td>2.2 CDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 881</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A 026 545 03 32</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle and installation conditions. Please consult a professional technician for fitment caution.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES C220 2.2 CDI BOSCH 0 281 001 881, 0281001881, A 026 545 03 32, A0265450332",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-C220-2.2-CDI-BOSCH-0-281-001-881%2C-0281001881%2C-A-026-545-03-32%2C-A0265450332/70687",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "AB44-638DB_20141218131121",
+    "sku": "AB44-638DB_20141218131121",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES C220 2.2 CDI BOSCH 0 281 001 881, 0281001881, A 026 545 03 32, A0265450332</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_b8f711ad208bc70779d8c817385ee8bc_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7e7f89bb649a2b693a77a66b021e0a20_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES C220",
+      "ENGINE": "2.2 CDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 881",
+      "NUMBER PARTS": "A 026 545 03 32",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:38:38.604Z",
+    "model": "mistral:7b",
+    "durationMs": 10527,
+    "priceIncrement": 100
+  }
+}

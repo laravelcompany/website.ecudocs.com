@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT AROSA VW LUPO 1.7 SDI OEM Bosch 0 281 001 748",
+  "slug": "plug-play-ecu-replacement-seat-arosa-vw-lupo-1-7-sdi-oem-bosch-0-281-001-748",
+  "metaDescription": "OEM tested ECU Replacement for SEAT AROSA VW LUPO 1.7 SDI, Plug & Play, 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU replacement for SEAT AROSA VW LUPO 1.7 SDI.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT AROSA VW LUPO",
+    "1.7 SDI",
+    "Bosch 0 281 001 748"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is a direct fit for your SEAT AROSA VW LUPO 1.7 SDI. It's thoroughly inspected, tested, and comes with a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>EU Shipping</li>\n<li>Fast Dispatch</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>SEAT AROSA VW VOLKSWAGEN LUPO</td></tr>\n<tr><th>ENGINE</th><td>1.7 SDI AKU</td></tr>\n<tr><th>YEAR</th><td>1999</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 748</td></tr>\n<tr><th>NUMBER PARTS</th><td>26SA3712</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">EU Shipping, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This ECU is designed for SEAT AROSA VW LUPO 1.7 SDI only. Fitment may vary based on vehicle condition and history.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT AROSA VW VOLKSWAGEN LUPO 1.7 SDI 038 906 013 L, 038906013L, BOSCH 0 281 001 748, 0281001748",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-AROSA-VW-VOLKSWAGEN-LUPO-1.7-SDI-038-906-013-L%2C-038906013L%2C-BOSCH-0-281-001-748%2C-0281001748/12332",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "760F-13683",
+    "sku": "760F-13683",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT AROSA VW VOLKSWAGEN LUPO 1.7 SDI 038 906 013 L, 038906013L, BOSCH 0 281 001 748, 0281001748</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_5d9b5d4a30b73fe8e79c5d23b9b1504b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_bdc2e4ca79064d2c46d679357ff330d2_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT AROSA VW VOLKSWAGEN LUPO",
+      "ENGINE": "1.7 SDI AKU",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 748",
+      "NUMBER PARTS": "26SA3712",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:49:35.275Z",
+    "model": "mistral:7b",
+    "durationMs": 11394,
+    "priceIncrement": 100
+  }
+}

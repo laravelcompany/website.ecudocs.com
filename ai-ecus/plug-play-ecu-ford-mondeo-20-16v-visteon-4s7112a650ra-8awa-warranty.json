@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.0 16V - Visteon 4S71-12A650-RA, 4S7112A650RA, 8AWA - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-mondeo-20-16v-visteon-4s7112a650ra-8awa-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Replacement for your Ford Mondeo 2.0 16V with a 6-month warranty. Order today!",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Mondeo 2.0 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "4S71-12A650-RA",
+    "8AWA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for your Ford Mondeo 2.0 16V is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play Design</li>\n<li>6-month Warranty</li>\n<li>Compatible with 2004 Ford Mondeo 2.0 16V</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Details</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>PARTS</td>\n<td>ECU ENGINE CONTROLLER</td>\n</tr>\n<tr>\n<td>BRAND AND MODEL</td>\n<td>FORD MONDEO</td>\n</tr>\n<tr>\n<td>ENGINE</td>\n<td>2.0 16V</td>\n</tr>\n<tr>\n<td>YEAR</td>\n<td>2004</td>\n</tr>\n<tr>\n<td>NUMBER MANUFACTURER</td>\n<td>4S71-12A650-RA</td>\n</tr>\n<tr>\n<td>NUMBER PARTS</td>\n<td>8AWA</td>\n</tr>\n<tr>\n<td>OPTION AVAILABLE</td>\n<td>Plug & Play / Locked / Ready for programming</td>\n</tr>\n<tr>\n<td>WARRANTY :</td>\n<td>6-month warranty</td>\n</tr>\n<tr>\n<td>INSPECTION:</td>\n<td>Device thoroughly inspected and tested by a certified technician</td>\n</tr>\n<tr>\n<td>CONDITION</td>\n<td>USED ORYGINAL IN GOOD CONDITION</td>\n</tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure this ECU is compatible with your specific vehicle model and year before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 16V 4S71-12A650-RA, 4S7112A650RA, 8AWA",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-16V-4S71-12A650-RA%2C-4S7112A650RA%2C-8AWA-/43435",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "84E5-24027",
+    "sku": "84E5-24027",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 16V 4S71-12A650-RA, 4S7112A650RA, 8AWA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 16V",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "4S71-12A650-RA",
+      "NUMBER PARTS": "8AWA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:35:06.864Z",
+    "model": "mistral:7b",
+    "durationMs": 13048,
+    "priceIncrement": 100
+  }
+}

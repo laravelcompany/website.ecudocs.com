@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Fiat 500 1.3 JTD Magneti Marelli MJD 6F3.B1 - Warranty Included",
+  "slug": "plug-play-ecu-fiat-500-1-3-jtd-magneti-marelli-mjd-6f3b1-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Fiat 500 1.3 JTD by Magneti Marelli. This used part is in good condition, thoroughly inspected and tested by a certified technician. Ships within 24-48 hours with 6-month warranty.",
+  "price": "€435.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Fiat 500 1.3 JTD by Magneti Marelli",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat 500",
+    "Magneti Marelli",
+    "MJD 6F3.B1"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Fiat 500 1.3 JTD by Magneti Marelli is a reliable replacement part, ensuring seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT 500</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3 JTD</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI MJD 6F3.B1</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>71600.127.00</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This part is compatible with Fiat 500 1.3 JTD only. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 500 1.3 JTD MAGNETI MARELLI MJD 6F3.B1, MJD6F3B1, FGP 51812865, 71600.127.00, 7160012700",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-500-1.3-JTD-MAGNETI-MARELLI-MJD-6F3.B1%2C-MJD6F3B1%2C-FGP-51812865%2C-71600.127.00%2C-7160012700-/95560",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "3611-124AD_20160901161912",
+    "sku": "3611-124AD_20160901161912",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 500 1.3 JTD MAGNETI MARELLI MJD 6F3.B1, MJD6F3B1, FGP 51812865, 71600.127.00, 7160012700 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_431b30ad6bd113e04a7c5c822b49845e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7f3973e59c79fbf2d097e3e441366839_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT 500",
+      "ENGINE": "1.3 JTD",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 6F3.B1",
+      "NUMBER PARTS": "71600.127.00",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:11:16.500Z",
+    "model": "mistral:7b",
+    "durationMs": 12287,
+    "priceIncrement": 100
+  }
+}

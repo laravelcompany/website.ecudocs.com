@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Opel Omega 2.5 TDI Y25DT - Bosch 0281010870, Tested & Warranty Included",
+  "slug": "plug-play-ecu-opel-omega-2-5-tdi-y25dt-bosch-0281010870-tested",
+  "metaDescription": "Buy the Plug & Play OEM tested ECU Engine Controller for Opel Omega 2.5 TDI Y25DT by Bosch (0281010870). Covered by a 6-month warranty.",
+  "price": "€60.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Opel Omega 2.5 TDI Y25DT",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Omega",
+    "2.5 TDI Y25DT",
+    "Bosch 0281010870"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for Opel Omega 2.5 TDI Y25DT by Bosch (0281010870) is a reliable replacement option, offering plug-and-play functionality.</section>\n<section class=\"features\">\n<ul>\n<li>OEM tested and certified</li>\n<li>Plug & Play functionality</li>\n<li>6-month warranty included</li>\n<li>Used in good condition</li>\n<li>Locked and ready for programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>OPEL OMEGA</td></tr>\n<tr><td>ENGINE</td><td>2.5 TDI Y25DT</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 010 870</td></tr>\n<tr><td>CODE</td><td>JL</td></tr>\n<tr><td>NUMBER PARTS</td><td>09 266 371</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL OMEGA 2.5 TDI Y25DT BOSCH 0281010870, 0 281 010 870, DDE 7788788, 7 788 788, 09266371",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-OMEGA-2.5-TDI-Y25DT-BOSCH-0281010870%2C-0-281-010-870%2C-DDE-7788788%2C-7-788-788%2C-09266371-/34508",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0A76-3246C_20121227140817",
+    "sku": "0A76-3246C_20121227140817",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL OMEGA 2.5 TDI Y25DT BOSCH 0281010870, 0 281 010 870, DDE 7788788, 7 788 788, 09266371 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL OMEGA",
+      "ENGINE": "2.5 TDI Y25DT",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 870",
+      "CODE": "JL",
+      "NUMBER PARTS": "09 266 371",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:12:27.881Z",
+    "model": "mistral:7b",
+    "durationMs": 10436,
+    "priceIncrement": 100
+  }
+}

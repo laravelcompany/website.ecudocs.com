@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - JAGUAR XJ8 XK8 4.0 LNG1410B0, DENSO MB079700-8980",
+  "slug": "plug-play-ecu-jaguar-xj8-xk8-4-0-lng1410b0-denso-mb0797008980",
+  "metaDescription": "Buy this OEM tested Plug & Play ECU Replacement for JAGUAR XJ8 XK8 4.0 LNG1410B0, DENSO MB079700-8980. Used in good condition, 6-month warranty.",
+  "price": "€435.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for JAGUAR XJ8 XK8 4.0 LNG1410B0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "JAGUAR XJ8 XK8",
+    "DENSO MB079700-8980",
+    "LNG1410B0"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is suitable for JAGUAR XJ8 XK8 4.0 LNG1410B0, DENSO MB079700-8980. It's thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>JAGUAR XJ8 XK8</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>4.0</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>DENSO MB079700-8980</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>LNG1410B0</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JAGUAR XJ8 XK8 4.0 LNG1410B0, DENSO MB079700-8980, MB0797008980",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JAGUAR-XJ8-XK8-4.0-LNG1410B0%2C-DENSO-MB079700-8980%2C-MB0797008980-/79471",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "5999-865F0_20150918131734",
+    "sku": "5999-865F0_20150918131734",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JAGUAR XJ8 XK8 4.0 LNG1410B0, DENSO MB079700-8980, MB0797008980 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_0f972a0a0af8848a117af7b70f02d82e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3821eb0895fec0236b9c8a921ea3e309_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JAGUAR XJ8 XK8",
+      "ENGINE": "4.0",
+      "NUMBER MANUFACTURER": "DENSO MB079700-8980",
+      "NUMBER PARTS": "LNG1410B0",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:01:14.823Z",
+    "model": "mistral:7b",
+    "durationMs": 12077,
+    "priceIncrement": 100
+  }
+}

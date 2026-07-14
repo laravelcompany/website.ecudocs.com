@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - KIA RIO 1.3 SIEMENS 5WY1340B, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-kia-rio-13-siemens-5wy1340b-warranty",
+  "metaDescription": "Expertly tested and guaranteed ECU Engine Controller for KIA RIO 1.3 with SIEMENS 5WY1340B, SIMK42, 39110-2X046, 391102X046. Plug & Play, OEM Tested, and backed by a 6-month warranty.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Replacement for KIA RIO 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA RIO",
+    "SIEMENS 5WY1340B",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for KIA RIO 1.3 with SIEMENS 5WY1340B ensures seamless vehicle operation and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Condition: Used Original in Good Condition</li>\n        <li>6-month warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>KIA RIO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001-2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WY1340B</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>SIMK42</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA RIO 1.3, SIEMENS 5WY1340B, SIMK42, 39110-2X046, 391102X046",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-RIO-1.3%2C-SIEMENS-5WY1340B%2C-SIMK42%2C-39110-2X046%2C-391102X046-/46042",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "674E-6318F",
+    "sku": "674E-6318F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA RIO 1.3, SIEMENS 5WY1340B, SIMK42, 39110-2X046, 391102X046 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA RIO",
+      "ENGINE": "1.3",
+      "YEAR": "2001-2005",
+      "NUMBER MANUFACTURER": "SIEMENS 5WY1340B",
+      "NUMBER PARTS": "SIMK42",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:24:43.549Z",
+    "model": "mistral:7b",
+    "durationMs": 11490,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "OPEL OMEGA 2.0 16V ECU Replacement Siemens 5WK9 072, Plug & Play, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-omega-20-16v-siemens-5wk9-072-oem-tested",
+  "metaDescription": "Buy OPEL OMEGA 2.0 16V ECU Engine Controller Siemens 5WK9 072, Plug & Play, tested and covered by a 6-month warranty. Fast EU shipping.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested OPEL OMEGA ECU Replacement",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WK9 072",
+    "OPEL OMEGA"
+  ],
+  "description": "<section class=\"overview\">This Siemens 5WK9 072 ECU Engine Controller for the OPEL OMEGA has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Shipping</li>\n        <li>Compatible with 1996 OPEL OMEGA 2.0 16V</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL OMEGA</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 16V</td></tr>\n        <tr><th>YEAR:</th><td>1996</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SIEMENS 5WK9 072</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>GM 90 491 975 NU</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with OPEL OMEGA 2.0 16V only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL OMEGA SIEMENS 5WK9 072, 5WK9072, GM 90 491 975 NU, 90491975 NU",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-OMEGA-SIEMENS-5WK9-072%2C-5WK9072%2C-GM-90-491-975-NU%2C-90491975-NU/65477",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "F122-66095_20140909120159",
+    "sku": "F122-66095_20140909120159",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL OMEGA SIEMENS 5WK9 072, 5WK9072, GM 90 491 975 NU, 90491975 NU</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_00fca953f0a5e33a73103122ad0db6a1_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e43097489ed4cd96d4bb7949141b581a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL OMEGA",
+      "ENGINE": "2.0 16V",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK9 072",
+      "NUMBER PARTS": "GM 90 491 975 NU",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:16:11.975Z",
+    "model": "mistral:7b",
+    "durationMs": 9957,
+    "priceIncrement": 100
+  }
+}

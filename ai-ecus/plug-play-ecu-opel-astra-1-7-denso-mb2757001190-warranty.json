@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Opel Astra 1.7 CDTI 55579443, DENSO MB275700-1190 - 6-month Warranty",
+  "slug": "plug-play-ecu-opel-astra-1-7-denso-mb2757001190-warranty",
+  "metaDescription": "Buy the Plug & Play OEM Tested ECU Replacement for Opel Astra 1.7 CDTI (DENSO MB275700-1190). Covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Opel Astra 1.7 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "DENSO MB275700-1190"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Opel Astra 1.7 CDTI is guaranteed to restore optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM quality and reliability</li><li>6-month warranty</li><li>Thoroughly inspected and tested by a certified technician</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>OPEL ASTRA</td></tr><tr><th>ENGINE</th><td>1.7 CDTI</td></tr><tr><th>NUMBER PARTS</th><td>55579443</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA 1.7 GM 55579443, DENSO MB275700-1190, MB2757001190",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-1.7-GM-55579443%2C-DENSO-MB275700-1190%2C-MB2757001190-/56922",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "041F-159AB_20140526163609",
+    "sku": "041F-159AB_20140526163609",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  OPEL ASTRA 1.7 GM 55579443, DENSO MB275700-1190, MB2757001190 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA",
+      "ENGINE": "1.7 CDTI",
+      "NUMBER PARTS": "55579443",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:10:44.872Z",
+    "model": "mistral:7b",
+    "durationMs": 8726,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Citroen C5 1.6 HDI Bosch 0 281 011 561, OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-c5-1-6-hdi-bosch-0-281-011-561",
+  "metaDescription": "Get your Citroen C5 1.6 HDI back on the road with our Plug & Play ECU replacement, OEM tested and covered by a 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen C5 1.6 HDI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C5",
+    "1.6 HDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for your Citroen C5 1.6 HDI is a reliable solution to get your vehicle back on the road.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN C5</td></tr>\n        <tr><th>ENGINE</th><td>1.6 HDI</td></tr>\n        <tr><th>YEAR</th><td>2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 561</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S06839</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen C5 1.6 HDI. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C5 1.6 HDI BOSCH 0 281 011 561, 0281011561, 96 569 747 80, 9656974780, 9653958980, 1039S06839, EDC14C34",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C5-1.6-HDI-BOSCH-0-281-011-561%2C-0281011561%2C-96-569-747-80%2C-9656974780%2C-9653958980%2C-1039S06839%2C-EDC14C34-/82852",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "753F-85446_20151201121021",
+    "sku": "753F-85446_20151201121021",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C5 1.6 HDI BOSCH 0 281 011 561, 0281011561, 96 569 747 80, 9656974780, 9653958980, 1039S06839, EDC14C34 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C5",
+      "ENGINE": "1.6 HDI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 561",
+      "NUMBER PARTS": "1039S06839",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:38:53.889Z",
+    "model": "mistral:7b",
+    "durationMs": 11131,
+    "priceIncrement": 100
+  }
+}

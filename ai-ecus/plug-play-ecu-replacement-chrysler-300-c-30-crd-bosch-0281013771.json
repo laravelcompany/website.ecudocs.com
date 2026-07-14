@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Chrysler 300 C 3.0 CRD - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-chrysler-300-c-30-crd-bosch-0281013771",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for your Chrysler 300 C 3.0 CRD. Enjoy fast dispatch, EU 12-month warranty, and expert installation support.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Chrysler 300 C 3.0 CRD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chrysler 300 C",
+    "3.0 CRD",
+    "Bosch",
+    "P05149119AC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is a reliable solution for your Chrysler 300 C 3.0 CRD.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Expert support available</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>CHRYSLER 300 C</td></tr>\n        <tr><th>ENGINE:</th><td>3.0 CRD</td></tr>\n        <tr><th>YEAR:</th><td>2007</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>P05149119AC</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Chrysler 300 C 3.0 CRD. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHRYSLER 300 C 3.0 CRD BOSCH 0 281 013 771, 0281013771, P05149119AC",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHRYSLER-300-C-3.0-CRD-BOSCH-0-281-013-771%2C-0281013771%2C-P05149119AC-/51275",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "71B6-77720_20140210132728",
+    "sku": "71B6-77720_20140210132728",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHRYSLER 300 C 3.0 CRD BOSCH 0 281 013 771, 0281013771, P05149119AC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHRYSLER 300 C",
+      "ENGINE": "3.0 CRD",
+      "YEAR": "2007",
+      "NUMBER PARTS": "P05149119AC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:03:56.183Z",
+    "model": "mistral:7b",
+    "durationMs": 10709,
+    "priceIncrement": 100
+  }
+}

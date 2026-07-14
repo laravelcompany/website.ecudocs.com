@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Engine Controller Fiat Panda 1.2 Magneti Marelli IAW4AF.S2, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-panda-12-magneti-marelli-iaw4afs2-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Fiat Panda 1.2 Magneti Marelli IAW4AF.S2, Plug & Play replacement, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU Engine Controller for Fiat Panda 1.2 Magneti Marelli IAW4AF.S2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Panda",
+    "Magneti Marelli",
+    "IAW4AF.S2"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Panda 1.2 Magneti Marelli IAW4AF.S2 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used original in good condition</li>\n        <li>Device thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT PANDA</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>YEAR</th><td>2006-2008</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI IAW 4AF.S2</td></tr>\n        <tr><th>NUMBER PARTS</th><td>61601.127.03</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is designed for Fiat Panda 1.2 models only. Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PANDA 1.2 MAGNETI MARELLI IAW 4AF.S2, IAW4AFS2, 51793116, 61601.127.03, 6160112703",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PANDA-1.2-MAGNETI-MARELLI-IAW-4AF.S2%2C-IAW4AFS2%2C-51793116%2C-61601.127.03%2C-6160112703/54447",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "1C7C-87075_20140423162316",
+    "sku": "1C7C-87075_20140423162316",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PANDA 1.2 MAGNETI MARELLI IAW 4AF.S2, IAW4AFS2, 51793116, 61601.127.03, 6160112703</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_b047b5c39df18198250d9e6ec89a4eb9_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_2a5902bdcb552726ae56169354fb9de0_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PANDA",
+      "ENGINE": "1.2",
+      "YEAR": "2006-2008",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 4AF.S2",
+      "NUMBER PARTS": "61601.127.03",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:11:23.878Z",
+    "model": "mistral:7b",
+    "durationMs": 11787,
+    "priceIncrement": 100
+  }
+}

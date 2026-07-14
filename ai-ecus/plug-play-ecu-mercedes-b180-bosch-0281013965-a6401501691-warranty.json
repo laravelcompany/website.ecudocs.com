@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes B180 Bosch 0 281 013 965, A 640 150 16 91 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-mercedes-b180-bosch-0281013965-a6401501691-warranty",
+  "metaDescription": "OEM tested ECU replacement for Mercedes B180 with Bosch 0 281 013 965, A 640 150 16 91. Plug & Play, backed by a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "OEM tested ECU replacement for Mercedes B180",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes B180",
+    "Bosch 0 281 013 965",
+    "A 640 150 16 91"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Mercedes B180 ensures seamless engine control with Bosch 0 281 013 965, A 640 150 16 91. Trust our expertise in providing reliable and compatible parts.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty: 6-months</li>\n        <li>Used in Good Condition</li>\n        <li>Inspection by Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES B180</td></tr>\n        <tr><th>YEAR:</th><td>2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 013 965</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>A 640 150 16 91</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES B180 BOSCH 0 281 013 965, 0281013965, A 640 150 16 91, A6401501691, 6401501691",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-B180-BOSCH-0-281-013-965%2C-0281013965%2C-A-640-150-16-91%2C-A6401501691%2C-6401501691/37665",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "209E-554CD_20130716150702",
+    "sku": "209E-554CD_20130716150702",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES B180 BOSCH 0 281 013 965, 0281013965, A 640 150 16 91, A6401501691, 6401501691</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES B180",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 965",
+      "NUMBER PARTS": "A 640 150 16 91",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:15:59.013Z",
+    "model": "mistral:7b",
+    "durationMs": 10343,
+    "priceIncrement": 100
+  }
+}

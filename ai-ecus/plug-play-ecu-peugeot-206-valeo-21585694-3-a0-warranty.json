@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Peugeot 206 - Valeo 21585694-3 A0, Warranty Included",
+  "slug": "plug-play-ecu-peugeot-206-valeo-21585694-3-a0-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Peugeot 206 by Valeo (21585694-3 A0). Comes with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested ECU Replacement for Peugeot 206",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 206",
+    "Valeo",
+    "OEM part number"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Peugeot 206 by Valeo (21585694-3 A0) is a reliable choice for your vehicle's engine control system. It comes with a 6-month warranty and is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PEUGEOT 206</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>VALEO 21585694-3 A0</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>HW9655883280</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">This product ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot 206. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 206 VALEO 21585694-3 A0, 215856943, 215856943A0, SW9661474280, HW9655883280",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-206-VALEO-21585694-3-A0%2C-215856943%2C-215856943A0%2C-SW9661474280%2C-HW9655883280-/90867",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Valeo",
+    "productCode": "9C54-1682E_20160511151601",
+    "sku": "9C54-1682E_20160511151601",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 206 VALEO 21585694-3 A0, 215856943, 215856943A0, SW9661474280, HW9655883280 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a3ebf6500ae3c0cdaf86787a3ec7ff45_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_2a1a1c920392f964a7e7b7b5c85df8b3_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 206",
+      "NUMBER MANUFACTURER": "VALEO 21585694-3 A0",
+      "NUMBER PARTS": "HW9655883280",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:53:37.397Z",
+    "model": "mistral:7b",
+    "durationMs": 13132,
+    "priceIncrement": 100
+  }
+}

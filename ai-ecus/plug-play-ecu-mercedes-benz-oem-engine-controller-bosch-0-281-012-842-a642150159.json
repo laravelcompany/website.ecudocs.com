@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes Benz OEM Engine Controller (Bosch 0 281 012 842, A6421501591, CR4.11) - Oryginal Used in Good Condition",
+  "slug": "plug-play-ecu-mercedes-benz-oem-engine-controller-bosch-0-281-012-842-a642150159",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Mercedes Benz. Used original in good condition, backed by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes Benz",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Benz",
+    "OEM part numbers",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement is a tested and certified OEM part for Mercedes Benz. It offers reliable performance and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used Original in Good Condition</li>\n        <li>Compatible with Mercedes Benz</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Parts</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>Brand and Model</td>\n                <td>MERCEDES BENZ</td>\n            </tr>\n            <tr>\n                <td>Number Manufacturer</td>\n                <td>BOSCH 0 281 012 842</td>\n            </tr>\n            <tr>\n                <td>Number Parts</td>\n                <td>A6421501591, CR4.11</td>\n            </tr>\n            <tr>\n                <td>Option Available</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>Warranty</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>Inspection</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>Condition</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes Benz models equipped with the specified part number. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES BENZ BOSCH 0 281 012 842, 0281012842, A6421501591, CR4.11",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-BENZ-BOSCH-0-281-012-842%2C-0281012842%2C-A6421501591%2C-CR4.11/126820",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "90AA-14053_20211025142523",
+    "sku": "90AA-14053_20211025142523",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES BENZ BOSCH 0 281 012 842, 0281012842, A6421501591, CR4.11</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES BENZ",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 842",
+      "NUMBER PARTS": "A6421501591, CR4.11",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:29:28.316Z",
+    "model": "mistral:7b",
+    "durationMs": 12440,
+    "priceIncrement": 100
+  }
+}

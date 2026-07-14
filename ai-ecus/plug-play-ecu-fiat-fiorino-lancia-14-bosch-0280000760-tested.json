@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for FIAT Fiorino Lancia 1.4 BOSCH 0 280 000 760 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-fiorino-lancia-14-bosch-0280000760-tested",
+  "metaDescription": "Buy the tested ECU ENGINE CONTROLLER FIAT FIORINO LANCIA 1.4 BOSCH 0 280 000 760, backed by a 6-month warranty and fast dispatch.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU for FIAT Fiorino Lancia 1.4 BOSCH 0 280 000 760",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT Fiorino Lancia",
+    "Bosch 0 280 000 760"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU ENGINE CONTROLLER is a reliable replacement for your FIAT Fiorino Lancia 1.4 BOSCH 0 280 000 760.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play for easy installation</li>\n      <li>OEM tested and inspected by a certified technician</li>\n      <li>6-month warranty</li>\n      <li>Used in good condition</li>\n      <li>Compatible with FIAT Fiorino Lancia 1.4 BOSCH 0 280 000 760</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>PARTS</td>\n          <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n          <td>BRAND AND MODEL</td>\n          <td>FIAT FIORINO LANCIA</td>\n        </tr>\n        <tr>\n          <td>ENGINE</td>\n          <td>1.4</td>\n        </tr>\n        <tr>\n          <td>YEAR</td>\n          <td>1989-1995</td>\n        </tr>\n        <tr>\n          <td>NUMBER MANUFACTURER</td>\n          <td>BOSCH 0 280 000 760</td>\n        </tr>\n        <tr>\n          <td>NUMBER PARTS</td>\n          <td>001</td>\n        </tr>\n        <tr>\n          <td>OPTION AVAILABLE</td>\n          <td>Plug & Play / Locked</td>\n        </tr>\n        <tr>\n          <td>WARRANTY :</td>\n          <td>6-month warranty</td>\n        </tr>\n        <tr>\n          <td>INSPECTION:</td>\n          <td>Device thoroughly inspected and tested by a certified technician</td>\n        </tr>\n        <tr>\n          <td>CONDITION</td>\n          <td>USED IN GOOD CONDITION</td>\n        </tr>\n      </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with FIAT Fiorino Lancia 1.4 BOSCH 0 280 000 760 only. Verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT FIORINO LANCIA 1.4 BOSCH 0 280 000 760, 0280000760, 28SA2336, 001, 941017, 2287357830",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-FIORINO-LANCIA-1.4-BOSCH-0-280-000-760%2C-0280000760%2C-28SA2336%2C-001%2C-941017%2C-2287357830/35716",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3BAE-301B3_20130528191947",
+    "sku": "3BAE-301B3_20130528191947",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT FIORINO LANCIA 1.4 BOSCH 0 280 000 760, 0280000760, 28SA2336, 001, 941017, 2287357830</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT FIORINO LANCIA",
+      "ENGINE": "1.4",
+      "YEAR": "1989-1995",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 000 760",
+      "NUMBER PARTS": "001",
+      "OPTION AVAILABLE": "Plug & Play / Locked",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:51:23.403Z",
+    "model": "mistral:7b",
+    "durationMs": 15803,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for NISSAN ALMERA 1.8 MEC20-635 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-nissan-almera-18-mec20-635-hitachi-2794-581a4201307161",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for NISSAN ALMERA 1.8 MEC20-635, backed by a 6-month warranty and fast dispatch within EU.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN ALMERA 1.8 MEC20-635",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Almera",
+    "MEC20-635",
+    "Hitachi"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for NISSAN ALMERA 1.8 MEC20-635 is thoroughly inspected and tested by a certified technician to ensure optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN ALMERA</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>YEAR</th><td>2000-2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MEC20-635</td></tr>\n        <tr><th>CODE</th><td>B1</td></tr>\n        <tr><th>NUMBER PARTS</th><td>YM</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and installation. Please consult a professional technician before installing this part.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA 1.8 MEC20-635, MEC20635, B1, 2402, YM",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-1.8-MEC20-635%2C-MEC20635%2C-B1%2C-2402%2C-YM/37650",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "2794-581A4_20130716150308",
+    "sku": "2794-581A4_20130716150308",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA 1.8 MEC20-635, MEC20635, B1, 2402, YM</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "ENGINE": "1.8",
+      "YEAR": "2000-2002",
+      "NUMBER MANUFACTURER": "MEC20-635",
+      "CODE": "B1",
+      "NUMBER PARTS": "YM",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:05:38.650Z",
+    "model": "mistral:7b",
+    "durationMs": 10169,
+    "priceIncrement": 100
+  }
+}

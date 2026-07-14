@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Nissan Almera 1.5 - Hitachi MEC32-210 ZW, D2 3X21 - Warranty Included",
+  "slug": "plug-play-ecu-nissan-almera-1-5-hitachi-mec32-210-zw-d2-3x21-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Nissan Almera 1.5 (MEC32-210 ZW, D2 3X21) by Hitachi. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM tested Plug & Play ECU replacement for Nissan Almera 1.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Almera",
+    "Hitachi",
+    "MEC32-210 ZW",
+    "D2 3X21"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Nissan Almera 1.5 (MEC32-210 ZW, D2 3X21) by Hitachi ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for guaranteed performance</li>\n        <li>Plug & Play for easy installation</li>\n        <li>Locked or ready for programming options available</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Thoroughly inspected and tested by certified technicians</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN ALMERA</td></tr>\n        <tr><th>ENGINE</th><td>1.5</td></tr>\n        <tr><th>YEAR</th><td>2002-2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MEC32-210 ZW</td></tr>\n        <tr><th>NUMBER PARTS</th><td>D2 3X21</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery and 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Nissan Almera 1.5 (MEC32-210 ZW, D2 3X21). Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA 1.5 MEC32-210 ZW, MEC32210ZW, D2 3X21, D23X21, MEC32210D23X21",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-1.5-MEC32-210-ZW%2C-MEC32210ZW%2C-D2-3X21%2C-D23X21%2C-MEC32210D23X21/36231",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "D653-2994A_20130612112841",
+    "sku": "D653-2994A_20130612112841",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA 1.5 MEC32-210 ZW, MEC32210ZW, D2 3X21, D23X21, MEC32210D23X21</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "ENGINE": "1.5",
+      "YEAR": "2002-2006",
+      "NUMBER MANUFACTURER": "MEC32-210 ZW",
+      "NUMBER PARTS": "D2 3X21",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:03:25.841Z",
+    "model": "mistral:7b",
+    "durationMs": 12564,
+    "priceIncrement": 100
+  }
+}

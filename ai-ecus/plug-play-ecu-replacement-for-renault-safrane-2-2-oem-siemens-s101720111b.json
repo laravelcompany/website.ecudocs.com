@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Renault Safrane 2.2 - OEM Siemens S101720111B, Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-for-renault-safrane-2-2-oem-siemens-s101720111b",
+  "metaDescription": "Find the Plug & Play ECU Engine Controller for your Renault Safrane 2.2, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Safrane 2.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Safrane 2.2",
+    "Siemens S101720111B"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for Renault Safrane 2.2 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT SAFRANE</td></tr>\n        <tr><th>ENGINE</th><td>2.2</td></tr>\n        <tr><th>YEAR</th><td>1995</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S101720111 B</td></tr>\n        <tr><th>NUMBER PARTS</th><td>7 700 864 284</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Safrane 2.2. Fitment caution may apply for specific vehicles or years.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT SAFRANE 2.2 SIEMENS S101720111B, S101720111 B, 101720111, HOM7700745988, 7700745988, 7700864284",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-SAFRANE-2.2-SIEMENS-S101720111B%2C-S101720111-B%2C-101720111%2C-HOM7700745988%2C-7700745988%2C-7700864284-/16863",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "AA5D-42538",
+    "sku": "AA5D-42538",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT SAFRANE 2.2 SIEMENS S101720111B, S101720111 B, 101720111, HOM7700745988, 7700745988, 7700864284 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT SAFRANE",
+      "ENGINE": "2.2",
+      "YEAR": "1995",
+      "NUMBER MANUFACTURER": "SIEMENS S101720111 B",
+      "NUMBER PARTS": "7 700 864 284",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:07:36.328Z",
+    "model": "mistral:7b",
+    "durationMs": 9243,
+    "priceIncrement": 100
+  }
+}

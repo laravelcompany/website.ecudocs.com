@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - KIA RIO 1.3 SIEMENS 5WY5712A, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-kia-rio-13-siemens-5wy5712a-oem-tested-warranty",
+  "metaDescription": "Get a Plug & Play ECU Replacement for your KIA RIO 1.3 with SIEMENS 5WY5712A, OEM tested and covered by a warranty. Fast dispatch within EU.",
+  "price": "€109.00",
+  "excerpt": "Plug & Play ECU Replacement for KIA RIO 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA RIO",
+    "SIEMENS 5WY5712A",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for KIA RIO 1.3 is tested and covered by a warranty, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with KIA RIO 1.3</li>\n        <li>Original Part in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>Parts:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>Brand and Model:</th><td>KIA RIO</td></tr>\n        <tr><th>Engine:</th><td>1.3</td></tr>\n        <tr><th>Year:</th><td>2003-2005</td></tr>\n        <tr><th>Number Manufacturer:</th><td>SIEMENS 5WY5712A</td></tr>\n        <tr><th>Number Parts:</th><td>SIMK42</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional if needed.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA RIO 1.3, SIEMENS 5WY5712A, SIMK42, 39110-2X547, 391102X547",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-RIO-1.3%2C-SIEMENS-5WY5712A%2C-SIMK42%2C-39110-2X547%2C-391102X547-/45410",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "607A-39214",
+    "sku": "607A-39214",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA RIO 1.3, SIEMENS 5WY5712A, SIMK42, 39110-2X547, 391102X547 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA RIO",
+      "ENGINE": "1.3",
+      "YEAR": "2003-2005",
+      "NUMBER MANUFACTURER": "SIEMENS 5WY5712A",
+      "NUMBER PARTS": "SIMK42",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:24:53.495Z",
+    "model": "mistral:7b",
+    "durationMs": 8945,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT Cordoba Ibiza 1.4 BOSCH 0 261 207 231, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-seat-cordoba-ibiza-1-4-bosch-0-261-207-231-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for SEAT Cordoba Ibiza 1.4 BOSCH 0 261 207 231, Plug & Play, 6-month warranty.",
+  "price": "€109.00",
+  "excerpt": "OEM tested ECU for SEAT Cordoba Ibiza 1.4 BOSCH 0 261 207 231",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT Cordoba Ibiza",
+    "BOSCH 0 261 207 231"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your SEAT Cordoba Ibiza 1.4 BOSCH 0 261 207 231.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>SEAT CORDOBA IBIZA</td></tr>\n    <tr><th>ENGINE</th><td>1.4</td></tr>\n    <tr><th>YEAR</th><td>2000</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 207 231</td></tr>\n    <tr><th>NUMBER PARTS</th><td>6K0 906 032 AJ</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is specifically designed for SEAT Cordoba Ibiza 1.4 BOSCH 0 261 207 231. Ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT CORDOBA IBIZA 1.4 BOSCH 0 261 207 231, 0261207231, 6K0 906 032 AJ, 6K0906032AJ",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-CORDOBA-IBIZA-1.4-BOSCH-0-261-207-231%2C-0261207231%2C-6K0-906-032-AJ%2C-6K0906032AJ/43621",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "078A-4193E",
+    "sku": "078A-4193E",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT CORDOBA IBIZA 1.4 BOSCH 0 261 207 231, 0261207231, 6K0 906 032 AJ, 6K0906032AJ</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT CORDOBA IBIZA",
+      "ENGINE": "1.4",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 231",
+      "NUMBER PARTS": "6K0 906 032 AJ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:50:37.518Z",
+    "model": "mistral:7b",
+    "durationMs": 11272,
+    "priceIncrement": 100
+  }
+}

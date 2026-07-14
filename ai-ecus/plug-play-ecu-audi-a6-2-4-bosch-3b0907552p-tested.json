@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested ECU Replacement Audi A6 2.4 Bosch 3B0907552P - Plug & Play, Warranty",
+  "slug": "plug-play-ecu-audi-a6-2-4-bosch-3b0907552p-tested",
+  "metaDescription": "OEM Tested ECU Replacement for Audi A6 2.4 with Bosch 3B0907552P - Plug & Play, 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested ECU Replacement for Audi A6 2.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "Bosch 3B0907552P"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Audi A6 2.4 is a reliable solution, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Locked and Ready for Programming</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI A6</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.4</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1999-2000</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 206 398</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>3B0 907 552 P</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A6 2.4 (1999-2000). Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 2.4 3B0907552P, 3B0 907 552 P, BOSCH 0261206398, 0 261 206 398",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-2.4-3B0907552P%2C-3B0-907-552-P%2C-BOSCH-0261206398%2C-0-261-206-398-/13314",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "11ED-23860",
+    "sku": "11ED-23860",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 2.4 3B0907552P, 3B0 907 552 P, BOSCH 0261206398, 0 261 206 398 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "2.4",
+      "YEAR": "1999-2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 398",
+      "NUMBER PARTS": "3B0 907 552 P",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:30:17.643Z",
+    "model": "mistral:7b",
+    "durationMs": 11080,
+    "priceIncrement": 100
+  }
+}

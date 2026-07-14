@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - SKODA OCTAVIA 1.8 20V BOSCH 0261206144, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-skoda-octavia-1-8-20v-bosch-0261206144-oem-tested",
+  "metaDescription": "Find your Plug & Play ECU Replacement for SKODA OCTAVIA 1.8 20V with BOSCH 0261206144, OEM tested and covered by a warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for SKODA OCTAVIA 1.8 20V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA OCTAVIA",
+    "BOSCH 0261206144"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for SKODA OCTAVIA 1.8 20V is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with SKODA OCTAVIA 1.8 20V</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SKODA OCTAVIA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8 20V</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1999</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 206 144</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>26SA0000</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 1.8 06A906018DJ, 06A 906 018 DJ, BOSCH 0261206144, 0 261 206 144 BENZIN V01 26SA0000",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-1.8-06A906018DJ%2C-06A-906-018-DJ%2C-BOSCH-0261206144%2C-0-261-206-144-BENZIN-V01-26SA0000/26195",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "649C-20044_20120622222630",
+    "sku": "649C-20044_20120622222630",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 1.8 06A906018DJ, 06A 906 018 DJ, BOSCH 0261206144, 0 261 206 144 BENZIN V01 26SA0000</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.8 20V",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 144",
+      "NUMBER PARTS": "26SA0000",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:34:28.608Z",
+    "model": "mistral:7b",
+    "durationMs": 11346,
+    "priceIncrement": 100
+  }
+}

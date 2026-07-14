@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement for FIAT STILO 1.9 JTD - OEM Tested, Warranty Included (0 281 011 421, 19242ADD)",
+  "slug": "plug-play-ecu-fiat-stilo-19-jtd-oem-tested-warranty-included-0-281-011-421-19242",
+  "metaDescription": "Find your Plug & Play ECU Replacement for FIAT STILO 1.9 JTD, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT STILO 1.9 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT STILO",
+    "1.9 JTD",
+    "BOSCH 0 281 011 421",
+    "19242ADD"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for FIAT STILO 1.9 JTD is thoroughly inspected, tested by a certified technician and ready to restore optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FIAT STILO</td></tr>\n        <tr><th>ENGINE:</th><td>1.9 JTD</td></tr>\n        <tr><th>YEAR:</th><td>2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 011 421</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>19242ADD</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT STILO BOSCH 0 281 011 421, 0281011421, 19242ADD",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-STILO-BOSCH-0-281-011-421%2C-0281011421%2C-19242ADD/62591",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "59F5-4871A_20140808110410",
+    "sku": "59F5-4871A_20140808110410",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT STILO BOSCH 0 281 011 421, 0281011421, 19242ADD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_43aa0b923a94709ab4a66c8cdf059da5_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c4de2b359a6672cf29e1617d87522297_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT STILO",
+      "ENGINE": "1.9 JTD",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 421",
+      "NUMBER PARTS": "19242ADD",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:35:39.377Z",
+    "model": "mistral:7b",
+    "durationMs": 10090,
+    "priceIncrement": 100
+  }
+}

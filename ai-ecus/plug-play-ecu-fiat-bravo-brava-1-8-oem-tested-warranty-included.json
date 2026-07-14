@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for FIAT BRAVO BRAVA 1.8, OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-fiat-bravo-brava-1-8-oem-tested-warranty-included",
+  "metaDescription": "Find your Plug & Play ECU replacement for FIAT BRAVO BRAVA 1.8, tested and covered by a 6-month warranty. Order today!",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT BRAVO BRAVA 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT BRAVO BRAVA",
+    "1.8 Engine",
+    "Hitachi",
+    "0454221580"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for FIAT BRAVO BRAVA 1.8 is tested and guaranteed to fit your vehicle, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used but in good condition</li>\n<li>Thoroughly inspected and tested by a certified technician</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT BRAVO BRAVA</td></tr>\n<tr><td>ENGINE</td><td>1.8</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>MFI -003</td></tr>\n<tr><td>NUMBER PARTS</td><td>0454221580</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with FIAT BRAVO BRAVA 1.8. Fitment caution: Ensure correct ECU for your vehicle's specific model and year.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT BRAVO BRAVA 1.8, MFI -003, MFI003, D04, 8317, 0454221580",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-BRAVO-BRAVA-1.8%2C-MFI-003%2C-MFI003%2C-D04%2C-8317%2C-0454221580-/46273",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "155F-890FA",
+    "sku": "155F-890FA",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT BRAVO BRAVA 1.8, MFI -003, MFI003, D04, 8317, 0454221580 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT BRAVO BRAVA",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "MFI -003",
+      "NUMBER PARTS": "0454221580",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:27:12.383Z",
+    "model": "mistral:7b",
+    "durationMs": 11079,
+    "priceIncrement": 100
+  }
+}

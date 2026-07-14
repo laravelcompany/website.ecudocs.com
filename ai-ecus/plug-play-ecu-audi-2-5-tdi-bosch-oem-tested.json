@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi 2.5 TDI Bosch 0 281 011 388 - 6-month Warranty",
+  "slug": "plug-play-ecu-audi-2-5-tdi-bosch-oem-tested",
+  "metaDescription": "Expertly reconditioned OEM Tested Plug & Play ECU Engine Controller for Audi 2.5 TDI (Bosch 0 281 011 388, 8E0 907 401 H). Shipped within 24–48 hours and covered by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi 2.5 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi 2.5 TDI",
+    "Bosch 0 281 011 388",
+    "OEM Tested"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Audi 2.5 TDI (Bosch 0 281 011 388, 8E0 907 401 H) has been thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked/Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI</td></tr>\n        <tr><th>ENGINE</th><td>2.5 TDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 388</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8E0 907 401 H</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi 2.5 TDI. Fitment caution may apply. Consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI 2.5 TDI BOSCH 0 281 011 388, 0281011388, 8E0 907 401 H, 8E0907401H",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-2.5-TDI-BOSCH-0-281-011-388%2C-0281011388%2C-8E0-907-401-H%2C-8E0907401H-/98676",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FF04-47253_20161102155551",
+    "sku": "FF04-47253_20161102155551",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI 2.5 TDI BOSCH 0 281 011 388, 0281011388, 8E0 907 401 H, 8E0907401H </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI",
+      "ENGINE": "2.5 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 388",
+      "NUMBER PARTS": "8E0 907 401 H",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:35:56.299Z",
+    "model": "mistral:7b",
+    "durationMs": 10140,
+    "priceIncrement": 100
+  }
+}

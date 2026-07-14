@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Mondeo 2.0 16V, 93-12A650-EG, DALE - Visteon",
+  "slug": "plug-play-ecu-ford-mondeo-2-0-16v-93-12a650-eg-dale-visteon",
+  "metaDescription": "Buy this OEM tested Plug & Play ECU Replacement for Ford Mondeo 2.0 16V, 93-12A650-EG, DALE by Visteon. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "93-12A650-EG"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Ford Mondeo 2.0 16V, 93-12A650-EG, DALE by Visteon is a reliable solution to your engine control unit issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty Included</li>\n        <li>Compatible with Ford Mondeo 2.0 16V</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>2.0 16V</td></tr>\n        <tr><th>YEAR</th><td>1998</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>93-12A650-EG</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DALE</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery and a 12-month warranty.</section>\n<section class=\"compatibility\">Please verify fitment before installation. This ECU is compatible with Ford Mondeo 2.0 16V only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 16V, 93-12A650-EG, 93BB12A650EG, DALE",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-16V%2C-93-12A650-EG%2C-93BB12A650EG%2C-DALE-/47586",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "2011-176DD",
+    "sku": "2011-176DD",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 16V, 93-12A650-EG, 93BB12A650EG, DALE </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_b56668ce44f25f319d720ec36c0ab35b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_796faf43495500138312854eeebfd1fe_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 16V",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "93-12A650-EG",
+      "NUMBER PARTS": "DALE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:35:31.678Z",
+    "model": "mistral:7b",
+    "durationMs": 10430,
+    "priceIncrement": 100
+  }
+}

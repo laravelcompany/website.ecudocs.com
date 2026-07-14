@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Peugeot 406 2.0 - Magneti Marelli IAW 48P.11, HW 16406014, SW 16439064 - 6-month Warranty",
+  "slug": "plug-play-ecu-peugeot-406-20-magneti-marelli-iaw-48p11-hw-16406014-sw-16439064-w",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Peugeot 406 2.0 - Magneti Marelli IAW 48P.11, HW 16406014, SW 16439064. Covered by a 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "OEM tested Plug & Play ECU for Peugeot 406 2.0 - Magneti Marelli IAW 48P.11, HW 16406014, SW 16439064",
+  "tags": [
+    "ECU repair",
+    "Peugeot 406",
+    "Magneti Marelli",
+    "2.0 engine",
+    "IAW 48P.11"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is designed for Peugeot 406 2.0 engines with Magneti Marelli IAW 48P.11 system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PEUGEOT 406</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI IAW 48P.11</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Peugeot 406 2.0 engines with Magneti Marelli IAW 48P.11 system. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 406 2.0 MAGNETI MARELLI IAW 48P.11, IAW48P11, HW 16406014 9634496280, SW 16439064 9639045580",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-406-2.0-MAGNETI-MARELLI-IAW-48P.11%2C-IAW48P11%2C-HW-16406014-9634496280%2C-SW-16439064-9639045580-/80897",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "FBA4-7039E_20151023173136",
+    "sku": "FBA4-7039E_20151023173136",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 406 2.0 MAGNETI MARELLI IAW 48P.11, IAW48P11, HW 16406014 9634496280, SW 16439064 9639045580 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 406",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 48P.11",
+      "NUMBER PARTS": "SW 9639045580",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:17:20.300Z",
+    "model": "mistral:7b",
+    "durationMs": 14609,
+    "priceIncrement": 100
+  }
+}

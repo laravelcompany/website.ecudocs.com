@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Lexus Toyota 2JZ-GE - Denso 89661-53342, DN-IMS-003",
+  "slug": "plug-play-oem-ecu-replacement-for-lexus-toyota-2jz-ge-denso-89661-53342-dn-ims-0",
+  "metaDescription": "OEM tested ECU replacement for Lexus Toyota 2JZ-GE. Plug & Play, 6-month warranty. Fast dispatch within EU.",
+  "price": "€700.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Lexus Toyota 2JZ-GE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lexus Toyota 2JZ-GE",
+    "Denso"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Lexus Toyota 2JZ-GE is a reliable solution for your engine control unit issues. It comes with a Plug & Play feature for easy installation and a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested and certified</li>\n        <li>Plug & Play for quick installation</li>\n        <li>6-month warranty</li>\n        <li>Compatible with Lexus Toyota 2JZ-GE engine</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>LEXUS TOYOTA</td></tr>\n        <tr><th>ENGINE</th><td>2JZ-GE</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>89661-53342,</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DN-IMS-003</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Lexus Toyota 2JZ-GE engine only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LEXUS TOYOTA 2JZ-GE 89661-53342, 8966153342, 275000-6210, 2750006210, 2-53020 253020, DN-IMS-003",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LEXUS-TOYOTA-2JZ-GE-89661-53342%2C-8966153342%2C-275000-6210%2C-2750006210%2C-2-53020-253020%2C-DN-IMS-003/23369",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "0816-16186_20120526154617",
+    "sku": "0816-16186_20120526154617",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LEXUS TOYOTA 2JZ-GE 89661-53342, 8966153342, 275000-6210, 2750006210, 2-53020 253020, DN-IMS-003</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LEXUS TOYOTA",
+      "ENGINE": "2JZ-GE",
+      "NUMBER MANUFACTURER": "89661-53342,",
+      "NUMBER PARTS": "DN-IMS-003",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:47:29.496Z",
+    "model": "mistral:7b",
+    "durationMs": 9384,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A4 2.0 BOSCH 0261207753 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-20-bosch-0261207753-tested",
+  "metaDescription": "Find the Plug & Play ECU Replacement for your Audi A4 2.0 with Bosch 0261207753, OEM tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A4 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Bosch 0261207753"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for your Audi A4 2.0 is thoroughly inspected and tested by a certified technician, ensuring optimal performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with Audi A4 2.0</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>AUDI A4</td></tr>\n            <tr><td>ENGINE</td><td>2.0</td></tr>\n            <tr><td>YEAR</td><td>2002</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 207 753</td></tr>\n            <tr><td>NUMBER PARTS</td><td>8E0 909 557 D</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is specifically designed for Audi A4 2.0 and may not be compatible with other models or engines.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 2.0 BOSCH 0261207753, 0 261 207 753, 8E0909557D, 8E0 909 557 D",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-2.0-BOSCH-0261207753%2C-0-261-207-753%2C-8E0909557D%2C-8E0-909-557-D/34239",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2139-80959_20121216134122",
+    "sku": "2139-80959_20121216134122",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 2.0 BOSCH 0261207753, 0 261 207 753, 8E0909557D, 8E0 909 557 D</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "2.0",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 753",
+      "NUMBER PARTS": "8E0 909 557 D",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:04:31.063Z",
+    "model": "mistral:7b",
+    "durationMs": 10334,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Skoda Roomster 1.4 TDI OEM Bosch 0 281 012 750, EDC15P",
+  "slug": "plug-play-ecu-skoda-roomster-14-tdi-bosch-0281012750-edc15p",
+  "metaDescription": "OEM Tested ECU Replacement for Skoda Roomster 1.4 TDI with Plug & Play feature, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU replacement for Skoda Roomster 1.4 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Roomster",
+    "Bosch 0281012750",
+    "EDC15P"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Skoda Roomster 1.4 TDI is tested and certified by a professional technician, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM Tested for reliability</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SKODA ROOMSTER</td></tr>\n        <tr><th>ENGINE</th><td>1.4 TDI</td></tr>\n        <tr><th>NUMBER PARTS</th><td>EDC15P</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Skoda Roomster 1.4 TDI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA ROOMSTER 1.4 TDI, BOSCH 0 281 012 750, 0281012750, 045 906 019 CC, 045906019CC, EDC15P",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-ROOMSTER-1.4-TDI%2C-BOSCH-0-281-012-750%2C-0281012750%2C-045-906-019-CC%2C-045906019CC%2C-EDC15P-/54454",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "ACA3-4918D_20140423164046",
+    "sku": "ACA3-4918D_20140423164046",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  SKODA ROOMSTER 1.4 TDI, BOSCH 0 281 012 750, 0281012750, 045 906 019 CC, 045906019CC, EDC15P </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA ROOMSTER",
+      "ENGINE": "1.4 TDI",
+      "NUMBER PARTS": "EDC15P",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:21:31.083Z",
+    "model": "mistral:7b",
+    "durationMs": 9813,
+    "priceIncrement": 100
+  }
+}

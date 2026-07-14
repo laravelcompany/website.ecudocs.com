@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Engine Controller Bosch 0 281 011 722, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-engine-controller-bosch-0-281-011-722",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Renault, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€410.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault - OEM Tested",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault engine controller",
+    "Bosch 0 281 011 722"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Renault is OEM tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used Original in Good Condition</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>RENAULT</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 011 722</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8200391957</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, fast dispatch. 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT BOSCH 0 281 011 722, 0281011722, 8200391957",
+    "price": "€375.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-BOSCH-0-281-011-722%2C-0281011722%2C-8200391957/120705",
+    "priceCurrency": "EUR",
+    "netPrice": "€304.88",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "121F-89210_20200908145101",
+    "sku": "121F-89210_20200908145101",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT BOSCH 0 281 011 722, 0281011722, 8200391957</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_246603_0_0/RENAULT-BOSCH-0-281-011-722%2C-0281011722%2C-8200391957.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_246604_0_0/RENAULT-BOSCH-0-281-011-722%2C-0281011722%2C-8200391957.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 722",
+      "NUMBER PARTS": "8200391957",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:49:55.068Z",
+    "model": "mistral:7b",
+    "durationMs": 9642,
+    "priceIncrement": 100
+  }
+}

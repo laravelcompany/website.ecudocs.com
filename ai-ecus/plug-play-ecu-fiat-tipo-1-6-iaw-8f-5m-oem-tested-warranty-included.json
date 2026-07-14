@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT TIPO 1.6 IAW 8F.5M, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-tipo-1-6-iaw-8f-5m-oem-tested-warranty-included",
+  "metaDescription": "Buy this Plug & Play ECU Replacement for FIAT TIPO 1.6 IAW 8F.5M, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT TIPO 1.6 IAW 8F.5M",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT TIPO",
+    "IAW 8F.5M"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for FIAT TIPO 1.6 IAW 8F.5M is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used OEM Part in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT TIPO</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>IAW 8F.5M</td></tr>\n        <tr><th>NUMBER PARTS</th><td>61600.217.01</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT TIPO 1.6, IAW 8F.5M, IAW8F5M, IAW8F5M/0604-ZF, 61600.217.01, 6160021701",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-TIPO-1.6%2C-IAW-8F.5M%2C-IAW8F5M%2C-IAW8F5M0604-ZF%2C-61600.217.01%2C-6160021701-/49120",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "3CEC-22224",
+    "sku": "3CEC-22224",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT TIPO 1.6, IAW 8F.5M, IAW8F5M, IAW8F5M/0604-ZF, 61600.217.01, 6160021701 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4ac221bee82715a97fea5036f03f7b7b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b8041bc05723de752e327a3f8663dfc6_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT TIPO",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "IAW 8F.5M",
+      "NUMBER PARTS": "61600.217.01",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:37:03.086Z",
+    "model": "mistral:7b",
+    "durationMs": 10577,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Rover Metro 1.4 MKC 10089, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-rover-metro-mkc-10089-oem-tested-warranty-included",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Rover Metro 1.4 MKC 10089, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Rover Metro 1.4 MKC 10089",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover Metro",
+    "MKC 10089",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for your Rover Metro 1.4 MKC 10089, ensuring seamless integration and reliable performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>6-month Warranty</li><li>Plug & Play</li><li>Ready for programming</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>ROVER METRO</td><td>1.4</td><td>1992-1995</td><td>MKC 10089</td><td>MKC 10089 1852 4034</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Rover Metro 1.4 MKC 10089. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER METRO 1.4 MKC 10089, MKC10089, MKC 10089 1852 4034",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-METRO-1.4-MKC-10089%2C-MKC10089%2C-MKC-10089-1852-4034/36238",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "52B1-98803_20130612114456",
+    "sku": "52B1-98803_20130612114456",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER METRO 1.4 MKC 10089, MKC10089, MKC 10089 1852 4034</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_7c7bca22c51d1f0d36dc4afab0366a9b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c2a5d39ea7c906dab071a0d7e32ce531_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER METRO",
+      "ENGINE": "1.4",
+      "YEAR": "1992-1995",
+      "NUMBER MANUFACTURER": "MKC 10089",
+      "NUMBER PARTS": "MKC 10089 1852 4034",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:35:16.255Z",
+    "model": "mistral:7b",
+    "durationMs": 8343,
+    "priceIncrement": 100
+  }
+}

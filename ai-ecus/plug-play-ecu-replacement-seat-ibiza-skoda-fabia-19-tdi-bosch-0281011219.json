@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for SEAT Ibiza/Skoda Fabia 1.9 TDI - OEM Tested, Warranty Included (BOSCH 0281011219)",
+  "slug": "plug-play-ecu-replacement-seat-ibiza-skoda-fabia-19-tdi-bosch-0281011219",
+  "metaDescription": "OEM tested ECU replacement for SEAT Ibiza/Skoda Fabia 1.9 TDI, Plug & Play, backed by a 6-month warranty.",
+  "price": "€87.00",
+  "excerpt": "Plug & Play ECU Replacement for SEAT Ibiza/Skoda Fabia 1.9 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BOSCH 0281011219",
+    "SEAT Ibiza",
+    "Skoda Fabia"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for SEAT Ibiza/Skoda Fabia 1.9 TDI ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>ECU Replacement</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SEAT IBIZA SKODA FABIA</td></tr>\n        <tr><th>ENGINE:</th><td>1.9 TDI</td></tr>\n        <tr><th>YEAR:</th><td>2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 011 219</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>1039S02920</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SEAT Ibiza and Skoda Fabia 1.9 TDI models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA SKODA FABIA 1.9 TDI 038906019KT, 038 906 019 KT, BOSCH 0 281 011 219, 0281011219, DIESEL EDC15P+ 5213, 1039S02920",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-SKODA-FABIA-1.9-TDI-038906019KT%2C-038-906-019-KT%2C-BOSCH-0-281-011-219%2C-0281011219%2C-DIESEL-EDC15P-5213%2C-1039S02920-/16251",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FBEB-140FF",
+    "sku": "FBEB-140FF",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA SKODA FABIA 1.9 TDI 038906019KT, 038 906 019 KT, BOSCH 0 281 011 219, 0281011219, DIESEL EDC15P+ 5213, 1039S02920 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA SKODA FABIA",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 219",
+      "NUMBER PARTS": "1039S02920",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:02:50.002Z",
+    "model": "mistral:7b",
+    "durationMs": 9864,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Renault Clio 1.5 DCI Delphi R0410C120B, Warranty Included",
+  "slug": "plug-play-ecu-renault-clio-1-5-dci-delphi-r0410c120b-warranty",
+  "metaDescription": "Expertly tested and OEM Delphi ECU Engine Controller for Renault Clio 1.5 DCI, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Renault Clio 1.5 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delphi R0410C120B",
+    "Renault Clio",
+    "1.5 DCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Delphi ECU Engine Controller for Renault Clio 1.5 DCI is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month warranty</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT CLIO</td></tr>\n        <tr><th>ENGINE</th><td>1.5 DCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>Delphi R0410C120B</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8200374174</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply, please verify before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO 1.5 DCI Delphi R0410C120B, 8200331477, 8200374174",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-1.5-DCI-Delphi-R0410C120B%2C-8200331477%2C-8200374174-/97783",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "36AF-949B2_20161002212734",
+    "sku": "36AF-949B2_20161002212734",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO 1.5 DCI Delphi R0410C120B, 8200331477, 8200374174 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_bfb3e1de1bd5fd5e307dfb433d5e5db7_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d3e24e33977cd405f248baf2a0e15fd9_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO",
+      "ENGINE": "1.5 DCI",
+      "NUMBER MANUFACTURER": "Delphi R0410C120B",
+      "NUMBER PARTS": "8200374174",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:06:03.166Z",
+    "model": "mistral:7b",
+    "durationMs": 9922,
+    "priceIncrement": 100
+  }
+}

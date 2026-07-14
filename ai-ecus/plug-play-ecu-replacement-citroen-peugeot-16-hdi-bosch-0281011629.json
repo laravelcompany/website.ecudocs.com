@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - CITROEN PEUGEOT 1.6 HDI BOSCH 0 281 011 629, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-peugeot-16-hdi-bosch-0281011629",
+  "metaDescription": "OEM tested ECU replacement for CITROEN PEUGEOT 1.6 HDI BOSCH 0 281 011 629, Plug & Play, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU replacement for CITROEN PEUGEOT 1.6 HDI BOSCH 0 281 011 629",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "1.6 HDI",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for CITROEN PEUGEOT 1.6 HDI BOSCH 0 281 011 629 is a reliable solution, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN PEUGEOT</td></tr>\n        <tr><th>ENGINE</th><td>1.6 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 629</td></tr>\n        <tr><th>NUMBER PARTS</th><td>96 564 944 80</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle model and year. Please verify fitment before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.6 HDI BOSCH 0 281 011 629, 0281011629, 96 564 944 80, 9656494480, 9653958980, EDC16C34",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-1.6-HDI-BOSCH-0-281-011-629%2C-0281011629%2C-96-564-944-80%2C-9656494480%2C-9653958980%2C-EDC16C34-/99405",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8C93-7464F_20161124172213",
+    "sku": "8C93-7464F_20161124172213",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  CITROEN PEUGEOT 1.6 HDI BOSCH 0 281 011 629, 0281011629, 96 564 944 80, 9656494480, 9653958980, EDC16C34 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "1.6 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 629",
+      "NUMBER PARTS": "96 564 944 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:48:48.211Z",
+    "model": "mistral:7b",
+    "durationMs": 11083,
+    "priceIncrement": 100
+  }
+}

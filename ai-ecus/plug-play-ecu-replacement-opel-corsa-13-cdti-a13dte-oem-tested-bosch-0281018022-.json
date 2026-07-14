@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Corsa 1.3 CDTI A13DTE - OEM Tested Bosch 0281018022, Warranty Included",
+  "slug": "plug-play-ecu-replacement-opel-corsa-13-cdti-a13dte-oem-tested-bosch-0281018022-",
+  "metaDescription": "Buy a tested and OEM certified Plug & Play ECU Engine Controller for Opel Corsa 1.3 CDTI A13DTE, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Replacement ECU for Opel Corsa 1.3 CDTI A13DTE - OEM Tested and Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Corsa",
+    "1.3 CDTI A13DTE",
+    "Bosch 0281018022"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Opel Corsa 1.3 CDTI A13DTE is OEM tested and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked and Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CHEVROLET HOLDEN VAUXHALL CORSA</td></tr>\n        <tr><th>ENGINE</th><td>1.3 CDTI A13DTE</td></tr>\n        <tr><th>YEAR</th><td>2011</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 018 022</td></tr>\n        <tr><th>CODE</th><td>00TT</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S46108</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU-wide with 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel Corsa 1.3 CDTI A13DTE only. Ensure proper programming and installation by a certified technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL CORSA 1.3 CDTI A13DTE 55581288, 55 581 288, 55577416 00TT, BOSCH 0281018022, 0 281 018 022, 1039S46108",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-CORSA-1.3-CDTI-A13DTE-55581288%2C-55-581-288%2C-55577416-00TT%2C-BOSCH-0281018022%2C-0-281-018-022%2C-1039S46108/23735",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F47A-748F1_20120529095917",
+    "sku": "F47A-748F1_20120529095917",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL CORSA 1.3 CDTI A13DTE 55581288, 55 581 288, 55577416 00TT, BOSCH 0281018022, 0 281 018 022, 1039S46108</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_12bde369f9f7336fa2f811984a78e919_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_04457dd3dde7513796f434ab009ba9a5_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL CORSA",
+      "ENGINE": "1.3 CDTI A13DTE",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 018 022",
+      "CODE": "00TT",
+      "NUMBER PARTS": "1039S46108",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:38:15.506Z",
+    "model": "mistral:7b",
+    "durationMs": 11082,
+    "priceIncrement": 100
+  }
+}

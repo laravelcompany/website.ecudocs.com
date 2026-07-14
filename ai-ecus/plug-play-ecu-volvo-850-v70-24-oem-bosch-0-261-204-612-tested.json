@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Volvo 850 V70 2.4, OEM Bosch 0 261 204 612, Tested & Warranty Included",
+  "slug": "plug-play-ecu-volvo-850-v70-24-oem-bosch-0-261-204-612-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Volvo 850 V70 2.4, OEM Bosch 0 261 204 612. Tested and covered by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Volvo 850 V70 2.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Volvo 850 V70",
+    "Bosch 0 261 204 612",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">The OEM Bosch ECU Engine Controller for Volvo 850 V70 2.4 offers Plug & Play functionality, ensuring a seamless installation process.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Volvo 850 V70 2.4</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>VOLVO 850 V70</td></tr>\n            <tr><td>ENGINE</td><td>2.4</td></tr>\n            <tr><td>YEAR</td><td>1998</td></tr>\n            <tr><td>NUMBER PARTS</td><td>JV.2</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific issues. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VOLVO 850 V70 2.4, BOSCH 0 261 204 612, 0261204612, P09155777, 1T26S5059, JV.2",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VOLVO-850-V70-2.4%2C-BOSCH-0-261-204-612%2C-0261204612%2C-P09155777%2C-1T26S5059%2C-JV.2-/55004",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D193-46618_20140502120007",
+    "sku": "D193-46618_20140502120007",
+    "availability": "Shortage",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  VOLVO 850 V70 2.4, BOSCH 0 261 204 612, 0261204612, P09155777, 1T26S5059, JV.2 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_592bb4d09228b73cf03a31b60e95f82a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4ce5e4d97594dd3290639b780c383f44_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VOLVO 850 V70",
+      "ENGINE": "2.4",
+      "YEAR": "1998",
+      "NUMBER PARTS": "JV.2",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:24:21.005Z",
+    "model": "mistral:7b",
+    "durationMs": 11483,
+    "priceIncrement": 100
+  }
+}

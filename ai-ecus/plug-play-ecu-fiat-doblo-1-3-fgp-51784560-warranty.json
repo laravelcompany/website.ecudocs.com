@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Doblo 1.3 OEM Tested - 6-month Warranty",
+  "slug": "plug-play-ecu-fiat-doblo-1-3-fgp-51784560-warranty",
+  "metaDescription": "Expertly tested ECU Engine Controller for Fiat Doblo 1.3, offering Plug & Play installation and backed by a 6-month warranty.",
+  "price": "€210.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Doblo 1.3 - 6-month Warranty",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Doblo",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your Fiat Doblo 1.3, ensuring seamless integration and improved engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM quality guarantee</li><li>6-month warranty</li><li>Thoroughly inspected and tested by a certified technician</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FIAT DOBLO</td><td>1.3</td><td>2006-2010</td><td>51784560 FGP</td><td>71600.086.02</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Doblo 1.3. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT DOBLO 1.3 51784560 FGP, 71600.086.02",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-DOBLO-1.3-51784560-FGP%2C-71600.086.02/36207",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "FGP",
+    "productCode": "607A-387F7_20130612105243",
+    "sku": "607A-387F7_20130612105243",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT DOBLO 1.3 51784560 FGP, 71600.086.02</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT DOBLO",
+      "ENGINE": "1.3",
+      "YEAR": "2006-2010",
+      "NUMBER MANUFACTURER": "51784560 FGP",
+      "NUMBER PARTS": "71600.086.02",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:33:56.969Z",
+    "model": "mistral:7b",
+    "durationMs": 8012,
+    "priceIncrement": 100
+  }
+}

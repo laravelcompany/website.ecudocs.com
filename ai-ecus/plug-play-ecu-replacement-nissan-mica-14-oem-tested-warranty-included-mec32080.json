@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for NISSAN MICRA 1.4 - OEM Tested, Warranty Included - MEC32080",
+  "slug": "plug-play-ecu-replacement-nissan-mica-14-oem-tested-warranty-included-mec32080",
+  "metaDescription": "Buy a tested Plug & Play ECU Engine Controller for NISSAN MICRA 1.4 (MEC32080) with 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan Micra 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Micra",
+    "MEC32080"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for NISSAN MICRA 1.4 (MEC32080) has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Plug & Play</li>\n        <li>Locked or Ready for Programming</li>\n        <li>Used, Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN MICRA</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>YEAR</th><td>2003</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MEC 32080</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and usage history.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN MICRA 1.4 MEC32080 XZ, MEC32-080 H3, MEC 32080",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-MICRA-1.4-MEC32080-XZ%2C-MEC32-080-H3%2C-MEC-32080/60652",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "BFF2-15591_20140718120132",
+    "sku": "BFF2-15591_20140718120132",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN MICRA 1.4 MEC32080 XZ, MEC32-080 H3, MEC 32080</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN MICRA",
+      "ENGINE": "1.4",
+      "YEAR": "2003",
+      "NUMBER PARTS": "MEC 32080",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:22:33.648Z",
+    "model": "mistral:7b",
+    "durationMs": 8726,
+    "priceIncrement": 100
+  }
+}

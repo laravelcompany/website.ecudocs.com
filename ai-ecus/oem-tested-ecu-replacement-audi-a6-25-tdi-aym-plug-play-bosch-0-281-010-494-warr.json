@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested ECU Replacement Audi A6 2.5 TDI AYM Plug & Play, Bosch 0 281 010 494, 6-month Warranty",
+  "slug": "oem-tested-ecu-replacement-audi-a6-25-tdi-aym-plug-play-bosch-0-281-010-494-warr",
+  "metaDescription": "Buy OEM Tested ECU Replacement for Audi A6 2.5 TDI AYM, Bosch 0 281 010 494, Plug & Play, 6-month Warranty. Fast dispatch and EU shipping.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested ECU Replacement for Audi A6 2.5 TDI AYM",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "2.5 TDI AYM",
+    "Bosch",
+    "0 281 010 494"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested ECU Replacement for Audi A6 2.5 TDI AYM is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A6</td></tr>\n        <tr><th>ENGINE</th><td>2.5 TDI AYM</td></tr>\n        <tr><th>YEAR</th><td>2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 494</td></tr>\n        <tr><th>NUMBER PARTS</th><td>4B1 907 401 D</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A6 2.5 TDI AYM. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 2.5 TDI AYM 4B1 907 401 D, 4B1907401D, BOSCH 0 281 010 494, 0281010494",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-2.5-TDI-AYM-4B1-907-401-D%2C-4B1907401D%2C-BOSCH-0-281-010-494%2C-0281010494-/12264",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "86E7-7175B",
+    "sku": "86E7-7175B",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 2.5 TDI AYM 4B1 907 401 D, 4B1907401D, BOSCH 0 281 010 494, 0281010494 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_b325ec6cb242829c7fa2dbfc443e4941_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_490b53c930529020e8e986d6556f0a0b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "2.5 TDI AYM",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 494",
+      "NUMBER PARTS": "4B1 907 401 D",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:32:45.816Z",
+    "model": "mistral:7b",
+    "durationMs": 10263,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Toyota Celica 1.8 1ZZ-FE - 6-month Warranty",
+  "slug": "plug-play-ecu-toyota-celica-1-8-1zz-fe-oem-tested-warranty",
+  "metaDescription": "Buy OEM tested, Plug & Play ECU replacement for Toyota Celica 1.8 1ZZ-FE with a 6-month warranty. Fast dispatch and EU shipping.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Toyota Celica 1.8 1ZZ-FE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Celica",
+    "1ZZ-FE",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Toyota Celica 1.8 1ZZ-FE ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Ready for programming</li><li>Used in good condition</li><li>6-month warranty</li></ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>TOYOTA CELICA</td></tr>\n<tr><td>ENGINE</td><td>1.8</td></tr>\n<tr><td>YEAR</td><td>1999</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>1752004151, 175200-4151</td></tr>\n<tr><td>NUMBER PARTS</td><td>1ZZ-FE</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Toyota Celica 1.8 1ZZ-FE. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA CELICA 1.8 1ZZ-FE 8966620050, 89666-20050, 1752004151, 175200-4151",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-CELICA-1.8-1ZZ-FE-8966620050%2C-89666-20050%2C-1752004151%2C-175200-4151/26227",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "7901-930CD_20120623135740",
+    "sku": "7901-930CD_20120623135740",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA CELICA 1.8 1ZZ-FE 8966620050, 89666-20050, 1752004151, 175200-4151</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA CELICA",
+      "ENGINE": "1.8",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "1752004151, 175200-4151",
+      "NUMBER PARTS": "1ZZ-FE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:20:03.701Z",
+    "model": "mistral:7b",
+    "durationMs": 10968,
+    "priceIncrement": 100
+  }
+}

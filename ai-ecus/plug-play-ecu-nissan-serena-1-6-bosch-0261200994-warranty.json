@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Nissan Serena 1.6 BOSCH 0261200994 - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-serena-1-6-bosch-0261200994-warranty",
+  "metaDescription": "Expertly tested and OEM replacement ECU Engine Controller for Nissan Serena 1.6 BOSCH 0261200994, backed by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Nissan Serena 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Serena",
+    "BOSCH",
+    "0261200994"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Nissan Serena 1.6 has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Expertly Inspected</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN SERENA</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 200 994</td></tr>\n        <tr><th>NUMBER PARTS</th><td>23710-1C780 18</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN SERENA 1.6 237101C780 23710-1C780 18 BOSCH 0261200994, 0 261 200 994",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-SERENA-1.6-237101C780-23710-1C780-18-BOSCH-0261200994%2C-0-261-200-994-/16942",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B851-513AF",
+    "sku": "B851-513AF",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN SERENA 1.6 237101C780 23710-1C780 18 BOSCH 0261200994, 0 261 200 994 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN SERENA",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 200 994",
+      "NUMBER PARTS": "23710-1C780 18",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:44:23.608Z",
+    "model": "mistral:7b",
+    "durationMs": 9899,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT Toledo Cordoba 1.6 BOSCH 0 261 203 192/193, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-seat-toledo-cordoba-16-bosch-0261203192193-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for your SEAT Toledo Cordoba 1.6, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Seat Toledo Cordoba 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT Toledo Cordoba",
+    "BOSCH 0 261 203 192/193"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for your SEAT Toledo Cordoba 1.6, ensuring seamless operation and compatibility.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Original Part in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>SEAT TOLEDO CORDOBA</td></tr>\n            <tr><td>ENGINE</td><td>1.6</td></tr>\n            <tr><td>YEAR</td><td>1995</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 203 192/193</td></tr>\n            <tr><td>NUMBER PARTS</td><td>8A0 907 311 J</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Seat Toledo Cordoba 1.6. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT TOLEDO CORDOBA, 1.6, BOSCH 0 261 203 192/193, 0261203192/193, 8A0 907 311 J, 8A0907311J",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-TOLEDO-CORDOBA%2C-1.6%2C-BOSCH-0-261-203-192193%2C-0261203192193%2C-8A0-907-311-J%2C-8A0907311J/46905",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5168-22459",
+    "sku": "5168-22459",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT TOLEDO CORDOBA, 1.6, BOSCH 0 261 203 192/193, 0261203192/193, 8A0 907 311 J, 8A0907311J</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_251c82a51cdd7a47f6d4b07a8938e742_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e60863a6e10415261c43323625d44cf7_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT TOLEDO CORDOBA",
+      "ENGINE": "1.6",
+      "YEAR": "1995",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 192/193",
+      "NUMBER PARTS": "8A0 907 311 J",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:14:41.069Z",
+    "model": "mistral:7b",
+    "durationMs": 10680,
+    "priceIncrement": 100
+  }
+}

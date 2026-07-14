@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot 406 2.0 HDI Siemens - 6-month Warranty",
+  "slug": "plug-play-ecu-peugeot-406-2-0-hdi-siemens-warranty",
+  "metaDescription": "Expertly tested and OEM certified ECU Engine Controller for Peugeot 406 2.0 HDI Siemens, offering Plug & Play installation and backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Peugeot 406 2.0 HDI Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 406",
+    "Siemens",
+    "2.0 HDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Peugeot 406 2.0 HDI Siemens offers a Plug & Play installation and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr>\n            <th>PARTS</th>\n            <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n            <th>BRAND AND MODEL</th>\n            <td>PEUGEOT 406</td>\n        </tr>\n        <tr>\n            <th>ENGINE</th>\n            <td>2.0 HDI</td>\n        </tr>\n        <tr>\n            <th>NUMBER MANUFACTURER</th>\n            <td>SIEMENS 5WS40024F-T, 5WS40024FT</td>\n        </tr>\n        <tr>\n            <th>NUMBER PARTS</th>\n            <td>HW 9644302380</td>\n        </tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 406 2.0 HDI SIEMENS 5WS40024F-T, 5WS40024FT, SW 9646801180, HW 9644302380",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-406-2.0-HDI-SIEMENS-5WS40024F-T%2C-5WS40024FT%2C-SW-9646801180%2C-HW-9644302380/12969",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "C541-147A0",
+    "sku": "C541-147A0",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 406 2.0 HDI SIEMENS 5WS40024F-T, 5WS40024FT, SW 9646801180, HW 9644302380</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 406",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40024F-T",
+      "NUMBER PARTS": "HW 9644302380",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:16:21.397Z",
+    "model": "mistral:7b",
+    "durationMs": 9859,
+    "priceIncrement": 100
+  }
+}

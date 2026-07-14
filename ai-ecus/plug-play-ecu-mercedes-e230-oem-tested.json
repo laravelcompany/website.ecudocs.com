@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement for Mercedes E230 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-e230-oem-tested",
+  "metaDescription": "Buy a tested Plug & Play ECU Engine Controller for Mercedes E230. OEM part number: 021 545 99 32, by VDO. 6-month warranty. Fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes E230",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes E230",
+    "VDO",
+    "OEM part number"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for your Mercedes E230, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Locked or Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES E230</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>021 545 99 32</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes E230. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES E230 021 545 99 32, 0215459932",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-E230-021-545-99-32%2C-0215459932-/44632",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "VDO",
+    "productCode": "97B8-40858",
+    "sku": "97B8-40858",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES E230 021 545 99 32, 0215459932 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES E230",
+      "NUMBER MANUFACTURER": "021 545 99 32",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:43:14.786Z",
+    "model": "mistral:7b",
+    "durationMs": 7746,
+    "priceIncrement": 100
+  }
+}

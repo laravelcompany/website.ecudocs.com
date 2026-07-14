@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Vectra B 2.0 TDI - OEM Tested, Warranty Included (Bosch 0 281 001 633)",
+  "slug": "plug-play-ecu-opel-vectra-b-20-tdi-oem-tested",
+  "metaDescription": "Expertly tested and OEM certified ECU replacement for Opel Vectra B 2.0 TDI, offering Plug & Play convenience and backed by a 6-month warranty.",
+  "price": "€30.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Vectra B 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra B",
+    "Bosch 0 281 001 633"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU replacement for Opel Vectra B 2.0 TDI offers Plug & Play convenience, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Compatibility</li>\n        <li>6-Month Warranty</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL VAUXHALL HOLDEN VECTRA B</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 TDI</td></tr>\n        <tr><th>YEAR:</th><td>1997-1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 001 633</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>90 508 986 LA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra B models from 1997 to 1999. Fitment caution may apply; verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA B 2.0 TDI, BOSCH 0 281 001 633, 0281001633, 90 508 986 LA, 90508986 LA",
+    "price": "€20.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-B-2.0-TDI%2C-BOSCH-0-281-001-633%2C-0281001633%2C-90-508-986-LA%2C-90508986-LA-/43874",
+    "priceCurrency": "EUR",
+    "netPrice": "€16.26",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7CB0-2294C",
+    "sku": "7CB0-2294C",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA B 2.0 TDI, BOSCH 0 281 001 633, 0281001633, 90 508 986 LA, 90508986 LA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VAUXHALL HOLDEN VECTRA B",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "1997-1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 633",
+      "NUMBER PARTS": "90 508 986 LA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:23:23.991Z",
+    "model": "mistral:7b",
+    "durationMs": 10303,
+    "priceIncrement": 100
+  }
+}

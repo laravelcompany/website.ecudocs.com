@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Renault Megane II Clio III 1.5DCI - OEM Tested, Warranty Included (Siemens S122326114 A, SID301)",
+  "slug": "plug-play-ecu-replacement-renault-megane-ii-clio-iii-1-5dci-oem-tested-warranty-",
+  "metaDescription": "OEM tested ECU replacement for Renault Megane II Clio III 1.5DCI, featuring Plug & Play functionality and a 6-month warranty. Fast dispatch within EU.",
+  "price": "€870.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Megane II Clio III 1.5DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane II Clio III",
+    "1.5DCI",
+    "Siemens S122326114 A",
+    "SID301"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Renault Megane II Clio III 1.5DCI is a reliable solution to your engine control unit issues, featuring Plug & Play functionality and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Compatible with Renault Megane II Clio III 1.5DCI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr>\n            <th>PARTS</th>\n            <th>BRAND AND MODEL</th>\n            <th>ENGINE</th>\n            <th>NUMBER MANUFACTURER</th>\n            <th>NUMBER PARTS</th>\n            <th>OPTION AVAILABLE</th>\n            <th>WARRANTY :</th>\n            <th>INSPECTION:</th>\n            <th>CONDITION</th>\n        </tr>\n        <tr>\n            <td>ECU ENGINE CONTROLLER</td>\n            <td>RENAULT MEGANE II CLIO III</td>\n            <td>1.5DCI</td>\n            <td>SIEMENS S122326114 A</td>\n            <td>SID301</td>\n            <td>Plug & Play / Locked / Ready for programming</td>\n            <td>6-month warranty</td>\n            <td>Device thoroughly inspected and tested by a certified technician</td>\n            <td>USED ORYGINAL IN GOOD CONDITION</td>\n        </tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU-wide. 12-month warranty included.</section>\n<section class=\"compatibility\">This product is intended for Renault Megane II Clio III 1.5DCI vehicles only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE II CLIO III 1.5DCI, SIEMENS S122326114 A, S122326114A, SID301, 8200843713, 8200807626",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-II-CLIO-III-1.5DCI%2C-SIEMENS-S122326114-A%2C-S122326114A%2C-SID301%2C-8200843713%2C-8200807626/94972",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "1C3A-367FF_20160826124421",
+    "sku": "1C3A-367FF_20160826124421",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE II CLIO III 1.5DCI, SIEMENS S122326114 A, S122326114A, SID301, 8200843713, 8200807626</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE II CLIO III",
+      "ENGINE": "1.5DCI",
+      "NUMBER MANUFACTURER": "SIEMENS S122326114 A",
+      "NUMBER PARTS": "SID301",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:53:08.694Z",
+    "model": "mistral:7b",
+    "durationMs": 12081,
+    "priceIncrement": 100
+  }
+}

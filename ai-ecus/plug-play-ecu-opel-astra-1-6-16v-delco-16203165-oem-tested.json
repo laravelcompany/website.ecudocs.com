@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement Opel Astra 1.6 16V Delco 16203165 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-opel-astra-1-6-16v-delco-16203165-oem-tested",
+  "metaDescription": "Get the Plug & Play ECU Engine Controller for Opel Astra 1.6 16V Delco 16203165, OEM tested and covered by a 6-month warranty.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "Delco 16203165"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Opel Astra 1.6 16V engine.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>OEM Tested</li><li>6-month warranty</li><li>Used in good condition</li><li>Thoroughly inspected and tested by a certified technician</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER PARTS</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>OPEL ASTRA</td><td>1.6 16V</td><td>1993-1997</td><td>16203165</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra 1.6 16V engine only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA DELCO 16203165",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-DELCO-16203165/60890",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "0590-726A1_20140723121838",
+    "sku": "0590-726A1_20140723121838",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA DELCO 16203165</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA",
+      "ENGINE": "1.6 16V",
+      "YEAR": "1993-1997",
+      "NUMBER PARTS": "16203165",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:07:25.311Z",
+    "model": "mistral:7b",
+    "durationMs": 8801,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes CLC CLK Bosch 0 281 014 661, A 646 150 97 77 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-mercedes-clc-clk-bosch-0281014661-a6461509777-oem-test",
+  "metaDescription": "OEM tested ECU replacement for Mercedes CLC CLK with Bosch 0 281 014 661, A 646 150 97 77. Plug & Play, warranty included.",
+  "price": "€350.00",
+  "excerpt": "OEM tested ECU replacement for Mercedes CLC CLK",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 014 661",
+    "A 646 150 97 77",
+    "Mercedes CLC CLK"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Mercedes CLC CLK with Bosch 0 281 014 661, A 646 150 97 77 is a reliable solution for your vehicle's engine control system.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Locked/Unlocked Available</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>MERCEDES CLC CLK</td></tr>\n<tr><th>YEAR</th><td>2007</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 014 661</td></tr>\n<tr><th>NUMBER PARTS</th><td>A 646 150 97 77</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES CLC CLK BOSCH 0 281 014 661, 0281014661, A 646 150 97 77, A6461509777, EDO117 CR3.44",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-CLC-CLK-BOSCH-0-281-014-661%2C-0281014661%2C-A-646-150-97-77%2C-A6461509777%2C-EDO117-CR3.44-/79747",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DBB2-57087_20150925105945",
+    "sku": "DBB2-57087_20150925105945",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  MERCEDES CLC CLK BOSCH 0 281 014 661, 0281014661, A 646 150 97 77, A6461509777, EDO117 CR3.44 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES CLC CLK",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 661",
+      "NUMBER PARTS": "A 646 150 97 77",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:06:17.813Z",
+    "model": "mistral:7b",
+    "durationMs": 10980,
+    "priceIncrement": 100
+  }
+}

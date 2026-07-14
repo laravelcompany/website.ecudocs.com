@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller KIA Shuma 1.6 Bosch 0 261 206 702, Warranty Included",
+  "slug": "plug-play-ecu-kia-shuma-1-6-bosch-oem-tested",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller KIA Shuma 1.6 Bosch 0 261 206 702, backed by a 6-month warranty. Fast EU shipping.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for KIA Shuma 1.6 Bosch",
+  "tags": [
+    "ECU replacement",
+    "Plug & Play ECU",
+    "KIA Shuma",
+    "Bosch",
+    "1.6 engine"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for KIA Shuma 1.6 Bosch is a reliable replacement part, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Fast EU Shipping</li></ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>KIA SHUMA</td></tr>\n<tr><th>ENGINE</th><td>1.6</td></tr>\n<tr><th>YEAR</th><td>2002</td></tr>\n<tr><th>NUMBER PARTS</th><td>K218881</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA SHUMA 1.6 BOSCH 0 261 206 702, 0261206702, 1268301775, K2 18 881, K218881",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-SHUMA-1.6-BOSCH-0-261-206-702%2C-0261206702%2C-1268301775%2C-K2-18-881%2C-K218881/58960",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D02A-691BE_20140618113408",
+    "sku": "D02A-691BE_20140618113408",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA SHUMA 1.6 BOSCH 0 261 206 702, 0261206702, 1268301775, K2 18 881, K218881</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA SHUMA",
+      "ENGINE": "1.6",
+      "YEAR": "2002",
+      "NUMBER PARTS": "K218881",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:27:02.609Z",
+    "model": "mistral:7b",
+    "durationMs": 9136,
+    "priceIncrement": 100
+  }
+}

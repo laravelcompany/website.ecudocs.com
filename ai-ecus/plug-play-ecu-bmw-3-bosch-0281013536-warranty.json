@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement BMW 3 Bosch 0 281 013 536 - 6-month Warranty",
+  "slug": "plug-play-ecu-bmw-3-bosch-0281013536-warranty",
+  "metaDescription": "Expertly tested ECU Engine Controller for BMW 3 by Bosch (0 281 013 536, DDE 7 807 827). Plug & Play replacement, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for BMW 3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 013 536",
+    "BMW 3",
+    "DDE 7 807 827"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for BMW 3 by Bosch (0 281 013 536, DDE 7 807 827) is a reliable solution to restore your vehicle's engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM-quality ECU controller</li>\n        <li>Plug & Play installation</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW 3</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 013 536</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DDE 7 807 827</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW 3 BOSCH 0 281 013 536, 0281013536, DDE 7 807 827, DDE7807827, 7807827",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-3-BOSCH-0-281-013-536%2C-0281013536%2C-DDE-7-807-827%2C-DDE7807827%2C-7807827-/84688",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2EB7-95788_20160119160352",
+    "sku": "2EB7-95788_20160119160352",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW 3 BOSCH 0 281 013 536, 0281013536, DDE 7 807 827, DDE7807827, 7807827 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW 3",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 536",
+      "NUMBER PARTS": "DDE 7 807 827",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:08:56.248Z",
+    "model": "mistral:7b",
+    "durationMs": 11284,
+    "priceIncrement": 100
+  }
+}

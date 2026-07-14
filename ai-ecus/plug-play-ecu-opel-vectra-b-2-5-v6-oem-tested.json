@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Vectra B 2.5 V6 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-vectra-b-2-5-v6-oem-tested",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for Opel Vectra B 2.5 V6, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Vectra B 2.5 V6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra B 2.5 V6",
+    "Bosch 0 261 206 277",
+    "OEM Tested"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Opel Vectra B 2.5 V6 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM Tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming if needed</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL VAUXHALL HOLDEN VECTRA B</td></tr>\n        <tr><th>ENGINE:</th><td>2.5 V6</td></tr>\n        <tr><th>YEAR:</th><td>2000-2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 206 277</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>09 153 243 EL</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra B 2.5 V6, but always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA B 2.5 V6, BOSCH 0 261 206 277, 0261206277, 09 153 243 EL, 09153243 EL",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-B-2.5-V6%2C-BOSCH-0-261-206-277%2C-0261206277%2C-09-153-243-EL%2C-09153243-EL-/44271",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E004-928EE",
+    "sku": "E004-928EE",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA B 2.5 V6, BOSCH 0 261 206 277, 0261206277, 09 153 243 EL, 09153243 EL </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VAUXHALL HOLDEN VECTRA B",
+      "ENGINE": "2.5 V6",
+      "YEAR": "2000-2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 277",
+      "NUMBER PARTS": "09 153 243 EL",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:23:34.743Z",
+    "model": "mistral:7b",
+    "durationMs": 9750,
+    "priceIncrement": 100
+  }
+}

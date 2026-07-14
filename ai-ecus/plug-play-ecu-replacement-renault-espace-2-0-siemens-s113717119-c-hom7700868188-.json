@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Renault Espace 2.0 - Siemens S113717119 C, HOM7700868188, 7700105153 - OEM Tested & Warranty",
+  "slug": "plug-play-ecu-replacement-renault-espace-2-0-siemens-s113717119-c-hom7700868188-",
+  "metaDescription": "OEM tested ECU Engine Controller for Renault Espace 2.0, Plug & Play, 6-month warranty, used in good condition.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Espace 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Espace 2.0",
+    "Siemens S113717119 C",
+    "HOM7700868188",
+    "7700105153"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a replacement for the Renault Espace 2.0, ensuring optimal engine performance and reliability.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month warranty</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">...(technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Espace 2.0 (1997-2000). Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT ESPACE 2.0 S113717119 C, HOM7700868188, 7700105153",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-ESPACE-2.0-S113717119-C%2C-HOM7700868188%2C-7700105153-/45143",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "6397-356A8",
+    "sku": "6397-356A8",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT ESPACE 2.0 S113717119 C, HOM7700868188, 7700105153 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT ESPACE",
+      "ENGINE": "2.0",
+      "YEAR": "1997-2000",
+      "NUMBER MANUFACTURER": "S113717119 C",
+      "NUMBER PARTS": "7700105153",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:17:29.241Z",
+    "model": "mistral:7b",
+    "durationMs": 7392,
+    "priceIncrement": 100
+  }
+}

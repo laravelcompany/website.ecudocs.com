@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Fiat Punto Stilo 1.8 Hitachi 46791884, MFI-401 - 6-month Warranty",
+  "slug": "plug-play-ecu-fiat-punto-stilo-1-8-hitachi-46791884-mfi-401-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Fiat Punto Stilo 1.8 Hitachi 46791884, MFI-401. Shipped within 24–48 hours with a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Fiat Punto Stilo 1.8 Hitachi",
+  "tags": [
+    "ECU replacement",
+    "Plug & Play ECU",
+    "Fiat Punto Stilo",
+    "Hitachi 46791884",
+    "MFI-401"
+  ],
+  "description": "<section class=\"overview\">This used ECU Engine Controller for Fiat Punto Stilo 1.8 Hitachi 46791884, MFI-401 has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT PUNTO STILO</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>HITACHI 46791884</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MFI-401</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO STILO 1.8 HITACHI 46791884, MFI-401",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-STILO-1.8-HITACHI-46791884%2C-MFI-401-/77710",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "8EBF-3351D_20150805144140",
+    "sku": "8EBF-3351D_20150805144140",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO STILO 1.8 HITACHI 46791884, MFI-401 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_7e3fd446cafae235c87070fb55d12904_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_aba923897a349df8eb4ce472e91f0807_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO STILO",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "HITACHI 46791884",
+      "NUMBER PARTS": "MFI-401",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:29:18.875Z",
+    "model": "mistral:7b",
+    "durationMs": 9137,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Vectra Signum 2.2 Z22SE - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-opel-vectra-signum-2-2-z22se-delphi-delco-12571664av-y",
+  "metaDescription": "OEM tested ECU replacement for Opel Vectra Signum 2.2 Z22SE, offering Plug & Play functionality and backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Vectra Signum 2.2 Z22SE",
+  "tags": [
+    "ECU repair",
+    "Opel Vectra Signum",
+    "Delphi Delco",
+    "2.2 Z22SE",
+    "12571664AV YCLS"
+  ],
+  "description": "<section class=\"overview\">This ECU replacement for Opel Vectra Signum 2.2 Z22SE has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Locked / Ready for Programming</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>CODE</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>INSPECTION:</th><th>WARRANTY :</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM</td><td>2.2 Z22SE</td><td>2002-2004</td><td>12 571 664 AV</td><td>YCLS</td><td>G02002 CP</td><td>Locked / Ready for programming</td><td>Device thoroughly inspected and tested by a certified technician</td><td>6-month warranty</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM 2.2 Z22SE 12571664AV YCLS, 12571664 AV, 12572011 CP, 12 572 011, 6235174, 62 35 174",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-VECTRA-SIGNUM-2.2-Z22SE-12571664AV-YCLS%2C-12571664-AV%2C-12572011-CP%2C-12-572-011%2C-6235174%2C-62-35-174-/9981",
+    "priceCurrency": "EUR",
+    "netPrice": "€225.00",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "9981",
+    "sku": "9981",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM 2.2 Z22SE 12571664AV YCLS, 12571664 AV, 12572011 CP, 12 572 011, 6235174, 62 35 174 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM",
+      "ENGINE": "2.2 Z22SE",
+      "YEAR": "2002-2004",
+      "NUMBER MANUFACTURER": "12 571 664 AV",
+      "CODE": "YCLS",
+      "NUMBER PARTS": "G02002 CP",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:47:23.571Z",
+    "model": "mistral:7b",
+    "durationMs": 10087,
+    "priceIncrement": 100
+  }
+}

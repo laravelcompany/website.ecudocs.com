@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - KIA CEED 1.6 CRDI Bosch 0281017218, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-kia-ceed-16-crdi-bosch-0281017218-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for KIA CEED 1.6 CRDI Bosch 0281017218, OEM tested and covered by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for KIA CEED 1.6 CRDI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281017218",
+    "KIA CEED"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for KIA CEED 1.6 CRDI Bosch 0281017218 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>KIA CEED</td></tr>\n<tr><td>ENGINE</td><td>1.6 CRDI</td></tr>\n<tr><td>YEAR</td><td>2011</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH  0 281 017 218</td></tr>\n<tr><td>NUMBER PARTS</td><td>39114-2A511</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with KIA CEED 1.6 CRDI. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA CEED 1.6 CRDI BOSCH 0281017218, 0 281 017 218, 391142A511, 39114-2A511",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-CEED-1.6-CRDI-BOSCH-0281017218%2C-0-281-017-218%2C-391142A511%2C-39114-2A511-/34518",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3E48-9965A_20121227145945",
+    "sku": "3E48-9965A_20121227145945",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA CEED 1.6 CRDI BOSCH 0281017218, 0 281 017 218, 391142A511, 39114-2A511 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA CEED",
+      "ENGINE": "1.6 CRDI",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "BOSCH  0 281 017 218",
+      "NUMBER PARTS": "39114-2A511",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:20:02.031Z",
+    "model": "mistral:7b",
+    "durationMs": 9780,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Citroen C3 1.1 Engine - Magneti Marelli IAW 48P2.72 (9648568480) - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-citroen-c3-11-magneti-marelli-iaw-48p272-9648568480-tested",
+  "metaDescription": "OEM tested ECU replacement for Citroen C3 1.1 engine by Magneti Marelli IAW 48P2.72 (9648568480). Plug & Play, 6-month warranty and fast dispatch.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU replacement for Citroen C3 1.1 engine by Magneti Marelli IAW 48P2.72 (9648568480).",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C3",
+    "Magneti Marelli",
+    "IAW 48P2.72"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Citroen C3 1.1 engine by Magneti Marelli IAW 48P2.72 (9648568480) ensures seamless integration and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN C3</td></tr>\n        <tr><th>ENGINE</th><td>1.1</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI IAW 48P2.72</td></tr>\n        <tr><th>NUMBER PARTS</th><td>9648568480</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C3 MAGNETI MARELLI IAW 48P2.72, IAW48P272, HW 16.623.004, 16623004, 9645989480, SW 16.497.064, 16497064, 9648568480",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C3-MAGNETI-MARELLI-IAW-48P2.72%2C-IAW48P272%2C-HW-16.623.004%2C-16623004%2C-9645989480%2C-SW-16.497.064%2C-16497064%2C-9648568480/61016",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "98DA-3503D_20140724094728",
+    "sku": "98DA-3503D_20140724094728",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C3 MAGNETI MARELLI IAW 48P2.72, IAW48P272, HW 16.623.004, 16623004, 9645989480, SW 16.497.064, 16497064, 9648568480</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_0fd48d2c1e6a4c6ed81cec49a47cf908_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_2635f13b9c57db1bcbd4b3fd8b4b0176_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C3",
+      "ENGINE": "1.1",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 48P2.72",
+      "NUMBER PARTS": "9648568480",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:35:03.444Z",
+    "model": "mistral:7b",
+    "durationMs": 12107,
+    "priceIncrement": 100
+  }
+}

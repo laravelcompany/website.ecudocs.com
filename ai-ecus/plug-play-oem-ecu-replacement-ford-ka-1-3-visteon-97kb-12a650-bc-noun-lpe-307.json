@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford KA 1.3 - Visteon 97KB-12A650-BC NOUN, LPE-307",
+  "slug": "plug-play-oem-ecu-replacement-ford-ka-1-3-visteon-97kb-12a650-bc-noun-lpe-307",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Ford KA 1.3 (Visteon 97KB-12A650-BC NOUN, LPE-307). Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€80.00",
+  "excerpt": "OEM tested ECU Engine Controller for Ford KA 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford KA",
+    "Visteon",
+    "97KB-12A650-BC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Ford KA 1.3. It comes with a 6-month warranty and Plug & Play functionality.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD KA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1997</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>LPE-307</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>NOUN</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>97KB-12A650-BC</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Ford KA 1.3 (97KB-12A650-BC). Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD KA 1.3 97KB-12A650-BC NOUN, 97KB12A650BC LPE-307",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-KA-1.3-97KB-12A650-BC-NOUN%2C-97KB12A650BC-LPE-307/28340",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "0CB8-42394_20120824195229",
+    "sku": "0CB8-42394_20120824195229",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD KA 1.3 97KB-12A650-BC NOUN, 97KB12A650BC LPE-307</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2ede0ec13ec1cbbae865b2bc75a76502_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7a2a4a9da1147103b8005b137ce76597_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD KA",
+      "ENGINE": "1.3",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "LPE-307",
+      "CODE": "NOUN",
+      "NUMBER PARTS": "97KB-12A650-BC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:25:08.023Z",
+    "model": "mistral:7b",
+    "durationMs": 14320,
+    "priceIncrement": 100
+  }
+}

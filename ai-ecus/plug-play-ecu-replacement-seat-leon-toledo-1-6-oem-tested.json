@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Seat Leon Toledo 1.6 16V (2002) Magneti Marelli 036906034DS, 6160066903, IAW4MVDS, IAW4MV.DS",
+  "slug": "plug-play-ecu-replacement-seat-leon-toledo-1-6-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for Seat Leon Toledo 1.6 16V (2002) by Magneti Marelli, featuring Plug & Play option and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU replacement for Seat Leon Toledo 1.6 16V (2002)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Magneti Marelli",
+    "Seat Leon Toledo",
+    "IAW4MVDS",
+    "IAW4MV.DS"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Seat Leon Toledo 1.6 16V (2002) by Magneti Marelli offers a Plug & Play option and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM tested</li><li>Plug & Play option</li><li>6-month warranty</li><li>Compatible with Seat Leon Toledo 1.6 16V (2002)</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>SEAT LEON TOLEDO</td></tr><tr><th>ENGINE</th><td>1.6 16V</td></tr><tr><th>YEAR</th><td>2002</td></tr><tr><th>NUMBER MANUFACTURER</th><td>IAW4MV.DS</td></tr><tr><th>NUMBER PARTS</th><td>BENZIN 4MV 001 4466</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Seat Leon Toledo 1.6 16V (2002). Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT LEON TOLEDO 1.6 036906034DS, 6160066903, IAW4MVDS, IAW4MV.DS",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-LEON-TOLEDO-1.6-036906034DS%2C-6160066903%2C-IAW4MVDS%2C-IAW4MV.DS-/12313",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "146C-922A7",
+    "sku": "146C-922A7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT LEON TOLEDO 1.6 036906034DS, 6160066903, IAW4MVDS, IAW4MV.DS </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT LEON TOLEDO",
+      "ENGINE": "1.6 16V",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "IAW4MV.DS",
+      "NUMBER PARTS": "BENZIN 4MV 001 4466",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:10:07.355Z",
+    "model": "mistral:7b",
+    "durationMs": 9676,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN MICRA 1.4 OEM Hitachi MEC32-040 XT, MEC32040, J3",
+  "slug": "plug-play-ecu-replacement-nissan-mica-14-oem-hitachi-mec32-040-xt-mec32040-j3",
+  "metaDescription": "OEM Tested ECU Replacement for NISSAN MICRA 1.4 with Plug & Play feature, backed by a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN MICRA 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hitachi MEC32-040 XT",
+    "NISSAN MICRA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the NISSAN MICRA 1.4 offers a Plug & Play feature, ensuring seamless installation and reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Value</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><td>BRAND AND MODEL</td><td>NISSAN MICRA</td></tr>\n    <tr><td>ENGINE</td><td>1.4</td></tr>\n    <tr><td>YEAR</td><td>2002-05</td></tr>\n    <tr><td>NUMBER MANUFACTURER</td><td>MEC32-040 XT</td></tr>\n    <tr><td>NUMBER PARTS</td><td>MEC32040</td></tr>\n    <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n    <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with NISSAN MICRA 1.4 models from 2002 to 2005. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN MICRA 1.4 MEC32-040 XT, MEC32040, MEC32-040 J3",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-MICRA-1.4-MEC32-040-XT%2C-MEC32040%2C-MEC32-040-J3/13134",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "BD2F-194E3",
+    "sku": "BD2F-194E3",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN MICRA 1.4 MEC32-040 XT, MEC32040, MEC32-040 J3</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN MICRA",
+      "ENGINE": "1.4",
+      "YEAR": "2002-05",
+      "NUMBER MANUFACTURER": "MEC32-040 XT",
+      "NUMBER PARTS": "MEC32040",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:22:12.657Z",
+    "model": "mistral:7b",
+    "durationMs": 11045,
+    "priceIncrement": 100
+  }
+}

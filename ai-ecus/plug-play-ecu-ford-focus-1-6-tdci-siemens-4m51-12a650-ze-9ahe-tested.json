@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Focus 1.6 TDCI Siemens 4M51-12A650-ZE, 9AHE - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-ford-focus-1-6-tdci-siemens-4m51-12a650-ze-9ahe-tested",
+  "metaDescription": "Get a certified Plug & Play ECU Replacement for your Ford Focus 1.6 TDCI with Siemens 4M51-12A650-ZE, 9AHE. OEM tested and backed by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Focus 1.6 TDCI Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Siemens",
+    "1.6 TDCI"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your Ford Focus 1.6 TDCI is tested and certified to ensure seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Parts</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>Brand and Model</td>\n                <td>FORD FOCUS</td>\n            </tr>\n            <tr>\n                <td>Engine</td>\n                <td>1.6 TDCI</td>\n            </tr>\n            <tr>\n                <td>Year</td>\n                <td>2004</td>\n            </tr>\n            <tr>\n                <td>Number Manufacturer</td>\n                <td>4M51-12A650-ZE</td>\n            </tr>\n            <tr>\n                <td>Number Parts</td>\n                <td>9AHE</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.6 TDCI 4M51-12A650-ZE, 4M5112A650ZE, 5WS40166H-T, 9AHE",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.6-TDCI-4M51-12A650-ZE%2C-4M5112A650ZE%2C-5WS40166H-T%2C-9AHE/42384",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "6BD1-16600",
+    "sku": "6BD1-16600",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.6 TDCI 4M51-12A650-ZE, 4M5112A650ZE, 5WS40166H-T, 9AHE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.6 TDCI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "4M51-12A650-ZE",
+      "NUMBER PARTS": "9AHE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:46:55.809Z",
+    "model": "mistral:7b",
+    "durationMs": 11156,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford - Bosch 0 281 030 888, DA6A-12A650-LA - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-bosch-0-281-030-888-da6a12a650la-warranty",
+  "metaDescription": "Expertly tested and OEM Plug & Play ECU replacement for Ford. 6-month warranty, fast dispatch within EU.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford",
+    "Bosch",
+    "DA6A-12A650-LA"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Ford is guaranteed to fit and function perfectly.</section>\n<section class=\"features\">\n    <ul>\n        <li>Original Bosch Part</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected & Tested</li>\n        <li>Plug & Play / Locked / Ready for programming</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 030 888</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DA6A-12A650-LA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford vehicles. Fitment caution may apply, please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD BOSCH 0 281 030 888, 0281030888, DA6A-12A650-LA, DA6A12A650LA",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-BOSCH-0-281-030-888%2C-0281030888%2C-DA6A-12A650-LA%2C-DA6A12A650LA/116967",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7E9D-43749_20191211152108",
+    "sku": "7E9D-43749_20191211152108",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD BOSCH 0 281 030 888, 0281030888, DA6A-12A650-LA, DA6A12A650LA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 030 888",
+      "NUMBER PARTS": "DA6A-12A650-LA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:01:08.290Z",
+    "model": "mistral:7b",
+    "durationMs": 8870,
+    "priceIncrement": 100
+  }
+}

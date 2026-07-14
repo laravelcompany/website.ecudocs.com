@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller - Ford Escort, 91AB-12A650-GB, 1AGB - Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-ford-escort-91ab-12a650-gb-1agb-warranty-included",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford Escort, 91AB-12A650-GB, 1AGB. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Escort",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Escort",
+    "Visteon",
+    "91AB-12A650-GB",
+    "1AGB"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a direct replacement for your Ford Escort, ensuring seamless integration and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD ESCORT,</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>91AB-12A650-GB</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1AGB</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with a 12-month warranty. Fast dispatch (EU).</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Escort models only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD ESCORT, 91AB-12A650-GB, 91AB12A650GB, 1AGB",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-ESCORT%2C-91AB-12A650-GB%2C-91AB12A650GB%2C-1AGB/49988",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "DE00-551F8",
+    "sku": "DE00-551F8",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD ESCORT, 91AB-12A650-GB, 91AB12A650GB, 1AGB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER",
+      "BRAND AND MODEL": "FORD ESCORT,",
+      "NUMBER MANUFACTURER": "91AB-12A650-GB",
+      "NUMBER PARTS": "1AGB",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:14:19.347Z",
+    "model": "mistral:7b",
+    "durationMs": 11949,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford Fiesta 1.6 Siemens S118934101 J, 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-fiesta-1-6-siemens-s118934101-j",
+  "metaDescription": "Expertly tested ECU replacement for Ford Fiesta 1.6 with Siemens S118934101 J. Plug & Play, OEM quality, 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Fiesta 1.6 Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Siemens S118934101 J"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Ford Fiesta 1.6 is a reliable solution, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>OEM quality</li><li>Plug & Play functionality</li><li>6-month warranty</li><li>Thoroughly inspected and tested by certified technicians</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FORD FIESTA</td><td>1.6</td><td>SIEMENS S118934101 J</td><td>9AYJ</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.6 SIEMENS S118934101 J, S118934101J, FoMoCo 4M51-12A650-HJ, 4M5112A650HJ, 9AYJ, SIM28",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.6-SIEMENS-S118934101-J%2C-S118934101J%2C-FoMoCo-4M51-12A650-HJ%2C-4M5112A650HJ%2C-9AYJ%2C-SIM28-/103398",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "4D2A-1136B_20170221172846",
+    "sku": "4D2A-1136B_20170221172846",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.6 SIEMENS S118934101 J, S118934101J, FoMoCo 4M51-12A650-HJ, 4M5112A650HJ, 9AYJ, SIM28 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "SIEMENS S118934101 J",
+      "NUMBER PARTS": "9AYJ",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:30:44.466Z",
+    "model": "mistral:7b",
+    "durationMs": 9205,
+    "priceIncrement": 100
+  }
+}

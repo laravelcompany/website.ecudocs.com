@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.3 (VISTEON 97FB-12A650-AKA, LPE-307) - Warranty Included",
+  "slug": "plug-play-ecu-ford-fiesta-1-3-visteon-97fb-12a650-aka-lpe-307-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford Fiesta 1.3 (VISTEON 97FB-12A650-AKA, LPE-307). Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€540.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.3",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "VISTEON 97FB-12A650-AKA",
+    "Ford Fiesta 1.3",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Ford Fiesta 1.3 (VISTEON 97FB-12A650-AKA, LPE-307) ensures seamless engine control and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>Plug & Play for easy installation</li>\n        <li>Used in good condition</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FIESTA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1992-2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>VISTEON 97FB-12A650-AKA</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>LPE-307</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">This product ships within 24–48 hours with a 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta models equipped with the specified engine and ECU. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA VISTEON 97FB-12A650-AKA, 97FB12A650AKA, JEER, LPE-307",
+    "price": "€40.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-VISTEON-97FB-12A650-AKA%2C-97FB12A650AKA%2C-JEER%2C-LPE-307/66261",
+    "priceCurrency": "EUR",
+    "netPrice": "€32.52",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "43BC-1556D_20140922100412",
+    "sku": "43BC-1556D_20140922100412",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA VISTEON 97FB-12A650-AKA, 97FB12A650AKA, JEER, LPE-307</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_754868e3793847af0b2ccebf2a46f53b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f33a6701ccb4a55b7a476f9d3c4fb456_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6d89bc7efd9d385c59308011b0ce5528_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9ea760cc0b8fcbf5741348ab8e148472_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.3",
+      "YEAR": "1992-2005",
+      "NUMBER MANUFACTURER": "VISTEON 97FB-12A650-AKA",
+      "NUMBER PARTS": "LPE-307",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:41:55.595Z",
+    "model": "mistral:7b",
+    "durationMs": 12317,
+    "priceIncrement": 100
+  }
+}

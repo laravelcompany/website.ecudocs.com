@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Porsche Cayenne 3.0 Bosch 0 281 018 310 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-porsche-cayenne-30-bosch-0281018310-tested",
+  "metaDescription": "Expertly tested and OEM ECU replacement for Porsche Cayenne 3.0 (Bosch 0 281 018 310). Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€1100.00",
+  "excerpt": "Expertly tested ECU replacement for Porsche Cayenne 3.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Porsche Cayenne 3.0",
+    "Bosch 0 281 018 310"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Porsche Cayenne 3.0 (Bosch 0 281 018 310) ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch</li>\n        <li>Expertly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>PORSCHE CAYENNE</td></tr>\n        <tr><th>ENGINE:</th><td>3.0</td></tr>\n        <tr><th>YEAR:</th><td>2011</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 018 310</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>4G0 907 401</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Porsche Cayenne 3.0 (Bosch 0 281 018 310). Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PORSCHE CAYENNE 3.0 BOSCH 0 281 018 310, 0281018310, 7P5 907 401 G, 7P5907401G, 4G0907401, EDC17CP44",
+    "price": "€1,000.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PORSCHE-CAYENNE-3.0-BOSCH-0-281-018-310%2C-0281018310%2C-7P5-907-401-G%2C-7P5907401G%2C-4G0907401%2C-EDC17CP44-/94669",
+    "priceCurrency": "EUR",
+    "netPrice": "€813.01",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9A16-56569_20160818155028",
+    "sku": "9A16-56569_20160818155028",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PORSCHE CAYENNE 3.0 BOSCH 0 281 018 310, 0281018310, 7P5 907 401 G, 7P5907401G, 4G0907401, EDC17CP44 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a44acd66ce7e555a6788358c7869b0fd_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4210edd806044e0f78db2f99acdd10ae_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PORSCHE CAYENNE",
+      "ENGINE": "3.0",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 018 310",
+      "NUMBER PARTS": "4G0 907 401",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:37:08.600Z",
+    "model": "mistral:7b",
+    "durationMs": 12003,
+    "priceIncrement": 100
+  }
+}

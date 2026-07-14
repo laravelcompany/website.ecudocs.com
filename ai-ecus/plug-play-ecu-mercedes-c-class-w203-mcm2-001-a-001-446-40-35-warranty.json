@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes C-Class W203 MCM2 001, A 001 446 40 35 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-c-class-w203-mcm2-001-a-001-446-40-35-warranty",
+  "metaDescription": "Buy a Plug & Play OEM Tested ECU Engine Controller for Mercedes C-Class W203, A 001 446 40 35, MCM2 001. Covered by a 6-month warranty and shipped within 24–48 hours.",
+  "price": "€1100.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Mercedes C-Class W203",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes C-Class W203",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This used original ECU Engine Controller for Mercedes C-Class W203 has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month warranty</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>A 001 446 40 35</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MCM2 001</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES, A 001 446 40 35, A0014464035, MCM2 001",
+    "price": "€1,000.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES%2C-A-001-446-40-35%2C-A0014464035%2C-MCM2-001/42109",
+    "priceCurrency": "EUR",
+    "netPrice": "€813.01",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "B2DC-78954",
+    "sku": "B2DC-78954",
+    "availability": "on request",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES, A 001 446 40 35, A0014464035, MCM2 001</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "NUMBER MANUFACTURER": "A 001 446 40 35",
+      "NUMBER PARTS": "MCM2 001",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:42:24.530Z",
+    "model": "mistral:7b",
+    "durationMs": 8493,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Tourneo Transit 1.8 TDCI OEM Tested - R0411C005L - Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-tourneo-transit-1-8-tdci-r0411c005l-warranty-incl",
+  "metaDescription": "OEM tested and Plug & Play ECU replacement for Ford Tourneo Transit 1.8 TDCI, backed by a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Tourneo Transit 1.8 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Tourneo Transit",
+    "1.8 TDCI",
+    "R0411C005L"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for the Ford Tourneo Transit 1.8 TDCI is tested and certified by a professional technician, ensuring seamless integration into your vehicle's electrical system.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch</li><li>Expertly Installed</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>FORD TOURNEO TRANSIT</td></tr>\n      <tr><th>ENGINE</th><td>1.8 TDCI</td></tr>\n      <tr><th>YEAR</th><td>2003</td></tr>\n      <tr><th>NUMBER PARTS</th><td>R0411C005L</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Tourneo Transit 1.8 TDCI, but always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD TOURNEO TRANSIT 1.8 TDCI 4T11-12A650-CE, 4T1112A650CE, R0411C005L",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-TOURNEO-TRANSIT-1.8-TDCI-4T11-12A650-CE%2C-4T1112A650CE%2C-R0411C005L-/54835",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "E037-6564F_20140429152047",
+    "sku": "E037-6564F_20140429152047",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  FORD TOURNEO TRANSIT 1.8 TDCI 4T11-12A650-CE, 4T1112A650CE, R0411C005L </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD TOURNEO TRANSIT",
+      "ENGINE": "1.8 TDCI",
+      "YEAR": "2003",
+      "NUMBER PARTS": "R0411C005L",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:01:32.763Z",
+    "model": "mistral:7b",
+    "durationMs": 9475,
+    "priceIncrement": 100
+  }
+}

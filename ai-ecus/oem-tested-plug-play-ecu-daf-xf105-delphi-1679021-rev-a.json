@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller - DAF XF105 Delphi 1679021 REV A (ECU Replacement)",
+  "slug": "oem-tested-plug-play-ecu-daf-xf105-delphi-1679021-rev-a",
+  "metaDescription": "Buy the OEM Tested Plug & Play ECU Engine Controller for DAF XF105 Delphi 1679021 REV A. This ECU Replacement is guaranteed with a 6-month warranty and ships within 24–48 hours.",
+  "price": "€800.00",
+  "excerpt": "OEM Tested Plug & Play ECU for DAF XF105 Delphi 1679021 REV A",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "DAF XF105",
+    "Delphi 1679021",
+    "ECU Replacement"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for DAF XF105 Delphi 1679021 REV A is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>DAF XF105</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>DELPHI 1679021</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. Fast dispatch across EU.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DAF XF105 DELPHI 1679021 REV A",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DAF-XF105-DELPHI-1679021-REV-A-/83852",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "0C46-7953B_20160105133640",
+    "sku": "0C46-7953B_20160105133640",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DAF XF105 DELPHI 1679021 REV A </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_fcb0aeea56dfadece4df2fe7f938665c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3360c611bd7253058bf64ed229f090d5_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DAF XF105",
+      "NUMBER MANUFACTURER": "DELPHI 1679021",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:59:37.335Z",
+    "model": "mistral:7b",
+    "durationMs": 9439,
+    "priceIncrement": 100
+  }
+}

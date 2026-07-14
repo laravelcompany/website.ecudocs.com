@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - JAGUAR S-TYPE 3.0 V6 XR8A12A650KBA/WQRS - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-jaguar-s-type-30-v6-xr8a12a650krawqrs-oem-tested-warranty-included",
+  "metaDescription": "Get a certified Plug & Play ECU replacement for your Jaguar S-TYPE 3.0 V6 with our OEM tested, warranty included part. Fast dispatch and EU 12-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Jaguar S-TYPE 3.0 V6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "JAGUAR S-TYPE",
+    "3.0 V6",
+    "XR8A12A650KBA",
+    "WQRS"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for your Jaguar S-TYPE 3.0 V6 is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Fast Dispatch</li>\n<li>EU 12-month Warranty</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Details</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>PARTS</td>\n<td>ECU ENGINE CONTROLLER</td>\n</tr>\n<tr>\n<td>BRAND AND MODEL</td>\n<td>JAGUAR S-TYPE</td>\n</tr>\n<tr>\n<td>ENGINE</td>\n<td>3.0 V6</td>\n</tr>\n<tr>\n<td>YEAR</td>\n<td>2000</td>\n</tr>\n<tr>\n<td>NUMBER MANUFACTURER</td>\n<td>XR8A-12A650-KBA</td>\n</tr>\n<tr>\n<td>NUMBER PARTS</td>\n<td>WQRS</td>\n</tr>\n<tr>\n<td>OPTION AVAILABLE</td>\n<td>Plug & Play / Locked / Ready for programming</td>\n</tr>\n<tr>\n<td>INSPECTION:</td>\n<td>Device thoroughly inspected and tested by a certified technician</td>\n</tr>\n<tr>\n<td>WARRANTY :</td>\n<td>6-month warranty</td>\n</tr>\n<tr>\n<td>CONDITION</td>\n<td>USED ORYGINAL IN GOOD CONDITION</td>\n</tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific issues. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JAGUAR S-TYPE 3.0 V6 XR8A-12A650-KBA, XR8A12A650KBA, WQRS",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JAGUAR-S-TYPE-3.0-V6-XR8A-12A650-KBA%2C-XR8A12A650KBA%2C-WQRS-/42722",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "9354-56008",
+    "sku": "9354-56008",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JAGUAR S-TYPE 3.0 V6 XR8A-12A650-KBA, XR8A12A650KBA, WQRS </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JAGUAR S-TYPE",
+      "ENGINE": "3.0 V6",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "XR8A-12A650-KBA",
+      "NUMBER PARTS": "WQRS",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:55:40.128Z",
+    "model": "mistral:7b",
+    "durationMs": 12630,
+    "priceIncrement": 100
+  }
+}

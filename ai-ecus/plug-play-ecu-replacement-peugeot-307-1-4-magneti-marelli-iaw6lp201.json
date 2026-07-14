@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Peugeot 307 1.4 Magneti Marelli IAW6LP201 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-307-1-4-magneti-marelli-iaw6lp201",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Peugeot 307 1.4 Magneti Marelli IAW6LP201, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€200.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 307 1.4 Magneti Marelli IAW6LP201",
+  "tags": [
+    "ECU repair",
+    "Peugeot 307",
+    "Magneti Marelli",
+    "IAW6LP201",
+    "Plug & Play ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller for Peugeot 307 1.4 Magneti Marelli IAW6LP201 ensures optimal vehicle performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM tested for guaranteed compatibility</li>\n<li>6-month warranty</li>\n<li>Thoroughly inspected and tested by a certified technician</li>\n<li>Used in good condition</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>PEUGEOT 307</td></tr>\n<tr><th>ENGINE</th><td>1.4</td></tr>\n<tr><th>YEAR</th><td>2004</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI IAW 6LP2.01, IAW6LP201, HW 16.631.044, 16631044, 9647498180, HW 16.710.064, 16710064, 9654722780</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot 307 1.4 Magneti Marelli IAW6LP201. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 307 1.4 MAGNETI MARELLI IAW 6LP2.01, IAW6LP201, HW 16.631.044, 16631044, 9647498180, HW 16.710.064, 16710064, 9654722780",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-307-1.4-MAGNETI-MARELLI-IAW-6LP2.01%2C-IAW6LP201%2C-HW-16.631.044%2C-16631044%2C-9647498180%2C-HW-16.710.064%2C-16710064%2C-9654722780/32447",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "2477-61263",
+    "sku": "2477-61263",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 307 1.4 MAGNETI MARELLI IAW 6LP2.01, IAW6LP201, HW 16.631.044, 16631044, 9647498180, HW 16.710.064, 16710064, 9654722780</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 307",
+      "ENGINE": "1.4",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 6LP2.01",
+      "NUMBER PARTS": "9654722780",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:02:27.181Z",
+    "model": "mistral:7b",
+    "durationMs": 12383,
+    "priceIncrement": 100
+  }
+}

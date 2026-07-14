@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Mazda 626 1.8 - F8K9, K8T36681, 1412 - 6-month Warranty",
+  "slug": "plug-play-ecu-mazda-626-18-f8k9-k8t36681-1412-warranty",
+  "metaDescription": "Get a certified Plug & Play ECU replacement for your Mazda 626 1.8 - F8K9, K8T36681, 1412. Tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mazda 626 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mazda 626",
+    "F8K9",
+    "K8T36681",
+    "1412"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Mazda 626 1.8 is a reliable solution for your engine control unit issues.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch (EU)</li>\n<li>12-month Warranty</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>MAZDA 626</td></tr>\n<tr><th>ENGINE</th><td>1.8</td></tr>\n<tr><th>YEAR</th><td>1988-1991</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>F8K9 18 701A</td></tr>\n<tr><th>NUMBER PARTS</th><td>1412</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch (EU). 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility before purchase. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA 626 1.8, F8K9 18 701A, F8K918701A, K8T36681, F8K9, 1412",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-626-1.8%2C-F8K9-18-701A%2C-F8K918701A%2C-K8T36681%2C-F8K9%2C-1412/37631",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Mitsubishi",
+    "productCode": "AC91-892C4_20130716141531",
+    "sku": "AC91-892C4_20130716141531",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA 626 1.8, F8K9 18 701A, F8K918701A, K8T36681, F8K9, 1412</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA 626",
+      "ENGINE": "1.8",
+      "YEAR": "1988-1991",
+      "NUMBER MANUFACTURER": "F8K9 18 701A",
+      "NUMBER PARTS": "1412",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:57:49.860Z",
+    "model": "mistral:7b",
+    "durationMs": 11137,
+    "priceIncrement": 100
+  }
+}

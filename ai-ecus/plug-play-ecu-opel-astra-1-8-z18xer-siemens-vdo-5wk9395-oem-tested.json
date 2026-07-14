@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Engine Controller Opel Astra 1.8 Z18XER Siemens VDO 5WK9395 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-opel-astra-1-8-z18xer-siemens-vdo-5wk9395-oem-tested",
+  "metaDescription": "Buy this Plug & Play ECU Engine Controller for Opel Astra 1.8 Z18XER, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Opel Astra 1.8 Z18XER",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "Siemens VDO 5WK9395"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Opel Astra 1.8 Z18XER is tested and guaranteed to provide seamless performance, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Expertly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>Parts</th><td>ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER</td></tr>\n        <tr><th>Brand and Model</th><td>OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA</td></tr>\n        <tr><th>Engine</th><td>1.8 Z18XER</td></tr>\n        <tr><th>Year</th><td>2006-2008</td></tr>\n        <tr><th>Number Manufacturer</th><td>SIEMENS VDO 5WK9 395</td></tr>\n        <tr><th>Code</th><td>XU</td></tr>\n        <tr><th>Number Parts</th><td>SW:0656101C</td></tr>\n        <tr><th>Option Available</th><td>Locked / Ready for programming</td></tr>\n        <tr><th>Warranty</th><td>6-month warranty</td></tr>\n        <tr><th>Inspection</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>Condition</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra and Zafira models equipped with the specified ECU and speedometer instrument cluster.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA 1.8 Z18XER 12992406 XU, 12 992 406, 55560130, 1232003, 12 32 003 SIEMENS VDO 5WK9395, 5WK9 395",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-ASTRA-ZAFIRA-1.8-Z18XER-12992406-XU%2C-12-992-406%2C-55560130%2C-1232003%2C-12-32-003-SIEMENS-VDO-5WK9395%2C-5WK9-395-/9943",
+    "priceCurrency": "EUR",
+    "netPrice": "€250.00",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "9943",
+    "sku": "9943",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA 1.8 Z18XER 12992406 XU, 12 992 406, 55560130, 1232003, 12 32 003 SIEMENS VDO 5WK9395, 5WK9 395 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL ASTRA ZAFIRA",
+      "ENGINE": "1.8 Z18XER",
+      "YEAR": "2006-2008",
+      "NUMBER MANUFACTURER": "SIEMENS VDO 5WK9 395",
+      "CODE": "XU",
+      "NUMBER PARTS": "SW:0656101C",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:36:20.204Z",
+    "model": "mistral:7b",
+    "durationMs": 11989,
+    "priceIncrement": 100
+  }
+}

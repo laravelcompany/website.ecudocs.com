@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi Q5 Bosch 0 281 031 015, Warranty Included",
+  "slug": "plug-play-ecu-audi-q5-bosch-0281031015-warranty",
+  "metaDescription": "Expertly tested and OEM Bosch ECU Engine Controller for Audi Q5 (2015). Plug & Play, 6-month warranty. Fast EU dispatch.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi Q5",
+  "tags": [
+    "ECU replacement",
+    "Plug & Play ECU",
+    "Audi Q5",
+    "Bosch",
+    "0 281 031 015"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Audi Q5 (2015) is a reliable replacement part, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI Q5</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2015</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 031 015</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>04L 907 309</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi Q5 (2015). Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI Q5 BOSCH 0 281 031 015, 0281031015, 04L 906 021 CF, 04L906021CF, 04L907309, EDC17C64",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-Q5-BOSCH-0-281-031-015%2C-0281031015%2C-04L-906-021-CF%2C-04L906021CF%2C-04L907309%2C-EDC17C64-/86885",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FEBF-955F9_20160224164427",
+    "sku": "FEBF-955F9_20160224164427",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI Q5 BOSCH 0 281 031 015, 0281031015, 04L 906 021 CF, 04L906021CF, 04L907309, EDC17C64 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_0d9a4c71ab2c3ef0a9a0206486447341_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_77521262a2e5368cd501777d73986bda_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI Q5",
+      "YEAR": "2015",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 031 015",
+      "NUMBER PARTS": "04L 907 309",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:49:25.650Z",
+    "model": "mistral:7b",
+    "durationMs": 10466,
+    "priceIncrement": 100
+  }
+}

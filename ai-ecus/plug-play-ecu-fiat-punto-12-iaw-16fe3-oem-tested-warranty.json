@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Fiat Punto 1.2, IAW 16F.E3, Warranty Included",
+  "slug": "plug-play-ecu-fiat-punto-12-iaw-16fe3-oem-tested-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Fiat Punto 1.2, IAW 16F.E3, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Punto 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Punto",
+    "IAW 16F.E3"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Punto 1.2, IAW 16F.E3, is a reliable replacement solution.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT PUNTO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.2</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1995-2000</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>46524186</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO 1.2, IAW 16F.E3, IAW166FE3, 61602.106.00 Z, 6160210600, 46524186",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-1.2%2C-IAW-16F.E3%2C-IAW166FE3%2C-61602.106.00-Z%2C-6160210600%2C-46524186/54665",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "DFB9-5459D_20140428102020",
+    "sku": "DFB9-5459D_20140428102020",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO 1.2, IAW 16F.E3, IAW166FE3, 61602.106.00 Z, 6160210600, 46524186</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO",
+      "ENGINE": "1.2",
+      "YEAR": "1995-2000",
+      "NUMBER PARTS": "46524186",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:21:37.459Z",
+    "model": "mistral:7b",
+    "durationMs": 12431,
+    "priceIncrement": 100
+  }
+}

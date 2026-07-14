@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Sierra 2.0 88BB12A650RB, 8BRB - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-ford-sierra-2-0-88bb12a650rb-8brb-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford Sierra 2.0 (88BB12A650RB, 8BRB). Shipped within 24–48 hours and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Sierra 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Sierra",
+    "Visteon",
+    "88BB12A650RB",
+    "8BRB"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Ford Sierra 2.0 is a reliable replacement, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition, thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD SIERRA</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>YEAR</th><td>1987-1993</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>88BB12A650RB</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8BRB</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Sierra 2.0 (88BB12A650RB, 8BRB).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD SIERRA 2.0 88BB-12A650-RB, 88BB12A650RB, 8BRB",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-SIERRA-2.0-88BB-12A650-RB%2C-88BB12A650RB%2C-8BRB/66026",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "534F-1240B_20140917124916",
+    "sku": "534F-1240B_20140917124916",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD SIERRA 2.0 88BB-12A650-RB, 88BB12A650RB, 8BRB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD SIERRA",
+      "ENGINE": "2.0",
+      "YEAR": "1987-1993",
+      "NUMBER MANUFACTURER": "88BB12A650RB",
+      "NUMBER PARTS": "8BRB",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:58:18.517Z",
+    "model": "mistral:7b",
+    "durationMs": 10878,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Audi Volkswagen 8K0906264C 5WA12012 01 SIMOS12.1 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-volkswagen-8k0906264c-5wa12012-01-simos12-1-oem-t",
+  "metaDescription": "Get a Plug & Play ECU replacement for your Audi Volkswagen. Our OEM tested ECU ENGINE CONTROLLER 8K0906264C 5WA12012 01 SIMOS12.1 comes with a 6-month warranty and fast shipping.",
+  "price": "€800.00",
+  "excerpt": "Plug & Play ECU replacement for Audi Volkswagen",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi",
+    "Volkswagen",
+    "8K0906264C",
+    "5WA12012"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for your Audi Volkswagen is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Condition: Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>AUDI VOLKSWAGEN</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>8K0906264C 5WA12012 01 SIMOS12.1</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI VOLKSWAGEN 8K0906264C 5WA12012 01 SIMOS12.1",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-VOLKSWAGEN-8K0906264C-5WA12012-01-SIMOS12.1/139744",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "2C2C-3382F_20240422153627",
+    "sku": "2C2C-3382F_20240422153627",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI VOLKSWAGEN 8K0906264C 5WA12012 01 SIMOS12.1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_293632_0_0/AUDI-VOLKSWAGEN-8K0906264C-5WA12012-01-SIMOS12.1.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_293633_0_0/AUDI-VOLKSWAGEN-8K0906264C-5WA12012-01-SIMOS12.1.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI VOLKSWAGEN",
+      "NUMBER MANUFACTURER": "8K0906264C 5WA12012 01 SIMOS12.1",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:57:53.962Z",
+    "model": "mistral:7b",
+    "durationMs": 10258,
+    "priceIncrement": 100
+  }
+}

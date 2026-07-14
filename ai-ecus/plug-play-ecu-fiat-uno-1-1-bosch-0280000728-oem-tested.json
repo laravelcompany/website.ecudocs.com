@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Uno 1.1 Bosch 0 280 000 728, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-uno-1-1-bosch-0280000728-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Fiat Uno 1.1 Bosch 0 280 000 728, tested and covered by a 6-month warranty. Fast EU shipping.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Uno 1.1 Bosch 0 280 000 728",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Uno",
+    "Bosch",
+    "0 280 000 728"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Uno 1.1 Bosch 0 280 000 728 ensures seamless vehicle operation and is covered by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Used Original in Good Condition</li>\n<li>6-month Warranty</li>\n<li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT UNO</td></tr>\n<tr><td>ENGINE</td><td>1.1</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 280 000 728</td></tr>\n<tr><td>NUMBER PARTS</td><td>1756000617</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with Fiat Uno 1.1 Bosch 0 280 000 728 only. Please ensure correct fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT UNO 1.1 BOSCH 0 280 000 728, 0280000728, 28SA1618, 1756000617",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-UNO-1.1-BOSCH-0-280-000-728%2C-0280000728%2C-28SA1618%2C-1756000617/40036",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "CE8E-2187C_20130817150846",
+    "sku": "CE8E-2187C_20130817150846",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT UNO 1.1 BOSCH 0 280 000 728, 0280000728, 28SA1618, 1756000617</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT UNO",
+      "ENGINE": "1.1",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 000 728",
+      "NUMBER PARTS": "1756000617",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:39:06.564Z",
+    "model": "mistral:7b",
+    "durationMs": 11454,
+    "priceIncrement": 100
+  }
+}

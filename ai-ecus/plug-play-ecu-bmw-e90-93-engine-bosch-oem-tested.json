@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement BMW E90-93 Engine - OEM Tested Bosch 0 281 016 110, DDE 8 506 438-01, 6-month Warranty",
+  "slug": "plug-play-ecu-bmw-e90-93-engine-bosch-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for BMW E90-93 engine, offering Plug & Play installation. Covered by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play BMW E90-93 ECU Replacement - OEM Tested",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 016 110",
+    "BMW E90-93 Engine",
+    "OEM tested"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for BMW E90-93 engine offers Plug & Play installation and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li></ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>BMW E90-93</td></tr>\n<tr><th>YEAR</th><td>2009-2010</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 016 110</td></tr>\n<tr><th>NUMBER PARTS</th><td>DDE 8 506 438-01</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E90-93 BOSCH 0 281 016 110, 0281016110, DDE 8 506 438-01, DDE850643801, 8506438",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E90-93-BOSCH-0-281-016-110%2C-0281016110%2C-DDE-8-506-438-01%2C-DDE850643801%2C-8506438/62142",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3D6B-1450C_20140804131304",
+    "sku": "3D6B-1450C_20140804131304",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E90-93 BOSCH 0 281 016 110, 0281016110, DDE 8 506 438-01, DDE850643801, 8506438</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_4444e7c76bc2584b174ded92ebce14d9_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_290976_0_0/BMW-E90-93-BOSCH-0-281-016-110%2C-0281016110%2C-DDE-8-506-438-01%2C-DDE850643801%2C-8506438.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E90-93",
+      "YEAR": "2009-2010",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 110",
+      "NUMBER PARTS": "DDE 8 506 438-01",
+      "OPTION AVAILABLE": "LOCKED / CLON",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:43:56.202Z",
+    "model": "mistral:7b",
+    "durationMs": 8513,
+    "priceIncrement": 100
+  }
+}

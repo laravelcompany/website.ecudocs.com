@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT IBIZA CORDOBA 1.4 BKY OEM Tested - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-seat-ibiza-cordoba-1-4-bky-oem-tested-warranty",
+  "metaDescription": "OEM tested ECU replacement for SEAT IBIZA CORDOBA 1.4 BKY, Plug & Play, 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Seat Ibiza Cordoba 1.4 BKY",
+  "tags": [
+    "ECU replacement",
+    "SEAT IBIZA CORDOBA",
+    "1.4 BKY",
+    "Magneti Marelli",
+    "Plug and Play"
+  ],
+  "description": "<section class=\"overview\">This ECU Engine Controller is a tested OEM part for the SEAT IBIZA CORDOBA 1.4 BKY, ensuring seamless integration and reliable performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL:</th><td>SEAT IBIZA CORDOBA</td></tr>\n<tr><th>ENGINE:</th><td>1.4 BKY</td></tr>\n<tr><th>YEAR:</th><td>2004</td></tr>\n<tr><th>NUMBER MANUFACTURER:</th><td>IAW4TV.HA</td></tr>\n<tr><th>NUMBER PARTS:</th><td>BENZIN 4TV 003 6290</td></tr>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA CORDOBA 1.4 BKY 036906034HA, 036 906 034 HA, 6160115005, 61601.150.05, IAW4TVHA, IAW4TV.HA",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-CORDOBA-1.4-BKY-036906034HA%2C-036-906-034-HA%2C-6160115005%2C-61601.150.05%2C-IAW4TVHA%2C-IAW4TV.HA/14439",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "17DD-77624",
+    "sku": "17DD-77624",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA CORDOBA 1.4 BKY 036906034HA, 036 906 034 HA, 6160115005, 61601.150.05, IAW4TVHA, IAW4TV.HA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA CORDOBA",
+      "ENGINE": "1.4 BKY",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "IAW4TV.HA",
+      "NUMBER PARTS": "BENZIN 4TV 003 6290",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:00:08.299Z",
+    "model": "mistral:7b",
+    "durationMs": 8826,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement SEAT Leon 1.6 TDI Continental 5WP42658 AA, Warranty Included",
+  "slug": "plug-play-ecu-seat-leon-1-6-tdi-continental-5wp42658-aa-warranty",
+  "metaDescription": "Buy this OEM tested Plug & Play ECU replacement for your SEAT Leon 1.6 TDI Continental 5WP42658 AA. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for SEAT Leon 1.6 TDI Continental 5WP42658 AA",
+  "tags": [
+    "ECU repair",
+    "Plug and Play ECU",
+    "SEAT Leon",
+    "Continental 5WP42658 AA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for your SEAT Leon 1.6 TDI Continental 5WP42658 AA is expertly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Fast Dispatch</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>SEAT LEON</td></tr>\n<tr><th>ENGINE</th><td>1.6 TDI</td></tr>\n<tr><th>YEAR</th><td>2010</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>CONTINENTAL 5WP42658 AA</td></tr>\n<tr><th>NUMBER PARTS</th><td>03L 906 023 G</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SEAT Leon 1.6 TDI Continental 5WP42658 AA, 03L 906 023 GG, 03L906023GG, 03L 906 023 G, 03L906023G.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT LEON 1.6 TDI CONTINENTAL 5WP42658 AA, 5WP42658AA, 03L 906 023 GG, 03L906023GG, 03L 906 023 G, 03L906023G",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-LEON-1.6-TDI-CONTINENTAL-5WP42658-AA%2C-5WP42658AA%2C-03L-906-023-GG%2C-03L906023GG%2C-03L-906-023-G%2C-03L906023G/71580",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "4B78-9711F_20150112172245",
+    "sku": "4B78-9711F_20150112172245",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT LEON 1.6 TDI CONTINENTAL 5WP42658 AA, 5WP42658AA, 03L 906 023 GG, 03L906023GG, 03L 906 023 G, 03L906023G</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT LEON",
+      "ENGINE": "1.6 TDI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "CONTINENTAL 5WP42658 AA",
+      "NUMBER PARTS": "03L 906 023 G",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:06:10.913Z",
+    "model": "mistral:7b",
+    "durationMs": 10909,
+    "priceIncrement": 100
+  }
+}

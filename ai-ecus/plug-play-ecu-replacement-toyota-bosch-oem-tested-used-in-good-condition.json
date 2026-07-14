@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Toyota - Bosch 0 261 208 702, 89661-0H022 - Used in Good Condition",
+  "slug": "plug-play-ecu-replacement-toyota-bosch-oem-tested-used-in-good-condition",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Toyota with Bosch 0 261 208 702, 89661-0H022. Used in good condition and covered by a 6-month warranty.",
+  "price": "€70.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Toyota",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota",
+    "Bosch",
+    "0 261 208 702",
+    "89661-0H022"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Toyota is a reliable solution to your engine control unit issues. It comes with a 6-month warranty and is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Used in Good Condition</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>TOYOTA</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 208 702</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>89661-0H022</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment may vary for different Toyota models. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA BOSCH 0 261 208 702, 0261208702, 89661-0H022, 896610H022",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-BOSCH-0-261-208-702%2C-0261208702%2C-89661-0H022%2C-896610H022-/92193",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C955-52432_20160527161139",
+    "sku": "C955-52432_20160527161139",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA BOSCH 0 261 208 702, 0261208702, 89661-0H022, 896610H022 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 208 702",
+      "NUMBER PARTS": "89661-0H022",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:17:15.569Z",
+    "model": "mistral:7b",
+    "durationMs": 10977,
+    "priceIncrement": 100
+  }
+}

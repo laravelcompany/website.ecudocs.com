@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Hyundai I30 1.6 CRDI - OEM Tested, Warranty Included (Bosch 0281017206)",
+  "slug": "plug-play-ecu-replacement-hyundai-i30-16-crdi-bosch-0281017206",
+  "metaDescription": "OEM tested ECU replacement for Hyundai I30 1.6 CRDI, Plug & Play, 6-month warranty, and fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Hyundai I30 1.6 CRDI",
+  "tags": [
+    "ECU repair",
+    "Hyundai I30",
+    "1.6 CRDI",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Hyundai I30 1.6 CRDI is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI I30 1.6 CRDI BOSCH 0281017206, 0 281 017 206, 391132A411, 39113-2A411, 1039S41590",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-I30-1.6-CRDI-BOSCH-0281017206%2C-0-281-017-206%2C-391132A411%2C-39113-2A411%2C-1039S41590/26900",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0190-83459_20120725192021",
+    "sku": "0190-83459_20120725192021",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI I30 1.6 CRDI BOSCH 0281017206, 0 281 017 206, 391132A411, 39113-2A411, 1039S41590</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI I30",
+      "ENGINE": "1.6 CRDI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 017 206",
+      "NUMBER PARTS": "1039S41590",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:43:26.198Z",
+    "model": "mistral:7b",
+    "durationMs": 6082,
+    "priceIncrement": 100
+  }
+}

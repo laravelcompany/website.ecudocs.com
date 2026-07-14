@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT 500 PUNTO PANDA 1.2 MAGNETI MARELLI IAW 5SF8.CP, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-500-punto-panda-12-magneti-marelli-iaw-5sf8cp-oem-tested-warr",
+  "metaDescription": "Buy OEM ECU ENGINE CONTROLLER FIAT 500 PUNTO PANDA 1.2 MAGNETI MARELLI IAW 5SF8.CP, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT 500 PUNTO PANDA 1.2 MAGNETI MARELLI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT 500 PUNTO PANDA",
+    "Magneti Marelli",
+    "IAW 5SF8.CP"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU ENGINE CONTROLLER for FIAT 500 PUNTO PANDA 1.2 has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT 500 PUNTO PANDA</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI IAW 5SF8.CP</td></tr>\n        <tr><th>NUMBER PARTS</th><td>51926691</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 500 PUNTO PANDA 1.2 MAGNETI MARELLI IAW 5SF8.CP, IAW5SF8CP, 51926691",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-500-PUNTO-PANDA-1.2-MAGNETI-MARELLI-IAW-5SF8.CP%2C-IAW5SF8CP%2C-51926691/111281",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "D06C-66222_20181002143119",
+    "sku": "D06C-66222_20181002143119",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 500 PUNTO PANDA 1.2 MAGNETI MARELLI IAW 5SF8.CP, IAW5SF8CP, 51926691</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2be2a49a1cb2daf3dfaf21cde7070c25_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c82dd4f7638754fbfbdcdf49340ddeb4_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT 500 PUNTO PANDA",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 5SF8.CP",
+      "NUMBER PARTS": "51926691",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:16:47.886Z",
+    "model": "mistral:7b",
+    "durationMs": 11504,
+    "priceIncrement": 100
+  }
+}

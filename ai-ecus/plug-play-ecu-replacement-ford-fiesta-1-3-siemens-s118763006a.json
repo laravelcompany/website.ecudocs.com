@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement Ford Fiesta 1.3 Siemens S118763006A - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-fiesta-1-3-siemens-s118763006a",
+  "metaDescription": "OEM tested ECU Replacement for Ford Fiesta 1.3 Siemens S118763006A, Plug & Play, backed by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "OEM tested ECU Replacement for Ford Fiesta 1.3 Siemens S118763006A",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Siemens S118763006A",
+    "1.3 Engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Replacement for Ford Fiesta 1.3 Siemens S118763006A offers reliable performance and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Reliable Performance</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FORD FIESTA</td><td>1.3</td><td>2011</td><td>SIEMENS S118763006 A</td><td>9ANA</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.3 SIEMENS S118763006 A, S118763006A, 4S61-12A650-KA, 4S6112A650KA, 9ANA, SIM21",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.3-SIEMENS-S118763006-A%2C-S118763006A%2C-4S61-12A650-KA%2C-4S6112A650KA%2C-9ANA%2C-SIM21-/84052",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "189C-773D1_20160108144615",
+    "sku": "189C-773D1_20160108144615",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.3 SIEMENS S118763006 A, S118763006A, 4S61-12A650-KA, 4S6112A650KA,  9ANA, SIM21 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_044e60af3eecd8dd735efbb1763f956b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9726224644f931272208004c5bdfc436_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.3",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "SIEMENS S118763006 A",
+      "NUMBER PARTS": "9ANA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:20:44.789Z",
+    "model": "mistral:7b",
+    "durationMs": 9524,
+    "priceIncrement": 100
+  }
+}

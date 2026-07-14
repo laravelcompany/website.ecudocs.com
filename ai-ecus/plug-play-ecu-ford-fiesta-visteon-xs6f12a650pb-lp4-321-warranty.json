@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Fiesta Visteon XS6F-12A650-PB, LP4-321 - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-fiesta-visteon-xs6f12a650pb-lp4-321-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford Fiesta Visteon XS6F-12A650-PB, LP4-321. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta Visteon XS6F-12A650-PB",
+    "LP4-321"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Ford Fiesta is a reliable solution to your engine control unit issues, ensuring seamless performance.</section>\n<section class=\"features\"><ul><li>OEM Tested and Certified</li><li>Plug & Play Installation</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li><li>Reliable Performance</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL:</th><td>FORD FIESTA VISTEON XS6F-12A650-PB</td></tr><tr><th>NUMBER PARTS:</th><td>LP4-321</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION:</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours with fast dispatch across EU. 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA VISTEON XS6F-12A650-PB, XS6F12A650PB, CHOP, LP4-321",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-VISTEON-XS6F-12A650-PB%2C-XS6F12A650PB%2C-CHOP%2C-LP4-321/66266",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "5DE2-21028_20140922101421",
+    "sku": "5DE2-21028_20140922101421",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA VISTEON XS6F-12A650-PB, XS6F12A650PB, CHOP, LP4-321</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_d276d7a5ed76f10f0f99613e77869f50_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a23f591f741f6d86f2d2720587385b6b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "NUMBER MANUFACTURER": "VISTEON XS6F-12A650-PB",
+      "NUMBER PARTS": "LP4-321",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:42:05.567Z",
+    "model": "mistral:7b",
+    "durationMs": 8971,
+    "priceIncrement": 100
+  }
+}

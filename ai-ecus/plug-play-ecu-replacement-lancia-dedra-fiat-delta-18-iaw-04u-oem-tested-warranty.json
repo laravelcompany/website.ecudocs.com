@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Lancia Dedra, Fiat Delta 1.8 IAW 04U - OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-replacement-lancia-dedra-fiat-delta-18-iaw-04u-oem-tested-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Lancia Dedra, Fiat Delta 1.8 IAW 04U. OEM tested and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Lancia Dedra, Fiat Delta 1.8 IAW 04U",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Dedra",
+    "Fiat Delta",
+    "IAW 04U"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller is a reliable replacement for your Lancia Dedra, Fiat Delta 1.8 IAW 04U.</section>\n<section class=\"features\">\n<ul>\n<li>Tested and certified by Magneti Marelli</li>\n<li>Compatible with speedometer instrument cluster</li>\n<li>Plug & Play for easy installation</li>\n<li>6-month warranty included</li>\n<li>Used in good condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>Parts</td><td>ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER</td></tr>\n<tr><td>Brand and Model</td><td>LANCIA DEDRA, FIAT DELTA</td></tr>\n<tr><td>Engine</td><td>1.8</td></tr>\n<tr><td>Year</td><td>1993</td></tr>\n<tr><td>Number Manufacturer</td><td>IAW 04U</td></tr>\n<tr><td>Transmission</td><td>6160020001</td></tr>\n<tr><td>Number Parts</td><td>7785015</td></tr>\n<tr><td>Option Available</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>Warranty</td><td>6-month warranty</td></tr>\n<tr><td>Inspection</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>Condition</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Lancia Dedra and Fiat Delta 1.8 IAW 04U. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA DEDRA, FIAT DELTA 1.8, IAW 04U, IAW04U, 6160020001, 7785015 - 9002, 9003, 9004",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-DEDRA%2C-FIAT-DELTA-1.8%2C-IAW-04U%2C-IAW04U%2C-6160020001%2C-7785015-9002%2C-9003%2C-9004/49881",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "118A-97992",
+    "sku": "118A-97992",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA DEDRA, FIAT DELTA 1.8, IAW 04U, IAW04U, 6160020001, 7785015 - 9002, 9003, 9004</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER",
+      "BRAND AND MODEL": "LANCIA DEDRA, FIAT DELTA",
+      "ENGINE": "1.8",
+      "YEAR": "1993",
+      "NUMBER MANUFACTURER": "IAW 04U",
+      "TRANSMISSION": "6160020001",
+      "NUMBER PARTS": "7785015",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:31:18.712Z",
+    "model": "mistral:7b",
+    "durationMs": 11994,
+    "priceIncrement": 100
+  }
+}

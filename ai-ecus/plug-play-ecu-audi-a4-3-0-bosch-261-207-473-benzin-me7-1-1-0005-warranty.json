@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A4 3.0 Bosch 261 207 473, Benzin ME7.1.1 0005 - 6-month Warranty",
+  "slug": "plug-play-ecu-audi-a4-3-0-bosch-261-207-473-benzin-me7-1-1-0005-warranty",
+  "metaDescription": "Buy this OEM tested Plug & Play ECU Engine Controller for Audi A4 3.0 with Bosch 0 261 207 473, Benzin ME7.1.1 0005. 6-month warranty. Fast dispatch in EU.",
+  "price": "€135.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A4 3.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Bosch",
+    "Benzin ME7.1.1"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is suitable for Audi A4 3.0 with Bosch 0 261 207 473 and Benzin ME7.1.1 0005.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch in EU</li>\n        <li>Locked / Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A4</td></tr>\n        <tr><th>ENGINE</th><td>3.0</td></tr>\n        <tr><th>YEAR</th><td>2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 207 473</td></tr>\n        <tr><th>NUMBER PARTS</th><td>BENZIN ME7.1.1 0005</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 6-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 3.0 8E0907551B, 8E0 907 551 B, BOSCH 0 261 207 473, BENZIN ME7.1.1 0005, 26SA3167",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-3.0-8E0907551B%2C-8E0-907-551-B%2C-BOSCH-0-261-207-473%2C-BENZIN-ME7.1.1-0005%2C-26SA3167-/16285",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2F91-47002",
+    "sku": "2F91-47002",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 3.0 8E0907551B, 8E0 907 551 B, BOSCH 0 261 207 473, BENZIN ME7.1.1 0005, 26SA3167 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "3.0",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 473",
+      "NUMBER PARTS": "BENZIN ME7.1.1 0005",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:12:59.407Z",
+    "model": "mistral:7b",
+    "durationMs": 9955,
+    "priceIncrement": 100
+  }
+}

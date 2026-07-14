@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford Sierra ATE 10.0903-0010.4, V85BB 2C013 AB - Warranty Included",
+  "slug": "plug-play-ecu-ford-sierra-ate-10090300104-v85bb2c013ab-warranty",
+  "metaDescription": "Buy the Plug & Play OEM Tested ECU Engine Controller for Ford Sierra ATE 10.0903-0010.4, V85BB 2C013 AB. Covered by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Sierra",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Sierra",
+    "ATE 10.0903-0010.4",
+    "V85BB 2C013 AB"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Engine Controller for Ford Sierra ATE 10.0903-0010.4, V85BB 2C013 AB is a reliable replacement part, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM Tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used but in good condition</li>\n        <li>Fast dispatch within 24–48 hours</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD SIERRA</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>ATE 10.0903-0010.4</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>V85BB 2C013 AB</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is designed for Ford Sierra models. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD SIERRA ATE 10.0903-0010.4, 10090300104, V85BB 2C013 AB, V85BB2C013AB",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-SIERRA-ATE-10.0903-0010.4%2C-10090300104%2C-V85BB-2C013-AB%2C-V85BB2C013AB/119395",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Ate",
+    "productCode": "D737-674FF",
+    "sku": "D737-674FF",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD SIERRA ATE 10.0903-0010.4, 10090300104, V85BB 2C013 AB, V85BB2C013AB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD SIERRA",
+      "NUMBER MANUFACTURER": "ATE 10.0903-0010.4",
+      "NUMBER PARTS": "V85BB 2C013 AB",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:59:05.438Z",
+    "model": "mistral:7b",
+    "durationMs": 12742,
+    "priceIncrement": 100
+  }
+}

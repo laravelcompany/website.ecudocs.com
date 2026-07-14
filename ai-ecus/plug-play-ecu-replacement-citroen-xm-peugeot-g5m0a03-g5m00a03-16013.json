@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for Citroen XM, Peugeot - OEM Tested, Warranty Included (G5.M0/0A03, G5M00A03, 16013, IAS)",
+  "slug": "plug-play-ecu-replacement-citroen-xm-peugeot-g5m0a03-g5m00a03-16013",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Citroen XM, Peugeot (G5.M0/0A03, G5M00A03, 16013, IAS). Plug & Play, 6-month warranty, and fast dispatch in Europe.",
+  "price": "€90.00",
+  "excerpt": "OEM tested ECU Engine Controller for Citroen XM, Peugeot - Plug & Play",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen XM",
+    "Peugeot",
+    "G5.M0/0A03",
+    "G5M00A03",
+    "16013"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Citroen XM, Peugeot (G5.M0/0A03, G5M00A03, 16013, IAS) is a reliable replacement solution that ensures optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN XM, PEUGEOT</td></tr>\n        <tr><th>NUMBER PARTS</th><td>IAS</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN XM, PEUGEOT, G5.M0/0A03, G5M00A03, 16013, IAS",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-XM%2C-PEUGEOT%2C-G5.M00A03%2C-G5M00A03%2C-16013%2C-IAS/51633",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "74B0-8159B_20140222114216",
+    "sku": "74B0-8159B_20140222114216",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN XM, PEUGEOT, G5.M0/0A03, G5M00A03, 16013, IAS</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a8b7da13d5a653c8d8acf179670ce0cf_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1ff29ad20deb8a5e7539d3d575624b3a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN XM, PEUGEOT",
+      "NUMBER PARTS": "IAS",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:42:21.351Z",
+    "model": "mistral:7b",
+    "durationMs": 11072,
+    "priceIncrement": 100
+  }
+}

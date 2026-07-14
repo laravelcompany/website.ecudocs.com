@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Ford Fiesta BV61 12A650 AA02, EMS2204 - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-fiesta-bv61-12a650-aa02-ems2204-warran",
+  "metaDescription": "Get a Plug & Play OEM Tested ECU Replacement for your Ford Fiesta BV61 12A650 AA02, EMS2204. Covered by a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Fiesta BV61 12A650 AA02, EMS2204",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "BV61 12A650 AA02",
+    "EMS2204"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for your Ford Fiesta BV61 12A650 AA02, EMS2204 is expertly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD</td></tr>\n<tr><td>YEAR</td><td>2009</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BV61 12A650 AA02</td></tr>\n<tr><td>NUMBER PARTS</td><td>EMS2204</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA BV61 12A650 AA02, BV6112A650AA02, B7033375, 5012542, EMS2204",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-BV61-12A650-AA02%2C-BV6112A650AA02%2C-B7033375%2C-5012542%2C-EMS2204/36221",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "E4E8-93226_20130612111008",
+    "sku": "E4E8-93226_20130612111008",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA BV61 12A650 AA02, BV6112A650AA02, B7033375, 5012542, EMS2204</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8ddd8c1a9ef009aeb1695079f6ea6032_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_da9ae46c6a00ada973afa5ba03f2bac7_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BV61 12A650 AA02",
+      "NUMBER PARTS": "EMS2204",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:34:48.383Z",
+    "model": "mistral:7b",
+    "durationMs": 11582,
+    "priceIncrement": 100
+  }
+}

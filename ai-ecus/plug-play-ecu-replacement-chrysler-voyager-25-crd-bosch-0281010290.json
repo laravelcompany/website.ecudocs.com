@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Chrysler Voyager 2.5 CRD Bosch 0 281 010 290, P04727661AD",
+  "slug": "plug-play-ecu-replacement-chrysler-voyager-25-crd-bosch-0281010290",
+  "metaDescription": "Buy a tested and OEM certified Plug & Play ECU replacement for your Chrysler Voyager 2.5 CRD. Backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play, OEM Tested ECU Replacement for Chrysler Voyager 2.5 CRD",
+  "tags": [
+    "ECU repair",
+    "Chrysler Voyager",
+    "2.5 CRD",
+    "Bosch",
+    "P04727661AD"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement is a direct fit for your Chrysler Voyager 2.5 CRD, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-Month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>CHRYSLER VOYAGER</td></tr>\n        <tr><th>ENGINE:</th><td>2.5 CRD</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 290</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>P04727661AD</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHRYSLER VOYAGER 2.5 CRD BOSCH 0 281 010 290, 0281010290, P04727661AD",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHRYSLER-VOYAGER-2.5-CRD-BOSCH-0-281-010-290%2C-0281010290%2C-P04727661AD-/77015",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "EAE4-672D6_20150721093043",
+    "sku": "EAE4-672D6_20150721093043",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHRYSLER VOYAGER 2.5 CRD BOSCH 0 281 010 290, 0281010290, P04727661AD </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHRYSLER VOYAGER",
+      "ENGINE": "2.5 CRD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 290",
+      "NUMBER PARTS": "P04727661AD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:10:25.210Z",
+    "model": "mistral:7b",
+    "durationMs": 9182,
+    "priceIncrement": 100
+  }
+}

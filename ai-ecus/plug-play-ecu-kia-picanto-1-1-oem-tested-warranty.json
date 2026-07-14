@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller KIA Picanto 1.1 - 6-month Warranty",
+  "slug": "plug-play-ecu-kia-picanto-1-1-oem-tested-warranty",
+  "metaDescription": "Expertly tested and OEM approved Plug & Play ECU Engine Controller for KIA Picanto 1.1, backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for KIA Picanto 1.1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA Picanto",
+    "1.1 Engine",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a direct replacement for your KIA Picanto 1.1, ensuring seamless integration and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Approved</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th></th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>KIA PICANTO</td></tr>\n            <tr><td>ENGINE</td><td>1.1</td></tr>\n            <tr><td>YEAR</td><td>2009</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>39110-02KB0</td></tr>\n            <tr><td>CODE</td><td>KB0</td></tr>\n            <tr><td>NUMBER PARTS</td><td>DSA-840SFS0-5000</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with KIA Picanto 1.1 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA PICANTO 1.1 3911002KB0, 39110-02KB0, 9001040010KC, GSA840SFS05000, DSA-840SFS0-5000",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-PICANTO-1.1-3911002KB0%2C-39110-02KB0%2C-9001040010KC%2C-GSA840SFS05000%2C-DSA-840SFS0-5000/31257",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Kefico",
+    "productCode": "208C-871B0_20121009123252",
+    "sku": "208C-871B0_20121009123252",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA PICANTO 1.1 3911002KB0, 39110-02KB0, 9001040010KC, GSA840SFS05000, DSA-840SFS0-5000</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA PICANTO",
+      "ENGINE": "1.1",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "39110-02KB0",
+      "CODE": "KB0",
+      "NUMBER PARTS": "DSA-840SFS0-5000",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:22:55.312Z",
+    "model": "mistral:7b",
+    "durationMs": 10061,
+    "priceIncrement": 100
+  }
+}

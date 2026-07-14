@@ -1,0 +1,56 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W168 A-KLASS 170 CDI Bosch 0281010039, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w168-a-klass-170-cdi-bosch-0281010039-tested",
+  "metaDescription": "Expertly tested and OEM replacement ECU for Mercedes W168 A-KLASS 170 CDI. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W168 A-KLASS 170 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W168 A-KLASS 170 CDI",
+    "Bosch 0281010039"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement is expertly tested and OEM certified for Mercedes W168 A-KLASS 170 CDI. It offers a seamless installation process with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Compatible with Mercedes W168 A-KLASS 170 CDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES W168 A-KLASS A170</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>170 CDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1999</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0281010039, 0 281 010 039</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>Q04 ED0019 CR1.2</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is specifically designed for Mercedes W168 A-KLASS 170 CDI and may not be compatible with other vehicle models or years.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W168 A-KLASS 170 CDI A0275459632, 0275459632, A 027 545 96 32, BOSCH 0281010039, 0 281 010 039, Q04 ED0019 CR1.2",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W168-A-KLASS-170-CDI-A0275459632%2C-0275459632%2C-A-027-545-96-32%2C-BOSCH-0281010039%2C-0-281-010-039%2C-Q04-ED0019-CR1.2/16909",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2C64-7677D",
+    "sku": "2C64-7677D",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W168 A-KLASS 170 CDI A0275459632, 0275459632, A 027 545 96 32, BOSCH 0281010039, 0 281 010 039, Q04 ED0019 CR1.2</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2c26da278ec660c20a4c072dedf46482_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_28f63c33fef341164721d584d4a5cc97_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_5123aa3a8eeeebb8cefd4e9df240ee3e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d367a8c50544c466e19cf78940fc9ebd_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b819944c8fb483e6afe4a3bcf1dac503_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W168 A-KLASS A170",
+      "ENGINE": "170 CDI",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0281010039, 0 281 010 039",
+      "NUMBER PARTS": "Q04 ED0019 CR1.2",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:05:19.631Z",
+    "model": "mistral:7b",
+    "durationMs": 12720,
+    "priceIncrement": 100
+  }
+}

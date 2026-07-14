@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Focus 1.6 16V - OEM Tested Siemens S118944001F, SIM29 - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-focus-16v-siemens-s118944001f-sim29-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Ford Focus 1.6 16V, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Focus 1.6 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Siemens S118944001F",
+    "SIM29"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Ford Focus 1.6 16V engine.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used, Original in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Ford Focus 1.6 16V. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.6 16V, SIEMENS S118944001 F, S118944001F, 5M51-12A650-HE, J38AC 8AZE, SIM29",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.6-16V%2C-SIEMENS-S118944001-F%2C-S118944001F%2C-5M51-12A650-HE%2C-J38AC-8AZE%2C-SIM29-/43983",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "FC17-100BD",
+    "sku": "FC17-100BD",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.6 16V, SIEMENS S118944001 F, S118944001F, 5M51-12A650-HE, J38AC 8AZE, SIM29 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.6 16V",
+      "NUMBER MANUFACTURER": "SIEMENS S118944001 F",
+      "NUMBER PARTS": "SIM29",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:44:14.864Z",
+    "model": "mistral:7b",
+    "durationMs": 6470,
+    "priceIncrement": 100
+  }
+}

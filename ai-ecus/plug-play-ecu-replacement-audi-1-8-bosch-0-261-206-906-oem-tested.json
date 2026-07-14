@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Audi 1.8 BOSCH 0 261 206 906, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-audi-1-8-bosch-0-261-206-906-oem-tested",
+  "metaDescription": "OEM tested, Plug & Play ECU Replacement for Audi 1.8 BOSCH 0 261 206 906. 6-month warranty and fast dispatch in EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi 1.8 BOSCH 0 261 206 906",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi 1.8",
+    "BOSCH 0 261 206 906"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Audi 1.8 BOSCH 0 261 206 906 ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch in EU</li>\n        <li>Used, Oryginal in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 206 906</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8D1 9060 18 B</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI 1.8 BOSCH 0 261 206 906, 0261206906, 8D1 9060 18 B, 8D1906018B",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-1.8-BOSCH-0-261-206-906%2C-0261206906%2C-8D1-9060-18-B%2C-8D1906018B/108094",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8231-7666E_20171228123427",
+    "sku": "8231-7666E_20171228123427",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI 1.8 BOSCH 0 261 206 906, 0261206906, 8D1 9060 18 B,  8D1906018B</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_bbfa7ee30cd1657f62c54a24bb9794e3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_794f7b0ff285d2bd63d8d7018bc1ecc3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_14800c2dbae32a473d91d010730449b8_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 906",
+      "NUMBER PARTS": "8D1 9060 18 B",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:33:49.796Z",
+    "model": "mistral:7b",
+    "durationMs": 9209,
+    "priceIncrement": 100
+  }
+}

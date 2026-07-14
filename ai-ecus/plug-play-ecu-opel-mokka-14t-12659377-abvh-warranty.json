@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Opel Mokka 1.4 T 12659377 ABVH with 6-month Warranty",
+  "slug": "plug-play-ecu-opel-mokka-14t-12659377-abvh-warranty",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Opel Mokka 1.4 T 12659377 ABVH, offering Plug & Play installation and backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM tested ECU Replacement for Opel Mokka 1.4 T",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Mokka",
+    "1.4 T",
+    "Delco"
+  ],
+  "description": "<section class=\"overview\">This Delco ECU Engine Controller is thoroughly inspected and tested by a certified technician, ensuring reliable performance for your Opel Mokka 1.4 T.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming (locked)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL MOKKA</td></tr>\n        <tr><th>ENGINE</th><td>1.4 T</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>12659377 ABVH</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Mokka 1.4 T only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL MOKKA 1.4 T 12659377 ABVH",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-MOKKA-1.4-T-12659377-ABVH/105253",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "0351-38135_20170526132113",
+    "sku": "0351-38135_20170526132113",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL MOKKA 1.4 T 12659377 ABVH</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL MOKKA",
+      "ENGINE": "1.4 T",
+      "NUMBER MANUFACTURER": "12659377 ABVH",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:10:41.008Z",
+    "model": "mistral:7b",
+    "durationMs": 8522,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Mercedes W202 C-KLASS C220, W210 E-KLASS E220 - A 019 545 94 32, R 04010012 D R04010012D, ED 0013 (80677E) - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w202-c-klass-c220-w210-e-klass-e220-a-019-545-94-32-r-040",
+  "metaDescription": "Expertly tested and OEM Plug & Play ECU replacement for Mercedes W202 C-KLASS C220, W210 E-KLASS E220. 6-month warranty. Fast dispatch within EU.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play OEM Tested ECU for Mercedes W202 C-KLASS C220, W210 E-KLASS E220",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W202",
+    "W210 E-KLASS",
+    "E220"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement is specifically designed for Mercedes W202 C-KLASS C220 and W210 E-KLASS E220. It comes with a 6-month warranty and is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W202 C-KLASS C220 W210 E-KLASS E220</td></tr>\n        <tr><th>YEAR</th><td>1996-98</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>R 04010012 D R04010012D, ED 0013 (80677E)</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A 019 545 94 32</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mercedes W202 C-KLASS C220 and W210 E-KLASS E220. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W202 C-KLASS C220 W210 E-KLASS E220 A0195459432, A 019 545 94 32, 0195459432, R 04010012 D R04010012D, ED 0013 (80677E)",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W202-C-KLASS-C220-W210-E-KLASS-E220-A0195459432%2C-A-019-545-94-32%2C-0195459432%2C-R-04010012-D-R04010012D%2C-ED-0013-80677E-/16919",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "343D-15040",
+    "sku": "343D-15040",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W202 C-KLASS C220 W210 E-KLASS E220 A0195459432, A 019 545 94 32, 0195459432, R 04010012 D R04010012D, ED 0013 (80677E) </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W202 C-KLASS C220 W210 E-KLASS E220",
+      "YEAR": "1996-98",
+      "NUMBER MANUFACTURER": "R 04010012 D R04010012D, ED 0013 (80677E)",
+      "NUMBER PARTS": "A 019 545 94 32",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:15:29.324Z",
+    "model": "mistral:7b",
+    "durationMs": 12825,
+    "priceIncrement": 100
+  }
+}

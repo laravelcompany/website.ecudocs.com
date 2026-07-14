@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement for Seat Ibiza 1.2 BBM - OEM Tested Siemens VDO 5WP40806 04, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-seat-ibiza-12-bbm-oem-tested-siemens-vdo-5wp40806-04-w",
+  "metaDescription": "OEM tested ECU replacement for Seat Ibiza 1.2 BBM with a 6-month warranty. Plug & Play, ready for immediate use.",
+  "price": "€87.00",
+  "excerpt": "Plug & Play ECU Replacement for Seat Ibiza 1.2 BBM",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Ibiza",
+    "1.2 BBM",
+    "Siemens VDO"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Seat Ibiza 1.2 BBM is a reliable solution, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Ready for programming</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SEAT IBIZA</td></tr>\n        <tr><th>ENGINE</th><td>1.2 BBM</td></tr>\n        <tr><th>YEAR</th><td>2008</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS VDO 5WP40806 04</td></tr>\n        <tr><th>NUMBER PARTS</th><td>BBM 5414</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Seat Ibiza 1.2 BBM. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA 1.2 BBM 03D906023, 03D 906 023, SIEMENS VDO 5WP40806 04",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-1.2-BBM-03D906023%2C-03D-906-023%2C-SIEMENS-VDO-5WP40806-04-/14169",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "BD58-8229D",
+    "sku": "BD58-8229D",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA 1.2 BBM 03D906023, 03D 906 023, SIEMENS VDO 5WP40806 04 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_3d409f3441f989c2c5cd88418dc1005a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d5c151c105424375d55254653a677677_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.2 BBM",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "SIEMENS VDO 5WP40806 04",
+      "NUMBER PARTS": "BBM 5414",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:52:08.593Z",
+    "model": "mistral:7b",
+    "durationMs": 9249,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Fiat Lancia 1.2-1.4 Magneti Marelli IAW 5SF9.A1, BC.0106760.C OEM Tested, Warranty",
+  "slug": "plug-play-ecu-fiat-lancia-12-14-magneti-marelli-iaw-5sf9a1-bc0106760c-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Fiat Lancia 1.2-1.4 with Magneti Marelli IAW 5SF9.A1, BC.0106760.C. Plug & Play replacement, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM tested ECU Engine Controller for Fiat Lancia",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Magneti Marelli IAW 5SF9.A1",
+    "Fiat Lancia",
+    "1.2-1.4"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Lancia 1.2-1.4 with Magneti Marelli IAW 5SF9.A1, BC.0106760.C is a Plug & Play replacement, ensuring seamless integration into your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for quality and reliability</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Locked/unlocked option available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>FIAT LANCIA</td></tr>\n            <tr><td>ENGINE</td><td>1.2-1.4</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>MAGNETI MARELLI IAW 5SF9.A1</td></tr>\n            <tr><td>NUMBER PARTS</td><td>BC.0106760.C</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on your vehicle's specific configuration. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT LANCIA 1.2-1.4 MAGNETI MARELLI IAW 5SF9.A1, IAW5SF9A1, 51903139, BC.0106760.C",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-LANCIA-1.2-1.4-MAGNETI-MARELLI-IAW-5SF9.A1%2C-IAW5SF9A1%2C-51903139%2C-BC.0106760.C-/80296",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "8D51-57960_20151009192621",
+    "sku": "8D51-57960_20151009192621",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT LANCIA 1.2-1.4 MAGNETI MARELLI IAW 5SF9.A1, IAW5SF9A1, 51903139, BC.0106760.C </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT LANCIA",
+      "ENGINE": "1.2-1.4",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 5SF9.A1",
+      "NUMBER PARTS": "BC.0106760.C",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:58:37.611Z",
+    "model": "mistral:7b",
+    "durationMs": 12736,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller NISSAN QASHQAI 1.5 DCI SIEMENS VDO S180033106 A, Warranty Included",
+  "slug": "plug-play-ecu-nissan-qashqai-1-5-dci-siemens-vdo-s180033106-a-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for NISSAN QASHQAI 1.5 DCI SIEMENS VDO S180033106 A, covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€275.00",
+  "excerpt": "OEM Tested Plug & Play ECU for NISSAN QASHQAI 1.5 DCI SIEMENS VDO S180033106 A",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Qashqai",
+    "Siemens VDO",
+    "1.5 DCI"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for NISSAN QASHQAI 1.5 DCI SIEMENS VDO S180033106 A is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Tested</li>\n      <li>Plug & Play</li>\n      <li>6-month Warranty</li>\n      <li>Fast Dispatch within EU</li>\n      <li>Used in Good Condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><td>BRAND AND MODEL</td><td>NISSAN QASHQAI</td></tr>\n        <tr><td>ENGINE</td><td>1.5 DCI</td></tr>\n        <tr><td>NUMBER MANUFACTURER</td><td>SIEMENS VDO S180033106 A</td></tr>\n        <tr><td>NUMBER PARTS</td><td>23710JD58C</td></tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN QASHQAI 1.5 DCI SIEMENS VDO S180033106 A, S180033106A, 23710JD58C, SID303",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-QASHQAI-1.5-DCI-SIEMENS-VDO-S180033106-A%2C-S180033106A%2C-23710JD58C%2C-SID303/103798",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "5494-19299_20170303130032",
+    "sku": "5494-19299_20170303130032",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN QASHQAI 1.5 DCI SIEMENS VDO S180033106 A, S180033106A, 23710JD58C, SID303</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN QASHQAI",
+      "ENGINE": "1.5 DCI",
+      "NUMBER MANUFACTURER": "SIEMENS VDO S180033106 A",
+      "NUMBER PARTS": "23710JD58C",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:40:01.280Z",
+    "model": "mistral:7b",
+    "durationMs": 10859,
+    "priceIncrement": 100
+  }
+}

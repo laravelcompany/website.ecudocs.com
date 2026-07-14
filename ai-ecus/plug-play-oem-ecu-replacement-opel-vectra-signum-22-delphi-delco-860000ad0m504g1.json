@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Opel Vectra, Signum 2.2 - Delphi Delco 860000AD0M504G1J, 860000AD0M50+4CF",
+  "slug": "plug-play-oem-ecu-replacement-opel-vectra-signum-22-delphi-delco-860000ad0m504g1",
+  "metaDescription": "Find the tested and certified Plug & Play ECU Engine Controller for Opel Vectra, Signum 2.2 (12572011) with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Opel Vectra, Signum 2.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delphi Delco",
+    "Opel Vectra",
+    "Signum 2.2"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Opel Vectra, Signum 2.2 (12572011).</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used, Original in Good Condition</li>\n<li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>OPEL VECTRA, SIGNUM</td></tr>\n<tr><td>ENGINE</td><td>2.2</td></tr>\n<tr><td>YEAR</td><td>2002-2004</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>12572011</td></tr>\n<tr><td>NUMBER PARTS</td><td>860000AD0M50+4CF</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please ensure correct fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA, SIGNUM 2.2, 12572011, 860000AD0M504G1J, 860000AD0M50+4CF",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA%2C-SIGNUM-2.2%2C-12572011%2C-860000AD0M504G1J%2C-860000AD0M50-4CF/40477",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "207A-490B5_20130825155248",
+    "sku": "207A-490B5_20130825155248",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA, SIGNUM 2.2, 12572011, 860000AD0M504G1J, 860000AD0M50+4CF</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8e3b2ca009c418cbe8c6b59440d90dfb_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3b62f93c39b7b4b8856b5b852a7ac03c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e654dd43d3d12d3f3cb27287bfea1b46_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VECTRA, SIGNUM",
+      "ENGINE": "2.2",
+      "YEAR": "2002-2004",
+      "NUMBER MANUFACTURER": "12572011",
+      "NUMBER PARTS": "860000AD0M50+4CF",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:29:23.267Z",
+    "model": "mistral:7b",
+    "durationMs": 10625,
+    "priceIncrement": 100
+  }
+}

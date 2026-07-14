@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Suzuki Grand Vitara 2.0 TDI Bosch 0281011675 ZY34027524 340275340 EDC15C2 46",
+  "slug": "plug-play-ecu-suzuki-grand-vitara-2-0-tdi-bosch-0281011675",
+  "metaDescription": "OEM Tested ECU Replacement for Suzuki Grand Vitara 2.0 TDI Bosch 0281011675, backed by a 6-month warranty and fast shipping.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested ECU Replacement for Suzuki Grand Vitara 2.0 TDI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Suzuki Grand Vitara",
+    "2.0 TDI",
+    "Bosch",
+    "0281011675"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Suzuki Grand Vitara 2.0 TDI is a reliable solution to your engine control unit issues.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>SUZUKI GRAND VITARA</td><td>2.0 TDI</td><td>2003</td><td>BOSCH 0281011675</td><td>EDC15C2 46</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on specific vehicle conditions and installation. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUZUKI GRAND VITARA 2.0 TDI BOSCH 0281011675 ZY34027524 340275340 EDC15C2 46",
+    "price": "€275.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUZUKI-GRAND-VITARA-2.0-TDI-BOSCH-0281011675-ZY34027524-340275340-EDC15C2-46/16652",
+    "priceCurrency": "EUR",
+    "netPrice": "€223.58",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E332-977BF",
+    "sku": "E332-977BF",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUZUKI GRAND VITARA 2.0 TDI BOSCH 0281011675 ZY34027524 340275340 EDC15C2 46</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUZUKI GRAND VITARA",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0281011675",
+      "NUMBER PARTS": "EDC15C2 46",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:58:59.273Z",
+    "model": "mistral:7b",
+    "durationMs": 9756,
+    "priceIncrement": 100
+  }
+}

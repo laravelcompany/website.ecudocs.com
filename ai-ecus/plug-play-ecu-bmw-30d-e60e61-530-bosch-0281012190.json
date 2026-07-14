@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E60/E61 530 3.0 Diesel Bosch 0281012190, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-30d-e60e61-530-bosch-0281012190",
+  "metaDescription": "OEM tested ECU Engine Controller for BMW E60/E61 530 3.0 Diesel, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E60/E61 530 3.0 Diesel",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281012190",
+    "BMW E60/E61 530",
+    "3.0 Diesel"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for BMW E60/E61 530 3.0 Diesel. It ensures optimal engine performance and reliability.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Fast Dispatch</li>\n<li>Compatible with BMW E60/E61 530 3.0 Diesel</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Details</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>PARTS</td>\n<td>ECU ENGINE CONTROLLER</td>\n</tr>\n<tr>\n<td>BRAND AND MODEL</td>\n<td>BMW SERII 5 E60/E61 530</td>\n</tr>\n<tr>\n<td>ENGINE</td>\n<td>3.0 DIESEL</td>\n</tr>\n<tr>\n<td>YEAR</td>\n<td>2008</td>\n</tr>\n<tr>\n<td>NUMBER MANUFACTURER</td>\n<td>BOSCH 0 281 012 190</td>\n</tr>\n<tr>\n<td>NUMBER PARTS</td>\n<td>1039S24009</td>\n</tr>\n<tr>\n<td>OPTION AVAILABLE</td>\n<td>Locked / Ready for programming</td>\n</tr>\n<tr>\n<td>WARRANTY :</td>\n<td>6-month warranty</td>\n</tr>\n<tr>\n<td>INSPECTION:</td>\n<td>Device thoroughly inspected and tested by a certified technician</td>\n</tr>\n<tr>\n<td>CONDITION</td>\n<td>USED IN GOOD CONDITION</td>\n</tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is specifically designed for BMW E60/E61 530 3.0 Diesel and may not be compatible with other vehicle models or engines.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E60/E61 530 3.0 DIESEL BOSCH 0281012190, 0 281 012 190, DDE 7811898, DDE7811898, 7 811 898, 1039S24009",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E60E61-530-3.0-DIESEL-BOSCH-0281012190%2C-0-281-012-190%2C-DDE-7811898%2C-DDE7811898%2C-7-811-898%2C-1039S24009/24854",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6E75-526E6_20120603155312",
+    "sku": "6E75-526E6_20120603155312",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E60/E61 530 3.0 DIESEL BOSCH 0281012190, 0 281 012 190, DDE 7811898, DDE7811898, 7 811 898, 1039S24009</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW SERII 5 E60/E61 530",
+      "ENGINE": "3.0 DIESEL",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 190",
+      "NUMBER PARTS": "1039S24009",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:37:44.098Z",
+    "model": "mistral:7b",
+    "durationMs": 13550,
+    "priceIncrement": 100
+  }
+}

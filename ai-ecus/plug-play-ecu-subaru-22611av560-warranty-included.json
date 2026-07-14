@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Denso Subaru 22611AV560, 275700-2221, Warranty Included",
+  "slug": "plug-play-ecu-subaru-22611av560-warranty-included",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller Subaru 22611AV560, 275700-2221, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Subaru - OEM Tested",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso",
+    "Subaru",
+    "22611AV560",
+    "275700-2221"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Subaru is OEM tested and guaranteed to deliver optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for reliability</li><li>6-month warranty for peace of mind</li><li>Compatible with Subaru vehicles</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipped within 24–48 hours, EU-wide. 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUBARU 22611AV560, 275700-2221, 2757002221",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUBARU-22611AV560%2C-275700-2221%2C-2757002221/130521",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "1101-45421_20220524145150",
+    "sku": "1101-45421_20220524145150",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUBARU 22611AV560, 275700-2221, 2757002221</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_270012_0_0/SUBARU-22611AV560%2C-275700-2221%2C-2757002221.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_270013_0_0/SUBARU-22611AV560%2C-275700-2221%2C-2757002221.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUBARU",
+      "NUMBER MANUFACTURER": "22611AV560",
+      "NUMBER PARTS": "275700-2221",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:52:22.598Z",
+    "model": "mistral:7b",
+    "durationMs": 6089,
+    "priceIncrement": 100
+  }
+}

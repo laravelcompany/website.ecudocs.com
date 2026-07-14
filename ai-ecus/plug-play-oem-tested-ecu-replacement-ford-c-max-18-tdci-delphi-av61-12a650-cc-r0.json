@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford C-MAX 1.8 TDCI - Delphi AV61-12A650-CC, R0414C011A - Warranty Included",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-c-max-18-tdci-delphi-av61-12a650-cc-r0",
+  "metaDescription": "Buy this Plug & Play OEM tested ECU replacement for Ford C-MAX 1.8 TDCI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford C-MAX 1.8 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford C-MAX",
+    "1.8 TDCI",
+    "Delphi",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Ford C-MAX 1.8 TDCI is a reliable solution to restore your vehicle's engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified by Delphi</li>\n        <li>6-month warranty included</li>\n        <li>Compatible with Ford C-MAX 1.8 TDCI</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD C-MAX</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8 TDCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2009</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>AV61-12A650-CC</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>R0414C011A</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford C-MAX 1.8 TDCI but fitment caution is advised. Consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD C-MAX 1.8 TDCI AV61-12A650-CC, AV6112A650CC, 12A650CC, R0414C011A",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-C-MAX-1.8-TDCI-AV61-12A650-CC%2C-AV6112A650CC%2C-12A650CC%2C-R0414C011A/36694",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "E9CA-659C3_20130703115655",
+    "sku": "E9CA-659C3_20130703115655",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD C-MAX 1.8 TDCI AV61-12A650-CC, AV6112A650CC, 12A650CC, R0414C011A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD C-MAX",
+      "ENGINE": "1.8 TDCI",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "AV61-12A650-CC",
+      "NUMBER PARTS": "R0414C011A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:04:07.426Z",
+    "model": "mistral:7b",
+    "durationMs": 14047,
+    "priceIncrement": 100
+  }
+}

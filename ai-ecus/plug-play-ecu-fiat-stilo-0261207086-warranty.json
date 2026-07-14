@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Fiat Stilo Engine Controller (0261207086 00468183880 A152 N) - Warranty Included",
+  "slug": "plug-play-ecu-fiat-stilo-0261207086-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat Stilo (0261207086  00468183880 A152 N) - OEM tested, 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Stilo",
+  "tags": [
+    "ECU repair",
+    "Fiat Stilo",
+    "OEM part numbers",
+    "Engine Controller"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Stilo (0261207086  00468183880 A152 N) is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>Comes as a Full Set</li>\n        <li>Thoroughly inspected and tested by certified technicians</li>\n        <li>6-month warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT STILO</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>00468183880  A152 N</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>FULL SET</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Stilo only. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT STILO 0261207086 00468183880 A152 N FULL SET",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-STILO-0261207086-00468183880-A152-N-FULL-SET/142802",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "B961-8771E_20250324161412",
+    "sku": "B961-8771E_20250324161412",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT STILO 0261207086  00468183880 A152 N FULL SET</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_301008_0_0/o-8e4af65aabb51859f03ffedb17aa0a19-fiat_stilo_engine_control_unit_module_ecu.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_301009_0_0/o-5b76cfa84b9bb3af8a71fbbc96eeef0f-fiat_stilo_engine_control_unit_module_ecu.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT STILO",
+      "NUMBER PARTS": "00468183880  A152 N",
+      "OPTION AVAILABLE": "FULL SET",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:32:28.921Z",
+    "model": "mistral:7b",
+    "durationMs": 11891,
+    "priceIncrement": 100
+  }
+}

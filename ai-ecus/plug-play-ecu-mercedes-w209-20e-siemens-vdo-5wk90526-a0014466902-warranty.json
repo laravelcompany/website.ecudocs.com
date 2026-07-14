@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes W209 2.0 E Siemens VDO 5WK90526 (1), A 001 446 69 02, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-w209-20e-siemens-vdo-5wk90526-a0014466902-warranty",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Mercedes W209 2.0 E, Siemens VDO 5WK90526 (1), A 001 446 69 02. Includes 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Mercedes W209 2.0 E, Siemens VDO 5WK90526 (1)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W209",
+    "Siemens VDO 5WK90526",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Mercedes W209 2.0 E, Siemens VDO 5WK90526 (1), A 001 446 69 02, is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES W209</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 E</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS VDO 5WK90526 (1)</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>A 001 446 69 02</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mercedes W209 2.0 E. Fitment caution may apply. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W209 SIEMENS VDO 5WK90526 (1), A 271 153 85 79, A2711538579, A 001 446 69 02, A0014466902",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W209-SIEMENS-VDO-5WK90526-1%2C-A-271-153-85-79%2C-A2711538579%2C-A-001-446-69-02%2C-A0014466902/32162",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "1137-5646F",
+    "sku": "1137-5646F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W209 SIEMENS VDO 5WK90526 (1), A 271 153 85 79, A2711538579, A 001 446 69 02, A0014466902</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W209",
+      "ENGINE": "2.0 E",
+      "NUMBER MANUFACTURER": "SIEMENS VDO 5WK90526 (1)",
+      "NUMBER PARTS": "A 001 446 69 02",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:26:38.404Z",
+    "model": "mistral:7b",
+    "durationMs": 13130,
+    "priceIncrement": 100
+  }
+}

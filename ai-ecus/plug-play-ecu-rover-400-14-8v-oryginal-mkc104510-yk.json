@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - ROVER 400 1.4 8V Oryginal MKC104510-YK",
+  "slug": "plug-play-ecu-rover-400-14-8v-oryginal-mkc104510-yk",
+  "metaDescription": "OEM tested ECU Engine Controller for ROVER 400 1.4 8V, MKC104510-YK. Plug & Play, 6-month warranty, and fast dispatch. Order now!",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for ROVER 400 1.4 8V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "ROVER 400",
+    "Oryginal",
+    "MKC104510-YK"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for ROVER 400 1.4 8V, MKC104510-YK, offers a Plug & Play solution for seamless installation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>ROVER 400</td></tr>\n        <tr><th>ENGINE</th><td>1.4 8V</td></tr>\n        <tr><th>YEAR</th><td>1997-1998</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MKC104510</td></tr>\n        <tr><th>NUMBER PARTS</th><td>YK</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 400 1.4 8V, MKC104510, YK",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-400-1.4-8V%2C-MKC104510%2C-YK-/46813",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "1B86-89736",
+    "sku": "1B86-89736",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 400 1.4 8V, MKC104510, YK </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_693187b0984052441b5e7b4b3c6e51ae_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f5a864b3cbe4d75721c375eefaa62a4a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 400",
+      "ENGINE": "1.4 8V",
+      "YEAR": "1997-1998",
+      "NUMBER MANUFACTURER": "MKC104510",
+      "NUMBER PARTS": "YK",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:31:54.192Z",
+    "model": "mistral:7b",
+    "durationMs": 9238,
+    "priceIncrement": 100
+  }
+}

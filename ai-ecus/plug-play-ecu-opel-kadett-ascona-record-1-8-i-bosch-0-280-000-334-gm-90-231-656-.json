@@ -1,0 +1,56 @@
+{
+  "title": "OEM Tested ECU Replacement Opel Kadett Ascona Record 1.8 i Bosch 0 280 000 334, GM 90 231 656 - Plug & Play, Warranty",
+  "slug": "plug-play-ecu-opel-kadett-ascona-record-1-8-i-bosch-0-280-000-334-gm-90-231-656-",
+  "metaDescription": "OEM tested ECU replacement for Opel Kadett Ascona Record 1.8 i with Bosch 0 280 000 334 and GM 90 231 656 part numbers. Plug & Play, warranty included.",
+  "price": "€600.00",
+  "excerpt": "OEM tested ECU replacement for Opel Kadett Ascona Record 1.8 i",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Kadett Ascona Record",
+    "1.8 i engine",
+    "Bosch 0 280 000 334",
+    "GM 90 231 656"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is suitable for Opel Kadett Ascona Record 1.8 i vehicles equipped with Bosch 0 280 000 334 and GM 90 231 656 part numbers.</section>\n<section class=\"features\">\n<ul>\n<li>OEM tested for quality assurance</li>\n<li>Plug & Play for easy installation</li>\n<li>6-month warranty</li>\n<li>Used original in good condition</li>\n<li>Locked/unlocked option available</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>OPEL KADETT ASCONA RECORD</td></tr>\n<tr><td>ENGINE</td><td>1.8 i</td></tr>\n<tr><td>YEAR</td><td>1985-1986</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 280 000 334</td></tr>\n<tr><td>NUMBER PARTS</td><td>GM 90 231 656</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific faults. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL BOSCH 0 280 000 334, 0280000334, GM 90 231 656, 90231656",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-BOSCH-0-280-000-334%2C-0280000334%2C-GM-90-231-656%2C-90231656-/64975",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7921-42660_20140902170054",
+    "sku": "7921-42660_20140902170054",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL BOSCH 0 280 000 334, 0280000334, GM 90 231 656, 90231656 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_1e34f86aad2a0ba5631a0d68556a1beb_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_998d8087f54bfc021aecc1c909b40b7f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f10e9753933cade9adc1c2ba18ddaf7d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL KADETT ASCONA RECORD",
+      "ENGINE": "1.8 i",
+      "YEAR": "1985-1986",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 000 334",
+      "NUMBER PARTS": "GM 90 231 656",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:28:21.846Z",
+    "model": "mistral:7b",
+    "durationMs": 13186,
+    "priceIncrement": 100
+  }
+}

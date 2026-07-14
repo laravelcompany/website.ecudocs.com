@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - AUDI A4 2.0 TDI BOSCH 0 281 012 113, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-2-0-tdi-bosch-0-281-012-113-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for AUDI A4 2.0 TDI BOSCH 0 281 012 113, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for AUDI A4 2.0 TDI BOSCH 0 281 012 113",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 012 113",
+    "AUDI A4",
+    "2.0 TDI"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement is a reliable solution for your AUDI A4 2.0 TDI engine control issues.</section>\n<section class=\"features\"><ul><li>OEM Quality</li><li>Plug & Play Installation</li><li>6-month Warranty</li><li>Thoroughly Inspected and Tested</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>AUDI A4</td><td>2.0 TDI</td><td>BOSCH 0 281 012 113</td><td>03G 906 016 GN</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on specific vehicle conditions and configurations. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 2.0 TDI BOSCH 0 281 012 113, 0281012113, 03G 906 016 GN, 03G906016GN, EDC16U31",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-2.0-TDI-BOSCH-0-281-012-113%2C-0281012113%2C-03G-906-016-GN%2C-03G906016GN%2C-EDC16U31-/98793",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6F83-34247_20161109111044",
+    "sku": "6F83-34247_20161109111044",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  AUDI A4 2.0 TDI BOSCH 0 281 012 113, 0281012113, 03G 906 016 GN, 03G906016GN, EDC16U31 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "2.0 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 113",
+      "NUMBER PARTS": "03G 906 016 GN",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:44:56.064Z",
+    "model": "mistral:7b",
+    "durationMs": 9541,
+    "priceIncrement": 100
+  }
+}

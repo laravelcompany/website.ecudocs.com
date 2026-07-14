@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A4 A6 2.8 AQD Bosch 0 261 206 123, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-a6-2-8-aqd-bosch-0-261-206-123-tested",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Audi A4 A6 2.8 AQD. 6-month warranty and fast dispatch.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A4 A6 2.8 AQD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4 A6",
+    "2.8 AQD",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is suitable for Audi A4 A6 2.8 AQD. It comes with a 6-month warranty and fast dispatch.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested</li>\n        <li>Plug & Play</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch</li>\n        <li>Used, original in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>AUDI A4 A6</td></tr>\n        <tr><th>ENGINE:</th><td>2.8 AQD</td></tr>\n        <tr><th>YEAR:</th><td>1998-2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 206 123</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>3B0 907 551 T</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle configuration. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 A6 2.8 AQD BOSCH 0 261 206 123, 0261206123, 3B0 907 551 T, 3B0907551T",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-A6-2.8-AQD-BOSCH-0-261-206-123%2C-0261206123%2C-3B0-907-551-T%2C-3B0907551T-/43354",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "AE50-6387B",
+    "sku": "AE50-6387B",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 A6 2.8 AQD BOSCH 0 261 206 123, 0261206123, 3B0 907 551 T, 3B0907551T </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_715d010d346637e42c1da12d5d293f09_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9a153bbdded77ddf767512c67361353b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e14bb348f4960078d241d7c14dbf6f43_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4 A6",
+      "ENGINE": "2.8 AQD",
+      "YEAR": "1998-2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 123",
+      "NUMBER PARTS": "3B0 907 551 T",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:18:12.027Z",
+    "model": "mistral:7b",
+    "durationMs": 9539,
+    "priceIncrement": 100
+  }
+}

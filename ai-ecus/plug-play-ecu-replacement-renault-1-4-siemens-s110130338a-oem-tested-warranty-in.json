@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Renault 1.4 Siemens S110130338A - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-1-4-siemens-s110130338a-oem-tested-warranty-in",
+  "metaDescription": "OEM tested ECU Engine Controller for Renault 1.4 with Siemens S110130338A, 8200107212, and 8200044437. Plug & Play replacement, backed by a 6-month warranty.",
+  "price": "€275.00",
+  "excerpt": "OEM tested ECU Engine Controller for Renault 1.4 with Siemens S110130338A",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault 1.4",
+    "Siemens S110130338A",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Renault 1.4 with Siemens S110130338A is a reliable replacement that ensures optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Compatible with locked and unlocked systems</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>RENAULT</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS S110130338 A</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8200044437</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your specific vehicle model before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT 1.4 SIEMENS S110130338 A, S110130338A, 8200107212, 8200044437",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-1.4-SIEMENS-S110130338-A%2C-S110130338A%2C-8200107212%2C-8200044437-/104056",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "1843-160A5_20170308012625",
+    "sku": "1843-160A5_20170308012625",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT 1.4 SIEMENS S110130338 A, S110130338A, 8200107212, 8200044437 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "SIEMENS S110130338 A",
+      "NUMBER PARTS": "8200044437",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:40:14.766Z",
+    "model": "mistral:7b",
+    "durationMs": 13483,
+    "priceIncrement": 100
+  }
+}

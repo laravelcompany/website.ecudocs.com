@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested NISSAN MURANO 3.5 MEC63760, Warranty Included",
+  "slug": "plug-play-ecu-nissan-murano-3-5-mec63760-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for NISSAN MURANO 3.5 MEC63760, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN MURANO 3.5 MEC63760",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "NISSAN MURANO",
+    "MEC63760"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your NISSAN MURANO 3.5 MEC63760.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with NISSAN MURANO 3.5 MEC63760. Fitment caution may apply to other models or years.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN MURANO 3.5 MEC63760, MEC63-760 CN B1 4Y16",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-MURANO-3.5-MEC63760%2C-MEC63-760-CN-B1-4Y16/31447",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "3D2E-23780_20121011202332",
+    "sku": "3D2E-23780_20121011202332",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN MURANO 3.5 MEC63760, MEC63-760 CN B1 4Y16</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN MURANO",
+      "ENGINE": "3.5",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "MEC63760",
+      "NUMBER PARTS": "MEC63-760 CN B1 4Y16",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:27:43.209Z",
+    "model": "mistral:7b",
+    "durationMs": 6478,
+    "priceIncrement": 100
+  }
+}

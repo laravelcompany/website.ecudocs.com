@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Fiat Panda 1.2 Magneti Marelli IAW 5NF.S5, OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-fiat-panda-12-magneti-marelli-iaw-5nfs5-oem-tested-warranty-includ",
+  "metaDescription": "Buy a tested Plug & Play ECU Engine Controller for Fiat Panda 1.2 Magneti Marelli IAW 5NF.S5, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€660.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Panda 1.2 Magneti Marelli",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Panda 1.2",
+    "Magneti Marelli IAW 5NF.S5"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Panda 1.2 Magneti Marelli IAW 5NF.S5 ensures seamless vehicle operation and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>Used in good condition</li>\n        <li>6-month warranty included</li>\n        <li>Device thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT PANDA</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI IAW 5NF.S5</td></tr>\n        <tr><th>NUMBER PARTS</th><td>61600.579.03</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU-wide with 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Panda models equipped with the specified ECU. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PANDA 1.2 MAGNETI MARELLI IAW 5NF.S5, IAW5NFS5, 55201829, 61600.579.03, 6160057903",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PANDA-1.2-MAGNETI-MARELLI-IAW-5NF.S5%2C-IAW5NFS5%2C-55201829%2C-61600.579.03%2C-6160057903-/83354",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "0067-63188_20151209131356",
+    "sku": "0067-63188_20151209131356",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PANDA 1.2 MAGNETI MARELLI IAW 5NF.S5, IAW5NFS5, 55201829, 61600.579.03, 6160057903 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_bff6be014fe52bb79ef642a49edcd2a0_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_60b74ab21cb7b2996b31c21f1d97bf00_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PANDA",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 5NF.S5",
+      "NUMBER PARTS": "61600.579.03",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:12:02.074Z",
+    "model": "mistral:7b",
+    "durationMs": 10077,
+    "priceIncrement": 100
+  }
+}

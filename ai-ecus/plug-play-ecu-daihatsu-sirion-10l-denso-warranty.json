@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Daihatsu Sirion 1.0L - Denso 112000-5852, 89560-97204 - Warranty Included",
+  "slug": "plug-play-ecu-daihatsu-sirion-10l-denso-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Daihatsu Sirion (1.0L) by Denso. This used original part is in good condition and comes with a 6-month warranty.",
+  "price": "€200.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Daihatsu Sirion",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso",
+    "Daihatsu Sirion",
+    "1.0L engine"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Daihatsu Sirion (1.0L) is a reliable replacement part, thoroughly inspected and tested by our certified technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>DAIHATSU SIRION</td></tr>\n        <tr><th>ENGINE</th><td>1.0 L</td></tr>\n        <tr><th>YEAR</th><td>1998-2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DENSO 112000-5852</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8956097204</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch across EU.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DAIHATSU SIRION DENSO 112000-5852, 1120005852, 89560-97204, 8956097204",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DAIHATSU-SIRION-DENSO-112000-5852%2C-1120005852%2C-89560-97204%2C-8956097204/62778",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "35BA-906F6_20140812105820",
+    "sku": "35BA-906F6_20140812105820",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DAIHATSU SIRION DENSO 112000-5852, 1120005852, 89560-97204, 8956097204</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DAIHATSU SIRION",
+      "ENGINE": "1.0 L",
+      "YEAR": "1998-2004",
+      "NUMBER MANUFACTURER": "DENSO 112000-5852",
+      "NUMBER PARTS": "8956097204",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:01:45.950Z",
+    "model": "mistral:7b",
+    "durationMs": 10672,
+    "priceIncrement": 100
+  }
+}

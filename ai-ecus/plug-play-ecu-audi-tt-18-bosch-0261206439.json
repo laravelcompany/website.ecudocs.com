@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi TT 1.8 Bosch 0 261 206 439 - ECU Replacement",
+  "slug": "plug-play-ecu-audi-tt-18-bosch-0261206439",
+  "metaDescription": "Expertly tested and OEM-certified Plug & Play ECU Engine Controller for Audi TT 1.8 (Bosch 0 261 206 439). 6-month warranty, fast dispatch in EU.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi TT 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi TT",
+    "Bosch 0 261 206 439"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Audi TT 1.8 (Bosch 0 261 206 439) is a reliable replacement, ensuring seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM-certified</li>\n        <li>Plug & Play installation</li>\n        <li>6-month warranty</li>\n        <li>Expertly tested by certified technicians</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI TT</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1999-2002</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 206 439</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>BENZIN 0003</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI TT 1.8 BOSCH 0 261 206 439, 0261206439, 8N0 906 018 Q, 8N0906018Q, 26SA6418, BENZIN 0003",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-TT-1.8-BOSCH-0-261-206-439%2C-0261206439%2C-8N0-906-018-Q%2C-8N0906018Q%2C-26SA6418%2C-BENZIN-0003/35672",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "BCCC-767DE_20130528080430",
+    "sku": "BCCC-767DE_20130528080430",
+    "availability": "Brak",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI TT 1.8 BOSCH 0 261 206 439, 0261206439, 8N0 906 018 Q, 8N0906018Q, 26SA6418, BENZIN 0003</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI TT",
+      "ENGINE": "1.8",
+      "YEAR": "1999-2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 439",
+      "NUMBER PARTS": "BENZIN 0003",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:55:17.386Z",
+    "model": "mistral:7b",
+    "durationMs": 11261,
+    "priceIncrement": 100
+  }
+}

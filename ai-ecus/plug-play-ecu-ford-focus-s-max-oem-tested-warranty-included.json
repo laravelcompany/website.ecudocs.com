@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Focus S-MAX - OEM Tested, Siemens 5WS40481F-T, Warranty Included",
+  "slug": "plug-play-ecu-ford-focus-s-max-oem-tested-warranty-included",
+  "metaDescription": "Expertly tested and OEM Siemens ECU for Ford Focus S-MAX. Plug & Play, 6-month warranty, fast EU dispatch.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Focus S-MAX",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus S-MAX",
+    "Siemens 5WS40481F-T"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Ford Focus S-MAX is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Used Original in Good Condition</li><li>Thoroughly Inspected and Tested by a Certified Technician</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>FORD FOCUS S-MAX</td></tr><tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WS40481F-T</td></tr><tr><th>NUMBER PARTS</th><td>SID206</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please check before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS S-MAX, SIEMENS 5WS40481F-T, 5WS40481FT, 7T11-12A650-AF 6BJF, 7T1112A650AF, J38AC, SID206",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-S-MAX%2C-SIEMENS-5WS40481F-T%2C-5WS40481FT%2C-7T11-12A650-AF-6BJF%2C-7T1112A650AF%2C-J38AC%2C-SID206/41653",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "80B5-28152",
+    "sku": "80B5-28152",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS S-MAX, SIEMENS 5WS40481F-T, 5WS40481FT, 7T11-12A650-AF 6BJF, 7T1112A650AF, J38AC, SID206</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS S-MAX",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40481F-T",
+      "NUMBER PARTS": "SID206",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:15:32.470Z",
+    "model": "mistral:7b",
+    "durationMs": 9265,
+    "priceIncrement": 100
+  }
+}

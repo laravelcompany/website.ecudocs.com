@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Opel Meriva 1.7 CDTI - Denso 898000 3220, GM 98000 322 - Warranty Included",
+  "slug": "plug-play-ecu-opel-meriva-1-7-cdti-denso-898000-3220-gm-98000-322-warranty",
+  "metaDescription": "Buy this OEM tested Plug & Play ECU Replacement for Opel Meriva 1.7 CDTI, covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Opel Meriva 1.7 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Meriva",
+    "Denso",
+    "Isuzu 898000 3220",
+    "GM 98000 322"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Opel Meriva 1.7 CDTI is a reliable solution to your engine control unit issues, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL MERIVA</td></tr>\n        <tr><th>ENGINE</th><td>1.7 CDTI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>ISUZU 898000 3220</td></tr>\n        <tr><th>NUMBER PARTS</th><td>GM 98000 322</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility with your vehicle before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL MERIVA 1.7 CDTI ISUZU 898000 3220, 8980003220, DENSO 112500-0200, 1125000200, GM 98000 322, 98000322",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-MERIVA-1.7-CDTI-ISUZU-898000-3220%2C-8980003220%2C-DENSO-112500-0200%2C-1125000200%2C-GM-98000-322%2C-98000322-/81425",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "5DAD-28272_20151109165700",
+    "sku": "5DAD-28272_20151109165700",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL MERIVA 1.7 CDTI ISUZU 898000 3220, 8980003220, DENSO 112500-0200, 1125000200, GM 98000 322, 98000322 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_7890e396712c1a648ccd85211fe78534_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_09a8b5450bbb13a1214664939c8a6d38_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL MERIVA",
+      "ENGINE": "1.7 CDTI",
+      "NUMBER MANUFACTURER": "ISUZU 898000 3220",
+      "NUMBER PARTS": "GM 98000 322",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:09:02.907Z",
+    "model": "mistral:7b",
+    "durationMs": 10161,
+    "priceIncrement": 100
+  }
+}

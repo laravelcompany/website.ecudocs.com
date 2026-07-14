@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W168 A180 2.0 CDI OEM Bosch 0281013030",
+  "slug": "plug-play-ecu-mercedes-w168-a180-20-cdi-bosch-0281013030",
+  "metaDescription": "OEM Tested ECU Replacement for Mercedes W168 A180 2.0 CDI, backed by a 6-month warranty and Plug & Play installation.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU replacement for Mercedes W168 A180 2.0 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W168 A180",
+    "Bosch 0281013030"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Mercedes W168 A180 2.0 CDI ensures reliable engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested for quality assurance</li>\n        <li>6-month warranty</li>\n        <li>Compatible with Mercedes W168 A180 2.0 CDI</li>\n        <li>Bosch 0281013030 part number</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W168 A180</td></tr>\n        <tr><th>ENGINE</th><td>2.0 CDI</td></tr>\n        <tr><th>YEAR</th><td>2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281013030, 0 281 013 030</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6401508079</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mercedes W168 A180 2.0 CDI. Fitment caution may apply, please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W168 A180 2.0 CDI A6401508079, 6401508079, A 640 150 80 79, BOSCH 0281013030, 0 281 013 030",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W168-A180-2.0-CDI-A6401508079%2C-6401508079%2C-A-640-150-80-79%2C-BOSCH-0281013030%2C-0-281-013-030/27117",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DFDF-88941_20120730195353",
+    "sku": "DFDF-88941_20120730195353",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W168 A180 2.0 CDI A6401508079, 6401508079, A 640 150 80 79, BOSCH 0281013030, 0 281 013 030</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W168 A180",
+      "ENGINE": "2.0 CDI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0281013030, 0 281 013 030",
+      "NUMBER PARTS": "6401508079",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:05:42.364Z",
+    "model": "mistral:7b",
+    "durationMs": 10448,
+    "priceIncrement": 100
+  }
+}

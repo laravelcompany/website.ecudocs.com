@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Renault Laguna 1.9 DCI - Bosch 0 281 012 588, 6-month Warranty",
+  "slug": "plug-play-ecu-renault-laguna-19-dci-bosch-oem-tested",
+  "metaDescription": "Get a tested and reliable ECU Engine Controller for your Renault Laguna 1.9 DCI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€200.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Renault Laguna 1.9 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 012 588",
+    "Renault Laguna 1.9 DCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Renault Laguna 1.9 DCI ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Expertly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT LAGUNA</td></tr>\n        <tr><th>ENGINE</th><td>1.9 DCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 012 588</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8200566220</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT LAGUNA 1.9 DCI, BOSCH 0 281 012 588, 0281012588, 8200527713, 8200566220",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-LAGUNA-1.9-DCI%2C-BOSCH-0-281-012-588%2C-0281012588%2C-8200527713%2C-8200566220/42399",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9C77-1192C",
+    "sku": "9C77-1192C",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT LAGUNA 1.9 DCI, BOSCH 0 281 012 588, 0281012588, 8200527713, 8200566220</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e1350280415e73e61c03fa652ffb7f99_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3baf81810b873631c4151a72ff6934ea_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT LAGUNA",
+      "ENGINE": "1.9 DCI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 588",
+      "NUMBER PARTS": "8200566220",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:33:00.781Z",
+    "model": "mistral:7b",
+    "durationMs": 10569,
+    "priceIncrement": 100
+  }
+}

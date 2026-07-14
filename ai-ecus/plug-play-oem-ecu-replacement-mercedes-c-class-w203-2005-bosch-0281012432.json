@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Mercedes C-Class W203 (2005) - Bosch 0281012432, 6-month Warranty",
+  "slug": "plug-play-oem-ecu-replacement-mercedes-c-class-w203-2005-bosch-0281012432",
+  "metaDescription": "Buy a Plug & Play OEM ECU Engine Controller for Mercedes C-Class W203 (2005) - Bosch 0281012432, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Mercedes C-Class W203 (2005)",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281012432",
+    "Mercedes C-Class W203",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Engine Controller is a reliable replacement for your Mercedes C-Class W203 (2005), ensuring optimal engine performance and smooth driving experience.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Mercedes C-Class W203 (2005)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES</td></tr>\n        <tr><th>YEAR</th><td>2005</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281012432, 0 281 012 432</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6401504979</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This part is compatible with Mercedes C-Class W203 (2005). Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES A6401504979, 6401504979, A 640 150 49 79 BOSCH 0281012432, 0 281 012 432",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-A6401504979%2C-6401504979%2C-A-640-150-49-79-BOSCH-0281012432%2C-0-281-012-432/27105",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9EF0-822B5_20120730160413",
+    "sku": "9EF0-822B5_20120730160413",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES A6401504979, 6401504979, A 640 150 49 79 BOSCH 0281012432, 0 281 012 432</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_ed1e3379985e2ebd4d6850a2e4ffbe58_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_8a50d9ec9495c0bb3cb9ba699dcc23ca_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0281012432, 0 281 012 432",
+      "NUMBER PARTS": "6401504979",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:12:08.192Z",
+    "model": "mistral:7b",
+    "durationMs": 10330,
+    "priceIncrement": 100
+  }
+}

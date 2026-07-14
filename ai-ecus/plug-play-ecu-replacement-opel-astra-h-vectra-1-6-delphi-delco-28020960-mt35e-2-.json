@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OPEL ASTRA H, VECTRA 1.6 - Delphi Delco 28020960 MT35E 2.3 - OEM Tested",
+  "slug": "plug-play-ecu-replacement-opel-astra-h-vectra-1-6-delphi-delco-28020960-mt35e-2-",
+  "metaDescription": "Buy the tested ECU ENGINE CONTROLLER OPEL ASTRA H, VECTRA 1.6, 28020960, MT35E 2.3 by Delphi Delco with a 6-month warranty and fast shipping.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra H, Vectra 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "OPEL ASTRA H, VECTRA",
+    "Delphi Delco",
+    "28020960",
+    "MT35E 2.3"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU ENGINE CONTROLLER is a reliable replacement for your Opel Astra H, Vectra 1.6. It's thoroughly inspected and tested by our expert technicians.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Origional in Good Condition</li>\n        <li>Compatible with Opel Astra H and Vectra 1.6</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL ASTRA H, VECTRA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>28020960</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>MT35E 2.3</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery and a 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel Astra H and Vectra 1.6, but may require programming or additional parts for some vehicles.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA H, VECTRA 1.6, 28020960, MT35E 2.3",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-H%2C-VECTRA-1.6%2C-28020960%2C-MT35E-2.3/40478",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "24E1-9790C_20130825155312",
+    "sku": "24E1-9790C_20130825155312",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA H, VECTRA 1.6, 28020960, MT35E 2.3</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA H, VECTRA",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "28020960",
+      "NUMBER PARTS": "MT35E 2.3",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:14:13.916Z",
+    "model": "mistral:7b",
+    "durationMs": 12081,
+    "priceIncrement": 100
+  }
+}

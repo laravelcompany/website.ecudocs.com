@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Croma 2.0 Marelli Autronica WF460710FM6 IAW 046/01",
+  "slug": "plug-play-ecu-fiat-croma-2-0-marelli-autronica-wf460710fm6-iaw-04601-oem-tested",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Fiat Croma 2.0 by Marelli Autronica, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Croma 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Croma",
+    "Marelli Autronica",
+    "IAW 046/01"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is an OEM replacement for Fiat Croma 2.0, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT CROMA</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>WF46.07/10F.M6</td></tr>\n        <tr><th>NUMBER PARTS</th><td>IAW 046/01</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This ECU is compatible with Fiat Croma 2.0 only. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT CROMA 2.0, WF46.07/10F.M6, WF460710FM6, IAW 046/01",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-CROMA-2.0%2C-WF46.0710F.M6%2C-WF460710FM6%2C-IAW-04601/49467",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Marelli Autronica",
+    "productCode": "FAB2-92240",
+    "sku": "FAB2-92240",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT CROMA 2.0, WF46.07/10F.M6, WF460710FM6, IAW 046/01</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_bf956fd68acaf93ca4ca5525149242d5_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a7227564cc8726fbf30a6f77f466590f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f2471b07cf9b12af31e88c67178d540a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT CROMA",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "WF46.07/10F.M6",
+      "NUMBER PARTS": "IAW 046/01",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:32:43.183Z",
+    "model": "mistral:7b",
+    "durationMs": 9136,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Renault Clio S110130114B, 8200064017 - 6-month Warranty",
+  "slug": "plug-play-ecu-renault-clio-s110130114b-8200064017-warranty",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Renault Clio, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Renault Clio",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Clio",
+    "Siemens",
+    "8200064017"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Renault Clio is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>RENAULT CLIO</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>S110130114 B</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>8200064017</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Clio. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO S110130114 B, S110130114B, 8200064017",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-S110130114-B%2C-S110130114B%2C-8200064017/110923",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "199A-710FA_20180806153045",
+    "sku": "199A-710FA_20180806153045",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO S110130114 B, S110130114B, 8200064017</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO",
+      "NUMBER MANUFACTURER": "S110130114 B",
+      "NUMBER PARTS": "8200064017",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:12:38.023Z",
+    "model": "mistral:7b",
+    "durationMs": 8321,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN NAVARRA 2.5 DCI OEM Tested - Denso 23710EC07C, MB-275800-6754 - Warranty Included",
+  "slug": "plug-play-ecu-nissan-navarra-25-dci-denso-23710ec07c-mb2758006754-warranty",
+  "metaDescription": "Get a Plug & Play ECU replacement for your NISSAN NAVARRA 2.5 DCI with our OEM tested Denso part, backed by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan Navarra 2.5 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Navarra",
+    "2.5 DCI",
+    "Denso",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for your NISSAN NAVARRA 2.5 DCI is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Locked</li>\n        <li>Ready for programming</li>\n        <li>6-month warranty</li>\n        <li>Inspection by certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>NISSAN NAVARRA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.5 DCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2007</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>23710 EC07C</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>D3</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>MB-275800-6754</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific issues. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN NAVARRA 2.5 DCI 23710 EC07C, 23710EC07C, D3, MB-275800-6754, MB2758006754",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-NAVARRA-2.5-DCI-23710-EC07C%2C-23710EC07C%2C-D3%2C-MB-275800-6754%2C-MB2758006754/40055",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "6731-172D9_20130817161004",
+    "sku": "6731-172D9_20130817161004",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN NAVARRA 2.5 DCI 23710 EC07C, 23710EC07C, D3, MB-275800-6754, MB2758006754</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN NAVARRA",
+      "ENGINE": "2.5 DCI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "23710 EC07C",
+      "CODE": "D3",
+      "NUMBER PARTS": "MB-275800-6754",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:29:22.916Z",
+    "model": "mistral:7b",
+    "durationMs": 12116,
+    "priceIncrement": 100
+  }
+}

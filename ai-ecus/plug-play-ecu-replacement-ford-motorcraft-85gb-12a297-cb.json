@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Ford Motorcraft 85GB-12A297-CB, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-ford-motorcraft-85gb-12a297-cb",
+  "metaDescription": "Buy the tested ECU Engine Controller FORD Motorcraft 85GB-12A297-CB, 6-month warranty. Fast dispatch within EU.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play Ford ECU Replacement",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Motorcraft 85GB-12A297-CB",
+    "OEM tested"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Ford is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>Motorcraft</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>85GB-12A297-CB</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD Motorcraft 85GB-12A297-CB, 85GB12A297CB",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-Motorcraft-85GB-12A297-CB%2C-85GB12A297CB/73448",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "C9FC-14361_20150304102305",
+    "sku": "C9FC-14361_20150304102305",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  FORD Motorcraft 85GB-12A297-CB, 85GB12A297CB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9f86708d044b739f7b1316af24310de5_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c33d7bac8032580422505df59fc2c84d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "Motorcraft",
+      "NUMBER PARTS": "85GB-12A297-CB",
+      "OPTION AVAILABLE": "LOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:00:39.380Z",
+    "model": "mistral:7b",
+    "durationMs": 10860,
+    "priceIncrement": 100
+  }
+}

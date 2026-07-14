@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A4 1.9 TDI AWX OEM Bosch 0 281 010 729, 28SA5353 - Tested & Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-19-tdi-awx-oem-bosch-0-281-010-729-28sa5353-tested",
+  "metaDescription": "OEM tested ECU Replacement for Audi A4 1.9 TDI AWX, Plug & Play, covered by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A4 1.9 TDI AWX",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "1.9 TDI AWX",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Replacement for Audi A4 1.9 TDI AWX is a reliable solution, backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>ECU Replacement</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL:</th><td>AUDI A4</td></tr>\n<tr><th>ENGINE:</th><td>1.9 TDI AWX</td></tr>\n<tr><th>YEAR:</th><td>2001</td></tr>\n<tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 729</td></tr>\n<tr><th>NUMBER PARTS:</th><td>28SA5353</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 1.9 TDI AWX 038 906 019 FP, 038906019FP, BOSCH 0 281 010 729, 0281010729, 28SA5353",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-1.9-TDI-AWX-038-906-019-FP%2C-038906019FP%2C-BOSCH-0-281-010-729%2C-0281010729%2C-28SA5353-/12340",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DEE6-13677",
+    "sku": "DEE6-13677",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 1.9 TDI AWX 038 906 019 FP, 038906019FP, BOSCH 0 281 010 729, 0281010729, 28SA5353 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "1.9 TDI AWX",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 729",
+      "NUMBER PARTS": "28SA5353",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:02:18.686Z",
+    "model": "mistral:7b",
+    "durationMs": 9437,
+    "priceIncrement": 100
+  }
+}

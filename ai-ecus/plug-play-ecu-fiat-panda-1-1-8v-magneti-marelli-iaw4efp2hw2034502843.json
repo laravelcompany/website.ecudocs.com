@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Panda 1.1 8V OEM Tested - Magneti Marelli IAW4EFP2HW2034502843",
+  "slug": "plug-play-ecu-fiat-panda-1-1-8v-magneti-marelli-iaw4efp2hw2034502843",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for Fiat Panda 1.1 8V, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Panda 1.1 8V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Panda",
+    "Magneti Marelli",
+    "IAW4EFP2HW2034502843"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Fiat Panda 1.1 8V is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Fast Dispatch</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT PANDA</td></tr>\n<tr><td>ENGINE</td><td>1.1 8V</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>IAW 4EF.P2</td></tr>\n<tr><td>NUMBER PARTS</td><td>IAW4EFP2HW203/4502-843</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PANDA 1.1 8V, IAW 4EF.P2, IAW4EFP2, 61600.623.00 F, 6160062300F, IAW 4FE.P2/HW203/4502-843, IAW4EFP2HW2034502843",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PANDA-1.1-8V%2C-IAW-4EF.P2%2C-IAW4EFP2%2C-61600.623.00-F%2C-6160062300F%2C-IAW-4FE.P2HW2034502-843%2C-IAW4EFP2HW2034502843/37567",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "B283-9863C_20130716113412",
+    "sku": "B283-9863C_20130716113412",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PANDA 1.1 8V, IAW 4EF.P2, IAW4EFP2, 61600.623.00 F, 6160062300F, IAW 4FE.P2/HW203/4502-843, IAW4EFP2HW2034502843</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_3e4d0d7ba97fc0b805b30c8403fb4dbf_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_148ea2ec3cc27e176be58e0dcbe84f68_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PANDA",
+      "ENGINE": "1.1 8V",
+      "NUMBER MANUFACTURER": "IAW 4EF.P2",
+      "NUMBER PARTS": "IAW 4FE.P2/HW203/4502-843",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:10:00.113Z",
+    "model": "mistral:7b",
+    "durationMs": 11246,
+    "priceIncrement": 100
+  }
+}

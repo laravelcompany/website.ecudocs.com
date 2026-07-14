@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Citroen Engine Controller Bosch 0 281 019 818, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-citroen-bosch-0-281-019-818-oem-tested",
+  "metaDescription": "Expertly tested and OEM certified ECU Engine Controller for Citroen, featuring Plug & Play compatibility. Backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen - Bosch 0 281 019 818",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen ECU",
+    "Bosch ECU",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Citroen is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM Tested and Certified</li>\n        <li>6-month warranty</li>\n        <li>Used but in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 019 818</td></tr>\n        <tr><th>NUMBER PARTS</th><td>9805947780</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen vehicles. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN BOSCH 0 281 019 818, 0281019818, 9805947780",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-BOSCH-0-281-019-818%2C-0281019818%2C-9805947780/120155",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2065-4847B_20200824133509",
+    "sku": "2065-4847B_20200824133509",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN BOSCH 0 281 019 818, 0281019818, 9805947780</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_245499_0_0/CITROEN-BOSCH-0-281-019-818%2C-0281019818%2C-9805947780.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_245500_0_0/CITROEN-BOSCH-0-281-019-818%2C-0281019818%2C-9805947780.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 019 818",
+      "NUMBER PARTS": "9805947780",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:24:34.462Z",
+    "model": "mistral:7b",
+    "durationMs": 8572,
+    "priceIncrement": 100
+  }
+}

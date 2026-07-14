@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Audi A3 1.6 - Siemens 5WP40344 04, 5WP4034404, 06A 906 033 GQ, 06A906033GQ - Warranty Included",
+  "slug": "plug-play-ecu-audi-a3-1-6-siemens-5wp40344-04-5wp4034404-06a-906-033-gq-06a90603",
+  "metaDescription": "Expertly tested and OEM approved Plug & Play ECU replacement for Audi A3 1.6 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested, Plug & Play ECU Replacement for Audi A3 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "Siemens",
+    "1.6"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for the Audi A3 1.6 is a reliable solution to restore your vehicle's performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Used Original in Good Condition</li><li>Compatible with Audi A3 1.6</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>AUDI A3</td><td>1.6</td><td>2005-2009</td><td>06A906033GQ</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A3 1.6 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 1.6, SIEMENS 5WP40344 04, 5WP4034404, 06A 906 033 GQ, 06A906033GQ",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-1.6%2C-SIEMENS-5WP40344-04%2C-5WP4034404%2C-06A-906-033-GQ%2C-06A906033GQ-/56634",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "351D-125F7_20140521180254",
+    "sku": "351D-125F7_20140521180254",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  AUDI A3 1.6, SIEMENS 5WP40344 04, 5WP4034404, 06A 906 033 GQ, 06A906033GQ </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "ENGINE": "1.6",
+      "YEAR": "2005-2009",
+      "NUMBER PARTS": "06A906033GQ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:43:39.577Z",
+    "model": "mistral:7b",
+    "durationMs": 9545,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Agila 1.3 JTD - Magneti Marelli MJD 6JO.A2, Warranty Included",
+  "slug": "plug-play-ecu-opel-agila-1-3-jtd-magneti-marelli-mjd-6joa2-warranty",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Opel Agila 1.3 JTD by Magneti Marelli, backed by a 6-month warranty and fast shipping.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Agila 1.3 JTD",
+  "tags": [
+    "ECU repair",
+    "Opel Agila",
+    "Magneti Marelli",
+    "1.3 JTD",
+    "MJD 6JO.A2"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Opel Agila 1.3 JTD by Magneti Marelli ensures seamless engine operation and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL AGILA</td></tr>\n        <tr><th>ENGINE</th><td>1.3 JTD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI MJD 6JO.A2</td></tr>\n        <tr><th>NUMBER PARTS</th><td>71600.046.03</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle's specific configuration. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL AGILA 1.3 JTD MAGNETI MARELLI MJD 6JO.A2, MJD6JOA2, MJD6J0A2, FGP 55196356 ZQ, 71600.046.03, 7160004603",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-AGILA-1.3-JTD-MAGNETI-MARELLI-MJD-6JO.A2%2C-MJD6JOA2%2C-MJD6J0A2%2C-FGP-55196356-ZQ%2C-71600.046.03%2C-7160004603-/77151",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "3130-474A0_20150722220857",
+    "sku": "3130-474A0_20150722220857",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL AGILA 1.3 JTD MAGNETI MARELLI MJD 6JO.A2, MJD6JOA2, MJD6J0A2, FGP 55196356 ZQ, 71600.046.03, 7160004603 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL AGILA",
+      "ENGINE": "1.3 JTD",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 6JO.A2",
+      "NUMBER PARTS": "71600.046.03",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:56:23.878Z",
+    "model": "mistral:7b",
+    "durationMs": 10614,
+    "priceIncrement": 100
+  }
+}

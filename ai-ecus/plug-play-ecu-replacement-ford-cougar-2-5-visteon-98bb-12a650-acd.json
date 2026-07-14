@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Cougar 2.5 VISTEON 98BB-12A650-ACD, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-ford-cougar-2-5-visteon-98bb-12a650-acd",
+  "metaDescription": "OEM tested ECU Engine Controller for Ford Cougar 2.5 VISTEON 98BB-12A650-ACD, plug & play replacement with 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM tested ECU Engine Controller for Ford Cougar 2.5 VISTEON",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Cougar",
+    "Visteon",
+    "98BB-12A650-ACD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Ford Cougar 2.5 VISTEON is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FORD COUGAR</td></tr>\n<tr><th>ENGINE</th><td>2.5</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>VISTEON 98BB-12A650-ACD</td></tr>\n<tr><th>NUMBER PARTS</th><td>PINE</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and installation. Professional installation recommended.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD COUGAR 2.5 VISTEON 98BB-12A650-ACD, 98BB12A650ACD, PINE",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-COUGAR-2.5-VISTEON-98BB-12A650-ACD%2C-98BB12A650ACD%2C-PINE-/80280",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "B67F-157B1_20151009122809",
+    "sku": "B67F-157B1_20151009122809",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD COUGAR 2.5 VISTEON 98BB-12A650-ACD, 98BB12A650ACD, PINE </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_7ea74b16bdcbc5538485e3dbe989d3e6_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d3ebe3a8e6dabce91ba2ce85fe6d60d8_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD COUGAR",
+      "ENGINE": "2.5",
+      "NUMBER MANUFACTURER": "VISTEON 98BB-12A650-ACD",
+      "NUMBER PARTS": "PINE",
+      "OPTION AVAILABLE": "LOCKED / CLON",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:06:56.690Z",
+    "model": "mistral:7b",
+    "durationMs": 8514,
+    "priceIncrement": 100
+  }
+}

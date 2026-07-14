@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 1.8 16V - 1S7F-12A650-BD, 6-month Warranty",
+  "slug": "plug-play-ecu-ford-mondeo-18-16v-1s7f-12a650-bd-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Mondeo 1.8 16V - 1S7F-12A650-BD, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Mondeo 1.8 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "1S7F-12A650-BD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Mondeo 1.8 16V is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Design</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with LBO-110</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>ENGINE</th><td>1.8 16V</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>LBO-110</td></tr>\n        <tr><th>CODE</th><td>PAVE</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1S7F-12A650-BD</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 1.8 16V 1S7F12A650BD PAVE, LBO-110, 1S7F-12A650-BD",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-1.8-16V-1S7F12A650BD-PAVE%2C-LBO-110%2C-1S7F-12A650-BD/26816",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "78FD-88175_20120723172258",
+    "sku": "78FD-88175_20120723172258",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 1.8 16V 1S7F12A650BD PAVE, LBO-110, 1S7F-12A650-BD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "1.8 16V",
+      "NUMBER MANUFACTURER": "LBO-110",
+      "CODE": "PAVE",
+      "NUMBER PARTS": "1S7F-12A650-BD",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:31:03.905Z",
+    "model": "mistral:7b",
+    "durationMs": 9641,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - KIA CEED 1.4 CRDI Bosch 0 281 032 126, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-kia-ceed-14-crdi-bosch-0281032126-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for KIA CEED 1.4 CRDI, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for KIA CEED 1.4 CRDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA CEED",
+    "Bosch",
+    "1.4 CRDI",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for KIA CEED 1.4 CRDI is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>KIA CEED</td></tr>\n        <tr><th>ENGINE</th><td>1.4 CRDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 032 126</td></tr>\n        <tr><th>NUMBER PARTS</th><td>EDC17C57</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA CEED 1.4 CRDI BOSCH 0 281 032 126, 0281032126, 39140-2A800, 391402A800, EDC17C57",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-CEED-1.4-CRDI-BOSCH-0-281-032-126%2C-0281032126%2C-39140-2A800%2C-391402A800%2C-EDC17C57/107990",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7067-63993_20171219124909",
+    "sku": "7067-63993_20171219124909",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA CEED 1.4 CRDI BOSCH 0 281 032 126, 0281032126, 39140-2A800, 391402A800, EDC17C57</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_02d2386534e5692b55a236147e21536a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_5ff7cc42959fb0a4ab730c324baa6d9d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA CEED",
+      "ENGINE": "1.4 CRDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 032 126",
+      "NUMBER PARTS": "EDC17C57",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:18:40.852Z",
+    "model": "mistral:7b",
+    "durationMs": 9196,
+    "priceIncrement": 100
+  }
+}

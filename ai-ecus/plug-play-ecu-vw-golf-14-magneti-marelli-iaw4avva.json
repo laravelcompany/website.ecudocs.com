@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - VW Golf 1.4 OEM Magneti Marelli IAW4AVVA",
+  "slug": "plug-play-ecu-vw-golf-14-magneti-marelli-iaw4avva",
+  "metaDescription": "Expertly tested and guaranteed ECU Engine Controller for VW Golf 1.4 by Magneti Marelli, with 6-month warranty and Plug & Play installation.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for VW Golf 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "VW Golf 1.4",
+    "Magneti Marelli IAW4AVVA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your Volkswagen Golf 1.4, ensuring reliable engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM quality and fitment</li><li>6-month warranty</li><li>Thoroughly inspected and tested by a certified technician</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Details</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>VOLKSWAGEN VW GOLF</td></tr><tr><td>ENGINE</td><td>1.4</td></tr><tr><td>YEAR</td><td>1999</td></tr><tr><td>NUMBER PARTS</td><td>IAW4AVVA</td></tr><tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr><tr><td>WARRANTY :</td><td>6-month warranty</td></tr><tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Volkswagen Golf 1.4 (1999). Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VOLKSWAGEN VW GOLF 1.4 036 906 014 CF, 036906014CF, 61600.394.12, 6160039412, IAW4AV.VA, IAW4AVVA",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VOLKSWAGEN-VW-GOLF-1.4-036-906-014-CF%2C-036906014CF%2C-61600.394.12%2C-6160039412%2C-IAW4AV.VA%2C-IAW4AVVA/55740",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "D685-625C2_20140510114721",
+    "sku": "D685-625C2_20140510114721",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  VOLKSWAGEN VW GOLF 1.4 036 906 014 CF, 036906014CF, 61600.394.12, 6160039412, IAW4AV.VA, IAW4AVVA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VOLKSWAGEN VW GOLF",
+      "ENGINE": "1.4",
+      "YEAR": "1999",
+      "NUMBER PARTS": "IAW4AVVA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:23:48.716Z",
+    "model": "mistral:7b",
+    "durationMs": 9278,
+    "priceIncrement": 100
+  }
+}

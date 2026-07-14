@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Engine Controller - Citroen Peugeot Magneti Marelli IAW 8P.13 - OEM Tested, Warranty Included, ECU Replacement",
+  "slug": "plug-play-ecu-engine-controller-citroen-peugeot-magneti-marelli-iaw-8p13-oem-tes",
+  "metaDescription": "OEM tested ECU Engine Controller for Citroen Peugeot by Magneti Marelli IAW 8P.13, Plug & Play, 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Citroen Peugeot",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "Magneti Marelli IAW 8P.13"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Citroen Peugeot by Magneti Marelli IAW 8P.13 is a reliable replacement solution, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>ECU Replacement</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN PEUGEOT</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI IAW 8P.13</td></tr>\n        <tr><th>NUMBER PARTS</th><td>9619467680</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT MAGNETI MARELLI IAW 8P.13, IAW8P13, 16240.014, 16240014, 9619467680",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-MAGNETI-MARELLI-IAW-8P.13%2C-IAW8P13%2C-16240.014%2C-16240014%2C-9619467680-/94222",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "75DC-1560B_20160725155809",
+    "sku": "75DC-1560B_20160725155809",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT MAGNETI MARELLI IAW 8P.13, IAW8P13, 16240.014, 16240014, 9619467680 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 8P.13",
+      "NUMBER PARTS": "9619467680",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:29:54.640Z",
+    "model": "mistral:7b",
+    "durationMs": 10494,
+    "priceIncrement": 100
+  }
+}

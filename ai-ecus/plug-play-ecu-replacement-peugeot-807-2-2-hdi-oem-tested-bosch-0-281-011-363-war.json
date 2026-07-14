@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for PEUGEOT 807 2.2 HDI - OEM Tested Bosch 0 281 011 363, Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-807-2-2-hdi-oem-tested-bosch-0-281-011-363-war",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for PEUGEOT 807 2.2 HDI, OEM tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT 807 2.2 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 807",
+    "Bosch",
+    "2.2 HDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller is a reliable replacement for your PEUGEOT 807 2.2 HDI.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Locked / Unlocked Option Available</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>PEUGEOT 807</td></tr>\n<tr><th>ENGINE</th><td>2.2 HDI</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 363</td></tr>\n<tr><th>NUMBER PARTS</th><td>9640938180</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with PEUGEOT 807 2.2 HDI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 807 2.2 HDI BOSCH 0 281 011 363, 0281011363, 96 525 902 80, 9652590280, 9640938180, EDC15C2 04",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-807-2.2-HDI-BOSCH-0-281-011-363%2C-0281011363%2C-96-525-902-80%2C-9652590280%2C-9640938180%2C-EDC15C2-04-/104006",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2BBA-56865_20170307032128",
+    "sku": "2BBA-56865_20170307032128",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 807 2.2 HDI BOSCH 0 281 011 363, 0281011363, 96 525 902 80, 9652590280, 9640938180, EDC15C2 04 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 807",
+      "ENGINE": "2.2 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 363",
+      "NUMBER PARTS": "9640938180",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:27:47.832Z",
+    "model": "mistral:7b",
+    "durationMs": 10817,
+    "priceIncrement": 100
+  }
+}

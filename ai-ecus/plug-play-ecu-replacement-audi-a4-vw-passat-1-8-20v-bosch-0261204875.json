@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested ECU Replacement Audi A4 VW Passat 1.8 20V Bosch 0261204875, Plug & Play, Warranty",
+  "slug": "plug-play-ecu-replacement-audi-a4-vw-passat-1-8-20v-bosch-0261204875",
+  "metaDescription": "OEM Tested ECU Replacement for Audi A4 VW Passat 1.8 20V, Plug & Play, 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested ECU Replacement for Audi A4 VW Passat 1.8 20V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0261204875",
+    "Audi A4",
+    "VW Passat"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested ECU Replacement for the Audi A4 VW Passat 1.8 20V is a reliable solution, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Locked / Ready for Programming</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>AUDI A4 VW PASSAT</td><td>1.8 20V</td><td>1999</td><td>BOSCH 0 261 204 875</td><td>28SA5859</td><td>Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A4 VW Passat 1.8 20V. Fitment caution may apply, please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 VW PASSAT 1.8 20V 8D0 906 018 F, 8D0906018F, BOSCH 0261204875, 0 261 204 875, BENZIN 0006 28SA5859",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-VW-PASSAT-1.8-20V-8D0-906-018-F%2C-8D0906018F%2C-BOSCH-0261204875%2C-0-261-204-875%2C-BENZIN-0006-28SA5859-/13327",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C36F-56407",
+    "sku": "C36F-56407",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 VW PASSAT 1.8 20V 8D0 906 018 F, 8D0906018F, BOSCH 0261204875, 0 261 204 875, BENZIN 0006 28SA5859 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4 VW PASSAT",
+      "ENGINE": "1.8 20V",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 875",
+      "NUMBER PARTS": "28SA5859",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:23:07.299Z",
+    "model": "mistral:7b",
+    "durationMs": 10284,
+    "priceIncrement": 100
+  }
+}

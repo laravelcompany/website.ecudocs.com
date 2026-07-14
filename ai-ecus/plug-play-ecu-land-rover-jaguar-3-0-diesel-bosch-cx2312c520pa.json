@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement Land Rover Jaguar 3.0 Diesel Bosch OEM Tested 6-month Warranty CX23-12C520-PA",
+  "slug": "plug-play-ecu-land-rover-jaguar-3-0-diesel-bosch-cx2312c520pa",
+  "metaDescription": "OEM tested ECU Engine Controller for Land Rover Jaguar 3.0 Diesel Bosch, Plug & Play, 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Land Rover Jaguar 3.0 Diesel",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Land Rover Jaguar",
+    "Bosch",
+    "3.0 Diesel",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Land Rover Jaguar 3.0 Diesel Bosch is a Plug & Play replacement, ensuring seamless installation and operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM tested for quality assurance</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>LAND ROVER JAGUAR</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>3.0 DIESEL</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 017 914</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>CX23-12C520-PA</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific issues. Always consult with a professional technician before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LAND ROVER JAGUAR 3.0 DIESEL BOSCH 0 281 017 914, 0281017914, CX23-12C520-PA, CX2312C520PA",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LAND-ROVER-JAGUAR-3.0-DIESEL-BOSCH-0-281-017-914%2C-0281017914%2C-CX23-12C520-PA%2C-CX2312C520PA/108754",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D450-54047_20180126151824",
+    "sku": "D450-54047_20180126151824",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LAND ROVER JAGUAR 3.0 DIESEL BOSCH 0 281 017 914, 0281017914, CX23-12C520-PA, CX2312C520PA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_76c730b9e54382d0b033f07a68d03e73_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d7099384e5585558a22f9afd4c2e9a49_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LAND ROVER JAGUAR",
+      "ENGINE": "3.0 DIESEL",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 017 914",
+      "NUMBER PARTS": "CX23-12C520-PA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:44:51.983Z",
+    "model": "mistral:7b",
+    "durationMs": 10876,
+    "priceIncrement": 100
+  }
+}

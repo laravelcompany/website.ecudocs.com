@@ -1,0 +1,56 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Renault Megane 1.5 DCI Siemens S122326107A, Used in Good Condition, 6-month Warranty",
+  "slug": "plug-play-ecu-renault-megane-1-5-dci-siemens-s122326107a-used-in-good-condition",
+  "metaDescription": "OEM Tested Plug & Play ECU Engine Controller for Renault Megane 1.5 DCI Siemens S122326107A, used in good condition and covered by a 6-month warranty.",
+  "price": "€275.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Renault Megane 1.5 DCI Siemens S122326107A",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane",
+    "Siemens S122326107A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a replacement for the Renault Megane 1.5 DCI, ensuring seamless integration and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT MEGANE</td></tr>\n        <tr><th>ENGINE</th><td>1.5 DCI</td></tr>\n        <tr><th>YEAR</th><td>2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S122326107 A</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8200542288</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE 1.5 DCI SIEMENS S122326107 A, S122326107A, 8200542288",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-1.5-DCI-SIEMENS-S122326107-A%2C-S122326107A%2C-8200542288/69353",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "2A75-3536E_20141120143025",
+    "sku": "2A75-3536E_20141120143025",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE 1.5 DCI SIEMENS S122326107 A, S122326107A, 8200542288</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_73490644255af91770a50a36446fb4aa_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_336b43d454228ece8ddff6949aefe118_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_07301feed6432bf60993f7fd26c7ee01_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_818b9cc3e257b3017a0b95ed64027263_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ef28a4b9ab411e0c17bb851800c547b3_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE",
+      "ENGINE": "1.5 DCI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "SIEMENS S122326107 A",
+      "NUMBER PARTS": "8200542288",
+      "OPTION AVAILABLE": "COMPLET",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:47:13.359Z",
+    "model": "mistral:7b",
+    "durationMs": 9727,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Croma 2.4 JTD Bosch 0 281 012 150, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-fiat-croma-24-jtd-bosch-0281012150-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat Croma 2.4 JTD Bosch 0 281 012 150, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU for Fiat Croma 2.4 JTD Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Croma",
+    "Bosch",
+    "2.4 JTD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Croma 2.4 JTD Bosch is a reliable replacement that ensures optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT CROMA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.4 JTD</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 012 150</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>55205406</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Fiat Croma 2.4 JTD only. Installation may require professional assistance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT CROMA 2.4 JTD BOSCH 0 281 012 150, 0281012150, 55205406",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-CROMA-2.4-JTD-BOSCH-0-281-012-150%2C-0281012150%2C-55205406/109829",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "70A8-468CA_20180517130838",
+    "sku": "70A8-468CA_20180517130838",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT CROMA 2.4 JTD BOSCH 0 281 012 150, 0281012150, 55205406</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT CROMA",
+      "ENGINE": "2.4 JTD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 150",
+      "NUMBER PARTS": "55205406",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:32:55.135Z",
+    "model": "mistral:7b",
+    "durationMs": 10951,
+    "priceIncrement": 100
+  }
+}

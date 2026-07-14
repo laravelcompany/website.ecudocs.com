@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Honda Civic 1.6 - 37820-PM7-B021, 643-108076 - Warranty Included",
+  "slug": "plug-play-ecu-honda-civic-16-oem-tested-warranty",
+  "metaDescription": "Buy Oryginal's Plug & Play ECU Engine Controller for Honda Civic 1.6, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Honda Civic 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Civic",
+    "1.6 Engine",
+    "Oryginal Part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Honda Civic 1.6 is a reliable solution for your vehicle's engine control system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>HONDA CIVIC</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>37820-PM7-B021</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>643-108076</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific ECU programming requirements. Please consult a professional technician for assistance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA CIVIC 1.6, 37820-PM7-B021, 37820PM7B021, 643-108076, 643108076",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-CIVIC-1.6%2C-37820-PM7-B021%2C-37820PM7B021%2C-643-108076%2C-643108076/37667",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "1AF5-989B9_20130716150752",
+    "sku": "1AF5-989B9_20130716150752",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA CIVIC 1.6, 37820-PM7-B021, 37820PM7B021, 643-108076, 643108076</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_aab3a424547449ad0cc4fd9dbc0180f3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ea4a0b1cda80b60fa318b100ebe59884_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA CIVIC",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "37820-PM7-B021",
+      "NUMBER PARTS": "643-108076",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:19:35.498Z",
+    "model": "mistral:7b",
+    "durationMs": 10665,
+    "priceIncrement": 100
+  }
+}

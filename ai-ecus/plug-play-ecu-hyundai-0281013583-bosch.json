@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Hyundai - 0281013583 39113-27805 - Bosch",
+  "slug": "plug-play-ecu-hyundai-0281013583-bosch",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Hyundai. This used original part in good condition comes with a 6-month warranty and fast shipping.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Hyundai - Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai ECU",
+    "OEM part number",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU Engine Controller for Hyundai is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used Original in Good Condition</li>\n<li>Fast Shipping</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>HYUNDAI</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>0281013583 39113-27805</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI 0281013583 39113-27805 3911327805",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-0281013583-39113-27805-3911327805/139101",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "33C1-144AF_20240229145008",
+    "sku": "33C1-144AF_20240229145008",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI 0281013583 39113-27805 3911327805</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI",
+      "NUMBER MANUFACTURER": "0281013583 39113-27805",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:28:32.433Z",
+    "model": "mistral:7b",
+    "durationMs": 9546,
+    "priceIncrement": 100
+  }
+}

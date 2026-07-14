@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi/Volkswagen 2.2 BOSCH 0 280 800 128 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audivw-22-bosch-0280800128-tested",
+  "metaDescription": "Expertly tested ECU Engine Controller for Audi/Volkswagen 2.2 BOSCH 0 280 800 128, backed by a 6-month warranty and fast dispatch.",
+  "price": "€109.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi/Volkswagen 2.2 BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 280 800 128",
+    "Audi VW 2.2"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Audi/Volkswagen 2.2 BOSCH 0 280 800 128 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested and certified</li><li>6-month warranty included</li><li>Used in good condition</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>AUDI VOLKSWAGEN</td><td>2.2</td><td>BOSCH 0 280 800 128</td><td>811 906 264 C</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle model and year. Always confirm compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI VOLKSWAGEN 2.2 BOSCH 0 280 800 128, 0280800128, 811 906 264 C, 811906264C",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-VOLKSWAGEN-2.2-BOSCH-0-280-800-128%2C-0280800128%2C-811-906-264-C%2C-811906264C/71964",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2987-53876_20150127151915",
+    "sku": "2987-53876_20150127151915",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI VOLKSWAGEN 2.2 BOSCH 0 280 800 128, 0280800128, 811 906 264 C, 811906264C</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_309cacffd0e5a6973d83b6e3d48bb54a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d519c690df703b3987c2f32283a8804d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI VOLKSWAGEN",
+      "ENGINE": "2.2",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 800 128",
+      "NUMBER PARTS": "811 906 264 C",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:57:42.702Z",
+    "model": "mistral:7b",
+    "durationMs": 9750,
+    "priceIncrement": 100
+  }
+}

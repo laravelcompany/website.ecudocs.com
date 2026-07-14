@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Hyundai i30 2.0 CRDi Diesel Bosch 39115-04170 6-month Warranty",
+  "slug": "plug-play-ecu-hyundai-i30-2-0-crdi-diesel-bosch-39115-04170-warranty",
+  "metaDescription": "Buy Plug & Play OEM Tested ECU Replacement for Hyundai i30 2.0 CRDi Diesel Bosch, inspected and tested by a certified technician, backed by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Hyundai i30 2.0 CRDi Diesel Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai i30",
+    "2.0 CRDi Diesel",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Hyundai i30 2.0 CRDi Diesel Bosch is a reliable solution to your engine control unit issues, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Compatible with Hyundai i30 2.0 CRDi Diesel Bosch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>HYUNDAI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>39115-04170  9001160047KC</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Hyundai i30 2.0 CRDi Diesel Bosch only. Fitment caution may apply; consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI 39115-04170 3911504170 9001160047KC",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-39115-04170-3911504170-9001160047KC/138228",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D348-95899_20240110141138",
+    "sku": "D348-95899_20240110141138",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI 39115-04170 3911504170 9001160047KC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_289913_0_0/HYUNDAI-39115-04170-3911504170-9001160047KC.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_289914_0_0/HYUNDAI-39115-04170-3911504170-9001160047KC.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI",
+      "NUMBER MANUFACTURER": "39115-04170  9001160047KC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:32:06.860Z",
+    "model": "mistral:7b",
+    "durationMs": 13102,
+    "priceIncrement": 100
+  }
+}

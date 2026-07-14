@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested ECU Replacement Opel Astra Zafira 1.6 Z16XE Z16SE Delphi Delco 12214860 DNHM, HSFI-2.1 - Plug & Play, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-opel-astra-zafira-1-6-z16xe-z16se-delphi-delco-1221486",
+  "metaDescription": "OEM tested ECU replacement for Opel Astra Zafira 1.6 Z16XE Z16SE with Plug & Play functionality and a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested ECU Replacement for Opel Astra Zafira",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delphi Delco 12214860 DNHM",
+    "Opel Astra Zafira",
+    "1.6 Z16XE Z16SE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Opel Astra Zafira 1.6 Z16XE Z16SE is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL ASTRA ZAFIRA</td></tr>\n        <tr><th>ENGINE</th><td>1.6 Z16XE Z16SE</td></tr>\n        <tr><th>YEAR</th><td>2001-2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELPHI DELCO 12214860 DNHM</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HSFI-2.1</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA ZAFIRA DELPHI DELCO 12214860 DNHM, 12214860DNHM, HSFI-2.1",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-ZAFIRA-DELPHI-DELCO-12214860-DNHM%2C-12214860DNHM%2C-HSFI-2.1/9682",
+    "priceCurrency": "EUR",
+    "netPrice": "€225.00",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "9682",
+    "sku": "9682",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA ZAFIRA DELPHI DELCO 12214860 DNHM, 12214860DNHM, HSFI-2.1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_300837_0_0/OPEL-ASTRA-ZAFIRA-DELPHI-DELCO-12214860-DNHM%2C-12214860DNHM%2C-HSFI-2.1.webp",
+      "https://auto24parts.com/environment/cache/images/productGfx_0f1836c12d576f7b1bfdcc2569f5b20a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA ZAFIRA",
+      "ENGINE": "1.6 Z16XE Z16SE",
+      "YEAR": "2001-2004",
+      "NUMBER MANUFACTURER": "DELPHI DELCO 12214860 DNHM",
+      "NUMBER PARTS": "HSFI-2.1",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:26:09.224Z",
+    "model": "mistral:7b",
+    "durationMs": 10509,
+    "priceIncrement": 100
+  }
+}

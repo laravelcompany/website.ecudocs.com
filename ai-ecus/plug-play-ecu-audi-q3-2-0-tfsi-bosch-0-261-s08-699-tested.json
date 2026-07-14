@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Audi Q3 2.0 TFSI BOSCH 0 261 S08 699, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-q3-2-0-tfsi-bosch-0-261-s08-699-tested",
+  "metaDescription": "OEM tested and Plug & Play ECU replacement for Audi Q3 2.0 TFSI BOSCH 0 261 S08 699, backed by a 6-month warranty.",
+  "price": "€870.00",
+  "excerpt": "OEM tested and Plug & Play ECU replacement for Audi Q3 2.0 TFSI BOSCH 0 261 S08 699",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi Q3",
+    "2.0 TFSI",
+    "BOSCH 0 261 S08 699"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement is suitable for Audi Q3 2.0 TFSI BOSCH 0 261 S08 699.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Audi Q3 2.0 TFSI BOSCH 0 261 S08 699</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>AUDI Q3</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 TFSI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 S08 699</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>MED17.5.2</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This product is compatible with Audi Q3 2.0 TFSI BOSCH 0 261 S08 699 only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI Q3 2.0 TFSI BOSCH 0 261 S08 699, 0261S08699, 8U0907115H, MED17.5.2",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-Q3-2.0-TFSI-BOSCH-0-261-S08-699%2C-0261S08699%2C-8U0907115H%2C-MED17.5.2/111556",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F569-501B1_20181220133923",
+    "sku": "F569-501B1_20181220133923",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI Q3 2.0 TFSI BOSCH 0 261 S08 699, 0261S08699, 8U0907115H, MED17.5.2</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_223896_0_0/ECU-ENGINE-CONTROLLER-AUDI-Q3-2.0-TFSI-BOSCH-0-261-S08-699%2C-0261S08699%2C-8U0907115H%2C-MED17.5.2.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_223897_0_0/ECU-ENGINE-CONTROLLER-AUDI-Q3-2.0-TFSI-BOSCH-0-261-S08-699%2C-0261S08699%2C-8U0907115H%2C-MED17.5.2.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI Q3",
+      "ENGINE": "2.0 TFSI",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S08 699",
+      "NUMBER PARTS": "MED17.5.2",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:47:09.455Z",
+    "model": "mistral:7b",
+    "durationMs": 11897,
+    "priceIncrement": 100
+  }
+}

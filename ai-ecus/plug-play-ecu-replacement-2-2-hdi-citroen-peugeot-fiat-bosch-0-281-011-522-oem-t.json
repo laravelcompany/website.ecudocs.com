@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - 2.2 HDI CITROEN PEUGEOT FIAT Bosch 0 281 011 522, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-2-2-hdi-citroen-peugeot-fiat-bosch-0-281-011-522-oem-t",
+  "metaDescription": "OEM tested ECU Engine Controller for CITROEN PEUGEOT FIAT 2.2 HDI, Plug & Play, backed by a 6-month warranty.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Replacement for CITROEN PEUGEOT FIAT 2.2 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen",
+    "Peugeot",
+    "Fiat",
+    "2.2 HDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for CITROEN PEUGEOT FIAT 2.2 HDI is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play</li>\n      <li>OEM Tested</li>\n      <li>6-month Warranty</li>\n      <li>Used, Original in Good Condition</li>\n      <li>Compatible with EDC15C2 24</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>PARTS</td>\n          <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n          <td>BRAND AND MODEL</td>\n          <td>CITROEN PEUGEOT FIAT</td>\n        </tr>\n        <tr>\n          <td>ENGINE</td>\n          <td>2.2 HDI</td>\n        </tr>\n        <tr>\n          <td>NUMBER PARTS</td>\n          <td>EDC15C2 24</td>\n        </tr>\n        <tr>\n          <td>OPTION AVAILABLE</td>\n          <td>Plug & Play / Locked / Ready for programming</td>\n        </tr>\n        <tr>\n          <td>WARRANTY :</td>\n          <td>6-month warranty</td>\n        </tr>\n        <tr>\n          <td>INSPECTION:</td>\n          <td>Device thoroughly inspected and tested by a certified technician</td>\n        </tr>\n        <tr>\n          <td>CONDITION</td>\n          <td>USED ORYGINAL IN GOOD CONDITION</td>\n        </tr>\n      </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen and Peugeot models equipped with the 2.2 HDI engine. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT FIAT 2.2 HDI BOSCH 0 281 011 522, 0281011522, 96 558 167 80, 9655816780, 9640938180, EDC15C2 24",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-FIAT-2.2-HDI-BOSCH-0-281-011-522%2C-0281011522%2C-96-558-167-80%2C-9655816780%2C-9640938180%2C-EDC15C2-24/57632",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "078E-273AE_20140603110413",
+    "sku": "078E-273AE_20140603110413",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT FIAT 2.2 HDI BOSCH 0 281 011 522, 0281011522, 96 558 167 80, 9655816780, 9640938180, EDC15C2 24</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_423cc6a4ed694715ea0b1f3b1a65afd1_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f5ef01d31cc207314c91e57be2cfd3c8_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT FIAT",
+      "ENGINE": "2.2 HDI",
+      "NUMBER PARTS": "EDC15C2 24",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:27:02.158Z",
+    "model": "mistral:7b",
+    "durationMs": 12665,
+    "priceIncrement": 100
+  }
+}

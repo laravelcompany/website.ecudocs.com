@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for NISSAN PRIMERA 2.2 DCI - OEM Tested, Warranty Included (5800-219 E7)",
+  "slug": "plug-play-ecu-nissan-primeria-2-2-dci-5800-219-e7",
+  "metaDescription": "Expertly tested ECU Engine Controller for NISSAN PRIMERA 2.2 DCI, featuring Plug & Play functionality and backed by a 6-month warranty.",
+  "price": "€510.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN PRIMERA 2.2 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Primeria",
+    "2.2 DCI",
+    "Denso",
+    "5800-219 E7"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for NISSAN PRIMERA 2.2 DCI is a reliable replacement, ensuring seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested and inspected</li>\n        <li>6-month warranty</li>\n        <li>Condition: Used, Original in Good Condition</li>\n        <li>Compatible with 23710 AW40A and 5800-219 E7</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN PRIMERA</td></tr>\n        <tr><th>ENGINE</th><td>2.2 DCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>23710 AW40A</td></tr>\n        <tr><th>NUMBER PARTS</th><td>5800-219 E7</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with NISSAN PRIMERA 2.2 DCI. Fitment caution: Ensure proper installation for optimal performance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 2.2 DCI 23710 AW40A, 23710AW40A, 275800-2198, 2758002198, 5800-219 E7",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-2.2-DCI-23710-AW40A%2C-23710AW40A%2C-275800-2198%2C-2758002198%2C-5800-219-E7/42454",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "9022-179DD",
+    "sku": "9022-179DD",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 2.2 DCI 23710 AW40A, 23710AW40A, 275800-2198, 2758002198, 5800-219 E7</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "2.2 DCI",
+      "NUMBER MANUFACTURER": "23710 AW40A",
+      "NUMBER PARTS": "5800-219 E7",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:37:18.283Z",
+    "model": "mistral:7b",
+    "durationMs": 9882,
+    "priceIncrement": 100
+  }
+}

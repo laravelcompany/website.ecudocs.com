@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Audi TT 2.0 TFSI BOSCH 0 261 S02 084 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-tt-20-tfsi-bosch-0261s02084-tested",
+  "metaDescription": "Expertly tested and OEM ECU replacement for Audi TT 2.0 TFSI BOSCH 0 261 S02 084, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi TT 2.0 TFSI BOSCH 0 261 S02 084",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi TT",
+    "2.0 TFSI",
+    "BOSCH 0 261 S02 084"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU replacement is a reliable solution for your Audi TT 2.0 TFSI engine.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM quality for optimal performance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>AUDI TT</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 TFSI</td></tr>\n        <tr><th>YEAR:</th><td>2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 S02 084</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>8J0 907 115</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility with your vehicle before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI TT 2.0 TFSI BOSCH 0 261 S02 084, 0261S02084, 8J0 907 115, 8J0907115, MED9.1, MED91",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-TT-2.0-TFSI-BOSCH-0-261-S02-084%2C-0261S02084%2C-8J0-907-115%2C-8J0907115%2C-MED9.1%2C-MED91-/79201",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E30C-33268_20150914102041",
+    "sku": "E30C-33268_20150914102041",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI TT 2.0 TFSI BOSCH 0 261 S02 084, 0261S02084, 8J0 907 115, 8J0907115, MED9.1, MED91 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI TT",
+      "ENGINE": "2.0 TFSI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S02 084",
+      "NUMBER PARTS": "8J0 907 115",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:55:40.232Z",
+    "model": "mistral:7b",
+    "durationMs": 11388,
+    "priceIncrement": 100
+  }
+}

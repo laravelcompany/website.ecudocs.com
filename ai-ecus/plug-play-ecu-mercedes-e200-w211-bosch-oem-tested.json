@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Mercedes E200 W211 Bosch 0 281 010 706, A 646 153 01 79 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-e200-w211-bosch-oem-tested",
+  "metaDescription": "Expertly inspected and tested ECU Engine Controller for Mercedes E200 W211 by Bosch (0 281 010 706, A 646 153 01 79). Plug & Play, 6-month warranty. Fast EU shipping.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Mercedes E200 W211",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes E200 W211",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Mercedes E200 W211 by Bosch (0 281 010 706, A 646 153 01 79) is an expertly inspected and tested part, ensuring a seamless fit and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Inspected and Tested</li>\n        <li>Fast EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES E200 W211</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>A6461530179</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES E200 W211 BOSCH 0 281 010 706, 0281010706, A 646 153 01 79, A6461530179",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-E200-W211-BOSCH-0-281-010-706%2C-0281010706%2C-A-646-153-01-79%2C-A6461530179-/52727",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "F49B-18986_20140317133848",
+    "sku": "F49B-18986_20140317133848",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  MERCEDES E200 W211 BOSCH 0 281 010 706, 0281010706, A 646 153 01 79, A6461530179 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES E200 W211",
+      "NUMBER PARTS": "A6461530179",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:06:43.927Z",
+    "model": "mistral:7b",
+    "durationMs": 12359,
+    "priceIncrement": 100
+  }
+}

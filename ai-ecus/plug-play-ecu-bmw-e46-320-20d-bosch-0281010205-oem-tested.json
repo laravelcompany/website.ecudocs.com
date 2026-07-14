@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E46 320 2.0 D Bosch 0 281 010 205, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-e46-320-20d-bosch-0281010205-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for BMW E46 320 2.0 D Bosch 0 281 010 205, plug & play installation, backed by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "OEM tested ECU replacement for BMW E46 320 2.0 D Bosch 0 281 010 205",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E46 320",
+    "Bosch 0 281 010 205"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is designed for BMW E46 320 2.0 D engines, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested for reliability</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Locked / Unlocked option available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW E46 320</td></tr>\n        <tr><th>ENGINE</th><td>2.0 D</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 205</td></tr>\n        <tr><th>NUMBER PARTS</th><td>7 786 887</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on specific vehicle configuration. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E46 320 2.0 D BOSCH 0 281 010 205, 0281010205, 7 786 887, 7786887",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E46-320-2.0-D-BOSCH-0-281-010-205%2C-0281010205%2C-7-786-887%2C-7786887-/81667",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "792E-89518_20151112141231",
+    "sku": "792E-89518_20151112141231",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E46 320 2.0 D BOSCH 0 281 010 205, 0281010205, 7 786 887, 7786887 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E46 320",
+      "ENGINE": "2.0 D",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 205",
+      "NUMBER PARTS": "7 786 887",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:31:33.196Z",
+    "model": "mistral:7b",
+    "durationMs": 11149,
+    "priceIncrement": 100
+  }
+}

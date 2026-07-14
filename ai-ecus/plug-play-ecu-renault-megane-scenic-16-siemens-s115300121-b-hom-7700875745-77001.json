@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Renault Megane Scenic 1.6 - Siemens S115300121 B, HOM 7700875745, 7700111772 - Warranty Included",
+  "slug": "plug-play-ecu-renault-megane-scenic-16-siemens-s115300121-b-hom-7700875745-77001",
+  "metaDescription": "OEM Tested Plug & Play ECU replacement for Renault Megane Scenic 1.6, Siemens S115300121 B, HOM 7700875745, 7700111772. Used in good condition, 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Renault Megane Scenic 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane Scenic",
+    "Siemens S115300121 B",
+    "HOM 7700875745",
+    "7700111772"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is designed for Renault Megane Scenic 1.6 engines, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table border=\"1\" cellpadding=\"5\" cellspacing=\"0\">\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT MEGANE SCENIC</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S115300121 B</td></tr>\n        <tr><th>NUMBER PARTS</th><td>7700111772</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Renault Megane Scenic 1.6 engines only. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE SCENIC 1.6 SIEMENS S115300121 B, S115300121B, HOM 7700875745, 7700111772",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-SCENIC-1.6-SIEMENS-S115300121-B%2C-S115300121B%2C-HOM-7700875745%2C-7700111772-/94555",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "A3BB-6721D_20160809150336",
+    "sku": "A3BB-6721D_20160809150336",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE SCENIC 1.6 SIEMENS S115300121 B, S115300121B, HOM 7700875745, 7700111772 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE SCENIC",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "SIEMENS S115300121 B",
+      "NUMBER PARTS": "7700111772",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:55:37.179Z",
+    "model": "mistral:7b",
+    "durationMs": 12414,
+    "priceIncrement": 100
+  }
+}

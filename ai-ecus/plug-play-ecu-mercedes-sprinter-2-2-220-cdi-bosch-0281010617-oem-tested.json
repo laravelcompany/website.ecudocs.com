@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes Sprinter 2.2 220 CDI OEM Bosch 0281010617, 6111536379",
+  "slug": "plug-play-ecu-mercedes-sprinter-2-2-220-cdi-bosch-0281010617-oem-tested",
+  "metaDescription": "OEM tested Plug & Play ECU replacement for Mercedes Sprinter 2.2 220 CDI, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes Sprinter 2.2 220 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Sprinter",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Mercedes Sprinter 2.2 220 CDI is thoroughly inspected and tested by certified technicians, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM part</li>\n        <li>Plug & Play</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Certified technician tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES SPRINTER</td></tr>\n        <tr><th>ENGINE</th><td>2.2 220 CDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281010617</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6111536379</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES SPRINTER 2.2 220 CDI A6111536379, A 611 153 63 79, 6111536379, BOSCH 0281010617, 0 281 010 617",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-SPRINTER-2.2-220-CDI-A6111536379%2C-A-611-153-63-79%2C-6111536379%2C-BOSCH-0281010617%2C-0-281-010-617-/12850",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9D51-10549",
+    "sku": "9D51-10549",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES SPRINTER 2.2 220 CDI A6111536379, A 611 153 63 79, 6111536379, BOSCH 0281010617, 0 281 010 617 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8360e571f6be53b541f211c2386f693b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_03d230c69caef4da4d7e095cbe4a0958_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES SPRINTER",
+      "ENGINE": "2.2 220 CDI",
+      "NUMBER MANUFACTURER": "BOSCH 0281010617",
+      "NUMBER PARTS": "6111536379",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:50:12.979Z",
+    "model": "mistral:7b",
+    "durationMs": 9136,
+    "priceIncrement": 100
+  }
+}

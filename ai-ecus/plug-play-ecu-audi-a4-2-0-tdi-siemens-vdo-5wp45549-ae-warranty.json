@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi A4 2.0 TDI - OEM Siemens VDO 5WP45549 AE, 6-month Warranty",
+  "slug": "plug-play-ecu-audi-a4-2-0-tdi-siemens-vdo-5wp45549-ae-warranty",
+  "metaDescription": "Buy a tested ECU Engine Controller for Audi A4 2.0 TDI by Siemens VDO (5WP45549 AE, 03G 906 018 AQ). Plug & Play, OEM quality, 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Replace your faulty ECU with a tested Siemens VDO unit for Audi A4 2.0 TDI.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Siemens VDO",
+    "2.0 TDI"
+  ],
+  "description": "<section class=\"overview\">This OEM Siemens VDO ECU Engine Controller is a tested replacement for your faulty unit in the Audi A4 2.0 TDI.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Quality</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>AUDI A4</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 TDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SIEMENS VDO 5WP45549 AE</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>03G 906 018 AQ</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A4 2.0 TDI. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 2.0 TDI SIEMENS VDO 5WP45549 AE, 5WP45549AE, 03G 906 018 AQ, 03G906018AQ, SIMOS PPD1.3",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-2.0-TDI-SIEMENS-VDO-5WP45549-AE%2C-5WP45549AE%2C-03G-906-018-AQ%2C-03G906018AQ%2C-SIMOS-PPD1.3-/103998",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "F2B7-72402_20170307024318",
+    "sku": "F2B7-72402_20170307024318",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 2.0 TDI SIEMENS VDO 5WP45549 AE, 5WP45549AE, 03G 906 018 AQ, 03G906018AQ, SIMOS PPD1.3 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "2.0 TDI",
+      "NUMBER MANUFACTURER": "SIEMENS VDO 5WP45549 AE",
+      "NUMBER PARTS": "03G 906 018 AQ",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:09:22.431Z",
+    "model": "mistral:7b",
+    "durationMs": 9774,
+    "priceIncrement": 100
+  }
+}

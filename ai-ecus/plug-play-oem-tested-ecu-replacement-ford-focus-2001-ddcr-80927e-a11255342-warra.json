@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Ford Focus 2001 DDCR 80927E A11255342 - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-focus-2001-ddcr-80927e-a11255342-warra",
+  "metaDescription": "Buy a Plug & Play OEM Tested ECU Replacement for your Ford Focus 2001. This used but in good condition part comes with a 6-month warranty and is ready for immediate dispatch.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Focus 2001",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus 2001",
+    "DDCR 80927E",
+    "A11255342"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for the Ford Focus 2001 has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FOCUS</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DDCR 80927E</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A11255342</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment may vary. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1S4A9F954CG, 1S4A-9F954-CG, A11255342, DDCR 80927E, 2300866 HUG",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1S4A9F954CG%2C-1S4A-9F954-CG%2C-A11255342%2C-DDCR-80927E%2C-2300866-HUG-/29779",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "EDAB-4006A_20120928151344",
+    "sku": "EDAB-4006A_20120928151344",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1S4A9F954CG, 1S4A-9F954-CG, A11255342, DDCR 80927E, 2300866 HUG </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "DDCR 80927E",
+      "NUMBER PARTS": "A11255342",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:00:50.935Z",
+    "model": "mistral:7b",
+    "durationMs": 9377,
+    "priceIncrement": 100
+  }
+}

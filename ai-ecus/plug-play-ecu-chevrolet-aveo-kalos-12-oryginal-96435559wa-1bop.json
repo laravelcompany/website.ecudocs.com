@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Chevrolet AVEO KALOS 1.2, Oryginal 96435559WA, 1BOP",
+  "slug": "plug-play-ecu-chevrolet-aveo-kalos-12-oryginal-96435559wa-1bop",
+  "metaDescription": "OEM Tested ECU Engine Controller for Chevrolet AVEO KALOS 1.2, 6-month warranty, Plug & Play, Fast Dispatch.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Replacement for Chevy AVEO KALOS 1.2",
+  "tags": [
+    "ECU repair",
+    "Chevrolet AVEO KALOS",
+    "1.2 engine",
+    "Oryginal",
+    "96435559WA",
+    "1BOP"
+  ],
+  "description": "<section class=\"overview\">This ECU Engine Controller for Chevrolet AVEO KALOS 1.2 is tested and OEM approved, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play</li>\n      <li>OEM Tested</li>\n      <li>6-month Warranty</li>\n      <li>Locked / Ready for programming</li>\n      <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>CHEVROLET AVEO KALOS</td></tr>\n      <tr><th>ENGINE</th><td>1.2</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>5WY1E07E</td></tr>\n      <tr><th>NUMBER PARTS</th><td>1BOP</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Chevrolet AVEO KALOS 1.2 only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET AVEO KALOS 1.2, 5WY1E07E, 96435559 WA, 96435559WA, 1BOP",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-AVEO-KALOS-1.2%2C-5WY1E07E%2C-96435559-WA%2C-96435559WA%2C-1BOP/37613",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "3FE8-61080_20130716132437",
+    "sku": "3FE8-61080_20130716132437",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET AVEO KALOS 1.2, 5WY1E07E, 96435559 WA, 96435559WA, 1BOP</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET AVEO KALOS",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "5WY1E07E",
+      "NUMBER PARTS": "1BOP",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:56:04.377Z",
+    "model": "mistral:7b",
+    "durationMs": 9056,
+    "priceIncrement": 100
+  }
+}

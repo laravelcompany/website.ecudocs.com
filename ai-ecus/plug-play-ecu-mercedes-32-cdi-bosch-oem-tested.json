@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mercedes 3.2 CDI Bosch 0 281 013 967, A 640 150 18 91 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-32-cdi-bosch-oem-tested",
+  "metaDescription": "Expertly tested and OEM ECU Engine Controller for Mercedes 3.2 CDI, Bosch 0 281 013 967, A 640 150 18 91. Plug & Play replacement with 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Mercedes 3.2 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes 3.2 CDI",
+    "Bosch 0 281 013 967",
+    "A 640 150 18 91"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Mercedes 3.2 CDI is a reliable replacement, ensuring smooth operation of your vehicle's engine.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tbody>\n            <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><th>BRAND AND MODEL</th><td>MERCEDES</td></tr>\n            <tr><th>ENGINE</th><td>3.2 CDI</td></tr>\n            <tr><th>YEAR</th><td>2007</td></tr>\n            <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 013 967</td></tr>\n            <tr><th>NUMBER PARTS</th><td>A 640 150 18 91</td></tr>\n            <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n            <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n            <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle's specific configuration. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES 3.2 CDI BOSCH 0 281 013 967, 0281013967, A 640 150 18 91, A6401501891, CRA.32",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-3.2-CDI-BOSCH-0-281-013-967%2C-0281013967%2C-A-640-150-18-91%2C-A6401501891%2C-CRA.32-/95392",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A5CB-29950_20160831154817",
+    "sku": "A5CB-29950_20160831154817",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES 3.2 CDI BOSCH 0 281 013 967, 0281013967, A 640 150 18 91, A6401501891, CRA.32 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "ENGINE": "3.2 CDI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 967",
+      "NUMBER PARTS": "A 640 150 18 91",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:08:29.644Z",
+    "model": "mistral:7b",
+    "durationMs": 11761,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes 190E Bosch 0 280 800 202, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-190e-bosch-0280800202-tested",
+  "metaDescription": "Expertly tested and Plug & Play ECU Replacement for Mercedes 190E with Bosch 0 280 800 202, backed by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU replacement for Mercedes 190E",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes 190E",
+    "Bosch 0 280 800 202"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Replacement for Mercedes 190E is a reliable solution for your engine control issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES 190E</td></tr>\n        <tr><th>ENGINE:</th><td>2.3 16V</td></tr>\n        <tr><th>YEAR:</th><td>1985-1990</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 280 800 202</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>0055453732</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary by vehicle and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES 190E BOSCH 0 280 800 202, 0280800202, 005 545 37 32, 0055453732",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-190E-BOSCH-0-280-800-202%2C-0280800202%2C-005-545-37-32%2C-0055453732/66314",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3DCB-713CA_20140922131825",
+    "sku": "3DCB-713CA_20140922131825",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES 190E BOSCH 0 280 800 202, 0280800202, 005 545 37 32, 0055453732</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES 190E",
+      "ENGINE": "2.3 16V",
+      "YEAR": "1985-1990",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 800 202",
+      "NUMBER PARTS": "0055453732",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:05:54.569Z",
+    "model": "mistral:7b",
+    "durationMs": 9346,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Ford Fiesta 1.4 - Visteon XS6F-12A650-NA, LP4-321 - Warranty Included",
+  "slug": "plug-play-ecu-ford-fiesta-14-visteon-xs6f12a650na-lp4-321-warranty",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Ford Fiesta 1.4 by Visteon (XS6F-12A650-NA, LP4-321). 6-month warranty. Fast dispatch in EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Fiesta 1.4 - Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Visteon XS6F-12A650-NA",
+    "LP4-321",
+    "Ford Fiesta"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is a reliable solution for your Ford Fiesta 1.4 (Visteon XS6F-12A650-NA, LP4-321).</section>\n<section class=\"features\"><ul><li>OEM Tested and Certified</li><li>Plug & Play Installation</li><li>6-month Warranty</li><li>Fast EU Dispatch</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL:</th><td>FORD FIESTA</td></tr>\n    <tr><th>ENGINE:</th><td>1.4</td></tr>\n    <tr><th>NUMBER MANUFACTURER:</th><td>VISTEON XS6F-12A650-NA</td></tr>\n    <tr><th>NUMBER PARTS:</th><td>LP4-321</td></tr>\n    <tr><th>OPTION AVAILABLE:</th><td>LOCKED / CLON</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with Ford Fiesta 1.4 (Visteon XS6F-12A650-NA, LP4-321). Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.4 VISTEON XS6F-12A650-NA, XS6F12A650NA, MASH, LP4-321",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.4-VISTEON-XS6F-12A650-NA%2C-XS6F12A650NA%2C-MASH%2C-LP4-321/49750",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "1A58-47414",
+    "sku": "1A58-47414",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.4 VISTEON XS6F-12A650-NA, XS6F12A650NA, MASH, LP4-321</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_d58ceac7918d1624654f1b899c5f8ae6_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ff00d223463c8dfec3dddfd8ac07507e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "VISTEON XS6F-12A650-NA",
+      "NUMBER PARTS": "LP4-321",
+      "OPTION AVAILABLE": "LOCKED / CLON",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:27:42.807Z",
+    "model": "mistral:7b",
+    "durationMs": 11183,
+    "priceIncrement": 100
+  }
+}

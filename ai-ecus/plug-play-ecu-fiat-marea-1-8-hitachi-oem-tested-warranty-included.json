@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Marea 1.8, OEM Tested, Warranty Included - Hitachi 0464225210 MF I-0 09",
+  "slug": "plug-play-ecu-fiat-marea-1-8-hitachi-oem-tested-warranty-included",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat Marea 1.8, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Marea 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Marea 1.8",
+    "Hitachi",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Fiat Marea 1.8 is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used Original in Good Condition</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT MAREA</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MFI009</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the vehicle's condition and history. Always consult a professional technician before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT MAREA 1.8, 0464225210, MF I-0 09, MFI009",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-MAREA-1.8%2C-0464225210%2C-MF-I-0-09%2C-MFI009/54891",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "C011-381A8_20140430094402",
+    "sku": "C011-381A8_20140430094402",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT MAREA 1.8, 0464225210, MF I-0 09, MFI009</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8557d1aaf7df7db575481e6867f7e9aa_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_046d20a70361e1e68c66e082bbc1841b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT MAREA",
+      "ENGINE": "1.8",
+      "NUMBER PARTS": "MFI009",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:02:12.656Z",
+    "model": "mistral:7b",
+    "durationMs": 9544,
+    "priceIncrement": 100
+  }
+}

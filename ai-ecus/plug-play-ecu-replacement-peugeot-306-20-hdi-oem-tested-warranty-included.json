@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for PEUGEOT 306 2.0 HDI - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-306-20-hdi-oem-tested-warranty-included",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for PEUGEOT 306 2.0 HDI, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT 306 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 306",
+    "2.0 HDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your PEUGEOT 306 2.0 HDI.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Fast Dispatch within EU</li>\n<li>6-month Warranty</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL:</th><td>PEUGEOT 306</td></tr>\n<tr><th>ENGINE:</th><td>2.0 HDI</td></tr>\n<tr><th>YEAR:</th><td>2001</td></tr>\n<tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 592</td></tr>\n<tr><th>NUMBER PARTS:</th><td>96 420 148 80</td></tr>\n<tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>CONDITION:</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 306 2.0 HDI, BOSCH 0 281 010 592, 0281010592, EDC15C269, 96 420 148 80, 9642014880",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-306-2.0-HDI%2C-BOSCH-0-281-010-592%2C-0281010592%2C-EDC15C269%2C-96-420-148-80%2C-9642014880/40463",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "CAE7-35513_20130825144654",
+    "sku": "CAE7-35513_20130825144654",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 306 2.0 HDI, BOSCH 0 281 010 592, 0281010592, EDC15C269, 96 420 148 80, 9642014880</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 306",
+      "ENGINE": "2.0 HDI",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 592",
+      "NUMBER PARTS": "96 420 148 80",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:59:13.610Z",
+    "model": "mistral:7b",
+    "durationMs": 9955,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.2 - Visteon 96FB-12A650-AAA, King - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-replacement-ford-fiesta-1-2-visteon-96fb-12a650-aaa-kin",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Fiesta 1.2 by Visteon (96FB-12A650-AAA, King). Comes with a 6-month warranty and fast EU shipping.",
+  "price": "€80.00",
+  "excerpt": "OEM tested Plug & Play ECU for Ford Fiesta 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Visteon",
+    "Ford Fiesta",
+    "1.2 Engine",
+    "96FB-12A650-AAA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Fiesta 1.2 by Visteon (96FB-12A650-AAA, King) ensures seamless engine control and performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FIESTA</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>YEAR</th><td>1996-1998</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>96FB-12A650-AAA</td></tr>\n        <tr><th>NUMBER PARTS</th><td>KING</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Fast EU shipping, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.2 96FB-12A650-AAA, 96FB12A650AAA, KING",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.2-96FB-12A650-AAA%2C-96FB12A650AAA%2C-KING-/43919",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "2F35-6340F",
+    "sku": "2F35-6340F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.2 96FB-12A650-AAA, 96FB12A650AAA, KING </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.2",
+      "YEAR": "1996-1998",
+      "NUMBER MANUFACTURER": "96FB-12A650-AAA",
+      "NUMBER PARTS": "KING",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:16:37.922Z",
+    "model": "mistral:7b",
+    "durationMs": 11501,
+    "priceIncrement": 100
+  }
+}

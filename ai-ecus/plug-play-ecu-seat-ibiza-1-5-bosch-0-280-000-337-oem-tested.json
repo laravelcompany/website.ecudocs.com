@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT IBIZA 1.5 BOSCH 0 280 000 337, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-seat-ibiza-1-5-bosch-0-280-000-337-oem-tested",
+  "metaDescription": "OEM ECU Engine Controller for SEAT IBIZA 1.5, BOSCH 0 280 000 337, Plug & Play, tested and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM ECU Replacement for SEAT IBIZA 1.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT IBIZA",
+    "BOSCH 0 280 000 337"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for SEAT IBIZA 1.5, BOSCH 0 280 000 337, is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used but in good condition</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SEAT IBIZA 1.5, but always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA 1.5, BOSCH 0 280 000 337, 0280000337, MI-200",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-1.5%2C-BOSCH-0-280-000-337%2C-0280000337%2C-MI-200-/46994",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "45DA-647A2",
+    "sku": "45DA-647A2",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA 1.5, BOSCH 0 280 000 337, 0280000337, MI-200 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.5",
+      "YEAR": "1986-1993",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 000 337",
+      "NUMBER PARTS": "MI-200",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:55:54.011Z",
+    "model": "mistral:7b",
+    "durationMs": 6941,
+    "priceIncrement": 100
+  }
+}

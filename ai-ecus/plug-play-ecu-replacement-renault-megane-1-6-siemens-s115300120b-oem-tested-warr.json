@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Megane 1.6 Siemens S115300120B OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-megane-1-6-siemens-s115300120b-oem-tested-warr",
+  "metaDescription": "Buy the Plug & Play ECU Replacement for Renault Megane 1.6 Siemens S115300120B, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Megane 1.6 Siemens S115300120B",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane",
+    "Siemens S115300120B"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Renault Megane 1.6 Siemens S115300120B is an OEM tested part, ensuring a seamless fit and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Compatible with Renault Megane 1.6</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>RENAULT MEGANE</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS S115300120 B</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>HOM7700860319</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Megane 1.6 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE 1.6 SIEMENS S115300120 B, S115300120B, 7700860319, HOM7700860319",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-1.6-SIEMENS-S115300120-B%2C-S115300120B%2C-7700860319%2C-HOM7700860319/95342",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "5F6F-93859_20160831123816",
+    "sku": "5F6F-93859_20160831123816",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE 1.6 SIEMENS S115300120 B, S115300120B, 7700860319, HOM7700860319</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "SIEMENS S115300120 B",
+      "NUMBER PARTS": "HOM 7 700 860 319",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:49:08.770Z",
+    "model": "mistral:7b",
+    "durationMs": 11005,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Fiat 500 1.3 JTD Magneti Marelli MJD 8F3.X1, BC.0104974.E - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-500-1-3-jtd-magneti-marelli-mjd8f3x1-bc0104974e-tested",
+  "metaDescription": "Buy a tested and reliable Plug & Play ECU Engine Controller for Fiat 500 1.3 JTD by Magneti Marelli, backed by a 6-month warranty.",
+  "price": "€650.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat 500 1.3 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat 500",
+    "Magneti Marelli",
+    "MJD 8F3.X1",
+    "BC.0104974.E"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for Fiat 500 1.3 JTD by Magneti Marelli ensures optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Locked / Unlocked option available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT 500</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3 JTD</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI MJD 8F3.X1</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>BC.0104974.E</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">This product ships within 24–48 hours and is covered by a 6-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Contact us for any compatibility concerns.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 500 1.3 JTD MAGNETI MARELLI MJD 8F3.X1, MJD8F3X1, FPT 55258952, BC.0104974.E, BC0104974E",
+    "price": "€550.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-500-1.3-JTD-MAGNETI-MARELLI-MJD-8F3.X1%2C-MJD8F3X1%2C-FPT-55258952%2C-BC.0104974.E%2C-BC0104974E-/89472",
+    "priceCurrency": "EUR",
+    "netPrice": "€447.16",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "BD21-4150A_20160411145320",
+    "sku": "BD21-4150A_20160411145320",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 500 1.3 JTD MAGNETI MARELLI MJD 8F3.X1, MJD8F3X1, FPT 55258952, BC.0104974.E, BC0104974E </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT 500",
+      "ENGINE": "1.3 JTD",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 8F3.X1",
+      "NUMBER PARTS": "BC.0104974.E",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:11:43.933Z",
+    "model": "mistral:7b",
+    "durationMs": 11298,
+    "priceIncrement": 100
+  }
+}

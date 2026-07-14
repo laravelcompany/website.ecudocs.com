@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - CITROEN XANTIA PEUGEOT 406 1.8 BOSCH 0261206218 OEM Tested",
+  "slug": "plug-play-ecu-replacement-citroen-xantia-peugeot-406-1-8-bosch-0261206218",
+  "metaDescription": "OEM tested ECU replacement for CITROEN XANTIA PEUGEOT 406 1.8, with Plug & Play feature and 6-month warranty. Fast dispatch within EU.",
+  "price": "€870.00",
+  "excerpt": "OEM tested ECU replacement for CITROEN XANTIA PEUGEOT 406 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "CITROEN XANTIA",
+    "PEUGEOT 406",
+    "BOSCH 0261206218"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is specifically designed for CITROEN XANTIA PEUGEOT 406 1.8 engines.</section>\n<section class=\"features\"><ul><li>Plug & Play feature for easy installation</li><li>OEM tested for guaranteed fitment</li><li>6-month warranty</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>CITROEN XANTIA PEUGEOT 406</td></tr>\n    <tr><th>ENGINE</th><td>1.8</td></tr>\n    <tr><th>YEAR</th><td>2000</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 206 218</td></tr>\n    <tr><th>NUMBER PARTS</th><td>26FM0715</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with CITROEN XANTIA PEUGEOT 406 1.8 engines only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN XANTIA PEUGEOT 406 1.8 9636421780 BOSCH 0261206218 MP7.3 05 26FM0715",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-XANTIA-PEUGEOT-406-1.8-9636421780-BOSCH-0261206218-MP7.3-05-26FM0715-/16497",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A0DF-530D9",
+    "sku": "A0DF-530D9",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN XANTIA PEUGEOT 406 1.8 9636421780 BOSCH 0261206218 MP7.3 05 26FM0715 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN XANTIA PEUGEOT 406",
+      "ENGINE": "1.8",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 218",
+      "NUMBER PARTS": "26FM0715",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:39:03.859Z",
+    "model": "mistral:7b",
+    "durationMs": 11248,
+    "priceIncrement": 100
+  }
+}

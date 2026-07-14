@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Peugeot 407 2.0 HDI - OEM Tested, Warranty Included (5WS40264H-T, HW9655534080)",
+  "slug": "plug-play-ecu-replacement-peugeot-407-2-0-hdi-oem-tested-warranty-included-5ws40",
+  "metaDescription": "OEM tested ECU replacement for Peugeot 407 2.0 HDI, offering Plug & Play functionality and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 407 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Peugeot 407",
+    "2.0 HDI",
+    "Continental",
+    "5WS40264H-T",
+    "HW9655534080"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Peugeot 407 2.0 HDI offers Plug & Play functionality and is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Oryginal in Good Condition</li>\n        <li>Locked or Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 407</td></tr>\n        <tr><th>ENGINE</th><td>2.0 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>5WS40264H-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>HW9655534080</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 407 2.0 HDI, 5WS40264H-T, 5WS40264HT, SID 803A, SW9663606780, HW9655534080",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-407-2.0-HDI%2C-5WS40264H-T%2C-5WS40264HT%2C-SID-803A%2C-SW9663606780%2C-HW9655534080-/41298",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "E1C8-2817C_20130913113434",
+    "sku": "E1C8-2817C_20130913113434",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 407 2.0 HDI, 5WS40264H-T, 5WS40264HT, SID 803A, SW9663606780, HW9655534080 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 407",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "5WS40264H-T",
+      "NUMBER PARTS": "HW9655534080",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:22:10.961Z",
+    "model": "mistral:7b",
+    "durationMs": 9998,
+    "priceIncrement": 100
+  }
+}

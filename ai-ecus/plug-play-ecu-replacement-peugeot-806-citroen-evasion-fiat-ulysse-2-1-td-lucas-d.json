@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for Peugeot 806, Citroen Evasion, Fiat Ulysse 2.1 TD - OEM Lucas DCU R04010013C - Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-806-citroen-evasion-fiat-ulysse-2-1-td-lucas-d",
+  "metaDescription": "Get a tested and reliable Plug & Play ECU Engine Controller for your Peugeot 806, Citroen Evasion, or Fiat Ulysse 2.1 TD. This OEM Lucas DCU R04010013C comes with a 6-month warranty and fast shipping.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 806, Citroen Evasion, Fiat Ulysse 2.1 TD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lucas DCU R04010013C",
+    "Peugeot 806",
+    "Citroen Evasion",
+    "Fiat Ulysse"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for Peugeot 806, Citroen Evasion, and Fiat Ulysse 2.1 TD models. It's tested, reliable, and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Lucas DCU R04010013C</li>\n      <li>Plug & Play for easy installation</li>\n      <li>Locked and ready for programming</li>\n      <li>6-month warranty</li>\n      <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>PARTS</td>\n          <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n          <td>BRAND AND MODEL</td>\n          <td>PEUGEOT 806 CITROEN EVASION FIAT ULYSSE</td>\n        </tr>\n        <tr>\n          <td>ENGINE</td>\n          <td>2.1 TD</td>\n        </tr>\n        <tr>\n          <td>YEAR</td>\n          <td>1996</td>\n        </tr>\n        <tr>\n          <td>NUMBER MANUFACTURER</td>\n          <td>LUCAS DCU R 04010013 C 80607D</td>\n        </tr>\n        <tr>\n          <td>CODE</td>\n          <td>XUDLC01</td>\n        </tr>\n        <tr>\n          <td>NUMBER PARTS</td>\n          <td>96 289 035 80</td>\n        </tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">This product ships within 24–48 hours with EU shipping and a 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Contact us for any compatibility concerns.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 806 CITROEN EVASION FIAT ULYSSE 2.1 TD LUCAS DCU R04010013C, R 04010013 C, 9628903580, 96 289 035 80 XUDLC01",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-806-CITROEN-EVASION-FIAT-ULYSSE-2.1-TD-LUCAS-DCU-R04010013C%2C-R-04010013-C%2C-9628903580%2C-96-289-035-80-XUDLC01/26787",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "C3E9-53575_20120721124941",
+    "sku": "C3E9-53575_20120721124941",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 806 CITROEN EVASION FIAT ULYSSE 2.1 TD LUCAS DCU R04010013C, R 04010013 C, 9628903580, 96 289 035 80 XUDLC01</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 806 CITROEN EVASION FIAT ULYSSE",
+      "ENGINE": "2.1 TD",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "LUCAS DCU R 04010013 C 80607D",
+      "CODE": "XUDLC01",
+      "NUMBER PARTS": "96 289 035 80",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:26:45.086Z",
+    "model": "mistral:7b",
+    "durationMs": 13947,
+    "priceIncrement": 100
+  }
+}

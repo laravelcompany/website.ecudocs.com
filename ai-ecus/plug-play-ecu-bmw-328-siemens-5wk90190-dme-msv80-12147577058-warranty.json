@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - BMW E92 328 Siemens 5WK90190 DME MSV80 (12147577058, 7577068, 7 577 068) - 6-month Warranty",
+  "slug": "plug-play-ecu-bmw-328-siemens-5wk90190-dme-msv80-12147577058-warranty",
+  "metaDescription": "OEM Tested Plug & Play ECU Replacement for BMW E92 328 Siemens 5WK90190 DME MSV80 (12147577058, 7577068, 7 577 068). Tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€700.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for BMW E92 328 Siemens 5WK90190 DME MSV80",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E92 328",
+    "Siemens 5WK90190",
+    "DME MSV80"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for BMW E92 328 Siemens 5WK90190 DME MSV80 (12147577058, 7577068, 7 577 068) is a reliable solution for your engine control unit issues. It comes with a 6-month warranty and is ready for programming.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Locked and Ready for Programming</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>BMW E92 328</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2007</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WK90190</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>12147577058, 7577068, 7 577 068</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E92 328 SIEMENS 5WK90190 DME MSV80 12147577058, 7577068, 7 577 068",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E92-328-SIEMENS-5WK90190-DME-MSV80-12147577058%2C-7577068%2C-7-577-068-/31904",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "3D43-70581",
+    "sku": "3D43-70581",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E92 328 SIEMENS 5WK90190 DME MSV80 12147577058, 7577068, 7 577 068 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E92 328",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK90190",
+      "NUMBER PARTS": "12147577058",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:45:18.517Z",
+    "model": "mistral:7b",
+    "durationMs": 16259,
+    "priceIncrement": 100
+  }
+}

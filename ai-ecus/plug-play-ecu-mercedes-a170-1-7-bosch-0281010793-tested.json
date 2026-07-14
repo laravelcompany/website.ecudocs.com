@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes A170 1.7 CDI Bosch 0281010793, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-a170-1-7-bosch-0281010793-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Mercedes A170 1.7 CDI, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes A170 1.7 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes A170",
+    "Bosch 0281010793"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is an OEM replacement for Mercedes A170 1.7 CDI, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Compatible with Mercedes A170 1.7 CDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES A170</td></tr>\n        <tr><th>ENGINE</th><td>1.7 CDI</td></tr>\n        <tr><th>YEAR</th><td>2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281010793, 0 281 010 793</td></tr>\n        <tr><th>NUMBER PARTS</th><td>CR1.2 FD 02M02</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes A170 1.7 CDI only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES A170 1.7 CDI BOSCH 0281010793, 0 281 010 793, A6681530279, A 668 153 02 79, 6681530279, ED0041 CR1.2 FD 02M02",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-A170-1.7-CDI-BOSCH-0281010793%2C-0-281-010-793%2C-A6681530279%2C-A-668-153-02-79%2C-6681530279%2C-ED0041-CR1.2-FD-02M02/26777",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1C1F-547F2_20120720152022",
+    "sku": "1C1F-547F2_20120720152022",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES A170 1.7 CDI BOSCH 0281010793, 0 281 010 793, A6681530279, A 668 153 02 79, 6681530279, ED0041 CR1.2 FD 02M02</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9a74d8aac8a8ba5b80438ca0e3562235_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_3451b822b4b10cb41ce928ce854c21ac_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES A170",
+      "ENGINE": "1.7 CDI",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "BOSCH 0281010793, 0 281 010 793",
+      "NUMBER PARTS": "CR1.2 FD 02M02",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:10:22.161Z",
+    "model": "mistral:7b",
+    "durationMs": 9895,
+    "priceIncrement": 100
+  }
+}

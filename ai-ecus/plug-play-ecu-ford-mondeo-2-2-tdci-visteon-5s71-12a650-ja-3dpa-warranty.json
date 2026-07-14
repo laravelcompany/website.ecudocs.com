@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.2 TDCI - Visteon 5S71-12A650-JA, 3DPA - Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-2-2-tdci-visteon-5s71-12a650-ja-3dpa-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford Mondeo 2.2 TDCI by Visteon (5S71-12A650-JA, 3DPA). 6-month warranty. Fast dispatch in EU.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.2 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "5S71-12A650-JA",
+    "3DPA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Ford Mondeo 2.2 TDCI by Visteon (5S71-12A650-JA, 3DPA) is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch in EU</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n<tr><th>ENGINE</th><td>2.2 TDCI</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>5S71-12A650-JA</td></tr>\n<tr><th>NUMBER PARTS</th><td>3DPA</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.2 TDCI 5S71-12A650-JA, 5S7112A650JA, 3DPA",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.2-TDCI-5S71-12A650-JA%2C-5S7112A650JA%2C-3DPA/35935",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "E3BC-427CE_20130530013912",
+    "sku": "E3BC-427CE_20130530013912",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.2 TDCI 5S71-12A650-JA, 5S7112A650JA, 3DPA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.2 TDCI",
+      "NUMBER MANUFACTURER": "5S71-12A650-JA",
+      "NUMBER PARTS": "3DPA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:46:10.351Z",
+    "model": "mistral:7b",
+    "durationMs": 11079,
+    "priceIncrement": 100
+  }
+}

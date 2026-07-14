@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Visteon 85GB-12A650-EA, EEC-IV - Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-replacement-ford-visteon-85gb-12a650-ea-eec-iv-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Ford Visteon 85GB-12A650-EA, EEC-IV. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€87.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Visteon",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford",
+    "Visteon",
+    "EEC-IV"
+  ],
+  "description": "<section class=\"overview\">This OEM tested, Plug & Play ECU replacement for Ford Visteon is a reliable solution for your engine control unit issues.</section>\n<section class=\"features\"><ul><li>OEM Tested and Certified</li><li>Plug & Play Installation</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Details</th></tr></thead><tbody><tr><td>Parts</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>Brand and Model</td><td>FORD, VISTEON 85GB-12A650-EA</td></tr><tr><td>Option Available</td><td>LOCKED / CLON</td></tr><tr><td>Warranty</td><td>6-month warranty</td></tr><tr><td>Inspection</td><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><td>Condition</td><td>USED IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Ships within 24–48 hours with fast dispatch across EU. 12-month warranty included.</section>\n<section class=\"compatibility\">Compatible with Ford vehicles equipped with the specified ECU part number. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD VISTEON 85GB-12A650-EA, 85GB12A650EA, EEC-IV",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-VISTEON-85GB-12A650-EA%2C-85GB12A650EA%2C-EEC-IV-/100743",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "FA9D-7598C_20161215170601",
+    "sku": "FA9D-7598C_20161215170601",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  FORD VISTEON 85GB-12A650-EA, 85GB12A650EA, EEC-IV </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "VISTEON 85GB-12A650-EA",
+      "OPTION AVAILABLE": "LOCKED / CLON",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:02:16.040Z",
+    "model": "mistral:7b",
+    "durationMs": 8780,
+    "priceIncrement": 100
+  }
+}

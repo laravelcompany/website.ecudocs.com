@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Clio Twingo 1.2 Siemens S110130112 C, SIRIUS 32N - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-renault-clio-twingo-1-2-siemens-s110130112-c-sirius-32",
+  "metaDescription": "Get a Plug & Play ECU Replacement for your Renault Clio Twingo 1.2 with Siemens S110130112 C, SIRIUS 32N - OEM tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Clio Twingo 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Clio Twingo",
+    "Siemens S110130112 C",
+    "SIRIUS 32N"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your Renault Clio Twingo 1.2 is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Expertly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>RENAULT CLIO TWINGO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.2</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS S110130112 C</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>SIRIUS 32N</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Compatibility may vary based on vehicle configuration and usage history.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO TWINGO 1.2 S110130112 C, 8200102371, 82J0044437, SIRIUS 32N",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-TWINGO-1.2-S110130112-C%2C-8200102371%2C-82J0044437%2C-SIRIUS-32N/35923",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "AE2D-833C4_20130530011358",
+    "sku": "AE2D-833C4_20130530011358",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO TWINGO 1.2 S110130112 C, 8200102371, 82J0044437, SIRIUS 32N</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO TWINGO",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "SIEMENS S110130112 C",
+      "NUMBER PARTS": "SIRIUS 32N",
+      "OPTION AVAILABLE": "Plug & Play / Locked",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:15:48.634Z",
+    "model": "mistral:7b",
+    "durationMs": 13480,
+    "priceIncrement": 100
+  }
+}

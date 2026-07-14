@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Mercedes W210 E250 2.5 TD - Bosch 0175459232, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w210-e250-2-5-td-bosch-0175459232-tested",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Mercedes W210 E250 2.5 TD, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Mercedes W210 E250 2.5 TD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W210 E250",
+    "Bosch 0175459232"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Mercedes W210 E250 2.5 TD is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Compatible with Mercedes W210 E250 2.5 TD</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr>\n            <th>PARTS</th>\n            <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n            <th>BRAND AND MODEL</th>\n            <td>MERCEDES W210 E250</td>\n        </tr>\n        <tr>\n            <th>ENGINE</th>\n            <td>2.5 TD</td>\n        </tr>\n        <tr>\n            <th>YEAR</th>\n            <td>1997</td>\n        </tr>\n        <tr>\n            <th>NUMBER MANUFACTURER</th>\n            <td>BOSCH 0 281 001 624</td>\n        </tr>\n        <tr>\n            <th>NUMBER PARTS</th>\n            <td>0175459232</td>\n        </tr>\n        <tr>\n            <th>OPTION AVAILABLE</th>\n            <td>Plug & Play / Locked / Ready for programming</td>\n        </tr>\n        <tr>\n            <th>INSPECTION:</th>\n            <td>Device thoroughly inspected and tested by a certified technician</td>\n        </tr>\n        <tr>\n            <th>WARRANTY :</th>\n            <td>6-month warranty</td>\n        </tr>\n        <tr>\n            <th>CONDITION</th>\n            <td>USED IN GOOD CONDITION</td>\n        </tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mercedes W210 E250 2.5 TD only. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W210 E250 2.5 TD A0175459232, 0175459232, A 017 545 92 32 BOSCH 0281001624, 0 281 001 624",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W210-E250-2.5-TD-A0175459232%2C-0175459232%2C-A-017-545-92-32-BOSCH-0281001624%2C-0-281-001-624/28301",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "603D-3575E_20120824170636",
+    "sku": "603D-3575E_20120824170636",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W210 E250 2.5 TD A0175459232, 0175459232, A 017 545 92 32 BOSCH 0281001624, 0 281 001 624</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W210 E250",
+      "ENGINE": "2.5 TD",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 624",
+      "NUMBER PARTS": "0175459232",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:29:45.986Z",
+    "model": "mistral:7b",
+    "durationMs": 13319,
+    "priceIncrement": 100
+  }
+}

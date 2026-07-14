@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi/Volkswagen 2.0 TDI - Bosch 0 281 011 672, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audivw-20-tdi-bosch-0281011672-tested",
+  "metaDescription": "Expertly tested and OEM ECU replacement for Audi/Volkswagen 2.0 TDI engines, featuring Plug & Play functionality and backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi/Volkswagen 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi VW 2.0 TDI",
+    "Bosch ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU replacement for Audi/Volkswagen 2.0 TDI engines ensures seamless integration and reliable performance, backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play functionality</li><li>OEM tested for quality assurance</li><li>Compatible with Audi/Volkswagen 2.0 TDI engines</li><li>Ready for programming</li><li>6-month warranty included</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Value</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>AUDI VOLKSWAGEN</td></tr><tr><td>ENGINE</td><td>2.0 TDI</td></tr><tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 011 672</td></tr><tr><td>NUMBER PARTS</td><td>03G 906 016 AP</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within EU in 24–48 hours. Fast dispatch guaranteed.</section>\n<section class=\"compatibility\">Please ensure proper fitment and compatibility before installation. Consult a certified technician if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI VOLKSWAGEN 2.0 TDI BOSCH 0 281 011 672, 0281011672, 03G 906 016 AP, 03G906016AP",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-VOLKSWAGEN-2.0-TDI-BOSCH-0-281-011-672%2C-0281011672%2C-03G-906-016-AP%2C-03G906016AP/111668",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4549-84979_20181228112211",
+    "sku": "4549-84979_20181228112211",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI VOLKSWAGEN 2.0 TDI BOSCH 0 281 011 672, 0281011672, 03G 906 016 AP, 03G906016AP</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI VOLKSWAGEN",
+      "ENGINE": "2.0 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 672",
+      "NUMBER PARTS": "03G 906 016 AP",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:57:08.295Z",
+    "model": "mistral:7b",
+    "durationMs": 9146,
+    "priceIncrement": 100
+  }
+}

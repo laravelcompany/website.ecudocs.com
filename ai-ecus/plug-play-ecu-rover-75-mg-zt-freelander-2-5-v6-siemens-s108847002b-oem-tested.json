@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Rover 75 MG ZT Freelander 2.5 V6 Siemens S108847002B/S108847002 OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-rover-75-mg-zt-freelander-2-5-v6-siemens-s108847002b-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Rover 75 MG ZT Freelander 2.5 V6 by Siemens (S108847002B, S108847002). Plug & Play, 6-month warranty, and fast dispatch.",
+  "price": "€70.00",
+  "excerpt": "OEM tested ECU for Rover 75 MG ZT Freelander 2.5 V6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 75 MG ZT Freelander",
+    "Siemens S108847002B",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller is a reliable replacement for your Rover 75 MG ZT Freelander 2.5 V6. It comes with a 6-month warranty and is ready for plug & play installation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested</li>\n        <li>Plug & Play</li>\n        <li>6-month warranty</li>\n        <li>Ready for programming</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>ROVER 75 MG ZT FREELANDER</td></tr>\n        <tr><th>ENGINE</th><td>2.5 V6</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S108847002B, S108847002 B</td></tr>\n        <tr><th>NUMBER PARTS</th><td>NNN100655 A0009</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 75 MG ZT FREELANDER 2.5 V6 SIEMENS S108847002B, S108847002 B, NNN100655 A0009",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-75-MG-ZT-FREELANDER-2.5-V6-SIEMENS-S108847002B%2C-S108847002-B%2C-NNN100655-A0009-/16976",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "94D0-900FB",
+    "sku": "94D0-900FB",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 75 MG ZT FREELANDER 2.5 V6 SIEMENS S108847002B, S108847002 B, NNN100655 A0009 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 75 MG ZT FREELANDER",
+      "ENGINE": "2.5 V6",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "SIEMENS S108847002B, S108847002 B",
+      "NUMBER PARTS": "NNN100655 A0009",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:33:55.845Z",
+    "model": "mistral:7b",
+    "durationMs": 10468,
+    "priceIncrement": 100
+  }
+}

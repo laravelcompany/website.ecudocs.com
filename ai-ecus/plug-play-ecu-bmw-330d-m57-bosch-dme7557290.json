@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW 330D M57 Bosch DME 7557290 (OEM Tested, Warranty Included)",
+  "slug": "plug-play-ecu-bmw-330d-m57-bosch-dme7557290",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for BMW 330D M57. This OEM Bosch DME 7557290 is ready for programming, backed by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW 330D M57",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW 330D",
+    "M57 engine",
+    "Bosch DME 7557290"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for BMW 330D M57 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>6-month Warranty</li><li>Locked / Ready for programming</li><li>Used Original in Good Condition</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Value</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>BMW</td></tr><tr><td>NUMBER MANUFACTURER</td><td>0261201106</td></tr><tr><td>NUMBER PARTS</td><td>DME 7557290</td></tr><tr><td>OPTION AVAILABLE</td><td>Locked / Ready for programming</td></tr><tr><td>WARRANTY</td><td>6-month warranty</td></tr><tr><td>INSPECTION</td><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipped within 24–48 hours with EU-wide delivery. 12-month warranty included.</section>\n<section class=\"compatibility\">This ECU Engine Controller is designed for BMW 330D M57 and requires professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW 0261201106 DME 7557290 DME7557290",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-0261201106-DME-7557290-DME7557290/132767",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B52C-5982A_20221007153807",
+    "sku": "B52C-5982A_20221007153807",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW 0261201106 DME 7557290 DME7557290</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW",
+      "NUMBER MANUFACTURER": "0261201106",
+      "NUMBER PARTS": "DME 7557290",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:03:10.426Z",
+    "model": "mistral:7b",
+    "durationMs": 9965,
+    "priceIncrement": 100
+  }
+}

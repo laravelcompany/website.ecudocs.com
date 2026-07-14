@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Opel Astra 1.3 JTD Magneti Marelli MJD 6O2.A6 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-opel-astra-13-jtd-magneti-marelli-mjd-6o2a6-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Opel Astra 1.3 JTD by Magneti Marelli, OEM tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra 1.3 JTD by Magneti Marelli",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "Magneti Marelli",
+    "MJD 6O2.A6"
+  ],
+  "description": "<section class=\"overview\">This Opel Astra 1.3 JTD ECU Engine Controller by Magneti Marelli is a reliable solution for your vehicle's engine management system, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM Tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Parts</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>Brand and Model</td>\n                <td>OPEL ASTRA 1.3 JTD MAGNETI MARELLI MJD 6O2.A6</td>\n            </tr>\n            <tr>\n                <td>Number Manufacturer</td>\n                <td>71600.094.02</td>\n            </tr>\n            <tr>\n                <td>Option Available</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>Inspection</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>Warranty</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>Condition</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific configuration of your vehicle. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA 1.3 JTD MAGNETI MARELLI MJD 6O2.A6, MJD6O2A6, MJD602A6, FGP 55202542 CW, 55202542CW, 71600.094.02, 7160009402",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-1.3-JTD-MAGNETI-MARELLI-MJD-6O2.A6%2C-MJD6O2A6%2C-MJD602A6%2C-FGP-55202542-CW%2C-55202542CW%2C-71600.094.02%2C-7160009402-/81337",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "8B22-52803_20151108135945",
+    "sku": "8B22-52803_20151108135945",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA 1.3 JTD MAGNETI MARELLI MJD 6O2.A6, MJD6O2A6, MJD602A6, FGP 55202542 CW, 55202542CW, 71600.094.02, 7160009402 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA",
+      "ENGINE": "1.3 JTD",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 6O2.A6",
+      "NUMBER PARTS": "71600.094.02",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:58:18.421Z",
+    "model": "mistral:7b",
+    "durationMs": 12209,
+    "priceIncrement": 100
+  }
+}

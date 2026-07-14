@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A6 Allroad 3.0 TDI Bosch 0 281 016 451, Warranty Included",
+  "slug": "plug-play-ecu-audi-a6-allroad-3-0-tdi-bosch-0281016451-warranted",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Audi A6 Allroad 3.0 TDI Bosch 0 281 016 451, backed by a 6-month warranty and fast dispatch.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A6 Allroad 3.0 TDI Bosch 0 281 016 451, warranty included.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6 Allroad",
+    "3.0 TDI",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller is a direct replacement for your faulty unit, ensuring seamless integration and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested and certified</li>\n        <li>Plug & Play installation</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Compatible with Audi A6 Allroad 3.0 TDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>AUDI A6 ALLROAD</td></tr>\n        <tr><th>ENGINE:</th><td>3.0 TDI</td></tr>\n        <tr><th>YEAR:</th><td>2011</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 016 451</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>4F0 907 401 E</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation to ensure proper fitment.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 ALLROAD 3.0 TDI BOSCH 0 281 016 451, 0281016451, 4F9 910 402 A, 4F9910402A, 4F0 907 401 E, 4F0907401E",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-ALLROAD-3.0-TDI-BOSCH-0-281-016-451%2C-0281016451%2C-4F9-910-402-A%2C-4F9910402A%2C-4F0-907-401-E%2C-4F0907401E-/76951",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C24B-3863E_20150720140932",
+    "sku": "C24B-3863E_20150720140932",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 ALLROAD 3.0 TDI BOSCH 0 281 016 451, 0281016451, 4F9 910 402 A, 4F9910402A, 4F0 907 401 E, 4F0907401E </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6 ALLROAD",
+      "ENGINE": "3.0 TDI",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 451",
+      "NUMBER PARTS": "4F0 907 401 E",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:39:44.223Z",
+    "model": "mistral:7b",
+    "durationMs": 11576,
+    "priceIncrement": 100
+  }
+}

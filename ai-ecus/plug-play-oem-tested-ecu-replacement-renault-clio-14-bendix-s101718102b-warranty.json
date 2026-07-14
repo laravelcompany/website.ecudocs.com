@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Renault Clio 1.4 Bendix S101718102B, 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-renault-clio-14-bendix-s101718102b-warranty",
+  "metaDescription": "Buy a Plug & Play OEM Tested ECU Replacement for Renault Clio 1.4 with 6-month warranty. Fast dispatch and expert support.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU replacement for Renault Clio 1.4 by Bendix",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Clio",
+    "Bendix",
+    "S101718102B"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Renault Clio 1.4 by Bendix is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Part</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Tested</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>RENAULT CLIO</td></tr>\n            <tr><td>ENGINE</td><td>1.4</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BENDIX S101718102 B</td></tr>\n            <tr><td>NUMBER PARTS</td><td>7700858259</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Clio 1.4. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT CLIO BENDIX S101718102 B, S101718102B, HOM7700749946, 7700858259",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-CLIO-BENDIX-S101718102-B%2C-S101718102B%2C-HOM7700749946%2C-7700858259/61262",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bendix",
+    "productCode": "DDDD-38220_20140728084348",
+    "sku": "DDDD-38220_20140728084348",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT CLIO BENDIX S101718102 B, S101718102B, HOM7700749946, 7700858259</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT CLIO",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "BENDIX S101718102 B",
+      "NUMBER PARTS": "7700858259",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:08:54.687Z",
+    "model": "mistral:7b",
+    "durationMs": 11593,
+    "priceIncrement": 100
+  }
+}

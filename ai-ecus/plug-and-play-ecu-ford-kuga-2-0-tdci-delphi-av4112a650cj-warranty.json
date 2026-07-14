@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Kuga 2.0 TDCI - Delphi AV41-12A650-CJ, Warranty Included",
+  "slug": "plug-and-play-ecu-ford-kuga-2-0-tdci-delphi-av4112a650cj-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford Kuga 2.0 TDCI by Delphi. Ships within 24–48 hours, covered by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Kuga 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Kuga",
+    "2.0 TDCI",
+    "Delphi",
+    "AV41-12A650-CJ"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a reliable solution for your Ford Kuga 2.0 TDCI engine.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD KUGA</td></tr>\n        <tr><th>ENGINE</th><td>2.0 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2011</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DELPHI 28307684</td></tr>\n        <tr><th>NUMBER PARTS</th><td>AV41-12A650-CJ</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Kuga 2.0 TDCI only. Fitment may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD KUGA 2.0 TDCI AV41-12A650-CJ, AV4112A650CJ, DELPHI 28307684",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-KUGA-2.0-TDCI-AV41-12A650-CJ%2C-AV4112A650CJ%2C-DELPHI-28307684/70954",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "FA00-478BA_20141229141459",
+    "sku": "FA00-478BA_20141229141459",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD KUGA 2.0 TDCI AV41-12A650-CJ, AV4112A650CJ, DELPHI 28307684</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD KUGA",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "DELPHI 28307684",
+      "NUMBER PARTS": "AV41-12A650-CJ",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:29:00.356Z",
+    "model": "mistral:7b",
+    "durationMs": 11235,
+    "priceIncrement": 100
+  }
+}

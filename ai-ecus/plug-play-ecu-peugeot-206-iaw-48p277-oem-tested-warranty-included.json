@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play ECU Replacement - PEUGEOT 206 IAW 48P2.77, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-peugeot-206-iaw-48p277-oem-tested-warranty-included",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for PEUGEOT 206 IAW 48P2.77, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT 206 IAW 48P2.77",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 206",
+    "IAW 48P2.77"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller for PEUGEOT 206 IAW 48P2.77 guarantees seamless engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested and certified</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Compatible with PEUGEOT 206 IAW 48P2.77</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 206</td></tr>\n        <tr><th>NUMBER PARTS</th><td>16561034</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with PEUGEOT 206 IAW 48P2.77. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 206 IAW 48P2.77, IAW48P277, 9643707380, 9644925880, 16.561.034, 16561034",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-206-IAW-48P2.77%2C-IAW48P277%2C-9643707380%2C-9644925880%2C-16.561.034%2C-16561034/54596",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "A35C-601ED_20140425130219",
+    "sku": "A35C-601ED_20140425130219",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 206 IAW 48P2.77, IAW48P277, 9643707380, 9644925880, 16.561.034, 16561034</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 206",
+      "NUMBER PARTS": "16561034",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:50:40.458Z",
+    "model": "mistral:7b",
+    "durationMs": 10428,
+    "priceIncrement": 100
+  }
+}

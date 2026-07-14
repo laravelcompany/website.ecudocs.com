@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Mazda 323 F 1.5 16V, Z509, Warranty Included",
+  "slug": "plug-play-ecu-mazda-323-f-1-5-16v-z509-warranty-included",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Mazda 323 F 1.5 16V, Z509. Shipped within 24–48 hours with a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Mazda 323 F 1.5 16V, Z509",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mazda 323 F",
+    "Z509"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is specifically designed for Mazda 323 F 1.5 16V, Z509 engines.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MAZDA 323 F</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.5 16V</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1995-1998</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>Z509 18 881B</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>Z509</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours with a 12-month warranty.</section>\n<section class=\"compatibility\">This product is specifically designed for Mazda 323 F 1.5 16V, Z509 engines. Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA 323 F 1.5 16V, Z509 18 881B, Z50918881B, E2T81671M, Z509",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-323-F-1.5-16V%2C-Z509-18-881B%2C-Z50918881B%2C-E2T81671M%2C-Z509/37577",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Mitsubishi",
+    "productCode": "650F-981EF_20130716121912",
+    "sku": "650F-981EF_20130716121912",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA 323 F 1.5 16V, Z509 18 881B, Z50918881B, E2T81671M, Z509</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_533d31aeb83ebb5def463aa07b1478fe_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_bb5ff2507f41df07c9c2a49b0194bfef_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA 323 F",
+      "ENGINE": "1.5 16V",
+      "YEAR": "1995-1998",
+      "NUMBER MANUFACTURER": "Z509 18 881B",
+      "NUMBER PARTS": "Z509",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:53:08.947Z",
+    "model": "mistral:7b",
+    "durationMs": 11411,
+    "priceIncrement": 100
+  }
+}

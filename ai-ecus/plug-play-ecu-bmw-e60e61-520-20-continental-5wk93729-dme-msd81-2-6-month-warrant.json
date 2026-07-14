@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - BMW E60/E61 520 2.0 Continental 5WK93729 DME MSD81.2 - 6-month Warranty",
+  "slug": "plug-play-ecu-bmw-e60e61-520-20-continental-5wk93729-dme-msd81-2-6-month-warrant",
+  "metaDescription": "Get a tested and certified OEM ECU replacement for your BMW E60/E61 520 2.0 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for BMW E60/E61 520 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E60/E61 520",
+    "Continental 5WK93729",
+    "DME MSD81.2"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is designed for BMW E60/E61 520 2.0 engines, offering a reliable solution to your engine control unit issues.</section>\n<section class=\"features\"><ul><li>OEM Tested and Certified</li><li>Plug & Play Installation</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Locked and Ready for Programming</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Value</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>BMW E60/E61 520</td></tr><tr><td>ENGINE</td><td>2.0</td></tr><tr><td>YEAR</td><td>2010</td></tr><tr><td>NUMBER MANUFACTURER</td><td>CONTINENTAL 5WK93729</td></tr><tr><td>NUMBER PARTS</td><td>DME MSD81.2</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility and fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E60/E61 520 2.0 CONTINENTAL 5WK93729 DME MSD81.2 7599881, 7 599 881",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E60E61-520-2.0-CONTINENTAL-5WK93729-DME-MSD81.2-7599881%2C-7-599-881/26923",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "3BC5-12629_20120726113924",
+    "sku": "3BC5-12629_20120726113924",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E60/E61 520 2.0 CONTINENTAL 5WK93729 DME MSD81.2 7599881, 7 599 881</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_cd28fe11d69936210cffd5449e449be8_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d68adc30b12cc5b2b9fef5e8dfa40e4e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E60/E61 520",
+      "ENGINE": "2.0",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "CONTINENTAL 5WK93729",
+      "NUMBER PARTS": "DME MSD81.2",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:37:17.056Z",
+    "model": "mistral:7b",
+    "durationMs": 9970,
+    "priceIncrement": 100
+  }
+}

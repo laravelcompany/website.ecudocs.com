@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta Escort 1.6 - Visteon YS6F-12A650-BC, LP4-323 - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-fiesta-escort-1-6-visteon-ys6f-12a650-bc-lp4-323-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Fiesta Escort 1.6 with 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested, Plug & Play ECU Replacement for Ford Fiesta Escort 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Visteon YS6F-12A650-BC",
+    "Ford Fiesta Escort",
+    "1.6 Engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Fiesta Escort 1.6 is a reliable solution, ensuring seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FIESTA ESCORT</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>VISTEON YS6F-12A650-BC</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>CLIP</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA ESCORT 1.6 VISTEON YS6F-12A650-BC, YS6F12A650BC, CLIP, LP4-323",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-ESCORT-1.6-VISTEON-YS6F-12A650-BC%2C-YS6F12A650BC%2C-CLIP%2C-LP4-323-/85129",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "0ECA-52755_20160126165806",
+    "sku": "0ECA-52755_20160126165806",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA ESCORT 1.6 VISTEON YS6F-12A650-BC, YS6F12A650BC, CLIP, LP4-323 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c975b25489e80b2f7997b7240750424d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b9bbd99ba70682313110576532ba236e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA ESCORT",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "VISTEON YS6F-12A650-BC",
+      "NUMBER PARTS": "CLIP",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:35:23.723Z",
+    "model": "mistral:7b",
+    "durationMs": 11980,
+    "priceIncrement": 100
+  }
+}

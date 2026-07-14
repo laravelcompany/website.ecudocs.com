@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Chrysler Dodge 2.7-3.5L OEM Tested, Warranty Included (04896210AB, HEBG2BA)",
+  "slug": "plug-play-ecu-replacement-chrysler-dodge-2-7-3-5l-oem-tested-warranty-included-0",
+  "metaDescription": "OEM tested ECU replacement for Chrysler Dodge 2.7-3.5L engines, plug & play installation, backed by a 6-month warranty.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Chrysler Dodge",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chrysler Dodge",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is designed specifically for Chrysler Dodge 2.7-3.5L engines, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM tested for reliability</li><li>6-month warranty</li><li>Used in good condition</li><li>Compatible with locked/unlocked ECUs</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>CHRYSLER DODGE</td><td>2.7-3.5L</td><td>P04896210AB</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHRYSLER DODGE 2.7-3.5L 04896210AB, P04896210AB, HEBG2BA",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHRYSLER-DODGE-2.7-3.5L-04896210AB%2C-P04896210AB%2C-HEBG2BA-/85537",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "A868-1084B_20160204211214",
+    "sku": "A868-1084B_20160204211214",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHRYSLER DODGE 2.7-3.5L 04896210AB, P04896210AB, HEBG2BA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_496af3757e70f2a277d380d4f8097e46_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_78a976b549044833a17a6a3aecd70f6d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHRYSLER DODGE",
+      "ENGINE": "2.7-3.5L",
+      "NUMBER MANUFACTURER": "P04896210AB",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:05:58.507Z",
+    "model": "mistral:7b",
+    "durationMs": 9034,
+    "priceIncrement": 100
+  }
+}

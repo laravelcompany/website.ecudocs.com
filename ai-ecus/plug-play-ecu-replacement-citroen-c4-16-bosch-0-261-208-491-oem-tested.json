@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - CITROEN C4 1.6 BOSCH 0 261 208 491, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-c4-16-bosch-0-261-208-491-oem-tested",
+  "metaDescription": "Expertly tested and OEM ECU replacement for your CITROEN C4 1.6 BOSCH. Plug & Play, warranty included, fast dispatch.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen C4 1.6 BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "CITROEN C4",
+    "BOSCH",
+    "0 261 208 491"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for your Citroen C4 1.6 BOSCH is a reliable replacement, offering Plug & Play functionality and backed by a warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>CITROEN C4</td></tr>\n        <tr><th>ENGINE:</th><td>1.6</td></tr>\n        <tr><th>YEAR:</th><td>2005</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 208 491</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>9652552380</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle year and specific ECU programming requirements. Please consult a professional technician for assistance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C4 1.6 BOSCH 0 261 208 491, 0261208491, 96 574 894 80, 9657489480, 9652552380, 1039S08286 ME7.4.5",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C4-1.6-BOSCH-0-261-208-491%2C-0261208491%2C-96-574-894-80%2C-9657489480%2C-9652552380%2C-1039S08286-ME7.4.5/17137",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5598-116A5",
+    "sku": "5598-116A5",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C4 1.6 BOSCH 0 261 208 491, 0261208491, 96 574 894 80, 9657489480, 9652552380, 1039S08286 ME7.4.5</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C4",
+      "ENGINE": "1.6",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 208 491",
+      "NUMBER PARTS": "9652552380",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:37:02.188Z",
+    "model": "mistral:7b",
+    "durationMs": 10304,
+    "priceIncrement": 100
+  }
+}

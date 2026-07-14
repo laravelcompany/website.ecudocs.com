@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - DAF 95XF Bosch 0 281 010 045, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-daf-95xf-bosch-0281010045-warranty",
+  "metaDescription": "OEM tested ECU Engine Controller for DAF 95XF, Plug & Play replacement. 6-month warranty. Fast dispatch in EU.",
+  "price": "€880.00",
+  "excerpt": "Plug & Play Bosch ECU for DAF 95XF",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "DAF 95XF",
+    "Bosch 0 281 010 045",
+    "OEM replacement"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for DAF 95XF is a reliable solution to your engine control unit issues.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play installation</li>\n<li>OEM quality part</li>\n<li>6-month warranty</li>\n<li>Fast EU dispatch</li>\n<li>Expertly tested and inspected</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>DAF 95XF</td></tr>\n<tr><td>YEAR</td><td>2002</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 010 045</td></tr>\n<tr><td>NUMBER PARTS</td><td>1365685</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DAF 95XF BOSCH 0 281 010 045, 0281010045, 1365685",
+    "price": "€800.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DAF-95XF-BOSCH-0-281-010-045%2C-0281010045%2C-1365685/75889",
+    "priceCurrency": "EUR",
+    "netPrice": "€650.41",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E495-8382B_20150701125149",
+    "sku": "E495-8382B_20150701125149",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DAF 95XF BOSCH 0 281 010 045, 0281010045, 1365685</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DAF 95XF",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 045",
+      "NUMBER PARTS": "1365685",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:58:55.245Z",
+    "model": "mistral:7b",
+    "durationMs": 10055,
+    "priceIncrement": 100
+  }
+}

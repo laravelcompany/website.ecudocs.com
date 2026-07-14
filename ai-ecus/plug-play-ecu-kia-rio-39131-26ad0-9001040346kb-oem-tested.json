@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - KIA RIO 39131-26AD0, 3913126AD0, 9001040346KB - OEM Tested - 6-month Warranty",
+  "slug": "plug-play-ecu-kia-rio-39131-26ad0-9001040346kb-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for KIA RIO. Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€325.00",
+  "excerpt": "Plug & Play OEM tested ECU replacement for KIA RIO",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA RIO",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for the KIA RIO is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>KIA RIO</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>39131-26AD0</td></tr>\n        <tr><th>NUMBER PARTS</th><td>9001040346KB</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and usage history. Always confirm fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA RIO 39131-26AD0, 3913126AD0, 9001040346KB",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-RIO-39131-26AD0%2C-3913126AD0%2C-9001040346KB/120416",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Kefico",
+    "productCode": "23DF-171DF_20200826110136",
+    "sku": "23DF-171DF_20200826110136",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA RIO 39131-26AD0, 3913126AD0, 9001040346KB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_245955_0_0/KIA-RIO-39131-26AD0%2C-3913126AD0%2C-9001040346KB.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_245956_0_0/KIA-RIO-39131-26AD0%2C-3913126AD0%2C-9001040346KB.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA RIO",
+      "NUMBER MANUFACTURER": "39131-26AD0",
+      "NUMBER PARTS": "9001040346KB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:26:30.661Z",
+    "model": "mistral:7b",
+    "durationMs": 9444,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Nissan SID310 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-nissan-sid310-oem-tested-warranty-included",
+  "metaDescription": "Find the Plug & Play ECU Replacement for your Nissan SID310. This OEM tested part comes with a warranty and is ready for immediate installation.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan SID310",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan SID310",
+    "OEM part",
+    "used ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Nissan SID310 has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Ready for Programming</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>NISSAN</td><td>A2C11170700</td><td>237105JK7B</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN SID310 A2C11170700 237105JK7B",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-SID310-A2C11170700-237105JK7B/131009",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "NISSAN",
+    "brand": "Continental",
+    "productCode": "F482-1547C_20220610135229",
+    "sku": "F482-1547C_20220610135229",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN SID310 A2C11170700  237105JK7B</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN",
+      "NUMBER MANUFACTURER": "A2C11170700",
+      "NUMBER PARTS": "237105JK7B",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:45:28.584Z",
+    "model": "mistral:7b",
+    "durationMs": 8640,
+    "priceIncrement": 100
+  }
+}

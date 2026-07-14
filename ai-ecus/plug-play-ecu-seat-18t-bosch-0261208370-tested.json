@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT 1.8 T BOSCH 0 261 208 370, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-seat-18t-bosch-0261208370-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for SEAT 1.8 T BOSCH 0 261 208 370, OEM tested and covered by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for SEAT 1.8 T BOSCH 0 261 208 370",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT 1.8 T",
+    "BOSCH 0 261 208 370"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for SEAT 1.8 T BOSCH 0 261 208 370 is tested and guaranteed to work seamlessly with your vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested for quality assurance</li>\n        <li>6-month warranty</li>\n        <li>Compatible with SEAT 1.8 T engine</li>\n        <li>BOSCH branded part number: 0 261 208 370, 06A 906 032 QN</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SEAT</td></tr>\n        <tr><th>ENGINE:</th><td>1.8 T</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 208 370</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>06A 906 032 QN</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is a direct replacement for the original part and fits your SEAT 1.8 T engine.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT 1.8 T BOSCH 0 261 208 370, 0261208370, 06A 906 032 QN, 06A906032QN",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-1.8-T-BOSCH-0-261-208-370%2C-0261208370%2C-06A-906-032-QN%2C-06A906032QN/104850",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D750-475CC_20170419154122",
+    "sku": "D750-475CC_20170419154122",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT 1.8 T BOSCH 0 261 208 370, 0261208370, 06A 906 032 QN, 06A906032QN</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT",
+      "ENGINE": "1.8 T",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 208 370",
+      "NUMBER PARTS": "06A 906 032 QN",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:43:47.725Z",
+    "model": "mistral:7b",
+    "durationMs": 9892,
+    "priceIncrement": 100
+  }
+}

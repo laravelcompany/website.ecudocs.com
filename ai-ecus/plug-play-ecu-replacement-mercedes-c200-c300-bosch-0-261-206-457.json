@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Mercedes C200, C300 - OEM Tested, Warranty Included (BOSCH 0 261 206 457, A 028 545 44 32)",
+  "slug": "plug-play-ecu-replacement-mercedes-c200-c300-bosch-0-261-206-457",
+  "metaDescription": "Buy OEM tested and Plug & Play ECU Engine Controller for Mercedes C200, C300. Covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes C200, C300",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes C200",
+    "Mercedes C300",
+    "BOSCH 0 261 206 457",
+    "A 028 545 44 32"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Mercedes C200, C300 is thoroughly inspected and tested by a certified technician. It's an OEM part designed to restore optimal engine performance.</section>\n<section class=\"features\">\n  <ul>\n    <li>Plug & Play design for easy installation</li>\n    <li>OEM tested for guaranteed fitment</li>\n    <li>6-month warranty for peace of mind</li>\n    <li>Used in good condition</li>\n    <li>Ready for programming if required</li>\n  </ul>\n</section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL:</th><td>MERCEDES C200, C300</td></tr>\n    <tr><th>YEAR:</th><td>1995-2001</td></tr>\n    <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 206 457</td></tr>\n    <tr><th>NUMBER PARTS:</th><td>A0285454432</td></tr>\n    <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n  </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mercedes C200 and C300 models from 1995 to 2001. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES C200, C300, BOSCH 0 261 206 457, BOSCH 0261206457, A 028 545 44 32, A0285454432",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-C200%2C-C300%2C-BOSCH-0-261-206-457%2C-BOSCH-0261206457%2C-A-028-545-44-32%2C-A0285454432/37686",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "75DC-149F0_20130716165448",
+    "sku": "75DC-149F0_20130716165448",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES C200, C300, BOSCH 0 261 206 457, BOSCH 0261206457, A 028 545 44 32, A0285454432</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES C200, C300",
+      "YEAR": "1995-2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 457",
+      "NUMBER PARTS": "A0285454432",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:38:27.076Z",
+    "model": "mistral:7b",
+    "durationMs": 12047,
+    "priceIncrement": 100
+  }
+}

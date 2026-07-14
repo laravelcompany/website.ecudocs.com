@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Mazda Visteon 5M51-12A650-RD, 5M5112A650RD, 4CJD - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-mazda-visteon-5m51-12a650-rd-5m5112a650rd-4cjd",
+  "metaDescription": "OEM tested ECU Replacement for Ford Mazda Visteon 5M51-12A650-RD, 5M5112A650RD, 4CJD. Plug & Play, warranty included.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU Replacement for Ford Mazda Visteon",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mazda",
+    "Visteon",
+    "5M51-12A650-RD",
+    "4CJD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Replacement for Ford Mazda Visteon is a reliable solution, ensuring seamless engine control.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Thoroughly Inspected and Tested by a Certified Technician</li></ul></section>\n<section class=\"specs\"><table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FORD MAZDA</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>VISTEON 5M51-12A650-RD</td></tr>\n<tr><th>NUMBER PARTS</th><td>4CJD</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MAZDA VISTEON 5M51-12A650-RD, 5M5112A650RD, 4CJD",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MAZDA-VISTEON-5M51-12A650-RD%2C-5M5112A650RD%2C-4CJD-/83725",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "1BB8-1875C_20151228184715",
+    "sku": "1BB8-1875C_20151228184715",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MAZDA VISTEON 5M51-12A650-RD, 5M5112A650RD, 4CJD </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e6394979d58f49eb68bf5768d55fdb05_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_baaa7dc2d40c8f91f81034540d955890_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MAZDA",
+      "NUMBER MANUFACTURER": "VISTEON 5M51-12A650-RD",
+      "NUMBER PARTS": "4CJD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:30:20.793Z",
+    "model": "mistral:7b",
+    "durationMs": 10058,
+    "priceIncrement": 100
+  }
+}

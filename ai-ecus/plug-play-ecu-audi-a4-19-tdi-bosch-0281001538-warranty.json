@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Audi A4 1.9 TDI - Bosch 0 281 001 538/539, 28SA2952 - Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-19-tdi-bosch-0281001538-warranty",
+  "metaDescription": "Expertly tested and OEM Bosch ECU Engine Controller for Audi A4 1.9 TDI, Plug & Play replacement with a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A4 1.9 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Bosch",
+    "0281001538"
+  ],
+  "description": "<section class=\"overview\">This Bosch ECU Engine Controller for Audi A4 1.9 TDI has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">...(technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility and fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 1.9 TDI 028906021FL, 028 906 021 FL, BOSCH 0 281 001 538/539, 0281001538, 0281001539, 28SA2952",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-1.9-TDI-028906021FL%2C-028-906-021-FL%2C-BOSCH-0-281-001-538539%2C-0281001538%2C-0281001539%2C-28SA2952-/16288",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "91B8-84698",
+    "sku": "91B8-84698",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 1.9 TDI 028906021FL, 028 906 021 FL, BOSCH 0 281 001 538/539, 0281001538, 0281001539, 28SA2952 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 538/539",
+      "NUMBER PARTS": "28SA2952",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:00:14.715Z",
+    "model": "mistral:7b",
+    "durationMs": 6299,
+    "priceIncrement": 100
+  }
+}

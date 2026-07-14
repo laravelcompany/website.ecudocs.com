@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Focus 1.8 TDCI - Siemens 3ANL, 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-replacement-ford-focus-1-8-tdci-siemens-3anl-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Ford Focus 1.8 TDCI by Siemens. Guaranteed fitment, 6-month warranty, and fast shipping.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Focus 1.8 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Siemens",
+    "1.8 TDCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Focus 1.8 TDCI by Siemens ensures seamless engine control and improved performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Improved Engine Control</li>\n        <li>Fast Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FOCUS</td></tr>\n        <tr><th>ENGINE</th><td>1.8 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2005-2007</td></tr>\n        <tr><th>NUMBER PARTS</th><td>3ANL</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Ford Focus 1.8 TDCI models from 2005 to 2007.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.8 TDCI 4M51-12A650-JL, 4M5112A650JL, 5WS40303K-T, 5WS40303KT, 3ANL",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.8-TDCI-4M51-12A650-JL%2C-4M5112A650JL%2C-5WS40303K-T%2C-5WS40303KT%2C-3ANL-/56695",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "11A8-46266_20140522184054",
+    "sku": "11A8-46266_20140522184054",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  FORD FOCUS 1.8 TDCI 4M51-12A650-JL, 4M5112A650JL, 5WS40303K-T, 5WS40303KT, 3ANL </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.8 TDCI",
+      "YEAR": "2005-2007",
+      "NUMBER PARTS": "3ANL",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:57:38.990Z",
+    "model": "mistral:7b",
+    "durationMs": 9853,
+    "priceIncrement": 100
+  }
+}

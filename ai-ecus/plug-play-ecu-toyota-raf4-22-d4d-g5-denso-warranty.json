@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Toyota RAF4 2.2 D4D G5 Denso - 6-month Warranty",
+  "slug": "plug-play-ecu-toyota-raf4-22-d4d-g5-denso-warranty",
+  "metaDescription": "Buy OEM tested, Plug & Play ECU Engine Controller for Toyota RAF4 2.2 D4D G5 by Denso. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Toyota RAF4 2.2 D4D G5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota RAF4",
+    "2.2 D4D G5",
+    "Denso",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Toyota RAF4 2.2 D4D G5 is tested and OEM approved, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Approved</li>\n<li>Plug & Play Installation</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Locked/Unlocked Option Available</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr>\n<th>Specification</th>\n<th>Value</th>\n</tr>\n</thead>\n<tbody>\n<tr><td>Parts</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>Brand and Model</td><td>TOYOTA RAF4</td></tr>\n<tr><td>Engine</td><td>2.2 D4D G5</td></tr>\n<tr><td>Number Manufacturer</td><td>Denso 275900-5200</td></tr>\n<tr><td>Number Parts</td><td>89661-42J12</td></tr>\n<tr><td>Option Available</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>Warranty</td><td>6-month warranty</td></tr>\n<tr><td>Inspection</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>Condition</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Toyota RAF4 2.2 D4D G5. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA RAF4 2.2 D4D G5 Denso 275900-5200, 2759005200, 89661-42J12, 8966142J12",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-RAF4-2.2-D4D-G5-Denso-275900-5200%2C-2759005200%2C-89661-42J12%2C-8966142J12-/94743",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "AB70-87122_20160822143012",
+    "sku": "AB70-87122_20160822143012",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA RAF4 2.2 D4D G5 Denso 275900-5200, 2759005200, 89661-42J12, 8966142J12 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA RAF4",
+      "ENGINE": "2.2 D4D G5",
+      "NUMBER MANUFACTURER": "Denso 275900-5200",
+      "NUMBER PARTS": "89661-42J12",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:30:22.699Z",
+    "model": "mistral:7b",
+    "durationMs": 10960,
+    "priceIncrement": 100
+  }
+}

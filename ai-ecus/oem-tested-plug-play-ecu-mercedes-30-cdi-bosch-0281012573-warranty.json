@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Mercedes 3.0 CDI - Bosch 0281012573, Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-mercedes-30-cdi-bosch-0281012573-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Mercedes 3.0 CDI with Bosch 0281012573, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€540.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Mercedes 3.0 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes 3.0 CDI",
+    "Bosch 0281012573"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Mercedes 3.0 CDI is a reliable solution to ensure smooth engine operation.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play for Easy Installation</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Thoroughly Inspected and Tested</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MERCEDES</td></tr>\n<tr><td>ENGINE</td><td>3.0 CDI</td></tr>\n<tr><td>YEAR</td><td>2005</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH  0 281 012 573</td></tr>\n<tr><td>NUMBER PARTS</td><td>6421507979</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify fitment before purchase. This ECU is compatible with Mercedes 3.0 CDI models only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES 3.0 CDI A6421507979, 6421507979, A 642 150 79 79 BOSCH 0281012573, 0 281 012 573",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-3.0-CDI-A6421507979%2C-6421507979%2C-A-642-150-79-79-BOSCH-0281012573%2C-0-281-012-573/27107",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5148-27040_20120730162832",
+    "sku": "5148-27040_20120730162832",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES 3.0 CDI A6421507979, 6421507979, A 642 150 79 79 BOSCH 0281012573, 0 281 012 573</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "ENGINE": "3.0 CDI",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH  0 281 012 573",
+      "NUMBER PARTS": "6421507979",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:07:41.174Z",
+    "model": "mistral:7b",
+    "durationMs": 11427,
+    "priceIncrement": 100
+  }
+}

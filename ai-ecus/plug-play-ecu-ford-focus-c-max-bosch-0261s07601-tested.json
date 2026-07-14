@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Focus C-MAX BOSCH 0 261 S07 601 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-focus-c-max-bosch-0261s07601-tested",
+  "metaDescription": "Expertly tested and warranty-backed ECU replacement for Ford Focus C-MAX BOSCH 0 261 S07 601. Fast dispatch within EU.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Focus C-MAX BOSCH 0 261 S07 601",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus C-MAX",
+    "BOSCH 0 261 S07 601"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU engine controller is a reliable replacement for your Ford Focus C-MAX. Trust our expert technicians to ensure seamless integration.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design</li>\n        <li>OEM Tested and Certified</li>\n        <li>6-month warranty</li>\n        <li>Fast dispatch within EU</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD FOCUS C-MAX</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 S07 601</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>FoMoCo CV6A-12B684-BA</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS C-MAX BOSCH 0 261 S07 601, 0261S07601, FoMoCo CV61-12A650-YA, CV6112A650YA, CV6A-12B684-BA, CV6A12B684BA",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-C-MAX-BOSCH-0-261-S07-601%2C-0261S07601%2C-FoMoCo-CV61-12A650-YA%2C-CV6112A650YA%2C-CV6A-12B684-BA%2C-CV6A12B684BA/71037",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "1FDF-9899D_20141229220303",
+    "sku": "1FDF-9899D_20141229220303",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS C-MAX BOSCH 0 261 S07 601, 0261S07601, FoMoCo CV61-12A650-YA, CV6112A650YA, CV6A-12B684-BA, CV6A12B684BA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS C-MAX",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S07 601",
+      "NUMBER PARTS": "FoMoCo CV6A-12B684-BA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:12:28.460Z",
+    "model": "mistral:7b",
+    "durationMs": 10466,
+    "priceIncrement": 100
+  }
+}

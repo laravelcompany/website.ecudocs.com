@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Citroen Peugeot 1.8 D Magneti Marelli G6.10 0A01, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-peugeot-1-8-d-magneti-marelli-g6-10-0a01",
+  "metaDescription": "OEM tested ECU replacement for Citroen Peugeot 1.8 D Magneti Marelli G6.10 0A01, backed by a 6-month warranty and ready for fast dispatch.",
+  "price": "€80.00",
+  "excerpt": "OEM tested ECU replacement for Citroen Peugeot 1.8 D Magneti Marelli G6.10 0A01",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "Magneti Marelli",
+    "G6.10"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Citroen Peugeot 1.8 D Magneti Marelli G6.10 0A01 is a reliable solution to ensure smooth engine operation.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>CITROEN PEUGEOT</td></tr>\n<tr><th>ENGINE</th><td>1.8 D</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI G6.10 0A01</td></tr>\n<tr><th>NUMBER PARTS</th><td>9611159580</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen Peugeot 1.8 D Magneti Marelli G6.10 0A01. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.8 D MAGNETI MARELLI G6.10 0A01, G6100A01, 16076.004, 16076004, 9611159580",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-1.8-D-MAGNETI-MARELLI-G6.10-0A01%2C-G6100A01%2C-16076.004%2C-16076004%2C-9611159580/72741",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "8830-933E3_20150214135749",
+    "sku": "8830-933E3_20150214135749",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.8 D MAGNETI MARELLI G6.10 0A01, G6100A01, 16076.004, 16076004, 9611159580</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "1.8 D",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI G6.10 0A01",
+      "NUMBER PARTS": "9611159580",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:02:40.036Z",
+    "model": "mistral:7b",
+    "durationMs": 11239,
+    "priceIncrement": 100
+  }
+}

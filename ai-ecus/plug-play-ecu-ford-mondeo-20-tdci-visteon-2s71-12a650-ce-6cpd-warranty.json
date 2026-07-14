@@ -1,0 +1,56 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.0 TDCI (2S71-12A650-CE, 6CPD) - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-mondeo-20-tdci-visteon-2s71-12a650-ce-6cpd-warranty",
+  "metaDescription": "Buy OEM tested, Plug & Play ECU replacement for Ford Mondeo 2.0 TDCI (2S71-12A650-CE, 6CPD) with a 6-month warranty. Fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "2.0 TDCI",
+    "Visteon",
+    "2S71-12A650-CE",
+    "6CPD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Mondeo 2.0 TDCI (2S71-12A650-CE, 6CPD) ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM tested for reliable performance</li>\n      <li>Plug & Play for easy installation</li>\n      <li>Compatible with Ford Mondeo 2.0 TDCI</li>\n      <li>6-month warranty included</li>\n      <li>Used in good condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th></th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>PARTS</td>\n          <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n          <td>BRAND AND MODEL</td>\n          <td>FORD MONDEO</td>\n        </tr>\n        <tr>\n          <td>ENGINE</td>\n          <td>2.0 TDCI</td>\n        </tr>\n        <tr>\n          <td>YEAR</td>\n          <td>2003</td>\n        </tr>\n        <tr>\n          <td>NUMBER MANUFACTURER</td>\n          <td>VISTEON 2S71-12A650-CE</td>\n        </tr>\n        <tr>\n          <td>NUMBER PARTS</td>\n          <td>6CPD</td>\n        </tr>\n        <tr>\n          <td>OPTION AVAILABLE</td>\n          <td>Locked / Ready for programming / complet</td>\n        </tr>\n        <tr>\n          <td>WARRANTY :</td>\n          <td>6-month warranty</td>\n        </tr>\n        <tr>\n          <td>INSPECTION:</td>\n          <td>Device thoroughly inspected and tested by a certified technician</td>\n        </tr>\n        <tr>\n          <td>CONDITION</td>\n          <td>USED ORYGINAL IN GOOD CONDITION</td>\n        </tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Mondeo 2.0 TDCI (2S71-12A650-CE, 6CPD). Please ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO VISTEON 2S71-12A650-CE, 2S7112A650CE, 6CPD",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-VISTEON-2S71-12A650-CE%2C-2S7112A650CE%2C-6CPD/60108",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "8688-509B4_20140711093504",
+    "sku": "8688-509B4_20140711093504",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO VISTEON 2S71-12A650-CE, 2S7112A650CE, 6CPD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_53428c36a79d8b54eccde5516ae688cc_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_39f2a9b15a97aed4e39362e62d504b7c_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "VISTEON 2S71-12A650-CE",
+      "NUMBER PARTS": "6CPD",
+      "OPTION AVAILABLE": "Locked / Ready for programming / complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:50:28.909Z",
+    "model": "mistral:7b",
+    "durationMs": 14583,
+    "priceIncrement": 100
+  }
+}

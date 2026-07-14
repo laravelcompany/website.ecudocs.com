@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Ducato 2.3 HPI Magneti Marelli MJD 8F3.B1, 55245026 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-fiat-ducato-2-3-hpi-magneti-marelli-mjd-8f3b1-55245026-tested",
+  "metaDescription": "Buy this Plug & Play ECU Engine Controller for Fiat Ducato 2.3 HPI, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Ducato 2.3 HPI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Ducato",
+    "Magneti Marelli",
+    "MJD 8F3.B1",
+    "55245026"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and inspected ECU Engine Controller for Fiat Ducato 2.3 HPI is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested and Inspected</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT DUCATO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.3 HPI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI MJD 8F3.B1</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>55245026</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT DUCATO 2.3 HPI MAGNETI MARELLI MJD 8F3.B1, MJD8F3B1, 55245026",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-DUCATO-2.3-HPI-MAGNETI-MARELLI-MJD-8F3.B1%2C-MJD8F3B1%2C-55245026/72075",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "44F2-44080_20150130161237",
+    "sku": "44F2-44080_20150130161237",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT DUCATO 2.3 HPI MAGNETI MARELLI MJD 8F3.B1, MJD8F3B1, 55245026</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT DUCATO",
+      "ENGINE": "2.3 HPI",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 8F3.B1",
+      "NUMBER PARTS": "55245026",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:40:25.113Z",
+    "model": "mistral:7b",
+    "durationMs": 10980,
+    "priceIncrement": 100
+  }
+}

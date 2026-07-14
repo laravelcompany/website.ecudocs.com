@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford - 2C1A-9F954-BC - Delphi",
+  "slug": "plug-play-ecu-ford-2c1a-9f954-bc-delphi",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Ford, model 2C1A-9F954-BC by Delphi. 6-month warranty. Fast dispatch within EU.",
+  "price": "€800.00",
+  "excerpt": "Certified Plug & Play ECU Replacement for Ford",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford ECU",
+    "Delphi ECU",
+    "OEM Tested"
+  ],
+  "description": "<section class=\"overview\">This Delphi ECU Engine Controller is a tested and certified replacement for your Ford vehicle. It offers a Plug & Play installation process, ensuring a seamless integration with your engine management system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used OEM Part in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>2C1A-9F954-BC</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility with your specific vehicle model before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 2C1A-9F954-BC 2C1A9F954BC",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-2C1A-9F954-BC-2C1A9F954BC/135262",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "4F41-7323F_20230615134157",
+    "sku": "4F41-7323F_20230615134157",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 2C1A-9F954-BC 2C1A9F954BC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "2C1A-9F954-BC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:51:38.931Z",
+    "model": "mistral:7b",
+    "durationMs": 9380,
+    "priceIncrement": 100
+  }
+}

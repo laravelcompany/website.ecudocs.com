@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Toyota - 89661-0F191, 896610F191, MB275400-1090, Warranty Included",
+  "slug": "plug-play-ecu-toyota-oem-tested-warranty-included",
+  "metaDescription": "Expertly tested and certified ECU replacement for Toyota. Plug & Play, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Toyota",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota ECU",
+    "OEM part numbers",
+    "MB275400-1090"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Toyota is guaranteed to restore optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Compatible with multiple Toyota models</li>\n        <li>6-month warranty included</li>\n        <li>Thoroughly inspected and tested by certified technicians</li>\n        <li>Ready for immediate installation (Plug & Play)</li>\n        <li>Original OEM part numbers ensure perfect fitment</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>TOYOTA</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>89661-0F191</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>MB275400-1090</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with multiple Toyota models but fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA 89661-0F191, 896610F191, MB275400-1090, MB2754001090",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-89661-0F191%2C-896610F191%2C-MB275400-1090%2C-MB2754001090/130536",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "BBBD-38182_20220525144829",
+    "sku": "BBBD-38182_20220525144829",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA 89661-0F191, 896610F191, MB275400-1090, MB2754001090</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_270042_0_0/TOYOTA-89661-0F191%2C-896610F191%2C-MB275400-1090%2C-MB2754001090.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_270043_0_0/TOYOTA-89661-0F191%2C-896610F191%2C-MB275400-1090%2C-MB2754001090.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA",
+      "NUMBER MANUFACTURER": "89661-0F191",
+      "NUMBER PARTS": "MB275400-1090",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:08:53.602Z",
+    "model": "mistral:7b",
+    "durationMs": 12110,
+    "priceIncrement": 100
+  }
+}

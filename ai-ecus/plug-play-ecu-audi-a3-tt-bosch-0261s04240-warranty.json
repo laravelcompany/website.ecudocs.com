@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Audi A3, TT - OEM Tested Bosch 0 261 S04 240 (8P0 907 115 AE, MED17.5) - Warranty Included",
+  "slug": "plug-play-ecu-audi-a3-tt-bosch-0261s04240-warranty",
+  "metaDescription": "Buy OEM tested, Plug & Play ECU Engine Controller for Audi A3, TT. Bosch 0 261 S04 240 (8P0 907 115 AE, MED17.5). 6-month warranty. Ships within 24–48 hours.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU for Audi A3, TT - OEM Tested",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "Audi TT",
+    "Bosch 0 261 S04 240",
+    "8P0 907 115 AE",
+    "MED17.5"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Audi A3 and TT is OEM tested, ensuring optimal performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, OEM Original in Good Condition</li>\n        <li>Inspection by Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>AUDI A3, TT</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 S04 240</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>MED17.5</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A3 and TT models. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3, TT, BOSCH 0 261 S04 240, 0261S04240, 8P0 907 115 AE, 8P0907115AE, MED17.5",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3%2C-TT%2C-BOSCH-0-261-S04-240%2C-0261S04240%2C-8P0-907-115-AE%2C-8P0907115AE%2C-MED17.5/41985",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D248-82625",
+    "sku": "D248-82625",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A3, TT, BOSCH 0 261 S04 240, 0261S04240, 8P0 907 115 AE, 8P0907115AE, MED17.5</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3, TT",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S04 240",
+      "NUMBER PARTS": "MED17.5",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:55:36.135Z",
+    "model": "mistral:7b",
+    "durationMs": 9905,
+    "priceIncrement": 100
+  }
+}

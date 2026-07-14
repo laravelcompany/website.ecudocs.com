@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested ECU Replacement Renault Twingo 1.2, Plug & Play, Warranty Included - Sagem 7700867277",
+  "slug": "plug-play-ecu-replacement-renault-twingo-12-sagem-7700867277-warranty",
+  "metaDescription": "Buy OEM Tested ECU Engine Controller for Renault Twingo 1.2 by Sagem (PLF 7700104484, HOM 7700867277). Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested ECU Replacement for Renault Twingo 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Twingo",
+    "Sagem",
+    "7700867277"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested ECU Engine Controller for Renault Twingo 1.2 by Sagem is thoroughly inspected, tested, and covered by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li><li>EU Shipping</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>RENAULT TWINGO</td></tr>\n    <tr><th>ENGINE</th><td>1.2</td></tr>\n    <tr><th>YEAR</th><td>1996-2000</td></tr>\n    <tr><th>NUMBER PARTS</th><td>7700867277</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT TWINGO 1.2, PLF 7700104484, HOM 7700867277",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-TWINGO-1.2%2C-PLF-7700104484%2C-HOM-7700867277-/55833",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Sagem",
+    "productCode": "FC4F-158DE_20140512144047",
+    "sku": "FC4F-158DE_20140512144047",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  RENAULT TWINGO 1.2, PLF 7700104484, HOM 7700867277 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_d8ff77f806d74fba27c4b0eaf3e9ab05_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_50999661e5430c8edf79f5097da4473d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT TWINGO",
+      "ENGINE": "1.2",
+      "YEAR": "1996-2000",
+      "NUMBER PARTS": "7700867277",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:19:44.527Z",
+    "model": "mistral:7b",
+    "durationMs": 10012,
+    "priceIncrement": 100
+  }
+}

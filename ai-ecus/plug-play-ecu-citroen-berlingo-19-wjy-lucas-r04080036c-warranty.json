@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen Berlingo 1.9 WJY Lucas R04080036C - 6-month Warranty",
+  "slug": "plug-play-ecu-citroen-berlingo-19-wjy-lucas-r04080036c-warranty",
+  "metaDescription": "Buy the OEM Tested Plug & Play ECU Engine Controller for Citroen Berlingo 1.9 WJY Lucas R04080036C with a 6-month warranty. Fast dispatch and EU shipping.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen Berlingo 1.9 WJY",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Berlingo",
+    "1.9 WJY",
+    "Lucas R04080036C"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Citroen Berlingo 1.9 WJY Lucas R04080036C is a reliable replacement part, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Device Thoroughly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN BERLINGO</td></tr>\n        <tr><th>ENGINE</th><td>1.9 WJY</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>LUCAS R04080036C</td></tr>\n        <tr><th>NUMBER PARTS</th><td>SOFT 9655574380</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN BERLINGO 1.9 WJY LUCAS R04080036C, PSA 9650359580, SOFT 9655574380, DCN2, DWLC12",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-BERLINGO-1.9-WJY-LUCAS-R04080036C%2C-PSA-9650359580%2C-SOFT-9655574380%2C-DCN2%2C-DWLC12-/101161",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "DCCA-839B9_20161228115505",
+    "sku": "DCCA-839B9_20161228115505",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN BERLINGO 1.9 WJY LUCAS R04080036C, PSA 9650359580, SOFT 9655574380, DCN2, DWLC12 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_49d7b0555eb9b56fc694b6ab480c51c1_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d04335a3a3f6a8c9cfe18ddc2ecca66a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN BERLINGO",
+      "ENGINE": "1.9 WJY",
+      "NUMBER MANUFACTURER": "LUCAS R04080036C",
+      "NUMBER PARTS": "SOFT 9655574380",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:21:00.648Z",
+    "model": "mistral:7b",
+    "durationMs": 9823,
+    "priceIncrement": 100
+  }
+}

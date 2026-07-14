@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot 106, Citroen AX 1.1 - Bosch 0 280 000 724 - Warranty Included",
+  "slug": "plug-play-ecu-peugeot-106-citroen-ax-11-bosch-0280000724-warranty",
+  "metaDescription": "OEM Tested Plug & Play ECU Engine Controller for Peugeot 106, Citroen AX 1.1 - Bosch 0 280 000 724. 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Peugeot 106, Citroen AX 1.1 - Bosch 0 280 000 724",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 280 000 724",
+    "Peugeot 106",
+    "Citroen AX"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is specifically designed for Peugeot 106 and Citroen AX 1.1 models, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Details</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>PARTS</td>\n          <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n          <td>BRAND AND MODEL</td>\n          <td>PEUGEOT 106, CITROEN AX</td>\n        </tr>\n        <tr>\n          <td>ENGINE</td>\n          <td>1.1</td>\n        </tr>\n        <tr>\n          <td>NUMBER PARTS</td>\n          <td>BOSCH 0 280 000 724</td>\n        </tr>\n        <tr>\n          <td>WARRANTY :</td>\n          <td>6-month warranty</td>\n        </tr>\n        <tr>\n          <td>INSPECTION:</td>\n          <td>Device thoroughly inspected and tested by a certified technician</td>\n        </tr>\n        <tr>\n          <td>CONDITION</td>\n          <td>USED ORYGINAL IN GOOD CONDITION</td>\n        </tr>\n      </tbody>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 12-month.</section>\n<section class=\"compatibility\">Compatible with Peugeot 106 and Citroen AX 1.1 models only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 106, CITROEN AX 1.1, BOSCH 0 280 000 724, 0280000724",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-106%2C-CITROEN-AX-1.1%2C-BOSCH-0-280-000-724%2C-0280000724/53094",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8303-1145C_20140331135620",
+    "sku": "8303-1145C_20140331135620",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 106, CITROEN AX 1.1, BOSCH 0 280 000 724, 0280000724</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 106, CITROEN AX",
+      "ENGINE": "1.1",
+      "NUMBER PARTS": "BOSCH 0 280 000 724",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:35:36.142Z",
+    "model": "mistral:7b",
+    "durationMs": 12198,
+    "priceIncrement": 100
+  }
+}

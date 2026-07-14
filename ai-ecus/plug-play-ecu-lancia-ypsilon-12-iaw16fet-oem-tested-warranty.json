@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Lancia Ypsilon 1.2 IAW16FET, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-lancia-ypsilon-12-iaw16fet-oem-tested-warranty",
+  "metaDescription": "Expertly tested and guaranteed ECU Engine Controller for Lancia Ypsilon 1.2 IAW16FET. Plug & Play, OEM Tested, and backed by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Lancia Ypsilon 1.2 IAW16FET",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Ypsilon",
+    "IAW16FET"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller is designed for Lancia Ypsilon 1.2 IAW16FET.</section>\n<section class=\"features\"><ul><li>Tested and inspected by a certified technician</li><li>6-month warranty</li><li>Compatible with Speedometer Instrument Cluster</li><li>Condition: Used, Original in Good Condition</li><li>Option Available: Plug & Play / Locked / Ready for programming</li></ul></section>\n<section class=\"specs\"><table><tbody><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER</td></tr><tr><th>BRAND AND MODEL</th><td>LANCIA Y YPSILON</td></tr><tr><th>ENGINE</th><td>1.2</td></tr><tr><th>YEAR</th><td>1998</td></tr><tr><th>NUMBER PARTS</th><td>46545155</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific ECU programming requirements. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA Y YPSILON 1.2 IAW16FET, IAW16FET6A37-2E, 61602.108.02, 6160210802, 46545155",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-Y-YPSILON-1.2-IAW16FET%2C-IAW16FET6A37-2E%2C-61602.108.02%2C-6160210802%2C-46545155/49970",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "F134-475C5",
+    "sku": "F134-475C5",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA Y YPSILON 1.2 IAW16FET, IAW16FET6A37-2E, 61602.108.02, 6160210802, 46545155</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER",
+      "BRAND AND MODEL": "LANCIA Y YPSILON",
+      "ENGINE": "1.2",
+      "YEAR": "1998",
+      "NUMBER PARTS": "46545155",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:38:03.463Z",
+    "model": "mistral:7b",
+    "durationMs": 9916,
+    "priceIncrement": 100
+  }
+}

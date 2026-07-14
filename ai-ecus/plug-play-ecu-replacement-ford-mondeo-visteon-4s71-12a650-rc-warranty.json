@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Mondeo Visteon 4S71-12A650-RC, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-ford-mondeo-visteon-4s71-12a650-rc-warranty",
+  "metaDescription": "OEM tested ECU replacement for Ford Mondeo Visteon 4S71-12A650-RC. Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo Visteon",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "4S71-12A650-RC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Ford Mondeo Visteon 4S71-12A650-RC is a reliable solution for your engine control unit issues, backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Fast Dispatch in EU</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD MONDEO</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>VISTEON 4S71-12A650-RC</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8AWC, LBO-113</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo models equipped with this specific Visteon ECU. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO VISTEON 4S71-12A650-RC, 4S7112A650RC, 8AWC, LBO-113",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-VISTEON-4S71-12A650-RC%2C-4S7112A650RC%2C-8AWC%2C-LBO-113/119363",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "4949-485C6",
+    "sku": "4949-485C6",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO VISTEON 4S71-12A650-RC, 4S7112A650RC, 8AWC, LBO-113</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_96f6dff421d7c25ff817854f32b9d946_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6b7dbeb258681fbcf56db3076fd159da_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "NUMBER MANUFACTURER": "VISTEON 4S71-12A650-RC",
+      "NUMBER PARTS": "8AWC, LBO-113",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:50:51.023Z",
+    "model": "mistral:7b",
+    "durationMs": 10156,
+    "priceIncrement": 100
+  }
+}

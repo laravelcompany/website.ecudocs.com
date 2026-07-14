@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Rover MKC 104030, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-rover-mkc104030-oryginal-oem-tested-warranty",
+  "metaDescription": "Buy the tested and reliable ECU ENGINE CONTROLLER ROVER MKC 104030, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Rover MKC 104030",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover MKC 104030",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Oryginal ECU ENGINE CONTROLLER for Rover MKC 104030 has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with 1.6 L Engine (1997-2001)</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>ROVER MKC104030</td></tr>\n        <tr><th>ENGINE</th><td>1.6 L</td></tr>\n        <tr><th>YEAR</th><td>1997-2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MKC104030</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER MKC 104030, MKC104030",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-MKC-104030%2C-MKC104030/62528",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "7E70-51910_20140807151108",
+    "sku": "7E70-51910_20140807151108",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER MKC 104030, MKC104030</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER",
+      "ENGINE": "1.6 L",
+      "YEAR": "1997-2001",
+      "NUMBER MANUFACTURER": "MKC104030",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:36:10.046Z",
+    "model": "mistral:7b",
+    "durationMs": 10320,
+    "priceIncrement": 100
+  }
+}

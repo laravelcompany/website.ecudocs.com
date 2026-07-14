@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - VW Volkswagen Caddy 1.4 Bosch 0 261 206 651, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-vw-volkswagen-caddy-14-bosch-0261206651-tested",
+  "metaDescription": "OEM ECU Engine Controller for VW Volkswagen Caddy 1.4, Plug & Play, OEM Tested, 6-month Warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for VW Volkswagen Caddy 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "VW Volkswagen Caddy",
+    "Bosch 0 261 206 651"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller is a tested replacement for your VW Volkswagen Caddy 1.4, ensuring optimal performance and reliability.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">...(technical specifications from technicalData)</section>\n<section class=\"shipping\">Fast dispatch within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with VW Volkswagen Caddy 1.4. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT, VW VOLKSWAGEN CADDY 1.4, BOSCH 0 261 206 651, 0261206651, 6K0 906 032 M, 6K0906032M",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT%2C-VW-VOLKSWAGEN-CADDY-1.4%2C-BOSCH-0-261-206-651%2C-0261206651%2C-6K0-906-032-M%2C-6K0906032M/41726",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "28A7-66036",
+    "sku": "28A7-66036",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT, VW VOLKSWAGEN CADDY 1.4, BOSCH 0 261 206 651, 0261206651, 6K0 906 032 M, 6K0906032M</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT, VW VOLKSWAGEN CADDY",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 651",
+      "NUMBER PARTS": "6K0 906 032 M",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:16:04.937Z",
+    "model": "mistral:7b",
+    "durationMs": 6497,
+    "priceIncrement": 100
+  }
+}

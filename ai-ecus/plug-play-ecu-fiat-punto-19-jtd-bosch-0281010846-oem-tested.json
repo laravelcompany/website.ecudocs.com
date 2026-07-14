@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Punto 1.9 JTD Bosch 0 281 010 846, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-punto-19-jtd-bosch-0281010846-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Fiat Punto 1.9 JTD Bosch 0 281 010 846, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€87.00",
+  "excerpt": "Plug & Play ECU for Fiat Punto 1.9 JTD Bosch",
+  "tags": [
+    "ECU repair",
+    "Fiat Punto",
+    "1.9 JTD",
+    "Bosch",
+    "0 281 010 846"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Punto 1.9 JTD Bosch 0 281 010 846 offers a Plug & Play solution, backed by a warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch within EU</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT PUNTO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 JTD</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 010 846</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>46815965</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PUNTO 1.9 JTD BOSCH 0 281 010 846, 0281010846, 46815965",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PUNTO-1.9-JTD-BOSCH-0-281-010-846%2C-0281010846%2C-46815965-/44814",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "BAA4-47093",
+    "sku": "BAA4-47093",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PUNTO 1.9 JTD BOSCH 0 281 010 846, 0281010846, 46815965 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PUNTO",
+      "ENGINE": "1.9 JTD",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 846",
+      "NUMBER PARTS": "46815965",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:23:21.396Z",
+    "model": "mistral:7b",
+    "durationMs": 13950,
+    "priceIncrement": 100
+  }
+}

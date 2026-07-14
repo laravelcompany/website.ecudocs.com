@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Windstar 3.0 V6 Engine - OEM Visteon F68F-12A650-EC, F68F12A650EC, FFZ2, ML1-311 - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-windstar-visteon-f68f-12a650-ec-ffz2-ml1-311",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for your Ford Windstar. OEM tested, warranty included and fast dispatch.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Windstar",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Windstar",
+    "Visteon F68F-12A650-EC",
+    "3.0 V6 Engine"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your Ford Windstar is OEM tested, ensuring a seamless fit and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD WINDSTAR</td></tr>\n        <tr><th>ENGINE</th><td>3.0 V6</td></tr>\n        <tr><th>YEAR</th><td>1996</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>VISTEON F68F-12A650-EC</td></tr>\n        <tr><th>NUMBER PARTS</th><td>ML1-311</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD WINDSTAR VISTEON F68F-12A650-EC, F68F12A650EC, FFZ2, ML1-311",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-WINDSTAR-VISTEON-F68F-12A650-EC%2C-F68F12A650EC%2C-FFZ2%2C-ML1-311/61368",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "8405-350A9_20140728135950",
+    "sku": "8405-350A9_20140728135950",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD WINDSTAR  VISTEON F68F-12A650-EC, F68F12A650EC, FFZ2, ML1-311</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e21767010cfb752450f0a2b959a768e3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4aad27abd27547e84feda3f2d9b15d5d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD WINDSTAR",
+      "ENGINE": "3.0 V6",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "VISTEON F68F-12A650-EC",
+      "NUMBER PARTS": "ML1-311",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:10:38.033Z",
+    "model": "mistral:7b",
+    "durationMs": 9327,
+    "priceIncrement": 100
+  }
+}

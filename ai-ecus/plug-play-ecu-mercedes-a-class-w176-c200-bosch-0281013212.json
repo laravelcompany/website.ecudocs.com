@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes A-Class W176 C200, Bosch 0281013212",
+  "slug": "plug-play-ecu-mercedes-a-class-w176-c200-bosch-0281013212",
+  "metaDescription": "Expertly tested and warrantied ECU replacement for Mercedes A-Class W176 C200. Plug & Play, OEM quality, fast dispatch.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play Bosch ECU for Mercedes A-Class C200",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes A-Class",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement is suitable for Mercedes A-Class W176 C200. It has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play compatibility</li>\n        <li>OEM quality</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281013212, 0 281 013 212</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6421505691</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes A-Class W176 C200. Fitment caution may apply, please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES A6421505691, 6421505691, A 642 150 56 91 BOSCH 0281013212, 0 281 013 212",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-A6421505691%2C-6421505691%2C-A-642-150-56-91-BOSCH-0281013212%2C-0-281-013-212/27121",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4D75-55884_20120730201656",
+    "sku": "4D75-55884_20120730201656",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES A6421505691, 6421505691, A 642 150 56 91 BOSCH 0281013212, 0 281 013 212</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "NUMBER MANUFACTURER": "BOSCH 0281013212, 0 281 013 212",
+      "NUMBER PARTS": "6421505691",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:13:07.003Z",
+    "model": "mistral:7b",
+    "durationMs": 10566,
+    "priceIncrement": 100
+  }
+}

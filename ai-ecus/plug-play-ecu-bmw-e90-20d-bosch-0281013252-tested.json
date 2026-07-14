@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E90 2.0D Bosch 0 281 013 252, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-bmw-e90-20d-bosch-0281013252-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for BMW E90 2.0D Bosch 0 281 013 252. Plug & Play replacement, backed by a 6-month warranty.",
+  "price": "€275.00",
+  "excerpt": "OEM tested ECU Engine Controller for BMW E90 2.0D Bosch 0 281 013 252",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 013 252",
+    "BMW E90",
+    "2.0D"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for BMW E90 2.0D Bosch 0 281 013 252 is a direct replacement, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for reliability and compatibility</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Direct replacement for seamless integration</li>\n        <li>Backed by a certified technician's inspection</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>BMW E90</td></tr>\n        <tr><th>ENGINE:</th><td>2.0 DIESEL</td></tr>\n        <tr><th>YEAR:</th><td>2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 013 252</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>DDE 7 801 710</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED / COMPLETE</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with BMW E90 models only. Fitment may require professional installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E90 2.0 D BOSCH 0 281 013 252, 0281013252, DDE 7 801 710, DDE7801710, 7801710",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E90-2.0-D-BOSCH-0-281-013-252%2C-0281013252%2C-DDE-7-801-710%2C-DDE7801710%2C-7801710/24787",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "92AB-931D4_20120602183414",
+    "sku": "92AB-931D4_20120602183414",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E90 2.0 D BOSCH 0 281 013 252, 0281013252, DDE 7 801 710, DDE7801710, 7801710</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9d7503ea763e09a618d08d91b33185a3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e92b26ad7d76d415d8b15bf4d6100f48_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E90",
+      "ENGINE": "2.0 DIESEL",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 252",
+      "NUMBER PARTS": "DDE 7 801 710",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:41:33.005Z",
+    "model": "mistral:7b",
+    "durationMs": 11951,
+    "priceIncrement": 100
+  }
+}

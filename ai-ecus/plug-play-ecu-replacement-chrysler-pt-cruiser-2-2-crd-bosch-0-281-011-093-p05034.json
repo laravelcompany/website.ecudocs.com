@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Chrysler PT Cruiser 2.2 CRD Bosch 0 281 011 093, P05034 034AB, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-chrysler-pt-cruiser-2-2-crd-bosch-0-281-011-093-p05034",
+  "metaDescription": "OEM tested ECU replacement for Chrysler PT Cruiser 2.2 CRD Bosch 0 281 011 093, P05034 034AB. Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Chrysler PT Cruiser 2.2 CRD Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chrysler PT Cruiser",
+    "2.2 CRD",
+    "Bosch",
+    "0 281 011 093",
+    "P05034 034AB"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is specifically designed for the Chrysler PT Cruiser 2.2 CRD engine. It ensures seamless integration and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CHRYSLER PT CRUISER</td></tr>\n        <tr><th>ENGINE</th><td>2.2 CRD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 093</td></tr>\n        <tr><th>NUMBER PARTS</th><td>ENUAA3</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Chrysler PT Cruiser 2.2 CRD engine only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHRYSLER PT CRUISER 2.2 CRD BOSCH 0 281 011 093, 0281011093, P05034 034AB, P05034034AB, ENUAA3",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHRYSLER-PT-CRUISER-2.2-CRD-BOSCH-0-281-011-093%2C-0281011093%2C-P05034-034AB%2C-P05034034AB%2C-ENUAA3-/84697",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "705B-834AD_20160119172036",
+    "sku": "705B-834AD_20160119172036",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHRYSLER PT CRUISER 2.2 CRD BOSCH 0 281 011 093, 0281011093, P05034 034AB, P05034034AB, ENUAA3 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHRYSLER PT CRUISER",
+      "ENGINE": "2.2 CRD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 093",
+      "NUMBER PARTS": "ENUAA3",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:08:43.277Z",
+    "model": "mistral:7b",
+    "durationMs": 10678,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - HONDA ROVER 1.6 37820-PP4-G51, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-honda-rover-1-6-37820pp4g51",
+  "metaDescription": "Get a Plug & Play ECU Replacement for your HONDA ROVER 1.6 with our OEM tested part, backed by a 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for HONDA ROVER 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Rover",
+    "37820-PP4-G51"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for HONDA ROVER 1.6 comes with a 6-month warranty and ensures seamless vehicle operation.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM Tested for guaranteed fitment</li><li>6-month warranty for peace of mind</li><li>Used in good condition</li><li>Locked / Unlocked option available</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>HONDA ROVER</td><td>1.6</td><td>1992-1996</td><td>37820-PP4-G51</td><td>TB</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on your vehicle's specifications. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA ROVER 1.6 37820-PP4-G51, 37820PP4G51 TB",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-ROVER-1.6-37820-PP4-G51%2C-37820PP4G51-TB/76837",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "2527-1745F_20150717142219",
+    "sku": "2527-1745F_20150717142219",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA ROVER 1.6 37820-PP4-G51, 37820PP4G51 TB</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_3d2049534d29cfd4bd5afebd5fa12e9e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_5c85caa9e0eddbf8081765337ffc30f9_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA ROVER",
+      "ENGINE": "1.6",
+      "YEAR": "1992-1996",
+      "NUMBER MANUFACTURER": "37820-PP4-G51",
+      "NUMBER PARTS": "TB",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:27:47.957Z",
+    "model": "mistral:7b",
+    "durationMs": 8201,
+    "priceIncrement": 100
+  }
+}

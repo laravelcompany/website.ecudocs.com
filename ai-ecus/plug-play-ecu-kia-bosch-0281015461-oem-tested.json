@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement KIA - Bosch 0281015461 39101-2A616 391012A616",
+  "slug": "plug-play-ecu-kia-bosch-0281015461-oem-tested",
+  "metaDescription": "Buy the Plug & Play OEM Tested ECU Engine Controller KIA - Bosch 0281015461 39101-2A616 391012A616. This used original part is in good condition, tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM Tested ECU for KIA",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU engine controller is a reliable replacement for your KIA vehicle.</section>\n<section class=\"features\"><ul><li>Plug and play installation</li><li>OEM tested and certified</li><li>6-month warranty</li><li>Used original in good condition</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>KIA</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>0281015461 39101-2A616</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure this part is compatible with your specific KIA model before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA 0281015461 39101-2A616 391012A616",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-0281015461-39101-2A616-391012A616/139093",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "648B-72094_20240229142402",
+    "sku": "648B-72094_20240229142402",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA 0281015461 39101-2A616 391012A616</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA",
+      "NUMBER MANUFACTURER": "0281015461 39101-2A616",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:12:04.685Z",
+    "model": "mistral:7b",
+    "durationMs": 9660,
+    "priceIncrement": 100
+  }
+}

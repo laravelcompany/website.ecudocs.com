@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Ford 1.6 Continental S180047063 B, SDE1 - Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-replacement-ford-1-6-continental-s180047063-b-sde1",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford 1.6 Continental S180047063 B, SDE1 with a 6-month warranty. Fast dispatch in EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford 1.6 Continental",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford 1.6",
+    "Continental S180047063 B",
+    "SDE1"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Ford 1.6 Continental S180047063 B, SDE1 is a reliable solution to restore your vehicle's engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch in EU</li>\n        <li>Reliable Performance Restoration</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>Continental S180047063 B</td></tr>\n        <tr><th>NUMBER PARTS</th><td>SDE1</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 1.6 Continental S180047063 B, S180047063B, FoMoCo F1B1-12A650-XB, F1B112A650XB, SDE1, EMS2102",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-1.6-Continental-S180047063-B%2C-S180047063B%2C-FoMoCo-F1B1-12A650-XB%2C-F1B112A650XB%2C-SDE1%2C-EMS2102-/101044",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "C7D3-404AE_20161220215016",
+    "sku": "C7D3-404AE_20161220215016",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 1.6 Continental S180047063 B, S180047063B, FoMoCo F1B1-12A650-XB,  F1B112A650XB, SDE1, EMS2102 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_1cf49d30361d2ef4a695c8b139984913_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_25741dc7c068f37a0bb774d34cf04646_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "Continental S180047063 B",
+      "NUMBER PARTS": "SDE1",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:45:20.424Z",
+    "model": "mistral:7b",
+    "durationMs": 10795,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Grande Punto 1.4 Bosch 0 261 208 969, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-grande-punto-14-bosch-0261208969-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Fiat Grande Punto 1.4 Bosch 0 261 208 969, Plug & Play, 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "OEM tested ECU Engine Controller for Fiat Grande Punto 1.4 Bosch 0 261 208 969",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Grande Punto",
+    "Bosch",
+    "1.4"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your Fiat Grande Punto 1.4 Bosch 0 261 208 969 engine.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Fiat Grande Punto 1.4 Bosch engines only. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT GRANDE PUNTO 1.4 BOSCH 0 261 208 969, 0261208969, 00517981540",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-GRANDE-PUNTO-1.4-BOSCH-0-261-208-969%2C-0261208969%2C-00517981540/106495",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "079A-8457F_20170831135504",
+    "sku": "079A-8457F_20170831135504",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT GRANDE PUNTO 1.4 BOSCH 0 261 208 969, 0261208969, 00517981540</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_6614635abc3b5e587f5ad020e39d14bd_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_2edfb16ee107eb4e15a334ffb0658fae_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT GRANDE PUNTO",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 208 969",
+      "NUMBER PARTS": "00517981540",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:54:22.848Z",
+    "model": "mistral:7b",
+    "durationMs": 6678,
+    "priceIncrement": 100
+  }
+}

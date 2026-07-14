@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OPEL VECTRA A 2.0, BOSCH 0 261 203 065, Tested & Warranty Included",
+  "slug": "plug-play-ecu-opel-vectra-a-20-bosch-0261203065-tested",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for OPEL VECTRA A 2.0, BOSCH 0 261 203 065 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€60.00",
+  "excerpt": "Plug & Play ECU Replacement for OPEL VECTRA A 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "OPEL VECTRA A",
+    "BOSCH 0 261 203 065"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller for OPEL VECTRA A 2.0, BOSCH 0 261 203 065, offers a seamless replacement solution.</section>\n<section class=\"features\"><ul><li>Plug & Play functionality</li><li>OEM tested and certified</li><li>6-month warranty</li><li>Compatible with OPEL VECTRA A 2.0</li><li>BOSCH 0 261 203 065 part number</li></ul></section>\n<section class=\"specs\"><table><tbody><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>OPEL VECTRA A</td></tr><tr><th>ENGINE</th><td>2.0</td></tr><tr><th>NUMBER PARTS</th><td>90399933</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch within EU.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with OPEL VECTRA A 2.0, but fitment caution may apply. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA A 2.0, BOSCH 0 261 203 065, 0261203065, 90 399 933, 90399933",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-A-2.0%2C-BOSCH-0-261-203-065%2C-0261203065%2C-90-399-933%2C-90399933-/55240",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B69C-902B8_20140506144157",
+    "sku": "B69C-902B8_20140506144157",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  OPEL VECTRA A 2.0, BOSCH 0 261 203 065, 0261203065, 90 399 933, 90399933 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_1c5ba898ce7ba304213e7586b2ce0dc6_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c718695c7def98136cf42b50625b5703_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VECTRA A",
+      "ENGINE": "2.0",
+      "NUMBER PARTS": "90399933",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:13:55.409Z",
+    "model": "mistral:7b",
+    "durationMs": 10025,
+    "priceIncrement": 100
+  }
+}

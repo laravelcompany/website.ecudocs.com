@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Siemens 5WP44304 for Seat Ibiza 1.2 (OEM Tested, Warranty Included)",
+  "slug": "plug-play-ecu-replacement-siemens-5wp44304-for-seat-ibiza-12",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller Siemens 5WP44304 for Seat Ibiza 1.2, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Replacement for Seat Ibiza 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WP44304",
+    "Seat Ibiza 1.2"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Seat Ibiza 1.2 with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SEAT IBIZA</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>YEAR</th><td>2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WP44304</td></tr>\n        <tr><th>NUMBER PARTS</th><td>BENZIN SIMOS 3PE 5328</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific faults. Professional installation is recommended for optimal results.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA 1.2 03E906033P, 03E 906 033 P, 5WP44304",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-1.2-03E906033P%2C-03E-906-033-P%2C-5WP44304-/34089",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "D357-914FE_20121212120112",
+    "sku": "D357-914FE_20121212120112",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA 1.2 03E906033P, 03E 906 033 P, 5WP44304 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e49a12a1d107144334680ff1a2ff6e4e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_81967ca5c4313acd8f666a1e9c5f804c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_06f3de3aa05f9f72e6a68aceb5333420_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.2",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP44304",
+      "NUMBER PARTS": "BENZIN SIMOS 3PE 5328",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:51:58.343Z",
+    "model": "mistral:7b",
+    "durationMs": 9032,
+    "priceIncrement": 100
+  }
+}

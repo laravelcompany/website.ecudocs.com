@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Ford Fiesta 1.4 Continental S180047003G - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-fiesta-14-continental-s180047003g-oem-tested",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Ford Fiesta 1.4 Continental S180047003G, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€250.00",
+  "excerpt": "OEM tested ECU Engine Controller for Ford Fiesta 1.4 Continental S180047003G",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Continental",
+    "S180047003G"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Ford Fiesta 1.4 Continental S180047003G is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch in EU</li>\n        <li>Reliable Performance</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>FORD FIESTA</td></tr>\n            <tr><td>ENGINE</td><td>1.4</td></tr>\n            <tr><td>YEAR</td><td>2009</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>CONTINENTAL S180047003 G</td></tr>\n            <tr><td>NUMBER PARTS</td><td>OTAG</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.4 CONTINENTAL S180047003 G, S180047003G, FoMoCo 8V21-12A650-TG, 8V2112A650TG, OTAG",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.4-CONTINENTAL-S180047003-G%2C-S180047003G%2C-FoMoCo-8V21-12A650-TG%2C-8V2112A650TG%2C-OTAG-/85107",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "96DD-23967_20160126144100",
+    "sku": "96DD-23967_20160126144100",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.4 CONTINENTAL S180047003 G, S180047003G, FoMoCo 8V21-12A650-TG, 8V2112A650TG, OTAG  </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.4",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "CONTINENTAL S180047003 G",
+      "NUMBER PARTS": "OTAG",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:22:49.405Z",
+    "model": "mistral:7b",
+    "durationMs": 11645,
+    "priceIncrement": 100
+  }
+}

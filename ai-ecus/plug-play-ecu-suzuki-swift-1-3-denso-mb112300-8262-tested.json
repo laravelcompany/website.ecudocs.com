@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Engine Controller - Suzuki Swift 1.3 Denso MB112300-8262, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-suzuki-swift-1-3-denso-mb112300-8262-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Suzuki Swift 1.3 Denso MB112300-8262, OEM tested and backed by a 6-month warranty.",
+  "price": "€100.00",
+  "excerpt": "Upgrade your Suzuki Swift's engine control with our Plug & Play ECU.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Suzuki Swift",
+    "Denso MB112300-8262"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller is a direct replacement for your Suzuki Swift 1.3. Trust our expert technicians for reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Options</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SUZUKI SWIFT</td></tr>\n        <tr><th>ENGINE:</th><td>1.3</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>DENSO MB112300-8262</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>33920-72K0</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility with your vehicle before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUZUKI SWIFT 1.3 DENSO MB112300-8262, MB1123008262, 33920-72K0, 3392072K0",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUZUKI-SWIFT-1.3-DENSO-MB112300-8262%2C-MB1123008262%2C-33920-72K0%2C-3392072K0/26874",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "B105-102ED_20120725161002",
+    "sku": "B105-102ED_20120725161002",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUZUKI SWIFT 1.3 DENSO MB112300-8262, MB1123008262, 33920-72K0, 3392072K0</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUZUKI SWIFT",
+      "ENGINE": "1.3",
+      "NUMBER MANUFACTURER": "DENSO MB112300-8262",
+      "NUMBER PARTS": "33920-72K0",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:02:42.811Z",
+    "model": "mistral:7b",
+    "durationMs": 8833,
+    "priceIncrement": 100
+  }
+}

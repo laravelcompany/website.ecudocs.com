@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Bosch 0.6 SMART Engine Controller (0261205005, 26RT5497) - Warranty Included",
+  "slug": "plug-play-ecu-replacement-oem-tested-bosch-0-6-smart-engine-controller-026120500",
+  "metaDescription": "Buy the ECU ENGINE CONTROLLER SMART 0.6 BOSCH 0261205005, 26RT5497 - Plug & Play, OEM Tested, and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Bosch SMART 0.6 Engine Controller",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0261205005",
+    "SMART engine controller",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Bosch SMART 0.6 Engine Controller is a reliable replacement for your vehicle's ECU system. With Plug & Play functionality, it ensures easy installation and minimal downtime.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Certified Technician Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SMART</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>0.6</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 205 005</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>26RT5497</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. For assistance, contact our support team.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SMART 0.6 BOSCH 0261205005, 0 261 205 005, 0003107V007, 000 3107 V007, 26RT5497",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SMART-0.6-BOSCH-0261205005%2C-0-261-205-005%2C-0003107V007%2C-000-3107-V007%2C-26RT5497/13167",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8404-39040",
+    "sku": "8404-39040",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SMART 0.6 BOSCH 0261205005, 0 261 205 005, 0003107V007, 000 3107 V007, 26RT5497</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SMART",
+      "ENGINE": "0.6",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 205 005",
+      "NUMBER PARTS": "26RT5497",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:46:07.278Z",
+    "model": "mistral:7b",
+    "durationMs": 11679,
+    "priceIncrement": 100
+  }
+}

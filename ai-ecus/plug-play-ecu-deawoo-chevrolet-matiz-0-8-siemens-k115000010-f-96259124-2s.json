@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for DeAWOO Chevrolet Matiz 0.8 - Siemens K115000010 F 96259124 2S",
+  "slug": "plug-play-ecu-deawoo-chevrolet-matiz-0-8-siemens-k115000010-f-96259124-2s",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for DeAWOO Chevrolet Matiz 0.8 (K115000010 F 96259124 2S) by Siemens. 6-month warranty, Plug & Play, fast dispatch.",
+  "price": "€70.00",
+  "excerpt": "OEM Tested ECU Engine Controller for DeAWOO Chevrolet Matiz 0.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "DeAWOO Chevrolet Matiz",
+    "Siemens",
+    "K115000010 F",
+    "96259124 2S"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for DeAWOO Chevrolet Matiz 0.8 (K115000010 F 96259124 2S).</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>DEAWOO CHEVROLET MATIZ</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>0.8</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1998</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>K115000010 F</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>96259124 2S</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with DeAWOO Chevrolet Matiz 0.8 (K115000010 F 96259124 2S).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DEAWOO CHEVROLET MATIZ 0.8 K115000010 F 96259124 2S",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DEAWOO-CHEVROLET-MATIZ-0.8-K115000010-F-96259124-2S-/16344",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "F5DC-2063C",
+    "sku": "F5DC-2063C",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DEAWOO CHEVROLET MATIZ 0.8 K115000010 F 96259124 2S </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DEAWOO CHEVROLET MATIZ",
+      "ENGINE": "0.8",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "K115000010 F",
+      "NUMBER PARTS": "96259124 2S",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:02:28.763Z",
+    "model": "mistral:7b",
+    "durationMs": 12504,
+    "priceIncrement": 100
+  }
+}

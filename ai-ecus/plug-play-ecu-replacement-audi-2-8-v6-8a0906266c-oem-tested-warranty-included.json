@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi 2.8 V6 Engine, 8A0906266C - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-2-8-v6-8a0906266c-oem-tested-warranty-included",
+  "metaDescription": "Find your Plug & Play ECU Engine Controller for Audi 2.8 V6, 8A0906266C. OEM tested and backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi 2.8 V6 Engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi 2.8 V6",
+    "8A0906266C"
+  ],
+  "description": "<section class=\"overview\">This Hitachi ECU Engine Controller is a reliable replacement for your Audi 2.8 V6 engine, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.8 V6</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>8A0906266C</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi 2.8 V6 engine. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI 8A0 906 266 C, 8A0906266C",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-8A0-906-266-C%2C-8A0906266C/64862",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "F84A-76174_20140902100249",
+    "sku": "F84A-76174_20140902100249",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI 8A0 906 266 C, 8A0906266C</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI",
+      "ENGINE": "2.8 V6",
+      "NUMBER MANUFACTURER": "8A0906266C",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:39:58.170Z",
+    "model": "mistral:7b",
+    "durationMs": 12226,
+    "priceIncrement": 100
+  }
+}

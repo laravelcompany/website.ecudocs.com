@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement Audi 100 C4 Bosch 0 261 200 240, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-audi-100-c4-bosch-0261200240-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Audi 100 C4 by Bosch (0 261 200 240, 4A0 907 404 A). OEM tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi 100 C4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi 100 C4",
+    "Bosch 0 261 200 240"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Audi 100 C4 by Bosch (0 261 200 240, 4A0 907 404 A) is expertly tested and guaranteed to restore optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play for easy installation</li>\n        <li>OEM Tested for reliable operation</li>\n        <li>6-month Warranty for peace of mind</li>\n        <li>Used, but in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>AUDI 100 C4</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 200 240</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>4A0 907 404 A</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on specific vehicle conditions. Always consult a professional technician before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI 100 C4 BOSCH 0 261 200 240, 0261200240, 4A0 907 404 A, 4A0907404A",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-100-C4-BOSCH-0-261-200-240%2C-0261200240%2C-4A0-907-404-A%2C-4A0907404A/125740",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "55E0-58489_20210611133133",
+    "sku": "55E0-58489_20210611133133",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI 100 C4 BOSCH 0 261 200 240, 0261200240, 4A0 907 404 A, 4A0907404A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI 100 C4",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 200 240",
+      "NUMBER PARTS": "4A0 907 404 A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:34:23.815Z",
+    "model": "mistral:7b",
+    "durationMs": 9743,
+    "priceIncrement": 100
+  }
+}

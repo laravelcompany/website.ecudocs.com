@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mercedes W124 Bosch 0 261 203 230, A 016 545 55 32 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w124-bosch-0-261-203-230-a-016-545-55-32-warranty",
+  "metaDescription": "Buy the OEM Tested Plug & Play ECU Engine Controller for Mercedes W124 with Bosch 0 261 203 230, A 016 545 55 32. 6-month warranty. Ships within 24–48 hours.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mercedes W124",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W124",
+    "Bosch 0 261 203 230",
+    "A 016 545 55 32"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Mercedes W124 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W124</td></tr>\n        <tr><th>ENGINE</th><td>2.2 L</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 203 230</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A 016 545 55 32</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with Mercedes W124. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W124 BOSCH 0 261 203 230, 0261203230, A 016 545 55 32, A0165455532",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W124-BOSCH-0-261-203-230%2C-0261203230%2C-A-016-545-55-32%2C-A0165455532-/83400",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4066-192EE_20151209204313",
+    "sku": "4066-192EE_20151209204313",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W124 BOSCH 0 261 203 230, 0261203230, A 016 545 55 32, A0165455532 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W124",
+      "ENGINE": "2.2 L",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 230",
+      "NUMBER PARTS": "A 016 545 55 32",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:01:16.942Z",
+    "model": "mistral:7b",
+    "durationMs": 10263,
+    "priceIncrement": 100
+  }
+}

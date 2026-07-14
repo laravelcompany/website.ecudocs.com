@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Volkswagen Scirocco 1.4 TSI Bosch 0261S05810",
+  "slug": "plug-play-ecu-replacement-volkswagen-scirocco-1-4-tsi-bosch-0261s05810",
+  "metaDescription": "OEM Tested ECU Replacement for Volkswagen Scirocco 1.4 TSI, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU replacement for Volkswagen Scirocco 1.4 TSI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Volkswagen Scirocco",
+    "1.4 TSI",
+    "Bosch 0261S05810"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Volkswagen Scirocco 1.4 TSI ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>OEM Tested</li><li>Warranty included</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">...(technical specifications table)</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER VOLKSWAGEN 03C906027AT 03C907309B MED17.5.5 0261S05810",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-VOLKSWAGEN-03C906027AT-03C907309B-MED17.5.5-0261S05810/25061",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C9C5-9189A_20120604171319",
+    "sku": "C9C5-9189A_20120604171319",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  VOLKSWAGEN 03C906027AT 03C907309B  MED17.5.5  0261S05810</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "VOLKSWAGEN SCIROCCO",
+      "ENGINE": "1.4 TSI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "BOSCH 0261S05810, 0 261 S05 810",
+      "NUMBER PARTS": "1039S41553",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:23:14.751Z",
+    "model": "mistral:7b",
+    "durationMs": 5995,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Ford Fiesta S180047051 E, C1BG-12A650-BE - Siemens",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-fiesta-s180047051-e-c1bg-12a650-be-sie",
+  "metaDescription": "Buy a Plug & Play OEM tested ECU Engine Controller for your Ford Fiesta S180047051 E, C1BG-12A650-BE from Siemens. Covered by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Fiesta",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta S180047051 E",
+    "C1BG-12A650-BE",
+    "Siemens"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU Engine Controller for your Ford Fiesta S180047051 E, C1BG-12A650-BE is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n  <ul>\n    <li>Plug & Play</li>\n    <li>OEM Tested</li>\n    <li>6-month Warranty</li>\n    <li>Used in Good Condition</li>\n    <li>Ready for Programming</li>\n  </ul>\n</section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>FORD FIESTA</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>S180047051 E</td></tr>\n    <tr><th>NUMBER PARTS</th><td>C1BG-12A650-BE</td></tr>\n  </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Ford Fiesta S180047051 E and C1BG-12A650-BE. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA S180047051 E, S180047051E, C1BG-12A650-BE, C1BG12A650BE",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-S180047051-E%2C-S180047051E%2C-C1BG-12A650-BE%2C-C1BG12A650BE/108156",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "AFEA-2825F_20171229160540",
+    "sku": "AFEA-2825F_20171229160540",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA S180047051 E, S180047051E, C1BG-12A650-BE, C1BG12A650BE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_48870e6092feaf1bb44898f044ced3b8_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_2a2937d71942050ef39c20482b109a81_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "NUMBER MANUFACTURER": "S180047051 E",
+      "NUMBER PARTS": "C1BG-12A650-BE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:39:57.949Z",
+    "model": "mistral:7b",
+    "durationMs": 9795,
+    "priceIncrement": 100
+  }
+}

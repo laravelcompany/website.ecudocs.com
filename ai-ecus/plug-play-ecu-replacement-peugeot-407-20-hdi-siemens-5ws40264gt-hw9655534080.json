@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for PEUGEOT 407 2.0 HDI - OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-peugeot-407-20-hdi-siemens-5ws40264gt-hw9655534080",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for PEUGEOT 407 2.0 HDI, Plug & Play, 6-month warranty. Fast dispatch in EU.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT 407 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 407",
+    "2.0 HDI",
+    "Siemens",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for PEUGEOT 407 2.0 HDI ensures seamless engine control and performance. Trust our expertise in providing reliable, high-quality parts.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Condition: Used Original in Good Condition</li>\n        <li>Compatible with PEUGEOT 407 2.0 HDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PEUGEOT 407</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 HDI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>5WS40264G-T</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>HW9655534080</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 407 2.0 HDI 5WS40264G-T, SW9663007980, HW9655534080",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-407-2.0-HDI-5WS40264G-T%2C-SW9663007980%2C-HW9655534080/40489",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "7E4A-97130_20130825224955",
+    "sku": "7E4A-97130_20130825224955",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 407 2.0 HDI 5WS40264G-T, SW9663007980, HW9655534080</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 407",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "5WS40264G-T",
+      "NUMBER PARTS": "HW9655534080",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:21:10.137Z",
+    "model": "mistral:7b",
+    "durationMs": 10879,
+    "priceIncrement": 100
+  }
+}

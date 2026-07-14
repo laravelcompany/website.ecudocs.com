@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mercedes W201 1.8 E - Bosch 0280800392, 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-mercedes-w201-1-8e-bosch-0280800392",
+  "metaDescription": "Expertly tested and OEM Bosch ECU Engine Controller for Mercedes W201 1.8 E, Plug & Play replacement with 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mercedes W201 1.8 E",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0280800392",
+    "Mercedes W201",
+    "1.8 E"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a direct replacement for your Mercedes W201 1.8 E, ensuring seamless integration and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Inspected and Tested by Certified Technician</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES W201</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8 E</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1990-93</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 280 800 392</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>0105455732</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W201 1.8 E A0105455732, 0105455732, A 010 545 57 32, BOSCH 0280800392, 0 280 800 392",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W201-1.8-E-A0105455732%2C-0105455732%2C-A-010-545-57-32%2C-BOSCH-0280800392%2C-0-280-800-392/12858",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6C7A-96441",
+    "sku": "6C7A-96441",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W201 1.8 E A0105455732, 0105455732, A 010 545 57 32, BOSCH 0280800392, 0 280 800 392</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W201",
+      "ENGINE": "1.8 E",
+      "YEAR": "1990-93",
+      "NUMBER MANUFACTURER": "BOSCH 0 280 800 392",
+      "NUMBER PARTS": "0105455732",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:11:54.594Z",
+    "model": "mistral:7b",
+    "durationMs": 11475,
+    "priceIncrement": 100
+  }
+}

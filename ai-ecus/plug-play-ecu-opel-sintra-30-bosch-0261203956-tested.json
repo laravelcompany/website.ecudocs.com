@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Opel Sintra 3.0 BOSCH 0261203956, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-sintra-30-bosch-0261203956-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Opel Sintra 3.0 BOSCH 0261203956, Plug & Play, 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU replacement for Opel Sintra 3.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Sintra",
+    "BOSCH",
+    "0261203956"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Opel Sintra 3.0 BOSCH 0261203956 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Locked and Ready for Programming</li>\n<li>Thoroughly Inspected and Tested by a Certified Technician</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>OPEL SINTRA</td></tr>\n<tr><td>ENGINE</td><td>3.0</td></tr>\n<tr><td>YEAR</td><td>1997</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH  0 261 203 956</td></tr>\n<tr><td>CODE</td><td>GV</td></tr>\n<tr><td>NUMBER PARTS</td><td>90 505 779</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Locked / Ready for programming</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL SINTRA 3.0 BOSCH 0261203956, 0 261 203 956, 90505779, 90 505 779 GV",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-SINTRA-3.0-BOSCH-0261203956%2C-0-261-203-956%2C-90505779%2C-90-505-779-GV-/34314",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3242-536A0_20121217110350",
+    "sku": "3242-536A0_20121217110350",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL SINTRA 3.0 BOSCH 0261203956, 0 261 203 956, 90505779, 90 505 779 GV </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL SINTRA",
+      "ENGINE": "3.0",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "BOSCH  0 261 203 956",
+      "CODE": "GV",
+      "NUMBER PARTS": "90 505 779",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:18:20.405Z",
+    "model": "mistral:7b",
+    "durationMs": 11514,
+    "priceIncrement": 100
+  }
+}

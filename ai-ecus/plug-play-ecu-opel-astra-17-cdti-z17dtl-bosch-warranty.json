@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Engine Controller Opel Astra 1.7 CDTI Z17DTL Bosch OEM Tested 24467018, 24 467 018, 24467020, 6235212, 62 35 212, Warranty Included",
+  "slug": "plug-play-ecu-opel-astra-17-cdti-z17dtl-bosch-warranty",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Opel Astra 1.7 CDTI Z17DTL, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Opel Astra 1.7 CDTI Z17DTL",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "1.7 CDTI Z17DTL",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Opel Astra 1.7 CDTI Z17DTL is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Tested and Guaranteed</li>\n      <li>Plug & Play for Easy Installation</li>\n      <li>6-month Warranty Included</li>\n      <li>Used in Good Condition</li>\n      <li>Locked / Ready for Programming</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>OPEL CHEVROLET HOLDEN VAUXHALL ASTRA G</td></tr>\n      <tr><th>ENGINE</th><td>1.7 CDTI Z17DTL</td></tr>\n      <tr><th>YEAR</th><td>2004</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 859</td></tr>\n      <tr><th>CODE</th><td>LN</td></tr>\n      <tr><th>NUMBER PARTS</th><td>1039S01860</td></tr>\n      <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming / complet</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra G 1.7 CDTI Z17DTL. Fitment caution: Ensure correct programming and installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA G 1.7 CDTI Z17DTL 24467018 LN, 24 467 018, 24467020, 6235212, 62 35 212, BOSCH 0281010859, 0 281 010 859, ISUZU 8973068764",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-ASTRA-G-1.7-CDTI-Z17DTL-24467018-LN%2C-24-467-018%2C-24467020%2C-6235212%2C-62-35-212%2C-BOSCH-0281010859%2C-0-281-010-859%2C-ISUZU-8973068764-/26098",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7189_20120620071020",
+    "sku": "7189_20120620071020",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA G 1.7 CDTI Z17DTL 24467018 LN, 24 467 018, 24467020, 6235212, 62 35 212, BOSCH 0281010859, 0 281 010 859, ISUZU 8973068764 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL ASTRA",
+      "ENGINE": "1.7 CDTI Z17DTL",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 859",
+      "CODE": "LN",
+      "NUMBER PARTS": "1039S01860",
+      "OPTION AVAILABLE": "Locked / Ready for programming / complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:32:08.914Z",
+    "model": "mistral:7b",
+    "durationMs": 12618,
+    "priceIncrement": 100
+  }
+}

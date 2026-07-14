@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested SAAB 900 2.0 Engine Controller (4239281) - Warranty Included",
+  "slug": "plug-play-ecu-saab-900-2-0-oryginal-4239281-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for SAAB 900 (2.0) with a 6-month warranty, tested and ready for immediate installation.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for SAAB 900",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SAAB 900",
+    "2.0 Engine Controller",
+    "Oryginal Part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and used ECU engine controller for the SAAB 900 (2.0) is a reliable replacement, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n  <ul>\n    <li>Plug & Play design</li>\n    <li>OEM tested and certified</li>\n    <li>6-month warranty included</li>\n    <li>Compatible with SAAB 900 (1995-1997)</li>\n    <li>Condition: Used Oryginal in good condition</li>\n  </ul>\n</section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>SAAB 900</td></tr>\n    <tr><th>ENGINE</th><td>2.0</td></tr>\n    <tr><th>YEAR</th><td>1995-1997</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>4239281</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SAAB 900 4239281",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SAAB-900-4239281-/44580",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "103C-87166",
+    "sku": "103C-87166",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SAAB 900 4239281 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9af4732ebfb06794dd239a4ba0105ab8_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6e6960c6b7d1778f9bb71da9d49f1be8_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SAAB 900",
+      "ENGINE": "2.0",
+      "YEAR": "1995-1997",
+      "NUMBER MANUFACTURER": "4239281",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:39:54.053Z",
+    "model": "mistral:7b",
+    "durationMs": 9661,
+    "priceIncrement": 100
+  }
+}

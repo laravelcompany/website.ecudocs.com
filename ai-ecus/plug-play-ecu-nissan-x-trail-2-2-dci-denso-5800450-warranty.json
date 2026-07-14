@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN X-TRAIL 2.2 DCI OEM Tested - Denso 5800450 - Warranty Included",
+  "slug": "plug-play-ecu-nissan-x-trail-2-2-dci-denso-5800450-warranty",
+  "metaDescription": "OEM tested ECU Engine Controller for NISSAN X-TRAIL 2.2 DCI by Denso, Plug & Play replacement, 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan X-Trail 2.2 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan X-TRAIL",
+    "Denso",
+    "2.2 DCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for NISSAN X-TRAIL 2.2 DCI by Denso offers a reliable and cost-effective solution to your engine control unit issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play replacement</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN X-TRAIL</td></tr>\n        <tr><th>ENGINE</th><td>2.2 DCI</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER PARTS</th><td>5800450</td></tr>\n        <tr><th>WARRANTY</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN X-TRAIL 2.2 DCI 23710 ES62B, 23710ES62B, 275800-4504, 2758004504, 5800-450 NF, 5800450",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-X-TRAIL-2.2-DCI-23710-ES62B%2C-23710ES62B%2C-275800-4504%2C-2758004504%2C-5800-450-NF%2C-5800450-/54961",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "7A84-47670_20140430143924",
+    "sku": "7A84-47670_20140430143924",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  NISSAN X-TRAIL 2.2 DCI 23710 ES62B, 23710ES62B, 275800-4504, 2758004504, 5800-450 NF, 5800450 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN X-TRAIL",
+      "ENGINE": "2.2 DCI",
+      "YEAR": "2007",
+      "NUMBER PARTS": "5800450",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:10:02.350Z",
+    "model": "mistral:7b",
+    "durationMs": 9622,
+    "priceIncrement": 100
+  }
+}

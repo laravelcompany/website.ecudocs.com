@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Rover 75 1.8 NNN 100682, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-rover-75-18-nnn-100682-oem-tested-warranty-included",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for Rover 75 1.8 NNN 100682, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Rover 75 1.8 NNN 100682",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 75",
+    "1.8 Engine",
+    "NNN 100682"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Rover 75 1.8 NNN 100682 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and inspected by certified technicians</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Rover 75 1.8 NNN 100682</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>ROVER 75</td></tr>\n        <tr><th>ENGINE:</th><td>1.8</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>NNN 100682</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>YM122114</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 75 1.8 NNN 100682, NNN100682, YM122114",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-75-1.8-NNN-100682%2C-NNN100682%2C-YM122114-/44978",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "488C-38918",
+    "sku": "488C-38918",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 75 1.8 NNN 100682, NNN100682, YM122114 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_7a07da035d2c31f375d00f1f586a0d20_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_dacbbba17004e105b93dc48cfb47613d_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 75",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "NNN 100682",
+      "NUMBER PARTS": "YM122114",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:32:59.934Z",
+    "model": "mistral:7b",
+    "durationMs": 9137,
+    "priceIncrement": 100
+  }
+}

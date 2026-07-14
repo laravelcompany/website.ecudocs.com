@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Nissan Micra 1.2 - Hitachi MEC32-0460 U5, G3 3502, Warranty Included",
+  "slug": "plug-play-ecu-nissan-micra-1-2-hitachi-mec32-0460-u5-g3-3502-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Nissan Micra 1.2 by Hitachi with 6-month warranty. Ships within 24–48 hours.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Nissan Micra 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Micra",
+    "Hitachi MEC32-0460 U5",
+    "G3 3502"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Nissan Micra 1.2 by Hitachi ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Compatible with Nissan Micra 1.2</li><li>Hitachi Brand</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>NISSAN MICRA</td></tr><tr><th>ENGINE</th><td>1.2</td></tr><tr><th>YEAR</th><td>2005</td></tr><tr><th>NUMBER MANUFACTURER</th><td>MEC32-0460 U5</td></tr><tr><th>NUMBER PARTS</th><td>G3 3502</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Nissan Micra 1.2 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN MICRA 1.2 MEC32-0460 U5, MEC32060, G3 3502, G33502, MEC32060G33502",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-MICRA-1.2-MEC32-0460-U5%2C-MEC32060%2C-G3-3502%2C-G33502%2C-MEC32060G33502/35900",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "B37C-6120E_20130530003711",
+    "sku": "B37C-6120E_20130530003711",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN MICRA 1.2 MEC32-0460 U5, MEC32060, G3 3502, G33502, MEC32060G33502</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN MICRA",
+      "ENGINE": "1.2",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "MEC32-0460 U5",
+      "NUMBER PARTS": "G3 3502",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:18:10.078Z",
+    "model": "mistral:7b",
+    "durationMs": 10555,
+    "priceIncrement": 100
+  }
+}

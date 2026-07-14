@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Marea Bravo Brava 1.9 R04080003F OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-marea-bravo-brava-1-9-r04080003f-oem-tested-warranty",
+  "metaDescription": "Buy the tested and reliable ECU Engine Controller for Fiat Marea Bravo Brava 1.9 R04080003F, 80537H. Enjoy Plug & Play installation, backed by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU for Fiat Marea Bravo Brava 1.9",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Marea Bravo Brava",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller is a reliable replacement for your Fiat Marea Bravo Brava 1.9.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM quality and performance</li><li>6-month warranty</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>FIAT MAREA BRAVO BRAVA</td></tr>\n      <tr><th>ENGINE</th><td>1.9</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>R04080003F</td></tr>\n      <tr><th>NUMBER PARTS</th><td>80537H</td></tr>\n      <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT MAREA BRAVO BRAVA 1.9, R04080003F, 80537H",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-MAREA-BRAVO-BRAVA-1.9%2C-R04080003F%2C-80537H-/49075",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "2190-51851",
+    "sku": "2190-51851",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT MAREA BRAVO BRAVA 1.9, R04080003F, 80537H </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_acf606d5a710087eae5c7710f7fd89bf_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d4f2a68fc8be3d3d30d749290c3ce455_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6a8f557a31e660c56dc98d17299fdc69_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT MAREA BRAVO BRAVA",
+      "ENGINE": "1.9",
+      "NUMBER MANUFACTURER": "R04080003F",
+      "NUMBER PARTS": "80537H",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:03:28.742Z",
+    "model": "mistral:7b",
+    "durationMs": 9955,
+    "priceIncrement": 100
+  }
+}

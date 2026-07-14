@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Fiesta 1.4, S180047025A, 6-month Warranty",
+  "slug": "plug-play-ecu-ford-fiesta-14-s180047025a-warranty",
+  "metaDescription": "OEM tested, Plug & Play ECU Engine Controller for Ford Fiesta 1.4 with a 6-month warranty. Expertly inspected and ready to ship within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested, Plug & Play ECU for Ford Fiesta 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "S180047025A",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Ford Fiesta 1.4 is a reliable replacement, ensuring seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Expert Inspection</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FIESTA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1998-2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>S180047025 A</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>0ADA J38AC</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Fiesta 1.4 models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.4, S180047025 A, S180047025A, 8V21-12A650-ADA, 8V2112A650ADA, 0ADA J38AC",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.4%2C-S180047025-A%2C-S180047025A%2C-8V21-12A650-ADA%2C-8V2112A650ADA%2C-0ADA-J38AC/44103",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "3582-79478",
+    "sku": "3582-79478",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.4, S180047025 A, S180047025A, 8V21-12A650-ADA, 8V2112A650ADA, 0ADA J38AC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.4",
+      "YEAR": "1998-2005",
+      "NUMBER MANUFACTURER": "S180047025 A",
+      "NUMBER PARTS": "0ADA J38AC",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:28:05.120Z",
+    "model": "mistral:7b",
+    "durationMs": 10755,
+    "priceIncrement": 100
+  }
+}

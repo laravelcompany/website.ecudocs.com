@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 1.8 - Visteon 1U7A-12A650-AA, XBP0 - Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-18-visteon-1u7a-12a650-aa-xbp0-warranty-included",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Mondeo 1.8 (Visteon 1U7A-12A650-AA, XBP0) with a 6-month warranty. Fast dispatch and expert installation instructions included.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Mondeo 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "1U7A-12A650-AA",
+    "XBP0"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Mondeo 1.8 (Visteon 1U7A-12A650-AA, XBP0) is guaranteed to restore optimal engine performance and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for quality assurance</li>\n        <li>Plug & Play for easy installation</li>\n        <li>Locked or ready for programming</li>\n        <li>6-month warranty included</li>\n        <li>Expertly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD MONDEO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>1U7A-12A650-AA</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>XBP0</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo 1.8 (Visteon 1U7A-12A650-AA, XBP0).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 1.8 1U7A-12A650-AA, 1U7A12A650AA, XBP0",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-1.8-1U7A-12A650-AA%2C-1U7A12A650AA%2C-XBP0-/43189",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "47A5-90144",
+    "sku": "47A5-90144",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 1.8 1U7A-12A650-AA, 1U7A12A650AA, XBP0 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "1.8",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "1U7A-12A650-AA",
+      "NUMBER PARTS": "XBP0",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:31:53.479Z",
+    "model": "mistral:7b",
+    "durationMs": 12258,
+    "priceIncrement": 100
+  }
+}

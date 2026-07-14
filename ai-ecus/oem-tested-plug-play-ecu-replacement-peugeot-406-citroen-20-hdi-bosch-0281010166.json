@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - PEUGEOT 406 CITROEN 2.0 HDI Bosch 0281010166 EDC15C2 25",
+  "slug": "oem-tested-plug-play-ecu-replacement-peugeot-406-citroen-20-hdi-bosch-0281010166",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for PEUGEOT 406 CITROEN 2.0 HDI. This used, but in good condition, part comes with a 6-month warranty and is ready for programming.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for PEUGEOT 406 CITROEN 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281010166",
+    "PEUGEOT 406 CITROEN",
+    "EDC15C2"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for PEUGEOT 406 CITROEN 2.0 HDI is a reliable solution for your engine control unit issues, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>Ready for Programming</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 406 CITROEN</td></tr>\n        <tr><th>ENGINE</th><td>2.0 HDI</td></tr>\n        <tr><th>YEAR</th><td>1999</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 166</td></tr>\n        <tr><th>NUMBER PARTS</th><td>EDC15C2 25</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with PEUGEOT 406 CITROEN 2.0 HDI. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 406 CITROEN 2.0 HDI 9636255980 BOSCH 0281010166 EDC15C2 25",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-406-CITROEN-2.0-HDI-9636255980-BOSCH-0281010166-EDC15C2-25-/16520",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B1C1-8706A",
+    "sku": "B1C1-8706A",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 406 CITROEN 2.0 HDI 9636255980 BOSCH 0281010166 EDC15C2 25 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 406 CITROEN",
+      "ENGINE": "2.0 HDI",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 166",
+      "NUMBER PARTS": "EDC15C2 25",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:18:29.376Z",
+    "model": "mistral:7b",
+    "durationMs": 10879,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Focus 1.8 (LP4-331, 98AB-12650-CFL) - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-focus-1-8-lp4-331-98ab-12650-cfl-warranty",
+  "metaDescription": "Buy Oryginal's Plug & Play ECU Engine Controller for Ford Focus 1.8 (LP4-331, 98AB-12650-CFL). Tested and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Focus 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "LP4-331",
+    "98AB-12650-CFL"
+  ],
+  "description": "<section class=\"overview\">This Oryginal Plug & Play ECU Engine Controller for Ford Focus 1.8 (LP4-331, 98AB-12650-CFL) has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FOCUS</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>YEAR</th><td>2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>LP4-331</td></tr>\n        <tr><th>CODE</th><td>REIN</td></tr>\n        <tr><th>NUMBER PARTS</th><td>98AB-12650-CFL</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.8 98AB-12A650-CFL REIN, 98AB12650CFL, LP4-331",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.8-98AB-12A650-CFL-REIN%2C-98AB12650CFL%2C-LP4-331-/16459",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "8C52-36224",
+    "sku": "8C52-36224",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.8 98AB-12A650-CFL REIN, 98AB12650CFL, LP4-331 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.8",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "LP4-331",
+      "CODE": "REIN",
+      "NUMBER PARTS": "98AB-12650-CFL",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:54:40.467Z",
+    "model": "mistral:7b",
+    "durationMs": 10107,
+    "priceIncrement": 100
+  }
+}

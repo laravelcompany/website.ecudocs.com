@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A6 3.0 TDI Bosch 0 281 013 616, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-a6-30-tdi-bosch-0281013616",
+  "metaDescription": "OEM tested ECU replacement for Audi A6 3.0 TDI (Bosch 0 281 013 616). Plug & Play, warranty included.",
+  "price": "€900.00",
+  "excerpt": "OEM tested ECU replacement for Audi A6 3.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "3.0 TDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Audi A6 3.0 TDI (Bosch 0 281 013 616) is a reliable solution, backed by a warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Reliable Solution</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A6</td></tr>\n        <tr><th>ENGINE</th><td>3.0 TDI</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 013 616</td></tr>\n        <tr><th>NUMBER PARTS</th><td>4F0 907 401 C</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 3.0 TDI BOSCH 0 281 013 616, 0281013616, 4F0 910 402 A, 4F0910402A, 4F0907401C, EDC16U34",
+    "price": "€800.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-3.0-TDI-BOSCH-0-281-013-616%2C-0281013616%2C-4F0-910-402-A%2C-4F0910402A%2C-4F0907401C%2C-EDC16U34-/83546",
+    "priceCurrency": "EUR",
+    "netPrice": "€650.41",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E887-69035_20151217152113",
+    "sku": "E887-69035_20151217152113",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 3.0 TDI BOSCH 0 281 013 616, 0281013616,  4F0 910 402 A, 4F0910402A, 4F0907401C, EDC16U34 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "3.0 TDI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 616",
+      "NUMBER PARTS": "4F0 907 401 C",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:38:11.215Z",
+    "model": "mistral:7b",
+    "durationMs": 10546,
+    "priceIncrement": 100
+  }
+}

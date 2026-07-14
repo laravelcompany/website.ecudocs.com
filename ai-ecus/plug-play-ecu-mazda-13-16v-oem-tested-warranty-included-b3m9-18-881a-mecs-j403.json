@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Mazda 1.3 16V (1990-1995) - OEM Tested, Warranty Included - B3M9 18 881A / MECS-J403",
+  "slug": "plug-play-ecu-mazda-13-16v-oem-tested-warranty-included-b3m9-18-881a-mecs-j403",
+  "metaDescription": "OEM tested ECU replacement for Mazda 1.3 16V (1990-1995) with Plug & Play feature and 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Mazda",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mazda 1.3 16V",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Mazda 1.3 16V (1990-1995) ensures optimal engine performance and is covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>ECU Replacement</li>\n        <li>Used Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MAZDA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3 16V</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1990-1995</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>HITACHI B3M9 18 881A</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>MECS-J403</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and installation. Professional installation is recommended for optimal results.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA HITACHI B3M9 18 881A, B3M918881A, MECS-J403, MECSJ403",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-HITACHI-B3M9-18-881A%2C-B3M918881A%2C-MECS-J403%2C-MECSJ403/67680",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "21B2-1383C_20141009125849",
+    "sku": "21B2-1383C_20141009125849",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA HITACHI B3M9 18 881A, B3M918881A, MECS-J403, MECSJ403</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA",
+      "ENGINE": "1.3 16V",
+      "YEAR": "1990-1995",
+      "NUMBER MANUFACTURER": "HITACHI B3M9 18 881A",
+      "NUMBER PARTS": "MECS-J403",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:01:36.724Z",
+    "model": "mistral:7b",
+    "durationMs": 11389,
+    "priceIncrement": 100
+  }
+}

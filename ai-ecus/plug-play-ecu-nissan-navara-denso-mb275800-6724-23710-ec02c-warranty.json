@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Nissan Navara Denso MB275800-6724, 23710 EC02C - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-navara-denso-mb275800-6724-23710-ec02c-warranty",
+  "metaDescription": "Expertly tested and OEM Denso ECU Engine Controller for Nissan Navara. Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€480.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Nissan Navara",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Navara Denso MB275800-6724",
+    "23710 EC02C"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Nissan Navara offers a seamless solution to your engine control unit issues, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Tested and Certified</li>\n      <li>Plug & Play for Easy Installation</li>\n      <li>Compatible with Nissan Navara</li>\n      <li>6-month Warranty</li>\n      <li>Used in Good Condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>PARTS</td>\n          <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n          <td>BRAND AND MODEL</td>\n          <td>NISSAN NAVARA</td>\n        </tr>\n        <tr>\n          <td>NUMBER MANUFACTURER</td>\n          <td>DENSO MB275800-6724</td>\n        </tr>\n        <tr>\n          <td>NUMBER PARTS</td>\n          <td>23710 EC02C</td>\n        </tr>\n        <tr>\n          <td>OPTION AVAILABLE</td>\n          <td>LOCKED / UNLOCKED</td>\n        </tr>\n        <tr>\n          <td>WARRANTY :</td>\n          <td>6-month warranty</td>\n        </tr>\n        <tr>\n          <td>INSPECTION:</td>\n          <td>Device thoroughly inspected and tested by a certified technician</td>\n        </tr>\n        <tr>\n          <td>CONDITION</td>\n          <td>USED IN GOOD CONDITION</td>\n        </tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility with your specific vehicle model and year before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN NAVARA DENSO MB275800-6724, MB2758006724, 23710 EC02C, 23710EC02C, 7X",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-NAVARA-DENSO-MB275800-6724%2C-MB2758006724%2C-23710-EC02C%2C-23710EC02C%2C-7X-/80255",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "9CFF-623E7_20151008215912",
+    "sku": "9CFF-623E7_20151008215912",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN NAVARA DENSO MB275800-6724, MB2758006724, 23710 EC02C, 23710EC02C, 7X </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN NAVARA",
+      "NUMBER MANUFACTURER": "DENSO MB275800-6724",
+      "NUMBER PARTS": "23710 EC02C",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:28:43.621Z",
+    "model": "mistral:7b",
+    "durationMs": 12412,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Audi 2.0 TFSI BOSCH 0 261 S02 347 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-2-0-tsfi-bosch-0-261-s02-347-tested",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Audi 2.0 TFSI BOSCH 0 261 S02 347, backed by a 6-month warranty and fast shipping.",
+  "price": "€800.00",
+  "excerpt": "OEM tested ECU Engine Controller for Audi 2.0 TFSI BOSCH 0 261 S02 347 - Plug & Play, Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi 2.0 TFSI",
+    "BOSCH 0 261 S02 347"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Audi 2.0 TFSI BOSCH 0 261 S02 347 is a reliable replacement, ensuring seamless integration and optimal vehicle performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Fast Dispatch</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>AUDI</td></tr>\n<tr><td>ENGINE</td><td>2.0 TFSI</td></tr>\n<tr><td>YEAR</td><td>2006</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 S02 347</td></tr>\n<tr><td>NUMBER PARTS</td><td>06F 906 056 FD</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and specific ECU programming requirements. Please consult with a professional technician before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI 2.0 TFSI BOSCH 0 261 S02 347, 0261S02347, 06F 906 056 GL, 06F906056GL, 06F906056FD, MED9.5.10",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-2.0-TFSI-BOSCH-0-261-S02-347%2C-0261S02347%2C-06F-906-056-GL%2C-06F906056GL%2C-06F906056FD%2C-MED9.5.10-/82304",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D61E-31483_20151123194609",
+    "sku": "D61E-31483_20151123194609",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI 2.0 TFSI BOSCH 0 261 S02 347, 0261S02347, 06F 906 056 GL, 06F906056GL, 06F906056FD, MED9.5.10 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI",
+      "ENGINE": "2.0 TFSI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S02 347",
+      "NUMBER PARTS": "06F 906 056 FD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:35:45.158Z",
+    "model": "mistral:7b",
+    "durationMs": 11820,
+    "priceIncrement": 100
+  }
+}

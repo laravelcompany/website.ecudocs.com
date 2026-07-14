@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Nissan Almera (2000-2006) - MEC32-221 B1, 6G - Hitachi",
+  "slug": "plug-play-oem-ecu-replacement-for-nissan-almera-mec32-221-b1-6g-hitachi",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for Nissan Almera (2000-2006) - MEC32-221 B1, 6G. Enjoy fast dispatch and 12-month warranty. Upgrade your vehicle today!",
+  "price": "€350.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Nissan Almera",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Almera",
+    "MEC32-221 B1",
+    "6G",
+    "Hitachi"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for Nissan Almera (2000-2006) - MEC32-221 B1, 6G is thoroughly inspected and tested by a certified technician. It's a Plug & Play replacement, ensuring easy installation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>NISSAN ALMERA</td></tr>\n        <tr><th>YEAR:</th><td>2000-2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>MEC32-221 B1</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>6G</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with fast dispatch across EU. Backed by a 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA, MEC32-221 B1, MEC32221 B1, MEC32221B1, 4Y01, 6G",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA%2C-MEC32-221-B1%2C-MEC32221-B1%2C-MEC32221B1%2C-4Y01%2C-6G/38449",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "18A9-42496_20130724121637",
+    "sku": "18A9-42496_20130724121637",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA, MEC32-221 B1, MEC32221 B1, MEC32221B1, 4Y01, 6G</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "YEAR": "2000-2006",
+      "NUMBER MANUFACTURER": "MEC32-221 B1",
+      "NUMBER PARTS": "6G",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:11:37.987Z",
+    "model": "mistral:7b",
+    "durationMs": 9693,
+    "priceIncrement": 100
+  }
+}

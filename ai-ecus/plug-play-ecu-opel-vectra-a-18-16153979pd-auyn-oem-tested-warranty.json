@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Vectra A 1.8 (16153979PD, AUYN) - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-vectra-a-18-16153979pd-auyn-oem-tested-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for your Opel Vectra A 1.8 (16153979PD, AUYN). Enjoy fast shipping and a 6-month warranty.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Vectra A 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Vectra A",
+    "16153979PD",
+    "AUYN"
+  ],
+  "description": "<section class=\"overview\">This Oryginal ECU Engine Controller for Opel Vectra A 1.8 (16153979PD, AUYN) has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL VECTRA A</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>YEAR</th><td>1990</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>16153979PD</td></tr>\n        <tr><th>NUMBER PARTS</th><td>AUYN</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA A 16153979 PD, 16153979PD, AUYN",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-A-16153979-PD%2C-16153979PD%2C-AUYN/65776",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "FE33-4114A_20140912131718",
+    "sku": "FE33-4114A_20140912131718",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA A 16153979 PD, 16153979PD, AUYN</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VECTRA A",
+      "ENGINE": "1.8",
+      "YEAR": "1990",
+      "NUMBER MANUFACTURER": "16153979PD",
+      "NUMBER PARTS": "AUYN",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:22:17.471Z",
+    "model": "mistral:7b",
+    "durationMs": 9297,
+    "priceIncrement": 100
+  }
+}

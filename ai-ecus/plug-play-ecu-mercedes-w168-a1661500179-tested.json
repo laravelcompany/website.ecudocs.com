@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W168 A 166 150 01 79, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w168-a1661500179-tested",
+  "metaDescription": "Expertly tested ECU Engine Controller for Mercedes W168 A 166 150 01 79. Plug & Play, OEM original in good condition, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU for Mercedes W168 A 166 150 01 79",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W168",
+    "OEM part numbers",
+    "A1661500179"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for Mercedes W168 A 166 150 01 79 ensures seamless engine control.</section>\n<section class=\"features\"><ul><li>OEM original in good condition</li><li>Plug & Play functionality</li><li>6-month warranty</li><li>Thoroughly inspected and tested by a certified technician</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <thead>\n      <tr>\n        <th>Specification</th>\n        <th>Value</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><td>BRAND AND MODEL</td><td>MERCEDES W168</td></tr>\n      <tr><td>NUMBER MANUFACTURER</td><td>A 168 150 01 79</td></tr>\n      <tr><td>NUMBER PARTS</td><td>A 166 140 47 00</td></tr>\n      <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n      <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n      <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </tbody>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Mercedes W168 A 166 150 01 79. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W168 A 166 150 01 79, A1661500179, A1661404700",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W168-A-166-150-01-79%2C-A1661500179%2C-A1661404700/107329",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "VDO",
+    "productCode": "865F-493A7_20171107151641",
+    "sku": "865F-493A7_20171107151641",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W168 A 166 150 01 79, A1661500179, A1661404700</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9d596fc350755155103c8fa103d220ce_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_5d47564f47039f478092bb0340db2a7b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W168",
+      "NUMBER MANUFACTURER": "A 168 150 01 79",
+      "NUMBER PARTS": "A 166 140 47 00",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:04:51.984Z",
+    "model": "mistral:7b",
+    "durationMs": 11186,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Hyundai i30 39199-2ABB3 Bosch",
+  "slug": "plug-play-ecu-hyundai-i30-39199-2abbb-bosch",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for your Hyundai i30. Enjoy a 6-month warranty and fast shipping.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement - Hyundai i30",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai i30",
+    "Bosch",
+    "39199-2ABB3"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement ensures seamless engine control for your Hyundai i30. Restored to good working condition and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used but in Good Condition</li>\n        <li>Thoroughly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>HYUNDAI</td></tr>\n        <tr><th>NUMBER PARTS</th><td>39199-2ABB3</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI 0281031420 39199-2ABB3 39199-2ABB3",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-0281031420-39199-2ABB3-39199-2ABB3/133866",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2EE6-62179_20230206135306",
+    "sku": "2EE6-62179_20230206135306",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI 0281031420 39199-2ABB3 39199-2ABB3</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI",
+      "NUMBER PARTS": "39199-2ABB3",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:29:59.528Z",
+    "model": "mistral:7b",
+    "durationMs": 9292,
+    "priceIncrement": 100
+  }
+}

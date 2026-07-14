@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for SKODA OCTAVIA 1.6 - Siemens 5WP40274 01 BENZIN SIMOS 7.1A - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-skoda-octavia-1-6-siemens-5wp40274-01-benzin-simos-7-1a-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for SKODA OCTAVIA 1.6 with 6-month warranty. Plug & Play replacement. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for SKODA OCTAVIA 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WP40274",
+    "SKODA OCTAVIA"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for SKODA OCTAVIA 1.6 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Locked</li><li>Ready for programming</li><li>6-month warranty</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>SKODA OCTAVIA</td></tr>\n    <tr><th>ENGINE</th><td>1.6</td></tr>\n    <tr><th>YEAR</th><td>2005</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>5WP40274</td></tr>\n    <tr><th>NUMBER PARTS</th><td>SIMOS 7.1A</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SKODA OCTAVIA 1.6. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 1.6 06A906033FB, 06A 906 033 FB, 5WP40274 01 BENZIN SIMOS 7.1A",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-1.6-06A906033FB%2C-06A-906-033-FB%2C-5WP40274-01-BENZIN-SIMOS-7.1A/31616",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "9CD7-26608_20121017014447",
+    "sku": "9CD7-26608_20121017014447",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 1.6 06A906033FB, 06A 906 033 FB, 5WP40274 01 BENZIN SIMOS 7.1A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.6",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "5WP40274",
+      "NUMBER PARTS": "SIMOS 7.1A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:31:09.731Z",
+    "model": "mistral:7b",
+    "durationMs": 8928,
+    "priceIncrement": 100
+  }
+}

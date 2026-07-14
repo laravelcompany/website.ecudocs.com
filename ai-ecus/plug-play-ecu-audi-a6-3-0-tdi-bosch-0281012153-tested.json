@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A6 3.0 TDI Bosch 0 281 012 153 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-audi-a6-3-0-tdi-bosch-0281012153-tested",
+  "metaDescription": "OEM tested ECU replacement for Audi A6 3.0 TDI, offering Plug & Play functionality and backed by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "OEM tested ECU replacement for Audi A6 3.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "3.0 TDI",
+    "Bosch",
+    "0 281 012 153"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is designed specifically for the Audi A6 3.0 TDI, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play functionality</li><li>OEM tested for quality assurance</li><li>6-month warranty</li><li>Compatible with Audi A6 3.0 TDI</li><li>Bosch part number: 4F0 910 401 L</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>INSPECTION:</th><th>WARRANTY :</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>AUDI A6</td><td>3.0 TDI</td><td>2004</td><td>BOSCH 0 281 012 153</td><td>4F0 910 401 L</td><td>LOCKED / UNLOCKED</td><td>Device thoroughly inspected and tested by a certified technician</td><td>6-month warranty</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Contact us for any compatibility questions.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 3.0 TDI BOSCH 0 281 012 153, 0281012153, 4F0 907 401 A, 4F0907401A, 4F0 910 401 L, 4F0910401L",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-3.0-TDI-BOSCH-0-281-012-153%2C-0281012153%2C-4F0-907-401-A%2C-4F0907401A%2C-4F0-910-401-L%2C-4F0910401L/30922",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "ECE8-9049D_20121005220123",
+    "sku": "ECE8-9049D_20121005220123",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 3.0 TDI BOSCH 0 281 012 153, 0281012153, 4F0 907 401 A, 4F0907401A, 4F0 910 401 L, 4F0910401L</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "3.0 TDI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 153",
+      "NUMBER PARTS": "4F0 910 401 L",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:37:35.711Z",
+    "model": "mistral:7b",
+    "durationMs": 9853,
+    "priceIncrement": 100
+  }
+}

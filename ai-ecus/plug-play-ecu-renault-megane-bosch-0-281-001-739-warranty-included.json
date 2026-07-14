@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Renault Megane - Bosch 0 281 001 739, 7700107091 - Warranty Included",
+  "slug": "plug-play-ecu-renault-megane-bosch-0-281-001-739-warranty-included",
+  "metaDescription": "Find your Plug & Play OEM Tested ECU Replacement for Renault Megane. This Bosch 0 281 001 739, 7700107091 unit is thoroughly inspected and tested by a certified technician, offering a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Renault Megane",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Renault Megane is a reliable solution to keep your vehicle running smoothly. It features the Bosch 0 281 001 739 number and comes with a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>ECU Replacement</li>\n<li>Used Original in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>RENAULT MEGANE</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 739</td></tr>\n<tr><th>NUMBER PARTS</th><td>7700107091</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE BOSCH 0 281 001 739, 0281001739, 7700107091",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-BOSCH-0-281-001-739%2C-0281001739%2C-7700107091/105096",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A288-977BE_20170525151508",
+    "sku": "A288-977BE_20170525151508",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE BOSCH 0 281 001 739, 0281001739, 7700107091</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_68ea838deeab408a04e13df4be37a2e0_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_744998cfda3a9bd49ac3daa244bdd8fc_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 739",
+      "NUMBER PARTS": "7700107091",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:52:42.372Z",
+    "model": "mistral:7b",
+    "durationMs": 10566,
+    "priceIncrement": 100
+  }
+}

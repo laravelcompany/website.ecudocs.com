@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 1.8, 93BB-12A650-BC, BLIP - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-mondeo-18-93bb12a650bc-blip-warranty",
+  "metaDescription": "Buy this OEM tested Plug & Play ECU Replacement for Ford Mondeo 1.8, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€200.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "93BB-12A650-BC",
+    "BLIP"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Ford Mondeo 1.8 has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch within EU</li>\n<li>Expertly Repaired</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD MONDEO</td></tr>\n<tr><td>ENGINE</td><td>1.8</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>93BB-12A650-BC</td></tr>\n<tr><td>NUMBER PARTS</td><td>BLIP</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 1.8, 93BB-12A650-BC, 93BB12A650BC, BLIP",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-1.8%2C-93BB-12A650-BC%2C-93BB12A650BC%2C-BLIP-/46629",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "45F1-713B0",
+    "sku": "45F1-713B0",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 1.8, 93BB-12A650-BC, 93BB12A650BC, BLIP </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_6c15ca90a7e92afe73bd32af23d64171_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0d7dafad834035e7b1bfab8b22f46273_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "93BB-12A650-BC",
+      "NUMBER PARTS": "BLIP",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:34:40.274Z",
+    "model": "mistral:7b",
+    "durationMs": 10058,
+    "priceIncrement": 100
+  }
+}

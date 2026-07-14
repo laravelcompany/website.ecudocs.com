@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Fiesta 1.25 OEM Tested, 6-month Warranty, S180047002 D, 0SAD, J38AC",
+  "slug": "plug-play-ecu-ford-fiesta-125-oem-tested-s180047002-d-0sad-j38ac",
+  "metaDescription": "Buy Plug & Play ECU Replacement for Ford Fiesta 1.25, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU replacement for Ford Fiesta 1.25",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "1.25 engine",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Ford Fiesta 1.25 is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used Oryginal in Good Condition</li>\n        <li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FIESTA</td></tr>\n        <tr><th>ENGINE</th><td>1.25</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>S180047002 D</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0SAD, J38AC</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.25 8V21-12A650-SD, 8V2112A650SD, 12A650SD, S180047002 D, 0SAD, J38AC",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.25-8V21-12A650-SD%2C-8V2112A650SD%2C-12A650SD%2C-S180047002-D%2C-0SAD%2C-J38AC/118865",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "FoMoCo",
+    "productCode": "AE7F-876D7",
+    "sku": "AE7F-876D7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.25 8V21-12A650-SD, 8V2112A650SD, 12A650SD, S180047002 D, 0SAD, J38AC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.25",
+      "NUMBER MANUFACTURER": "S180047002 D",
+      "NUMBER PARTS": "0SAD, J38AC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:17:11.555Z",
+    "model": "mistral:7b",
+    "durationMs": 8980,
+    "priceIncrement": 100
+  }
+}

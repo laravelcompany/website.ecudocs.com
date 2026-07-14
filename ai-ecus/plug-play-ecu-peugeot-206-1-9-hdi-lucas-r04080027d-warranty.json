@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot 206 1.9 HDI Lucas R04080027D, Warranty Included",
+  "slug": "plug-play-ecu-peugeot-206-1-9-hdi-lucas-r04080027d-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Peugeot 206 1.9 HDI Lucas R04080027D with 6-month warranty and fast dispatch in Europe.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Peugeot 206 1.9 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 206",
+    "Lucas R04080027D"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Peugeot 206 1.9 HDI is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch in Europe</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>PEUGEOT 206</td></tr>\n        <tr><th>ENGINE:</th><td>1.9 HDI</td></tr>\n        <tr><th>YEAR:</th><td>2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>LUCAS R04080027D</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>DWLC12</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">This product comes with a 6-month warranty and shipping within 24–48 hours in Europe.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. If you have any doubts, consult a professional technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 206 1.9 LUCAS R04080027D, PSA 9641390180, SOFT 9646260380, DCN2, DWLC12",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-206-1.9-LUCAS-R04080027D%2C-PSA-9641390180%2C-SOFT-9646260380%2C-DCN2%2C-DWLC12/13164",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "7C87-1135E",
+    "sku": "7C87-1135E",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 206 1.9 LUCAS R04080027D, PSA 9641390180, SOFT 9646260380, DCN2, DWLC12</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 206",
+      "ENGINE": "1.9 HDI",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "LUCAS R04080027D",
+      "NUMBER PARTS": "DWLC12",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:46:44.833Z",
+    "model": "mistral:7b",
+    "durationMs": 10063,
+    "priceIncrement": 100
+  }
+}

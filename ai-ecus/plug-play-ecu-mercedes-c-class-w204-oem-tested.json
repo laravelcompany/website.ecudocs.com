@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes C-Class W204 (2010-2011) - OEM Tested Bosch 0261S06496, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-c-class-w204-oem-tested",
+  "metaDescription": "Expertly tested and OEM Bosch ECU engine controller for Mercedes C-Class (W204, 2010-2011) with 6-month warranty. Fast dispatch in EU.",
+  "price": "€880.00",
+  "excerpt": "Plug & Play ECU replacement for Mercedes C-Class W204",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0261S06496",
+    "Mercedes C-Class W204"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU engine controller is a direct replacement for Mercedes C-Class (W204, 2010-2011) vehicles. It ensures seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested and guaranteed fitment</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Condition: Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES</td></tr>\n        <tr><th>YEAR</th><td>2010-2011</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0261S06496, 0 261 S06 496</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S39478</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes C-Class W204 (2010-2011). Fitment caution: Ensure proper installation by a qualified technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES A2769001500, A 276 900 15 00, A2769010500, A 276 901 05 00, BOSCH 0261S06496, 0 261 S06 496, MED17.7.1 1039S39478",
+    "price": "€800.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-A2769001500%2C-A-276-900-15-00%2C-A2769010500%2C-A-276-901-05-00%2C-BOSCH-0261S06496%2C-0-261-S06-496%2C-MED17.7.1-1039S39478/25854",
+    "priceCurrency": "EUR",
+    "netPrice": "€650.41",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "31A1-23152_20120610184634",
+    "sku": "31A1-23152_20120610184634",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES A2769001500, A 276 900 15 00, A2769010500, A 276 901 05 00, BOSCH 0261S06496, 0 261 S06 496, MED17.7.1 1039S39478</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_502ffd5ec7258bb6d9d7f4dd63996e01_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b8f476e3cb8bb5fdb0bf4a3935221ac8_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "YEAR": "2010-2011",
+      "NUMBER MANUFACTURER": "BOSCH 0261S06496, 0 261 S06 496",
+      "NUMBER PARTS": "1039S39478",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:11:18.969Z",
+    "model": "mistral:7b",
+    "durationMs": 10044,
+    "priceIncrement": 100
+  }
+}

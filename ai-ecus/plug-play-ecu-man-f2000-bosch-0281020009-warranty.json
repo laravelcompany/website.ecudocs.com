@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller MAN F2000 Bosch 0 281 020 009, Warranty Included",
+  "slug": "plug-play-ecu-man-f2000-bosch-0281020009-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller MAN F2000 Bosch 0 281 020 009 with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller MAN F2000 Bosch",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "MAN F2000",
+    "Bosch",
+    "Used in Good Condition"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller MAN F2000 Bosch is a reliable replacement for your vehicle's engine control unit.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play for Easy Installation</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Fast Dispatch within EU</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MAN F2000</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 020 009</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAN F2000 BOSCH 0 281 020 009, 0281020009",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAN-F2000-BOSCH-0-281-020-009%2C-0281020009/75803",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "16B2-78552_20150630174117",
+    "sku": "16B2-78552_20150630174117",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAN F2000 BOSCH 0 281 020 009, 0281020009</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9f2fab49e6b324eec2edd9187009c397_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_206fdfd2cb8a507b666fe728afe53217_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAN F2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 020 009",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:49:20.394Z",
+    "model": "mistral:7b",
+    "durationMs": 9722,
+    "priceIncrement": 100
+  }
+}

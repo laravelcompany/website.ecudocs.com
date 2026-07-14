@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi A4/VW Passat 1.8 ADR - OEM Tested, Bosch 0261204774, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-vw-passat-18-adr-bosch-0261204774-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Audi A4/VW Passat 1.8 ADR, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU replacement for Audi A4/VW Passat 1.8 ADR - Tested, Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0261204774",
+    "Audi A4",
+    "VW Passat"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Audi A4/VW Passat 1.8 ADR is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM-tested for guaranteed fitment</li>\n        <li>6-month warranty</li>\n        <li>Compatible with Audi A4 and VW Passat 1.8 ADR models</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A4 VW PASSAT</td></tr>\n        <tr><th>ENGINE</th><td>1.8 ADR</td></tr>\n        <tr><th>YEAR</th><td>1997</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 204 774</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8D0 907 558 B</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Audi A4 and VW Passat 1.8 ADR models only. Fitment caution may apply for specific years or variations.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 VW PASSAT 1.8 ADR 8D0 907 558 B, 8D0907558B, BOSCH 0261204774, 0 261 204 774",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-VW-PASSAT-1.8-ADR-8D0-907-558-B%2C-8D0907558B%2C-BOSCH-0261204774%2C-0-261-204-774-/13329",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "6FA8-12983",
+    "sku": "6FA8-12983",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 VW PASSAT 1.8 ADR 8D0 907 558 B, 8D0907558B, BOSCH 0261204774, 0 261 204 774 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4 VW PASSAT",
+      "ENGINE": "1.8 ADR",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 774",
+      "NUMBER PARTS": "8D0 907 558 B",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:23:41.780Z",
+    "model": "mistral:7b",
+    "durationMs": 10490,
+    "priceIncrement": 100
+  }
+}

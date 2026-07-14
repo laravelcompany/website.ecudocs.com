@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Chevrolet Kalos 1.2 - Kemsco S010016040 A2 96376652 TC 1ANG, 1AYJ - Warranty Included",
+  "slug": "plug-play-ecu-chevrolet-kalos-1-2-kemsco-s010016040-a2-96376652-tc-1ang-1ayj-war",
+  "metaDescription": "Get the ECU ENGINE CONTROLLER CHEVROLET KALOS 1.2 S010016040 A2 96376652 TC 1ANG, 1AYJ, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Chevrolet Kalos 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet Kalos",
+    "Kemsco",
+    "S010016040"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement ensures seamless integration with your Chevrolet Kalos 1.2 engine.</section>\n<section class=\"features\"><ul><li>Locked and ready for programming</li><li>Thoroughly inspected and tested by a certified technician</li><li>6-month warranty</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>CHEVROLET KALOS</td><td>1.2</td><td>S010016040</td><td>A2 96376652 TC 1ANG, 1AYJ</td><td>Locked / Ready for programming</td></tr></table></section>\n<section class=\"shipping\">Shipping within EU with 12-month warranty and fast dispatch.</section>\n<section class=\"compatibility\">Compatibility may vary. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET KALOS 1.2 S010016040 A2 96376652 TC 1ANG, 1AYJ",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-KALOS-1.2-S010016040-A2-96376652-TC-1ANG%2C-1AYJ/28464",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Kemsco",
+    "productCode": "B28E-8762A_20120828172753",
+    "sku": "B28E-8762A_20120828172753",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET KALOS 1.2 S010016040 A2 96376652 TC 1ANG, 1AYJ</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a2d51c1faf590f1c2fa82928b513d7df_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1dc33609e13859ea4920462947962e31_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET KALOS",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "S010016040",
+      "NUMBER PARTS": "A2 96376652 TC 1ANG, 1AYJ",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:59:38.907Z",
+    "model": "mistral:7b",
+    "durationMs": 9547,
+    "priceIncrement": 100
+  }
+}

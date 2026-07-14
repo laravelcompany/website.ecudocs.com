@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Puma 1.4 16V, 98FB-12A650-TB, 98FB12A650TB, PHIL - ECU Replacement",
+  "slug": "plug-play-ecu-ford-puma-14-16v-98fb-12a650-tb-98fb12a650tb-phil-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Ford Puma 1.4 16V, 98FB-12A650-TB, 98FB12A650TB, PHIL. Ships within 24–48 hours. 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Ford Puma 1.4 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Puma",
+    "1.4 16V",
+    "98FB-12A650-TB",
+    "98FB12A650TB",
+    "PHIL"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is specifically designed for Ford Puma 1.4 16V models. It ensures seamless integration and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with PHIL number parts</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD PUMA</td></tr>\n        <tr><th>ENGINE</th><td>1.4 16V</td></tr>\n        <tr><th>YEAR</th><td>1998-2004</td></tr>\n        <tr><th>NUMBER PARTS</th><td>PHIL</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>complet</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is specifically designed for Ford Puma 1.4 16V models and may not fit other vehicles or engines.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD PUMA 1.4 16V, 98FB-12A650-TB, 98FB12A650TB, PHIL",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-PUMA-1.4-16V%2C-98FB-12A650-TB%2C-98FB12A650TB%2C-PHIL/55927",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "E11B-80005_20140513122049",
+    "sku": "E11B-80005_20140513122049",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD PUMA 1.4 16V, 98FB-12A650-TB, 98FB12A650TB, PHIL</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD PUMA",
+      "ENGINE": "1.4 16V",
+      "YEAR": "1998-2004",
+      "NUMBER PARTS": "PHIL",
+      "OPTION AVAILABLE": "complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:52:59.227Z",
+    "model": "mistral:7b",
+    "durationMs": 11790,
+    "priceIncrement": 100
+  }
+}

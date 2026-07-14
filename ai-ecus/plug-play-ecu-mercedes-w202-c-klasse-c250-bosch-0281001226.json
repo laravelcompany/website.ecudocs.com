@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W202 C-Klasse C250 2.5 Diesel Engine - Bosch 0281001226",
+  "slug": "plug-play-ecu-mercedes-w202-c-klasse-c250-bosch-0281001226",
+  "metaDescription": "OEM Tested ECU Engine Controller for Mercedes W202 C-Klasse C250, offering Plug & Play convenience and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W202 C-Klasse C250",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W202 C-Klasse C250",
+    "Bosch 0281001226"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller is specifically designed for Mercedes W202 C-Klasse C250, ensuring seamless integration and optimal vehicle performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play convenience</li>\n<li>OEM tested for reliability</li>\n<li>6-month warranty</li>\n<li>Used in good condition</li>\n<li>Compatible with 2.5 Diesel engine (1995-96)</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>MERCEDES W202 C-KLASA C 250</td></tr>\n<tr><th>ENGINE</th><td>2.5 DIESEL</td></tr>\n<tr><th>YEAR</th><td>1995-96</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 226</td></tr>\n<tr><th>NUMBER PARTS</th><td>A 016 545 07 32</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W202 C-Klasse C250 (1995-96). Fitment caution may apply; consult a certified technician for installation assistance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W202 C-KLASA C 250 A0165450732, A 016 545 07 32, 0165450732, BOSCH 0281001226, 0 281 001 226",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W202-C-KLASA-C-250-A0165450732%2C-A-016-545-07-32%2C-0165450732%2C-BOSCH-0281001226%2C-0-281-001-226/12867",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5738-603FA",
+    "sku": "5738-603FA",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W202 C-KLASA C 250 A0165450732, A 016 545 07 32, 0165450732, BOSCH 0281001226, 0 281 001 226</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W202 C-KLASA C250",
+      "ENGINE": "2.5 DIESEL",
+      "YEAR": "1995-96",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 226",
+      "NUMBER PARTS": "A 016 545 07 32",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:14:49.695Z",
+    "model": "mistral:7b",
+    "durationMs": 10396,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Mondeo III 2.2 TDCI - OEM Tested, Warranty Included (6S71-12A650-EA, 6S7112A650EA, 28044226, R0411C048A)",
+  "slug": "plug-play-ecu-replacement-ford-mondeo-iii-2-2-tdci-delphi-6s7112a650ea-28044226-",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Ford Mondeo III 2.2 TDCI engine. Covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo III 2.2 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo III",
+    "2.2 TDCI",
+    "Delphi",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Delphi ECU Engine Controller is a Plug & Play replacement for the Ford Mondeo III 2.2 TDCI engine, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with Ford Mondeo III 2.2 TDCI engine</li>\n        <li>Used, in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD MONDEO III</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.2 TDCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>R0411C048A</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Mondeo III 2.2 TDCI engine. Fitment caution: Ensure proper installation by a certified technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO III 6S71-12A650-EA, 6S7112A650EA, 28044226, R0411C048A",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-III-6S71-12A650-EA%2C-6S7112A650EA%2C-28044226%2C-R0411C048A/59006",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "3A31-5355D_20140618150335",
+    "sku": "3A31-5355D_20140618150335",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO III 6S71-12A650-EA, 6S7112A650EA, 28044226, R0411C048A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO III",
+      "ENGINE": "2.2 TDCI",
+      "YEAR": "2005",
+      "NUMBER PARTS": "R0411C048A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:49:28.496Z",
+    "model": "mistral:7b",
+    "durationMs": 11458,
+    "priceIncrement": 100
+  }
+}

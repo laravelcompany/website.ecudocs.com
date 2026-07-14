@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Seat Leon 1.9 TDI ASV (2001-03) - OEM Tested, Bosch 0 281 010 683, 28SA5092 - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-seat-leon-19-tdi-asv-2001-03-oem-tested-bosch-0-281-01",
+  "metaDescription": "Get a Plug & Play ECU replacement for your Seat Leon 1.9 TDI ASV (2001-03) with Bosch 0 281 010 683, 28SA5092. OEM tested and backed by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Seat Leon 1.9 TDI ASV",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Leon 1.9 TDI ASV",
+    "Bosch 0 281 010 683",
+    "28SA5092"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for your Seat Leon 1.9 TDI ASV is a reliable solution to restore optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Seat Leon 1.9 TDI ASV (2001-03)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SEAT LEON</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 TDI ASV</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001-03</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 010 683</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>28SA5092</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is specifically designed for Seat Leon 1.9 TDI ASV (2001-03). Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT LEON 1.9 TDI ASV 038906012FK, 038 906 012 FK, BOSCH 0 281 010 683, 0281010683, DIESEL EDC15VM+ 3357, 28SA5092",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-LEON-1.9-TDI-ASV-038906012FK%2C-038-906-012-FK%2C-BOSCH-0-281-010-683%2C-0281010683%2C-DIESEL-EDC15VM-3357%2C-28SA5092-/16194",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DB10-1530D",
+    "sku": "DB10-1530D",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT LEON 1.9 TDI ASV 038906012FK, 038 906 012 FK, BOSCH 0 281 010 683, 0281010683, DIESEL EDC15VM+ 3357, 28SA5092 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT LEON",
+      "ENGINE": "1.9 TDI ASV",
+      "YEAR": "2001-03",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 683",
+      "NUMBER PARTS": "28SA5092",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:07:27.086Z",
+    "model": "mistral:7b",
+    "durationMs": 12850,
+    "priceIncrement": 100
+  }
+}

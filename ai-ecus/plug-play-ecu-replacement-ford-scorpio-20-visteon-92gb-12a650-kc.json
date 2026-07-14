@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Scorpio 2.0 VISTEON 92GB-12A650-KC, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-scorpio-20-visteon-92gb-12a650-kc",
+  "metaDescription": "OEM tested ECU replacement for Ford Scorpio 2.0 VISTEON 92GB-12A650-KC, offering Plug & Play installation and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU replacement for Ford Scorpio 2.0 VISTEON 92GB-12A650-KC",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Scorpio 2.0",
+    "Visteon 92GB-12A650-KC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Ford Scorpio 2.0 VISTEON 92GB-12A650-KC offers reliable performance and easy Plug & Play installation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD SCORPIO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>VISTEON 92GB-12A650-KC</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>BIRD</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD SCORPIO 2.0 VISTEON 92GB-12A650-KC, 92GB12A650KC, BIRD, EFI-SD237",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-SCORPIO-2.0-VISTEON-92GB-12A650-KC%2C-92GB12A650KC%2C-BIRD%2C-EFI-SD237-/101338",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "6FF9-189DF_20161230161135",
+    "sku": "6FF9-189DF_20161230161135",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD SCORPIO 2.0 VISTEON 92GB-12A650-KC, 92GB12A650KC, BIRD, EFI-SD237 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD SCORPIO",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "VISTEON 92GB-12A650-KC",
+      "NUMBER PARTS": "BIRD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:57:00.181Z",
+    "model": "mistral:7b",
+    "durationMs": 13439,
+    "priceIncrement": 100
+  }
+}

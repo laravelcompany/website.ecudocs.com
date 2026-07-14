@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Peugeot Citroen SID 801 - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-for-peugeot-citroen-sid-801-warranty",
+  "metaDescription": "Buy a Plug & Play OEM Tested ECU Engine Controller for Peugeot Citroen SID 801, backed by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Peugeot Citroen SID 801",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot Citroen SID 801",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Peugeot Citroen SID 801 is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL:</th><td>PEUGEOT CITROEN</td></tr>\n<tr><th>NUMBER PARTS:</th><td>HW 9644323980</td></tr>\n<tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT CITROEN SIEMENS SID 801 5WS40025E-T, 5WS40025ET, SW 9646801080, HW 9644323980",
+    "price": "€275.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-CITROEN-SIEMENS-SID-801-5WS40025E-T%2C-5WS40025ET%2C-SW-9646801080%2C-HW-9644323980-/59350",
+    "priceCurrency": "EUR",
+    "netPrice": "€223.58",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "9652-25165_20140624134857",
+    "sku": "9652-25165_20140624134857",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT CITROEN SIEMENS SID 801 5WS40025E-T, 5WS40025ET, SW 9646801080, HW 9644323980 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_6995ae78af803aa8c5c9d3c205947af2_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_610f50c3d16676bae55f37cd5453f3a3_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT CITROEN",
+      "NUMBER PARTS": "HW 9644323980",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:32:06.081Z",
+    "model": "mistral:7b",
+    "durationMs": 9004,
+    "priceIncrement": 100
+  }
+}

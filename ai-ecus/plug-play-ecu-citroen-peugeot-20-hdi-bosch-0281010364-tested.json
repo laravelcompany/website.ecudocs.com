@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Engine Controller - Citroen Peugeot 2.0 HDI Bosch 0 281 010 364, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-citroen-peugeot-20-hdi-bosch-0281010364-tested",
+  "metaDescription": "Buy ECU Engine Controller for Citroen Peugeot 2.0 HDI Bosch 0 281 010 364, Plug & Play, OEM Tested, and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Buy ECU Engine Controller for Citroen Peugeot 2.0 HDI Bosch 0 281 010 364",
+  "tags": [
+    "ECU Replacement",
+    "Citroen Peugeot",
+    "2.0 HDI",
+    "Bosch",
+    "Plug & Play"
+  ],
+  "description": "<section class=\"overview\">This ECU Engine Controller is a reliable replacement for Citroen Peugeot 2.0 HDI Bosch, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Locked / Unlocked Option Available</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>CITROEN PEUGEOT</td></tr>\n<tr><td>ENGINE</td><td>2.0 HDI</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 010 364</td></tr>\n<tr><td>NUMBER PARTS</td><td>96 416 073 80</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.0 HDI BOSCH 0 281 010 364, 0281010364, 96 416 073 80, 9641607380",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-2.0-HDI-BOSCH-0-281-010-364%2C-0281010364%2C-96-416-073-80%2C-9641607380-/97832",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2B01-788A7_20161003122535",
+    "sku": "2B01-788A7_20161003122535",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.0 HDI BOSCH 0 281 010 364, 0281010364, 96 416 073 80, 9641607380 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e0d82bbdb5fbdccc3ea6dab0fcb447f3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7d04b8ffed1676eaaa3ac90b463c1c04_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 364",
+      "NUMBER PARTS": "96 416 073 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:08:25.023Z",
+    "model": "mistral:7b",
+    "durationMs": 11190,
+    "priceIncrement": 100
+  }
+}

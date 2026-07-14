@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Renault Safrane 3.0 - Siemens S101722201D, 7-year Warranty",
+  "slug": "oem-tested-plug-play-ecu-renault-safrane-3-0-siemens-s101722201d",
+  "metaDescription": "Expertly tested and OEM certified Plug & Play ECU Replacement for Renault Safrane 3.0 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Renault Safrane 3.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Safrane 3.0",
+    "Siemens S101722201D"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Renault Safrane 3.0 is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Certified</li>\n        <li>Plug & Play Design</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Dispatch</li>\n        <li>Expertly Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT SAFRANE</td></tr>\n        <tr><th>ENGINE</th><td>3.0</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S101722201 D</td></tr>\n        <tr><th>NUMBER PARTS</th><td>7 700 864 498</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Safrane 3.0. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT SAFRANE 3.0 SIEMENS S101722201D, S101722201 D, 101722201, HOM7700851750, HOM 7700851750, 7700864498",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-SAFRANE-3.0-SIEMENS-S101722201D%2C-S101722201-D%2C-101722201%2C-HOM7700851750%2C-HOM-7700851750%2C-7700864498-/32564",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "7A9C-446D3",
+    "sku": "7A9C-446D3",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT SAFRANE 3.0 SIEMENS S101722201D, S101722201 D, 101722201, HOM7700851750, HOM 7700851750, 7700864498 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT SAFRANE",
+      "ENGINE": "3.0",
+      "NUMBER MANUFACTURER": "SIEMENS S101722201 D",
+      "NUMBER PARTS": "7 700 864 498",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:07:56.495Z",
+    "model": "mistral:7b",
+    "durationMs": 9035,
+    "priceIncrement": 100
+  }
+}

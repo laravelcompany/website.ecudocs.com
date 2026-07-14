@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A4 Bosch 0 281 019 895, EDC17C46 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-bosch-0281019895-oem-tested",
+  "metaDescription": "Expertly tested ECU Engine Controller for Audi A4 Bosch 0 281 019 895, EDC17C46. Plug & Play, OEM certified, and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A4 Bosch 0 281 019 895",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Bosch",
+    "0 281 019 895",
+    "EDC17C46"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for the Audi A4 Bosch 0 281 019 895, EDC17C46 is tested and certified by our expert technicians.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Certified</li><li>Warranty Included</li><li>Fast Dispatch</li><li>Expertly Tested</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>AUDI A4</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 019 895</td></tr><tr><th>NUMBER PARTS</th><td>EDC17C46</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific Audi A4 model and configuration. Please consult with a professional technician before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 BOSCH 0 281 019 895, 0281019895, 03L 906 018 SK, 03L906018SK, EDC17C46",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-BOSCH-0-281-019-895%2C-0281019895%2C-03L-906-018-SK%2C-03L906018SK%2C-EDC17C46/113041",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "329E-66796_20190318151512",
+    "sku": "329E-66796_20190318151512",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 BOSCH 0 281 019 895, 0281019895, 03L 906 018 SK, 03L906018SK, EDC17C46</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_227862_0_0/ECU-ENGINE-CONTROLLER-AUDI-A4-BOSCH-0-281-019-895%2C-0281019895%2C-03L-906-018-SK%2C-03L906018SK%2C-EDC17C46.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_227863_0_0/ECU-ENGINE-CONTROLLER-AUDI-A4-BOSCH-0-281-019-895%2C-0281019895%2C-03L-906-018-SK%2C-03L906018SK%2C-EDC17C46.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 019 895",
+      "NUMBER PARTS": "EDC17C46",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:21:52.104Z",
+    "model": "mistral:7b",
+    "durationMs": 10354,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - CITROEN C5 2.2 HDI BOSCH 0281010938, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-c5-2-2-hdi-bosch-0281010938",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your CITROEN C5 2.2 HDI, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Citroen C5 2.2 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen C5",
+    "2.2 HDI",
+    "BOSCH",
+    "0281010938"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller is a reliable replacement for your Citroen C5 2.2 HDI, ensuring seamless engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for optimal performance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used but in good condition</li>\n        <li>Compatible with your Citroen C5 2.2 HDI engine</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>CITROEN C5</td></tr>\n        <tr><th>ENGINE:</th><td>2.2 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 938</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>EDC15C2 48</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen C5 2.2 HDI engine only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C5 2.2 HDI BOSCH 0281010938, 0 281 010 938, 9646196480, 96 461 964 80, 9640938180 EDC15C2 48",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C5-2.2-HDI-BOSCH-0281010938%2C-0-281-010-938%2C-9646196480%2C-96-461-964-80%2C-9640938180-EDC15C2-48/118369",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7972-8411E",
+    "sku": "7972-8411E",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C5 2.2 HDI BOSCH 0281010938, 0 281 010 938, 9646196480, 96 461 964 80, 9640938180 EDC15C2 48</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_241404_0_0/CITROEN-C5-2.2-HDI-BOSCH-0281010938%2C-0-281-010-938%2C-9646196480%2C-96-461-964-80%2C-9640938180-EDC15C2-48.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_241405_0_0/CITROEN-C5-2.2-HDI-BOSCH-0281010938%2C--9646196480%2C-96-461-964-80%2C-9640938180-EDC15C2-48.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C5",
+      "ENGINE": "2.2 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 938",
+      "NUMBER PARTS": "EDC15C2 48",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:43:38.978Z",
+    "model": "mistral:7b",
+    "durationMs": 11213,
+    "priceIncrement": 100
+  }
+}

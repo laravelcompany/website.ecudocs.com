@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Toyota Yaris 1.0 12V VVTI 89661-52061, 211000-7211, 1SZ-FE MT - 6-month Warranty",
+  "slug": "plug-play-ecu-toyota-yaris-10-12v-vvti-8966152061-2110007211-1sz-fe-mt-warranty",
+  "metaDescription": "Expertly refurbished ECU Engine Controller for Toyota Yaris 1.0 12V VVTI (89661-52061, 211000-7211, 1SZ-FE MT). Plug & Play, OEM tested, and backed by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Toyota Yaris",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Yaris",
+    "1SZ-FE MT"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is specifically designed for Toyota Yaris 1.0 12V VVTI (89661-52061, 211000-7211, 1SZ-FE MT).</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>TOYOTA YARIS</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.0 12V VVTI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1999-2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>211000-7211, 2110007211</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1SZ-FE MT</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Toyota Yaris 1.0 12V VVTI (89661-52061, 211000-7211, 1SZ-FE MT).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA YARIS 1.0 12V VVTI 89661-52061, 8966152061, 211000-7211, 2110007211 1SZ-FE MT",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-YARIS-1.0-12V-VVTI-89661-52061%2C-8966152061%2C-211000-7211%2C-2110007211-1SZ-FE-MT-/12870",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Fujitsu",
+    "productCode": "0193-76902",
+    "sku": "0193-76902",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA YARIS 1.0 12V VVTI 89661-52061, 8966152061, 211000-7211, 2110007211 1SZ-FE MT </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA YARIS",
+      "ENGINE": "1.0 12V VVTI",
+      "YEAR": "1999-2005",
+      "NUMBER MANUFACTURER": "211000-7211, 2110007211",
+      "NUMBER PARTS": "1SZ-FE MT",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:34:44.475Z",
+    "model": "mistral:7b",
+    "durationMs": 15190,
+    "priceIncrement": 100
+  }
+}

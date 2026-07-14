@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A4 2.7 TDI BOSCH 0 281 014 145, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-a4-2-7-tdi-bosch-0-281-014-145",
+  "metaDescription": "OEM tested ECU replacement for Audi A4 2.7 TDI, Plug & Play, backed by a warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A4 2.7 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "2.7 TDI",
+    "BOSCH"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Audi A4 2.7 TDI ensures seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A4</td></tr>\n        <tr><th>ENGINE</th><td>2.7 TDI</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 014 145</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8K1 907 401</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle condition and configuration. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 2.7 TDI BOSCH 0 281 014 145, 0281014145, 8K1 907 401, 8K1907401",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-2.7-TDI-BOSCH-0-281-014-145%2C-0281014145%2C-8K1-907-401%2C-8K1907401-/79114",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "53AD-2119A_20150912175029",
+    "sku": "53AD-2119A_20150912175029",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 2.7 TDI BOSCH 0 281 014 145, 0281014145, 8K1 907 401, 8K1907401 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "2.7 TDI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 145",
+      "NUMBER PARTS": "8K1 907 401",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:12:25.760Z",
+    "model": "mistral:7b",
+    "durationMs": 9528,
+    "priceIncrement": 100
+  }
+}

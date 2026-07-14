@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement Peugeot 307 1.6 HDI Bosch 0 281 011 863 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-307-1-6-hdi-bosch-0-281-011-863",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Peugeot 307 1.6 HDI, tested and covered by a 6-month warranty. Order now!",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 307 1.6 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 307",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and used in good condition ECU Engine Controller is a reliable replacement for your Peugeot 307 1.6 HDI.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li><li>EU Shipping</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 307 1.6 HDI BOSCH 0 281 011 863, 0281011863, 96 559 435 80, 9655943580, 9653958980, EDC16C34",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-307-1.6-HDI-BOSCH-0-281-011-863%2C-0281011863%2C-96-559-435-80%2C-9655943580%2C-9653958980%2C-EDC16C34-/81535",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3FBC-55290_20151110233444",
+    "sku": "3FBC-55290_20151110233444",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 307 1.6 HDI BOSCH 0 281 011 863, 0281011863, 96 559 435 80, 9655943580, 9653958980, EDC16C34 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2f3e3e4b8c62ad45a65f9f490fa73455_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0c496e5e30b57fc47bcb6f042d312c1a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 307",
+      "ENGINE": "1.6 HDI",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 863",
+      "NUMBER PARTS": "9653958980",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:04:26.632Z",
+    "model": "mistral:7b",
+    "durationMs": 6672,
+    "priceIncrement": 100
+  }
+}

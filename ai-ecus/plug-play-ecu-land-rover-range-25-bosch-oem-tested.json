@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Land Rover Range 2.5 BOSCH 0 281 001 272, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-land-rover-range-25-bosch-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Land Rover Range 2.5, BOSCH 0 281 001 272, 2 245 332. OEM tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Land Rover Range 2.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Land Rover Range 2.5",
+    "BOSCH 0 281 001 272",
+    "OEM tested"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Land Rover Range 2.5, BOSCH 0 281 001 272, 2 245 332 has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>LAND ROVER RANGE</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.5</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1998</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 001 272</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>2 245 332</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle condition and installation expertise.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LAND ROVER RANGE 2.5, BOSCH 0 281 001 272, 0281001272, ERR 6113, 2 245 332",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LAND-ROVER-RANGE-2.5%2C-BOSCH-0-281-001-272%2C-0281001272%2C-ERR-6113%2C-2-245-332-/41243",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0DE4-3045F_20130912212539",
+    "sku": "0DE4-3045F_20130912212539",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LAND ROVER RANGE 2.5, BOSCH 0 281 001 272, 0281001272, ERR 6113, 2 245 332 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_1fd4616a8f860cf0ace567b2dc3259e5_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c6800aefb21aae804f1fb5c632f8ab86_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LAND ROVER RANGE",
+      "ENGINE": "2.5",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 272",
+      "NUMBER PARTS": "2 245 332",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:45:15.631Z",
+    "model": "mistral:7b",
+    "durationMs": 11596,
+    "priceIncrement": 100
+  }
+}

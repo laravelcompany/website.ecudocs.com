@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement Opel Corsa B 1.4, OEM Tested 16204749 GK, D95011, BPDC - Warranty Included",
+  "slug": "plug-play-ecu-opel-corsa-b-1-4-oem-tested-16204749-gk-d95011-bpdc-warranty",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Opel Corsa B 1.4, 16204749 GK, D95011, BPDC with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€60.00",
+  "excerpt": "OEM tested ECU Engine Controller for Opel Corsa B 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Corsa B",
+    "1.4",
+    "16204749 GK",
+    "D95011",
+    "BPDC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Opel Corsa B 1.4 is a reliable replacement, ensuring optimal engine performance and smooth driving experience.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CORSA B</td></tr>\n        <tr><th>ENGINE</th><td>1.4</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>16204749 GK</td></tr>\n        <tr><th>NUMBER PARTS</th><td>D95011, BPDC</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Corsa B 1.4. Fitment caution may apply. Consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA B 1.4, 16204749 GK, 16204749GK, D95011, BPDC",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-B-1.4%2C-16204749-GK%2C-16204749GK%2C-D95011%2C-BPDC/124854",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "5816-302A8_20210325152627",
+    "sku": "5816-302A8_20210325152627",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA B 1.4, 16204749 GK, 16204749GK, D95011, BPDC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_254305_0_0/OPEL-CORSA-B-1.4%2C-16204749GK%2C-D95011%2C-BPDC.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_254306_0_0/OPEL-CORSA-B-1.4%2C-16204749-GK%2C-16204749GK%2C-D95011%2C-BPDC.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CORSA B",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "16204749 GK",
+      "NUMBER PARTS": "D95011, BPDC",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:53:14.961Z",
+    "model": "mistral:7b",
+    "durationMs": 9928,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Lancia Engine Controller MJD 8F3.Y1, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-lancia-mjd-8f3y1-oem-tested-warranty",
+  "metaDescription": "Buy the tested ECU ENGINE CONTROLLER LANCIA 51908942, MJD 8F3.Y1, MJD8F3Y1 with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Lancia",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia ECU",
+    "MJD 8F3.Y1",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER for Lancia is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>LANCIA</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>MJD 8F3.Y1</td></tr>\n<tr><td>NUMBER PARTS</td><td>51908942</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA 51908942, MJD 8F3.Y1, MJD8F3Y1",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-51908942%2C-MJD-8F3.Y1%2C-MJD8F3Y1/117453",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "EAB7-4325C_20200219155724",
+    "sku": "EAB7-4325C_20200219155724",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA 51908942, MJD 8F3.Y1, MJD8F3Y1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA",
+      "NUMBER MANUFACTURER": "MJD 8F3.Y1",
+      "NUMBER PARTS": "51908942",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:29:28.887Z",
+    "model": "mistral:7b",
+    "durationMs": 10518,
+    "priceIncrement": 100
+  }
+}

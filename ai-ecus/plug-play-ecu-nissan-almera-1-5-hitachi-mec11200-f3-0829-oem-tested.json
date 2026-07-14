@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Nissan Almera 1.5, OEM Tested, Warranty Included - Hitachi MEC11200 F3 0829",
+  "slug": "plug-play-ecu-nissan-almera-1-5-hitachi-mec11200-f3-0829-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Nissan Almera 1.5, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan Almera 1.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Almera",
+    "Hitachi MEC11200",
+    "F3 0829"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Nissan Almera 1.5 is a reliable replacement, ensuring optimal engine performance and backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>NISSAN ALMERA</td></tr>\n<tr><td>ENGINE</td><td>1.5</td></tr>\n<tr><td>YEAR</td><td>2001</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>MEC11200</td></tr>\n<tr><td>CODE</td><td>F3</td></tr>\n<tr><td>NUMBER PARTS</td><td>0829</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility may vary. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA 1.5, MEC11-200, MEC11200, F3, 0829",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-1.5%2C-MEC11-200%2C-MEC11200%2C-F3%2C-0829/39098",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "1A8D-971BA_20130807105755",
+    "sku": "1A8D-971BA_20130807105755",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA 1.5, MEC11-200, MEC11200, F3, 0829</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "ENGINE": "1.5",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "MEC11200",
+      "CODE": "F3",
+      "NUMBER PARTS": "0829",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:03:36.700Z",
+    "model": "mistral:7b",
+    "durationMs": 9858,
+    "priceIncrement": 100
+  }
+}

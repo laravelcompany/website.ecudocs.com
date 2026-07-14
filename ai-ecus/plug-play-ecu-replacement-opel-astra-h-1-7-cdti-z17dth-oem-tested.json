@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Astra H 1.7 CDTI Z17DTL Z17DTH - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-opel-astra-h-1-7-cdti-z17dth-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Opel Astra H 1.7 CDTI Z17DTL Z17DTH, offering a seamless Plug & Play installation and backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra H 1.7 CDTI Z17DTL Z17DTH",
+  "tags": [
+    "ECU repair",
+    "Opel Astra H",
+    "1.7 CDTI Z17DTL Z17DTH",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Opel Astra H 1.7 CDTI Z17DTL Z17DTH offers a seamless Plug & Play installation and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Installation</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL ASTRA H</td></tr>\n        <tr><th>ENGINE</th><td>1.7 CDTI Z17DTL Z17DTH</td></tr>\n        <tr><th>YEAR</th><td>2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 380</td></tr>\n        <tr><th>NUMBER PARTS</th><td>GM 12992628 LK</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle configuration. Please consult a professional technician for fitment caution.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA H 1.7 CDTI Z17DTL Z17DTH BOSCH 0 281 011 380, 0281011380, GM 12992628 LK , ISUZU 8973729171",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-H-1.7-CDTI-Z17DTL-Z17DTH-BOSCH-0-281-011-380%2C-0281011380%2C-GM-12992628-LK-%2C-ISUZU-8973729171/9768",
+    "priceCurrency": "EUR",
+    "netPrice": "€125.00",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9768",
+    "sku": "9768",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA H 1.7 CDTI Z17DTL Z17DTH BOSCH 0 281 011 380, 0281011380, GM 12992628 LK , ISUZU 8973729171</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA H",
+      "ENGINE": "1.7 CDTI Z17DTL Z17DTH",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 380",
+      "NUMBER PARTS": "GM 12992628 LK",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:12:13.801Z",
+    "model": "mistral:7b",
+    "durationMs": 10160,
+    "priceIncrement": 100
+  }
+}

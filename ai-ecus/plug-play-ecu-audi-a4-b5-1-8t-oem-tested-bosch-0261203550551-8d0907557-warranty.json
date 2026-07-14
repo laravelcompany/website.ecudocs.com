@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Audi A4 B5 1.8 T - OEM Tested Bosch 0 261 203 550/551, 8D0 907 557 - Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-b5-1-8t-oem-tested-bosch-0261203550551-8d0907557-warranty",
+  "metaDescription": "OEM tested ECU replacement for Audi A4 B5 1.8 T with Plug & Play feature, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A4 B5 1.8T",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "Bosch",
+    "1.8 T"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement is specifically designed for the Audi A4 B5 1.8T, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play feature for easy installation</li><li>OEM quality and reliability</li><li>6-month warranty</li><li>Thoroughly inspected and tested by a certified technician</li><li>Used but in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>AUDI A4, B5</td><td>1.8 T</td><td>BOSCH 0 261 203 550/551</td><td>8D0 907 557</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific year and trim of your Audi A4 B5. Please verify fitment before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4, B5 1.8 T, BOSCH 0 261 203 550/551, 0261203550/551, 8D0 907 557, 8D0907557",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4%2C-B5-1.8-T%2C-BOSCH-0-261-203-550551%2C-0261203550551%2C-8D0-907-557%2C-8D0907557/43804",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8B45-2118D",
+    "sku": "8B45-2118D",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4, B5 1.8 T, BOSCH 0 261 203 550/551, 0261203550/551, 8D0 907 557, 8D0907557</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4, B5",
+      "ENGINE": "1.8 T",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 550/551",
+      "NUMBER PARTS": "8D0 907 557",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:25:10.856Z",
+    "model": "mistral:7b",
+    "durationMs": 10264,
+    "priceIncrement": 100
+  }
+}

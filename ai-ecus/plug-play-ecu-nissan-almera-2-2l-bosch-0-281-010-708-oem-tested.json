@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN ALMERA 2.2L BOSCH 0 281 010 708, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-nissan-almera-2-2l-bosch-0-281-010-708-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for NISSAN ALMERA 2.2L BOSCH 0 281 010 708, Plug & Play replacement with 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "OEM tested ECU Engine Controller for Nissan Almera 2.2L BOSCH 0 281 010 708",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Almera",
+    "BOSCH 0 281 010 708"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for NISSAN ALMERA 2.2L BOSCH 0 281 010 708 is a reliable replacement, ensuring seamless operation of your vehicle's engine management system.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed compatibility</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Device thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>NISSAN ALMERA</td></tr>\n        <tr><th>ENGINE:</th><td>2.2 L</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 708</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>23710 5M311</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with NISSAN ALMERA 2.2L BOSCH 0 281 010 708. Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA 2.2 L BOSCH 0 281 010 708, 0281010708, 23710 5M311, 237105M311, 4D",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-2.2-L-BOSCH-0-281-010-708%2C-0281010708%2C-23710-5M311%2C-237105M311%2C-4D-/96788",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "21C4-5170B_20160918125206",
+    "sku": "21C4-5170B_20160918125206",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA 2.2 L BOSCH 0 281 010 708, 0281010708, 23710 5M311, 237105M311, 4D </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "ENGINE": "2.2 L",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 708",
+      "NUMBER PARTS": "23710 5M311",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:08:52.812Z",
+    "model": "mistral:7b",
+    "durationMs": 12084,
+    "priceIncrement": 100
+  }
+}

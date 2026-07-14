@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E90 330I 2.2 SIEMENS 5WK90077, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-e90-330i-22-siemens-5wk90077-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for BMW E90, 330I 2.2 with SIEMENS 5WK90077. OEM tested and covered by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E90, 330I 2.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E90",
+    "SIEMENS 5WK90077"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for BMW E90, 330I 2.2 with SIEMENS 5WK90077 is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used Original in Good Condition</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>BMW E90, 330I</td></tr>\n        <tr><th>ENGINE</th><td>2.2</td></tr>\n        <tr><th>YEAR</th><td>1999-2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WK90077</td></tr>\n        <tr><th>NUMBER PARTS</th><td>DME MSV70</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with BMW E90, 330I 2.2. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E90, 330I 2.2, SIEMENS 5WK90077, 7 553 166, 7553166, DME MSV70, DMEMSV70",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E90%2C-330I-2.2%2C-SIEMENS-5WK90077%2C-7-553-166%2C-7553166%2C-DME-MSV70%2C-DMEMSV70-/45253",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "CCC5-341BC",
+    "sku": "CCC5-341BC",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E90, 330I 2.2, SIEMENS 5WK90077, 7 553 166, 7553166, DME MSV70, DMEMSV70 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E90, 330I",
+      "ENGINE": "2.2",
+      "YEAR": "1999-2006",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK90077",
+      "NUMBER PARTS": "DME MSV70",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:43:33.865Z",
+    "model": "mistral:7b",
+    "durationMs": 10034,
+    "priceIncrement": 100
+  }
+}

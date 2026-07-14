@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - BMW E90/E91 320 SIEMENS 5WK93727, DME MSD81.2 7595179, Warranty Included",
+  "slug": "plug-play-ecu-bmw-320-siemens-5wk93727-dme-msd81-2-7595179-warranty",
+  "metaDescription": "Expertly tested and OEM certified Plug & Play ECU replacement for BMW E90/E91 320 with SIEMENS 5WK93727, DME MSD81.2 7595179. Fast shipping within EU, backed by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for BMW E90/E91 320",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E90/E91 320",
+    "SIEMENS 5WK93727",
+    "DME MSD81.2"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for BMW E90/E91 320 is OEM tested, ensuring optimal performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play installation</li>\n      <li>OEM certified</li>\n      <li>6-month warranty</li>\n      <li>Fast EU shipping</li>\n      <li>Used in good condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>BMW SERII 3 E90/E91 320</td></tr>\n      <tr><th>ENGINE</th><td>2.0</td></tr>\n      <tr><th>YEAR</th><td>2009</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WK93727</td></tr>\n      <tr><th>NUMBER PARTS</th><td>DME MSD81.2</td></tr>\n      <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with BMW E90/E91 320. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E90/E91 320 SIEMENS 5WK93727, DME MSD81.2 7595179, DME7595179, 7 595 179",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E90E91-320-SIEMENS-5WK93727%2C-DME-MSD81.2-7595179%2C-DME7595179%2C-7-595-179/24779",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "DC34-227B1_20120602175251",
+    "sku": "DC34-227B1_20120602175251",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E90/E91 320 SIEMENS 5WK93727, DME MSD81.2 7595179, DME7595179, 7 595 179</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_d463825cfa31c89d7de653118c9e8526_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7bd3aa90f0575c056f0e7d3e5b911d68_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW SERII 3 E90/E91 320",
+      "ENGINE": "2.0",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK93727",
+      "NUMBER PARTS": "DME MSD81.2",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:44:35.952Z",
+    "model": "mistral:7b",
+    "durationMs": 12208,
+    "priceIncrement": 100
+  }
+}

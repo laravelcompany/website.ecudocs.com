@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for NISSAN QASHQAI 2.0 - OEM Tested, Warranty Included (MEC932-190, C1 0427)",
+  "slug": "plug-play-ecu-replacement-nissan-qashqai-2-0-oem-tested-warranty-included-mec932",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for NISSAN QASHQAI 2.0 (MEC932-190, C1 0427). Covered by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN QASHQAI 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Qashqai",
+    "MEC932-190",
+    "C1 0427"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller is a reliable replacement for your NISSAN QASHQAI 2.0 (MEC932-190, C1 0427).</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><td>BRAND AND MODEL</td><td>NISSAN QASHQAI</td></tr>\n        <tr><td>ENGINE</td><td>2.0</td></tr>\n        <tr><td>NUMBER MANUFACTURER</td><td>MEC932-190</td></tr>\n        <tr><td>NUMBER PARTS</td><td>C1 0427</td></tr>\n      </tbody>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN QASHQAI 2.0 MEC932-190, MEC932190, C1 0427",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-QASHQAI-2.0-MEC932-190%2C-MEC932190%2C-C1-0427/104646",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "D7BE-69644_20170321113900",
+    "sku": "D7BE-69644_20170321113900",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN QASHQAI 2.0 MEC932-190, MEC932190, C1 0427</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_c6162efe612c8312afbeceb8fca3395b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b8c41885b0f61da2c6a1ec2f6ea7c1c1_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN QASHQAI",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "MEC932-190",
+      "NUMBER PARTS": "C1 0427",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:42:12.147Z",
+    "model": "mistral:7b",
+    "durationMs": 9916,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested SKODA Octavia 0261S02259 06F906056EQ MED9.510, 6-month Warranty",
+  "slug": "plug-play-ecu-skoda-octavia-oem-tested-0261s02259-06f906056eq-med9-510",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller SKODA Octavia 0261S02259 06F9056EQ MED9.510, tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for SKODA Octavia",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA Octavia",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your SKODA Octavia, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Thoroughly Inspected and Tested by a Certified Technician</li><li>Condition: Used Original in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>SKODA</td><td>0261S02259</td><td>06F906056EQ MED9.510</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>Condition: Used Original in Good Condition</td></tr></table></section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatible with SKODA Octavia. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA 0261S02259 06F906056EQ MED9.510",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-0261S02259-06F906056EQ-MED9.510/132188",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2DCA-24066_20220914163025",
+    "sku": "2DCA-24066_20220914163025",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA 0261S02259 06F906056EQ  MED9.510</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_274232_0_0/SKODA-0261S02259-06F906056EQ-MED9.510.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_274233_0_0/SKODA-0261S02259-06F906056EQ-MED9.510.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA",
+      "NUMBER MANUFACTURER": "0261S02259",
+      "NUMBER PARTS": "06F906056EQ MED9.510",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:16:49.379Z",
+    "model": "mistral:7b",
+    "durationMs": 9467,
+    "priceIncrement": 100
+  }
+}

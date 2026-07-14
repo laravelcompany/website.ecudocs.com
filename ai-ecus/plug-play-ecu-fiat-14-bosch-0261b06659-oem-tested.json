@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play ECU Replacement Fiat 1.4 Bosch 0261B06659-02, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-14-bosch-0261b06659-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller Fiat 1.4 Bosch 0261B06659, OEM tested and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat 1.4 Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat 1.4",
+    "Bosch 0261B06659"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and used original ECU Engine Controller for Fiat 1.4 is in good condition, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for quality assurance</li><li>6-month warranty</li><li>Used original part in good condition</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER PARTS</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FIAT</td><td>1.4</td><td>51807286</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat vehicles equipped with the specified ECU Engine Controller.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT BOSCH 0261 B06 659-02, 0261B06659, 51807286",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-BOSCH-0261-B06-659-02%2C-0261B06659%2C-51807286/53166",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D058-135F1_20140401101242",
+    "sku": "D058-135F1_20140401101242",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT BOSCH 0261 B06 659-02, 0261B06659, 51807286</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT",
+      "ENGINE": "1.4",
+      "NUMBER PARTS": "51807286",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:22:14.543Z",
+    "model": "mistral:7b",
+    "durationMs": 8303,
+    "priceIncrement": 100
+  }
+}

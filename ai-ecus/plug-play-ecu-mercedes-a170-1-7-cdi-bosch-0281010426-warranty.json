@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Mercedes A170 1.7 CDI Bosch 0 281 010 426, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-a170-1-7-cdi-bosch-0281010426-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Mercedes A170 1.7 CDI Bosch 0 281 010 426, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Mercedes A170 1.7 CDI Bosch 0 281 010 426",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes A170",
+    "Bosch 0 281 010 426"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Mercedes A170 1.7 CDI is a reliable solution to restore your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with Original ECU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>MERCEDES  A170</td></tr>\n            <tr><td>ENGINE</td><td>1.7 CDI</td></tr>\n            <tr><td>YEAR</td><td>2000-2001</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 010 426</td></tr>\n            <tr><td>NUMBER PARTS</td><td>A 000 153 31 79</td></tr>\n        </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is locked and may require programming to work with your vehicle. Please ensure compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES A170 1.7 CDI, BOSCH 0 281 010 426, 0281010426, A 000 153 31 79, A0001533179",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-A170-1.7-CDI%2C-BOSCH-0-281-010-426%2C-0281010426%2C-A-000-153-31-79%2C-A0001533179/39062",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "EDFB-41549_20130807101127",
+    "sku": "EDFB-41549_20130807101127",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES  A170 1.7 CDI, BOSCH 0 281 010 426, 0281010426, A 000 153 31 79, A0001533179</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES  A170",
+      "ENGINE": "1.7 CDI",
+      "YEAR": "2000-2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 426",
+      "NUMBER PARTS": "A 000 153 31 79",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:05:09.064Z",
+    "model": "mistral:7b",
+    "durationMs": 11123,
+    "priceIncrement": 100
+  }
+}

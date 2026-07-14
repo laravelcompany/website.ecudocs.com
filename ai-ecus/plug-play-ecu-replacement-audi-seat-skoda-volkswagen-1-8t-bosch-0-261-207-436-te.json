@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi Seat Skoda Volkswagen 1.8 T BOSCH 0 261 207 436, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-seat-skoda-volkswagen-1-8t-bosch-0-261-207-436-te",
+  "metaDescription": "OEM tested ECU replacement for Audi, Seat, Skoda, Volkswagen 1.8 T BOSCH 0 261 207 436 with 6-month warranty and fast dispatch. Plug & Play for seamless installation.",
+  "price": "€480.00",
+  "excerpt": "OEM tested ECU replacement for Audi, Seat, Skoda, Volkswagen 1.8 T BOSCH 0 261 207 436",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 261 207 436",
+    "Audi Seat Skoda Volkswagen",
+    "1.8 T Engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Audi, Seat, Skoda, Volkswagen 1.8 T BOSCH 0 261 207 436 ensures reliable engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play for easy installation</li>\n        <li>OEM tested for optimal performance</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Locked / Unlocked option available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI SEAT SKODA VOLKSWAGEN</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8 T</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 207 436</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>06A 906 032 HJ</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi, Seat, Skoda, Volkswagen models. Fitment caution may apply, please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI SEAT SKODA VOLKSWAGEN 1.8 T BOSCH 0 261 207 436, 0261207436, 06A 906 032 HJ, 06A906032HJ",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-SEAT-SKODA-VOLKSWAGEN-1.8-T-BOSCH-0-261-207-436%2C-0261207436%2C-06A-906-032-HJ%2C-06A906032HJ/14215",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "EBA6-17939",
+    "sku": "EBA6-17939",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI SEAT SKODA VOLKSWAGEN 1.8 T BOSCH 0 261 207 436, 0261207436, 06A 906 032 HJ, 06A906032HJ</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI SEAT SKODA VOLKSWAGEN",
+      "ENGINE": "1.8 T",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 436",
+      "NUMBER PARTS": "06A 906 032 HJ",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:54:43.398Z",
+    "model": "mistral:7b",
+    "durationMs": 12821,
+    "priceIncrement": 100
+  }
+}

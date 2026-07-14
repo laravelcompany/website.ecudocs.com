@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Skoda Octavia 2.0 Turbo Bosch 0 261 S02 114 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-skoda-octavia-2-0-turbo-bosch-0-261-s02-114-tested",
+  "metaDescription": "OEM tested ECU Replacement for Skoda Octavia 2.0 Turbo Bosch 0 261 S02 114, backed by a 6-month warranty and fast dispatch.",
+  "price": "€330.00",
+  "excerpt": "OEM tested ECU for Skoda Octavia 2.0 Turbo Bosch 0 261 S02 114",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Octavia",
+    "Bosch 0 261 S02 114"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Skoda Octavia 2.0 Turbo Bosch 0 261 S02 114 ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for reliable performance</li>\n        <li>Plug & Play for easy installation</li>\n        <li>Backed by a 6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Locked / Unlocked option available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SKODA OCTAVIA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 TURBO</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 S02 114</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1Z0 907 115</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 2.0 TURBO BOSCH 0 261 S02 114, 0261S02114, 1Z0 907 115, 1Z0907115, MED9.1",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-2.0-TURBO-BOSCH-0-261-S02-114%2C-0261S02114%2C-1Z0-907-115%2C-1Z0907115%2C-MED9.1-/82058",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9D1D-6015E_20151118155621",
+    "sku": "9D1D-6015E_20151118155621",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 2.0 TURBO BOSCH 0 261 S02 114, 0261S02114, 1Z0 907 115, 1Z0907115, MED9.1 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "2.0 TURBO",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S02 114",
+      "NUMBER PARTS": "1Z0 907 115",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:40:55.464Z",
+    "model": "mistral:7b",
+    "durationMs": 13541,
+    "priceIncrement": 100
+  }
+}

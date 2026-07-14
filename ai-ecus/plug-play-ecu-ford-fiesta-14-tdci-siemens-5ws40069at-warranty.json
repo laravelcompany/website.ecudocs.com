@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Fiesta 1.4 TDCI Siemens 5WS40069A-T, Warranty Included",
+  "slug": "plug-play-ecu-ford-fiesta-14-tdci-siemens-5ws40069at-warranty",
+  "metaDescription": "Expertly tested and OEM Siemens ECU Engine Controller for Ford Fiesta 1.4 TDCI, with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Fiesta 1.4 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WS40069A-T",
+    "Ford Fiesta 1.4 TDCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Ford Fiesta 1.4 TDCI is a reliable replacement, ensuring seamless vehicle operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD FIESTA</td></tr>\n        <tr><th>ENGINE:</th><td>1.4 TDCI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SIEMENS 5WS40069A-T</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>5AYA</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Fiesta 1.4 TDCI. Fitment caution may apply. Consult a professional technician for installation advice.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.4 TDCI SIEMENS 5WS40069A-T, 5WS40069AT, 3S61-12A650-LA, 3S6112A650LA, 5AYA, SID 804",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.4-TDCI-SIEMENS-5WS40069A-T%2C-5WS40069AT%2C-3S61-12A650-LA%2C-3S6112A650LA%2C-5AYA%2C-SID-804-/103355",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "C944-237BE_20170221112451",
+    "sku": "C944-237BE_20170221112451",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.4 TDCI SIEMENS 5WS40069A-T, 5WS40069AT, 3S61-12A650-LA, 3S6112A650LA, 5AYA, SID 804 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.4 TDCI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40069A-T",
+      "NUMBER PARTS": "5AYA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:26:18.929Z",
+    "model": "mistral:7b",
+    "durationMs": 10555,
+    "priceIncrement": 100
+  }
+}

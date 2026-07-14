@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT Ibiza 1.4 OEM Magneti Marelli 036906034KK, BENZIN 4TV 003 7453",
+  "slug": "plug-play-ecu-seat-ibiza-14-magneti-marelli-oem-036906034kk-benzin-4tv-003-7453",
+  "metaDescription": "OEM Tested ECU Replacement for SEAT Ibiza 1.4 with Plug & Play feature, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for SEAT Ibiza 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT Ibiza",
+    "Magneti Marelli",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for your SEAT Ibiza 1.4 ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Magneti Marelli part</li>\n        <li>Plug & Play feature</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Condition: Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SEAT IBIZA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>IAW4TV.KK</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>BENZIN 4TV 003 7453</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA 1.4 036906034KK, 036 906 034 KK, IAW4TV.KK, IAW4TVKK, 61601.318.01, 6160131801, BENZIN 4TV 003 7453",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-1.4-036906034KK%2C-036-906-034-KK%2C-IAW4TV.KK%2C-IAW4TVKK%2C-61601.318.01%2C-6160131801%2C-BENZIN-4TV-003-7453/25635",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "A303-9939A_20120608134413",
+    "sku": "A303-9939A_20120608134413",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA 1.4 036906034KK, 036 906 034 KK, IAW4TV.KK, IAW4TVKK, 61601.318.01, 6160131801, BENZIN 4TV 003 7453</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA",
+      "ENGINE": "1.4",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "IAW4TV.KK",
+      "NUMBER PARTS": "BENZIN 4TV 003 7453",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:53:05.701Z",
+    "model": "mistral:7b",
+    "durationMs": 10939,
+    "priceIncrement": 100
+  }
+}

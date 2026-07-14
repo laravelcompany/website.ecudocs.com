@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement - ROVER 400 1.4, Oryginal MKC104022 3227 GE - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-rover-400-1-4-oryginal-mkc104022-3227-ge-oem-tested-warranty",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for ROVER 400 1.4, MKC104022, 3227 GE. OEM tested and covered by a 6-month warranty.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Replacement for ROVER 400 1.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 400",
+    "Oryginal",
+    "MKC104022",
+    "3227 GE"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for ROVER 400 1.4, MKC104022, 3227 GE is OEM tested and comes with a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Used but in good condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>ROVER 400</td></tr>\n    <tr><th>ENGINE</th><td>1.4</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>MKC104022</td></tr>\n    <tr><th>NUMBER PARTS</th><td>3227 GE</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 400 1.4, MKC104022, 3227 GE",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-400-1.4%2C-MKC104022%2C-3227-GE/46649",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "CBBC-978A0",
+    "sku": "CBBC-978A0",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 400 1.4, MKC104022, 3227 GE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_f065503b1422bc876003ba7769022bc6_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_974acc7ea62e04dfc04c8d452e023abb_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_63fc9d842fd35b8212a57b7ebc937f35_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 400",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "MKC104022",
+      "NUMBER PARTS": "3227 GE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:32:05.689Z",
+    "model": "mistral:7b",
+    "durationMs": 10495,
+    "priceIncrement": 100
+  }
+}

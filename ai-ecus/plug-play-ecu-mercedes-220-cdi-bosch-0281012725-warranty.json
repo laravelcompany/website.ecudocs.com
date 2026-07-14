@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Mercedes 220 CDI Bosch 0 281 012 725, A 646 150 50 91 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-220-cdi-bosch-0281012725-warranty",
+  "metaDescription": "Expertly tested and OEM ECU Replacement for Mercedes 220 CDI. Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Mercedes 220 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes 220 CDI",
+    "Bosch 0 281 012 725",
+    "A 646 150 50 91"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Mercedes 220 CDI is a reliable solution to your engine control unit issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch in EU</li>\n        <li>Compatible with Mercedes 220 CDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES</td></tr>\n        <tr><th>ENGINE</th><td>220 CDI</td></tr>\n        <tr><th>YEAR</th><td>2005</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 012 725</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A 646 150 50 91</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Compatible with Mercedes 220 CDI only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES 220 CDI BOSCH 0 281 012 725, 0281012725, A 646 150 50 91, A6461505091, CR3.44",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-220-CDI-BOSCH-0-281-012-725%2C-0281012725%2C-A-646-150-50-91%2C-A6461505091%2C-CR3.44-/84334",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "643F-322F8_20160113104016",
+    "sku": "643F-322F8_20160113104016",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES 220 CDI BOSCH 0 281 012 725, 0281012725, A 646 150 50 91, A6461505091, CR3.44 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_41eca666f3de10cd2cf53340dfa2b29b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_268931_0_0/MERCEDES-220-CDI-BOSCH-0-281-012-725%2C-0281012725%2C-A-646-150-50-91%2C-A6461505091%2C-CR3.44.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "ENGINE": "220 CDI",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 725",
+      "NUMBER PARTS": "A 646 150 50 91",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:07:17.026Z",
+    "model": "mistral:7b",
+    "durationMs": 11440,
+    "priceIncrement": 100
+  }
+}

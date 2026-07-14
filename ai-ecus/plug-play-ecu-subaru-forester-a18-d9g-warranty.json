@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Subaru Forester 2.0 A18-000 D9G, Warranty Included",
+  "slug": "plug-play-ecu-subaru-forester-a18-d9g-warranty",
+  "metaDescription": "Find your Plug & Play ECU Replacement for Subaru Forester 2.0 A18-000 D9G, OEM tested and covered by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU replacement for Subaru Forester 2.0 A18-000 D9G",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Subaru Forester",
+    "A18-000 D9G"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Subaru Forester 2.0 A18-000 D9G is OEM tested and guaranteed to restore optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM Tested for quality assurance</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SUBARU FORESTER</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>YEAR</th><td>2002-2005</td></tr>\n        <tr><th>NUMBER PARTS</th><td>2K</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Subaru Forester 2.0 A18-000 D9G only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SUBARU FORESTER 2.0 A18-000 D9G, A18000D9G, 22611 AG600, 22611AG600, 2K",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SUBARU-FORESTER-2.0-A18-000-D9G%2C-A18000D9G%2C-22611-AG600%2C-22611AG600%2C-2K/60641",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "F942-5510F_20140718112246",
+    "sku": "F942-5510F_20140718112246",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SUBARU FORESTER 2.0 A18-000 D9G, A18000D9G, 22611 AG600, 22611AG600, 2K</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SUBARU FORESTER",
+      "ENGINE": "2.0",
+      "YEAR": "2002-2005",
+      "NUMBER PARTS": "2K",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:53:02.527Z",
+    "model": "mistral:7b",
+    "durationMs": 10206,
+    "priceIncrement": 100
+  }
+}

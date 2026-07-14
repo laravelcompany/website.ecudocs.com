@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - BMW MINI 1.6 BOSCH 0 261 S04 161, DME 7 640 005 - Used in Good Condition",
+  "slug": "plug-play-ecu-bmw-mini-1-6-bosch-0-261-s04-161-dme-7-640-005-used",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for BMW MINI 1.6 BOSCH 0 261 S04 161, DME 7 640 005. Used in good condition, backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for BMW MINI 1.6 BOSCH 0 261 S04 161",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW MINI",
+    "BOSCH 0 261 S04 161",
+    "DME 7 640 005"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement for BMW MINI 1.6 BOSCH 0 261 S04 161, DME 7 640 005 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>BMW MINI</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 S04 161</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>DME 7 640 005</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch across EU. 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Compatibility may vary based on vehicle condition and usage history.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW MINI 1.6 BOSCH 0 261 S04 161, 0261S04161, DME 7 640 005, DME 7640005",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-MINI-1.6-BOSCH-0-261-S04-161%2C-0261S04161%2C-DME-7-640-005%2C-DME-7640005-/96912",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FAF8-676F5_20160920164015",
+    "sku": "FAF8-676F5_20160920164015",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW MINI 1.6 BOSCH 0 261 S04 161, 0261S04161, DME 7 640 005, DME 7640005 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_820b760a8b911162ca47409741bc7a6c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d8e3b44961cbb006284e67b908fe34cd_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW MINI",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S04 161",
+      "NUMBER PARTS": "DME 7 640 005",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:46:57.543Z",
+    "model": "mistral:7b",
+    "durationMs": 14420,
+    "priceIncrement": 100
+  }
+}

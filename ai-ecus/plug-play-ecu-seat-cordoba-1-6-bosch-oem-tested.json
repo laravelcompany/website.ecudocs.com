@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT Cordoba 1.6 BOSCH 0 261 203 611/612, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-seat-cordoba-1-6-bosch-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for your SEAT Cordoba 1.6 with a 6-month warranty and fast shipping within EU. OEM tested, used original in good condition.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for SEAT Cordoba 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT Cordoba",
+    "BOSCH 0 261 203 611/612"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for your SEAT Cordoba 1.6 is tested and covered by a 6-month warranty, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">...(technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with SEAT Cordoba 1.6. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT CORDOBA 1.6 BOSCH 0 261 203 611/612, 0261203611, 8A0 907 311 AJ, 8A0907311AJ",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-CORDOBA-1.6-BOSCH-0-261-203-611612%2C-0261203611%2C-8A0-907-311-AJ%2C-8A0907311AJ/40469",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7FDD-97199_20130825145019",
+    "sku": "7FDD-97199_20130825145019",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT CORDOBA 1.6 BOSCH 0 261 203 611/612, 0261203611, 8A0 907 311 AJ, 8A0907311AJ</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT CORDOBA",
+      "ENGINE": "1.6",
+      "YEAR": "1994-1995",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 611/612",
+      "NUMBER PARTS": "8A0 907 311 AJ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:50:25.244Z",
+    "model": "mistral:7b",
+    "durationMs": 6281,
+    "priceIncrement": 100
+  }
+}

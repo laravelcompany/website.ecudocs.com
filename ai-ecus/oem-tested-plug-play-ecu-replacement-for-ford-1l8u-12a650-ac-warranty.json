@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford - 1L8U-12A650-AC, 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-replacement-for-ford-1l8u-12a650-ac-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Engine Controller for Ford 1L8U-12A650-AC. This used original part in good condition comes with a 6-month warranty and fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Visteon",
+    "Ford 1L8U-12A650-AC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Ford is a reliable replacement, ensuring smooth engine operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD 1L8U-12A650-AC</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD 1L8U-12A650-AC 1L8U12A650AC",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-1L8U-12A650-AC-1L8U12A650AC/138641",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "82DC-4528D_20240219135703",
+    "sku": "82DC-4528D_20240219135703",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD 1L8U-12A650-AC 1L8U12A650AC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_291019_0_0/FORD-1L8U-12A650-AC-1L8U12A650AC.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_291020_0_0/FORD-1L8U-12A650-AC-1L8U12A650AC.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "1L8U-12A650-AC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:49:19.325Z",
+    "model": "mistral:7b",
+    "durationMs": 9271,
+    "priceIncrement": 100
+  }
+}

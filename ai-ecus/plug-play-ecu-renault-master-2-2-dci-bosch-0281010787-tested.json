@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Master 2.2 DCI Bosch 0281010787, OEM Tested",
+  "slug": "plug-play-ecu-renault-master-2-2-dci-bosch-0281010787-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Renault Master 2.2 DCI, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Renault Master 2.2 DCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Master",
+    "Bosch",
+    "0281010787"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Renault Master 2.2 DCI ensures reliable engine control and is a direct replacement for the original part.</section>\n<section class=\"features\">\n    <ul>\n      <li>Plug & Play compatibility</li>\n      <li>OEM tested and certified</li>\n      <li>6-month warranty</li>\n      <li>Used in good condition</li>\n      <li>Fast dispatch within EU</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL:</th><td>RENAULT MASTER</td></tr>\n      <tr><th>ENGINE:</th><td>2.2 DCI</td></tr>\n      <tr><th>YEAR:</th><td>2001-02</td></tr>\n      <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 787</td></tr>\n      <tr><th>NUMBER PARTS:</th><td>8 200 132 175</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Master 2.2 DCI. Fitment caution may apply. Consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MASTER 2.2 DCI BOSCH 0281010787, 0 281 010 787 HOM8200091428 8200132175",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MASTER-2.2-DCI-BOSCH-0281010787%2C-0-281-010-787-HOM8200091428-8200132175/28410",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "19B7-7866A_20120828121526",
+    "sku": "19B7-7866A_20120828121526",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MASTER 2.2 DCI BOSCH 0281010787, 0 281 010 787 HOM8200091428 8200132175</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9dbbb518d77b2bce332ae6452e8d3cc7_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c3e01b8a118d9e4bb254603088fb4b06_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MASTER",
+      "ENGINE": "2.2 DCI",
+      "YEAR": "2001-02",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 787",
+      "NUMBER PARTS": "8 200 132 175",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:41:20.084Z",
+    "model": "mistral:7b",
+    "durationMs": 9034,
+    "priceIncrement": 100
+  }
+}

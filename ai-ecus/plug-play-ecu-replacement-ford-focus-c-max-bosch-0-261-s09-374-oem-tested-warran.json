@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Focus C Max Bosch 0 261 S09 374, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-ford-focus-c-max-bosch-0-261-s09-374-oem-tested-warran",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Ford Focus C Max Bosch 0 261 S09 374. Fast dispatch and 12-month warranty.",
+  "price": "€660.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Focus C Max Bosch 0 261 S09 374",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus C Max",
+    "Bosch 0 261 S09 374"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement is suitable for Ford Focus C Max Bosch 0 261 S09 374. It comes with a 12-month warranty and fast dispatch.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested</li>\n        <li>Plug & Play</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD FOCUS C MAX</td></tr>\n        <tr><th>YEAR:</th><td>2013</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 S09 374</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>5STD</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS C MAX BOSCH 0 261 S09 374, 0261S09374, FoMoCo CV61-12A650-ARD, CV6112A650ARD, CV6A-12B684-BB, CV6A12B684BB, 5STD",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-C-MAX-BOSCH-0-261-S09-374%2C-0261S09374%2C-FoMoCo-CV61-12A650-ARD%2C-CV6112A650ARD%2C-CV6A-12B684-BB%2C-CV6A12B684BB%2C-5STD-/83607",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "90D0-40795_20151221135720",
+    "sku": "90D0-40795_20151221135720",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS C MAX BOSCH 0 261 S09 374, 0261S09374, FoMoCo CV61-12A650-ARD, CV6112A650ARD, CV6A-12B684-BB, CV6A12B684BB, 5STD </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS C MAX",
+      "YEAR": "2013",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S09 374",
+      "NUMBER PARTS": "5STD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:07:44.246Z",
+    "model": "mistral:7b",
+    "durationMs": 9640,
+    "priceIncrement": 100
+  }
+}

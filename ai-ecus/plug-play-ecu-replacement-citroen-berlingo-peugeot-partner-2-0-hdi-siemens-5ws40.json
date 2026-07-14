@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Citroen Berlingo, Peugeot Partner 2.0 HDI Siemens 5WS40146C-T - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-berlingo-peugeot-partner-2-0-hdi-siemens-5ws40",
+  "metaDescription": "Expert ECU replacement for Citroen Berlingo and Peugeot Partner 2.0 HDI Siemens 5WS40146C-T, OEM tested, 6-month warranty, Plug & Play.",
+  "price": "€330.00",
+  "excerpt": "Expert ECU replacement for Citroen Berlingo and Peugeot Partner 2.0 HDI Siemens 5WS40146C-T, Plug & Play.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens 5WS40146C-T",
+    "Citroen Berlingo",
+    "Peugeot Partner",
+    "2.0 HDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Citroen Berlingo and Peugeot Partner 2.0 HDI Siemens 5WS40146C-T ensures seamless engine control, backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM tested</li><li>Plug & Play</li><li>6-month warranty</li><li>Expertly inspected and tested</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>CITROEN BERLINGO PEUGEOT PARTNER</td></tr>\n    <tr><th>ENGINE</th><td>2.0 HDI</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WS40146C-T</td></tr>\n    <tr><th>NUMBER PARTS</th><td>HW9647423380</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN BERLINGO PEUGEOT PARTNER 2.0 HDI SIEMENS 5WS40146C-T, 5WS40146CT, SW9653647780, HW9647423380, SID 801A",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-BERLINGO-PEUGEOT-PARTNER-2.0-HDI-SIEMENS-5WS40146C-T%2C-5WS40146CT%2C-SW9653647780%2C-HW9647423380%2C-SID-801A-/81824",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "B793-704E4_20151113224402",
+    "sku": "B793-704E4_20151113224402",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN BERLINGO PEUGEOT PARTNER 2.0 HDI SIEMENS 5WS40146C-T, 5WS40146CT, SW9653647780, HW9647423380, SID 801A </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN BERLINGO PEUGEOT PARTNER",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40146C-T",
+      "NUMBER PARTS": "HW9647423380",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:22:38.032Z",
+    "model": "mistral:7b",
+    "durationMs": 11620,
+    "priceIncrement": 100
+  }
+}

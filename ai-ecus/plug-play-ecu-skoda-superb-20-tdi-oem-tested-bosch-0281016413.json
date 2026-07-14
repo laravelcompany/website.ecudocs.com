@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for SKODA SUPERB 2.0 TDI - OEM Tested BOSCH 0281016413, Warranty Included",
+  "slug": "plug-play-ecu-skoda-superb-20-tdi-oem-tested-bosch-0281016413",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for SKODA SUPERB 2.0 TDI, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€800.00",
+  "excerpt": "Plug & Play ECU Replacement for SKODA SUPERB 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA SUPERB",
+    "2.0 TDI",
+    "BOSCH",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a replacement for SKODA SUPERB 2.0 TDI, tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>SKODA SUPERB</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 TDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2010</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 016 413</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>1039S38770</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SKODA SUPERB 2.0 TDI. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA SUPERB 2.0 TDI 03L906022TQ, 03L 906 022 TQ, 03L906022GA, 03L 906 022 GA, BOSCH 0281016413, 0 281 016 413, DIESEL EDC17CP14 CBBB 5750, 1039S38770",
+    "price": "€700.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-SUPERB-2.0-TDI-03L906022TQ%2C-03L-906-022-TQ%2C-03L906022GA%2C-03L-906-022-GA%2C-BOSCH-0281016413%2C-0-281-016-413%2C-DIESEL-EDC17CP14-CBBB-5750%2C-1039S38770/25341",
+    "priceCurrency": "EUR",
+    "netPrice": "€569.11",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E1F6-707A1_20120606094739",
+    "sku": "E1F6-707A1_20120606094739",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA SUPERB 2.0 TDI 03L906022TQ, 03L 906 022 TQ, 03L906022GA, 03L 906 022 GA, BOSCH 0281016413, 0 281 016 413, DIESEL EDC17CP14 CBBB 5750, 1039S38770</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA SUPERB",
+      "ENGINE": "2.0 TDI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 413",
+      "NUMBER PARTS": "1039S38770",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:44:30.011Z",
+    "model": "mistral:7b",
+    "durationMs": 13352,
+    "priceIncrement": 100
+  }
+}

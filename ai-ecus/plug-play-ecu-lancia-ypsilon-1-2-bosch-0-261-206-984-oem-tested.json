@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Lancia Ypsilon 1.2 Bosch 0 261 206 984, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-lancia-ypsilon-1-2-bosch-0-261-206-984-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Lancia Ypsilon 1.2 Bosch 0 261 206 984, Plug & Play replacement with 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "OEM tested ECU Engine Controller for Lancia Ypsilon 1.2 Bosch 0 261 206 984",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Ypsilon",
+    "Bosch",
+    "0 261 206 984"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Lancia Ypsilon 1.2 Bosch 0 261 206 984 is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play installation</li>\n        <li>OEM tested for quality assurance</li>\n        <li>6-month warranty</li>\n        <li>Locked/Unlocked option available</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>LANCIA YPSILON</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 206 984</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0 046 801 963 0</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on specific vehicle conditions and installation requirements. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA YPSILON 1.2 BOSCH 0 261 206 984, 0261206984, 0 046 801 963 0, 00468019630, A152 Y",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-YPSILON-1.2-BOSCH-0-261-206-984%2C-0261206984%2C-0-046-801-963-0%2C-00468019630%2C-A152-Y-/101410",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D35F-341F9_20170102164433",
+    "sku": "D35F-341F9_20170102164433",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA YPSILON 1.2 BOSCH 0 261 206 984, 0261206984, 0 046 801 963 0, 00468019630, A152 Y </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_450e76e86afeb4b5e782194a15da6b83_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_4aafda08f1b306ddbe02b6c7f03001e5_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA YPSILON",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 984",
+      "NUMBER PARTS": "0 046 801 963 0",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:38:39.441Z",
+    "model": "mistral:7b",
+    "durationMs": 11127,
+    "priceIncrement": 100
+  }
+}

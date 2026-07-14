@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Grandra Scorpio 2.0 - 88BB-12A650-AC, 8BAC - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-grandra-scorpio-2-0-88bb-12a650-ac-8bac-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford Grandra Scorpio 2.0, backed by a 6-month warranty and ready for fast dispatch.",
+  "price": "€870.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Grandra Scorpio 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Grandra Scorpio",
+    "Visteon",
+    "88BB-12A650-AC",
+    "8BAC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Grandra Scorpio 2.0 ensures seamless engine control.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used, Oryginal in Good Condition</li>\n<li>Inspection by Certified Technician</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD GRANDA SCORPIO</td></tr>\n<tr><td>ENGINE</td><td>2.0</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>88BB-12A650-AC</td></tr>\n<tr><td>NUMBER PARTS</td><td>8BAC</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD GRANDA SCORPIO 2.0, 88BB-12A650-AC, 88BB12A650AC, 8BAC",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-GRANDA-SCORPIO-2.0%2C-88BB-12A650-AC%2C-88BB12A650AC%2C-8BAC-/48073",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "B6B5-4431E",
+    "sku": "B6B5-4431E",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD GRANDA SCORPIO 2.0, 88BB-12A650-AC, 88BB12A650AC, 8BAC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD GRANDA SCORPIO",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "88BB-12A650-AC",
+      "NUMBER PARTS": "8BAC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:23:53.507Z",
+    "model": "mistral:7b",
+    "durationMs": 10867,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Ford Escort 1.8, 96AB-12A650-HD, SAUD - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-escort-1-8-96ab-12a650-hd-saud-warrant",
+  "metaDescription": "Get a Plug & Play OEM Tested ECU Replacement for your Ford Escort 1.8 with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Escort 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Escort",
+    "Visteon",
+    "96AB-12A650-HD",
+    "SAUD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for your Ford Escort 1.8 is a reliable solution, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM part for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FORD ESCORT</td></tr>\n        <tr><th>ENGINE:</th><td>1.8</td></tr>\n        <tr><th>YEAR:</th><td>1998-2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>96AB-12A650-HD</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>SAUD</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Escort models from 1998 to 2004. Fitment caution may apply. Consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD ESCORT 1.8, 96AB-12A650-HD, 96AB12A650HD, SAUD",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-ESCORT-1.8%2C-96AB-12A650-HD%2C-96AB12A650HD%2C-SAUD-/49983",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "44B6-208D6",
+    "sku": "44B6-208D6",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD ESCORT 1.8, 96AB-12A650-HD, 96AB12A650HD, SAUD </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER",
+      "BRAND AND MODEL": "FORD ESCORT",
+      "ENGINE": "1.8",
+      "YEAR": "1998-2004",
+      "NUMBER MANUFACTURER": "96AB-12A650-HD",
+      "NUMBER PARTS": "SAUD",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:11:40.038Z",
+    "model": "mistral:7b",
+    "durationMs": 11243,
+    "priceIncrement": 100
+  }
+}

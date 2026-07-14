@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi A4 3.0 TDI - OEM Tested, Bosch 0 281 012 245, 6-month Warranty",
+  "slug": "plug-play-ecu-audi-a4-30-tdi-bosch-0281012245-tested",
+  "metaDescription": "OEM tested ECU replacement for Audi A4 3.0 TDI with Plug & Play feature, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A4 3.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "3.0 TDI",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for the Audi A4 3.0 TDI is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Feature</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A4</td></tr>\n        <tr><th>ENGINE</th><td>3.0 TDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 012 245</td></tr>\n        <tr><th>NUMBER PARTS</th><td>EDC16CP</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific ECU programming requirements.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 3.0 TDI BOSCH 0 281 012 245, 0281012245, 8E0 907 401 AJ, 8E0907401AJ, EDC16CP",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-3.0-TDI-BOSCH-0-281-012-245%2C-0281012245%2C-8E0-907-401-AJ%2C-8E0907401AJ%2C-EDC16CP/110403",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7A01-21127_20180711130516",
+    "sku": "7A01-21127_20180711130516",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 3.0 TDI BOSCH 0 281 012 245, 0281012245, 8E0 907 401 AJ, 8E0907401AJ, EDC16CP</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "3.0 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 245",
+      "NUMBER PARTS": "EDC16CP",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:14:01.564Z",
+    "model": "mistral:7b",
+    "durationMs": 8931,
+    "priceIncrement": 100
+  }
+}

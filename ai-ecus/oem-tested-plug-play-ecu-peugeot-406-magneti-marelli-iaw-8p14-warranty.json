@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot 406 Magneti Marelli IAW 8P.14 - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-peugeot-406-magneti-marelli-iaw-8p14-warranty",
+  "metaDescription": "Expertly tested and OEM Magneti Marelli ECU Engine Controller for Peugeot 406. Plug & Play, 6-month warranty, fast EU dispatch.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Peugeot 406",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Magneti Marelli IAW 8P.14",
+    "Peugeot 406"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Peugeot 406 by Magneti Marelli is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>PEUGEOT 406</td></tr><tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI IAW 8P.14</td></tr><tr><th>NUMBER PARTS</th><td>9620032580</td></tr><tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 406 MAGNETI MARELLI IAW 8P.14, IAW8P14, 16269.104, 16269104, 9620032580",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-406-MAGNETI-MARELLI-IAW-8P.14%2C-IAW8P14%2C-16269.104%2C-16269104%2C-9620032580/72810",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "A7E3-11440_20150216145750",
+    "sku": "A7E3-11440_20150216145750",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 406 MAGNETI MARELLI IAW 8P.14, IAW8P14, 16269.104, 16269104, 9620032580</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 406",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 8P.14",
+      "NUMBER PARTS": "9620032580",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:19:32.263Z",
+    "model": "mistral:7b",
+    "durationMs": 9347,
+    "priceIncrement": 100
+  }
+}

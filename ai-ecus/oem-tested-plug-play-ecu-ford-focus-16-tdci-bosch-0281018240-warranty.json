@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Focus 1.6 TDCI Bosch 0 281 018 240 - 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-ford-focus-16-tdci-bosch-0281018240-warranty",
+  "metaDescription": "Expertly tested and OEM Bosch ECU Engine Controller for Ford Focus 1.6 TDCI, Plug & Play replacement, backed by a 6-month warranty.",
+  "price": "€700.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Focus 1.6 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Bosch",
+    "1.6 TDCI",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller is designed for Ford Focus 1.6 TDCI vehicles, ensuring seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Bosch Part</li>\n        <li>Plug & Play Design</li>\n        <li>6-month Warranty</li>\n        <li>Thoroughly Inspected and Tested</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FOCUS</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6 TDCI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2011</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 018 240</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>FoMoCo BV21-12A650-UA</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.6 TDCI BOSCH 0 281 018 240, 0281018240, FoMoCo BV21-12A650-UA, BV2112A650UA",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.6-TDCI-BOSCH-0-281-018-240%2C-0281018240%2C-FoMoCo-BV21-12A650-UA%2C-BV2112A650UA-/78777",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B70E-3879F_20150909214911",
+    "sku": "B70E-3879F_20150909214911",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.6 TDCI BOSCH 0 281 018 240, 0281018240, FoMoCo BV21-12A650-UA, BV2112A650UA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.6 TDCI",
+      "YEAR": "2011",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 018 240",
+      "NUMBER PARTS": "FoMoCo BV21-12A650-UA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:51:04.156Z",
+    "model": "mistral:7b",
+    "durationMs": 13494,
+    "priceIncrement": 100
+  }
+}

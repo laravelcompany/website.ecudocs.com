@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Fiesta 1.25 AV21-12A650-EB V2EB, Warranty Included",
+  "slug": "plug-and-play-ecu-ford-fiesta-1-25-av21-12a650-eb-v2eb-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Ford Fiesta 1.25 AV21-12A650-EB V2EB, backed by a 6-month warranty and fast shipping.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for Ford Fiesta 1.25",
+  "tags": [
+    "ECU replacement",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "1.25 engine",
+    "Continental"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Ford Fiesta 1.25 AV21-12A650-EB V2EB is a reliable solution for your vehicle's electronic control system.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play Installation</li>\n<li>6-month Warranty</li>\n<li>Fast Shipping within EU</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD FIESTA</td></tr>\n<tr><td>ENGINE</td><td>1.25</td></tr>\n<tr><td>YEAR</td><td>2010</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>S180047013 B</td></tr>\n<tr><td>CODE</td><td>V2EB</td></tr>\n<tr><td>NUMBER PARTS</td><td>AV21-12A650-EB</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Fast shipping within EU, 12-month warranty included.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with Ford Fiesta 1.25 AV21-12A650-EB V2EB. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.25 AV2112A650EB, AV21-12A650-EB V2EB, S180047013 B, S180047013B",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.25-AV2112A650EB%2C-AV21-12A650-EB-V2EB%2C-S180047013-B%2C-S180047013B/30349",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "9647-16824_20120930194242",
+    "sku": "9647-16824_20120930194242",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.25 AV2112A650EB, AV21-12A650-EB V2EB, S180047013 B, S180047013B</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.25",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "S180047013 B",
+      "CODE": "V2EB",
+      "NUMBER PARTS": "AV21-12A650-EB",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:18:38.469Z",
+    "model": "mistral:7b",
+    "durationMs": 11514,
+    "priceIncrement": 100
+  }
+}

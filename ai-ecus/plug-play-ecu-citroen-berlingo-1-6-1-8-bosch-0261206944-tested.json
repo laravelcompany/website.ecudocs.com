@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Citroen Berlingo 1.6/1.8 Bosch 0 261 206 944, 6-month Warranty",
+  "slug": "plug-play-ecu-citroen-berlingo-1-6-1-8-bosch-0261206944-tested",
+  "metaDescription": "Expertly tested ECU replacement for Citroen Berlingo 1.6/1.8 with Bosch 0 261 206 944, offering Plug & Play functionality and a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Expertly tested ECU replacement for Citroen Berlingo 1.6/1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Berlingo",
+    "Bosch",
+    "0 261 206 944"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for Citroen Berlingo 1.6/1.8 is a reliable replacement, ensuring smooth operation of your vehicle's engine.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play functionality</li>\n<li>OEM tested and certified</li>\n<li>6-month warranty</li>\n<li>Compatible with speedometer instrument cluster</li>\n<li>Used in good condition</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>CITROEN BERLINGO</td></tr>\n<tr><td>ENGINE</td><td>1.6/1.8</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 206 944</td></tr>\n<tr><td>NUMBER PARTS</td><td>ME7.4.4 36</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Citroen Berlingo 1.6/1.8. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN BERLINGO 1.6/1.8, BOSCH 0 261 206 944, 0261206944, 96 387 836 80, 9638783680, ME7.4.4 36 - 8991",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-BERLINGO-1.61.8%2C-BOSCH-0-261-206-944%2C-0261206944%2C-96-387-836-80%2C-9638783680%2C-ME7.4.4-36-8991/49849",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2347-742F2",
+    "sku": "2347-742F2",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN BERLINGO 1.6/1.8, BOSCH 0 261 206 944, 0261206944, 96 387 836 80, 9638783680, ME7.4.4 36 - 8991</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER - SPEEDOMETER INSTRUMENT CLUSTER",
+      "BRAND AND MODEL": "CITROEN BERLINGO",
+      "ENGINE": "1.6/1.8",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 944",
+      "NUMBER PARTS": "ME7.4.4 36",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:20:38.957Z",
+    "model": "mistral:7b",
+    "durationMs": 10181,
+    "priceIncrement": 100
+  }
+}

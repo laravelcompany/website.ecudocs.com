@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes A-Class W169 (2004-2018) - Bosch 0281013779, 0 281 013 779",
+  "slug": "plug-play-ecu-mercedes-a-class-w169-bosch-0281013779",
+  "metaDescription": "Expertly tested and OEM Bosch ECU replacement for Mercedes A-Class W169 (2004-2018). Plug & Play, 6-month warranty. Fast dispatch within EU.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play Bosch ECU for Mercedes A-Class W169",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes A-Class W169",
+    "Bosch 0281013779"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Bosch ECU replacement is specifically designed for the Mercedes A-Class W169 (2004-2018). It offers a Plug & Play installation process, ensuring seamless integration with your vehicle's electrical system.</section>\n<section class=\"features\">\n  <ul>\n    <li>OEM Bosch Part</li>\n    <li>Plug & Play Installation</li>\n    <li>6-month Warranty</li>\n    <li>Expertly Tested</li>\n    <li>Fast Dispatch within EU</li>\n  </ul>\n</section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL:</th><td>MERCEDES</td></tr>\n    <tr><th>YEAR:</th><td>2007</td></tr>\n    <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0281013779, 0 281 013 779</td></tr>\n    <tr><th>NUMBER PARTS:</th><td>0014467540</td></tr>\n    <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n  </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mercedes A-Class W169 (2004-2018). Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES A6291501379, 6291501379, A 629 150 13 79, A0014467540, 0014467540, A 001 446 75 40, BOSCH 0281013779, 0 281 013 779",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-A6291501379%2C-6291501379%2C-A-629-150-13-79%2C-A0014467540%2C-0014467540%2C-A-001-446-75-40%2C-BOSCH-0281013779%2C-0-281-013-779/27134",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "80B6-72135_20120731071156",
+    "sku": "80B6-72135_20120731071156",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES A6291501379, 6291501379, A 629 150 13 79, A0014467540, 0014467540, A 001 446 75 40, BOSCH 0281013779, 0 281 013 779</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0281013779, 0 281 013 779",
+      "NUMBER PARTS": "0014467540",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:11:31.576Z",
+    "model": "mistral:7b",
+    "durationMs": 11605,
+    "priceIncrement": 100
+  }
+}

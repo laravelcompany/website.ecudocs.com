@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Nissan Almera 1.5 - MEC32-211 D1, 6E - Warranty Included",
+  "slug": "plug-play-oem-tested-ecu-replacement-nissan-almera-1-5-mec32-211-d1-6e-warranty-",
+  "metaDescription": "Buy a Plug & Play OEM tested ECU Engine Controller for Nissan Almera 1.5, MEC32-211 D1, 6E. Covered by a 6-month warranty and shipped within 24–48 hours.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Nissan Almera 1.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "MEC32-211 D1",
+    "Nissan Almera",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Nissan Almera 1.5, ensuring smooth engine operation.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li><li>Expertly Inspected and Tested</li></ul></section>\n<section class=\"specs\"><table><thead><tr><th>Specification</th><th>Value</th></tr></thead><tbody><tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr><tr><td>BRAND AND MODEL</td><td>NISSAN ALMERA</td></tr><tr><td>ENGINE</td><td>1.5</td></tr><tr><td>YEAR</td><td>2000-2006</td></tr><tr><td>NUMBER MANUFACTURER</td><td>MEC32-211 D1</td></tr><tr><td>NUMBER PARTS</td><td>6E</td></tr><tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr><tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><td>WARRANTY :</td><td>6-month warranty</td></tr><tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Nissan Almera 1.5. Fitment caution may apply, please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA 1.5, MEC32-211 D1, MEC32211 D1, MEC32211D1, 5Z21, 6E",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-1.5%2C-MEC32-211-D1%2C-MEC32211-D1%2C-MEC32211D1%2C-5Z21%2C-6E/38440",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "B9B7-492A7_20130724121412",
+    "sku": "B9B7-492A7_20130724121412",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA 1.5, MEC32-211 D1, MEC32211 D1, MEC32211D1, 5Z21, 6E</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "ENGINE": "1.5",
+      "YEAR": "2000-2006",
+      "NUMBER MANUFACTURER": "MEC32-211 D1",
+      "NUMBER PARTS": "6E",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:04:14.895Z",
+    "model": "mistral:7b",
+    "durationMs": 11181,
+    "priceIncrement": 100
+  }
+}

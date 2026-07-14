@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Peugeot Partner Ranch 2.0 HDI Siemens 5WS40136B-T, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-peugeot-partner-ranch-20-hdi-siemens-5ws40136bt-oem-te",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Peugeot Partner Ranch 2.0 HDI SIEMENS 5WS40136B-T, tested and covered by a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot Partner Ranch 2.0 HDI SIEMENS",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot Partner Ranch",
+    "Siemens 5WS40136B-T"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and used in good condition ECU Engine Controller for Peugeot Partner Ranch 2.0 HDI SIEMENS is a reliable replacement option.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PEUGEOT PARTNER RANCH</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 HDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2003-2008</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS 5WS40136B-T</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>HW9647423380</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT PARTNER RANCH 2.0 HDI SIEMENS 5WS40136B-T, 5WS40136BT, SW9652691080, HW9647423380, SID 801A",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-PARTNER-RANCH-2.0-HDI-SIEMENS-5WS40136B-T%2C-5WS40136BT%2C-SW9652691080%2C-HW9647423380%2C-SID-801A-/76512",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "E4E9-6339F_20150710134212",
+    "sku": "E4E9-6339F_20150710134212",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT PARTNER RANCH 2.0 HDI SIEMENS 5WS40136B-T, 5WS40136BT, SW9652691080, HW9647423380, SID 801A </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8f571046e2b4540e83fc64799c9ee23b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f5245b03cfd4307fdc9d9f88653c5c27_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT PARTNER RANCH",
+      "ENGINE": "2.0 HDI",
+      "YEAR": "2003-2008",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40136B-T",
+      "NUMBER PARTS": "HW9647423380",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:34:04.897Z",
+    "model": "mistral:7b",
+    "durationMs": 12313,
+    "priceIncrement": 100
+  }
+}

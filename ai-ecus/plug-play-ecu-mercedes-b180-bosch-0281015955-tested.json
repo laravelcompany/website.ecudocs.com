@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes B180 Bosch 0281015955 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-b180-bosch-0281015955-tested",
+  "metaDescription": "Find your Plug & Play ECU replacement for Mercedes B180 with Bosch 0281015955. OEM tested, warranty included.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes B180",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes B180",
+    "Bosch 0281015955"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Mercedes B180 is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES B180</td></tr>\n        <tr><th>YEAR</th><td>2009</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281015955, 0 281 015 955</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6401507934</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES B180 BOSCH 0281015955, 0 281 015 955, A6401507934, 6401507934, A 640 150 79 34",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-B180-BOSCH-0281015955%2C-0-281-015-955%2C-A6401507934%2C-6401507934%2C-A-640-150-79-34/32132",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8635-1015F",
+    "sku": "8635-1015F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES B180 BOSCH 0281015955, 0 281 015 955, A6401507934, 6401507934, A 640 150 79 34</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES B180",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0281015955, 0 281 015 955",
+      "NUMBER PARTS": "6401507934",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:16:10.418Z",
+    "model": "mistral:7b",
+    "durationMs": 10403,
+    "priceIncrement": 100
+  }
+}

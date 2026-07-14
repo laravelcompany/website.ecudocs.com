@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E90 325D E60 525D 2.5 D BOSCH 0281015130, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-e90-325d-e60-525d-bosch-0281015130",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for BMW E90 325D E60 525D 2.5 D BOSCH 0281015130, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E90 325D E60 525D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E90 325D E60 525D",
+    "BOSCH 0281015130"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for BMW E90 325D E60 525D 2.5 D BOSCH 0281015130, tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch</li>\n        <li>EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>BMW E90 325D E60 525D</td></tr>\n            <tr><td>ENGINE</td><td>2.5 DIESEL</td></tr>\n            <tr><td>YEAR</td><td>2008</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 015 130</td></tr>\n            <tr><td>NUMBER PARTS</td><td>1039S25861</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your vehicle before purchase. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E90 325D E60 525D 2.5 D BOSCH 0281015130, 0 281 015 130, DDE 7 811 151, 7811151, DME7811151, 1039S25861",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E90-325D-E60-525D-2.5-D-BOSCH-0281015130%2C-0-281-015-130%2C-DDE-7-811-151%2C-7811151%2C-DME7811151%2C-1039S25861-/16325",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "65E3-223DC",
+    "sku": "65E3-223DC",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E90 325D E60 525D 2.5 D BOSCH 0281015130, 0 281 015 130, DDE 7 811 151, 7811151, DME7811151, 1039S25861 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E90 325D E60 525D",
+      "ENGINE": "2.5 DIESEL",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 130",
+      "NUMBER PARTS": "1039S25861",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:42:33.443Z",
+    "model": "mistral:7b",
+    "durationMs": 13315,
+    "priceIncrement": 100
+  }
+}

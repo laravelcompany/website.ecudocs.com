@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - DeWoo Tacuma 1.6 KEMSCO S010016030 E1 S010016030E1, Warranty Included",
+  "slug": "plug-play-ecu-dewoo-tacuma-1-6-kemsco-s010016030-e1-s010016030e1-warranty",
+  "metaDescription": "Buy the Plug & Play OEM Tested ECU Replacement for DeWoo Tacuma 1.6 KEMSCO S010016030 E1 S010016030E1, 96378049 1AEK Y2. Covered by a 6-month warranty and shipped within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for DeWoo Tacuma 1.6 KEMSCO S010016030 E1 S010016030E1",
+  "tags": [
+    "ECU repair",
+    "DeWoo Tacuma",
+    "KEMSCO S010016030 E1",
+    "96378049 1AEK Y2"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for DeWoo Tacuma 1.6 KEMSCO S010016030 E1 S010016030E1 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Locked / Unlocked Option Available</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>DEAWOO TACUMA</td></tr>\n<tr><td>ENGINE</td><td>1.6</td></tr>\n<tr><td>YEAR</td><td>2001</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>KEMSCO S010016030 E1</td></tr>\n<tr><td>NUMBER PARTS</td><td>96378049 1AEK Y2</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER DEAWOO TACUMA 1.6 KEMSCO S010016030 E1 S010016030E1, 96378049 1AEK Y2",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-DEAWOO-TACUMA-1.6-KEMSCO-S010016030-E1-S010016030E1%2C-96378049-1AEK-Y2/17108",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Kemsco",
+    "productCode": "FC6F-779FF",
+    "sku": "FC6F-779FF",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER DEAWOO TACUMA 1.6 KEMSCO S010016030 E1 S010016030E1, 96378049 1AEK Y2</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9c27b57b9f0651bdf25650c513b0b879_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d7960e932bf483e0eac1b31bf4f38714_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "DEAWOO TACUMA",
+      "ENGINE": "1.6",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "KEMSCO S010016030 E1",
+      "NUMBER PARTS": "96378049 1AEK Y2",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:03:22.501Z",
+    "model": "mistral:7b",
+    "durationMs": 11787,
+    "priceIncrement": 100
+  }
+}

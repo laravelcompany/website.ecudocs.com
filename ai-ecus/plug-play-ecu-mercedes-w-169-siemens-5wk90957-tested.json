@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W 169 Siemens 5WK90957, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w-169-siemens-5wk90957-tested",
+  "metaDescription": "Expertly tested and Plug & Play ECU replacement for Mercedes W 169, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€485.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W 169",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W 169",
+    "Siemens 5WK90957"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Mercedes W 169 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>MERCEDES W 169</td></tr><tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WK90957</td></tr><tr><th>NUMBER PARTS</th><td>A 002 446 30 40</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary by vehicle and year. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W 169 SIEMENS 5WK90957, A 266 153 08 79, A2661530879, A 002 446 30 40, A0024463040",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W-169-SIEMENS-5WK90957%2C-A-266-153-08-79%2C-A2661530879%2C-A-002-446-30-40%2C-A0024463040/130427",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "8752-7200F_20220520144909",
+    "sku": "8752-7200F_20220520144909",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W 169 SIEMENS 5WK90957, A 266 153 08 79, A2661530879, A 002 446 30 40, A0024463040</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_269764_0_0/MERCEDES-W-169-SIEMENS-5WK90957%2C-A-266-153-08-79%2C-A2661530879%2C-A-002-446-30-40%2C-A0024463040.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_269765_0_0/MERCEDES-W-169-SIEMENS-5WK90957%2C-A-266-153-08-79%2C-A2661530879%2C-A-002-446-30-40%2C-A0024463040.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W 169",
+      "NUMBER MANUFACTURER": "SIEMENS 5WK90957",
+      "NUMBER PARTS": "A 002 446 30 40",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:00:32.172Z",
+    "model": "mistral:7b",
+    "durationMs": 9115,
+    "priceIncrement": 100
+  }
+}

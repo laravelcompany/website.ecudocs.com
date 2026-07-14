@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Engine Controller - Citroen C5 2.0 HDI Bosch 0 281 010 365, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-citroen-c5-20-hdi-bosch-0-281-010-365-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Citroen C5 2.0 HDI Bosch 0 281 010 365, OEM tested and covered by a warranty. Fast dispatch within EU.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Citroen C5 2.0 HDI Bosch 0 281 010 365",
+  "tags": [
+    "ECU Replacement",
+    "Citroen C5",
+    "2.0 HDI",
+    "Bosch",
+    "Plug & Play",
+    "OEM Tested",
+    "Warranty Included"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Citroen C5 2.0 HDI Bosch 0 281 010 365 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Tested</li>\n      <li>Plug & Play</li>\n      <li>Warranty Included</li>\n      <li>Fast Dispatch within EU</li>\n      <li>6-month Warranty</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <thead>\n        <tr>\n          <th>Specification</th>\n          <th>Value</th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><td>BRAND AND MODEL</td><td>CITROEN C5</td></tr>\n        <tr><td>ENGINE</td><td>2.0 HDI</td></tr>\n        <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 010 365</td></tr>\n        <tr><td>NUMBER PARTS</td><td>96 416 079 80</td></tr>\n        <tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n        <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n        <tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n      </tbody>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN C5 2.0 HDI BOSCH 0 281 010 365, 0281010365, 96 416 079 80, 9641607980",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-C5-2.0-HDI-BOSCH-0-281-010-365%2C-0281010365%2C-96-416-079-80%2C-9641607980-/97824",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B801-432C5_20161003104917",
+    "sku": "B801-432C5_20161003104917",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN C5 2.0 HDI BOSCH 0 281 010 365, 0281010365, 96 416 079 80, 9641607980 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_eb17d9ee9b5188375c33df74e646b008_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d46763bf4d6bf0766e1e309edecb16f3_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN C5",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 365",
+      "NUMBER PARTS": "96 416 079 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:39:59.749Z",
+    "model": "mistral:7b",
+    "durationMs": 12287,
+    "priceIncrement": 100
+  }
+}

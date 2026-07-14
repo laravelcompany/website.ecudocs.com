@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford Fiesta ST 2.0 - Visteon 5S61-12A650-CF 5AXF, Tested & Warranty Included",
+  "slug": "plug-play-oem-ecu-ford-fiesta-st-2-0-visteon-5s61-12a650-cf-5axf-tested",
+  "metaDescription": "Buy a tested and certified Plug & Play OEM ECU replacement for your Ford Fiesta ST 2.0. Covered by a 6-month warranty.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Ford Fiesta ST 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta ST",
+    "Visteon",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for your Ford Fiesta ST 2.0 is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>CODE</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FORD FIESTA ST</td><td>2.0</td><td>2006</td><td>ESU-132</td><td>5AXF</td><td>5S61-12A650-CF</td><td>Plug & Play / Locked / Ready for programming</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA ST 2.0 5S6112A650CF, 5S61-12A650-CF 5AXF",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-ST-2.0-5S6112A650CF%2C-5S61-12A650-CF-5AXF/30927",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "4909-104B4_20121006103110",
+    "sku": "4909-104B4_20121006103110",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA ST 2.0 5S6112A650CF, 5S61-12A650-CF 5AXF</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA ST",
+      "ENGINE": "2.0",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "ESU-132",
+      "CODE": "5AXF",
+      "NUMBER PARTS": "5S61-12A650-CF",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:41:19.345Z",
+    "model": "mistral:7b",
+    "durationMs": 8729,
+    "priceIncrement": 100
+  }
+}

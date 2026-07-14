@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Mini One Cooper 1.6 Siemens S118012001L, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-mini-one-cooper-16-siemens-s118012001l",
+  "metaDescription": "OEM tested ECU replacement for Mini One Cooper 1.6 Siemens S118012001L, offering Plug & Play convenience and backed by a warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU replacement for Mini One Cooper 1.6 Siemens S118012001L",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mini One Cooper",
+    "Siemens S118012001L"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Mini One Cooper 1.6 Siemens S118012001L offers Plug & Play convenience and is backed by a warranty.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Fast Dispatch</li><li>Expertly Inspected and Tested</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>MINI ONE COOPER</td><td>1.6</td><td>2001-2002</td><td>SIEMENS S118012001 L</td><td>1214 7520019-01</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MINI ONE COOPER 1.6 SIEMENS S118012001 L, S118012001L, 1214 7520019-01, 1214752001901",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MINI-ONE-COOPER-1.6-SIEMENS-S118012001-L%2C-S118012001L%2C-1214-7520019-01%2C-1214752001901/12895",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "0969-235E2",
+    "sku": "0969-235E2",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MINI ONE COOPER 1.6 SIEMENS S118012001 L, S118012001L, 1214 7520019-01, 1214752001901</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8a027d0c739c388105c8ec7b3e483767_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_228b26074ec48cfeae8ecb7e0f4ba204_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_5c8851733e34281902779a9d6f47f7db_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MINI ONE COOPER",
+      "ENGINE": "1.6",
+      "YEAR": "2001-2002",
+      "NUMBER MANUFACTURER": "SIEMENS S118012001 L",
+      "NUMBER PARTS": "1214 7520019-01",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:46:35.674Z",
+    "model": "mistral:7b",
+    "durationMs": 9744,
+    "priceIncrement": 100
+  }
+}

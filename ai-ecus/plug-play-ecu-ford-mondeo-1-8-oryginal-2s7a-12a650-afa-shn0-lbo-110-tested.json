@@ -1,0 +1,57 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Mondeo 1.8 - Oryginal 2S7A-12A650-AFA SHN0, LBO-110 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-1-8-oryginal-2s7a-12a650-afa-shn0-lbo-110-tested",
+  "metaDescription": "Find the perfect Plug & Play ECU Replacement for your Ford Mondeo 1.8 with our Oryginal 2S7A-12A650-AFA SHN0, LBO-110. OEM tested and backed by a warranty.",
+  "price": "€100.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Mondeo 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Oryginal",
+    "2S7A-12A650-AFA",
+    "SHN0",
+    "LBO-110"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your Ford Mondeo 1.8 is tested and covered by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\">...(technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 1.8 2S7A-12A650-AFA SHN0, 2S7A12A650AFA, LBO-110",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-1.8-2S7A-12A650-AFA-SHN0%2C-2S7A12A650AFA%2C-LBO-110-/16427",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "C1F1-559F7",
+    "sku": "C1F1-559F7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 1.8 2S7A-12A650-AFA SHN0, 2S7A12A650AFA, LBO-110 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_cf301250348edfea46aa5b22b77706fa_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_5a5a0031019150ab68720dfe8d017a45_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "1.8",
+      "YEAR": "2001-2006",
+      "NUMBER MANUFACTURER": "LBO-110",
+      "CODE": "SHN0",
+      "NUMBER PARTS": "2S7A-12A650-AFA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:32:11.282Z",
+    "model": "mistral:7b",
+    "durationMs": 6984,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Mercedes W211 E280 3.0 CDI - OEM Tested Bosch 0281012406, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-w211-e280-30-cdi-bosch-0281012406-tested",
+  "metaDescription": "OEM tested ECU replacement for Mercedes W211 E280 3.0 CDI, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W211 E280 3.0 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W211",
+    "E280",
+    "3.0 CDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Mercedes W211 E280 3.0 CDI ensures optimal engine performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>Compatible with Mercedes W211 E280 3.0 CDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W211 E280</td></tr>\n        <tr><th>ENGINE</th><td>3.0 CDI</td></tr>\n        <tr><th>YEAR</th><td>2005-06</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 012 406</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6421505179</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W211 E280 3.0 CDI. Fitment caution may apply, consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W211 E280 3.0 CDI A6421505179, 6421505179, A 642 150 51 79 BOSCH 0281012406, 0 281 012 406",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W211-E280-3.0-CDI-A6421505179%2C-6421505179%2C-A-642-150-51-79-BOSCH-0281012406%2C-0-281-012-406/27101",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "78E9-22592_20120730154429",
+    "sku": "78E9-22592_20120730154429",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W211 E280 3.0 CDI A6421505179, 6421505179, A 642 150 51 79 BOSCH 0281012406, 0 281 012 406</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W211 E280",
+      "ENGINE": "3.0 CDI",
+      "YEAR": "2005-06",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 406",
+      "NUMBER PARTS": "6421505179",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:35:34.469Z",
+    "model": "mistral:7b",
+    "durationMs": 10202,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.0 TDCI - Visteon 2S71-12A650-CC, 6CPB, Warranty Included",
+  "slug": "plug-play-ecu-ford-mondeo-2-0-tdci-visteon-2s71-12a650-cc-6cpb",
+  "metaDescription": "Get a certified OEM tested Plug & Play ECU replacement for your Ford Mondeo 2.0 TDCI with a 6-month warranty and fast dispatch.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Mondeo 2.0 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Mondeo",
+    "Visteon",
+    "2S71-12A650-CC",
+    "6CPB"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for your Ford Mondeo 2.0 TDCI is guaranteed to restore optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-Month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD MONDEO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 TDCI</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>VISTEON 2S71-12A650-CC</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>6CPB</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">This product comes with a 12-month warranty and fast dispatch within the EU.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI VISTEON 2S71-12A650-CC, 2S7112A650CC, 6CPB, DPC-664",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-MONDEO-2.0-TDCI-VISTEON-2S71-12A650-CC%2C-2S7112A650CC%2C-6CPB%2C-DPC-664-/86557",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "03A6-61675_20160220180613",
+    "sku": "03A6-61675_20160220180613",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD MONDEO 2.0 TDCI VISTEON 2S71-12A650-CC, 2S7112A650CC, 6CPB, DPC-664 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a36d192a672bde88cd4a34b65da8237c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1c62e14bf1520b1e18c15257f50dca93_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD MONDEO",
+      "ENGINE": "2.0 TDCI",
+      "NUMBER MANUFACTURER": "VISTEON 2S71-12A650-CC",
+      "NUMBER PARTS": "6CPB",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:43:47.610Z",
+    "model": "mistral:7b",
+    "durationMs": 10312,
+    "priceIncrement": 100
+  }
+}

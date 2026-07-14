@@ -1,0 +1,60 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT Cinquecento 500 0.9, OEM Magneti Marelli IAW 6F.S0, 7780555 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-cinquecento-500-09-oem-magneti-marelli-iaw-6fs0-7780555-teste",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for FIAT Cinquecento 500 0.9, OEM Magneti Marelli IAW 6F.S0, 7780555. Tested and covered by a 6-month warranty.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT Cinquecento 500 0.9",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT Cinquecento 500",
+    "Magneti Marelli IAW 6F.S0",
+    "7780555"
+  ],
+  "description": "<section class=\"overview\">This OEM Magneti Marelli IAW 6F.S0 ECU Engine Controller for FIAT Cinquecento 500 0.9 has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>FIAT CINQUECENTO 500</td></tr>\n        <tr><th>ENGINE:</th><td>0.9</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>MAGNETI MARELLI IAW 6F.S0</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>7780555</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT CINQUECENTO 500 0.9, MAGNETI MARELLI IAW 6F.S0, IAW6FS0, 61602.054.01, 6160205401, 7780555",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-CINQUECENTO-500-0.9%2C-MAGNETI-MARELLI-IAW-6F.S0%2C-IAW6FS0%2C-61602.054.01%2C-6160205401%2C-7780555/72671",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "8E60-550A5_20150212230802",
+    "sku": "8E60-550A5_20150212230802",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT CINQUECENTO 500 0.9, MAGNETI MARELLI IAW 6F.S0, IAW6FS0, 61602.054.01, 6160205401, 7780555</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_fa74c83ff0020f3cde810a97e4637cf0_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ffb5a4d25d2416b7fdc2a9c825da717a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ec9b52fb2d9ff0dadd5909459d289361_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6fc5d4d0803ddaec8fe53b5ee350540f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a45e2970cbd916bd1e9939ab6dfd209a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_27e10c4b127089ddfac21c8d393692b5_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_033449206afc3d6f9417de4a871cd21d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9102c065d426b9c8748337eb3ccb0556_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_092cf85ef5017814c4db2c8571b2ae4b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT CINQUECENTO 500",
+      "ENGINE": "0.9",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 6F.S0",
+      "NUMBER PARTS": "7780555",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:29:05.881Z",
+    "model": "mistral:7b",
+    "durationMs": 11894,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Audi A4 1.9 TDI Bosch 0281001316/317, Warranty Included",
+  "slug": "plug-play-ecu-audi-a4-19-tdi-bosch-0281001316317-warranty",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Audi A4 1.9 TDI (Bosch 0281001316/317). 6-month warranty. Fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "OEM tested, Plug & Play ECU for Audi A4 1.9 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "1.9 TDI",
+    "Bosch",
+    "0281001316/317"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Audi A4 1.9 TDI is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Ready for Programming</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A4</td></tr>\n        <tr><th>ENGINE</th><td>1.9 TDI</td></tr>\n        <tr><th>YEAR</th><td>1994</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 316/317</td></tr>\n        <tr><th>NUMBER PARTS</th><td>028 906 021 AP</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A4 1.9 TDI (Bosch 0281001316/317). Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 1.9 TDI, BOSCH 0 281 001 316/317, 0281001316/317, 028 906 021 AP, 028906021AP",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-1.9-TDI%2C-BOSCH-0-281-001-316317%2C-0281001316317%2C-028-906-021-AP%2C-028906021AP/37656",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9D5A-697F1_20130716150434",
+    "sku": "9D5A-697F1_20130716150434",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 1.9 TDI, BOSCH 0 281 001 316/317, 0281001316/317, 028 906 021 AP, 028906021AP</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "1994",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 316/317",
+      "NUMBER PARTS": "028 906 021 AP",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:03:31.674Z",
+    "model": "mistral:7b",
+    "durationMs": 10249,
+    "priceIncrement": 100
+  }
+}

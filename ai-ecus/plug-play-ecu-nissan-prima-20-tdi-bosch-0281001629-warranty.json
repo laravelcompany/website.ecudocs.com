@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for NISSAN PRIMERA 2.0 TDI BOSCH 0 281 001 629, Warranty Included",
+  "slug": "plug-play-ecu-nissan-prima-20-tdi-bosch-0281001629-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for NISSAN PRIMERA 2.0 TDI BOSCH 0 281 001 629, covered by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU for NISSAN PRIMERA 2.0 TDI BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Prima",
+    "2.0 TDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for NISSAN PRIMERA 2.0 TDI BOSCH 0 281 001 629 is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Fast Dispatch</li><li>Reliable Performance</li></ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>NISSAN PRIMERA</td></tr>\n<tr><td>ENGINE</td><td>2.0 TDI</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 001 629</td></tr>\n<tr><td>NUMBER PARTS</td><td>BJ</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with NISSAN PRIMERA 2.0 TDI BOSCH. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 TDI BOSCH 0 281 001 629, 0281001629, 23710 2J661, 237102J661, BJ",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-2.0-TDI-BOSCH-0-281-001-629%2C-0281001629%2C-23710-2J661%2C-237102J661%2C-BJ-/98309",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "409C-997A5_20161014143622",
+    "sku": "409C-997A5_20161014143622",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 TDI BOSCH 0 281 001 629, 0281001629, 23710 2J661, 237102J661, BJ </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_bc7e2f623d100de1bf72b98359fdba2d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f4227e3292e26b33ce17de3a64d253c3_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "2.0 TDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 629",
+      "NUMBER PARTS": "BJ",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:36:21.844Z",
+    "model": "mistral:7b",
+    "durationMs": 11193,
+    "priceIncrement": 100
+  }
+}

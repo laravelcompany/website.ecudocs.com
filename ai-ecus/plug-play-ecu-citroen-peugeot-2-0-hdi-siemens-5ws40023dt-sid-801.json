@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Citroen Peugeot 2.0 HDI - Siemens 5WS40023D-T, SID 801",
+  "slug": "plug-play-ecu-citroen-peugeot-2-0-hdi-siemens-5ws40023dt-sid-801",
+  "metaDescription": "OEM Tested Plug & Play ECU Replacement for Citroen Peugeot 2.0 HDI - 6-month warranty, fast dispatch in EU.",
+  "price": "€275.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen Peugeot 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "2.0 HDI",
+    "Siemens",
+    "5WS40023D-T",
+    "SID 801"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Citroen Peugeot 2.0 HDI is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch in EU</li>\n        <li>Reliable Performance</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>CITROEN PEUGEOT</td></tr>\n        <tr><th>ENGINE</th><td>2.0 HDI</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>5WS40023D-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>SID 801</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchasing.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.0 HDI 5WS40023D-T, 5WS40023DT, SW9644803380, SID 801",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-2.0-HDI-5WS40023D-T%2C-5WS40023DT%2C-SW9644803380%2C-SID-801/105125",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "8612-312FE_20170525163317",
+    "sku": "8612-312FE_20170525163317",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 2.0 HDI 5WS40023D-T, 5WS40023DT, SW9644803380, SID 801</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_1c24167981e5cbe0baa44f52c6123347_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_514840d9f75c7c117c23424d2b908870_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "5WS40023D-T",
+      "NUMBER PARTS": "SID 801",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:06:20.501Z",
+    "model": "mistral:7b",
+    "durationMs": 9135,
+    "priceIncrement": 100
+  }
+}

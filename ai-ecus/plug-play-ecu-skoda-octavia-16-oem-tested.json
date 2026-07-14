@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Skoda Octavia 1.6 - OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-skoda-octavia-16-oem-tested",
+  "metaDescription": "Buy a tested Plug & Play ECU Engine Controller for Skoda Octavia 1.6, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Replacement ECU for Skoda Octavia 1.6 - Plug & Play",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Octavia",
+    "Magneti Marelli",
+    "IAW1AVM.S0",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller is a reliable replacement for your Skoda Octavia 1.6.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM quality part</li><li>6-month warranty</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SKODA OCTAVIA</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>IAW1AVM.S0</td></tr>\n        <tr><th>NUMBER PARTS</th><td>61600.260.11</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Skoda Octavia 1.6. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 1.6 032906014F, IAW1AVMS0, IAW1AVM.S0, 032 906 014 F",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-1.6-032906014F%2C-IAW1AVMS0%2C-IAW1AVM.S0%2C-032-906-014-F/34249",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "F032-313FB_20121216141858",
+    "sku": "F032-313FB_20121216141858",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 1.6 032906014F, IAW1AVMS0, IAW1AVM.S0, 032 906 014 F</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "IAW1AVM.S0",
+      "NUMBER PARTS": "61600.260.11",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:30:47.306Z",
+    "model": "mistral:7b",
+    "durationMs": 9545,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Nissan Almera MEC20-500, 6-month Warranty",
+  "slug": "oem-tested-plug-play-ecu-nissan-almera-mec20-500-warranty",
+  "metaDescription": "Expertly tested and OEM approved Plug & Play ECU replacement for Nissan Almera MEC20-500, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Nissan Almera MEC20-500",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Almera",
+    "MEC20-500",
+    "Hitachi"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Nissan Almera MEC20-500 ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>NISSAN ALMERA</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MEC20-500</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>A1</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>2T</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Nissan Almera MEC20-500. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA MEC20-500, MEC20500, A1, 0Z12, 2T",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-MEC20-500%2C-MEC20500%2C-A1%2C-0Z12%2C-2T/37647",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "9596-79457_20130716150223",
+    "sku": "9596-79457_20130716150223",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA MEC20-500, MEC20500, A1, 0Z12, 2T</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "MEC20-500",
+      "CODE": "A1",
+      "NUMBER PARTS": "2T",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:09:39.020Z",
+    "model": "mistral:7b",
+    "durationMs": 11088,
+    "priceIncrement": 100
+  }
+}

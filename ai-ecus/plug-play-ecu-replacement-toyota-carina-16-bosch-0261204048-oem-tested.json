@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Toyota Carina 1.6 Bosch 0261204048 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-toyota-carina-16-bosch-0261204048-oem-tested",
+  "metaDescription": "Find your Plug & Play ECU Replacement for Toyota Carina 1.6 with Bosch 0261204048. OEM tested, warranty included.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Toyota Carina 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Carina",
+    "Bosch 0261204048"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Toyota Carina 1.6 is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Expertly Repaired</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA CARINA 1.6 BOSCH 0261204048, 0 261 204 048, 8966105120 89661-05120",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-CARINA-1.6-BOSCH-0261204048%2C-0-261-204-048%2C-8966105120-89661-05120-/32202",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E7D4-6561C",
+    "sku": "E7D4-6561C",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA CARINA 1.6 BOSCH 0261204048, 0 261 204 048, 8966105120 89661-05120 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA CARINA",
+      "ENGINE": "1.6",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 048",
+      "NUMBER PARTS": "8966105120",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:18:41.883Z",
+    "model": "mistral:7b",
+    "durationMs": 6064,
+    "priceIncrement": 100
+  }
+}

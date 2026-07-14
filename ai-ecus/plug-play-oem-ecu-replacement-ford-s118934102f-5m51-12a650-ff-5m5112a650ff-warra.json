@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Ford - S118934102F, 5M51-12A650-FF, 5M5112A650FF, Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-ford-s118934102f-5m51-12a650-ff-5m5112a650ff-warra",
+  "metaDescription": "Buy a tested and certified Plug & Play OEM ECU Engine Controller for Ford, model S118934102F, 5M51-12A650-FF, 5M5112A650FF. Covered by a 6-month warranty and fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Ford",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford S118934102F",
+    "5M51-12A650-FF",
+    "5M5112A650FF"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for Ford has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>:</td><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>:</td><td>FORD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>:</td><td>S118934102F</td></tr>\n        <tr><th>NUMBER PARTS</th><td>:</td><td>5M51-12A650-FF</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>:</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>:</td><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>:</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify the compatibility of this part with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD S118934102F, 5M51-12A650-FF, 5M5112A650FF, SIM 28",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-S118934102F%2C-5M51-12A650-FF%2C-5M5112A650FF%2C-SIM-28/124522",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "B23A-28544_20210311162626",
+    "sku": "B23A-28544_20210311162626",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD S118934102F, 5M51-12A650-FF, 5M5112A650FF, SIM 28</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "S118934102F",
+      "NUMBER PARTS": "5M51-12A650-FF",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:55:06.721Z",
+    "model": "mistral:7b",
+    "durationMs": 11987,
+    "priceIncrement": 100
+  }
+}

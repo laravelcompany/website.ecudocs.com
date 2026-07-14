@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - SKODA FABIA 1.4 16V Magneti Marelli IAW 4MU.CB, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-skoda-fabia-14-magneti-marelli-iaw-4mu-cb",
+  "metaDescription": "Buy this Plug & Play ECU Replacement for your SKODA FABIA 1.4 16V. OEM Tested, Warranty Included. Fast dispatch and EU shipping.",
+  "price": "€200.00",
+  "excerpt": "Plug & Play ECU Replacement for SKODA FABIA 1.4 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Magneti Marelli IAW 4MU.CB",
+    "SKODA FABIA",
+    "1.4 16V"
+  ],
+  "description": "<section class=\"overview\">This Magneti Marelli IAW 4MU.CB ECU Engine Controller for your SKODA FABIA 1.4 16V is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch</li>\n        <li>EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SKODA FABIA</td></tr>\n        <tr><th>ENGINE</th><td>1.4 16V</td></tr>\n        <tr><th>YEAR</th><td>2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI IAW 4MU.CB</td></tr>\n        <tr><th>TRANSMISSION</th><td>036906034CB</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6160065810</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SKODA FABIA 1.4 16V. Ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA FABIA MAGNETI MARELLI IAW 4MU.CB, IAW4MUCB, 036 906 034 CB, 036906034CB, 61600.658.10, 6160065810",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-FABIA-MAGNETI-MARELLI-IAW-4MU.CB%2C-IAW4MUCB%2C-036-906-034-CB%2C-036906034CB%2C-61600.658.10%2C-6160065810/62641",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "8292-62250_20140811085636",
+    "sku": "8292-62250_20140811085636",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA FABIA MAGNETI MARELLI IAW 4MU.CB, IAW4MUCB, 036 906 034 CB, 036906034CB, 61600.658.10, 6160065810</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA FABIA",
+      "ENGINE": "1.4 16V",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 4MU.CB",
+      "TRANSMISSION": "036906034CB",
+      "NUMBER PARTS": "6160065810",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:27:19.268Z",
+    "model": "mistral:7b",
+    "durationMs": 10197,
+    "priceIncrement": 100
+  }
+}

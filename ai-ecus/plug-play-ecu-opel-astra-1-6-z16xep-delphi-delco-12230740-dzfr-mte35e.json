@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Astra 1.6 Z16XEP - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-astra-1-6-z16xep-delphi-delco-12230740-dzfr-mte35e",
+  "metaDescription": "Buy the tested ECU ENGINE CONTROLLER for Opel Astra 1.6 Z16XEP (Delphi Delco 12230740 DZFR, MTE35E) with a 6-month warranty and fast shipping.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra 1.6 Z16XEP",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "Delphi Delco",
+    "1.6 Z16XEP"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU ENGINE CONTROLLER is a replacement for Opel Astra 1.6 Z16XEP, providing reliable engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used Original in Good Condition</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL ASTRA</td></tr>\n        <tr><th>ENGINE</th><td>1.6 Z16XEP</td></tr>\n        <tr><th>YEAR</th><td>2004-2010</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>12230740 DZFR</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MTE35E</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Professional installation is recommended for optimal performance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA 1.6 Z16XEP 12230740 DZFR, MTE35E",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-1.6-Z16XEP-12230740-DZFR%2C-MTE35E/40056",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "D389-3193C_20130817161029",
+    "sku": "D389-3193C_20130817161029",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA 1.6 Z16XEP 12230740 DZFR, MTE35E</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA",
+      "ENGINE": "1.6 Z16XEP",
+      "YEAR": "2004-2010",
+      "NUMBER MANUFACTURER": "12230740 DZFR",
+      "NUMBER PARTS": "MTE35E",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:00:41.361Z",
+    "model": "mistral:7b",
+    "durationMs": 9638,
+    "priceIncrement": 100
+  }
+}

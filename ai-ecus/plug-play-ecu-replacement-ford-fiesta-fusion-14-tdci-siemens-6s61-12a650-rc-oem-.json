@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Fiesta Fusion 1.4 TDCI Siemens 6S61-12A650-RC OEM Tested",
+  "slug": "plug-play-ecu-replacement-ford-fiesta-fusion-14-tdci-siemens-6s61-12a650-rc-oem-",
+  "metaDescription": "OEM tested ECU replacement for Ford Fiesta Fusion 1.4 TDCI with Plug & Play feature, backed by a 12-month warranty.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play Siemens ECU for Ford Fiesta Fusion 1.4 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta Fusion",
+    "Siemens ECU",
+    "1.4 TDCI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Ford Fiesta Fusion 1.4 TDCI ensures seamless engine control and is backed by a 12-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play feature</li>\n        <li>OEM tested for reliability</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Ford Fiesta Fusion 1.4 TDCI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FIESTA FUSION</td></tr>\n        <tr><th>ENGINE</th><td>1.4 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS SID804 5WS40461C-T</td></tr>\n        <tr><th>CODE</th><td>7CDC</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6S61-12A650-RC</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Fiesta Fusion 1.4 TDCI only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA FUSION 1.4 TDCI 6S6112A650RC SID804 5WS40461C-T SIEMENS 6S61-12A650-RC 7CDC",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-FUSION-1.4-TDCI-6S6112A650RC-SID804-5WS40461C-T-SIEMENS-6S61-12A650-RC-7CDC-/17053",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "507B-1826F",
+    "sku": "507B-1826F",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA FUSION 1.4 TDCI 6S6112A650RC SID804 5WS40461C-T SIEMENS 6S61-12A650-RC 7CDC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_92a0f408674634c285e6a5080e76e397_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1d4b04ce013f159024555d509c871d5a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA FUSION",
+      "ENGINE": "1.4 TDCI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "SIEMENS SID804 5WS40461C-T",
+      "CODE": "7CDC",
+      "NUMBER PARTS": "6S61-12A650-RC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:36:59.792Z",
+    "model": "mistral:7b",
+    "durationMs": 10035,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Ford Focus 1.6 VISTEON 98AB-12A650-DAB, LP4-331 - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-focus-1-6-visteon-98ab-12a650-dab-lp4-331-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford Focus 1.6 VISTEON 98AB-12A650-DAB, LP4-331 with 6-month warranty. Fast dispatch and EU shipping.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Focus 1.6 VISTEON",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus",
+    "Visteon",
+    "1.6"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Ford Focus 1.6 VISTEON is a reliable solution to your engine control unit issues, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>FORD FOCUS</td></tr>\n            <tr><td>ENGINE</td><td>1.6</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>VISTEON 98AB-12A650-DAB</td></tr>\n            <tr><td>NUMBER PARTS</td><td>LP4-331</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS 1.6 VISTEON 98AB-12A650-DAB, 98AB12A650DAB, GIVE LP4-331",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-1.6-VISTEON-98AB-12A650-DAB%2C-98AB12A650DAB%2C-GIVE-LP4-331/26838",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "550B-667BB_20120723185657",
+    "sku": "550B-667BB_20120723185657",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS 1.6 VISTEON 98AB-12A650-DAB, 98AB12A650DAB, GIVE LP4-331</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_30936c238bda3bafa308e2d1b5f2879b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_8f67718de55969cd7a03a526329bf2ae_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "VISTEON 98AB-12A650-DAB",
+      "NUMBER PARTS": "LP4-331",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:53:42.707Z",
+    "model": "mistral:7b",
+    "durationMs": 11691,
+    "priceIncrement": 100
+  }
+}

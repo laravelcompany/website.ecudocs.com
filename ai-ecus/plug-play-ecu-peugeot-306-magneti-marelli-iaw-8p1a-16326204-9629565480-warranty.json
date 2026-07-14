@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Engine Controller Peugeot 306 - OEM Tested Magneti Marelli IAW 8P.1A, 16326.204, 9629565480 - Warranty Included",
+  "slug": "plug-play-ecu-peugeot-306-magneti-marelli-iaw-8p1a-16326204-9629565480-warranty",
+  "metaDescription": "OEM tested ECU Engine Controller for Peugeot 306 by Magneti Marelli IAW 8P.1A, 16326.204, 9629565480. Plug & Play replacement with 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM tested ECU Engine Controller for Peugeot 306 by Magneti Marelli IAW 8P.1A",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 306",
+    "Magneti Marelli",
+    "IAW 8P.1A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Peugeot 306 by Magneti Marelli IAW 8P.1A, 16326.204, 9629565480 is a reliable replacement option with a Plug & Play design for easy installation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested and certified</li>\n        <li>Plug & Play design for easy installation</li>\n        <li>6-month warranty included</li>\n        <li>Used original in good condition</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>PEUGEOT 306</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MAGNETI MARELLI IAW 8P.1A</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>9629565480</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot 306. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 306 MAGNETI MARELLI IAW 8P.1A, IAW8P1A, 16326.204, 16326204, 9629565480",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-306-MAGNETI-MARELLI-IAW-8P.1A%2C-IAW8P1A%2C-16326.204%2C-16326204%2C-9629565480/61475",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "1953-813F3_20140729093749",
+    "sku": "1953-813F3_20140729093749",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 306 MAGNETI MARELLI IAW 8P.1A, IAW8P1A, 16326.204, 16326204, 9629565480</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 306",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 8P.1A",
+      "NUMBER PARTS": "9629565480",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:00:13.297Z",
+    "model": "mistral:7b",
+    "durationMs": 12434,
+    "priceIncrement": 100
+  }
+}

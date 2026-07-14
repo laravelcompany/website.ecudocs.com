@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Fusion Focus 2.0 TDCI Bosch 0 281 011 612, Warranty Included",
+  "slug": "plug-play-ecu-ford-fusion-focus-2-0-tdci-bosch-oem-tested",
+  "metaDescription": "OEM Tested Plug & Play ECU Engine Controller for Ford Fusion Focus 2.0 TDCI Bosch, providing reliable replacement with a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Fusion Focus 2.0 TDCI",
+  "tags": [
+    "ECU replacement",
+    "Plug & Play ECU",
+    "Ford Fusion Focus",
+    "2.0 TDCI",
+    "Bosch",
+    "OEM tested"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Ford Fusion Focus 2.0 TDCI offers a reliable solution, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Reliable Replacement</li>\n<li>Certified Technician Inspection</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD FUSION FOCUS</td></tr>\n<tr><td>ENGINE</td><td>2.0 TDCI</td></tr>\n<tr><td>YEAR</td><td>2006</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 011 612</td></tr>\n<tr><td>NUMBER PARTS</td><td>5DSC</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Fusion Focus 2.0 TDCI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FUSION FOCUS 2.0 TDCI BOSCH 0 281 011 612, 0281011612, FoMoCo 6S61-12A650-VC, 6S6112A650VC, 1039S10023, 5DSC",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FUSION-FOCUS-2.0-TDCI-BOSCH-0-281-011-612%2C-0281011612%2C-FoMoCo-6S61-12A650-VC%2C-6S6112A650VC%2C-1039S10023%2C-5DSC/35938",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0787-18983_20130530014000",
+    "sku": "0787-18983_20130530014000",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FUSION FOCUS 2.0 TDCI BOSCH 0 281 011 612, 0281011612, FoMoCo 6S61-12A650-VC, 6S6112A650VC, 1039S10023, 5DSC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FUSION FOCUS",
+      "ENGINE": "2.0 TDCI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 612",
+      "NUMBER PARTS": "5DSC",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:19:42.502Z",
+    "model": "mistral:7b",
+    "durationMs": 11069,
+    "priceIncrement": 100
+  }
+}

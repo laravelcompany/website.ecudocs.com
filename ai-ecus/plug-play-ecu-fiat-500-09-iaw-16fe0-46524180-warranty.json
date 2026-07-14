@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Fiat 500 0.9 IAW 16F.E0, 46524180 - Warranty Included",
+  "slug": "plug-play-ecu-fiat-500-09-iaw-16fe0-46524180-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for your Fiat 500 0.9 IAW 16F.E0, 46524180. Backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Fiat 500 0.9 IAW 16F.E0, 46524180",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT 500",
+    "IAW 16F.E0",
+    "46524180"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller is a reliable replacement for your Fiat 500 0.9 IAW 16F.E0, 46524180.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play functionality</li>\n<li>OEM tested and certified</li>\n<li>6-month warranty</li>\n<li>Used in good condition</li>\n<li>Ready for programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specifications</th><th>Details</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT 500</td></tr>\n<tr><td>ENGINE</td><td>0.9</td></tr>\n<tr><td>YEAR</td><td>1993-1998</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>IAW 16F.E0</td></tr>\n<tr><td>NUMBER PARTS</td><td>46524180</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 500 0.9 IAW 16F.E0, IAW16FE0, 46524180",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-500-0.9-IAW-16F.E0%2C-IAW16FE0%2C-46524180-/46220",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "3864-716AC",
+    "sku": "3864-716AC",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 500 0.9 IAW 16F.E0, IAW16FE0, 46524180 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT 500",
+      "ENGINE": "0.9",
+      "YEAR": "1993-1998",
+      "NUMBER MANUFACTURER": "IAW 16F.E0",
+      "NUMBER PARTS": "46524180",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:10:03.033Z",
+    "model": "mistral:7b",
+    "durationMs": 11963,
+    "priceIncrement": 100
+  }
+}

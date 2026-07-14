@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Renault KANGOO 1.4 SIEMENS S110030306 D, Warranty Included",
+  "slug": "plug-play-ecu-renault-kangoo-14-siemens-s110030306-d-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Renault KANGOO 1.4 SIEMENS S110030306 D with 6-month warranty. Ships within 24–48 hours.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Renault KANGOO 1.4 SIEMENS",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault KANGOO",
+    "SIEMENS S110030306 D"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Renault KANGOO 1.4 SIEMENS S110030306 D is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM Tested</li>\n      <li>Plug & Play</li>\n      <li>6-month Warranty</li>\n      <li>Used in Good Condition</li>\n      <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>RENAULT KANGOO</td></tr>\n      <tr><th>ENGINE</th><td>1.4</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS S110030306 D</td></tr>\n      <tr><th>NUMBER PARTS</th><td>7700110471</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT KANGOO 1.4 SIEMENS S110030306 D, S110030306D, 8200024376, 7700110471",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-KANGOO-1.4-SIEMENS-S110030306-D%2C-S110030306D%2C-8200024376%2C-7700110471-/104039",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "20FA-40523_20170307161705",
+    "sku": "20FA-40523_20170307161705",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT KANGOO 1.4 SIEMENS S110030306 D, S110030306D, 8200024376, 7700110471 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT KANGOO",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "SIEMENS S110030306 D",
+      "NUMBER PARTS": "7700110471",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:22:50.570Z",
+    "model": "mistral:7b",
+    "durationMs": 9734,
+    "priceIncrement": 100
+  }
+}

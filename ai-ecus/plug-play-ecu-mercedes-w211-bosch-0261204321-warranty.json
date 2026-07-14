@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes W211 Bosch 0 261 204 321, A 021 545 20 32 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w211-bosch-0261204321-warranty",
+  "metaDescription": "Expertly tested ECU Engine Controller for Mercedes W211, featuring Plug & Play compatibility and a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Mercedes W211",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W211",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Mercedes W211 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play compatibility</li><li>OEM tested and certified</li><li>6-month warranty</li><li>Used in good condition</li><li>Ready for programming</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>MERCEDES W211</td><td>BOSCH 0 261 204 321</td><td>A 021 545 20 32</td><td>Plug & Play / Locked / Ready for programming</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle model and year. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W211 BOSCH 0 261 204 321, 0261204321, A 021 545 20 32, A0215452032",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W211-BOSCH-0-261-204-321%2C-0261204321%2C-A-021-545-20-32%2C-A0215452032/108216",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2ED1-3645D_20180108133806",
+    "sku": "2ED1-3645D_20180108133806",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W211 BOSCH 0 261 204 321, 0261204321, A 021 545 20 32, A0215452032</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_5c12dd7e08b1c1379bf0cbd4ff5f6e03_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0636e7433183b2418a2da1a9f5f436f1_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W211",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 321",
+      "NUMBER PARTS": "A 021 545 20 32",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:32:21.631Z",
+    "model": "mistral:7b",
+    "durationMs": 9425,
+    "priceIncrement": 100
+  }
+}

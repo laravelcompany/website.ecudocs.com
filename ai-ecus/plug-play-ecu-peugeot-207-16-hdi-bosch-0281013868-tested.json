@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot 207 1.6 HDI Bosch 0 281 013 868 - ECU Replacement",
+  "slug": "plug-play-ecu-peugeot-207-16-hdi-bosch-0281013868-tested",
+  "metaDescription": "OEM Tested Plug & Play ECU Engine Controller for Peugeot 207 1.6 HDI Bosch 0 281 013 868, offering a seamless replacement. Shipped within 24–48 hours and backed by a 6-month warranty.",
+  "price": "€275.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Peugeot 207 1.6 HDI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 207",
+    "Bosch",
+    "0 281 013 868"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Peugeot 207 1.6 HDI Bosch offers a reliable solution to your engine control unit needs.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play Installation</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch within EU</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>PEUGEOT 207</td></tr>\n<tr><td>ENGINE</td><td>1.6 HDI</td></tr>\n<tr><td>YEAR</td><td>2008</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 013 868</td></tr>\n<tr><td>NUMBER PARTS</td><td>EDC16C34</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipped within 24–48 hours, EU-wide with 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot 207 1.6 HDI Bosch engine only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 207 1.6 HDI BOSCH 0 281 013 868, 0281013868, 96 637 554 80, 9663755480, 9653958980, EDC16C34",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-207-1.6-HDI-BOSCH-0-281-013-868%2C-0281013868%2C-96-637-554-80%2C-9663755480%2C-9653958980%2C-EDC16C34/30328",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "CBEE-9969F_20120930190200",
+    "sku": "CBEE-9969F_20120930190200",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 207 1.6 HDI BOSCH 0 281 013 868, 0281013868, 96 637 554 80, 9663755480, 9653958980, EDC16C34</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 207",
+      "ENGINE": "1.6 HDI",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 868",
+      "NUMBER PARTS": "EDC16C34",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:56:08.743Z",
+    "model": "mistral:7b",
+    "durationMs": 12003,
+    "priceIncrement": 100
+  }
+}

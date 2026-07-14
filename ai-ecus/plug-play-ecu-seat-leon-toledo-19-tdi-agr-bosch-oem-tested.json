@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for SEAT Leon Toledo 1.9 TDI AGR - OEM Tested, Warranty Included (BOSCH 0281010228)",
+  "slug": "plug-play-ecu-seat-leon-toledo-19-tdi-agr-bosch-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for SEAT Leon Toledo 1.9 TDI AGR, offering Plug & Play convenience and backed by a 6-month warranty.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Seat Leon Toledo 1.9 TDI AGR",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT Leon Toledo",
+    "1.9 TDI AGR",
+    "BOSCH"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the SEAT Leon Toledo 1.9 TDI AGR offers Plug & Play convenience and is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\">...(technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SEAT Leon Toledo 1.9 TDI AGR. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT LEON TOLEDO 1.9 TDI 038906012BS, BOSCH 0281010228",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-LEON-TOLEDO-1.9-TDI-038906012BS%2C-BOSCH-0281010228/12308",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3DD6-73691",
+    "sku": "3DD6-73691",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT LEON TOLEDO 1.9 TDI 038906012BS, BOSCH 0281010228</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT LEON TOLEDO",
+      "ENGINE": "1.9 TDI AGR",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 228",
+      "NUMBER PARTS": "28SA4211",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:11:24.495Z",
+    "model": "mistral:7b",
+    "durationMs": 6310,
+    "priceIncrement": 100
+  }
+}

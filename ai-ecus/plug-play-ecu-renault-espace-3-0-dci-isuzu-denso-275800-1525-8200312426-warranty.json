@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Renault Espace 3.0 DCI Isuzu - Denso 275800-1525, 8200312426 - Warranty Included",
+  "slug": "plug-play-ecu-renault-espace-3-0-dci-isuzu-denso-275800-1525-8200312426-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Renault Espace 3.0 DCI Isuzu, covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€135.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Renault Espace 3.0 DCI Isuzu",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso",
+    "Renault Espace",
+    "Isuzu"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Renault Espace 3.0 DCI Isuzu is a reliable solution to your engine control unit issues, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-Month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Reliable Solution for Engine Control Unit Issues</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>RENAULT ESPACE</td></tr>\n        <tr><th>ENGINE</th><td>3.0 DCI</td></tr>\n        <tr><th>YEAR</th><td>2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>Denso 275800-1525</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8200312426</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty applies to EU countries.</section>\n<section class=\"compatibility\">Compatible with Renault Espace 3.0 DCI Isuzu. Fitment caution may apply, please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT ESPACE 3.0 DCI ISUZU 897319 2824, 8973192824, DENSO 275800-1525, 2758001525, 8200312426",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-ESPACE-3.0-DCI-ISUZU-897319-2824%2C-8973192824%2C-DENSO-275800-1525%2C-2758001525%2C-8200312426/70880",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "8080-754B9_20141224094436",
+    "sku": "8080-754B9_20141224094436",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT ESPACE 3.0 DCI ISUZU 897319 2824, 8973192824, DENSO 275800-1525, 2758001525, 8200312426</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_fdd31f9bae84e9a185f405eb7ffdc19d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7d1134906c756519e5235ee677090474_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT ESPACE",
+      "ENGINE": "3.0 DCI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "Denso 275800-1525",
+      "NUMBER PARTS": "8200312426",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:19:32.974Z",
+    "model": "mistral:7b",
+    "durationMs": 11804,
+    "priceIncrement": 100
+  }
+}

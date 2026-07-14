@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes W203 Continental 5WK90540 (01), A 001 446 69 02, Warranty Included",
+  "slug": "plug-play-ecu-mercedes-w203-continental-5wk90540-01-a-001-446-69-02-warranty-inc",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Mercedes W203 Continental 5WK90540 (01), A 001 446 69 02. Used in good condition, backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Mercedes W203",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W203",
+    "Continental 5WK90540 (01)",
+    "A 001 446 69 02"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Mercedes W203 Continental 5WK90540 (01), A 001 446 69 02, ensures seamless engine control. Restored to full functionality and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-Month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES W203</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>CONTINENTAL 5WK90540 (01)</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>A 001 446 69 02</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES Continental 5WK90540 (01), A 271 153 58 91, A2711535891, A 001 446 69 02, A0014466902, SIM4L KE",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-Continental-5WK90540-01%2C-A-271-153-58-91%2C-A2711535891%2C-A-001-446-69-02%2C-A0014466902%2C-SIM4L-KE/76345",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "981D-91361_20150708161105",
+    "sku": "981D-91361_20150708161105",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES Continental 5WK90540 (01), A 271 153 58 91, A2711535891, A 001 446 69 02, A0014466902, SIM4L KE</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W203",
+      "NUMBER MANUFACTURER": "CONTINENTAL 5WK90540 (01)",
+      "NUMBER PARTS": "A 001 446 69 02",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:41:00.539Z",
+    "model": "mistral:7b",
+    "durationMs": 13772,
+    "priceIncrement": 100
+  }
+}

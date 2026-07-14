@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Nissan Almera 1.5 - Hitachi MEC20-705, C1, ZA - Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-nissan-almera-15-hitachi-mec20-705-c1-za-warranty-inclu",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Nissan Almera 1.5 by Hitachi MEC20-705, C1, ZA. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Nissan Almera 1.5",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Almera",
+    "Hitachi MEC20-705",
+    "C1",
+    "ZA"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Nissan Almera 1.5 is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Condition: Used in Good Condition</li>\n        <li>Compatible with Nissan Almera 1.5</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN ALMERA</td></tr>\n        <tr><th>ENGINE</th><td>1.5</td></tr>\n        <tr><th>YEAR</th><td>2001</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MEC20-705</td></tr>\n        <tr><th>CODE</th><td>C1</td></tr>\n        <tr><th>NUMBER PARTS</th><td>ZA</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with a 6-month warranty.</section>\n<section class=\"compatibility\">Compatible with Nissan Almera 1.5 only. Fitment caution may apply, please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN ALMERA 1.5 MEC20-705, MEC20705, C1, 2Y27, ZA",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-ALMERA-1.5-MEC20-705%2C-MEC20705%2C-C1%2C-2Y27%2C-ZA/37642",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "9C0C-785FC_20130716141926",
+    "sku": "9C0C-785FC_20130716141926",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN ALMERA 1.5 MEC20-705, MEC20705, C1, 2Y27, ZA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN ALMERA",
+      "ENGINE": "1.5",
+      "YEAR": "2001",
+      "NUMBER MANUFACTURER": "MEC20-705",
+      "CODE": "C1",
+      "NUMBER PARTS": "ZA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:02:24.484Z",
+    "model": "mistral:7b",
+    "durationMs": 10104,
+    "priceIncrement": 100
+  }
+}

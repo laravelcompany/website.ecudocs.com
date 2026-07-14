@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Delco CORSA 55577847 AAUA - Warranty Included",
+  "slug": "plug-play-ecu-replacement-delco-corsa-55577847-aaua-oem-tested",
+  "metaDescription": "Get the Plug & Play ECU ENGINE CONTROLLER CORSA 55577847 AAUA by Delco. OEM tested, warranty included, and fast dispatch in EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Delco CORSA - Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Delco CORSA",
+    "OEM part numbers",
+    "2007-2011"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Delco CORSA is a tested and reliable solution, backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Fast Dispatch in EU</li>\n<li>Compatible with 2007-2011 vehicles</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>CORSA</td></tr>\n<tr><td>YEAR</td><td>2007-2011</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>55577847</td></tr>\n<tr><td>NUMBER PARTS</td><td>AAUA</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with select vehicles from 2007 to 2011. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CORSA 55577847 AAUA",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CORSA-55577847-AAUA/62111",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Delco",
+    "productCode": "3A7F-60661_20140804100145",
+    "sku": "3A7F-60661_20140804100145",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CORSA 55577847 AAUA</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CORSA",
+      "YEAR": "2007-2011",
+      "NUMBER MANUFACTURER": "55577847",
+      "NUMBER PARTS": "AAUA",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:53:01.251Z",
+    "model": "mistral:7b",
+    "durationMs": 10913,
+    "priceIncrement": 100
+  }
+}

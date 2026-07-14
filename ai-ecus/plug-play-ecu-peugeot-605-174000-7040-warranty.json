@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for PEUGEOT 605, 174000-7040 - 6-month Warranty",
+  "slug": "plug-play-ecu-peugeot-605-174000-7040-warranty",
+  "metaDescription": "Expertly tested and OEM certified Plug & Play ECU replacement for PEUGEOT 605, 174000-7040. Fast dispatch and 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for PEUGEOT 605",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 605",
+    "174000-7040",
+    "Denso"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for PEUGEOT 605, 174000-7040, ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>Used, Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 605</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>96 190 804 80</td></tr>\n        <tr><th>NUMBER PARTS</th><td>174000-7040</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on specific vehicle conditions and installation requirements. Always consult a professional technician for proper fitment.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 605, 96 190 804 80, 9619080480, 174000-7040, 1740007040",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-605%2C-96-190-804-80%2C-9619080480%2C-174000-7040%2C-1740007040-/46763",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "65C9-64559",
+    "sku": "65C9-64559",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 605, 96 190 804 80, 9619080480, 174000-7040, 1740007040 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 605",
+      "NUMBER MANUFACTURER": "96 190 804 80",
+      "NUMBER PARTS": "174000-7040",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:24:13.922Z",
+    "model": "mistral:7b",
+    "durationMs": 10179,
+    "priceIncrement": 100
+  }
+}

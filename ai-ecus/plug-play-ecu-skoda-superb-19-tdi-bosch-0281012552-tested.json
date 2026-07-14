@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for SKODA SUPERB 1.9 TDI BOSCH 0281012552, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-skoda-superb-19-tdi-bosch-0281012552-tested",
+  "metaDescription": "Get a reliable ECU replacement for your SKODA SUPERB 1.9 TDI with our Plug & Play OEM part, tested and covered by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for SKODA SUPERB 1.9 TDI BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA SUPERB",
+    "1.9 TDI",
+    "Bosch",
+    "0281012552"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for your SKODA SUPERB 1.9 TDI is tested and guaranteed to restore optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Ready</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Dispatch</li>\n        <li>Compatible with Original Fitment</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SKODA SUPERB</td></tr>\n        <tr><th>ENGINE:</th><td>1.9 TDI</td></tr>\n        <tr><th>YEAR:</th><td>2005</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>03G906016GS</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with the original fitment for your SKODA SUPERB 1.9 TDI. Please ensure proper installation and programming by a professional technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA SUPERB 1.9 TDI BOSCH 0 281 012 552, 0281012552, 03G 906 016 GS, 03G906016GS",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-SUPERB-1.9-TDI-BOSCH-0-281-012-552%2C-0281012552%2C-03G-906-016-GS%2C-03G906016GS-/52404",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "ED0B-212C7_20140307165400",
+    "sku": "ED0B-212C7_20140307165400",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA SUPERB 1.9 TDI BOSCH 0 281 012 552, 0281012552, 03G 906 016 GS, 03G906016GS </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA SUPERB",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "2005",
+      "NUMBER PARTS": "03G906016GS",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:43:30.500Z",
+    "model": "mistral:7b",
+    "durationMs": 10873,
+    "priceIncrement": 100
+  }
+}

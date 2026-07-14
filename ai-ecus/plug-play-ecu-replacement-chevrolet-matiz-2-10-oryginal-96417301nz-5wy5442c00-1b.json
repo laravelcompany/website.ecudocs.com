@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Chevrolet Matiz 2 1.0 Oryginal 96417301NZ, 5WY5442C00, 1BBV",
+  "slug": "plug-play-ecu-replacement-chevrolet-matiz-2-10-oryginal-96417301nz-5wy5442c00-1b",
+  "metaDescription": "OEM Tested ECU Engine Controller for Chevrolet Matiz 2 1.0, Locked & Ready for Programming. 6-month warranty. Ships within 24–48 hours.",
+  "price": "€100.00",
+  "excerpt": "OEM Tested ECU Replacement for Chevrolet Matiz 2 1.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet Matiz 2",
+    "1.0 Engine",
+    "Oryginal"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested ECU Engine Controller for Chevrolet Matiz 2 1.0 is thoroughly inspected and tested by a certified technician, ensuring optimal performance and reliability.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">...(technical specifications from technicalData)</section>\n<section class=\"shipping\">EU Shipping, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET MATIZ 2 1.0, 5WY5442C00, 96417301 NZ, 96417301NZ, 1BBV",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-MATIZ-2-1.0%2C-5WY5442C00%2C-96417301-NZ%2C-96417301NZ%2C-1BBV/37614",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "C620-5779A_20130716132452",
+    "sku": "C620-5779A_20130716132452",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET MATIZ 2 1.0, 5WY5442C00, 96417301 NZ, 96417301NZ, 1BBV</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET MATIZ 2",
+      "ENGINE": "1.0",
+      "NUMBER MANUFACTURER": "5WY5442C00",
+      "NUMBER PARTS": "1BBV",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:01:31.648Z",
+    "model": "mistral:7b",
+    "durationMs": 6721,
+    "priceIncrement": 100
+  }
+}

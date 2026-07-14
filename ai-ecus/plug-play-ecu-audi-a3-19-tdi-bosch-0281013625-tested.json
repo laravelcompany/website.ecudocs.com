@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi A3 1.9 TDI - Bosch 0281013625, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-a3-19-tdi-bosch-0281013625-tested",
+  "metaDescription": "Find your Plug & Play ECU replacement for Audi A3 1.9 TDI with Bosch 0281013625, OEM tested and backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU for Audi A3 1.9 TDI - Bosch 0281013625",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "1.9 TDI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU replacement for your Audi A3 1.9 TDI ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Design</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with Audi A3 1.9 TDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A3</td></tr>\n        <tr><th>ENGINE</th><td>1.9 TDI</td></tr>\n        <tr><th>YEAR</th><td>2007</td></tr>\n        <tr><th>NUMBER PARTS</th><td>03G 906 021 HP, 03G906021HP</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your specific vehicle before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 1.9 TDI BOSCH 0 281 013 625, 0281013625, 03G 906 021 HP, 03G906021HP",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-1.9-TDI-BOSCH-0-281-013-625%2C-0281013625%2C-03G-906-021-HP%2C-03G906021HP-/52679",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "64F8-422D1_20140313155610",
+    "sku": "64F8-422D1_20140313155610",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  AUDI A3 1.9 TDI BOSCH 0 281 013 625, 0281013625, 03G 906 021 HP, 03G906021HP </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "2007",
+      "NUMBER PARTS": "03G906021HP",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T07:43:50.534Z",
+    "model": "mistral:7b",
+    "durationMs": 9956,
+    "priceIncrement": 100
+  }
+}

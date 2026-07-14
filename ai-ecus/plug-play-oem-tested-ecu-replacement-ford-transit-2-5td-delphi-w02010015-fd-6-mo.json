@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Ford Transit 2.5TD, Delphi W02010015.FD, 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-ford-transit-2-5td-delphi-w02010015-fd-6-mo",
+  "metaDescription": "Buy Plug & Play OEM Tested ECU Engine Controller for Ford Transit 2.5TD, Delphi W02010015.FD, with a 6-month warranty. Ships within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Ford Transit 2.5TD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Transit",
+    "Delphi",
+    "W02010015.FD"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Engine Controller is a direct replacement for your Ford Transit 2.5TD, ensuring seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested to ensure compatibility</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used but in good condition</li>\n        <li>Covering the 95VB9J464 number manufacturer</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table border=\"1\">\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD TRANSIT</td></tr>\n        <tr><th>ENGINE</th><td>2.5TD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>95VB9J464</td></tr>\n        <tr><th>NUMBER PARTS</th><td>W02010015.FD</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours, EU-wide delivery with a 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is designed for Ford Transit 2.5TD and may require professional installation or programming.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD TRANSIT 2.5TD, 95VB9J464, W02010015.FD, W02010015FD",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-TRANSIT-2.5TD%2C-95VB9J464%2C-W02010015.FD%2C-W02010015FD-/44379",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "3F91-52061",
+    "sku": "3F91-52061",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD TRANSIT 2.5TD, 95VB9J464, W02010015.FD, W02010015FD </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD TRANSIT",
+      "ENGINE": "2.5TD",
+      "NUMBER MANUFACTURER": "95VB9J464",
+      "NUMBER PARTS": "W02010015.FD",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:06:38.593Z",
+    "model": "mistral:7b",
+    "durationMs": 9714,
+    "priceIncrement": 100
+  }
+}

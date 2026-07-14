@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement for Honda Prelude 2.0i 16V (1998-1999) - Oryginal 37820P5NG02, 060200639",
+  "slug": "plug-play-ecu-honda-prelude-20i-16v-oryginal-37820p5ng02-060200639",
+  "metaDescription": "OEM Tested ECU Replacement for Honda Prelude 2.0i 16V (1998-1999) - Plug & Play, 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Honda Prelude",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Prelude",
+    "2.0i 16V",
+    "Oryginal"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Honda Prelude 2.0i 16V (1998-1999) ensures a reliable and efficient engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month warranty</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>HONDA PRELUDE</td></tr>\n            <tr><td>ENGINE</td><td>2.0i 16V</td></tr>\n            <tr><td>YEAR</td><td>1998-1999</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>37820-P5N-G02</td></tr>\n            <tr><td>NUMBER PARTS</td><td>060200639</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Honda Prelude 2.0i 16V (1998-1999).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA PRELUDE 37820-P5N-G02, 37820P5NG02, 060-200639, 060200639",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-PRELUDE-37820-P5N-G02%2C-37820P5NG02%2C-060-200639%2C-060200639-/61551",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "4240-309EA_20140729152257",
+    "sku": "4240-309EA_20140729152257",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA PRELUDE 37820-P5N-G02, 37820P5NG02, 060-200639, 060200639 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a649b4558eed7689f21a6033d870f33f_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_30b62c1aff0bb8395511aebddc8f1045_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA PRELUDE",
+      "ENGINE": "2.0i 16V",
+      "YEAR": "1998-1999",
+      "NUMBER MANUFACTURER": "37820-P5N-G02",
+      "NUMBER PARTS": "060200639",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:27:38.754Z",
+    "model": "mistral:7b",
+    "durationMs": 11986,
+    "priceIncrement": 100
+  }
+}

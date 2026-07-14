@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Chevrolet Epica 2.0, Siemens VDO 5WY1B14G, SIM2K-D160 - 6-month Warranty",
+  "slug": "plug-play-ecu-chevrolet-epica-2-0-siemens-vdo-5wy1b14g-sim2k-d160-warranty",
+  "metaDescription": "Expertly inspected and tested ECU Engine Controller for Chevrolet Epica 2.0 with Siemens VDO 5WY1B14G, SIM2K-D160. Plug & Play replacement, backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Chevrolet Epica 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens VDO 5WY1B14G",
+    "SIM2K-D160",
+    "Chevrolet Epica"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller is specifically designed for Chevrolet Epica 2.0 engines, ensuring seamless replacement and optimal performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM-quality Siemens VDO 5WY1B14G</li>\n<li>SIM2K-D160 part number</li>\n<li>Lockable or unlocked options available</li>\n<li>Thoroughly inspected and tested by certified technicians</li>\n<li>Compatible with Chevrolet Epica 2.0 engines</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>CHEVROLET EPICA</td></tr>\n<tr><td>ENGINE</td><td>2.0</td></tr>\n<tr><td>YEAR</td><td>2006</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>SIEMENS VDO 5WY1B14G</td></tr>\n<tr><td>NUMBER PARTS</td><td>SIM2K-D160</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET EPICA 2.0, SIEMENS VDO 5WY1B14G, 96418364 F4, SIM2K-D160",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-EPICA-2.0%2C-SIEMENS-VDO-5WY1B14G%2C-96418364-F4%2C-SIM2K-D160/73681",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "F7A1-7014D_20150316200416",
+    "sku": "F7A1-7014D_20150316200416",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET EPICA 2.0, SIEMENS VDO 5WY1B14G, 96418364 F4, SIM2K-D160</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET EPICA",
+      "ENGINE": "2.0",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "SIEMENS VDO 5WY1B14G",
+      "NUMBER PARTS": "SIM2K-D160",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:58:55.716Z",
+    "model": "mistral:7b",
+    "durationMs": 12287,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Renault Megane 1.5 DCI Continental S180153104A, OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-replacement-renault-megane-1-5-dci-continental-s180153104a",
+  "metaDescription": "OEM tested, Plug & Play ECU Replacement for Renault Megane 1.5 DCI Continental S180153104A. 6-month warranty and fast dispatch.",
+  "price": "€430.00",
+  "excerpt": "OEM tested, Plug & Play ECU Replacement for Renault Megane 1.5 DCI Continental S180153104A.",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane",
+    "Continental S180153104A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Renault Megane 1.5 DCI Continental S180153104A ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>OEM tested and certified</li>\n<li>Plug & Play for easy installation</li>\n<li>Compatible with Renault Megane 1.5 DCI</li>\n<li>6-month warranty included</li>\n<li>Certified by a professional technician</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>RENAULT MEGANE</td></tr>\n<tr><th>ENGINE</th><td>1.5 DCI</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>Continental S180153104 A</td></tr>\n<tr><th>NUMBER PARTS</th><td>237101908R</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Renault Megane 1.5 DCI models only. Please verify your vehicle's compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE 1.5 DCI Continental S180153104 A, S180153104A, 237102426R, 237101908R, SID307",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-1.5-DCI-Continental-S180153104-A%2C-S180153104A%2C-237102426R%2C-237101908R%2C-SID307/104204",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "50E4-76243_20170310133919",
+    "sku": "50E4-76243_20170310133919",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE 1.5 DCI Continental S180153104 A, S180153104A, 237102426R, 237101908R, SID307</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE",
+      "ENGINE": "1.5 DCI",
+      "NUMBER MANUFACTURER": "Continental S180153104 A",
+      "NUMBER PARTS": "237101908R",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:45:50.029Z",
+    "model": "mistral:7b",
+    "durationMs": 10787,
+    "priceIncrement": 100
+  }
+}

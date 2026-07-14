@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes Benz W210 E320 CR4.50, 6-month warranty",
+  "slug": "plug-play-ecu-mercedes-benz-w210-e320-cr450-bosch-oem-tested",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Mercedes Benz W210 E320 CR4.50 by Bosch, backed by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Mercedes Benz W210 E320 CR4.50",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Benz W210 E320 CR4.50",
+    "OEM part numbers",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Mercedes Benz W210 E320 CR4.50 is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM tested and certified</li>\n<li>6-month warranty</li>\n<li>Reliable engine control</li>\n<li>Original Bosch part</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MERCEDES BENZ</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>0281031326 A6229000500 CR4.50</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes Benz W210 E320 CR4.50 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES BENZ 0281031326 A6229000500 CR4.50",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-BENZ-0281031326-A6229000500-CR4.50/138212",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "EC5F-3313E_20240110124654",
+    "sku": "EC5F-3313E_20240110124654",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES BENZ 0281031326 A6229000500 CR4.50</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_289881_0_0/MERCEDES-BENZ-0281031326-A6229000500-CR4.50.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_289882_0_0/MERCEDES-BENZ-0281031326-A6229000500-CR4.50.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES BENZ",
+      "NUMBER MANUFACTURER": "0281031326 A6229000500 CR4.50",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:24:04.476Z",
+    "model": "mistral:7b",
+    "durationMs": 10119,
+    "priceIncrement": 100
+  }
+}

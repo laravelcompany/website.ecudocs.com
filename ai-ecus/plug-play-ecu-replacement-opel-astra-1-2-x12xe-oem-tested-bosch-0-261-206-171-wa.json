@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Astra 1.2 X12XE - OEM Tested Bosch 0 261 206 171, Warranty Included",
+  "slug": "plug-play-ecu-replacement-opel-astra-1-2-x12xe-oem-tested-bosch-0-261-206-171-wa",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Opel Astra 1.2 X12XE, tested and covered by a 6-month warranty. OEM Bosch part number: 0 261 206 171.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra 1.2 X12XE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra",
+    "Bosch",
+    "0 261 206 171"
+  ],
+  "description": "<section class=\"overview\">This OEM-tested ECU Engine Controller is a direct replacement for Opel Astra 1.2 X12XE, ensuring seamless integration and optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Locked and ready for programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th></th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>OPEL CHEVROLET HOLDEN VAUXHALL ASTRA</td></tr>\n            <tr><td>ENGINE</td><td>1.2 X12XE</td></tr>\n            <tr><td>YEAR</td><td>1998-2000</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 206 171</td></tr>\n            <tr><td>CODE</td><td>RZ</td></tr>\n            <tr><td>NUMBER PARTS</td><td>9131795</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel Astra 1.2 X12XE. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA 1.2 X12XE 09131795 9131795 BOSCH 0261206171, 0 261 206 171",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-ASTRA-1.2-X12XE-09131795-9131795-BOSCH-0261206171%2C-0-261-206-171-/17123",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9887-90939",
+    "sku": "9887-90939",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL ASTRA 1.2 X12XE 09131795 9131795 BOSCH 0261206171, 0 261 206 171 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL ASTRA",
+      "ENGINE": "1.2 X12XE",
+      "YEAR": "1998-2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 171",
+      "CODE": "RZ",
+      "NUMBER PARTS": "9131795",
+      "OPTION AVAILABLE": "Locked / Ready for programming / complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:30:33.784Z",
+    "model": "mistral:7b",
+    "durationMs": 11593,
+    "priceIncrement": 100
+  }
+}

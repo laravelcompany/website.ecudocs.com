@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Opel Astra Vectra Zafira 1.4 X14XE, 1.6 X16XE, X16XEL - Delphi Delco 09366457 HSFI-C",
+  "slug": "plug-play-ecu-replacement-opel-astra-vectra-zafira-1-4-x14xe-1-6-x16xe-x16xel-de",
+  "metaDescription": "OEM Tested ECU Engine Controller for Opel Astra Vectra Zafira. Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Astra Vectra Zafira",
+  "tags": [
+    "ECU repair",
+    "Opel Astra Vectra Zafira",
+    "Delphi Delco",
+    "1.4 X14XE",
+    "1.6 X16XE",
+    "X16XEL"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for Opel Astra Vectra Zafira models with 1.4 X14XE, 1.6 X16XE or X16XEL engines.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Guaranteed</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL ASTRA VECTRA ZAFIRA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4 X14XE 1.6 X16XE X16XEL</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>DELPHI DELCO 09366457</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>HSFI-C</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>LOCKED / UNLOCKED</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Astra Vectra Zafira models equipped with 1.4 X14XE, 1.6 X16XE or X16XEL engines. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA VECTRA ZAFIRA DELPHI DELCO 09366457 9366457 6237052 HSFI-C",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-VECTRA-ZAFIRA-DELPHI-DELCO-09366457-9366457-6237052-HSFI-C/9643",
+    "priceCurrency": "EUR",
+    "netPrice": "€100.00",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "9643",
+    "sku": "9643",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA VECTRA ZAFIRA DELPHI DELCO 09366457 9366457 6237052 HSFI-C</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA VECTRA ZAFIRA",
+      "ENGINE": "1.4 X14XE 1.6 X16XE X16XEL",
+      "NUMBER MANUFACTURER": "DELPHI DELCO 09366457",
+      "NUMBER PARTS": "HSFI-C",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:18:54.280Z",
+    "model": "mistral:7b",
+    "durationMs": 14556,
+    "priceIncrement": 100
+  }
+}

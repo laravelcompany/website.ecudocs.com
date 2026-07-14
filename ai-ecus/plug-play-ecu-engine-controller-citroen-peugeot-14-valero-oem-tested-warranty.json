@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen Peugeot 1.4 VALEO - 6-month Warranty",
+  "slug": "plug-play-ecu-engine-controller-citroen-peugeot-14-valero-oem-tested-warranty",
+  "metaDescription": "Expertly refurbished OEM Tested Plug & Play ECU Engine Controller for Citroen Peugeot 1.4 VALEO, backed by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Citroen Peugeot 1.4 VALEO",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "VALEO",
+    "Valeo 21585784-1 A0",
+    "J34P-AAE"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Citroen Peugeot 1.4 VALEO is a reliable replacement, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Locked / Unlocked Option Available</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>CITROEN PEUGEOT</td><td>1.4</td><td>VALEO 21585784-1 A0</td><td>J34P-AAE</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment may vary. Always confirm compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.4 VALEO 21585784-1 A0, 215857841, SW 9661960880, HW 9655883280, J34P-AAE",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-1.4-VALEO-21585784-1-A0%2C-215857841%2C-SW-9661960880%2C-HW-9655883280%2C-J34P-AAE-/84398",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Valeo",
+    "productCode": "BDAC-53019_20160114202416",
+    "sku": "BDAC-53019_20160114202416",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT  1.4 VALEO 21585784-1 A0, 215857841, SW 9661960880, HW 9655883280, J34P-AAE </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "1.4",
+      "NUMBER MANUFACTURER": "VALEO 21585784-1 A0",
+      "NUMBER PARTS": "J34P-AAE",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:49:20.714Z",
+    "model": "mistral:7b",
+    "durationMs": 9347,
+    "priceIncrement": 100
+  }
+}

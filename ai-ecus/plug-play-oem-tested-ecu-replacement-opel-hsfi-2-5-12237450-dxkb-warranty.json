@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Opel HSFI 2.5, 12237450 DXKB - 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-opel-hsfi-2-5-12237450-dxkb-warranty",
+  "metaDescription": "Buy the Plug & Play OEM Tested ECU Engine Controller for Opel HSFI 2.5, 12237450 DXKB. Covered by a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Opel HSFI 2.5, 12237450 DXKB",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "OPEL HSFI 2.5",
+    "Delphi Delco 12237450 DXKB"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller is a reliable replacement for your Opel HSFI 2.5, 12237450 DXKB.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Thoroughly Inspected and Tested</li>\n<li>Used Original in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>OPEL</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>12237450 DXKB</td></tr>\n<tr><th>NUMBER PARTS</th><td>HSFI 2.5</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel HSFI 2.5, 12237450 DXKB. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL 12237450 DXKB, HSFI 2.5",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-12237450-DXKB%2C-HSFI-2.5/130573",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi Delco",
+    "productCode": "B76A-29253_20220526151301",
+    "sku": "B76A-29253_20220526151301",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL 12237450 DXKB, HSFI 2.5</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL",
+      "NUMBER MANUFACTURER": "12237450 DXKB",
+      "NUMBER PARTS": "HSFI 2.5",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:54:09.179Z",
+    "model": "mistral:7b",
+    "durationMs": 10842,
+    "priceIncrement": 100
+  }
+}

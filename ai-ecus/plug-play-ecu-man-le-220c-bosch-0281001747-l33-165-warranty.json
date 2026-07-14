@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller MAN LE 220C Bosch 0 281 001 747, L33 165 - 6-month Warranty",
+  "slug": "plug-play-ecu-man-le-220c-bosch-0281001747-l33-165-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller MAN LE 220C Bosch 0 281 001 747, L33 165. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "OEM Tested Plug & Play ECU Engine Controller for MAN LE 220C",
+  "tags": [
+    "ECU Replacement",
+    "Plug & Play ECU",
+    "MAN LE 220C",
+    "Bosch 0 281 001 747",
+    "L33 165"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller MAN LE 220C Bosch 0 281 001 747, L33 165 is a reliable replacement for your vehicle's engine control system.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MAN LE 220C</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 001 747</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>L33 165</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with fast dispatch and EU-wide delivery.</section>\n<section class=\"compatibility\">Please verify compatibility before purchase. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAN LE 220C BOSCH 0 281 001 747, 0281001747, L33 165",
+    "price": "€450.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAN-LE-220C-BOSCH-0-281-001-747%2C-0281001747%2C-L33-165/75875",
+    "priceCurrency": "EUR",
+    "netPrice": "€365.85",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "CA7F-623DF_20150701121324",
+    "sku": "CA7F-623DF_20150701121324",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAN LE 220C BOSCH 0 281 001 747, 0281001747, L33 165</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_0f24ac3db5302979154106d0275a5f3b_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_ff38c3402b2bd8e97a5cf23001c667b0_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_736c773d64511004e7855b86f09f1615_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAN LE 220C",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 747",
+      "NUMBER PARTS": "L33 165",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:49:42.381Z",
+    "model": "mistral:7b",
+    "durationMs": 10535,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Land Rover NNW004060, OEM Tested - 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-land-rover-nnw004060-oem-tested-warranty",
+  "metaDescription": "Buy the tested and certified Plug & Play ECU Engine Controller for Land Rover NNW004060, 2A754453. Enjoy a 6-month warranty with fast dispatch.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Land Rover NNW004060",
+  "tags": [
+    "ECU repair",
+    "Land Rover ECU",
+    "NNW004060",
+    "2A754453"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU replacement for Land Rover NNW004060 ensures seamless engine control.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>LAND ROVER</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>NNW004060</td></tr>\n<tr><td>NUMBER PARTS</td><td>2A754453</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Land Rover NNW004060. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LAND ROVER NNW004060, 2A754453",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LAND-ROVER-NNW004060%2C-2A754453-/84178",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "1C19-43611_20160109183701",
+    "sku": "1C19-43611_20160109183701",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LAND ROVER NNW004060, 2A754453 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_11ccadd999364d4c0cfd40f31a568ea4_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_353717e7c64f6dab406ac9be3c5714f3_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LAND ROVER",
+      "NUMBER MANUFACTURER": "NNW004060",
+      "NUMBER PARTS": "2A754453",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:45:03.033Z",
+    "model": "mistral:7b",
+    "durationMs": 10048,
+    "priceIncrement": 100
+  }
+}

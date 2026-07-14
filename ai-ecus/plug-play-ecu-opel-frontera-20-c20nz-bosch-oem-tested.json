@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Frontera 2.0 C20NZ - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-frontera-20-c20nz-bosch-oem-tested",
+  "metaDescription": "Expertly tested and OEM-certified ECU replacement for Opel Frontera 2.0 C20NZ. Plug & Play installation, backed by a 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Frontera 2.0 C20NZ",
+  "tags": [
+    "ECU repair",
+    "Plug and Play ECU",
+    "Opel Frontera",
+    "C20NZ Engine",
+    "Bosch ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Opel Frontera 2.0 C20NZ is a direct OEM fit, ensuring seamless integration and reliable engine control.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Certified</li>\n<li>Plug & Play Installation</li>\n<li>6-month Warranty</li>\n<li>Direct Fitment</li>\n<li>Reliable Performance</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>OPEL CHEVROLET HOLDEN VAUXHALL FRONTERA</td></tr>\n<tr><td>ENGINE</td><td>2.0 C20NZ</td></tr>\n<tr><td>YEAR</td><td>1996</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 203 629</td></tr>\n<tr><td>CODE</td><td>AD</td></tr>\n<tr><td>NUMBER PARTS</td><td>91 151 854</td></tr>\n<tr><td>WARRANTY</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table></section>\n<section class=\"shipping\">Ships within 24-48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Frontera 2.0 C20NZ. Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL FRONTERA 2.0 C20NZ BOSCH 0261203629, 0 261 203 629, 91151854, 91 151 854 AD",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-FRONTERA-2.0-C20NZ-BOSCH-0261203629%2C-0-261-203-629%2C-91151854%2C-91-151-854-AD/28280",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "005D-5062A_20120824094841",
+    "sku": "005D-5062A_20120824094841",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL FRONTERA 2.0 C20NZ BOSCH 0261203629, 0 261 203 629, 91151854, 91 151 854 AD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL FRONTERA",
+      "ENGINE": "2.0 C20NZ",
+      "YEAR": "1996",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 629",
+      "CODE": "AD",
+      "NUMBER PARTS": "91 151 854",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:40:37.330Z",
+    "model": "mistral:7b",
+    "durationMs": 11281,
+    "priceIncrement": 100
+  }
+}

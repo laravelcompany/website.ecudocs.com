@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - OPEL VECTRA 2.0 DTI X20DTH BOSCH 0 281 001 634, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-opel-vectra-2-0-dti-x20dth-bosch-0281001634-tested",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Opel Vectra 2.0 DTI X20DTH BOSCH 0 281 001 634, covered by a 6-month warranty.",
+  "price": "€30.00",
+  "excerpt": "Plug & Play ECU for Opel Vectra 2.0 DTI X20DTH BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "OPEL VECTRA",
+    "Bosch",
+    "X20DTH"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Opel Vectra 2.0 DTI X20DTH BOSCH is a reliable solution to your engine control unit issues, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested and certified</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr>\n            <th>PARTS</th>\n            <td>ECU ENGINE CONTROLLER</td>\n        </tr>\n        <tr>\n            <th>BRAND AND MODEL</th>\n            <td>OPEL VECTRA</td>\n        </tr>\n        <tr>\n            <th>ENGINE</th>\n            <td>2.0 DTI X20DTH</td>\n        </tr>\n        <tr>\n            <th>NUMBER MANUFACTURER</th>\n            <td>BOSCH 0 281 001 634</td>\n        </tr>\n        <tr>\n            <th>NUMBER PARTS</th>\n            <td>90 569 348 LG</td>\n        </tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra 2.0 DTI X20DTH only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL VECTRA 2.0 DTI X20DTH BOSCH 0 281 001 634, 0281001634, 90569348, 90 569 348 LG",
+    "price": "€20.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-VECTRA-2.0-DTI-X20DTH-BOSCH-0-281-001-634%2C-0281001634%2C-90569348%2C-90-569-348-LG/122929",
+    "priceCurrency": "EUR",
+    "netPrice": "€16.26",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "033E-217C7",
+    "sku": "033E-217C7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL VECTRA 2.0 DTI X20DTH BOSCH 0 281 001 634, 0281001634, 90569348, 90 569 348 LG</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_250244_0_0/OPEL-VECTRA-2.0-DTI-X20DTH-BOSCH-0281001634%2C-0-281-001-634%2C-90569348%2C-90-569-348-LG.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_250245_0_0/OPEL-VECTRA-2.0-DTI-X20DTH-BOSCH-0281001634%2C-90569348%2C-90-569-348-LG.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VECTRA",
+      "ENGINE": "2.0 DTI X20DTH",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 634",
+      "NUMBER PARTS": "90 569 348 LG",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:21:05.443Z",
+    "model": "mistral:7b",
+    "durationMs": 10732,
+    "priceIncrement": 100
+  }
+}

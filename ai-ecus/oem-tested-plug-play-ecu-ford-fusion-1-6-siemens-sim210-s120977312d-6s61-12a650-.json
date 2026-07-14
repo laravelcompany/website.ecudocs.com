@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Fusion 1.6 - Siemens SIM210 S120977312D, 6S61-12A650-LD 5DMD",
+  "slug": "oem-tested-plug-play-ecu-ford-fusion-1-6-siemens-sim210-s120977312d-6s61-12a650-",
+  "metaDescription": "Buy this OEM tested Plug & Play ECU replacement for Ford Fusion 1.6 with a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Fusion 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fusion",
+    "Siemens SIM210",
+    "6S61-12A650-LD 5DMD"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Fusion 1.6 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Ford Fusion 1.6</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FUSION</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS SIM210 S120977312D, S120977312 D</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>5DMD</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>6S61-12A650-LD 5DMD</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Fusion 1.6 only. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FUSION 1.6 6S6112A650LD SIEMENS SIM210 S120977312D, S120977312 D, 6S61-12A650-LD 5DMD",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FUSION-1.6-6S6112A650LD-SIEMENS-SIM210-S120977312D%2C-S120977312-D%2C-6S61-12A650-LD-5DMD/32041",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "8336-470DB",
+    "sku": "8336-470DB",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FUSION 1.6 6S6112A650LD SIEMENS SIM210 S120977312D, S120977312 D, 6S61-12A650-LD 5DMD</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FUSION",
+      "ENGINE": "1.6",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "SIEMENS SIM210 S120977312D, S120977312 D",
+      "CODE": "5DMD",
+      "NUMBER PARTS": "6S61-12A650-LD 5DMD",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:19:30.432Z",
+    "model": "mistral:7b",
+    "durationMs": 12794,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Toyota Yaris 1.3 2NZ-FE MT - Fujitsu 8966152081, 2110005991 - 6-month Warranty",
+  "slug": "plug-play-ecu-toyota-yaris-13-2nz-fe-mt-fujitsu-8966152081-2110005991-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Toyota Yarus 1.3 2NZ-FE MT from Fujitsu. Backed by a 6-month warranty and ready for immediate dispatch.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Toyota Yaris",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Yaris",
+    "2NZ-FE MT",
+    "Fujitsu"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Toyota Yaris 1.3 2NZ-FE MT is a reliable solution to restore your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Immediate Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>TOYOTA YARIS</td></tr>\n        <tr><th>ENGINE</th><td>1.3 2NZ-FE MT</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>2110005991, 211000-5991</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8966152081, 89661-52081</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA YARIS 1.3 2NZ-FE MT 8966152081, 89661-52081, 2110005991, 211000-5991",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-YARIS-1.3-2NZ-FE-MT-8966152081%2C-89661-52081%2C-2110005991%2C-211000-5991/28346",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Fujitsu",
+    "productCode": "01B7-92696_20120824202919",
+    "sku": "01B7-92696_20120824202919",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA YARIS 1.3 2NZ-FE MT 8966152081, 89661-52081, 2110005991, 211000-5991</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_83002c52079af6c5ae85d78ef62d7708_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_533a5a15e0c904076a9edf4cf7397e1e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA YARIS",
+      "ENGINE": "1.3 2NZ-FE MT",
+      "NUMBER MANUFACTURER": "2110005991, 211000-5991",
+      "NUMBER PARTS": "8966152081, 89661-52081",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programmin",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:36:54.867Z",
+    "model": "mistral:7b",
+    "durationMs": 9708,
+    "priceIncrement": 100
+  }
+}

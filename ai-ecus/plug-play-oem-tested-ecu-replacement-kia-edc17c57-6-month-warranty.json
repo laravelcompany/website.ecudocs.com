@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement KIA - EDC17C57, 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-kia-edc17c57-6-month-warranty",
+  "metaDescription": "Buy Plug & Play OEM Tested ECU Replacement for KIA with 6-month Warranty. Shipped within 24–48 hours.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for KIA",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA EDC17C57",
+    "OEM Part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for KIA is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL:</th><td>KIA</td></tr>\n    <tr><th>NUMBER MANUFACTURER:</th><td>0281032352 39150-2A930</td></tr>\n    <tr><th>NUMBER PARTS:</th><td>EDC17C57</td></tr>\n    <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary by vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA 0281032352 39150-2A930 391502A930 EDC17C57",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-0281032352-39150-2A930-391502A930-EDC17C57/136371",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "3488-3539A_20230915133137",
+    "sku": "3488-3539A_20230915133137",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA 0281032352 39150-2A930 391502A930  EDC17C57</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA",
+      "NUMBER MANUFACTURER": "0281032352 39150-2A930",
+      "NUMBER PARTS": "EDC17C57",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:13:35.084Z",
+    "model": "mistral:7b",
+    "durationMs": 9353,
+    "priceIncrement": 100
+  }
+}

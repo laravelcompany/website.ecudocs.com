@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play ECU Engine Controller - OEM Tested Nissan Micra MEC32-110, Warranty Included",
+  "slug": "plug-play-ecu-nissan-micra-mec32110-oem-tested",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for Nissan Micra MEC32-110, OEM tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play ECU Engine Controller for Nissan Micra MEC32-110",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Micra MEC32-110",
+    "OEM tested"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Nissan Micra MEC32-110 is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Complet Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN MICRA</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MEC32110</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>complet</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN MICRA MEC32-110, MEC32110",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-MICRA-MEC32-110%2C-MEC32110/60412",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "872A-681D7_20140716093152",
+    "sku": "872A-681D7_20140716093152",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN MICRA MEC32-110, MEC32110</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN MICRA",
+      "NUMBER PARTS": "MEC32110",
+      "OPTION AVAILABLE": "complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:27:24.464Z",
+    "model": "mistral:7b",
+    "durationMs": 9238,
+    "priceIncrement": 100
+  }
+}

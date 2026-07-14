@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - Chevrolet AVEO 1.2 5WY5992A, 25184299, N3 - 6-month Warranty",
+  "slug": "plug-play-ecu-chevrolet-aveo-1-2-5wy5992a-25184299-n3-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Chevrolet AVEO 1.2 5WY5992A, 25184299, N3. Shipped within 24-48 hours and covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Chevrolet AVEO 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Chevrolet AVEO",
+    "5WY5992A",
+    "25184299",
+    "N3"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Chevrolet AVEO 1.2 is a reliable solution to your engine control unit issues, ensuring optimal performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch (EU)</li>\n<li>Used in Good Condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>CHEVROLET AVEO</td></tr>\n<tr><td>ENGINE</td><td>1.2</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>5WY5992A</td></tr>\n<tr><td>NUMBER PARTS</td><td>25184299</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipped within 24-48 hours. Fast dispatch (EU) and 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CHEVROLET AVEO 1.2 5WY5992A, 25184299, N3",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CHEVROLET-AVEO-1.2-5WY5992A%2C-25184299%2C-N3-/83861",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "6284-30244_20160105141124",
+    "sku": "6284-30244_20160105141124",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CHEVROLET AVEO 1.2 5WY5992A, 25184299, N3 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CHEVROLET AVEO",
+      "ENGINE": "1.2",
+      "NUMBER MANUFACTURER": "5WY5992A",
+      "NUMBER PARTS": "25184299",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:55:18.963Z",
+    "model": "mistral:7b",
+    "durationMs": 11513,
+    "priceIncrement": 100
+  }
+}

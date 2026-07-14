@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for NISSAN PRIMERA 2.0 MEC30-140 B2 - 6-month Warranty",
+  "slug": "plug-play-ecu-nissan-prima-20-mec30140b2-hitachi-oem-tested",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for NISSAN PRIMERA 2.0 MEC30-140 B2, offering fast dispatch and a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU for NISSAN PRIMERA 2.0 MEC30-140 B2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "NISSAN PRIMERA",
+    "MEC30-140 B2",
+    "Hitachi"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Replacement for NISSAN PRIMERA 2.0 MEC30-140 B2 is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used but in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>NISSAN PRIMERA</td></tr>\n        <tr><th>ENGINE:</th><td>2.0</td></tr>\n        <tr><th>YEAR:</th><td>2002</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>MEC30-140 B2</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch across EU. 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 MEC30-140 B2, MEC30140",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-2.0-MEC30-140-B2%2C-MEC30140/55643",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "C19F-5508B_20140509110152",
+    "sku": "C19F-5508B_20140509110152",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 MEC30-140 B2, MEC30140</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "2.0",
+      "YEAR": "2002",
+      "NUMBER PARTS": "MEC30-140 B2",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:34:55.333Z",
+    "model": "mistral:7b",
+    "durationMs": 10539,
+    "priceIncrement": 100
+  }
+}

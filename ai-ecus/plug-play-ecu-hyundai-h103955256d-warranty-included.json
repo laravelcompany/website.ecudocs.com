@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - Hyundai H103955256D, 39140-23745, Warranty Included",
+  "slug": "plug-play-ecu-hyundai-h103955256d-warranty-included",
+  "metaDescription": "Expertly tested and guaranteed 6-month warranty on Plug & Play ECU Replacement for Hyundai. Fast dispatch within EU.",
+  "price": "€135.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Hyundai",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai H103955256D",
+    "39140-23745",
+    "OEM part",
+    "used original"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM Tested ECU Replacement for Hyundai is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>HYUNDAI</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>H103955256D</td></tr>\n    <tr><th>NUMBER PARTS</th><td>39140-23745</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle model and year. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI H103955256D, 39140-23745, 3914023745",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-H103955256D%2C-39140-23745%2C-3914023745/107556",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "556F-904B4_20171117130248",
+    "sku": "556F-904B4_20171117130248",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI H103955256D, 39140-23745, 3914023745</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI",
+      "NUMBER MANUFACTURER": "H103955256D",
+      "NUMBER PARTS": "39140-23745",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:40:47.964Z",
+    "model": "mistral:7b",
+    "durationMs": 9721,
+    "priceIncrement": 100
+  }
+}

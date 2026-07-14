@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Fiat Marea 1.6 16V - IAW49FB6/HW002/4974-HCU, 61600.419.04 F",
+  "slug": "plug-play-ecu-fiat-marea-1-6-16v-iaw49fb6hw0024974-hcu-6160041904f",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Fiat Marea 1.6 16V. This used in good condition part comes with a 6-month warranty and ships within 24–48 hours.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Fiat Marea 1.6 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "IAW49FB6",
+    "Fiat Marea",
+    "1.6 16V"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Fiat Marea 1.6 16V is a reliable solution to restore your vehicle's performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested and Certified</li>\n<li>Plug & Play Design for Easy Installation</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Fast Dispatch within EU</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT MAREA</td></tr>\n<tr><td>ENGINE</td><td>1.6 16V</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>IAW 49F.B6</td></tr>\n<tr><td>NUMBER PARTS</td><td>61600.419.04 F</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. Fast dispatch and EU-wide delivery.</section>\n<section class=\"compatibility\">This ECU is designed for Fiat Marea 1.6 16V. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT MAREA 1.6 16V 46761564, IAW49FB6, IAW49F.B6, IAW 49F.B6/HW002/4974-HCU, 6160041904, 61600.419.04 F",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-MAREA-1.6-16V-46761564%2C-IAW49FB6%2C-IAW49F.B6%2C-IAW-49F.B6HW0024974-HCU%2C-6160041904%2C-61600.419.04-F/12998",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "6A02-710E2",
+    "sku": "6A02-710E2",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT MAREA 1.6 16V 46761564, IAW49FB6, IAW49F.B6, IAW 49F.B6/HW002/4974-HCU, 6160041904, 61600.419.04 F</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_689b07f9e276d73f33ec1d018e16aaf5_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_369c0a983a165e885277dc162bbce51b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT MAREA",
+      "ENGINE": "1.6 16V",
+      "NUMBER MANUFACTURER": "IAW 49F.B6",
+      "NUMBER PARTS": "61600.419.04 F",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:01:51.359Z",
+    "model": "mistral:7b",
+    "durationMs": 11799,
+    "priceIncrement": 100
+  }
+}

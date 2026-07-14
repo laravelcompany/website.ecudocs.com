@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Opel Meriva 1.7 CDTI - Denso MB275800 4755, Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-opel-meriva-17-cdti-denso-mb275800-4755-warranty-i",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for Opel Meriva 1.7 CDTI, backed by a 6-month warranty. Order today for fast shipping!",
+  "price": "€575.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Opel Meriva 1.7 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Meriva",
+    "1.7 CDTI",
+    "Denso MB275800"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller for Opel Meriva 1.7 CDTI is thoroughly inspected, tested, and ready for installation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Fast shipping within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL MERIVA</td></tr>\n        <tr><th>ENGINE:</th><td>1.7 CDTI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>Denso MB275800 4755</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>898002 8965</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility with your vehicle before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL MERIVA 1.7 CDTI Denso MB275800 4755, MB2758004755, GM 98002896, 898002 8965, 8980028965",
+    "price": "€475.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-MERIVA-1.7-CDTI-Denso-MB275800-4755%2C-MB2758004755%2C-GM-98002896%2C-898002-8965%2C-8980028965-/95539",
+    "priceCurrency": "EUR",
+    "netPrice": "€386.18",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "3B19-395B0_20160901144727",
+    "sku": "3B19-395B0_20160901144727",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL MERIVA 1.7 CDTI Denso MB275800 4755, MB2758004755, GM 98002896, 898002 8965, 8980028965 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_342932a8d4bb92634a927172fac97675_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_fddafa6380b8e5676db075184588e1a1_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL MERIVA",
+      "ENGINE": "1.7 CDTI",
+      "NUMBER MANUFACTURER": "Denso MB275800 4755",
+      "NUMBER PARTS": "898002 8965",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:07:53.673Z",
+    "model": "mistral:7b",
+    "durationMs": 12080,
+    "priceIncrement": 100
+  }
+}

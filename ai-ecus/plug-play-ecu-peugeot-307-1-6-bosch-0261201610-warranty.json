@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement - PEUGEOT 307 1.6 BOSCH 0 261 201 610, 96 633 946 80, Warranty Included",
+  "slug": "plug-play-ecu-peugeot-307-1-6-bosch-0261201610-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for PEUGEOT 307 1.6 BOSCH 0 261 201 610, 96 633 946 80. Fast dispatch and 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for PEUGEOT 307 1.6 BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT 307",
+    "BOSCH 0 261 201 610",
+    "96 633 946 80"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement is suitable for PEUGEOT 307 1.6 BOSCH 0 261 201 610, 96 633 946 80. It comes with a 6-month warranty and is thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch (EU)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr>\n            <th>PARTS</th>\n            <th>BRAND AND MODEL</th>\n            <th>ENGINE</th>\n            <th>NUMBER MANUFACTURER</th>\n            <th>NUMBER PARTS</th>\n            <th>OPTION AVAILABLE</th>\n            <th>WARRANTY :</th>\n            <th>INSPECTION:</th>\n            <th>CONDITION</th>\n        </tr>\n        <tr>\n            <td>ECU ENGINE CONTROLLER</td>\n            <td>PEUGEOT 307</td>\n            <td>1.6</td>\n            <td>BOSCH 0 261 201 610</td>\n            <td>96 633 946 80</td>\n            <td>LOCKED / UNLOCKED</td>\n            <td>6-month warranty</td>\n            <td>Device thoroughly inspected and tested by a certified technician</td>\n            <td>USED IN GOOD CONDITION</td>\n        </tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Fast dispatch (EU). 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with PEUGEOT 307 1.6 BOSCH 0 261 201 610, 96 633 946 80. Please ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 307 1.6 BOSCH 0 261 201 610, 0261201610, 96 633 946 80, 9663394680, ME7.4.5",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-307-1.6-BOSCH-0-261-201-610%2C-0261201610%2C-96-633-946-80%2C-9663394680%2C-ME7.4.5-/99421",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5042-1151D_20161124203439",
+    "sku": "5042-1151D_20161124203439",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  PEUGEOT 307 1.6 BOSCH 0 261 201 610, 0261201610, 96 633 946 80, 9663394680, ME7.4.5 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 307",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 201 610",
+      "NUMBER PARTS": "96 633 946 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:15:40.491Z",
+    "model": "mistral:7b",
+    "durationMs": 12707,
+    "priceIncrement": 100
+  }
+}

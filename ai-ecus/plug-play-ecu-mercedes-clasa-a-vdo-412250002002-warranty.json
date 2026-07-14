@@ -1,0 +1,48 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Mercedes Clasa A - VDO 412.250/002/002, A 025 545 41 32 [2] - Warranty Included",
+  "slug": "plug-play-ecu-mercedes-clasa-a-vdo-412250002002-warranty",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for Mercedes Clasa A by VDO. This OEM replacement comes with a 6-month warranty and fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Mercedes Clasa A",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Clasa A",
+    "VDO",
+    "412.250/002/002"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Mercedes Clasa A by VDO ensures seamless engine control and performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty included</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES CLASA A</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>VDO 412.250/002/002</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A 025 545 41 32 [2]</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES CLASA A VDO 412.250/002/002, 412250002002, A 025 545 41 32 [2], A0255454132",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-CLASA-A-VDO-412.250002002%2C-412250002002%2C-A-025-545-41-32-2%2C-A0255454132-/80513",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "VDO",
+    "productCode": "6E42-338DD_20151013224439",
+    "sku": "6E42-338DD_20151013224439",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES CLASA A VDO 412.250/002/002, 412250002002, A 025 545 41 32 [2], A0255454132 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES CLASA A",
+      "NUMBER MANUFACTURER": "VDO 412.250/002/002",
+      "NUMBER PARTS": "A 025 545 41 32 [2]",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:39:26.165Z",
+    "model": "mistral:7b",
+    "durationMs": 9769,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement - Lancia Dedra 1.6 (WHL2.06/12D.73, MIW0L2) - OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-lancia-dedra-16-whl20612d73-miw0l2-oem-tested-warranty-included",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Lancia Dedra 1.6 (WHL2.06/12D.73, MIW0L2) - OEM Tested and backed by a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Lancia Dedra 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Lancia Dedra",
+    "Marelli Autronica",
+    "WHL2.06/12D.73",
+    "MIW0L2"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for Lancia Dedra 1.6 (WHL2.06/12D.73, MIW0L2) ensures seamless engine control.</section>\n<section class=\"features\"><ul><li>Original Part</li><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>LANCIA DEDRA</td></tr>\n    <tr><th>ENGINE</th><td>1.6</td></tr>\n    <tr><th>YEAR</th><td>1994-1998</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>WHL2.06/12D.73</td></tr>\n    <tr><th>NUMBER PARTS</th><td>MIW0L2</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and specific issues. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER LANCIA DEDRA 1.6, WHL2.06/12D.73, WHL20612D73, MIW0L2",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-LANCIA-DEDRA-1.6%2C-WHL2.0612D.73%2C-WHL20612D73%2C-MIW0L2-/47062",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Marelli Autronica",
+    "productCode": "E89E-728B9",
+    "sku": "E89E-728B9",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER LANCIA DEDRA 1.6, WHL2.06/12D.73, WHL20612D73, MIW0L2 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e25751d515d57eaea6ee107936cbd57e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_5fc8315281a67eac61939218fce19f5a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "LANCIA DEDRA",
+      "ENGINE": "1.6",
+      "YEAR": "1994-1998",
+      "NUMBER MANUFACTURER": "WHL2.06/12D.73",
+      "NUMBER PARTS": "MIW0L2",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:30:26.994Z",
+    "model": "mistral:7b",
+    "durationMs": 9744,
+    "priceIncrement": 100
+  }
+}

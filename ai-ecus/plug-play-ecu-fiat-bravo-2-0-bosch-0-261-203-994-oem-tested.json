@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Bravo 2.0 BOSCH 0 261 203 994, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-bravo-2-0-bosch-0-261-203-994-oem-tested",
+  "metaDescription": "OEM ECU Engine Controller for Fiat Bravo 2.0, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Bravo 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Bravo",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU Engine Controller is a direct replacement for your Fiat Bravo 2.0, ensuring optimal engine performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Thoroughly Inspected and Tested by a Certified Technician</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT BRAVO</td></tr>\n        <tr><th>ENGINE</th><td>2.0</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 203 994</td></tr>\n        <tr><th>NUMBER PARTS</th><td>0 046 404 007 0</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle's condition and history. Always consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT BRAVO 2.0, BOSCH 0 261 203 994, 0261203994, 0 046 404 007 0, 00464040070",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-BRAVO-2.0%2C-BOSCH-0-261-203-994%2C-0261203994%2C-0-046-404-007-0%2C-00464040070-/46768",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C4EC-408CB",
+    "sku": "C4EC-408CB",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT BRAVO 2.0, BOSCH 0 261 203 994, 0261203994, 0 046 404 007 0, 00464040070 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT BRAVO",
+      "ENGINE": "2.0",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 994",
+      "NUMBER PARTS": "0 046 404 007 0",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:26:23.879Z",
+    "model": "mistral:7b",
+    "durationMs": 8802,
+    "priceIncrement": 100
+  }
+}

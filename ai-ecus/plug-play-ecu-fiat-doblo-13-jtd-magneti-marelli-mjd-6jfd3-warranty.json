@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT DOBLO 1.3 JTD Magneti Marelli MJD 6JF.D3, Warranty Included",
+  "slug": "plug-play-ecu-fiat-doblo-13-jtd-magneti-marelli-mjd-6jfd3-warranty",
+  "metaDescription": "OEM Tested ECU Engine Controller for FIAT DOBLO 1.3 JTD by Magneti Marelli, Plug & Play, 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for FIAT DOBLO 1.3 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT DOBLO",
+    "Magneti Marelli",
+    "MJD 6JF.D3"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is specifically designed for FIAT DOBLO 1.3 JTD engines, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM Tested for guaranteed fitment</li><li>6-month warranty for peace of mind</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">...(technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT DOBLO 1.3 JTD MAGNETI MARELLI MJD 6JF.D3, MJD6JFD3, FGP 51758210, 71600.033.01, 7160003301",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-DOBLO-1.3-JTD-MAGNETI-MARELLI-MJD-6JF.D3%2C-MJD6JFD3%2C-FGP-51758210%2C-71600.033.01%2C-7160003301/30246",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "1ADC-37105_20120930134610",
+    "sku": "1ADC-37105_20120930134610",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT DOBLO 1.3 JTD MAGNETI MARELLI MJD 6JF.D3, MJD6JFD3, FGP 51758210, 71600.033.01, 7160003301</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT DOBLO",
+      "ENGINE": "1.3 JTD",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI MJD 6JF.D3",
+      "NUMBER PARTS": "71600.033.01",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:35:26.395Z",
+    "model": "mistral:7b",
+    "durationMs": 6263,
+    "priceIncrement": 100
+  }
+}

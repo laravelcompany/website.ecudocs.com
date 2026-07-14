@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Mercedes W169 A180 1.8 CDI - Bosch 0281012259",
+  "slug": "oem-tested-plug-play-ecu-mercedes-w169-a180-18-cdi-bosch-0281012259",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Mercedes W169 A180 1.8 CDI - Bosch 0281012259, backed by a 6-month warranty and fast shipping.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Mercedes W169 A180 1.8 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W169 A180",
+    "Bosch 0281012259"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU replacement for Mercedes W169 A180 1.8 CDI is expertly inspected, tested, and ready to restore your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Shipping</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES W169 A180</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.8 CDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2005-06</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0281012259, 0 281 012 259</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>6401502879</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">This product ships within 24–48 hours and is covered by a 6-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Contact us for any compatibility concerns.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W169 A180 1.8 CDI A6401502879, 6401502879, A 640 150 28 79 BOSCH 0281012259, 0 281 012 259",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W169-A180-1.8-CDI-A6401502879%2C-6401502879%2C-A-640-150-28-79-BOSCH-0281012259%2C-0-281-012-259/28305",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C7DE-34850_20120824172443",
+    "sku": "C7DE-34850_20120824172443",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W169 A180 1.8 CDI A6401502879, 6401502879, A 640 150 28 79 BOSCH 0281012259, 0 281 012 259</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_3a3d79b86c89fff679e58863a7eed740_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_093d4edac34d1ed062e38d6e1d07db33_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_8f9838b61db9d562fcbdcef615792de1_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0ffd088874d9104eeebe335675077eae_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W169 A180",
+      "ENGINE": "1.8 CDI",
+      "YEAR": "2005-06",
+      "NUMBER MANUFACTURER": "BOSCH 0281012259, 0 281 012 259",
+      "NUMBER PARTS": "6401502879",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:09:12.591Z",
+    "model": "mistral:7b",
+    "durationMs": 12133,
+    "priceIncrement": 100
+  }
+}

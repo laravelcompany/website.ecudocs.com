@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Seat Altea 1.9 TDI Bosch 0281014419 - ECU Replacement, Warranty",
+  "slug": "plug-play-ecu-seat-altea-19-tdi-bosch-0281014419-warranty",
+  "metaDescription": "Expertly tested and OEM Bosch ECU Engine Controller for Seat Altea 1.9 TDI, offering Plug & Play replacement with a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Seat Altea 1.9 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug and Play ECU",
+    "Seat Altea",
+    "Bosch",
+    "0281014419"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Seat Altea 1.9 TDI is a reliable replacement, ensuring seamless engine operation.</section>\n<section class=\"features\"><ul><li>Plug & Play installation</li><li>OEM quality and performance</li><li>6-month warranty</li><li>Thoroughly inspected and tested by certified technicians</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>SEAT ALTEA</td></tr><tr><th>ENGINE</th><td>1.9 TDI</td></tr><tr><th>YEAR</th><td>2008</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 014 419</td></tr><tr><th>NUMBER PARTS</th><td>03G 906 021 AN</td></tr><tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Seat Altea 1.9 TDI and may require professional installation. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT ALTEA 1.9 TDI BOSCH 0 281 014 419, 0281014419, 03G 906 021 SK, 03G906021SK, 03G906021AN, EDC16U34",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-ALTEA-1.9-TDI-BOSCH-0-281-014-419%2C-0281014419%2C-03G-906-021-SK%2C-03G906021SK%2C-03G906021AN%2C-EDC16U34-/86484",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0221-6643C_20160219135147",
+    "sku": "0221-6643C_20160219135147",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT ALTEA 1.9 TDI BOSCH 0 281 014 419, 0281014419, 03G 906 021 SK, 03G906021SK, 03G906021AN, EDC16U34 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT ALTEA",
+      "ENGINE": "1.9 TDI",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 419",
+      "NUMBER PARTS": "03G 906 021 AN",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:46:08.242Z",
+    "model": "mistral:7b",
+    "durationMs": 10122,
+    "priceIncrement": 100
+  }
+}

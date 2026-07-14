@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Suzuki 1.9 JTD Bosch 0 281 012 992, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-suzuki-19-jtd-bosch-0281012992-tested",
+  "metaDescription": "Find the perfect Plug & Play ECU replacement for your Fiat Suzuki 1.9 JTD with our OEM tested, Bosch 0 281 012 992 part. Ships within 24–48 hours and backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Suzuki 1.9 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Suzuki 1.9 JTD",
+    "Bosch 0 281 012 992"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for your Fiat Suzuki 1.9 JTD is thoroughly inspected, tested by a certified technician and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>12-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT SUZUKI</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9 JTD</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2006</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>55204652</td>\n            </tr>\n            <tr>\n                <td>OPTION AVAILABLE</td>\n                <td>Plug & Play / Locked / Ready for programming</td>\n            </tr>\n            <tr>\n                <td>WARRANTY :</td>\n                <td>6-month warranty</td>\n            </tr>\n            <tr>\n                <td>INSPECTION:</td>\n                <td>Device thoroughly inspected and tested by a certified technician</td>\n            </tr>\n            <tr>\n                <td>CONDITION</td>\n                <td>USED ORYGINAL IN GOOD CONDITION</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. Fast dispatch across EU.</section>\n<section class=\"compatibility\">Compatible with Fiat Suzuki 1.9 JTD. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT SUZUKI 1.9 JTD BOSCH 0 281 012 992, 0281012992, 55204652",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-SUZUKI-1.9-JTD-BOSCH-0-281-012-992%2C-0281012992%2C-55204652/56051",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A769-4708F_20140514113348",
+    "sku": "A769-4708F_20140514113348",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT SUZUKI 1.9 JTD BOSCH 0 281 012 992, 0281012992, 55204652</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8a166c9bec910dfae0a1c69ec09c491d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_052bf0455cbe37e4a373254a8d4da068_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT SUZUKI",
+      "ENGINE": "1.9 JTD",
+      "YEAR": "2006",
+      "NUMBER PARTS": "55204652",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:36:04.877Z",
+    "model": "mistral:7b",
+    "durationMs": 13256,
+    "priceIncrement": 100
+  }
+}

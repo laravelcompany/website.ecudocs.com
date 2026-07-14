@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Fusion 1.4 TDCI Siemens 5WS40434A-T, 7M7112A650AA, 5GCA, SID804 - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-fusion-14-tdci-siemens-5ws40434at-7m7112a650aa-5gca-sid804-wa",
+  "metaDescription": "Expertly refurbished OEM ECU Engine Controller for Ford Fusion 1.4 TDCI by Siemens (5WS40434A-T, 7M7112A650AA, 5GCA, SID804). Plug & Play replacement with 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Refurbished OEM ECU Engine Controller for Ford Fusion 1.4 TDCI by Siemens",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fusion",
+    "1.4 TDCI",
+    "Siemens",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Ford Fusion 1.4 TDCI by Siemens ensures reliable performance and is a direct replacement for your vehicle's original part.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Compatible with 2006 Ford Fusion 1.4 TDCI</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FUSION</td></tr>\n        <tr><th>ENGINE</th><td>1.4 TDCI</td></tr>\n        <tr><th>YEAR</th><td>2006</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WS40434A-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>5GCA</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with Ford Fusion 1.4 TDCI only. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FUSION 1.4 TDCI SIEMENS 5WS40434A-T, 5WS40434AT, 7M71-12A650-AA, 7M7112A650AA, 5GCA, SID804",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FUSION-1.4-TDCI-SIEMENS-5WS40434A-T%2C-5WS40434AT%2C-7M71-12A650-AA%2C-7M7112A650AA%2C-5GCA%2C-SID804-/85639",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "1371-5602D_20160207114939",
+    "sku": "1371-5602D_20160207114939",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FUSION 1.4 TDCI SIEMENS 5WS40434A-T, 5WS40434AT, 7M71-12A650-AA, 7M7112A650AA, 5GCA, SID804 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_ca968684e63710f2e0e925729117d389_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_cde348af8fb2ada3190d0e5c22e57fd5_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FUSION",
+      "ENGINE": "1.4 TDCI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40434A-T",
+      "NUMBER PARTS": "5GCA",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:18:49.286Z",
+    "model": "mistral:7b",
+    "durationMs": 12208,
+    "priceIncrement": 100
+  }
+}

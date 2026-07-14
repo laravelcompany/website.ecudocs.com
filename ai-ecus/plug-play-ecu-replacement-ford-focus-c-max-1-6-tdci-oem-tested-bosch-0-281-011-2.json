@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Ford Focus C-MAX 1.6 TDCI - OEM Tested Bosch 0 281 011 263, 6BME - Warranty Included",
+  "slug": "plug-play-ecu-replacement-ford-focus-c-max-1-6-tdci-oem-tested-bosch-0-281-011-2",
+  "metaDescription": "OEM tested and guaranteed ECU replacement for Ford Focus C-MAX 1.6 TDCI with Bosch 0 281 011 263, 6BME. Plug & Play installation. 6-month warranty.",
+  "price": "€275.00",
+  "excerpt": "OEM tested ECU replacement for Ford Focus C-MAX 1.6 TDCI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Focus C-MAX",
+    "1.6 TDCI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and guaranteed ECU replacement for Ford Focus C-MAX 1.6 TDCI ensures smooth engine operation.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play installation</li>\n<li>OEM quality</li>\n<li>6-month warranty</li>\n<li>Fast dispatch within EU</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD FOCUS C-MAX</td></tr>\n<tr><td>ENGINE</td><td>1.6 TDCI</td></tr>\n<tr><td>YEAR</td><td>2004</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 011 263</td></tr>\n<tr><td>NUMBER PARTS</td><td>6BME</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Focus C-MAX 1.6 TDCI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FOCUS C-MAX 1.6 TDCI BOSCH 0 281 011 263, 0281011263, FoMoCo 4M51-12A650-ND, 4M5112A650ND, 6BME",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FOCUS-C-MAX-1.6-TDCI-BOSCH-0-281-011-263%2C-0281011263%2C-FoMoCo-4M51-12A650-ND%2C-4M5112A650ND%2C-6BME-/91165",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FAD6-44364_20160515170410",
+    "sku": "FAD6-44364_20160515170410",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FOCUS C-MAX 1.6 TDCI BOSCH 0 281 011 263, 0281011263, FoMoCo 4M51-12A650-ND, 4M5112A650ND, 6BME  </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FOCUS C-MAX",
+      "ENGINE": "1.6 TDCI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 263",
+      "NUMBER PARTS": "6BME",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:09:57.797Z",
+    "model": "mistral:7b",
+    "durationMs": 11412,
+    "priceIncrement": 100
+  }
+}

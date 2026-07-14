@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - SEAT IBIZA CORDOBA 1.2 AZQ OEM Siemens 5WP40121 05",
+  "slug": "plug-play-ecu-replacement-seat-ibiza-cordoba-1-2-azq-oem-siemens-5wp40121-05",
+  "metaDescription": "OEM Tested ECU Replacement for SEAT IBIZA CORDOBA 1.2 AZQ with Siemens 5WP40121 05, backed by a 6-month warranty and fast dispatch.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for SEAT IBIZA CORDOBA 1.2 AZQ",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT IBIZA CORDOBA",
+    "Siemens 5WP40121"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for your SEAT IBIZA CORDOBA 1.2 AZQ ensures optimal engine performance and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\">... (technical specifications table)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA CORDOBA 1.2 AZQ 03E 906 033 D, 03E906033D, SIEMENS 5WP40121 05",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-CORDOBA-1.2-AZQ-03E-906-033-D%2C-03E906033D%2C-SIEMENS-5WP40121-05-/12233",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "7338-93403",
+    "sku": "7338-93403",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA CORDOBA 1.2 AZQ 03E 906 033 D, 03E906033D, SIEMENS 5WP40121 05 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA CORDOBA",
+      "ENGINE": "1.2 AZQ",
+      "YEAR": "2002",
+      "NUMBER MANUFACTURER": "SIEMENS 5WP40121",
+      "NUMBER PARTS": "SIMOS 3PE 4342",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:59:05.497Z",
+    "model": "mistral:7b",
+    "durationMs": 6559,
+    "priceIncrement": 100
+  }
+}

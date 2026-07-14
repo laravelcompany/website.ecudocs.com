@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Galaxy 2.0 - Visteon 98VW-12A650-GB, ANON - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-galaxy-2-0-visteon-98vw-12a650-gb-anon-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Galaxy 2.0 (Visteon 98VW-12A650-GB, ANON) with a 6-month warranty. Fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "OEM tested Plug & Play ECU replacement for Ford Galaxy 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Galaxy",
+    "Visteon",
+    "98VW-12A650-GB"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Galaxy 2.0 is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Thoroughly Inspected and Tested by a Certified Technician</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FORD GALAXY</td></tr>\n<tr><td>ENGINE</td><td>2.0</td></tr>\n<tr><td>YEAR</td><td>1998</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>98VW-12A650-GB</td></tr>\n<tr><td>CODE</td><td>ANON</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD GALAXY 2.0 98VW-12A650-GB, 98VW12A650GB, ANON",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-GALAXY-2.0-98VW-12A650-GB%2C-98VW12A650GB%2C-ANON/36202",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "7FE0-5765A_20130612103402",
+    "sku": "7FE0-5765A_20130612103402",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD GALAXY 2.0 98VW-12A650-GB, 98VW12A650GB, ANON</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD GALAXY",
+      "ENGINE": "2.0",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "98VW-12A650-GB",
+      "CODE": "ANON",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:21:09.922Z",
+    "model": "mistral:7b",
+    "durationMs": 11217,
+    "priceIncrement": 100
+  }
+}

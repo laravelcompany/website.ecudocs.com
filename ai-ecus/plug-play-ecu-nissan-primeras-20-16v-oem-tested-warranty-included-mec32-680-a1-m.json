@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for NISSAN PRIMERA 2.0 16V - OEM Tested, Warranty Included (MEC32-680 A1, MEC32680 A1, MEC32680A1, RK)",
+  "slug": "plug-play-ecu-nissan-primeras-20-16v-oem-tested-warranty-included-mec32-680-a1-m",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for NISSAN PRIMERA 2.0 16V (MEC32-680 A1, MEC32680 A1, MEC32680A1, RK). Plug & Play, 6-month warranty, and fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU for NISSAN PRIMERA 2.0 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "NISSAN PRIMERA",
+    "MEC32-680 A1",
+    "MEC32680 A1",
+    "MEC32680A1",
+    "RK"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for NISSAN PRIMERA 2.0 16V (MEC32-680 A1, MEC32680 A1, MEC32680A1, RK) offers a Plug & Play solution with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used, Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>NISSAN PRIMERA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 16V</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2001-2007</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MEC32-680 A1</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>RK</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 16V, MEC32-680 A1, MEC32680 A1, MEC32680A1, 2X15, RK",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-2.0-16V%2C-MEC32-680-A1%2C-MEC32680-A1%2C-MEC32680A1%2C-2X15%2C-RK/38415",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "4B76-100C9_20130724104415",
+    "sku": "4B76-100C9_20130724104415",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 16V, MEC32-680 A1, MEC32680 A1, MEC32680A1, 2X15, RK</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "2.0 16V",
+      "YEAR": "2001-2007",
+      "NUMBER MANUFACTURER": "MEC32-680 A1",
+      "NUMBER PARTS": "RK",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:33:03.718Z",
+    "model": "mistral:7b",
+    "durationMs": 13541,
+    "priceIncrement": 100
+  }
+}

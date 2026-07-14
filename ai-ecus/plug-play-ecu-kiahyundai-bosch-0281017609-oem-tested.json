@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Kia/Hyundai Engine Controller Bosch 0 281 017 609, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-kiahyundai-bosch-0281017609-oem-tested",
+  "metaDescription": "Expertly refurbished Plug & Play ECU Engine Controller for Kia/Hyundai, tested by a certified technician and backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play Bosch ECU replacement for Kia/Hyundai",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Kia Hyundai Bosch ECU",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and thoroughly inspected ECU Engine Controller from Bosch is a reliable replacement for Kia/Hyundai vehicles.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM quality guarantee</li><li>6-month warranty</li><li>Tested by certified technician</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>KIA HYUNDAI</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 017 609</td></tr><tr><th>NUMBER PARTS</th><td>39101-2F020</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Kia and Hyundai vehicles. Fitment caution may apply; consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA HYUNDAI BOSCH 0 281 017 609, 0281017609, 39101-2F020, 391012F020",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-HYUNDAI-BOSCH-0-281-017-609%2C-0281017609%2C-39101-2F020%2C-391012F020/108771",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B410-11331_20180130141135",
+    "sku": "B410-11331_20180130141135",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA HYUNDAI BOSCH 0 281 017 609, 0281017609, 39101-2F020, 391012F020</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_d3bf599a85d27e776b2f0efd1a6f0a77_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9773f8972e03a64ec9013cdf3602442a_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA HYUNDAI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 017 609",
+      "NUMBER PARTS": "39101-2F020",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:22:21.583Z",
+    "model": "mistral:7b",
+    "durationMs": 9403,
+    "priceIncrement": 100
+  }
+}

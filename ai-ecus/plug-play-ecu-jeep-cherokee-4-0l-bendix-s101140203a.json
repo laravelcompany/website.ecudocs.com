@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for Jeep Cherokee 4.0L Engine - OEM Tested, Warranty Included (Bendix S101140203 A)",
+  "slug": "plug-play-ecu-jeep-cherokee-4-0l-bendix-s101140203a",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for your Jeep Cherokee. This OEM replacement comes with a 6-month warranty and is ready for immediate installation.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for Jeep Cherokee",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Jeep Cherokee",
+    "Bendix S101140203 A"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Jeep Cherokee is thoroughly inspected, tested, and guaranteed to provide optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Ready for programming</li>\n        <li>Used but in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>JEEP CHEROKEE</td></tr>\n        <tr><th>ENGINE</th><td>4.0 L</td></tr>\n        <tr><th>YEAR</th><td>1989-1990</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BENDIX S101140203 A</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Jeep Cherokee models from 1989 to 1990.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JEEP CHEROKEE BENDIX S101140203 A, S101140203A",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JEEP-CHEROKEE-BENDIX-S101140203-A%2C-S101140203A/66409",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bendix",
+    "productCode": "F350-729BD_20140923124723",
+    "sku": "F350-729BD_20140923124723",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER JEEP CHEROKEE BENDIX S101140203 A, S101140203A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JEEP CHEROKEE",
+      "ENGINE": "4.0 L",
+      "YEAR": "1989-1990",
+      "NUMBER MANUFACTURER": "BENDIX S101140203 A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:02:59.824Z",
+    "model": "mistral:7b",
+    "durationMs": 8946,
+    "priceIncrement": 100
+  }
+}

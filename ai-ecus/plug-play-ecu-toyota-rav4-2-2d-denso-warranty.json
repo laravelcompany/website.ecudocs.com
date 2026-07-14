@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Toyota RAV4 2.2D Denso - 6-month Warranty",
+  "slug": "plug-play-ecu-toyota-rav4-2-2d-denso-warranty",
+  "metaDescription": "Expertly tested and OEM Toyota RAV4 2.2D ECU replacement, offering Plug & Play functionality and backed by a 6-month warranty.",
+  "price": "€660.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Toyota RAV4 2.2D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota RAV4",
+    "2.2D",
+    "Denso"
+  ],
+  "description": "<section class=\"overview\">This Denso ECU Engine Controller for Toyota RAV4 2.2D is thoroughly inspected, tested, and guaranteed to deliver optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Locked / Unlocked Options</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>TOYOTA RAV4</td></tr>\n        <tr><th>ENGINE</th><td>2.2 D</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DENSO 275900-2550</td></tr>\n        <tr><th>NUMBER PARTS</th><td>89661-42851</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary based on vehicle condition and usage history. Please consult with a professional technician for proper fitment.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA RAV4 2.2D DENSO 275900-2550, 2759002550, 89661-42851, 8966142851",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-RAV4-2.2D-DENSO-275900-2550%2C-2759002550%2C-89661-42851%2C-8966142851-/86934",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "537F-35468_20160225114450",
+    "sku": "537F-35468_20160225114450",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA RAV4 2.2D DENSO 275900-2550, 2759002550, 89661-42851, 8966142851 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA RAV4",
+      "ENGINE": "2.2 D",
+      "NUMBER MANUFACTURER": "DENSO 275900-2550",
+      "NUMBER PARTS": "89661-42851",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:32:23.227Z",
+    "model": "mistral:7b",
+    "durationMs": 9667,
+    "priceIncrement": 100
+  }
+}

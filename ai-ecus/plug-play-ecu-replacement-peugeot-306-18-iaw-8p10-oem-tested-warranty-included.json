@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Peugeot 306 1.8 IAW 8P.10 OEM Tested - Warranty Included",
+  "slug": "plug-play-ecu-replacement-peugeot-306-18-iaw-8p10-oem-tested-warranty-included",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Peugeot 306 1.8 IAW 8P.10, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 306 1.8 IAW 8P.10",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 306",
+    "IAW 8P.10"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and used original Peugeot 306 1.8 IAW 8P.10 ECU engine controller is in good condition, offering a reliable replacement for your vehicle.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Condition: Used Original in Good Condition</li>\n        <li>Fast Dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 306</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>IAW 8P.10</td></tr>\n        <tr><th>NUMBER PARTS</th><td>9616146480</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 306 1.8, IAW 8P.10, IAW8P10, 16179.014, 16179014, 9616146480",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-306-1.8%2C-IAW-8P.10%2C-IAW8P10%2C-16179.014%2C-16179014%2C-9616146480-/45521",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "422F-33005",
+    "sku": "422F-33005",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 306 1.8, IAW 8P.10, IAW8P10, 16179.014, 16179014, 9616146480 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 306",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "IAW 8P.10",
+      "NUMBER PARTS": "9616146480",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:58:25.662Z",
+    "model": "mistral:7b",
+    "durationMs": 9033,
+    "priceIncrement": 100
+  }
+}

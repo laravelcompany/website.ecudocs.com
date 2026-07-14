@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - KIA RIO 1.4 CRDI OEM Tested - 6-month Warranty - Delphi 391302A200, DCM3.7AP",
+  "slug": "plug-play-ecu-kia-rio-14-crdi-delphi-391302a200-dcm37ap",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for KIA RIO 1.4 CRDI, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for KIA RIO 1.4 CRDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA RIO",
+    "Delphi",
+    "1.4 CRDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for KIA RIO 1.4 CRDI is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>KIA RIO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.4 CRDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2000-2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>39130-2A200</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>DCM3.7AP</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with KIA RIO 1.4 CRDI. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA RIO 1.4 CRDI, 39130-2A200, 391302A200, DDCR28347569, DCM3.7AP",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-RIO-1.4-CRDI%2C-39130-2A200%2C-391302A200%2C-DDCR28347569%2C-DCM3.7AP/39564",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Delphi",
+    "productCode": "2BD9-2108D_20130811163852",
+    "sku": "2BD9-2108D_20130811163852",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA RIO 1.4 CRDI, 39130-2A200, 391302A200, DDCR28347569, DCM3.7AP</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA RIO",
+      "ENGINE": "1.4 CRDI",
+      "YEAR": "2000-2005",
+      "NUMBER MANUFACTURER": "39130-2A200",
+      "NUMBER PARTS": "DCM3.7AP",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:25:16.420Z",
+    "model": "mistral:7b",
+    "durationMs": 10781,
+    "priceIncrement": 100
+  }
+}

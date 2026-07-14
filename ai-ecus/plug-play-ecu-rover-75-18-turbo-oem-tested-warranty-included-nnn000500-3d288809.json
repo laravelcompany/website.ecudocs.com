@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Rover 75 1.8 Turbo, OEM Tested, Warranty Included - NNN000500, 3D288809",
+  "slug": "plug-play-ecu-rover-75-18-turbo-oem-tested-warranty-included-nnn000500-3d288809",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your Rover 75 1.8 Turbo, tested and backed by a 6-month warranty. Order today!",
+  "price": "€135.00",
+  "excerpt": "Plug & Play ECU Replacement for Rover 75 1.8 Turbo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 75",
+    "1.8 Turbo",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for your Rover 75 1.8 Turbo is OEM tested, ensuring a seamless fit and reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed compatibility</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used, original part in good condition</li>\n        <li>Compatible with Rover 75 1.8 Turbo</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>ROVER 75</td></tr>\n        <tr><th>ENGINE:</th><td>1.8 TURBO</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>NNN000500</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>3D288809</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Rover 75 1.8 Turbo and may require programming. Please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 75 1.8 TURBO, NNN000500, 3D288809",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-75-1.8-TURBO%2C-NNN000500%2C-3D288809-/43676",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Motorola",
+    "productCode": "7FA5-743BD",
+    "sku": "7FA5-743BD",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 75 1.8 TURBO, NNN000500, 3D288809 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER 75",
+      "ENGINE": "1.8 TURBO",
+      "NUMBER MANUFACTURER": "NNN000500",
+      "NUMBER PARTS": "3D288809",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:33:10.275Z",
+    "model": "mistral:7b",
+    "durationMs": 9340,
+    "priceIncrement": 100
+  }
+}

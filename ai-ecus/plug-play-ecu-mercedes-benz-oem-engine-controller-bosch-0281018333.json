@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes Benz OEM Engine Controller, Bosch 0 281 018 333, Used in Good Condition",
+  "slug": "plug-play-ecu-mercedes-benz-oem-engine-controller-bosch-0281018333",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Mercedes Benz, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Mercedes Benz",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes Benz",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Mercedes Benz by Bosch is a tested and reliable replacement option, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Mercedes Benz models</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES BENZ</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 018 333</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>52140266105403</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with most Mercedes Benz models. However, it's essential to verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES BENZ, BOSCH 0 281 018 333, 0281018333, A 651 900 25 01, A6519002501, 52140266105403",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-BENZ%2C-BOSCH-0-281-018-333%2C-0281018333%2C-A-651-900-25-01%2C-A6519002501%2C-52140266105403/42090",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4802-4319B",
+    "sku": "4802-4319B",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES BENZ, BOSCH 0 281 018 333, 0281018333, A 651 900 25 01, A6519002501, 52140266105403</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES BENZ",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 018 333",
+      "NUMBER PARTS": "52140266105403",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:34:02.479Z",
+    "model": "mistral:7b",
+    "durationMs": 10010,
+    "priceIncrement": 100
+  }
+}

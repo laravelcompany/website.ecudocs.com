@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Nissan Micra 1.6 - Hitachi MEC93100E18826 - Tested & Warranty Included",
+  "slug": "plug-play-oem-ecu-replacement-nissan-micra-1-6-hitachi-mec93100e18826-tested",
+  "metaDescription": "Buy the Plug & Play OEM ECU Replacement for Nissan Micra 1.6 by Hitachi (MEC93100E18826). Tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Nissan Micra 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Micra",
+    "Hitachi MEC93100E18826"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU Replacement for Nissan Micra 1.6 by Hitachi (MEC93100E18826) is tested and guaranteed to restore optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM-quality part</li><li>6-month warranty</li><li>Thoroughly inspected and tested by a certified technician</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>NISSAN MICRA</td></tr><tr><th>ENGINE</th><td>1.6</td></tr><tr><th>NUMBER MANUFACTURER</th><td>MEC93-100 UC</td></tr><tr><th>NUMBER PARTS</th><td>E1 8826</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Nissan Micra 1.6 MEC93-100 UC. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN MICRA 1.6 MEC93-100 UC, MEC93100, E1 8826, MEC93100E18826",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-MICRA-1.6-MEC93-100-UC%2C-MEC93100%2C-E1-8826%2C-MEC93100E18826/35911",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "78DA-58060_20130530004039",
+    "sku": "78DA-58060_20130530004039",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN MICRA 1.6 MEC93-100 UC, MEC93100, E1 8826, MEC93100E18826</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN MICRA",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "MEC93-100 UC",
+      "NUMBER PARTS": "E1 8826",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:24:33.968Z",
+    "model": "mistral:7b",
+    "durationMs": 10427,
+    "priceIncrement": 100
+  }
+}

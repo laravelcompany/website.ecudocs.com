@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for Fiat Bravo Marea 1.8 - OEM Tested, Warranty Included - MFI003BC25516",
+  "slug": "plug-play-ecu-fiat-bravo-marea-1-8-oem-tested-warranty-included-mfi003bc25516",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat Bravo Marea 1.8, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Bravo Marea 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Bravo Marea",
+    "1.8 Engine",
+    "MFI003BC25516"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller is a direct replacement for your Fiat Bravo Marea 1.8, ensuring seamless integration and reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>OEM tested for quality assurance</li><li>6-month warranty</li><li>Fast dispatch within EU</li></ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL:</th><td>FIAT BRAVO MAREA</td></tr>\n<tr><th>ENGINE:</th><td>1.8</td></tr>\n<tr><th>YEAR:</th><td>1995-2002</td></tr>\n<tr><th>NUMBER PARTS:</th><td>MFI003BC25516</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION:</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Bravo Marea 1.8 only. Installation may require professional assistance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT BRAVO MAREA 1.8, 0464221570, MFI-0 03 BC2 5516, MFI003BC25516",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-BRAVO-MAREA-1.8%2C-0464221570%2C-MFI-0-03-BC2-5516%2C-MFI003BC25516-/52737",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "F5EC-147DD_20140317143633",
+    "sku": "F5EC-147DD_20140317143633",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT BRAVO  MAREA 1.8, 0464221570, MFI-0 03 BC2 5516, MFI003BC25516 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT BRAVO MAREA",
+      "ENGINE": "1.8",
+      "YEAR": "1995-2002",
+      "NUMBER PARTS": "MFI003BC25516",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:24:15.485Z",
+    "model": "mistral:7b",
+    "durationMs": 9546,
+    "priceIncrement": 100
+  }
+}

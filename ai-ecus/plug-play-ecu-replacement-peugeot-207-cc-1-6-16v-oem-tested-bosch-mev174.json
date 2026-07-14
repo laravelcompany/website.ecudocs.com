@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for PEUGEOT 207 CC 1.6 16V - OEM Tested Bosch MEV17.4",
+  "slug": "plug-play-ecu-replacement-peugeot-207-cc-1-6-16v-oem-tested-bosch-mev174",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for PEUGEOT 207 CC 1.6 16V, OEM tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for PEUGEOT 207 CC 1.6 16V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch MEV17.4",
+    "PEUGEOT 207 CC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU Engine Controller is a reliable replacement for your PEUGEOT 207 CC 1.6 16V, ensuring seamless engine operation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed performance</li>\n        <li>6-month warranty</li>\n        <li>Thoroughly inspected and tested by a certified technician</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 207 CC 1.6 16V</td></tr>\n        <tr><th>ENGINE</th><td>.6 16V</td></tr>\n        <tr><th>YEAR</th><td>2008</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 201 505</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MEV17.4</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with PEUGEOT 207 CC 1.6 16V. Fitment caution: Ensure proper installation by a certified technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 207 CC 1.6 16V 9664738680 9663193780 BOSCH 0261201505 1039S21830 RB CMME MEV174 CEM0 MEV17.4",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-207-CC-1.6-16V-9664738680-9663193780-BOSCH-0261201505-1039S21830-RB-CMME-MEV174-CEM0-MEV17.4/16491",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "96DD-50167",
+    "sku": "96DD-50167",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 207 CC 1.6 16V 9664738680 9663193780 BOSCH 0261201505 1039S21830 RB CMME MEV174 CEM0 MEV17.4</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2d6a8795bcea081e4db3456021c0516c_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_285840_0_0/PEUGEOT-207-CC-1.6-16V-9664738680-9663193780-BOSCH-0261201505-1039S21830-RB-CMME-MEV174-CEM0-MEV17.4.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 207 CC 1",
+      "ENGINE": ".6 16V",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 201 505",
+      "NUMBER PARTS": "MEV17.4",
+      "OPTION AVAILABLE": "Plug & Play / Locked",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:56:43.745Z",
+    "model": "mistral:7b",
+    "durationMs": 10088,
+    "priceIncrement": 100
+  }
+}

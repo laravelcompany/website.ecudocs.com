@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement Toyota Yaris 1.4 D4D OEM Bosch 0281011125, Tested & Warranty Included",
+  "slug": "plug-play-ecu-replacement-toyota-yaris-14-d4d-oem-bosch-0281011125-tested",
+  "metaDescription": "Find your Plug & Play ECU Replacement for Toyota Yaris 1.4 D4D, OEM tested and backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Bosch ECU replacement for Toyota Yaris 1.4 D4D - Plug & Play, Tested, Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Yaris",
+    "1.4 D4D",
+    "Bosch",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Toyota Yaris 1.4 D4D is OEM tested and backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>ECU Replacement</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>TOYOTA YARIS</td></tr>\n        <tr><th>ENGINE:</th><td>1.4 D-4D</td></tr>\n        <tr><th>YEAR:</th><td>2003</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0281011125, 0 261 011 125</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>407918-0002, 4079180002</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Compatible with Toyota Yaris 1.4 D4D. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA YARIS 1.4 D4D 89661-0D170 1ND-TV, 896610D170, 407918-0002, 4079180002, BOSCH 0281011125, 0 261 011 125",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-YARIS-1.4-D4D-89661-0D170-1ND-TV%2C-896610D170%2C-407918-0002%2C-4079180002%2C-BOSCH-0281011125%2C-0-261-011-125-/13188",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9A90-3654C",
+    "sku": "9A90-3654C",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA YARIS 1.4 D4D 89661-0D170 1ND-TV, 896610D170, 407918-0002, 4079180002, BOSCH 0281011125, 0 261 011 125 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA YARIS",
+      "ENGINE": "1.4 D-4D",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0281011125, 0 261 011 125",
+      "NUMBER PARTS": "407918-0002, 4079180002",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programmin",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:40:23.455Z",
+    "model": "mistral:7b",
+    "durationMs": 9910,
+    "priceIncrement": 100
+  }
+}

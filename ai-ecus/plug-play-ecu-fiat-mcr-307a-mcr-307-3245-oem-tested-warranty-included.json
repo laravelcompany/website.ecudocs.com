@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat MCR 307 A, MCR-307-3245, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-mcr-307a-mcr-307-3245-oem-tested-warranty-included",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat MCR 307 A, MCR-307-3245. OEM tested, warranty included, and fast shipping.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat MCR 307 A, MCR-307-3245",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat MCR 307 A",
+    "MCR-307-3245",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Fiat MCR 307 A, MCR-307-3245 is tested and covered by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Shipping</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>FIAT</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>MCR 307 A</td></tr>\n    <tr><th>NUMBER PARTS</th><td>MCR-307-3245</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT MCR 307 A, MCR307A, MCR-307-3245, MCR 3073245",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-MCR-307-A%2C-MCR307A%2C-MCR-307-3245%2C-MCR-3073245/35736",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "F242-22913_20130528212134",
+    "sku": "F242-22913_20130528212134",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT MCR 307 A, MCR307A, MCR-307-3245, MCR 3073245</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT",
+      "NUMBER MANUFACTURER": "MCR 307 A",
+      "NUMBER PARTS": "MCR-307-3245",
+      "OPTION AVAILABLE": "Plug & Play / Locked",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:04:11.954Z",
+    "model": "mistral:7b",
+    "durationMs": 9960,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Peugeot 1.6 HDI - OEM Tested, Warranty Included (0281 032 456, 98 141 826 80)",
+  "slug": "plug-play-ecu-replacement-peugeot-1-6-hdi-oem-tested-warranty-included-0281-032-",
+  "metaDescription": "OEM tested ECU Engine Controller for Peugeot 1.6 HDI, Plug & Play, 6-month warranty, used in good condition.",
+  "price": "€485.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 1.6 HDI - OEM Tested, Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 1.6 HDI",
+    "Bosch 0281 032 456",
+    "98 141 826 80"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for Peugeot 1.6 HDI engines, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play compatibility</li><li>OEM tested and inspected</li><li>6-month warranty</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>PEUGEOT</td></tr>\n      <tr><th>ENGINE</th><td>1.6 HDI</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0281 032 456</td></tr>\n      <tr><th>NUMBER PARTS</th><td>98 141 826 80</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot 1.6 HDI engines only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 1.6 HDI BOSCH 0281 032 456, 0281032456, 98 141 826 80, 9814182680",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-1.6-HDI-BOSCH-0281-032-456%2C-0281032456%2C-98-141-826-80%2C-9814182680/105328",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "BA4E-6921D_20170529115336",
+    "sku": "BA4E-6921D_20170529115336",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 1.6 HDI BOSCH 0281 032 456, 0281032456, 98 141 826 80,  9814182680</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT",
+      "ENGINE": "1.6 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0281 032 456",
+      "NUMBER PARTS": "98 141 826 80",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:33:58.058Z",
+    "model": "mistral:7b",
+    "durationMs": 9453,
+    "priceIncrement": 100
+  }
+}

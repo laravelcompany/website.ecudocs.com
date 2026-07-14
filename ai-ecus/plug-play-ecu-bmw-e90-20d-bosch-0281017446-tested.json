@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E90 2.0D Bosch 0 281 017 446, DME 8 512 291 - OEM Tested & Warranty Included",
+  "slug": "plug-play-ecu-bmw-e90-20d-bosch-0281017446-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for BMW E90 2.0D Bosch 0 281 017 446, DME 8 512 291. OEM tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E90 2.0D",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E90",
+    "Bosch",
+    "2.0D"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for your BMW E90 2.0D, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>6-month Warranty</li><li>Plug & Play</li><li>Used in Good Condition</li><li>Locked / Unlocked Option Available</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>BMW E90</td></tr><tr><th>ENGINE</th><td>2.0 D</td></tr><tr><th>YEAR</th><td>2008</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 017 446</td></tr><tr><th>NUMBER PARTS</th><td>DME 8 512 291</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the specific vehicle configuration. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E90 2.0 D BOSCH 0 281 017 446, 0281017446, DME 8 512 291, 8512291",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E90-2.0-D-BOSCH-0-281-017-446%2C-0281017446%2C-DME-8-512-291%2C-8512291-/92857",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D894-368A5_20160609204807",
+    "sku": "D894-368A5_20160609204807",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E90 2.0 D BOSCH 0 281 017 446, 0281017446, DME 8 512 291, 8512291 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e47cce7932ead131f1642f5bcf3d0003_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_e9b9fe9a95205ff489b3b707f5055010_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E90",
+      "ENGINE": "2.0 D",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 017 446",
+      "NUMBER PARTS": "DME 8 512 291",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:41:43.294Z",
+    "model": "mistral:7b",
+    "durationMs": 9287,
+    "priceIncrement": 100
+  }
+}

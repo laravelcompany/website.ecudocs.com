@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Honda Civic 37820-RSA-G01 - Keihin",
+  "slug": "plug-play-ecu-honda-civic-37820rsa-g01-keihin",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Honda Civic 37820-RSA-G01 from Keihin. Enjoy fast dispatch and a 6-month warranty.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Honda Civic",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Civic 37820-RSA-G01",
+    "Keihin"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Honda Civic 37820-RSA-G01 is a reliable solution to keep your vehicle running smoothly. Rest assured that the part has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month warranty</li>\n        <li>Used but in good condition</li>\n        <li>Compatible with Honda Civic 37820-RSA-G01</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>HONDA CIVIC 37820-RSA-G01</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>37820-RSA-G01</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Honda Civic 37820-RSA-G01 only. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA CIVIC 37820-RSA-G01, 37820RSAG01",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-CIVIC-37820-RSA-G01%2C-37820RSAG01/107855",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Keihin",
+    "productCode": "9EDF-21069_20171211140421",
+    "sku": "9EDF-21069_20171211140421",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA CIVIC 37820-RSA-G01, 37820RSAG01</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA CIVIC",
+      "NUMBER MANUFACTURER": "37820-RSA-G01",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:21:59.177Z",
+    "model": "mistral:7b",
+    "durationMs": 10560,
+    "priceIncrement": 100
+  }
+}

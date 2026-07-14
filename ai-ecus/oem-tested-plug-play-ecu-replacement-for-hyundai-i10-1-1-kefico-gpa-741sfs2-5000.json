@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Hyundai I10 1.1 - Kefico GPA-741SFS2-5000",
+  "slug": "oem-tested-plug-play-ecu-replacement-for-hyundai-i10-1-1-kefico-gpa-741sfs2-5000",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Hyundai I10 1.1, backed by a 6-month warranty and fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Hyundai I10 1.1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Hyundai I10",
+    "Kefico",
+    "GPA-741SFS2-5000"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Hyundai I10 1.1 ensures seamless engine control and is ready for immediate installation.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast EU Dispatch</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>HYUNDAI I10</td></tr>\n            <tr><td>ENGINE</td><td>1.1</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>39100-02DD3</td></tr>\n            <tr><td>CODE</td><td>PU19</td></tr>\n            <tr><td>NUMBER PARTS</td><td>GPA-741SFS2-5000</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 6-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI I10 1.1 3910002DD3, 39100-02DD3 PU19, 3911002DD0, 39110-02DD0, 3012 9030933012A0, GPA741SFS25000, GPA-741SFS2-5000",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-I10-1.1-3910002DD3%2C-39100-02DD3-PU19%2C-3911002DD0%2C-39110-02DD0%2C-3012-9030933012A0%2C-GPA741SFS25000%2C-GPA-741SFS2-5000/26876",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Kefico",
+    "productCode": "F97A-1584F_20120725162226",
+    "sku": "F97A-1584F_20120725162226",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI I10 1.1 3910002DD3, 39100-02DD3 PU19, 3911002DD0, 39110-02DD0, 3012 9030933012A0, GPA741SFS25000, GPA-741SFS2-5000</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_259736_0_0/HYUNDAI-I10-1.1-3910002DD3%2C-39100-02DD3-PU19%2C-3911002DD0%2C-39110-02DD0%2C-3012-9030933012A0%2C-GPA741SFS25000%2C-GPA-741SFS2-5000.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_237424_0_0/HYUNDAI-I10-1.1-3910002DD3%2C-39100-02DD3-PU19%2C-3911002DD0%2C-39110-02DD0%2C-3012-9030933012A0%2C-GPA741SFS25000%2C-GPA-741SFS2-5000.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI I10",
+      "ENGINE": "1.1",
+      "NUMBER MANUFACTURER": "39100-02DD3",
+      "CODE": "PU19",
+      "NUMBER PARTS": "GPA-741SFS2-5000",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:41:23.483Z",
+    "model": "mistral:7b",
+    "durationMs": 10379,
+    "priceIncrement": 100
+  }
+}

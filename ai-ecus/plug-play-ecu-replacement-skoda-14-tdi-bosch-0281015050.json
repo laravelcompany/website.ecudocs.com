@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Skoda 1.4 TDI Bosch 0 281 015 050, OEM Tested",
+  "slug": "plug-play-ecu-replacement-skoda-14-tdi-bosch-0281015050",
+  "metaDescription": "OEM tested ECU Engine Controller Skoda 1.4 TDI Bosch 0 281 015 050, Plug & Play replacement for fast and easy installation. 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Skoda 1.4 TDI Bosch 0 281 015 050",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda 1.4 TDI Bosch",
+    "OEM part number"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Skoda 1.4 TDI Bosch 0 281 015 050 is a reliable replacement option, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design for easy installation</li><li>OEM tested for guaranteed fitment</li><li>6-month warranty for peace of mind</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr>\n      <th>PARTS</th>\n      <th>BRAND AND MODEL</th>\n      <th>ENGINE</th>\n      <th>YEAR</th>\n      <th>NUMBER MANUFACTURER</th>\n      <th>NUMBER PARTS</th>\n      <th>OPTION AVAILABLE</th>\n      <th>WARRANTY :</th>\n      <th>INSPECTION:</th>\n      <th>CONDITION</th>\n    </tr>\n    <tr>\n      <td>ECU ENGINE CONTROLLER</td>\n      <td>SKODA</td>\n      <td>1.4 TDI</td>\n      <td>2008</td>\n      <td>BOSCH 0 281 015 050</td>\n      <td>045 906 013 R</td>\n      <td>LOCKED / UNLOCKED</td>\n      <td>6-month warranty</td>\n      <td>Device thoroughly inspected and tested by a certified technician</td>\n      <td>USED IN GOOD CONDITION</td>\n    </tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Skoda 1.4 TDI Bosch engines only. Ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA 1.4 TDI BOSCH 0 281 015 050, 0281015050, 045 906 013 R, 045906013R",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-1.4-TDI-BOSCH-0-281-015-050%2C-0281015050%2C-045-906-013-R%2C-045906013R/71230",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "29C1-4188D_20150105091954",
+    "sku": "29C1-4188D_20150105091954",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA 1.4 TDI BOSCH 0 281 015 050, 0281015050, 045 906 013 R, 045906013R</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA",
+      "ENGINE": "1.4 TDI",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 015 050",
+      "NUMBER PARTS": "045 906 013 R",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:18:33.617Z",
+    "model": "mistral:7b",
+    "durationMs": 10766,
+    "priceIncrement": 100
+  }
+}

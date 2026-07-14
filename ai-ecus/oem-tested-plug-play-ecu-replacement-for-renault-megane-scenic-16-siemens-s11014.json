@@ -1,0 +1,54 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Renault Megane Scenic 1.6 - Siemens S110140100A, Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-replacement-for-renault-megane-scenic-16-siemens-s11014",
+  "metaDescription": "Buy this OEM tested, Plug & Play ECU Engine Controller for Renault Megane Scenic 1.6 with Siemens S110140100A. Covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Renault Megane Scenic 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Megane Scenic",
+    "Siemens S110140100A"
+  ],
+  "description": "<section class=\"overview\">This OEM tested, Plug & Play ECU Engine Controller for Renault Megane Scenic 1.6 with Siemens S110140100A is a reliable replacement part that ensures optimal vehicle performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Fast EU Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>RENAULT MEGANE SCENIC</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2003</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>SIEMENS S110140100 A</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>EMS 3132</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>8200272406</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Renault Megane Scenic 1.6. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MEGANE SCENIC 1.6 SIEMENS S110140100A, S110140100 A 8200272410 8200272406",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MEGANE-SCENIC-1.6-SIEMENS-S110140100A%2C-S110140100-A-8200272410-8200272406/32604",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "EF9D-872DF",
+    "sku": "EF9D-872DF",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MEGANE SCENIC 1.6 SIEMENS S110140100A, S110140100 A 8200272410 8200272406</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_1eb32a1c5ded3a2c87e3e46d3ca776b4_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_6bd60c63c06ba9f7c7ec97ff5e13e522_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MEGANE SCENIC",
+      "ENGINE": "1.6",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "SIEMENS S110140100 A",
+      "CODE": "EMS 3132",
+      "NUMBER PARTS": "8200272406",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLET",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:55:23.763Z",
+    "model": "mistral:7b",
+    "durationMs": 12113,
+    "priceIncrement": 100
+  }
+}

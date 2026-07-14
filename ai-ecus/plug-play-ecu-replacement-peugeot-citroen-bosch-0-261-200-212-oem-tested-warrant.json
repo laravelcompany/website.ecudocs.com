@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - PEUGEOT CITROEN Bosch 0 261 200 212, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-peugeot-citroen-bosch-0-261-200-212-oem-tested-warrant",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for PEUGEOT CITROEN Bosch 0 261 200 212. Plug & Play, 6-month warranty, fast dispatch within EU.",
+  "price": "€480.00",
+  "excerpt": "OEM tested ECU Engine Controller for PEUGEOT CITROEN Bosch 0 261 200 212",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "PEUGEOT CITROEN Bosch 0 261 200 212",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for PEUGEOT CITROEN is a reliable replacement, ensuring optimal vehicle performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used Original in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT CITROEN</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 200 212</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device Thoroughly Inspected and Tested by a Certified Technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT CITROEN BOSCH 0 261 200 212, 0261200212",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-CITROEN-BOSCH-0-261-200-212%2C-0261200212-/60990",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "DD8F-88231_20140723174226",
+    "sku": "DD8F-88231_20140723174226",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT CITROEN BOSCH 0 261 200 212, 0261200212 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_1693e79398e41ff6479b6e36e4992f3d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_53cadb295986fe96f6f56d374544ed99_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT CITROEN",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 200 212",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:30:46.340Z",
+    "model": "mistral:7b",
+    "durationMs": 10466,
+    "priceIncrement": 100
+  }
+}

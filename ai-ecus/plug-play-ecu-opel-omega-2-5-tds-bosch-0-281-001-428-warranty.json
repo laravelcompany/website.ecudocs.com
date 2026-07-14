@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Opel Omega 2.5 TDS - Bosch 0 281 001 428, Warranty Included",
+  "slug": "plug-play-ecu-opel-omega-2-5-tds-bosch-0-281-001-428-warranty",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Opel Omega 2.5 TDS by Bosch (0 281 001 428, 90 494 180). Covered by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Omega 2.5 TDS",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Omega",
+    "Bosch",
+    "2.5 TDS"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is a reliable replacement for your Opel Omega 2.5 TDS.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Quick Dispatch</li>\n        <li>Compatible with Opel Omega 2.5 TDS</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL OMEGA</td></tr>\n        <tr><th>ENGINE:</th><td>2.5 TDS</td></tr>\n        <tr><th>YEAR:</th><td>1996</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>90494180</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Omega 2.5 TDS only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL OMEGA 2.5 TDS, BOSCH 0 281 001 428, 0281001428, 90 494 180, 90494180",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-OMEGA-2.5-TDS%2C-BOSCH-0-281-001-428%2C-0281001428%2C-90-494-180%2C-90494180-/51842",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "462A-550FF_20140226110934",
+    "sku": "462A-550FF_20140226110934",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL OMEGA 2.5 TDS, BOSCH 0 281 001 428, 0281001428, 90 494 180, 90494180 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL OMEGA",
+      "ENGINE": "2.5 TDS",
+      "YEAR": "1996",
+      "NUMBER PARTS": "90494180",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:12:50.134Z",
+    "model": "mistral:7b",
+    "durationMs": 10865,
+    "priceIncrement": 100
+  }
+}

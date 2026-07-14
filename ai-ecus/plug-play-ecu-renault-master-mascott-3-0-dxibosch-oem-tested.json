@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Renault Master Mascott 3.0 DXI BOSCH 0 281 011 486, OEM Tested",
+  "slug": "plug-play-ecu-renault-master-mascott-3-0-dxibosch-oem-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for Renault Master Mascott 3.0 DXI BOSCH 0 281 011 486, offering a 6-month warranty and fast dispatch.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU for Renault Master Mascott 3.0 DXI BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Renault Master Mascott",
+    "BOSCH"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Renault Master Mascott 3.0 DXI BOSCH is a reliable replacement, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM Tested for guaranteed fitment</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within 24–48 hours</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>RENAULT MASTER MASCOTT</td></tr>\n        <tr><th>ENGINE:</th><td>3.0 DXI</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 011 486</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>8200362918</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure correct fitment before installation. Contact us for any compatibility concerns.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER RENAULT MASTER MASCOTT 3.0 DXI BOSCH 0 281 011 486, 0281011486, 8200391957, 8200362918",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-RENAULT-MASTER-MASCOTT-3.0-DXI-BOSCH-0-281-011-486%2C-0281011486%2C-8200391957%2C-8200362918-/84426",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B80D-206E4_20160115125454",
+    "sku": "B80D-206E4_20160115125454",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER RENAULT MASTER MASCOTT 3.0 DXI BOSCH 0 281 011 486, 0281011486, 8200391957, 8200362918 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "RENAULT MASTER MASCOTT",
+      "ENGINE": "3.0 DXI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 486",
+      "NUMBER PARTS": "8200362918",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T01:43:30.993Z",
+    "model": "mistral:7b",
+    "durationMs": 8845,
+    "priceIncrement": 100
+  }
+}

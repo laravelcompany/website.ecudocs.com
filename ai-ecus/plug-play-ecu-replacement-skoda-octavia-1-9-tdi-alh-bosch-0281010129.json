@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Skoda Octavia 1.9 TDI ALH Bosch 0281010129, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-skoda-octavia-1-9-tdi-alh-bosch-0281010129",
+  "metaDescription": "Buy this Plug & Play ECU Replacement for Skoda Octavia 1.9 TDI ALH (Bosch 0281010129) with OEM Tested and Warranty Included.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Skoda Octavia 1.9 TDI ALH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Skoda Octavia",
+    "1.9 TDI ALH",
+    "Bosch 0281010129"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for Skoda Octavia 1.9 TDI ALH (Bosch 0281010129) is thoroughly inspected, tested by a certified technician and comes with a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SKODA OCTAVIA</td></tr>\n        <tr><th>ENGINE:</th><td>1.9 TDI ALH</td></tr>\n        <tr><th>YEAR:</th><td>2002-03</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 010 129</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>28SA4931</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Skoda Octavia 1.9 TDI ALH. Always ensure proper installation and programming by a professional technician.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA OCTAVIA 1.9 TDI ALH 038906012H, 038 906 012 H, BOSCH 0 281 010 129, 0281010129, DIESEL EDC15VM+ 3332, 28SA4931",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-OCTAVIA-1.9-TDI-ALH-038906012H%2C-038-906-012-H%2C-BOSCH-0-281-010-129%2C-0281010129%2C-DIESEL-EDC15VM-3332%2C-28SA4931-/16195",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C3F2-8538B",
+    "sku": "C3F2-8538B",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA OCTAVIA 1.9 TDI ALH 038906012H, 038 906 012 H, BOSCH 0 281 010 129, 0281010129, DIESEL EDC15VM+ 3332, 28SA4931 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA OCTAVIA",
+      "ENGINE": "1.9 TDI ALH",
+      "YEAR": "2002-03",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 129",
+      "NUMBER PARTS": "28SA4931",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:37:08.746Z",
+    "model": "mistral:7b",
+    "durationMs": 10087,
+    "priceIncrement": 100
+  }
+}

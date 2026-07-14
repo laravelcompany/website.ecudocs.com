@@ -1,0 +1,55 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Opel Chevrolet Holden Vauxhall Combo 1.3 CDTI - ZF MJD6O3C1, Warranty Included",
+  "slug": "oem-tested-plug-play-ecu-opel-chevrolet-holden-vauxhall-combo-1-3-cdti-zf-mjd6o3",
+  "metaDescription": "Buy OEM tested and 6-month warrantied Plug & Play ECU replacement for Opel Chevrolet Holden Vauxhall Combo 1.3 CDTI Z13DT (2004-2007). Fast dispatch, EU shipping.",
+  "price": "€430.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Opel Chevrolet Holden Vauxhall Combo 1.3 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Chevrolet Holden Vauxhall Combo",
+    "1.3 CDTI Z13DT",
+    "ZF MJD6O3C1"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Opel Chevrolet Holden Vauxhall Combo 1.3 CDTI Z13DT (2004-2007) is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL CHEVROLET HOLDEN VAUXHALL COMBO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.3 CDTI Z13DT</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2004-2007</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MJD 6O2.C1</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>ZF</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>71600.133.03</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU-wide.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel Chevrolet Holden Vauxhall Combo 1.3 CDTI Z13DT (2004-2007). Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL COMBO 1.3 CDTI Z13DT 55194015 ZF MJD6O3C1, MJD6O3.C1, MJD603.C1, MJD 6O2.C1",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-COMBO-1.3-CDTI-Z13DT-55194015-ZF-MJD6O3C1%2C-MJD6O3.C1%2C-MJD603.C1%2C-MJD-6O2.C1/17112",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "6107-87735",
+    "sku": "6107-87735",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL COMBO 1.3 CDTI Z13DT 55194015 ZF MJD6O3C1, MJD6O3.C1, MJD603.C1, MJD 6O2.C1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_03f63497aa2965243f6acd70271d2035_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_d2aa1d15cee76413788ab9c324bdfbe4_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL COMBO",
+      "ENGINE": "1.3 CDTI Z13DT",
+      "YEAR": "2004-2007",
+      "NUMBER MANUFACTURER": "MJD 6O2.C1",
+      "CODE": "ZF",
+      "NUMBER PARTS": "71600.133.03",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:36:59.422Z",
+    "model": "mistral:7b",
+    "durationMs": 13529,
+    "priceIncrement": 100
+  }
+}

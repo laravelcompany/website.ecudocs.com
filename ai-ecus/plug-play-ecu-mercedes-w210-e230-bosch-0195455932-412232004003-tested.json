@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes W210 E230 Bosch 0195455932, 412.232/004/003, A0195455932 - 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w210-e230-bosch-0195455932-412232004003-tested",
+  "metaDescription": "Buy this OEM tested, Plug & Play ECU Engine Controller for Mercedes W210 E230 by Bosch. Comes with a 6-month warranty and fast shipping.",
+  "price": "€250.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Mercedes W210 E230",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W210 E230",
+    "Bosch ECU"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Mercedes W210 E230 by Bosch is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Condition: Used</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES W210</td></tr>\n        <tr><th>ENGINE</th><td>E230</td></tr>\n        <tr><th>YEAR</th><td>1995-96</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>412.232/004/003, 412232004003</td></tr>\n        <tr><th>NUMBER PARTS</th><td>A0195455932</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">This product ships within 24–48 hours with EU shipping and a 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Compatible with Mercedes W210 E230.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W210 E230 0195455932, 019 545 59 32, A0195455932, 412.232/004/003, 412232004003",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W210-E230-0195455932%2C-019-545-59-32%2C-A0195455932%2C-412.232004003%2C-412232004003/26243",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "B341-41112_20120624103522",
+    "sku": "B341-41112_20120624103522",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W210 E230 0195455932, 019 545 59 32, A0195455932, 412.232/004/003, 412232004003</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W210",
+      "ENGINE": "E230",
+      "YEAR": "1995-96",
+      "NUMBER MANUFACTURER": "412.232/004/003, 412232004003",
+      "NUMBER PARTS": "A0195455932",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:29:10.107Z",
+    "model": "mistral:7b",
+    "durationMs": 10414,
+    "priceIncrement": 100
+  }
+}

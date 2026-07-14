@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for SEAT Leon 2.0 TFSI - BOSCH 0 261 S02 113, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-seat-leon-2-0-tfsi-bosch-0-261-s02-113-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for your SEAT Leon 2.0 TFSI, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for Seat Leon 2.0 TFSI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT Leon 2.0 TFSI",
+    "BOSCH 0 261 S02 113"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your SEAT Leon 2.0 TFSI, ensuring optimal engine performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>SEAT LEON</td></tr>\n<tr><td>ENGINE</td><td>2.0 TFSI</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 S02 113</td></tr>\n<tr><td>NUMBER PARTS</td><td>MED9.1</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">This ECU is designed for SEAT Leon 2.0 TFSI models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT LEON 2.0 TFSI BOSCH 0 261 S02 113, 0261S02113, 1P0 907 115, 1P0907115, MED9.1",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-LEON-2.0-TFSI-BOSCH-0-261-S02-113%2C-0261S02113%2C-1P0-907-115%2C-1P0907115%2C-MED9.1/107396",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FCDD-7114F_20171113164538",
+    "sku": "FCDD-7114F_20171113164538",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT LEON 2.0 TFSI BOSCH 0 261 S02 113, 0261S02113, 1P0 907 115, 1P0907115, MED9.1</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT LEON",
+      "ENGINE": "2.0 TFSI",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S02 113",
+      "NUMBER PARTS": "MED9.1",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:09:09.802Z",
+    "model": "mistral:7b",
+    "durationMs": 9136,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested NISSAN PRIMERA 2.0 MEC19-500, B1, E0036 - Warranty Included",
+  "slug": "plug-play-ecu-replacement-nissan-primerab1e0036-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for NISSAN PRIMERA 2.0 MEC19-500, B1, E0036. OEM tested and backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for NISSAN PRIMERA 2.0 MEC19-500, B1, E0036",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "NISSAN PRIMERA",
+    "MEC19-500",
+    "B1",
+    "E0036"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your NISSAN PRIMERA 2.0 MEC19-500, B1, E0036. Trust our expertise and enjoy peace of mind with the included 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for reliability</li>\n        <li>Backed by a 6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Compatible with your NISSAN PRIMERA 2.0 MEC19-500, B1, E0036</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>NISSAN PRIMERA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2000-2001</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>MEC19-500</td>\n            </tr>\n            <tr>\n                <td>CODE</td>\n                <td>B1</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>E0036</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is compatible with your NISSAN PRIMERA 2.0 MEC19-500, B1, E0036. Please ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 MEC19-500, MEC19500, B1, E0036",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMERA-2.0-MEC19-500%2C-MEC19500%2C-B1%2C-E0036/37652",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "E657-60270_20130716150337",
+    "sku": "E657-60270_20130716150337",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMERA 2.0 MEC19-500, MEC19500, B1, E0036</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMERA",
+      "ENGINE": "2.0",
+      "YEAR": "2000-2001",
+      "NUMBER MANUFACTURER": "MEC19-500",
+      "CODE": "B1",
+      "NUMBER PARTS": "E0036",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:34:43.792Z",
+    "model": "mistral:7b",
+    "durationMs": 13365,
+    "priceIncrement": 100
+  }
+}

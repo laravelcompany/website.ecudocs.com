@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - CITROEN PEUGEOT 1.6 BOSCH 0 261 S05 963, OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-citroen-peugeot-16-bosch-0261s05963-oem-tested",
+  "metaDescription": "Buy Plug & Play ECU Replacement for CITROEN PEUGEOT 1.6 BOSCH 0 261 S05 963, OEM tested and covered by a 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "Plug & Play ECU Replacement for CITROEN PEUGEOT 1.6 BOSCH 0 261 S05 963",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "CITROEN PEUGEOT",
+    "BOSCH 0 261 S05 963"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for CITROEN PEUGEOT 1.6 BOSCH 0 261 S05 963 is tested and covered by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>Warranty Included</li><li>Fast Dispatch</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>CITROEN PEUGEOT</td><td>1.6</td><td>2010</td><td>BOSCH 0 261 S05 963</td><td>9666320880</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.6 BOSCH 0 261 S05 963, 0261S05963, 96 670 544 80, 9667054480, 9666320880, MEV17.4",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-1.6-BOSCH-0-261-S05-963%2C-0261S05963%2C-96-670-544-80%2C-9667054480%2C-9666320880%2C-MEV17.4/39509",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "EA98-202D9_20130811150219",
+    "sku": "EA98-202D9_20130811150219",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 1.6 BOSCH 0 261 S05 963, 0261S05963, 96 670 544 80, 9667054480, 9666320880, MEV17.4</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "ENGINE": "1.6",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S05 963",
+      "NUMBER PARTS": "9666320880",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T11:57:29.940Z",
+    "model": "mistral:7b",
+    "durationMs": 10189,
+    "priceIncrement": 100
+  }
+}

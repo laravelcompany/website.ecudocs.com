@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Ford Fiesta C-MAX Siemens 5WS40166E-T, 9AHC - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-fiesta-c-max-siemens-5ws40166et-9ahc",
+  "metaDescription": "Expertly tested and OEM Siemens ECU Engine Controller for Ford Fiesta C-MAX. Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€330.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Ford Fiesta C-MAX",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta C-MAX",
+    "Siemens 5WS40166E-T",
+    "9AHC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Ford Fiesta C-MAX by Siemens is a reliable replacement part.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Part</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Tested</li>\n        <li>Fast Dispatch in EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD FIESTA C-MAX</td></tr>\n        <tr><th>YEAR</th><td>2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>SIEMENS 5WS40166E-T</td></tr>\n        <tr><th>NUMBER PARTS</th><td>9AHC</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>COMPLETE</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA C-MAX SIEMENS 5WS40166E-T, 5WS40166ET FoMoCo 4M51-12A650-ZC, 4M5112A650ZC, 9AHC",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-C-MAX-SIEMENS-5WS40166E-T%2C-5WS40166ET-FoMoCo-4M51-12A650-ZC%2C-4M5112A650ZC%2C-9AHC-/77803",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "E381-56177_20150807145111",
+    "sku": "E381-56177_20150807145111",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA C-MAX SIEMENS 5WS40166E-T, 5WS40166ET FoMoCo 4M51-12A650-ZC, 4M5112A650ZC, 9AHC </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_936c5c6111c2d6d8eca9df4d1f782257_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_b57b348264b07e67a59e6d0406db347b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA C-MAX",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40166E-T",
+      "NUMBER PARTS": "9AHC",
+      "OPTION AVAILABLE": "COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:34:59.454Z",
+    "model": "mistral:7b",
+    "durationMs": 10069,
+    "priceIncrement": 100
+  }
+}

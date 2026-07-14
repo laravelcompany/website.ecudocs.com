@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Omega 2.4 (BOSCH 0 261 200 383, GM 90 351 652 GJ) - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-omega-24-bosch-0261200383-gm-90351652gj-tested",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Opel Omega 2.4 (BOSCH 0 261 200 383, GM 90 351 652 GJ). Plug & Play, 6-month warranty, fast dispatch in EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Omega 2.4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Omega",
+    "BOSCH 0 261 200 383",
+    "GM 90 351 652 GJ"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for Opel Omega 2.4 (BOSCH 0 261 200 383, GM 90 351 652 GJ).</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch in EU</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>OPEL OMEGA</td></tr>\n<tr><th>ENGINE</th><td>2.4</td></tr>\n<tr><th>YEAR</th><td>1989-1994</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 200 383</td></tr>\n<tr><th>NUMBER PARTS</th><td>90351652GJ</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on the vehicle's condition and specific fault codes. Please consult with a professional technician before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL OMEGA BOSCH 0 261 200 383, 0261200383, GM 90 351 652 GJ, 90351652GJ",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-OMEGA-BOSCH-0-261-200-383%2C-0261200383%2C-GM-90-351-652-GJ%2C-90351652GJ-/65913",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "FDA1-85665_20140915160615",
+    "sku": "FDA1-85665_20140915160615",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL OMEGA BOSCH 0 261 200 383, 0261200383, GM 90 351 652 GJ, 90351652GJ </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL OMEGA",
+      "ENGINE": "2.4",
+      "YEAR": "1989-1994",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 200 383",
+      "NUMBER PARTS": "90351652GJ",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:15:21.695Z",
+    "model": "mistral:7b",
+    "durationMs": 12009,
+    "priceIncrement": 100
+  }
+}

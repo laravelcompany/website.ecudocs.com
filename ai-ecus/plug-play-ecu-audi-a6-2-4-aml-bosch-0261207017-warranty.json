@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement Audi A6 2.4 AML Bosch 0261207017 BENZIN ME7.1 0001 - Warranty Included",
+  "slug": "plug-play-ecu-audi-a6-2-4-aml-bosch-0261207017-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Replacement for Audi A6 2.4 AML Bosch 0261207017 BENZIN ME7.1 0001, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€135.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Audi A6 2.4 AML Bosch 0261207017 BENZIN ME7.1 0001",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "2.4 AML",
+    "Bosch",
+    "0261207017"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for the Audi A6 2.4 AML is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A6</td></tr>\n        <tr><th>ENGINE</th><td>2.4 AML</td></tr>\n        <tr><th>YEAR</th><td>2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 207 017</td></tr>\n        <tr><th>NUMBER PARTS</th><td>BENZIN ME7.1 0001</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 6-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Audi A6 2.4 AML only. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 2.4 AML 3B0907552AN, 3B0 907 552 AN, BOSCH 0261207017, 0 261 207 017 BENZIN ME7.1 0001",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-2.4-AML-3B0907552AN%2C-3B0-907-552-AN%2C-BOSCH-0261207017%2C-0-261-207-017-BENZIN-ME7.1-0001-/14179",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5DDD-2456E",
+    "sku": "5DDD-2456E",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 2.4 AML 3B0907552AN, 3B0 907 552 AN, BOSCH 0261207017, 0 261 207 017 BENZIN ME7.1 0001 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "2.4 AML",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 207 017",
+      "NUMBER PARTS": "BENZIN ME7.1 0001",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:30:41.380Z",
+    "model": "mistral:7b",
+    "durationMs": 10551,
+    "priceIncrement": 100
+  }
+}

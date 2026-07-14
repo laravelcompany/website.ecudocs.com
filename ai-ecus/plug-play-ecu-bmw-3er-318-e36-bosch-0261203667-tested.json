@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW 3ER 318 E36 OEM Bosch 0 261 203 667, 1 432 763 - Tested & Warranty Included",
+  "slug": "plug-play-ecu-bmw-3er-318-e36-bosch-0261203667-tested",
+  "metaDescription": "OEM tested ECU replacement for BMW 3ER 318 E36 with Plug & Play feature, backed by a 6-month warranty. Order now for fast dispatch.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW 3ER 318 E36",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch",
+    "BMW 3ER 318 E36"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for BMW 3ER 318 E36 is a reliable solution, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\">\n<ul>\n<li>OEM part</li>\n<li>Plug & Play feature</li>\n<li>Warranty included</li>\n<li>Fast dispatch</li>\n<li>Reliable solution</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>BMW 3ER 318 E36</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 261 203 667</td></tr>\n<tr><td>NUMBER PARTS</td><td>1 432 763</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW 3ER 318 E36 BOSCH 0 261 203 667, 0261203667, 1 432 763, 1432763",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-3ER-318-E36-BOSCH-0-261-203-667%2C-0261203667%2C-1-432-763%2C-1432763/106423",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9E98-7115F_20170830141916",
+    "sku": "9E98-7115F_20170830141916",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW 3ER 318 E36 BOSCH 0 261 203 667, 0261203667, 1 432 763, 1432763</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW 3ER 318 E36",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 667",
+      "NUMBER PARTS": "1 432 763",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:13:11.832Z",
+    "model": "mistral:7b",
+    "durationMs": 10716,
+    "priceIncrement": 100
+  }
+}

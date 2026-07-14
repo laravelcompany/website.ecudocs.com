@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Palio 1.2 IAW 18F.B8, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-palio-12-iaw-18fb8-oem-tested-warranty-included",
+  "metaDescription": "Buy a tested Plug & Play ECU Engine Controller for Fiat Palio IAW 18F.B8, backed by a 6-month warranty and fast dispatch.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Palio 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Palio",
+    "Magneti Marelli",
+    "IAW 18FB8"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified ECU Engine Controller is a reliable replacement for your Fiat Palio 1.2.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Fast Dispatch (EU)</li></ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FIAT PALIO</td></tr>\n<tr><th>ENGINE</th><td>1.2</td></tr>\n<tr><th>NUMBER PARTS</th><td>61600.530.01</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Palio IAW 18F.B8 only.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PALIO IAW 18F.B8, IAW18FB8, 61600.530.01, 46785504",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PALIO-IAW-18F.B8%2C-IAW18FB8%2C-61600.530.01%2C-46785504/59337",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "6C66-98992_20140624123105",
+    "sku": "6C66-98992_20140624123105",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PALIO IAW 18F.B8, IAW18FB8, 61600.530.01, 46785504</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PALIO",
+      "ENGINE": "1.2",
+      "NUMBER PARTS": "61600.530.01",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:08:14.835Z",
+    "model": "mistral:7b",
+    "durationMs": 9130,
+    "priceIncrement": 100
+  }
+}

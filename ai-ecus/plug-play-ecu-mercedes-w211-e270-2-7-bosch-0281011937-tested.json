@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes W211 E270 2.7 CDI Bosch 0281011937, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-mercedes-w211-e270-2-7-bosch-0281011937-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Mercedes W211 E270 2.7 CDI (Bosch 0281011937) - OEM tested, 6-month warranty, fast dispatch.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W211 E270 2.7 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W211",
+    "Bosch 0281011937"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for Mercedes W211 E270 2.7 CDI (Bosch 0281011937). It's thoroughly inspected and tested by certified technicians, ensuring optimal performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Used in Good Condition</li>\n<li>Ready for Programming</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MERCEDES W211 E270</td></tr>\n<tr><td>ENGINE</td><td>2.7 CDI</td></tr>\n<tr><td>YEAR</td><td>2005</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 011 937</td></tr>\n<tr><td>NUMBER PARTS</td><td>ED0064 CR3.14</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W211 E270 2.7 CDI. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W211 E270 2.7 CDI BOSCH 0281011937, 0 281 011 937, A6471500079, A 647 150 00 79, 6471500079, ED0064 CR3.14, 1039S05776",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W211-E270-2.7-CDI-BOSCH-0281011937%2C-0-281-011-937%2C-A6471500079%2C-A-647-150-00-79%2C-6471500079%2C-ED0064-CR3.14%2C-1039S05776/24519",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "4373-377FB_20120531224344",
+    "sku": "4373-377FB_20120531224344",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W211 E270 2.7 CDI BOSCH 0281011937, 0 281 011 937, A6471500079, A 647 150 00 79, 6471500079, ED0064 CR3.14, 1039S05776</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W211 E270",
+      "ENGINE": "2.7 CDI",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 937",
+      "NUMBER PARTS": "ED0064 CR3.14",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:35:11.838Z",
+    "model": "mistral:7b",
+    "durationMs": 10979,
+    "priceIncrement": 100
+  }
+}

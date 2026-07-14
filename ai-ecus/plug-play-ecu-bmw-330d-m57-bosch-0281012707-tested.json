@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for BMW E90 330D M57 - Bosch 0281012707, Warranty Included",
+  "slug": "plug-play-ecu-bmw-330d-m57-bosch-0281012707-tested",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for BMW E90 330D M57 by Bosch (0281012707). Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for BMW E90 330D M57",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW E90 330D M57",
+    "Bosch 0281012707"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for BMW E90 330D M57 by Bosch (0281012707) is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Locked and Ready for Programming</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>BMW E90 330</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>3.0 DIESEL</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 012 707</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>7799856</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery and a 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with BMW E90 330D M57. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E90 330 3.0 DIESEL BOSCH 0281012707, 0 281 012 707, DDE 7799856, DDE7799856, 7 799 856",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E90-330-3.0-DIESEL-BOSCH-0281012707%2C-0-281-012-707%2C-DDE-7799856%2C-DDE7799856%2C-7-799-856/30237",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8559-855F2_20120930132130",
+    "sku": "8559-855F2_20120930132130",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E90 330 3.0 DIESEL BOSCH 0281012707, 0 281 012 707, DDE 7799856, DDE7799856, 7 799 856</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW E90 330",
+      "ENGINE": "3.0 DIESEL",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 707",
+      "NUMBER PARTS": "7799856",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:42:46.558Z",
+    "model": "mistral:7b",
+    "durationMs": 12114,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement Mercedes W211 E320 3.2 CDI BOSCH 0 281 011 717 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-mercedes-w211-e320-32-cdi-bosch-0281011717",
+  "metaDescription": "OEM tested and Plug & Play ECU replacement for Mercedes W211 E320 3.2 CDI BOSCH 0 281 011 717, backed by a 6-month warranty.",
+  "price": "€550.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes W211 E320 3.2 CDI BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W211 E320",
+    "BOSCH 0 281 011 717"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and Plug & Play ECU replacement for Mercedes W211 E320 3.2 CDI BOSCH 0 281 011 717 ensures seamless engine control.</section>\n<section class=\"features\">\n    <ul>\n      <li>OEM tested and Plug & Play</li>\n      <li>6-month warranty</li>\n      <li>Used in good condition</li>\n      <li>Locked or unlocked options available</li>\n      <li>Fast dispatch within EU</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>MERCEDES W211 E320</td></tr>\n      <tr><th>ENGINE</th><td>3.2 CDI</td></tr>\n      <tr><th>YEAR</th><td>2004</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 717</td></tr>\n      <tr><th>NUMBER PARTS</th><td>ED0084 CR3.43</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Ships within 24–48 hours, EU-wide with 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W211 E320 3.2 CDI BOSCH. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W211 E320 3.2 CDI BOSCH 0 281 011 717, 0281011717, A 648 150 05 79, A6481500579, ED0084 CR3.43",
+    "price": "€500.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W211-E320-3.2-CDI-BOSCH-0-281-011-717%2C-0281011717%2C-A-648-150-05-79%2C-A6481500579%2C-ED0084-CR3.43/24516",
+    "priceCurrency": "EUR",
+    "netPrice": "€406.51",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2D16-29493_20120531223331",
+    "sku": "2D16-29493_20120531223331",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W211 E320 3.2 CDI BOSCH 0 281 011 717, 0281011717, A 648 150 05 79, A6481500579, ED0084 CR3.43</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W211 E320",
+      "ENGINE": "3.2 CDI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 717",
+      "NUMBER PARTS": "ED0084 CR3.43",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:36:39.903Z",
+    "model": "mistral:7b",
+    "durationMs": 10775,
+    "priceIncrement": 100
+  }
+}

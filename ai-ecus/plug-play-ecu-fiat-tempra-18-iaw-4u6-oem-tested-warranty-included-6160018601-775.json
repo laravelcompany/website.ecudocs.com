@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT TEMPRA 1.8 IAW 4U6, OEM Tested, Warranty Included - 6160018601, 7756714",
+  "slug": "plug-play-ecu-fiat-tempra-18-iaw-4u6-oem-tested-warranty-included-6160018601-775",
+  "metaDescription": "OEM tested ECU Engine Controller for FIAT TEMPRA 1.8, IAW 4U6, IAW4U6, 6160018601, 7756714. Plug & Play replacement with 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested ECU Engine Controller for FIAT TEMPRA 1.8",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT TEMPRA",
+    "IAW 4U6",
+    "7756714"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a direct replacement for your FIAT TEMPRA 1.8, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\"><ul><li>Plug & Play design</li><li>OEM Tested</li><li>6-month warranty</li><li>Direct replacement</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>FIAT TEMPRA</td></tr><tr><th>ENGINE</th><td>1.8</td></tr><tr><th>YEAR</th><td>1990-1997</td></tr><tr><th>NUMBER MANUFACTURER</th><td>IAW 4U6</td></tr><tr><th>NUMBER PARTS</th><td>7756714</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT TEMPRA 1.8, IAW 4U6, IAW4U6, 6160018601, 7756714",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-TEMPRA-1.8%2C-IAW-4U6%2C-IAW4U6%2C-6160018601%2C-7756714-/46868",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "2385-37844",
+    "sku": "2385-37844",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT TEMPRA 1.8, IAW 4U6, IAW4U6, 6160018601, 7756714 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_231f1a5f5c29f224917aed0c55608712_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_fb967da5165ec57c03ac62b8264cc0a0_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT TEMPRA",
+      "ENGINE": "1.8",
+      "YEAR": "1990-1997",
+      "NUMBER MANUFACTURER": "IAW 4U6",
+      "NUMBER PARTS": "7756714",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:36:15.802Z",
+    "model": "mistral:7b",
+    "durationMs": 9924,
+    "priceIncrement": 100
+  }
+}

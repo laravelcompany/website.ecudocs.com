@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement KIA/HYUNDAI Bosch 0 281 018 051, 39120-2A205 - 6-month Warranty",
+  "slug": "plug-play-ecu-kia-hyundai-bosch-oem-tested-warranty",
+  "metaDescription": "Expertly tested and OEM certified Plug & Play ECU replacement for KIA/HYUNDAI with a 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "OEM Tested, Plug & Play ECU Replacement for KIA/HYUNDAI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "KIA HYUNDAI",
+    "Bosch",
+    "39120-2A205"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for KIA/HYUNDAI is a reliable solution, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used but in good condition</li><li>Compatible with KIA/HYUNDAI models</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>INSPECTION:</th><th>WARRANTY :</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>KIA HYUNDAI</td><td>BOSCH 0 281 018 051</td><td>39120-2A205</td><td>Plug & Play / Locked / Ready for programming</td><td>Device thoroughly inspected and tested by a certified technician</td><td>6-month warranty</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with KIA/HYUNDAI models. Fitment caution may apply, please consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER KIA HYUNDAI BOSCH 0 281 018 051, 0281018051, 39120-2A205, 391202A205",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-KIA-HYUNDAI-BOSCH-0-281-018-051%2C-0281018051%2C-39120-2A205%2C-391202A205/129326",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C380-648C7_20220307144535",
+    "sku": "C380-648C7_20220307144535",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER KIA HYUNDAI BOSCH 0 281 018 051, 0281018051, 39120-2A205, 391202A205</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "KIA HYUNDAI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 018 051",
+      "NUMBER PARTS": "39120-2A205",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:22:31.864Z",
+    "model": "mistral:7b",
+    "durationMs": 9279,
+    "priceIncrement": 100
+  }
+}

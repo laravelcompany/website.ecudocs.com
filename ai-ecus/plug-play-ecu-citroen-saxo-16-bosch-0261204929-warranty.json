@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Citroen Saxo 1.6, Bosch 0 261 204 929 - ECU Replacement with Warranty",
+  "slug": "plug-play-ecu-citroen-saxo-16-bosch-0261204929-warranty",
+  "metaDescription": "Expertly tested ECU Engine Controller for Citroen Saxo 1.6 by Bosch (0 261 204 929, 96 331 846 80). Plug & Play replacement with a 6-month warranty.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested ECU Engine Controller for Citroen Saxo 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Saxo",
+    "Bosch 0 261 204 929"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Engine Controller for Citroen Saxo 1.6 by Bosch (0 261 204 929, 96 331 846 80) offers a reliable solution to your engine management system issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play Installation</li>\n        <li>6-month Warranty</li>\n        <li>Used Original in Good Condition</li>\n        <li>Locked / Unlocked Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>CITROEN SAXO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 204 929</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>96 331 846 80</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen Saxo 1.6 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN SAXO 1.6, BOSCH 0 261 204 929, 0261204929, 96 331 846 80, 9633184680",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-SAXO-1.6%2C-BOSCH-0-261-204-929%2C-0261204929%2C-96-331-846-80%2C-9633184680-/47561",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "CC42-91530",
+    "sku": "CC42-91530",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN SAXO 1.6, BOSCH 0 261 204 929, 0261204929, 96 331 846 80, 9633184680 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN SAXO",
+      "ENGINE": "1.6",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 204 929",
+      "NUMBER PARTS": "96 331 846 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:35:34.360Z",
+    "model": "mistral:7b",
+    "durationMs": 11582,
+    "priceIncrement": 100
+  }
+}

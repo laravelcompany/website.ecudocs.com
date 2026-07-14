@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - BMW E81 E87 1.6 BOSCH 0261209036, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-bmw-e81-e87-16-bosch-0261209036",
+  "metaDescription": "Expertly tested ECU Engine Controller for BMW E81 E87 1.6, offering Plug & Play functionality and backed by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW E81 E87 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BOSCH 0261209036",
+    "BMW E81 E87",
+    "1.6 Engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is specifically designed for BMW E81 E87 1.6, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play functionality</li>\n        <li>OEM tested for reliability</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Locked and ready for programming</li>\n    </ul>\n  </section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>BMW 116 E87</td></tr>\n        <tr><th>ENGINE:</th><td>1.6</td></tr>\n        <tr><th>YEAR:</th><td>2005</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 261 209 036</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>7550688</td></tr>\n    </table>\n  </section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with BMW E81 E87 1.6. Fitment caution: Locked and ready for programming.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW E81 E87 116 1.6 BOSCH 0261209036, 0 261 209 036, DME 7 550 688 -01, 7550688, 755068801, DME7550688",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-E81-E87-116-1.6-BOSCH-0261209036%2C-0-261-209-036%2C-DME-7-550-688-01%2C-7550688%2C-755068801%2C-DME7550688-/13412",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "E735-92455",
+    "sku": "E735-92455",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW E81 E87 116 1.6 BOSCH 0261209036, 0 261 209 036, DME 7 550 688 -01, 7550688, 755068801, DME7550688 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW 116 E87",
+      "ENGINE": "1.6",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 209 036",
+      "NUMBER PARTS": "7550688",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:39:43.356Z",
+    "model": "mistral:7b",
+    "durationMs": 9620,
+    "priceIncrement": 100
+  }
+}

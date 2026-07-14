@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for Audi A5 S5 4.2 TFSI - OEM Tested, Warranty Included (8T0907560M, 8T0 907 560 M, 8T0907560 BOSCH 0261S02623)",
+  "slug": "plug-play-ecu-replacement-audi-a5-s5-4-2-tfsi-oem-tested-warranty-included-8t090",
+  "metaDescription": "OEM tested ECU replacement for Audi A5 S5 4.2 TFSI. Plug & Play, warranty included, and fast shipping. Order now!",
+  "price": "€700.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A5 S5 4.2 TFSI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A5 S5",
+    "4.2 TFSI",
+    "BOSCH"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for your Audi A5 S5 4.2 TFSI ensures optimal engine performance and reliability.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Fast Shipping</li>\n        <li>Expertly Inspected and Tested</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A5 S5</td></tr>\n        <tr><th>ENGINE</th><td>4.2 TFSI</td></tr>\n        <tr><th>YEAR</th><td>2010</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 S02 623</td></tr>\n        <tr><th>NUMBER PARTS</th><td>8T0 907 560</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Audi A5 S5 4.2 TFSI. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A5 S5 4.2 TFSI 8T0907560M, 8T0 907 560 M, 8T0907560 BOSCH 0261S02623, 0261S02623",
+    "price": "€600.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A5-S5-4.2-TFSI-8T0907560M%2C-8T0-907-560-M%2C-8T0907560-BOSCH-0261S02623%2C-0261S02623/27044",
+    "priceCurrency": "EUR",
+    "netPrice": "€487.81",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D2FF-86399_20120727221853",
+    "sku": "D2FF-86399_20120727221853",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A5 S5 4.2 TFSI 8T0907560M, 8T0 907 560 M, 8T0907560 BOSCH 0261S02623, 0261S02623</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A5 S5",
+      "ENGINE": "4.2 TFSI",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S02 623",
+      "NUMBER PARTS": "8T0 907 560",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:26:45.981Z",
+    "model": "mistral:7b",
+    "durationMs": 12327,
+    "priceIncrement": 100
+  }
+}

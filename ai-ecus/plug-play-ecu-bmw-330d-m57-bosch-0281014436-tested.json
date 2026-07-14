@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement for BMW 3.0 Diesel - Bosch 0 281 014 436, DDE 7 806 987 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-bmw-330d-m57-bosch-0281014436-tested",
+  "metaDescription": "OEM tested ECU Engine Controller for BMW 3.0 Diesel, Bosch 0 281 014 436, DDE 7 806 987. Plug & Play replacement with 6-month warranty.",
+  "price": "€330.00",
+  "excerpt": "OEM tested ECU Engine Controller for BMW 3.0 Diesel",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0 281 014 436",
+    "DDE 7 806 987",
+    "BMW 3.0 Diesel"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for BMW 3.0 Diesel is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>BMW</td></tr><tr><th>ENGINE</th><td>3.0 DIESEL</td></tr><tr><th>YEAR</th><td>2007</td></tr><tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 014 436</td></tr><tr><th>NUMBER PARTS</th><td>DDE 7 806 987</td></tr><tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with BMW 3.0 Diesel models. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW 3.0 DIESEL BOSCH 0 281 014 436, 0281014436, DDE 7 806 987, DDE7806987, 7806987",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-3.0-DIESEL-BOSCH-0-281-014-436%2C-0281014436%2C-DDE-7-806-987%2C-DDE7806987%2C-7806987-/95426",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "53AE-2968B_20160831180201",
+    "sku": "53AE-2968B_20160831180201",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW 3.0 DIESEL BOSCH 0 281 014 436, 0281014436, DDE 7 806 987, DDE7806987, 7806987 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW",
+      "ENGINE": "3.0 DIESEL",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 014 436",
+      "NUMBER PARTS": "DDE 7 806 987",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:11:00.359Z",
+    "model": "mistral:7b",
+    "durationMs": 10432,
+    "priceIncrement": 100
+  }
+}

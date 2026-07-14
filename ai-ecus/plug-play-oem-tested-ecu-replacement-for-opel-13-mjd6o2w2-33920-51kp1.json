@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Opel 1.3 - MJD6O2.W2, 33920-51KP1, Warranty Included",
+  "slug": "plug-play-oem-tested-ecu-replacement-for-opel-13-mjd6o2w2-33920-51kp1",
+  "metaDescription": "Find your Plug & Play, OEM Tested ECU Replacement for Opel 1.3 with a 6-month warranty. Order now and get fast dispatch!",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU replacement for Opel 1.3 - Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "OEM Tested ECU",
+    "Opel 1.3 ECU",
+    "MJD6O2.W2 ECU"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Opel 1.3 is a reliable solution to your engine control unit problems, backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Fast Dispatch</li>\n<li>Reliable Solution</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>OPEL</td></tr>\n<tr><td>ENGINE</td><td>1.3</td></tr>\n<tr><td>YEAR</td><td>2008</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>MJD6O2.W2</td></tr>\n<tr><td>NUMBER PARTS</td><td>33920-51KP1</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel 1.3 models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL 1.3 55563976, 33920-51KP1, 3392051KP1, MJD6O2.W2, MJD6O2W2",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-1.3-55563976%2C-33920-51KP1%2C-3392051KP1%2C-MJD6O2.W2%2C-MJD6O2W2/36659",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "27AD-660FA_20130703105711",
+    "sku": "27AD-660FA_20130703105711",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL 1.3 55563976, 33920-51KP1, 3392051KP1, MJD6O2.W2, MJD6O2W2</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL",
+      "ENGINE": "1.3",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "MJD6O2.W2",
+      "NUMBER PARTS": "33920-51KP1",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:52:43.176Z",
+    "model": "mistral:7b",
+    "durationMs": 11271,
+    "priceIncrement": 100
+  }
+}

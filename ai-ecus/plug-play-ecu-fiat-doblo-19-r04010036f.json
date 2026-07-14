@@ -1,0 +1,49 @@
+{
+  "title": "OEM Tested ECU Replacement Fiat Doblo 1.9 R04010036F, Plug & Play, Warranty Included",
+  "slug": "plug-play-ecu-fiat-doblo-19-r04010036f",
+  "metaDescription": "Buy the OEM tested ECU engine controller for Fiat Doblo 1.9, R04010036F. Plug & Play, warranty included, and fast dispatch within EU.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested ECU Replacement for Fiat Doblo 1.9",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Doblo",
+    "R04010036F"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for Fiat Doblo 1.9, R04010036F, ensures seamless vehicle operation with a Plug & Play feature.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch within EU</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specifications</th>\n                <th>Details</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FIAT DOBLO</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.9</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>R04010036F</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>81006A</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours, EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU engine controller is a used original in good condition. Ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT DOBLO 1.9, R04010036F, REF 55183255, 81006A",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-DOBLO-1.9%2C-R04010036F%2C-REF-55183255%2C-81006A/40480",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "5AC6-905AD_20130825155343",
+    "sku": "5AC6-905AD_20130825155343",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT DOBLO 1.9, R04010036F, REF 55183255, 81006A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT DOBLO",
+      "ENGINE": "1.9",
+      "NUMBER MANUFACTURER": "R04010036F",
+      "NUMBER PARTS": "81006A",
+      "OPTION AVAILABLE": "complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:37:50.795Z",
+    "model": "mistral:7b",
+    "durationMs": 10378,
+    "priceIncrement": 100
+  }
+}

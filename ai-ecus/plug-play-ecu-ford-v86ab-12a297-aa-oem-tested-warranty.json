@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford V86AB-12A297-AA OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-ford-v86ab-12a297-aa-oem-tested-warranty",
+  "metaDescription": "Buy the tested and certified Plug & Play ECU Engine Controller for Ford V86AB-12A297-AA. Enjoy a 6-month warranty and fast shipping.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play OEM tested ECU replacement for Ford V86AB-12A297-AA",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford V86AB-12A297-AA",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Oryginal ECU Engine Controller for Ford Motorcraft is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM Tested for guaranteed fitment</li>\n        <li>6-month warranty included</li>\n        <li>Used in good condition</li>\n        <li>Locked option available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD Motorcraft</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>V86AB-12A297-AA</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford V86AB-12A297-AA. Fitment caution: Locked option available.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD Motorcraft V86AB-12A297-AA, V86AB12A297AA",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-Motorcraft-V86AB-12A297-AA%2C-V86AB12A297AA-/100734",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "9649-5743F_20161215163418",
+    "sku": "9649-5743F_20161215163418",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD Motorcraft V86AB-12A297-AA, V86AB12A297AA </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD",
+      "NUMBER MANUFACTURER": "Motorcraft",
+      "NUMBER PARTS": "V86AB-12A297-AA",
+      "OPTION AVAILABLE": "LOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:52:36.122Z",
+    "model": "mistral:7b",
+    "durationMs": 9470,
+    "priceIncrement": 100
+  }
+}

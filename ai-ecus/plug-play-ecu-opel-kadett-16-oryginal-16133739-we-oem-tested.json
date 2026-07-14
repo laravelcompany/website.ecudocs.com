@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Kadett 1.6, Oryginal 16133739 WE - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-opel-kadett-16-oryginal-16133739-we-oem-tested",
+  "metaDescription": "Get a tested and certified Plug & Play ECU Engine Controller for your Opel Kadett 1.6, backed by a 6-month warranty.",
+  "price": "€60.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Kadett 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Kadett",
+    "Oryginal",
+    "16133739 WE"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and certified Plug & Play ECU Engine Controller is a reliable replacement for your Opel Kadett 1.6.</section>\n<section class=\"features\">\n    <ul>\n        <li>Oryginal Part</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>OEM Tested</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL VAUXHALL HOLDEN KADETT</td></tr>\n        <tr><th>ENGINE</th><td>1.6</td></tr>\n        <tr><th>YEAR</th><td>1991</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>16133739 WE</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Kadett 1.6. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL KADETT 1.6, 16133739 WE, 16133739WE",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-KADETT-1.6%2C-16133739-WE%2C-16133739WE-/46420",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "C4B2-43377",
+    "sku": "C4B2-43377",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL KADETT 1.6, 16133739 WE, 16133739WE </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VAUXHALL HOLDEN KADETT",
+      "ENGINE": "1.6",
+      "YEAR": "1991",
+      "NUMBER MANUFACTURER": "16133739 WE",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:05:30.939Z",
+    "model": "mistral:7b",
+    "durationMs": 10363,
+    "priceIncrement": 100
+  }
+}

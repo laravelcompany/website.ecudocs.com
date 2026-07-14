@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Astra Vectra Zafira 2.0 (Bosch 0 281 001 674, GM 90 562 574 LL) - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-opel-astra-vectra-zafira-20-bosch-0281001674-gm-905625",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Opel Astra Vectra Zafira 2.0 (Bosch 0 281 001 674, GM 90 562 574 LL). Plug & Play replacement with 6-month warranty. Fast dispatch in EU.",
+  "price": "€430.00",
+  "excerpt": "OEM tested ECU Engine Controller for Opel Astra Vectra Zafira 2.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Astra Vectra Zafira",
+    "Bosch 0 281 001 674",
+    "GM 90 562 574 LL"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is specifically designed for Opel Astra Vectra Zafira 2.0 models (Bosch 0 281 001 674, GM 90 562 574 LL). It offers a reliable and cost-effective solution to ECU issues.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>Plug & Play for easy installation</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition</li>\n        <li>Fast dispatch within EU</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>OPEL ASTRA VECTRA ZAFIRA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 DTL DTH X20DTL X20DTH</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1998-2000</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 281 001 674</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>GM 90 562 574 LL</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty: 6-month warranty.</section>\n<section class=\"compatibility\">This ECU Engine Controller is designed for Opel Astra Vectra Zafira 2.0 models (Bosch 0 281 001 674, GM 90 562 574 LL). Ensure correct fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL ASTRA VECTRA ZAFIRA 2.0 BOSCH 0 281 001 674, 0281001674, GM 90 562 574 LL, 90562574LL, 90562574",
+    "price": "€30.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-ASTRA-VECTRA-ZAFIRA-2.0-BOSCH-0-281-001-674%2C-0281001674%2C-GM-90-562-574-LL%2C-90562574LL%2C-90562574/9964",
+    "priceCurrency": "EUR",
+    "netPrice": "€30.00",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9964",
+    "sku": "9964",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL ASTRA VECTRA ZAFIRA 2.0 BOSCH 0 281 001 674, 0281001674, GM 90 562 574 LL, 90562574LL, 90562574</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_8907657335d47ef855888016ce22030a_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_eeb9689cdee8b7ab5dbe3291ed91f131_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL ASTRA VECTRA ZAFIRA",
+      "ENGINE": "2.0 DTL DTH X20DTL X20DTH",
+      "YEAR": "1998-2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 674",
+      "NUMBER PARTS": "GM 90 562 574 LL",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED / COMPLETE",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:17:29.705Z",
+    "model": "mistral:7b",
+    "durationMs": 14241,
+    "priceIncrement": 100
+  }
+}

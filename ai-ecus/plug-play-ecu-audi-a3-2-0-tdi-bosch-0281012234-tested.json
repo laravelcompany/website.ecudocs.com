@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested ECU Replacement Audi A3 2.0 TDI Bosch 0281012234 - Plug & Play",
+  "slug": "plug-play-ecu-audi-a3-2-0-tdi-bosch-0281012234-tested",
+  "metaDescription": "Buy OEM Tested ECU Engine Controller for Audi A3 2.0 TDI with 6-month warranty, Plug & Play and fast dispatch in EU.",
+  "price": "€480.00",
+  "excerpt": "OEM Tested ECU Replacement for Audi A3 2.0 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A3",
+    "2.0 TDI",
+    "Bosch",
+    "0281012234"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested ECU Replacement for Audi A3 2.0 TDI is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch</li>\n<li>Optimal Performance</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>AUDI A3</td></tr>\n<tr><th>ENGINE</th><td>2.0 TDI</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>0281012234</td></tr>\n<tr><th>NUMBER PARTS</th><td>03G906021T</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>Plug & Play</td></tr>\n<tr><th>WARRANTY</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A3 2.0 TDI 03G 906 021 T, 03G906021T, BOSCH 0 281 012 234, 0281012234 - PLUG&PLAY",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A3-2.0-TDI-03G-906-021-T%2C-03G906021T%2C-BOSCH-0-281-012-234%2C-0281012234-PLUGPLAY/123585",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "A02C-5767A_20201215164536",
+    "sku": "A02C-5767A_20201215164536",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A3 2.0 TDI 03G 906 021 T, 03G906021T, BOSCH 0 281 012 234, 0281012234 - PLUG&amp;PLAY</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A3",
+      "ENGINE": "2.0 TDI",
+      "NUMBER MANUFACTURER": "0281012234",
+      "NUMBER PARTS": "03G906021T",
+      "OPTION AVAILABLE": "Plug & Play",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:52:09.147Z",
+    "model": "mistral:7b",
+    "durationMs": 9941,
+    "priceIncrement": 100
+  }
+}

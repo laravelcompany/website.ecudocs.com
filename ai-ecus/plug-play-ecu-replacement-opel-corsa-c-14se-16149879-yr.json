@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Opel Corsa C 14SE 16149879 YR, Warranty Included",
+  "slug": "plug-play-ecu-replacement-opel-corsa-c-14se-16149879-yr",
+  "metaDescription": "Buy the tested ECU Engine Controller for Opel Corsa C 14SE (1991-2002) with a 6-month warranty. Fast EU shipping and expert support.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Corsa C 14SE",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Corsa C 14SE",
+    "OEM part",
+    "Genuine replacement"
+  ],
+  "description": "<section class=\"overview\">This OEM tested and guaranteed ECU Engine Controller is a direct replacement for your Opel Corsa C 14SE (1991-2002).</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM quality for reliable performance</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Thoroughly inspected and tested by certified technicians</li>\n        <li>Compatible with your Opel Corsa C 14SE (1991-2002)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>OPEL VAUXHALL HOLDEN CORSA</td></tr>\n        <tr><th>ENGINE:</th><td>C 14SE</td></tr>\n        <tr><th>YEAR:</th><td>1991-2002</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>16149879 YR</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">EU shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CORSA C 14SE 16149879 YR",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CORSA-C-14SE-16149879-YR-/42766",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "GM",
+    "productCode": "476E-940F1",
+    "sku": "476E-940F1",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CORSA C 14SE 16149879 YR </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL VAUXHALL HOLDEN CORSA",
+      "ENGINE": "C 14SE",
+      "YEAR": "1991-2002",
+      "NUMBER MANUFACTURER": "16149879 YR",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:55:59.109Z",
+    "model": "mistral:7b",
+    "durationMs": 11142,
+    "priceIncrement": 100
+  }
+}

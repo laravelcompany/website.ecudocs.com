@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Rover 1.4 16 V MKC10027, MF - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-replacement-rover-14-16v-mkc10027-mf-oem-tested-warranty",
+  "metaDescription": "Buy Plug & Play ECU Engine Controller for Rover 1.4 16 V MKC10027, MF. OEM tested, warranty included. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Rover 1.4 16 V MKC10027, MF - Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Rover 1.4 16 V",
+    "MKC10027",
+    "Used OEM Part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for Rover 1.4 16 V MKC10027, MF is an original, tested part covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-Month Warranty</li>\n        <li>Device Thoroughly Inspected and Tested by a Certified Technician</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>ROVER</td></tr>\n        <tr><th>ENGINE</th><td>1.4 16 V</td></tr>\n        <tr><th>YEAR</th><td>1990-1993</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MKC10027</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MF</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER ROVER 1.4 MKC10027, 0092, 4011, MF",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-ROVER-1.4-MKC10027%2C-0092%2C-4011%2C-MF/39111",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "CEE5-86347_20130807114324",
+    "sku": "CEE5-86347_20130807114324",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER ROVER 1.4 MKC10027, 0092, 4011, MF</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_ce410624d33ba6ed3d600cfc6de33639_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_986634ff812a2c10f77083c328b601f5_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "ROVER",
+      "ENGINE": "1.4 16 V",
+      "YEAR": "1990-1993",
+      "NUMBER MANUFACTURER": "MKC10027",
+      "NUMBER PARTS": "MF",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:25:17.229Z",
+    "model": "mistral:7b",
+    "durationMs": 10612,
+    "priceIncrement": 100
+  }
+}

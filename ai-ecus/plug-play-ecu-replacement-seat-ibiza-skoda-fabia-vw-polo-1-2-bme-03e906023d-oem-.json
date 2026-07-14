@@ -1,0 +1,55 @@
+{
+  "title": "Plug & Play ECU Replacement for SEAT Ibiza, Skoda Fabia, VW Polo 1.2 BME (03E906023D) - OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-seat-ibiza-skoda-fabia-vw-polo-1-2-bme-03e906023d-oem-",
+  "metaDescription": "Get a tested and certified Plug & Play ECU replacement for your SEAT Ibiza, Skoda Fabia, or VW Polo 1.2 BME (03E906023D). Backed by a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for SEAT Ibiza, Skoda Fabia, VW Polo",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SEAT Ibiza",
+    "Skoda Fabia",
+    "VW Polo",
+    "1.2 BME"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for your SEAT Ibiza, Skoda Fabia, or VW Polo 1.2 BME (03E906023D) ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Ready for programming</li>\n        <li>Used in good condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>SEAT IBIZA SKODA FABIA VW POLO</td></tr>\n        <tr><th>ENGINE:</th><td>1.2 BME</td></tr>\n        <tr><th>YEAR:</th><td>2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SIEMENS VDO 5WP40502 04</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>SIMOS 9.1 9510</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with SEAT Ibiza, Skoda Fabia, and VW Polo 1.2 BME (03E906023D).</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT IBIZA SKODA FABIA VW POLO 1.2 BME 03E906023D, 03E 906 023 D, SIEMENS VDO 5WP40502 04",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-IBIZA-SKODA-FABIA-VW-POLO-1.2-BME-03E906023D%2C-03E-906-023-D%2C-SIEMENS-VDO-5WP40502-04-/14173",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "52EC-987CF",
+    "sku": "52EC-987CF",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT IBIZA SKODA FABIA VW POLO 1.2 BME 03E906023D, 03E 906 023 D, SIEMENS VDO 5WP40502 04 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_93da64768719875c9a7554178d7ec051_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_2f2e7636afc2ea316c70d15c5221d71e_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT IBIZA SKODA FABIA VW POLO",
+      "ENGINE": "1.2 BME",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "SIEMENS VDO 5WP40502 04",
+      "NUMBER PARTS": "SIMOS 9.1 9510",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:03:14.694Z",
+    "model": "mistral:7b",
+    "durationMs": 10613,
+    "priceIncrement": 100
+  }
+}

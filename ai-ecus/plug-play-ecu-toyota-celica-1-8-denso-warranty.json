@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Toyota Celica 1.8 Denso - 6-month Warranty",
+  "slug": "plug-play-ecu-toyota-celica-1-8-denso-warranty",
+  "metaDescription": "Expertly tested and OEM Toyota Celica 1.8 Denso ECU replacement, offering Plug & Play functionality with a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Toyota Celica 1.8 Denso",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Toyota Celica",
+    "Denso",
+    "1.8 Engine"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for Toyota Celica 1.8 Denso ensures seamless integration and reliable performance, backed by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Functionality</li>\n        <li>Reliable Performance</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>TOYOTA CELICA</td></tr>\n        <tr><th>ENGINE</th><td>1.8</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DENSO 175300-1540</td></tr>\n        <tr><th>NUMBER PARTS</th><td>89661-2D471</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment before installation. Consult a professional if necessary.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER TOYOTA CELICA 1.8 DENSO 175300-1540, 1753001540, 89661-2D471, 896612D471",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-TOYOTA-CELICA-1.8-DENSO-175300-1540%2C-1753001540%2C-89661-2D471%2C-896612D471-/83491",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "160F-68056_20151214134505",
+    "sku": "160F-68056_20151214134505",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER TOYOTA CELICA 1.8 DENSO 175300-1540, 1753001540, 89661-2D471, 896612D471 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "TOYOTA CELICA",
+      "ENGINE": "1.8",
+      "NUMBER MANUFACTURER": "DENSO 175300-1540",
+      "NUMBER PARTS": "89661-2D471",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T04:20:14.556Z",
+    "model": "mistral:7b",
+    "durationMs": 9853,
+    "priceIncrement": 100
+  }
+}

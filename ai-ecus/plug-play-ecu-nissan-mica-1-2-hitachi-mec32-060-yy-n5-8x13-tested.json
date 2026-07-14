@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN MICRA 1.2 OEM Engine Controller (MEC32-060 YY N5 8X13) - Tested & Warranty Included",
+  "slug": "plug-play-ecu-nissan-mica-1-2-hitachi-mec32-060-yy-n5-8x13-tested",
+  "metaDescription": "Get a Plug & Play ECU Engine Controller for your NISSAN MICRA 1.2, tested and covered by a 6-month warranty. Order now!",
+  "price": "€135.00",
+  "excerpt": "Plug & Play OEM ECU replacement for NISSAN MICRA 1.2",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Micra",
+    "Hitachi",
+    "MEC32-060 YY N5 8X13"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller for your NISSAN MICRA 1.2 is a tested OEM part, ensuring reliable performance and easy installation.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN MICRA</td></tr>\n        <tr><th>ENGINE</th><td>1.2</td></tr>\n        <tr><th>YEAR</th><td>2005</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>MEC32060</td></tr>\n        <tr><th>NUMBER PARTS</th><td>MEC32-060 YY N5 8X13</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with your specific vehicle model and year. Always ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN MICRA 1.2 MEC32060, MEC32-060 YY N5 8X13",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-MICRA-1.2-MEC32060%2C-MEC32-060-YY-N5-8X13/30372",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Hitachi",
+    "productCode": "3A5C-32238_20120930201718",
+    "sku": "3A5C-32238_20120930201718",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN MICRA 1.2 MEC32060, MEC32-060 YY N5 8X13</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN MICRA",
+      "ENGINE": "1.2",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "MEC32060",
+      "NUMBER PARTS": "MEC32-060 YY N5 8X13",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:18:46.013Z",
+    "model": "mistral:7b",
+    "durationMs": 9543,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Mercedes W169 B-Klasse B180 CDI - Bosch 0281012435, CRA.42 OM640 - 6-month Warranty",
+  "slug": "plug-play-oem-ecu-replacement-mercedes-w169-b-klasse-b180-cdi-bosch-0281012435-c",
+  "metaDescription": "Buy the Plug & Play OEM ECU Engine Controller for Mercedes W169 B-Klasse B180 CDI. Tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€275.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Mercedes W169 B-Klasse B180 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W169 B-Klasse",
+    "Bosch 0281012435",
+    "CRA.42 OM640"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for the Mercedes W169 B-Klasse B180 CDI is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>MERCEDES W169 B-KLASS B180</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2.0 CDI</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2005</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0281012435, 0 281 012 435</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>CRA.42 OM640</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Mercedes W169 B-Klasse B180 CDI. Fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W169 B-KLASS B180 CDI A6401505279, A 640 150 52 79, 6401505279 BOSCH 0281012435, 0 281 012 435, CRA.42 OM640",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W169-B-KLASS-B180-CDI-A6401505279%2C-A-640-150-52-79%2C-6401505279-BOSCH-0281012435%2C-0-281-012-435%2C-CRA.42-OM640-/16915",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2E15-996E9",
+    "sku": "2E15-996E9",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W169 B-KLASS B180 CDI A6401505279, A 640 150 52 79, 6401505279 BOSCH 0281012435, 0 281 012 435, CRA.42 OM640 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_e035e3045a1fb0f3dcebc75df30728fc_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a47df87ece4751c75f31caf291a2e066_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W169 B-KLASS B180",
+      "ENGINE": "2.0 CDI",
+      "YEAR": "2005",
+      "NUMBER MANUFACTURER": "BOSCH 0281012435, 0 281 012 435",
+      "NUMBER PARTS": "CRA.42 OM640",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:10:27.958Z",
+    "model": "mistral:7b",
+    "durationMs": 12693,
+    "priceIncrement": 100
+  }
+}

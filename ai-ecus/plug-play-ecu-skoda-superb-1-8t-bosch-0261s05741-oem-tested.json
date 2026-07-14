@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - SKODA SUPERB 1.8 T BOSCH 0 261 S05 741, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-skoda-superb-1-8t-bosch-0261s05741-oem-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for SKODA SUPERB 1.8 T BOSCH 0 261 S05 741, tested and covered by a 6-month warranty.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for SKODA SUPERB 1.8 T",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "SKODA SUPERB",
+    "1.8 T",
+    "BOSCH 0 261 S05 741"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your SKODA SUPERB 1.8 T BOSCH 0 261 S05 741.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Condition: Used Original in Good Condition</li></ul></section>\n<section class=\"specs\">... (technical specifications from technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SKODA SUPERB 1.8 T BOSCH 0 261 S05 741, 0261S05741, 3T0 907 115 G, 3T0907115G",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SKODA-SUPERB-1.8-T-BOSCH-0-261-S05-741%2C-0261S05741%2C-3T0-907-115-G%2C-3T0907115G-/42103",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0DBF-15927",
+    "sku": "0DBF-15927",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SKODA SUPERB 1.8 T BOSCH 0 261 S05 741, 0261S05741, 3T0 907 115 G, 3T0907115G </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SKODA SUPERB",
+      "ENGINE": "1.8 T",
+      "YEAR": "2009",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S05 741",
+      "NUMBER PARTS": "3T0 907 115 G",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T03:43:18.626Z",
+    "model": "mistral:7b",
+    "durationMs": 6833,
+    "priceIncrement": 100
+  }
+}

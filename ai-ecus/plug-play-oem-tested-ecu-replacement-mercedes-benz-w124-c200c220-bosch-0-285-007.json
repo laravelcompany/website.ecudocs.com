@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Mercedes-Benz W124 C200/C220 Bosch 0 285 007 022, Pierburg 718165.54, 6-month Warranty",
+  "slug": "plug-play-oem-tested-ecu-replacement-mercedes-benz-w124-c200c220-bosch-0-285-007",
+  "metaDescription": "Expertly tested and OEM certified ECU replacement for Mercedes-Benz W124 C200/C220. Plug & Play, backed by a 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play OEM Tested ECU Replacement for Mercedes-Benz W124 C200/C220",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes-Benz W124",
+    "Bosch 0 285 007 022",
+    "Pierburg 718165.54"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement is specifically designed for Mercedes-Benz W124 C200/C220 engines, ensuring seamless integration and optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for guaranteed fitment</li>\n        <li>6-month warranty for peace of mind</li>\n        <li>Used in good condition, ensuring reliability</li>\n        <li>Original Bosch part number: 0 285 007 022</li>\n        <li>Pierburg part number: 718165.54</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MERCEDES</td></tr>\n        <tr><th>ENGINE</th><td>1989</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 285 007 022</td></tr>\n        <tr><th>NUMBER PARTS</th><td>PIERBURG 718165.54</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is designed for Mercedes-Benz W124 C200/C220 engines only. Fitment may vary based on specific vehicle conditions and configurations.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES BOSCH 0 285 007 022, 0285007022, 006 545 51 32, 0065455132, PIERBURG 718165.54, 71816554",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-BOSCH-0-285-007-022%2C-0285007022%2C-006-545-51-32%2C-0065455132%2C-PIERBURG-718165.54%2C-71816554/67360",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "CECA-599D3_20141006121406",
+    "sku": "CECA-599D3_20141006121406",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES BOSCH 0 285 007 022, 0285007022, 006 545 51 32, 0065455132, PIERBURG 718165.54, 71816554</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES",
+      "ENGINE": "1989",
+      "NUMBER MANUFACTURER": "BOSCH 0 285 007 022",
+      "NUMBER PARTS": "PIERBURG 718165.54",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:36:53.978Z",
+    "model": "mistral:7b",
+    "durationMs": 13218,
+    "priceIncrement": 100
+  }
+}

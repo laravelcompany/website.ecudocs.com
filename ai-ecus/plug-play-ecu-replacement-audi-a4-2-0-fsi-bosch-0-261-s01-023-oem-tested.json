@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A4 2.0 FSI Bosch 0 261 S01 023 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-audi-a4-2-0-fsi-bosch-0-261-s01-023-oem-tested",
+  "metaDescription": "OEM tested ECU replacement for Audi A4 2.0 FSI, Plug & Play, 6-month warranty, shipped within 24–48 hours.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A4 2.0 FSI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4",
+    "2.0 FSI",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for the Audi A4 2.0 FSI ensures seamless engine control and reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">...(technical specifications table)</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 2.0 FSI BOSCH 0 261 S01 023, 0261S01023, 8E1 910 018, 8E1910018, MED7.1.1",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-2.0-FSI-BOSCH-0-261-S01-023%2C-0261S01023%2C-8E1-910-018%2C-8E1910018%2C-MED7.1.1-/89085",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "823B-9766C_20160404161107",
+    "sku": "823B-9766C_20160404161107",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 2.0 FSI BOSCH 0 261 S01 023, 0261S01023, 8E1 910 018, 8E1910018, MED7.1.1 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "ENGINE": "2.0 FSI",
+      "YEAR": "2003",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 S01 023",
+      "NUMBER PARTS": "8E1 910 018",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:04:52.495Z",
+    "model": "mistral:7b",
+    "durationMs": 5974,
+    "priceIncrement": 100
+  }
+}

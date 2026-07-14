@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Bravo 1.9 JTD Bosch 0 281 013 579, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-bravo-1-9-jtd-bosch-0-281-013-579-tested",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Fiat Bravo 1.9 JTD Bosch 0 281 013 579, backed by a 6-month warranty.",
+  "price": "€430.00",
+  "excerpt": "Plug & Play ECU for Fiat Bravo 1.9 JTD Bosch 0 281 013 579",
+  "tags": [
+    "ECU Replacement",
+    "Fiat Bravo",
+    "1.9 JTD",
+    "Bosch",
+    "Plug & Play",
+    "OEM Tested"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is an OEM replacement for Fiat Bravo 1.9 JTD with Bosch 0 281 013 579 part number, thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch</li>\n<li>EU Shipping</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead><tr><th>Specification</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>FIAT BRAVO</td></tr>\n<tr><td>ENGINE</td><td>1.9 JTD</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 013 579</td></tr>\n<tr><td>NUMBER PARTS</td><td>518282269</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU may require programming or additional parts for a complete installation. Please consult with a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT BRAVO 1.9 JTD BOSCH 0 281 013 579, 0281013579, 518282269",
+    "price": "€300.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-BRAVO-1.9-JTD-BOSCH-0-281-013-579%2C-0281013579%2C-518282269/120468",
+    "priceCurrency": "EUR",
+    "netPrice": "€243.90",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C0BF-836D8_20200826140035",
+    "sku": "C0BF-836D8_20200826140035",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT BRAVO 1.9 JTD BOSCH 0 281 013 579, 0281013579, 518282269</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT BRAVO",
+      "ENGINE": "1.9 JTD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 579",
+      "NUMBER PARTS": "518282269",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:26:14.076Z",
+    "model": "mistral:7b",
+    "durationMs": 11675,
+    "priceIncrement": 100
+  }
+}

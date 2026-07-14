@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Citroen Xantia 1.8 Magneti Marelli IAW 8P.10 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-replacement-citroen-xantia-1-8-magneti-marelli-iaw-8p-10-oem-teste",
+  "metaDescription": "OEM tested ECU replacement for Citroen Xantia 1.8 Magneti Marelli IAW 8P.10, backed by a 6-month warranty and fast dispatch.",
+  "price": "€250.00",
+  "excerpt": "OEM tested ECU replacement for Citroen Xantia 1.8 Magneti Marelli IAW 8P.10",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Xantia",
+    "Magneti Marelli",
+    "IAW 8P.10"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU replacement for Citroen Xantia 1.8 Magneti Marelli IAW 8P.10 ensures seamless engine control and is backed by a 6-month warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design</li>\n<li>OEM tested</li>\n<li>6-month warranty</li>\n<li>Fast dispatch</li>\n<li>Used in good condition</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>CITROEN XANTIA PEUGEOT 306</td></tr>\n<tr><th>ENGINE</th><td>1.8</td></tr>\n<tr><th>YEAR</th><td>1997</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI IAW 8P.10</td></tr>\n<tr><th>NUMBER PARTS</th><td>16239.144</td></tr>\n<tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Citroen Xantia and Peugeot 306 models equipped with the specified engine and ECU.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN XANTIA PEUGEOT 306 1.8 MAGNETI MARELLI IAW 8P.10, IAW8P10, 9627788180, 16239.144, 16239144",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-XANTIA-PEUGEOT-306-1.8-MAGNETI-MARELLI-IAW-8P.10%2C-IAW8P10%2C-9627788180%2C-16239.144%2C-16239144/32466",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "3CD8-624D3",
+    "sku": "3CD8-624D3",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN XANTIA PEUGEOT 306 1.8 MAGNETI MARELLI IAW 8P.10, IAW8P10, 9627788180, 16239.144, 16239144</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN XANTIA PEUGEOT 306",
+      "ENGINE": "1.8",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 8P.10",
+      "NUMBER PARTS": "16239.144",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:38:40.371Z",
+    "model": "mistral:7b",
+    "durationMs": 11488,
+    "priceIncrement": 100
+  }
+}

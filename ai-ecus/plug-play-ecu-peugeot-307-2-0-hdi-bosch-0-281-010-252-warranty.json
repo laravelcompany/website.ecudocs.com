@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Engine Controller Peugeot 307 2.0 HDI Bosch 0 281 010 252, Warranty Included",
+  "slug": "plug-play-ecu-peugeot-307-2-0-hdi-bosch-0-281-010-252-warranty",
+  "metaDescription": "Buy OEM Tested Plug & Play ECU Engine Controller for Peugeot 307 2.0 HDI Bosch 0 281 010 252, backed by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€60.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Peugeot 307 2.0 HDI Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 307",
+    "Bosch",
+    "0 281 010 252"
+  ],
+  "description": "<section class=\"overview\">This OEM Tested Plug & Play ECU Engine Controller for Peugeot 307 2.0 HDI Bosch is a reliable replacement, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\">\n    <table>\n      <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n      <tr><th>BRAND AND MODEL</th><td>PEUGEOT 307</td></tr>\n      <tr><th>ENGINE</th><td>2.0 HDI</td></tr>\n      <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 252</td></tr>\n      <tr><th>NUMBER PARTS</th><td>96 351 581 80</td></tr>\n      <tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr>\n      <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n      <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n      <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. Warranty included.</section>\n<section class=\"compatibility\">Compatible with Peugeot 307 2.0 HDI Bosch ECU systems. Fitment caution may apply, consult a professional technician for installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 307 2.0 HDI BOSCH 0 281 010 252, 0281010252, 96 351 581 80, 9635158180, EDC15C2",
+    "price": "€50.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-307-2.0-HDI-BOSCH-0-281-010-252%2C-0281010252%2C-96-351-581-80%2C-9635158180%2C-EDC15C2-/98016",
+    "priceCurrency": "EUR",
+    "netPrice": "€40.65",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5B78-57312_20161005103008",
+    "sku": "5B78-57312_20161005103008",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 307 2.0 HDI BOSCH 0 281 010 252, 0281010252, 96 351 581 80, 9635158180, EDC15C2 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_f475b0e5cbde5a5925c6ab784d5429e9_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_32304c70f16c83505016ab0d24568b48_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 307",
+      "ENGINE": "2.0 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 252",
+      "NUMBER PARTS": "96 351 581 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:05:32.880Z",
+    "model": "mistral:7b",
+    "durationMs": 11253,
+    "priceIncrement": 100
+  }
+}

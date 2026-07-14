@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Bravo 1.6 MJET BOSCH 0281016198, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-bravo-16-mjet-bosch-0281016198-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for Fiat Bravo 1.6 MJET (BOSCH 0281016198) - OEM tested, warranty included.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Bravo 1.6 MJET BOSCH 0281016198",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Bravo",
+    "1.6 MJET",
+    "BOSCH"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Engine Controller is a direct replacement for your Fiat Bravo 1.6 MJET (BOSCH 0281016198). It has been thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Fiat Bravo 1.6 MJET (BOSCH 0281016198)</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT BRAVO</td></tr>\n        <tr><th>ENGINE</th><td>1.6 MJET</td></tr>\n        <tr><th>YEAR</th><td>2010</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 016 198</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S36367</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Fiat Bravo 1.6 MJET (BOSCH 0281016198). Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT BRAVO 1.6 MJET 51871187 BOSCH 0281016198, 0 281 016 198, 1984IE161BBMM12, 1039S36367",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-BRAVO-1.6-MJET-51871187-BOSCH-0281016198%2C-0-281-016-198%2C-1984IE161BBMM12%2C-1039S36367-/16400",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "5B99-66179",
+    "sku": "5B99-66179",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT BRAVO 1.6 MJET 51871187 BOSCH 0281016198, 0 281 016 198, 1984IE161BBMM12, 1039S36367 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT BRAVO",
+      "ENGINE": "1.6 MJET",
+      "YEAR": "2010",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 016 198",
+      "NUMBER PARTS": "1039S36367",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:25:16.599Z",
+    "model": "mistral:7b",
+    "durationMs": 10682,
+    "priceIncrement": 100
+  }
+}

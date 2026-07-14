@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - NISSAN PRIMIERA 1.6 16V Lucas 23710-82J65 AB, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-nissan-primiera-16v-lucas-23710-82j65-ab-oem-tested",
+  "metaDescription": "Buy the Plug & Play ECU Engine Controller for NISSAN PRIMIERA 1.6 16V, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU Replacement for Nissan Primeria",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Nissan Primeria",
+    "Lucas ECU"
+  ],
+  "description": "<section class=\"overview\">The Lucas 80559A ECU Engine Controller for NISSAN PRIMIERA 1.6 16V is a tested and reliable replacement part, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>NISSAN PRIMIERA</td></tr>\n        <tr><th>ENGINE</th><td>1.6 16V</td></tr>\n        <tr><th>YEAR</th><td>1993-1996</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>LUCAS 80559A</td></tr>\n        <tr><th>NUMBER PARTS</th><td>23710-82J65 AB</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with NISSAN PRIMIERA 1.6 16V only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER NISSAN PRIMIERA 23710-82J65 AB, 2371082J65AB, 2371082J65, LUCAS 80559A",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-NISSAN-PRIMIERA-23710-82J65-AB%2C-2371082J65AB%2C-2371082J65%2C-LUCAS-80559A/67989",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "3DF3-131D1_20141013113124",
+    "sku": "3DF3-131D1_20141013113124",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER NISSAN PRIMIERA 23710-82J65 AB, 2371082J65AB, 2371082J65, LUCAS 80559A</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "NISSAN PRIMIERA",
+      "ENGINE": "1.6 16V",
+      "YEAR": "1993-1996",
+      "NUMBER MANUFACTURER": "LUCAS 80559A",
+      "NUMBER PARTS": "23710-82J65 AB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T21:38:42.124Z",
+    "model": "mistral:7b",
+    "durationMs": 9819,
+    "priceIncrement": 100
+  }
+}

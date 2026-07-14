@@ -1,0 +1,47 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested BMW 330i Engine Controller (0281200403 1730784) with 6-month Warranty",
+  "slug": "plug-play-ecu-bmw-330i-engine-controller-oem-tested-0281200403-1730784-warranty",
+  "metaDescription": "Get a Plug & Play ECU Replacement for your BMW 330i, tested and covered by a 6-month warranty. Order today!",
+  "price": "€540.00",
+  "excerpt": "Plug & Play ECU Replacement for BMW 330i",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "BMW 330i",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement is a reliable solution for your BMW 330i engine control unit, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>Used Oryginal in Good Condition</li><li>Locked or Ready for Programming</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>BMW</td></tr><tr><th>NUMBER MANUFACTURER</th><td>0281200403 1730784</td></tr><tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER BMW 0281200403 1730784",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-BMW-0281200403-1730784/137869",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "AB96-702FA_20231129131935",
+    "sku": "AB96-702FA_20231129131935",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER BMW  0281200403 1730784</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "BMW",
+      "NUMBER MANUFACTURER": "0281200403 1730784",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T10:02:59.459Z",
+    "model": "mistral:7b",
+    "durationMs": 9143,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Mercedes R-Class 320 3.0 CDI A6421506891 BOSCH 0281013386",
+  "slug": "plug-play-ecu-mercedes-r-class-320-3-0-cdi-a6421506891-bosch-0281013386",
+  "metaDescription": "OEM Tested ECU Replacement for Mercedes R-Class 320 3.0 CDI A6421506891, backed by a 6-month warranty and Plug & Play installation.",
+  "price": "€480.00",
+  "excerpt": "Plug & Play ECU Replacement for Mercedes R-Class 320 3.0 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes R-Class 320",
+    "BOSCH 0281013386",
+    "3.0 CDI"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for the Mercedes R-Class 320 3.0 CDI is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play Installation</li>\n        <li>6-Month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tbody>\n            <tr>\n                <th>PARTS</th>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <th>BRAND AND MODEL</th>\n                <td>MERCEDES R-CLASS 320</td>\n            </tr>\n            <tr>\n                <th>ENGINE</th>\n                <td>3.0 CDI</td>\n            </tr>\n            <tr>\n                <th>YEAR</th>\n                <td>2006</td>\n            </tr>\n            <tr>\n                <th>NUMBER MANUFACTURER</th>\n                <td>BOSCH 0281013386, 0 281 013 386</td>\n            </tr>\n            <tr>\n                <th>NUMBER PARTS</th>\n                <td>6421506891</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES R-CLASS 320 3.0 CDI A6421506891, 6421506891, A 642 150 68 91 BOSCH 0281013386, 0 281 013 386",
+    "price": "€350.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-R-CLASS-320-3.0-CDI-A6421506891%2C-6421506891%2C-A-642-150-68-91-BOSCH-0281013386%2C-0-281-013-386/27123",
+    "priceCurrency": "EUR",
+    "netPrice": "€284.55",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "8611-497F5_20120730202533",
+    "sku": "8611-497F5_20120730202533",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES R-CLASS 320 3.0 CDI A6421506891, 6421506891, A 642 150 68 91 BOSCH 0281013386, 0 281 013 386</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES R-CLASS 320",
+      "ENGINE": "3.0 CDI",
+      "YEAR": "2006",
+      "NUMBER MANUFACTURER": "BOSCH 0281013386, 0 281 013 386",
+      "NUMBER PARTS": "6421506891",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:45:37.021Z",
+    "model": "mistral:7b",
+    "durationMs": 11498,
+    "priceIncrement": 100
+  }
+}

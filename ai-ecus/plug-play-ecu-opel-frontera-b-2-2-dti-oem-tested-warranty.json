@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Frontera B 2.2 DTI - OEM Tested, Warranty Included (Bosch 0 281 001 791)",
+  "slug": "plug-play-ecu-opel-frontera-b-2-2-dti-oem-tested-warranty",
+  "metaDescription": "Get a Plug & Play ECU replacement for your Opel Frontera B 2.2 DTI, tested and covered by a 6-month warranty. Order now for fast dispatch.",
+  "price": "€350.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Frontera B 2.2 DTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Opel Frontera B",
+    "2.2 DTI",
+    "Bosch 0 281 001 791"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Opel Frontera B 2.2 DTI is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch</li>\n<li>Compatible with Opel Frontera B 2.2 DTI</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>OPEL FRONETRA B</td></tr>\n<tr><td>ENGINE</td><td>2.2 DTI</td></tr>\n<tr><td>NUMBER PARTS</td><td>90589738</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming / complet</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Opel Frontera B 2.2 DTI. Always ensure proper fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL FRONETRA B 2.2 DTI, BOSCH 0 281 001 791, 0281001791, 90 589 738, 90589738",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-FRONETRA-B-2.2-DTI%2C-BOSCH-0-281-001-791%2C-0281001791%2C-90-589-738%2C-90589738-/55284",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "67C6-521E2_20140506185034",
+    "sku": "67C6-521E2_20140506185034",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  OPEL FRONETRA B 2.2 DTI, BOSCH 0 281 001 791, 0281001791, 90 589 738, 90589738 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL FRONETRA B",
+      "ENGINE": "2.2 DTI",
+      "NUMBER PARTS": "90589738",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming / complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:12:45.810Z",
+    "model": "mistral:7b",
+    "durationMs": 10564,
+    "priceIncrement": 100
+  }
+}

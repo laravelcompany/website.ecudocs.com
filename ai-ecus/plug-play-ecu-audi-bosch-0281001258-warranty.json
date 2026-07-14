@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement Audi - OEM Tested Bosch 0 281 001 258, 0281001258/259, 028906021J - 6-month Warranty",
+  "slug": "plug-play-ecu-audi-bosch-0281001258-warranty",
+  "metaDescription": "Expertly tested and OEM Bosch ECU replacement for Audi. Plug & Play, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play Audi ECU Replacement - OEM Tested Bosch",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi ECU",
+    "Bosch ECU",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Audi is thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>6-month Warranty</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\">\n  <table>\n    <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n    <tr><th>BRAND AND MODEL</th><td>AUDI</td></tr>\n    <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 258</td></tr>\n    <tr><th>NUMBER PARTS</th><td>028906021J</td></tr>\n    <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n    <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n    <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n    <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n  </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary depending on vehicle model and year. Please verify fitment before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI BOSCH 0 281 001 258, 0281001258/259, 028906021J",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-BOSCH-0-281-001-258%2C-0281001258259%2C-028906021J/125373",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "90AF-310BC_20210504130208",
+    "sku": "90AF-310BC_20210504130208",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI BOSCH 0 281 001 258, 0281001258/259,  028906021J</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 258",
+      "NUMBER PARTS": "028906021J",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:44:36.885Z",
+    "model": "mistral:7b",
+    "durationMs": 9834,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement - Mitsubishi Space Star 1.9 DID BOSCH 0 281 011 610, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-mitsubishi-space-star-1-9-did-bosch-0-281-011-610-oem-tested",
+  "metaDescription": "Get a Plug & Play ECU Replacement for your Mitsubishi Space Star 1.9 DID, OEM tested and covered by warranty. Fast dispatch within EU.",
+  "price": "€80.00",
+  "excerpt": "Plug & Play ECU replacement for Mitsubishi Space Star 1.9 DID",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mitsubishi Space Star",
+    "BOSCH 0 281 011 610"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your Mitsubishi Space Star 1.9 DID is tested and covered by a warranty.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play</li>\n<li>OEM Tested</li>\n<li>Warranty Included</li>\n<li>Fast Dispatch</li>\n<li>EU Shipping</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Value</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MITSUBISHI SPACE STAR</td></tr>\n<tr><td>ENGINE</td><td>1.9 DID</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>BOSCH 0 281 011 610</td></tr>\n<tr><td>NUMBER PARTS</td><td>MR993817</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n<tr><td>WARRANTY</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This part is intended for Mitsubishi Space Star models only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MITSUBISHI SPACE STAR 1.9 DID BOSCH 0 281 011 610, 0281011610, MR993817 EDC15C3 817 M",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MITSUBISHI-SPACE-STAR-1.9-DID-BOSCH-0-281-011-610%2C-0281011610%2C-MR993817-EDC15C3-817-M-/16930",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "C5FB-30344",
+    "sku": "C5FB-30344",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MITSUBISHI SPACE STAR 1.9 DID BOSCH 0 281 011 610, 0281011610, MR993817 EDC15C3 817 M </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_15d63faa036edcccf5d97d4129769832_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_a2592009679be0800bf96ee6a00cc1ab_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MITSUBISHI SPACE STAR",
+      "ENGINE": "1.9 DID",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 610",
+      "NUMBER PARTS": "MR993817",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:58:55.510Z",
+    "model": "mistral:7b",
+    "durationMs": 11084,
+    "priceIncrement": 100
+  }
+}

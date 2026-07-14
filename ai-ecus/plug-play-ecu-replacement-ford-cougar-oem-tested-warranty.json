@@ -1,0 +1,49 @@
+{
+  "title": "Plug & Play ECU Replacement - Ford Cougar 2000-2007, OEM Tested, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-ford-cougar-oem-tested-warranty",
+  "metaDescription": "Get a Plug & Play ECU replacement for your Ford Cougar (2000-2007) with our OEM tested, 6-month warranty product. Fast dispatch within EU.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Ford Cougar",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Cougar",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for your Ford Cougar (2000-2007) is tested and covered by a 6-month warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch within EU</li>\n        <li>Compatible with 2000-2007 Ford Cougar</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FORD COUGAR</td></tr>\n        <tr><th>YEAR</th><td>2000-2007</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>2U7A-12A650-DA</td></tr>\n        <tr><th>NUMBER PARTS</th><td>FOHO</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD COUGAR 2U7A-12A650-DA, 2U7A12A650DA, FOHO",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-COUGAR-2U7A-12A650-DA%2C-2U7A12A650DA%2C-FOHO-/43309",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "E54E-67576",
+    "sku": "E54E-67576",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD COUGAR 2U7A-12A650-DA, 2U7A12A650DA, FOHO </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD COUGAR",
+      "YEAR": "2000-2007",
+      "NUMBER MANUFACTURER": "2U7A-12A650-DA",
+      "NUMBER PARTS": "FOHO",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:07:07.757Z",
+    "model": "mistral:7b",
+    "durationMs": 10065,
+    "priceIncrement": 100
+  }
+}

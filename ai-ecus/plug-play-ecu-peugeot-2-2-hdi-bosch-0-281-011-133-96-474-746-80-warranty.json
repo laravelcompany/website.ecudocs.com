@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Peugeot 2.2 HDI - Bosch 0 281 011 133, 96 474 746 80 - Warranty Included",
+  "slug": "plug-play-ecu-peugeot-2-2-hdi-bosch-0-281-011-133-96-474-746-80-warranty",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Peugeot 2.2 HDI with Bosch 0 281 011 133, 96 474 746 80. Shipped within 24-48 hours and covered by a 6-month warranty.",
+  "price": "€135.00",
+  "excerpt": "OEM tested Plug & Play ECU replacement for Peugeot 2.2 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 2.2 HDI",
+    "Bosch 0 281 011 133",
+    "96 474 746 80"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Peugeot 2.2 HDI is a reliable solution to ensure smooth engine operation.</section>\n<section class=\"features\"><ul><li>Plug & Play compatibility</li><li>OEM tested and certified</li><li>6-month warranty</li><li>Fast dispatch within EU</li><li>Used in good condition</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th><th>OPTION AVAILABLE</th><th>WARRANTY :</th><th>INSPECTION:</th><th>CONDITION</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>PEUGEOT</td><td>2.2 HDI</td><td>BOSCH 0 281 011 133</td><td>96 474 746 80</td><td>LOCKED / UNLOCKED</td><td>6-month warranty</td><td>Device thoroughly inspected and tested by a certified technician</td><td>USED IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipped within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Peugeot 2.2 HDI. Fitment caution may apply, consult a professional before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 2.2 HDI BOSCH 0 281 011 133, 0281011133, 96 474 746 80, 9647474680",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-2.2-HDI-BOSCH-0-281-011-133%2C-0281011133%2C-96-474-746-80%2C-9647474680-/97909",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0B80-318C9_20161003163818",
+    "sku": "0B80-318C9_20161003163818",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 2.2 HDI BOSCH 0 281 011 133, 0281011133, 96 474 746 80, 9647474680 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT",
+      "ENGINE": "2.2 HDI",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 133",
+      "NUMBER PARTS": "96 474 746 80",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T23:37:33.298Z",
+    "model": "mistral:7b",
+    "durationMs": 10672,
+    "priceIncrement": 100
+  }
+}

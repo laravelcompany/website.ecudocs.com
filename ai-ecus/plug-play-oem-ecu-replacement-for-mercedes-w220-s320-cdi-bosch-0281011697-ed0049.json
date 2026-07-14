@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play OEM ECU Replacement for Mercedes W220 S320 CDI - Bosch 0281011697, ED0049 CR3.23",
+  "slug": "plug-play-oem-ecu-replacement-for-mercedes-w220-s320-cdi-bosch-0281011697-ed0049",
+  "metaDescription": "Buy a Plug & Play OEM tested ECU Engine Controller for Mercedes W220 S320 CDI, backed by a 6-month warranty. Fast dispatch in EU.",
+  "price": "€540.00",
+  "excerpt": "Plug & Play OEM ECU Replacement for Mercedes W220 S320 CDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Mercedes W220",
+    "S320 CDI",
+    "Bosch",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM ECU replacement for Mercedes W220 S320 CDI is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch in EU</li>\n        <li>Compatible with Mercedes W220 S320 CDI</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>MERCEDES W220</td></tr>\n        <tr><th>ENGINE:</th><td>S320 CDI</td></tr>\n        <tr><th>YEAR:</th><td>2004</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>BOSCH 0 281 011 697</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>ED0049 CR3.23</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Mercedes W220 S320 CDI. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MERCEDES W220 S320 CDI A6481500079, A 648 150 00 79, 6481500079, BOSCH 0281011697, 0 281 011 697, ED0049 CR3.23",
+    "price": "€400.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MERCEDES-W220-S320-CDI-A6481500079%2C-A-648-150-00-79%2C-6481500079%2C-BOSCH-0281011697%2C-0-281-011-697%2C-ED0049-CR3.23-/16913",
+    "priceCurrency": "EUR",
+    "netPrice": "€325.20",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "EDF0-29746",
+    "sku": "EDF0-29746",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MERCEDES W220 S320 CDI A6481500079, A 648 150 00 79, 6481500079, BOSCH 0281011697, 0 281 011 697, ED0049 CR3.23 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MERCEDES W220",
+      "ENGINE": "S320 CDI",
+      "YEAR": "2004",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 697",
+      "NUMBER PARTS": "ED0049 CR3.23",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T20:39:36.895Z",
+    "model": "mistral:7b",
+    "durationMs": 10336,
+    "priceIncrement": 100
+  }
+}

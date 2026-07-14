@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Ducato Scudo 1.9 TD Bosch 0281001442 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-ducato-scudo-19-td-bosch-0281001442-tested",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for Fiat Ducato Scudo 1.9 TD, tested and covered by a 6-month warranty. Fast dispatch within EU.",
+  "price": "€70.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Ducato Scudo 1.9 TD - Tested and Warrantied",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Ducato Scudo",
+    "Bosch 0281001442"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for Fiat Ducato Scudo 1.9 TD is a reliable replacement, backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">\n<table>\n  <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n  <tr><th>BRAND AND MODEL</th><td>FIAT DUCATO SCUDO</td></tr>\n  <tr><th>ENGINE</th><td>1.9 TD</td></tr>\n  <tr><th>YEAR</th><td>1999</td></tr>\n  <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 001 442</td></tr>\n  <tr><th>NUMBER PARTS</th><td>28RTD845</td></tr>\n  <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n  <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n  <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n  <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n</table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT DUCATO SCUDO 1.9 TD BOSCH 0281001442, 0 281 001 442, 9626373980, 96 263 739 80 XUDBC02 28RTD845",
+    "price": "€60.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-DUCATO-SCUDO-1.9-TD-BOSCH-0281001442%2C-0-281-001-442%2C-9626373980%2C-96-263-739-80-XUDBC02-28RTD845/23600",
+    "priceCurrency": "EUR",
+    "netPrice": "€48.78",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "307F-936AF_20120527223205",
+    "sku": "307F-936AF_20120527223205",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT DUCATO SCUDO 1.9 TD BOSCH 0281001442, 0 281 001 442, 9626373980, 96 263 739 80 XUDBC02 28RTD845</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_5a19ec38261e97b89c570b6a301205a4_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_55f798fc46dd30d4a2455ac4ac99c632_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT DUCATO SCUDO",
+      "ENGINE": "1.9 TD",
+      "YEAR": "1999",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 001 442",
+      "NUMBER PARTS": "28RTD845",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:50:44.728Z",
+    "model": "mistral:7b",
+    "durationMs": 10565,
+    "priceIncrement": 100
+  }
+}

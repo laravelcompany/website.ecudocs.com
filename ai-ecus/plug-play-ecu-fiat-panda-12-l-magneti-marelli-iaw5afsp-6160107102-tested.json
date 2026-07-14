@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Replacement - Fiat Panda 1.2 L 8V Magneti Marelli IAW5AFSP, 61601.071.02 - OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-fiat-panda-12-l-magneti-marelli-iaw5afsp-6160107102-tested",
+  "metaDescription": "Find the Plug & Play ECU Replacement for your Fiat Panda 1.2 L 8V with OEM Tested and Warranty Included. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Fiat Panda 1.2 L 8V",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Panda",
+    "Magneti Marelli",
+    "IAW5AFSP",
+    "61601.071.02"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU Replacement for your Fiat Panda 1.2 L 8V is OEM tested and comes with a warranty.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>Warranty Included</li>\n        <li>Fast Dispatch within EU</li>\n        <li>6-month Warranty</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT PANDA</td></tr>\n        <tr><th>ENGINE</th><td>1.2 L 8V</td></tr>\n        <tr><th>YEAR</th><td>2003</td></tr>\n        <tr><th>NUMBER PARTS</th><td>6160107102</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT PANDA MAGNETI MARELLI IAW 5AF.SP, IAW5AFSP, 61601.071.02, 6160107102",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-PANDA-MAGNETI-MARELLI-IAW-5AF.SP%2C-IAW5AFSP%2C-61601.071.02%2C-6160107102/59188",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "2B06-14752_20140623114127",
+    "sku": "2B06-14752_20140623114127",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT PANDA MAGNETI MARELLI IAW 5AF.SP, IAW5AFSP, 61601.071.02, 6160107102</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_58fec9eb5b4ba69b58c416549b957da7_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7ef0e7e4cdfb3def78c145be142764ec_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT PANDA",
+      "ENGINE": "1.2 L 8V",
+      "YEAR": "2003",
+      "NUMBER PARTS": "6160107102",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:15:54.113Z",
+    "model": "mistral:7b",
+    "durationMs": 10878,
+    "priceIncrement": 100
+  }
+}

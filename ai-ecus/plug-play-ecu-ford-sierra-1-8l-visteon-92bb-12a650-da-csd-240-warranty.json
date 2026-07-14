@@ -1,0 +1,53 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Sierra 1.8L Engine - Visteon 92BB-12A650-DA, CSD-240 - 6-month Warranty",
+  "slug": "plug-play-ecu-ford-sierra-1-8l-visteon-92bb-12a650-da-csd-240-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU replacement for Ford Sierra 1.8L engine, Visteon 92BB-12A650-DA, CSD-240. Ships within 24–48 hours with a 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM tested Plug & Play ECU replacement for Ford Sierra 1.8L engine",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Sierra",
+    "Visteon",
+    "1.8 L Engine"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Sierra 1.8L engine is a reliable solution to ensure optimal vehicle performance.</section>\n<section class=\"features\">\n<ul>\n<li>OEM Tested</li>\n<li>Plug & Play</li>\n<li>6-month Warranty</li>\n<li>Fast Dispatch (EU)</li>\n<li>Reliable Performance</li>\n</ul></section>\n<section class=\"specs\">\n<table>\n<tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><th>BRAND AND MODEL</th><td>FORD SIERRA</td></tr>\n<tr><th>ENGINE</th><td>1.8 L</td></tr>\n<tr><th>YEAR</th><td>1993</td></tr>\n<tr><th>NUMBER MANUFACTURER</th><td>VISTEON 92BB-12A650-DA</td></tr>\n<tr><th>NUMBER PARTS</th><td>CSD-240</td></tr>\n<tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n<tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><th>CONDITION</th><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</table></section>\n<section class=\"shipping\">Ships within 24–48 hours with a 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Ford Sierra 1.8L engine only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD SIERRA VISTEON 92BB-12A650-DA, 92BB12A650DA, 2BDA, CSD-240",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-SIERRA-VISTEON-92BB-12A650-DA%2C-92BB12A650DA%2C-2BDA%2C-CSD-240/66271",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "DD34-628A8_20140922102515",
+    "sku": "DD34-628A8_20140922102515",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD SIERRA VISTEON 92BB-12A650-DA, 92BB12A650DA, 2BDA, CSD-240</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_3c291afe5ef8d012025f24fc16606fc6_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_7ee53326ee294b7a5606a31235d19dfc_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD SIERRA",
+      "ENGINE": "1.8 L",
+      "YEAR": "1993",
+      "NUMBER MANUFACTURER": "VISTEON 92BB-12A650-DA",
+      "NUMBER PARTS": "CSD-240",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T16:59:51.871Z",
+    "model": "mistral:7b",
+    "durationMs": 10866,
+    "priceIncrement": 100
+  }
+}

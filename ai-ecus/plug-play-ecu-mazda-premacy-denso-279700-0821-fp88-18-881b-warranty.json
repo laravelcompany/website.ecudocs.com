@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement for Mazda Premacy - Denso 279700-0821, FP88 18 881B - Warranty Included",
+  "slug": "plug-play-ecu-mazda-premacy-denso-279700-0821-fp88-18-881b-warranty",
+  "metaDescription": "Buy a tested and certified Plug & Play ECU Engine Controller for Mazda Premacy by Denso (279700-0821, FP88 18 881B). Covered by 6-month warranty.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested ECU for Mazda Premacy - Warranty Included",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Denso 279700-0821",
+    "FP88 18 881B",
+    "Mazda Premacy"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for Mazda Premacy by Denso (part numbers: 279700-0821, FP88 18 881B) is a reliable replacement that ensures optimal vehicle performance.</section>\n<section class=\"features\">\n<ul>\n<li>Plug & Play design for easy installation</li>\n<li>OEM tested and certified</li>\n<li>6-month warranty</li>\n<li>Used but in good condition</li>\n<li>Locked / Unlocked option available</li>\n</ul>\n</section>\n<section class=\"specs\">\n<table>\n<thead>\n<tr><th>Specification</th><th>Details</th></tr>\n</thead>\n<tbody>\n<tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n<tr><td>BRAND AND MODEL</td><td>MAZDA PREMACY</td></tr>\n<tr><td>NUMBER MANUFACTURER</td><td>DENSO 279700-0821</td></tr>\n<tr><td>NUMBER PARTS</td><td>FP88 18 881B</td></tr>\n<tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n<tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n<tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n<tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n</tbody>\n</table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please ensure proper fitment and compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAZDA PREMACY DENSO 279700-0821, 2797000821, FP88 18 881B, FP8818881B",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAZDA-PREMACY-DENSO-279700-0821%2C-2797000821%2C-FP88-18-881B%2C-FP8818881B-/60575",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Denso",
+    "productCode": "EBAE-244D8_20140717131056",
+    "sku": "EBAE-244D8_20140717131056",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAZDA PREMACY DENSO 279700-0821, 2797000821, FP88 18 881B, FP8818881B </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_045812b0709dc99b24312d06efb30475_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_8874e5eee82885922cb032bf269ab566_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_305508_0_0/MAZDA-PREMACY-DENSO-279700-0821%2C-2797000821%2C-FP88-18-881B%2C-FP8818881B.webp"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAZDA PREMACY",
+      "NUMBER MANUFACTURER": "DENSO 279700-0821",
+      "NUMBER PARTS": "FP88 18 881B",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T19:02:58.850Z",
+    "model": "mistral:7b",
+    "durationMs": 11383,
+    "priceIncrement": 100
+  }
+}

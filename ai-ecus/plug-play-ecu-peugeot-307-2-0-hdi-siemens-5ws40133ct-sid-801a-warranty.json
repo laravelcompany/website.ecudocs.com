@@ -1,0 +1,59 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Peugeot 307 2.0 HDI - Siemens 5WS40133C-T, SID 801A - Warranty Included",
+  "slug": "plug-play-ecu-peugeot-307-2-0-hdi-siemens-5ws40133ct-sid-801a-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Peugeot 307 2.0 HDI - Siemens 5WS40133C-T, SID 801A with 6-month warranty. Fast dispatch and EU shipping.",
+  "price": "€110.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Peugeot 307 2.0 HDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 307",
+    "Siemens",
+    "2.0 HDI"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Peugeot 307 2.0 HDI is a reliable solution to your engine control unit issues, ensuring optimal performance and longevity.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch</li>\n        <li>EU Shipping</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>PEUGEOT 307</td></tr>\n            <tr><td>ENGINE</td><td>2.0 HDI</td></tr>\n            <tr><td>YEAR</td><td>2007</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>SIEMENS 5WS40133C-T</td></tr>\n            <tr><td>NUMBER PARTS</td><td>SID 801A</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>LOCKED / UNLOCKED</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility with your vehicle before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 307 2.0 HDI SIEMENS 5WS40133C-T, 5WS40133CT, SID 801A SW9653059580 HW9647423380",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-307-2.0-HDI-SIEMENS-5WS40133C-T%2C-5WS40133CT%2C-SID-801A-SW9653059580-HW9647423380/30123",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "D515-21006_20120929190608",
+    "sku": "D515-21006_20120929190608",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 307 2.0 HDI SIEMENS 5WS40133C-T, 5WS40133CT, SID 801A SW9653059580 HW9647423380</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_9bf5d55109d5159dec56e2941d33b7f9_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_c4163579c971280f4b8d8d132687bbf8_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_0c617c03a3a15235146f878a68624d4d_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_f79994caa210ad46b172aa4977eca574_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_95b75e4158068604c11bee927257e1df_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_9db2d596dc946de7cbd688d70cc5b7b0_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_cb39427fd324e68e5b834cbb3a3522af_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 307",
+      "ENGINE": "2.0 HDI",
+      "YEAR": "2007",
+      "NUMBER MANUFACTURER": "SIEMENS 5WS40133C-T",
+      "NUMBER PARTS": "SID 801A",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:07:33.404Z",
+    "model": "mistral:7b",
+    "durationMs": 12413,
+    "priceIncrement": 100
+  }
+}

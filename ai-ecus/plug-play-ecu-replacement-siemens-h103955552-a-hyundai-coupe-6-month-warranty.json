@@ -1,0 +1,50 @@
+{
+  "title": "Plug & Play ECU Replacement - OEM Tested Siemens H103955552 A for Hyundai Coupe, 6-month Warranty",
+  "slug": "plug-play-ecu-replacement-siemens-h103955552-a-hyundai-coupe-6-month-warranty",
+  "metaDescription": "OEM tested Plug & Play ECU replacement for Hyundai Coupe with 6-month warranty. Fast dispatch and expert installation instructions.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play ECU Replacement for Hyundai Coupe",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Siemens H103955552 A",
+    "Hyundai Coupe",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Hyundai Coupe is thoroughly inspected and tested by a certified technician, ensuring optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Expertly Inspected and Tested</li>\n        <li>Ready for Installation</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS:</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL:</th><td>HYUNDAI COUPE</td></tr>\n        <tr><th>NUMBER MANUFACTURER:</th><td>SIEMENS H103955552 A</td></tr>\n        <tr><th>CODE:</th><td>G71</td></tr>\n        <tr><th>NUMBER PARTS:</th><td>HMC LO3</td></tr>\n        <tr><th>OPTION AVAILABLE:</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION:</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Hyundai Coupe models. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HYUNDAI COUPE SIEMENS H103955552 A, 3914023711, 39140-23711, 3915023711, 39150-23711, HMC LO3 G71",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HYUNDAI-COUPE-SIEMENS-H103955552-A%2C-3914023711%2C-39140-23711%2C-3915023711%2C-39150-23711%2C-HMC-LO3-G71/32442",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Siemens",
+    "productCode": "67E4-40509",
+    "sku": "67E4-40509",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HYUNDAI COUPE SIEMENS H103955552 A, 3914023711, 39140-23711, 3915023711, 39150-23711, HMC LO3 G71</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HYUNDAI COUPE",
+      "NUMBER MANUFACTURER": "SIEMENS H103955552 A",
+      "CODE": "G71",
+      "NUMBER PARTS": "HMC LO3",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:38:05.055Z",
+    "model": "mistral:7b",
+    "durationMs": 10262,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for Seat Arosa VW Lupo 1.0 - OEM Tested, Bosch 0 261 206 823",
+  "slug": "plug-play-ecu-replacement-seat-arosa-vw-lupo-1-0-bosch-0-261-206-823",
+  "metaDescription": "OEM tested, Plug & Play ECU replacement for Seat Arosa VW Lupo 1.0 - Bosch 0 261 206 823. Fast dispatch, 12-month warranty.",
+  "price": "€87.00",
+  "excerpt": "OEM tested ECU replacement for Seat Arosa VW Lupo 1.0",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Seat Arosa VW Lupo",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Seat Arosa VW Lupo 1.0 is guaranteed to improve your vehicle's performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play design for easy installation</li>\n        <li>OEM tested for reliability</li>\n        <li>6-month warranty</li>\n        <li>Used in good condition</li>\n        <li>Compatible with Seat Arosa VW Lupo 1.0</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>SEAT AROSA VW LUPO</td></tr>\n        <tr><th>ENGINE</th><td>1.0 AUC</td></tr>\n        <tr><th>YEAR</th><td>2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 261 206 823</td></tr>\n        <tr><th>NUMBER PARTS</th><td>26SA685</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Seat Arosa VW Lupo 1.0. Fitment caution: Ensure proper installation for optimal performance.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER SEAT AROSA VW LUPO 1.0 030 906 032 AS, 030906032AS, BOSCH 0 261 206 823, 0261206823",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-SEAT-AROSA-VW-LUPO-1.0-030-906-032-AS%2C-030906032AS%2C-BOSCH-0-261-206-823%2C-0261206823/31728",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "7660-11144_20121116211038",
+    "sku": "7660-11144_20121116211038",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER SEAT AROSA VW LUPO 1.0 030 906 032 AS, 030906032AS, BOSCH 0 261 206 823, 0261206823</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_a6a3aea4af39d2aa47be59715d56b5ae_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_1ddf398d2b81b9f842c4c83373b4e73b_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "SEAT AROSA VW LUPO",
+      "ENGINE": "1.0 AUC",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 206 823",
+      "NUMBER PARTS": "26SA685",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T02:49:11.564Z",
+    "model": "mistral:7b",
+    "durationMs": 9808,
+    "priceIncrement": 100
+  }
+}

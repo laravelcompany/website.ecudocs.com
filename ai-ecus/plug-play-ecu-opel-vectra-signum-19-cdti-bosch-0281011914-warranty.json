@@ -1,0 +1,52 @@
+{
+  "title": "Plug & Play ECU Replacement for Opel Vectra/Signum 1.9 CDTI - OEM Tested Bosch 0281011914, Warranty Included",
+  "slug": "plug-play-ecu-opel-vectra-signum-19-cdti-bosch-0281011914-warranty",
+  "metaDescription": "Find the perfect Plug & Play ECU replacement for your Opel Vectra/Signum 1.9 CDTI. This OEM tested Bosch part (0281011914) comes with a 6-month warranty and fast shipping.",
+  "price": "€90.00",
+  "excerpt": "Plug & Play ECU Replacement for Opel Vectra/Signum 1.9 CDTI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Bosch 0281011914",
+    "Opel Vectra Signum",
+    "1.9 CDTI"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Opel Vectra/Signum 1.9 CDTI has been thoroughly tested and is ready for installation by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Plug & Play</li>\n        <li>EU Shipping</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM</td></tr>\n        <tr><th>ENGINE</th><td>1.9 CDTI Z19DT Z19DTL Z19DTH</td></tr>\n        <tr><th>YEAR</th><td>2004-2005</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 011 914</td></tr>\n        <tr><th>CODE</th><td>YZ</td></tr>\n        <tr><th>NUMBER PARTS</th><td>1039S07138</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Locked / Ready for programming</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Opel Vectra/Signum 1.9 CDTI Z19DT Z19DTL Z19DTH. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM 1.9 CDTI Z19DT Z19DTL Z19DTH 55193968 YZ, 55 193 968 YZ, BOSCH 0281011914 , 0 281 011 914, 55189926, 55 189 926, 6235370, 62 35 370",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-OPEL-CHEVROLET-HOLDEN-VAUXHALL-VECTRA-SIGNUM-1.9-CDTI-Z19DT-Z19DTL-Z19DTH-55193968-YZ%2C-55-193-968-YZ%2C-BOSCH-0281011914-%2C-0-281-011-914%2C-55189926%2C-55-189-926%2C-6235370%2C-62-35-370-/9953",
+    "priceCurrency": "EUR",
+    "netPrice": "€80.00",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "9953",
+    "sku": "9953",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM 1.9 CDTI Z19DT Z19DTL Z19DTH 55193968 YZ, 55 193 968 YZ, BOSCH 0281011914 , 0 281 011 914, 55189926, 55 189 926, 6235370, 62 35 370 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "OPEL CHEVROLET HOLDEN VAUXHALL VECTRA SIGNUM",
+      "ENGINE": "1.9 CDTI Z19DT Z19DTL Z19DTH",
+      "YEAR": "2004-2005",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 011 914",
+      "CODE": "YZ",
+      "NUMBER PARTS": "1039S07138",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T22:46:12.057Z",
+    "model": "mistral:7b",
+    "durationMs": 12700,
+    "priceIncrement": 100
+  }
+}

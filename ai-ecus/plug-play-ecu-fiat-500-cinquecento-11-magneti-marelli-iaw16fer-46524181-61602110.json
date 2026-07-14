@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - FIAT 500 Cinquecento 1.1 Magneti Marelli IAW 16F.ER, IAW16FER, 46524181, 61602.110.00 E",
+  "slug": "plug-play-ecu-fiat-500-cinquecento-11-magneti-marelli-iaw16fer-46524181-61602110",
+  "metaDescription": "OEM Tested ECU Engine Controller for FIAT 500 Cinquecento 1.1 by Magneti Marelli, 6-month warranty and fast dispatch.",
+  "price": "€110.00",
+  "excerpt": "Plug & Play OEM ECU replacement for your FIAT 500 Cinquecento 1.1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "FIAT 500 Cinquecento",
+    "Magneti Marelli",
+    "IAW16FER"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU engine controller for the FIAT 500 Cinquecento 1.1 by Magneti Marelli ensures optimal vehicle performance and is backed by a 6-month warranty.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>ECU Replacement</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr><tr><th>BRAND AND MODEL</th><td>FIAT 500 CINQUECENTO</td></tr><tr><th>ENGINE</th><td>1.1</td></tr><tr><th>YEAR</th><td>1997</td></tr><tr><th>NUMBER MANUFACTURER</th><td>MAGNETI MARELLI IAW 16F.ER</td></tr><tr><th>NUMBER PARTS</th><td>61602.110.00 E</td></tr><tr><th>OPTION AVAILABLE</th><td>LOCKED / UNLOCKED</td></tr><tr><th>WARRANTY :</th><td>6-month warranty</td></tr><tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr><tr><th>CONDITION</th><td>USED ORIGINAL IN GOOD CONDITION</td></tr></table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility: This ECU is designed for FIAT 500 Cinquecento 1.1 only. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT 500 CINQUECENTO 1.1 MAGNETI MARELLI IAW 16F.ER, IAW16FER, 46524181, 61602.110.00 E, 6160211000 E",
+    "price": "€100.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-500-CINQUECENTO-1.1-MAGNETI-MARELLI-IAW-16F.ER%2C-IAW16FER%2C-46524181%2C-61602.110.00-E%2C-6160211000-E/51709",
+    "priceCurrency": "EUR",
+    "netPrice": "€81.30",
+    "category": "ECU Engine control unit",
+    "brand": "Magneti Marelli",
+    "productCode": "86F2-1938C_20140224112723",
+    "sku": "86F2-1938C_20140224112723",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT 500 CINQUECENTO 1.1 MAGNETI MARELLI IAW 16F.ER, IAW16FER, 46524181, 61602.110.00 E, 6160211000 E</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT 500 CINQUECENTO",
+      "ENGINE": "1.1",
+      "YEAR": "1997",
+      "NUMBER MANUFACTURER": "MAGNETI MARELLI IAW 16F.ER",
+      "NUMBER PARTS": "61602.110.00 E",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T13:15:03.033Z",
+    "model": "mistral:7b",
+    "durationMs": 11130,
+    "priceIncrement": 100
+  }
+}

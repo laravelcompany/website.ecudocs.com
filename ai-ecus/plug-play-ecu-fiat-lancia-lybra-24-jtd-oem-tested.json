@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement for Fiat Lancia Lybra 2.4 JTD - OEM Tested, Warranty Included (0 281 010 743, 0281010745, 55186491, 73501145)",
+  "slug": "plug-play-ecu-fiat-lancia-lybra-24-jtd-oem-tested",
+  "metaDescription": "Buy OEM tested ECU Engine Controller for Fiat Lancia Lybra 2.4 JTD (0 281 010 743, 55186491, 73501145). Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€100.00",
+  "excerpt": "OEM tested ECU Engine Controller for Fiat Lancia Lybra 2.4 JTD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Fiat Lancia Lybra",
+    "2.4 JTD",
+    "Bosch"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller is a reliable replacement for your Fiat Lancia Lybra 2.4 JTD.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>FIAT LANCIA LYBRA</td></tr>\n        <tr><th>ENGINE</th><td>2.4 JTD</td></tr>\n        <tr><th>YEAR</th><td>2003</td></tr>\n        <tr><th>NUMBER PARTS</th><td>73501145</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with Fiat Lancia Lybra 2.4 JTD. Please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FIAT LANCIA LYBRA BOSCH 0 281 010 743, 0281010743, 55186491, 73501145",
+    "price": "€90.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FIAT-LANCIA-LYBRA-BOSCH-0-281-010-743%2C-0281010743%2C-55186491%2C-73501145/59818",
+    "priceCurrency": "EUR",
+    "netPrice": "€73.17",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "0694-4391A_20140707180552",
+    "sku": "0694-4391A_20140707180552",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FIAT LANCIA LYBRA BOSCH 0 281 010 743, 0281010743, 55186491, 73501145</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_2cbc4a72853df2c7317af4765117f5bd_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_21960e1c520f81314cf0bce74ada0e79_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FIAT LANCIA LYBRA",
+      "ENGINE": "2.4 JTD",
+      "YEAR": "2003",
+      "NUMBER PARTS": "73501145",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T14:00:11.928Z",
+    "model": "mistral:7b",
+    "durationMs": 9448,
+    "priceIncrement": 100
+  }
+}

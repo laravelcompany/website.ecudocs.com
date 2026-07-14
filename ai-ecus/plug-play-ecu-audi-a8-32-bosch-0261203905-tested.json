@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play ECU Replacement - Audi A8 3.2 BOSCH 0 261 203 905/906, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-audi-a8-32-bosch-0261203905-tested",
+  "metaDescription": "OEM tested ECU Replacement for Audi A8 3.2 BOSCH 0 261 203 905/906, Plug & Play, 6-month warranty.",
+  "price": "€250.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A8 3.2 BOSCH - OEM Tested",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A8",
+    "Bosch",
+    "0 261 203 905/906"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Replacement for Audi A8 3.2 BOSCH 0 261 203 905/906 is a reliable solution to ensure optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used, Original in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>AUDI A8</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>3.2</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1995</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>BOSCH 0 261 203 905/906</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>4D0 907 557 A</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">This part is a direct replacement and fits all Audi A8 models with the specified engine and year.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A8 3.2 BOSCH 0 261 203 905/906, 0261203905, 4D0 907 557 A, 4D0907557A",
+    "price": "€150.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A8-3.2-BOSCH-0-261-203-905906%2C-0261203905%2C-4D0-907-557-A%2C-4D0907557A-/43396",
+    "priceCurrency": "EUR",
+    "netPrice": "€121.95",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "90C2-687E7",
+    "sku": "90C2-687E7",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A8 3.2 BOSCH 0 261 203 905/906, 0261203905, 4D0 907 557 A, 4D0907557A </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A8",
+      "ENGINE": "3.2",
+      "YEAR": "1995",
+      "NUMBER MANUFACTURER": "BOSCH 0 261 203 905/906",
+      "NUMBER PARTS": "4D0 907 557 A",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:41:55.018Z",
+    "model": "mistral:7b",
+    "durationMs": 11625,
+    "priceIncrement": 100
+  }
+}

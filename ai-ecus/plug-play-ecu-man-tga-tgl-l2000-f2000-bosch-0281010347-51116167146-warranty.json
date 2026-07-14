@@ -1,0 +1,48 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement - MAN TGA TGL L2000 F2000 Bosch 0 281 010 347, 51.11 616-7146 - Warranty Included",
+  "slug": "plug-play-ecu-man-tga-tgl-l2000-f2000-bosch-0281010347-51116167146-warranty",
+  "metaDescription": "Buy a Plug & Play ECU Engine Controller for MAN TGA TGL L2000 F2000. This OEM tested, used in good condition part includes a 6-month warranty and is ready for fast dispatch.",
+  "price": "€650.00",
+  "excerpt": "Plug & Play ECU Replacement for MAN TGA TGL L2000 F2000",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "MAN TGA TGL L2000 F2000",
+    "Bosch 0 281 010 347",
+    "51.11 616-7146"
+  ],
+  "description": "<section class=\"overview\">This ECU Engine Controller for MAN TGA TGL L2000 F2000 has been thoroughly inspected and tested by a certified technician, ensuring reliable performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Fast Dispatch</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>MAN TGA TGL L2000 F2000</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 010 347</td></tr>\n        <tr><th>NUMBER PARTS</th><td>51.11 616-7146</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER MAN BOSCH 0 281 010 347, 0281010347, L20 9Z24, 51.11 616-7146, 51116167146",
+    "price": "€550.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-MAN-BOSCH-0-281-010-347%2C-0281010347%2C-L20-9Z24%2C-51.11-616-7146%2C-51116167146/75794",
+    "priceCurrency": "EUR",
+    "netPrice": "€447.16",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "D11C-179B8_20150630171908",
+    "sku": "D11C-179B8_20150630171908",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER MAN BOSCH 0 281 010 347,  0281010347, L20 9Z24, 51.11 616-7146, 51116167146</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "MAN TGA TGL L2000 F2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 347",
+      "NUMBER PARTS": "51.11 616-7146",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T18:48:47.394Z",
+    "model": "mistral:7b",
+    "durationMs": 10162,
+    "priceIncrement": 100
+  }
+}

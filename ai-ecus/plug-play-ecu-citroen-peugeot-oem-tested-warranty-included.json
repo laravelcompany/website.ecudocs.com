@@ -1,0 +1,51 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Citroen Peugeot - 21647432-8, 216474328, 9646185080, 9646989080 - Warranty Included",
+  "slug": "plug-play-ecu-citroen-peugeot-oem-tested-warranty-included",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Citroen Peugeot. Used in good condition, 6-month warranty, fast dispatch within EU.",
+  "price": "€325.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Citroen Peugeot",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Citroen Peugeot",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU Replacement for Citroen Peugeot is a reliable solution, thoroughly inspected and tested by certified technicians.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Used in Good Condition</li><li>Fast Dispatch within EU</li></ul></section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr><td>PARTS</td><td>ECU ENGINE CONTROLLER</td></tr>\n            <tr><td>BRAND AND MODEL</td><td>CITROEN PEUGEOT</td></tr>\n            <tr><td>NUMBER MANUFACTURER</td><td>21647432-8</td></tr>\n            <tr><td>NUMBER PARTS</td><td>9646989080</td></tr>\n            <tr><td>OPTION AVAILABLE</td><td>Plug & Play / Locked / Ready for programming</td></tr>\n            <tr><td>WARRANTY :</td><td>6-month warranty</td></tr>\n            <tr><td>INSPECTION:</td><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n            <tr><td>CONDITION</td><td>USED ORYGINAL IN GOOD CONDITION</td></tr>\n        </tbody>\n    </table></section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER CITROEN PEUGEOT 21647432-8, 216474328, 9646185080, 9646989080",
+    "price": "€225.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-CITROEN-PEUGEOT-21647432-8%2C-216474328%2C-9646185080%2C-9646989080/119106",
+    "priceCurrency": "EUR",
+    "netPrice": "€182.93",
+    "category": "ECU Engine control unit",
+    "brand": "Sagem",
+    "productCode": "56A2-2530E_20200609161608",
+    "sku": "56A2-2530E_20200609161608",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER CITROEN PEUGEOT 21647432-8, 216474328, 9646185080, 9646989080</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_243402_0_0/CITROEN-PEUGEOT-21647432-8%2C-216474328%2C-9646185080%2C-9646989080.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_243403_0_0/CITROEN-PEUGEOT-21647432-8%2C-216474328%2C-9646185080%2C-9646989080.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "CITROEN PEUGEOT",
+      "NUMBER MANUFACTURER": "21647432-8",
+      "NUMBER PARTS": "9646989080",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T12:20:28.359Z",
+    "model": "mistral:7b",
+    "durationMs": 10657,
+    "priceIncrement": 100
+  }
+}

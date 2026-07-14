@@ -1,0 +1,52 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.6 - Continental 8V21-12A650-HE, J38AC - Warranty Included",
+  "slug": "plug-play-ecu-ford-fiesta-1-6-continental-8v21-12a650-he-j38ac-warranty",
+  "metaDescription": "Buy OEM tested Plug & Play ECU Replacement for Ford Fiesta 1.6 by Continental (8V21-12A650-HE, J38AC). Ships within 24–48 hours with 6-month warranty.",
+  "price": "€275.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.6",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Continental",
+    "8V21-12A650-HE",
+    "J38AC"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for Ford Fiesta 1.6 by Continental (8V21-12A650-HE, J38AC) is a reliable solution to keep your vehicle running smoothly.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested and Certified</li>\n        <li>Plug & Play for Easy Installation</li>\n        <li>6-month Warranty Included</li>\n        <li>Used in Good Condition</li>\n        <li>Compatible with Ford Fiesta 1.6</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>FORD FIESTA</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>1.6</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>2008</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>8V21-12A650-HE</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>J38AC</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Ships within 24–48 hours with EU-wide shipping and a 12-month warranty.</section>\n<section class=\"compatibility\">This ECU is compatible with Ford Fiesta 1.6, but please verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.6 8V21-12A650-HE, 8V2112A650HE, S180049001, 0HAE, J38AC",
+    "price": "€175.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.6-8V21-12A650-HE%2C-8V2112A650HE%2C-S180049001%2C-0HAE%2C-J38AC/35674",
+    "priceCurrency": "EUR",
+    "netPrice": "€142.28",
+    "category": "ECU Engine control unit",
+    "brand": "Continental",
+    "productCode": "CF32-6843B_20130528080500",
+    "sku": "CF32-6843B_20130528080500",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.6 8V21-12A650-HE, 8V2112A650HE, S180049001, 0HAE, J38AC</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.6",
+      "YEAR": "2008",
+      "NUMBER MANUFACTURER": "8V21-12A650-HE",
+      "NUMBER PARTS": "J38AC",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:30:22.147Z",
+    "model": "mistral:7b",
+    "durationMs": 12005,
+    "priceIncrement": 100
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plug & Play OEM Tested ECU Replacement Audi A4 Bosch 0 281 012 128, 0281012128, 03G 906 016 FP - 6-month Warranty",
+  "slug": "plug-play-ecu-audi-a4-bosch-0281012128-warranty",
+  "metaDescription": "Expertly tested and Plug & Play ECU replacement for Audi A4 with Bosch 0 281 012 128, 0281012128, 03G 906 016 FP. 6-month warranty. Fast dispatch within EU.",
+  "price": "€300.00",
+  "excerpt": "Plug & Play ECU Replacement for Audi A4",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A4 Bosch ECU",
+    "OEM part numbers"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play OEM tested ECU replacement for the Audi A4 features Bosch 0 281 012 128, 0281012128, 03G 906 016 FP. Trust in our expertly inspected and tested parts.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Ready for Programming</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>AUDI A4</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 012 128</td></tr>\n        <tr><th>NUMBER PARTS</th><td>03G 906 016 FP</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility may vary. Always verify fitment before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A4 BOSCH 0 281 012 128, 0281012128, 03G 906 016 FP, 03G906016FP",
+    "price": "€200.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A4-BOSCH-0-281-012-128%2C-0281012128%2C-03G-906-016-FP%2C-03G906016FP/113032",
+    "priceCurrency": "EUR",
+    "netPrice": "€162.60",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "51DB-58051_20190318145442",
+    "sku": "51DB-58051_20190318145442",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A4 BOSCH 0 281 012 128, 0281012128, 03G 906 016 FP, 03G906016FP</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_227839_0_0/AUDI-A4-BOSCH-0-281-012-128%2C-0281012128%2C-03G-906-016-FP%2C-03G906016FP.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_227840_0_0/AUDI-A4-BOSCH-0-281-012-128%2C-0281012128%2C-03G-906-016-FP%2C-03G906016FP.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A4",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 012 128",
+      "NUMBER PARTS": "03G 906 016 FP",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:21:28.584Z",
+    "model": "mistral:7b",
+    "durationMs": 9577,
+    "priceIncrement": 100
+  }
+}

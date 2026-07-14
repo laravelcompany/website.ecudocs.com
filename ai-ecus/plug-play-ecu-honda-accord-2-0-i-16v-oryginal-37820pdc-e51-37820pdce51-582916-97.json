@@ -1,0 +1,54 @@
+{
+  "title": "Plug & Play ECU Engine Controller Honda Accord 2,0 i 16V Oryginal 37820-PDC-E51, 37820PDCE51, 582916-9706, 5829169706 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-honda-accord-2-0-i-16v-oryginal-37820pdc-e51-37820pdce51-582916-97",
+  "metaDescription": "OEM tested ECU Engine Controller Honda Accord 2,0 i 16V by Oryginal. Plug & Play replacement, 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€350.00",
+  "excerpt": "OEM tested ECU Engine Controller Honda Accord 2,0 i 16V by Oryginal",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Honda Accord",
+    "2,0 i 16V",
+    "Oryginal"
+  ],
+  "description": "<section class=\"overview\">This ECU Engine Controller for Honda Accord 2,0 i 16V has been thoroughly inspected and tested by a certified technician to ensure optimal performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>OEM Tested</li>\n        <li>Plug & Play</li>\n        <li>6-month Warranty</li>\n        <li>Used Oryginal in Good Condition</li>\n        <li>Complet Option Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <thead>\n            <tr>\n                <th>Specification</th>\n                <th>Value</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>PARTS</td>\n                <td>ECU ENGINE CONTROLLER</td>\n            </tr>\n            <tr>\n                <td>BRAND AND MODEL</td>\n                <td>HONDA ACCORD</td>\n            </tr>\n            <tr>\n                <td>ENGINE</td>\n                <td>2,0 i 16V</td>\n            </tr>\n            <tr>\n                <td>YEAR</td>\n                <td>1998-2002</td>\n            </tr>\n            <tr>\n                <td>NUMBER MANUFACTURER</td>\n                <td>37820PDCE51</td>\n            </tr>\n            <tr>\n                <td>NUMBER PARTS</td>\n                <td>5829169706</td>\n            </tr>\n        </tbody>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within EU, 12-month warranty, fast dispatch.</section>\n<section class=\"compatibility\">Compatibility notes and fitment caution may apply. Please verify compatibility before purchase.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER HONDA ACCORD 37820-PDC-E51, 37820PDCE51, 582916-9706, 5829169706",
+    "price": "€125.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-HONDA-ACCORD-37820-PDC-E51%2C-37820PDCE51%2C-582916-9706%2C-5829169706/63237",
+    "priceCurrency": "EUR",
+    "netPrice": "€101.63",
+    "category": "ECU Engine control unit",
+    "brand": "ORYGINAL",
+    "productCode": "454A-598E8_20140818101857",
+    "sku": "454A-598E8_20140818101857",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER HONDA ACCORD 37820-PDC-E51, 37820PDCE51, 582916-9706, 5829169706</strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_de754e95ffa357bf2f8848af61df261e_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_242157_0_0/HONDA-ACCORD-37820-PDC-E51%2C-37820PDCE51%2C-582916-9706%2C-5829169706.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "HONDA ACCORD",
+      "ENGINE": "2,0 i 16V",
+      "YEAR": "1998-2002",
+      "NUMBER MANUFACTURER": "37820PDCE51",
+      "NUMBER PARTS": "5829169706",
+      "OPTION AVAILABLE": "complet",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED ORYGINAL IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T17:15:50.707Z",
+    "model": "mistral:7b",
+    "durationMs": 12237,
+    "priceIncrement": 100
+  }
+}

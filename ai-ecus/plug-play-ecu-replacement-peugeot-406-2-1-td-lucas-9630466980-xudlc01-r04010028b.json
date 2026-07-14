@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - PEUGEOT 406 2.1 TD OEM Tested - Lucas 9630466980 XUDLC01 R04010028B",
+  "slug": "plug-play-ecu-replacement-peugeot-406-2-1-td-lucas-9630466980-xudlc01-r04010028b",
+  "metaDescription": "OEM tested ECU Engine Controller for PEUGEOT 406 2.1 TD, Plug & Play, 6-month warranty, fast dispatch.",
+  "price": "€30.00",
+  "excerpt": "Plug & Play ECU Replacement for Peugeot 406 2.1 TD",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Peugeot 406",
+    "2.1 TD",
+    "Lucas",
+    "OEM part"
+  ],
+  "description": "<section class=\"overview\">This OEM tested ECU Engine Controller for PEUGEOT 406 2.1 TD is a reliable replacement, ensuring optimal engine performance.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Fast Dispatch (EU)</li>\n        <li>Used in Good Condition</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>PEUGEOT 406</td></tr>\n        <tr><th>ENGINE</th><td>2.1 TD</td></tr>\n        <tr><th>YEAR</th><td>1998</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>DCU R 04010028 B 80768D</td></tr>\n        <tr><th>CODE</th><td>XUDLC01</td></tr>\n        <tr><th>NUMBER PARTS</th><td>96 304 669 80</td></tr>\n        <tr><th>OPTION AVAILABLE</th><td>Plug & Play / Locked / Ready for programming</td></tr>\n        <tr><th>INSPECTION:</th><td>Device thoroughly inspected and tested by a certified technician</td></tr>\n        <tr><th>WARRANTY :</th><td>6-month warranty</td></tr>\n        <tr><th>CONDITION</th><td>USED IN GOOD CONDITION</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatible with PEUGEOT 406 2.1 TD. Fitment caution may apply.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER PEUGEOT 406 2.1 TD 9630466980 XUDLC01 R04010028B",
+    "price": "€20.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-PEUGEOT-406-2.1-TD-9630466980-XUDLC01-R04010028B-/16489",
+    "priceCurrency": "EUR",
+    "netPrice": "€16.26",
+    "category": "ECU Engine control unit",
+    "brand": "Lucas",
+    "productCode": "05D5-834A8",
+    "sku": "05D5-834A8",
+    "availability": "available24 h",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER PEUGEOT 406 2.1 TD 9630466980 XUDLC01 R04010028B </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "PEUGEOT 406",
+      "ENGINE": "2.1 TD",
+      "YEAR": "1998",
+      "NUMBER MANUFACTURER": "DCU R 04010028 B 80768D",
+      "CODE": "XUDLC01",
+      "NUMBER PARTS": "96 304 669 80",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-04-01T00:17:46.577Z",
+    "model": "mistral:7b",
+    "durationMs": 11956,
+    "priceIncrement": 100
+  }
+}

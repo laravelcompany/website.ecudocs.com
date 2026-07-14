@@ -1,0 +1,50 @@
+{
+  "title": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.1 - Visteon 92FB-12A650-FB, 93FB12A650FB, 2FFB - Warranty Included",
+  "slug": "plug-play-ecu-ford-fiesta-11-visteon-warranty-included",
+  "metaDescription": "Get a certified Plug & Play ECU Engine Controller for your Ford Fiesta 1.1, backed by a 6-month warranty and fast shipping.",
+  "price": "€80.00",
+  "excerpt": "OEM Tested Plug & Play ECU Replacement for Ford Fiesta 1.1",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Ford Fiesta",
+    "Visteon",
+    "1.1"
+  ],
+  "description": "<section class=\"overview\">This OEM tested Plug & Play ECU replacement for your Ford Fiesta 1.1 offers a seamless fit and reliable performance.</section>\n<section class=\"features\"><ul><li>OEM Tested</li><li>Plug & Play</li><li>6-month Warranty</li><li>Fast Dispatch</li><li>Compatible with Ford Fiesta 1.1</li></ul></section>\n<section class=\"specs\"><table><tr><th>PARTS</th><th>BRAND AND MODEL</th><th>ENGINE</th><th>YEAR</th><th>NUMBER MANUFACTURER</th><th>NUMBER PARTS</th></tr><tr><td>ECU ENGINE CONTROLLER</td><td>FORD FIESTA</td><td>1.1</td><td>1993</td><td>92FB-12A650-FB</td><td>2FFB</td></tr></table></section>\n<section class=\"shipping\">Ships within 24–48 hours with EU delivery and a 12-month warranty.</section>\n<section class=\"compatibility\">Ensure proper fitment before installation. Consult a professional if needed.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER FORD FIESTA 1.1 92FB-12A650-FB, 93FB12A650FB, 2FFB",
+    "price": "€70.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-FORD-FIESTA-1.1-92FB-12A650-FB%2C-93FB12A650FB%2C-2FFB-/42843",
+    "priceCurrency": "EUR",
+    "netPrice": "€56.91",
+    "category": "ECU Engine control unit",
+    "brand": "Visteon",
+    "productCode": "1A0D-20226",
+    "sku": "1A0D-20226",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER FORD FIESTA 1.1 92FB-12A650-FB, 93FB12A650FB, 2FFB </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "FORD FIESTA",
+      "ENGINE": "1.1",
+      "YEAR": "1993",
+      "NUMBER MANUFACTURER": "92FB-12A650-FB",
+      "NUMBER PARTS": "2FFB",
+      "OPTION AVAILABLE": "Plug & Play / Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T15:15:01.434Z",
+    "model": "mistral:7b",
+    "durationMs": 7938,
+    "priceIncrement": 100
+  }
+}

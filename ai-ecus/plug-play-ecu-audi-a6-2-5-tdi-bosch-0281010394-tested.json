@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement Audi A6 2.5 TDI Bosch 0 281 010 394, DIESEL EDC15UM+ D02 - OEM Tested, Warranty",
+  "slug": "plug-play-ecu-audi-a6-2-5-tdi-bosch-0281010394-tested",
+  "metaDescription": "Plug & Play ECU replacement for Audi A6 2.5 TDI, OEM tested and covered by a 6-month warranty. Shipping within 24–48 hours.",
+  "price": "€90.00",
+  "excerpt": "OEM Tested Plug & Play ECU for Audi A6 2.5 TDI",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "Audi A6",
+    "2.5 TDI",
+    "Bosch",
+    "0 281 010 394",
+    "DIESEL EDC15UM+ D02"
+  ],
+  "description": "<section class=\"overview\">This Plug & Play ECU replacement for Audi A6 2.5 TDI is OEM tested and guaranteed to fit perfectly.</section>\n<section class=\"features\"><ul><li>Plug & Play</li><li>OEM Tested</li><li>Warranty Included</li><li>Fast Dispatch</li><li>Used in Good Condition</li></ul></section>\n<section class=\"specs\">... (same as provided technicalData)</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Please verify compatibility before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER AUDI A6 2.5 TDI 4B2907401E, 4B2 907 401 E, BOSCH 0 281 010 394, 0281010394, DIESEL EDC15UM+ D02",
+    "price": "€80.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-AUDI-A6-2.5-TDI-4B2907401E%2C-4B2-907-401-E%2C-BOSCH-0-281-010-394%2C-0281010394%2C-DIESEL-EDC15UM-D02-/16152",
+    "priceCurrency": "EUR",
+    "netPrice": "€65.04",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "2C58-534A2",
+    "sku": "2C58-534A2",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER AUDI A6 2.5 TDI 4B2907401E, 4B2 907 401 E, BOSCH 0 281 010 394, 0281010394, DIESEL EDC15UM+ D02 </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "AUDI A6",
+      "ENGINE": "2.5 TDI",
+      "YEAR": "2000",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 010 394",
+      "NUMBER PARTS": "DIESEL EDC15UM+ D02",
+      "OPTION AVAILABLE": "Locked / Ready for programming",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "WARRANTY :": "6-month warranty",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T09:32:10.488Z",
+    "model": "mistral:7b",
+    "durationMs": 6753,
+    "priceIncrement": 100
+  }
+}

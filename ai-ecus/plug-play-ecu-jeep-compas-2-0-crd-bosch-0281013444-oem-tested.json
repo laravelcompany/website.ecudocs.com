@@ -1,0 +1,53 @@
+{
+  "title": "Plug & Play ECU Replacement - JEEP COMPAS 2.0 CRD BOSCH 0 281 013 444, OEM Tested, Warranty Included",
+  "slug": "plug-play-ecu-jeep-compas-2-0-crd-bosch-0281013444-oem-tested",
+  "metaDescription": "Buy OEM ECU ENGINE CONTROLLER JEEP COMPAS 2.0 CRD BOSCH 0 281 013 444, P05094599AD. Plug & Play, tested and covered by a 6-month warranty.",
+  "price": "€350.00",
+  "excerpt": "OEM ECU Replacement for Jeep Compas 2.0 CRD BOSCH",
+  "tags": [
+    "ECU repair",
+    "Plug & Play ECU",
+    "JEEP COMPAS 2.0 CRD",
+    "BOSCH",
+    "P05094599AD"
+  ],
+  "description": "<section class=\"overview\">This OEM ECU ENGINE CONTROLLER for Jeep Compas 2.0 CRD BOSCH has been thoroughly inspected and tested by a certified technician.</section>\n<section class=\"features\">\n    <ul>\n        <li>Plug & Play</li>\n        <li>OEM Tested</li>\n        <li>6-month Warranty</li>\n        <li>Used in Good Condition</li>\n        <li>Locked / Unlocked Available</li>\n    </ul>\n</section>\n<section class=\"specs\">\n    <table>\n        <tr><th>PARTS</th><td>ECU ENGINE CONTROLLER</td></tr>\n        <tr><th>BRAND AND MODEL</th><td>JEEP COMPAS</td></tr>\n        <tr><th>ENGINE</th><td>2.0 CRD</td></tr>\n        <tr><th>NUMBER MANUFACTURER</th><td>BOSCH 0 281 013 444</td></tr>\n        <tr><th>NUMBER PARTS</th><td>P05094599AD</td></tr>\n    </table>\n</section>\n<section class=\"shipping\">Shipping within 24–48 hours. EU, 12-month warranty.</section>\n<section class=\"compatibility\">Compatibility and fitment may vary. Please verify before installation.</section>",
+  "_source": {
+    "name": "ECU ENGINE CONTROLLER JEEP COMPAS 2.0 CRD BOSCH 0 281 013 444, 0281013444, P05094599AD",
+    "price": "€250.00",
+    "link": "https://auto24parts.com/en_GB/p/ECU-ENGINE-CONTROLLER-JEEP-COMPAS-2.0-CRD-BOSCH-0-281-013-444%2C-0281013444%2C-P05094599AD-/104186",
+    "priceCurrency": "EUR",
+    "netPrice": "€203.25",
+    "category": "ECU Engine control unit",
+    "brand": "Bosch",
+    "productCode": "C2AD-7196C_20170310104747",
+    "sku": "C2AD-7196C_20170310104747",
+    "availability": "available",
+    "shipping": {
+      "cost": null,
+      "country": null
+    },
+    "description": "\n    <p>Product offer: <strong>ECU ENGINE CONTROLLER  JEEP COMPAS 2.0 CRD BOSCH 0 281 013 444, 0281013444, P05094599AD </strong>, tested and covered by a 6-month warranty. Shipping within 24–48 hours.</p>\n    <p class=\"brand-category-models-en\"></p>\n  ",
+    "images": [
+      "https://auto24parts.com/environment/cache/images/productGfx_b1c5ca03af89ed6421e92bae171a13c3_0_0.jpg",
+      "https://auto24parts.com/environment/cache/images/productGfx_87fa4110048fe2f258c9b3a9f8755ac4_0_0.jpg"
+    ],
+    "technicalData": {
+      "PARTS": "ECU ENGINE CONTROLLER",
+      "BRAND AND MODEL": "JEEP COMPAS",
+      "ENGINE": "2.0 CRD",
+      "NUMBER MANUFACTURER": "BOSCH 0 281 013 444",
+      "NUMBER PARTS": "P05094599AD",
+      "OPTION AVAILABLE": "LOCKED / UNLOCKED",
+      "WARRANTY :": "6-month warranty",
+      "INSPECTION:": "Device thoroughly inspected and tested by a certified technician",
+      "CONDITION": "USED IN GOOD CONDITION"
+    }
+  },
+  "_meta": {
+    "processedAt": "2026-03-31T08:03:41.816Z",
+    "model": "mistral:7b",
+    "durationMs": 9272,
+    "priceIncrement": 100
+  }
+}
