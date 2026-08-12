@@ -10,6 +10,7 @@
     "preview": "astro preview",
     "validate:brands": "node scripts/validate-brands.mjs",
     "generate:brand": "node scripts/generate-brand-content.mjs",
+    "promote:brand": "node scripts/promote-brand-content.mjs",
     "astro": "astro"
   },
   "devDependencies": {
