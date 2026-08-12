@@ -7,7 +7,7 @@ import { hasText, readBrandContent, slugifyBrand } from '../../../lib/brand-cont
 
 export function getStaticPaths() {
   return brandsData.map((brand) => {
-    const [id, uuid, url, name] = brand;
+    const [, , url, name] = brand;
     const slug = slugifyBrand(name);
 
     return {
@@ -16,8 +16,8 @@ export function getStaticPaths() {
         brandName: name,
         brandUrl: url,
         brandLogo: `/images/brands/${slug}.jpg`,
-        brandSlug: slug
-      }
+        brandSlug: slug,
+      },
     };
   });
 }
@@ -35,21 +35,41 @@ let models = [];
 const modelsPath = path.join(process.cwd(), 'src', 'data', brandSlug, 'models.json');
 if (fs.existsSync(modelsPath)) {
   try {
-    models = JSON.parse(fs.readFileSync(modelsPath, 'utf-8'));
-  } catch (e) {
-    console.error(`Error loading models for ${brandSlug}:`, e);
+    const parsed = JSON.parse(fs.readFileSync(modelsPath, 'utf-8'));
+    if (Array.isArray(parsed)) models = parsed;
+  } catch (error) {
+    console.error(`Error loading models for ${brandSlug}:`, error);
   }
 }
+
+function modelLookupKey(value) {
+  return String(value ?? '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+}
+
+const modelRoutes = new Map();
+for (const model of models) {
+  if (!model?.name || model.id === 'placeholder-model') continue;
+  const routeKey = model.slug || model.id;
+  if (!routeKey) continue;
+  modelRoutes.set(modelLookupKey(model.name), `/automobiles/${brandSlug}-${routeKey}`);
+}
+
+const popularModels = Array.isArray(brandData?.popular_models)
+  ? brandData.popular_models.map((name) => ({ name, href: modelRoutes.get(modelLookupKey(name)) || null }))
+  : [];
 
 const pageTitle = brandData?.seo_title || `${brandName} ECU Documentation | EcuDocs.com`;
 const pageDescription = brandData?.seo_description || `Browse ECU documentation and technical resources currently indexed for ${brandName} vehicles.`;
 const heroDescription = brandData?.description || `Browse the ${brandName} vehicle models and ECU-related technical resources currently available on ECU Docs.`;
+const canonicalUrl = `/automobiles/brands/${brandSlug}`;
+
 const relatedBrandMap = new Map(brandsData.map((row) => [slugifyBrand(row[3]), row[3]]));
 const relatedBrands = Array.isArray(brandData?.related_brands)
   ? brandData.related_brands
       .filter((slug) => relatedBrandMap.has(slug) && slug !== brandSlug)
       .map((slug) => ({ slug, name: relatedBrandMap.get(slug) }))
   : [];
+
 const faqItems = Array.isArray(brandData?.faq)
   ? brandData.faq.filter((item) => hasText(item?.question) && hasText(item?.answer))
   : [];
@@ -60,19 +80,21 @@ const faqJsonLd = faqItems.length > 0
       mainEntity: faqItems.map((item) => ({
         '@type': 'Question',
         name: item.question,
-        acceptedAnswer: {
-          '@type': 'Answer',
-          text: item.answer,
-        },
+        acceptedAnswer: { '@type': 'Answer', text: item.answer },
       })),
     }
   : null;
+
+const sourceLinks = Array.isArray(brandData?.sources)
+  ? brandData.sources.filter((url) => typeof url === 'string' && /^https?:\/\//i.test(url))
+  : [];
 ---
 
 <Layout
   title={pageTitle}
   description={pageDescription}
   keywords={`${brandName} ECU, ${brandName} documentation, ${brandName} wiring diagrams, ${brandName} diagnostics, ${brandName} pinouts`}
+  canonicalUrl={canonicalUrl}
 >
   {faqJsonLd && <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />}
 
@@ -107,18 +129,11 @@ const faqJsonLd = faqItems.length > 0
             )}
           </div>
           <div class="max-w-3xl">
-            <h1 class="text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl mb-4">
-              {brandName} ECU Documentation
-            </h1>
+            <h1 class="text-4xl font-extrabold tracking-tight sm:text-5xl lg:text-6xl mb-4">{brandName} ECU Documentation</h1>
             <p class="text-lg text-charcoal-100 mb-6 max-w-2xl">{heroDescription}</p>
             <div class="flex flex-wrap gap-4 justify-center sm:justify-start">
               {brandUrl && (
-                <a
-                  href={brandUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="inline-flex items-center rounded-lg bg-tomato-500 px-6 py-3 text-sm font-bold shadow-lg hover:bg-tomato-600 transition-all transform hover:-translate-y-1"
-                >
+                <a href={brandUrl} target="_blank" rel="noopener noreferrer" class="inline-flex items-center rounded-lg bg-tomato-500 px-6 py-3 text-sm font-bold shadow-lg hover:bg-tomato-600 transition-all transform hover:-translate-y-1">
                   Manufacturer Reference →
                 </a>
               )}
@@ -141,24 +156,10 @@ const faqJsonLd = faqItems.length > 0
                 <span class="block text-xs font-bold uppercase tracking-wider text-gray-400">Manufacturer</span>
                 <span class="text-gray-700 dark:text-gray-300 font-medium">{brandName}</span>
               </div>
-              {brandData?.country && (
-                <div>
-                  <span class="block text-xs font-bold uppercase tracking-wider text-gray-400">Country</span>
-                  <span class="text-gray-700 dark:text-gray-300 font-medium">{brandData.country}</span>
-                </div>
-              )}
-              {brandData?.founded && (
-                <div>
-                  <span class="block text-xs font-bold uppercase tracking-wider text-gray-400">Founded</span>
-                  <span class="text-gray-700 dark:text-gray-300 font-medium">{brandData.founded}</span>
-                </div>
-              )}
-              {brandData?.current_status && (
-                <div>
-                  <span class="block text-xs font-bold uppercase tracking-wider text-gray-400">Status</span>
-                  <span class="text-gray-700 dark:text-gray-300 font-medium capitalize">{brandData.current_status}</span>
-                </div>
-              )}
+              {brandData?.country && <div><span class="block text-xs font-bold uppercase tracking-wider text-gray-400">Country</span><span class="text-gray-700 dark:text-gray-300 font-medium">{brandData.country}</span></div>}
+              {brandData?.founded && <div><span class="block text-xs font-bold uppercase tracking-wider text-gray-400">Founded</span><span class="text-gray-700 dark:text-gray-300 font-medium">{brandData.founded}</span></div>}
+              {brandData?.parent_company && <div><span class="block text-xs font-bold uppercase tracking-wider text-gray-400">Parent company</span><span class="text-gray-700 dark:text-gray-300 font-medium">{brandData.parent_company}</span></div>}
+              {brandData?.current_status && <div><span class="block text-xs font-bold uppercase tracking-wider text-gray-400">Status</span><span class="text-gray-700 dark:text-gray-300 font-medium capitalize">{brandData.current_status}</span></div>}
             </div>
           </div>
 
@@ -177,54 +178,46 @@ const faqJsonLd = faqItems.length > 0
             </section>
           )}
 
-          {(Array.isArray(brandData?.vehicle_types) || Array.isArray(brandData?.popular_models)) && (
+          {(Array.isArray(brandData?.vehicle_types) || popularModels.length > 0) && (
             <section class="grid grid-cols-1 md:grid-cols-2 gap-6">
               {Array.isArray(brandData?.vehicle_types) && brandData.vehicle_types.length > 0 && (
                 <div class="rounded-2xl bg-white dark:bg-gray-800 p-6 shadow-sm border border-gray-100 dark:border-gray-700">
                   <h2 class="text-xl font-bold text-gray-900 dark:text-white mb-4">Vehicle Types</h2>
-                  <ul class="space-y-2 text-gray-600 dark:text-gray-300">
-                    {brandData.vehicle_types.map((item) => <li>• {item}</li>)}
-                  </ul>
+                  <ul class="space-y-2 text-gray-600 dark:text-gray-300">{brandData.vehicle_types.map((item) => <li>• {item}</li>)}</ul>
                 </div>
               )}
-              {Array.isArray(brandData?.popular_models) && brandData.popular_models.length > 0 && (
+              {popularModels.length > 0 && (
                 <div class="rounded-2xl bg-white dark:bg-gray-800 p-6 shadow-sm border border-gray-100 dark:border-gray-700">
                   <h2 class="text-xl font-bold text-gray-900 dark:text-white mb-4">Popular Models</h2>
                   <ul class="space-y-2 text-gray-600 dark:text-gray-300">
-                    {brandData.popular_models.map((item) => <li>• {item}</li>)}
+                    {popularModels.map((item) => <li>• {item.href ? <a href={item.href} class="hover:text-tomato-500 font-medium">{item.name}</a> : item.name}</li>)}
                   </ul>
                 </div>
               )}
             </section>
           )}
 
-          {hasText(brandData?.ecu_information) && (
+          {(hasText(brandData?.ecu_information) || (Array.isArray(brandData?.common_ecu_manufacturers) && brandData.common_ecu_manufacturers.length > 0)) && (
             <section class="rounded-2xl bg-white dark:bg-gray-800 p-8 shadow-sm border border-gray-100 dark:border-gray-700">
               <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">ECU and Vehicle Electronics</h2>
-              <p class="leading-7 text-gray-600 dark:text-gray-300">{brandData.ecu_information}</p>
+              {hasText(brandData?.ecu_information) && <p class="leading-7 text-gray-600 dark:text-gray-300">{brandData.ecu_information}</p>}
+              {Array.isArray(brandData?.common_ecu_manufacturers) && brandData.common_ecu_manufacturers.length > 0 && (
+                <div class="mt-6"><h3 class="font-bold text-gray-900 dark:text-white mb-2">Common ECU suppliers</h3><p class="text-gray-600 dark:text-gray-300">{brandData.common_ecu_manufacturers.join(', ')}</p></div>
+              )}
             </section>
           )}
 
-          <section>
-            <div class="mb-8 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
-              <h2 class="text-3xl font-bold text-gray-900 dark:text-white">{brandName} Vehicle Library</h2>
-            </div>
-
+          <section id="vehicle-library">
+            <div class="mb-8"><h2 class="text-3xl font-bold text-gray-900 dark:text-white">{brandName} Vehicle Library</h2></div>
             {models.length > 0 ? (
               <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {models.map((model) => (
                   <div class="group relative flex flex-col rounded-2xl bg-white dark:bg-gray-800 p-6 shadow-sm border border-gray-100 dark:border-gray-700 transition-all hover:shadow-xl hover:-translate-y-1">
                     <h3 class="text-xl font-bold text-gray-900 dark:text-white group-hover:text-tomato-500 transition-colors mb-3">{model.name}</h3>
                     {model.engine_name && <p class="mb-2 text-sm text-gray-500 dark:text-gray-400">Engine: {model.engine_name}</p>}
-                    <p class="mb-6 line-clamp-2 text-sm text-gray-600 dark:text-gray-400">
-                      {model.description || `Technical resources indexed for the ${model.name}.`}
-                    </p>
+                    <p class="mb-6 line-clamp-2 text-sm text-gray-600 dark:text-gray-400">{model.description || `Technical resources indexed for the ${model.name}.`}</p>
                     <div class="mt-auto pt-4 border-t border-gray-50 dark:border-gray-700">
-                      {model.id === 'placeholder-model' ? (
-                        <span class="text-sm font-medium text-gray-400">Coming Soon</span>
-                      ) : (
-                        <a href={`/automobiles/${brandSlug}-${model.slug || model.id}`} class="text-sm font-bold text-tomato-500 hover:text-tomato-600">View Full Specifications →</a>
-                      )}
+                      {model.id === 'placeholder-model' ? <span class="text-sm font-medium text-gray-400">Coming Soon</span> : <a href={`/automobiles/${brandSlug}-${model.slug || model.id}`} class="text-sm font-bold text-tomato-500 hover:text-tomato-600">View Full Specifications →</a>}
                     </div>
                   </div>
                 ))}
@@ -241,25 +234,21 @@ const faqJsonLd = faqItems.length > 0
           {relatedBrands.length > 0 && (
             <section class="rounded-2xl bg-white dark:bg-gray-800 p-8 shadow-sm border border-gray-100 dark:border-gray-700">
               <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">Related Brands</h2>
-              <div class="flex flex-wrap gap-3">
-                {relatedBrands.map((item) => (
-                  <a href={`/automobiles/brands/${item.slug}`} class="rounded-lg border border-gray-200 dark:border-gray-700 px-4 py-2 text-sm font-semibold hover:border-tomato-500 hover:text-tomato-500">{item.name}</a>
-                ))}
-              </div>
+              <div class="flex flex-wrap gap-3">{relatedBrands.map((item) => <a href={`/automobiles/brands/${item.slug}`} class="rounded-lg border border-gray-200 dark:border-gray-700 px-4 py-2 text-sm font-semibold hover:border-tomato-500 hover:text-tomato-500">{item.name}</a>)}</div>
             </section>
           )}
 
           {faqItems.length > 0 && (
             <section class="rounded-2xl bg-white dark:bg-gray-800 p-8 shadow-sm border border-gray-100 dark:border-gray-700">
               <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">Frequently Asked Questions</h2>
-              <div class="space-y-6">
-                {faqItems.map((item) => (
-                  <article>
-                    <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-2">{item.question}</h3>
-                    <p class="leading-7 text-gray-600 dark:text-gray-300">{item.answer}</p>
-                  </article>
-                ))}
-              </div>
+              <div class="space-y-6">{faqItems.map((item) => <article><h3 class="text-lg font-bold text-gray-900 dark:text-white mb-2">{item.question}</h3><p class="leading-7 text-gray-600 dark:text-gray-300">{item.answer}</p></article>)}</div>
+            </section>
+          )}
+
+          {sourceLinks.length > 0 && (
+            <section class="rounded-2xl bg-white dark:bg-gray-800 p-8 shadow-sm border border-gray-100 dark:border-gray-700">
+              <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-4">Sources</h2>
+              <ul class="space-y-2 text-sm">{sourceLinks.map((url) => <li><a href={url} target="_blank" rel="noopener noreferrer" class="text-tomato-500 hover:text-tomato-600 break-all">{url}</a></li>)}</ul>
             </section>
           )}
         </div>
