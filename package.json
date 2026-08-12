@@ -8,6 +8,7 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
+    "validate:brands": "node scripts/validate-brands.mjs",
     "astro": "astro"
   },
   "devDependencies": {
