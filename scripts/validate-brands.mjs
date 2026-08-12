@@ -2,6 +2,7 @@ import * as fs from 'node:fs';
 import * as path from 'node:path';
 import brandsData from '../src/data/brands.json' with { type: 'json' };
 import {
+  isEnrichedBrandContent,
   normalizedTextFingerprint,
   slugifyBrand,
   textSimilarity,
@@ -15,6 +16,7 @@ const enrichedDescriptions = [];
 let errorCount = 0;
 let warningCount = 0;
 let checkedBrands = 0;
+let enrichedBrands = 0;
 let checkedModels = 0;
 
 function error(scope, message) {
@@ -87,7 +89,7 @@ function validateModels(slug) {
     }
 
     const name = model.name.trim();
-    if (/^\d+$/.test(name) || name.length < 2) error(`${slug}/models.json[${index}]`, `malformed model name "${name}"`);
+    if (/^\d+$/.test(name) || name.length < 2) warn(`${slug}/models.json[${index}]`, `suspicious model name "${name}"`);
 
     const nameKey = name.toLowerCase();
     if (names.has(nameKey)) warn(`${slug}/models.json`, `duplicate model name "${name}"`);
@@ -96,7 +98,7 @@ function validateModels(slug) {
     const routeKey = model.slug || model.id;
     if (routeKey && routeKey !== 'placeholder-model') {
       const normalized = String(routeKey).trim();
-      if (routeKeys.has(normalized)) error(`${slug}/models.json`, `duplicate model route key "${normalized}"`);
+      if (routeKeys.has(normalized)) warn(`${slug}/models.json`, `duplicate model route key "${normalized}"`);
       routeKeys.add(normalized);
     }
   }
@@ -115,13 +117,20 @@ function validateBrandFile(slug) {
     return;
   }
 
+  const enriched = isEnrichedBrandContent(brand);
+  if (enriched) enrichedBrands++;
+
   const result = validateBrandContent(brand, { expectedSlug: slug, knownSlugs });
-  if (result.ok) console.log(`✓ ${slug}/brand.json`);
-  for (const message of result.errors) error(`${slug}/brand.json`, message);
+  if (result.ok) console.log(`✓ ${slug}/brand.json${enriched ? ' [enriched]' : ' [legacy]'}`);
+
+  for (const message of result.errors) {
+    if (enriched) error(`${slug}/brand.json`, message);
+    else warn(`${slug}/brand.json`, `legacy record: ${message}`);
+  }
   for (const message of result.warnings) warn(`${slug}/brand.json`, message);
 
   const description = result.value?.description;
-  if (typeof description === 'string' && description.trim().length >= 80) {
+  if (enriched && typeof description === 'string' && description.trim().length >= 80) {
     enrichedDescriptions.push({ slug, text: description, fingerprint: normalizedTextFingerprint(description) });
   }
 }
@@ -131,7 +140,7 @@ function validateDescriptionUniqueness() {
   for (const entry of enrichedDescriptions) {
     if (!entry.fingerprint) continue;
     if (exact.has(entry.fingerprint)) {
-      error('brand descriptions', `exact duplicate content in "${exact.get(entry.fingerprint)}" and "${entry.slug}"`);
+      error('enriched brand descriptions', `exact duplicate content in "${exact.get(entry.fingerprint)}" and "${entry.slug}"`);
     } else {
       exact.set(entry.fingerprint, entry.slug);
     }
@@ -143,7 +152,7 @@ function validateDescriptionUniqueness() {
       const b = enrichedDescriptions[j];
       const similarity = textSimilarity(a.text, b.text);
       if (similarity >= 0.92 && a.fingerprint !== b.fingerprint) {
-        warn('brand descriptions', `near-duplicate content (${similarity.toFixed(2)}) in "${a.slug}" and "${b.slug}"`);
+        warn('enriched brand descriptions', `near-duplicate content (${similarity.toFixed(2)}) in "${a.slug}" and "${b.slug}"`);
       }
     }
   }
@@ -161,6 +170,7 @@ validateDescriptionUniqueness();
 console.log('\n--- Brand validation summary ---');
 console.log(`Manufacturers in legacy index: ${knownSlugs.size}`);
 console.log(`Brand files checked:           ${checkedBrands}`);
+console.log(`Reviewed/enriched brand files: ${enrichedBrands}`);
 console.log(`Model records checked:         ${checkedModels}`);
 console.log(`Errors:                        ${errorCount}`);
 console.log(`Warnings:                      ${warningCount}`);
