@@ -50,6 +50,23 @@ const relatedBrands = Array.isArray(brandData?.related_brands)
       .filter((slug) => relatedBrandMap.has(slug) && slug !== brandSlug)
       .map((slug) => ({ slug, name: relatedBrandMap.get(slug) }))
   : [];
+const faqItems = Array.isArray(brandData?.faq)
+  ? brandData.faq.filter((item) => hasText(item?.question) && hasText(item?.answer))
+  : [];
+const faqJsonLd = faqItems.length > 0
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqItems.map((item) => ({
+        '@type': 'Question',
+        name: item.question,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: item.answer,
+        },
+      })),
+    }
+  : null;
 ---
 
 <Layout
@@ -57,6 +74,8 @@ const relatedBrands = Array.isArray(brandData?.related_brands)
   description={pageDescription}
   keywords={`${brandName} ECU, ${brandName} documentation, ${brandName} wiring diagrams, ${brandName} diagnostics, ${brandName} pinouts`}
 >
+  {faqJsonLd && <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />}
+
   <div class="min-h-screen bg-gray-50 dark:bg-charcoal-900">
     <header class="relative overflow-hidden bg-charcoal-500 py-16 text-white sm:py-24">
       <div class="absolute inset-0 opacity-10">
@@ -230,11 +249,11 @@ const relatedBrands = Array.isArray(brandData?.related_brands)
             </section>
           )}
 
-          {Array.isArray(brandData?.faq) && brandData.faq.length > 0 && (
+          {faqItems.length > 0 && (
             <section class="rounded-2xl bg-white dark:bg-gray-800 p-8 shadow-sm border border-gray-100 dark:border-gray-700">
               <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">Frequently Asked Questions</h2>
               <div class="space-y-6">
-                {brandData.faq.map((item) => (
+                {faqItems.map((item) => (
                   <article>
                     <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-2">{item.question}</h3>
                     <p class="leading-7 text-gray-600 dark:text-gray-300">{item.answer}</p>
