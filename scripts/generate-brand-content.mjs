@@ -10,14 +10,36 @@ import {
   validateBrandContent,
 } from '../src/lib/brand-content.js';
 
+function parseBoolean(value) {
+  if (value == null) return false;
+  return ['1', 'true', 'yes', 'on'].includes(String(value).toLowerCase());
+}
+
+function readOption(args, name) {
+  const inline = args.find((arg) => arg.startsWith(`--${name}=`));
+  if (inline) return inline.slice(name.length + 3);
+
+  const index = args.indexOf(`--${name}`);
+  if (index >= 0 && args[index + 1] && !args[index + 1].startsWith('--')) {
+    return args[index + 1];
+  }
+
+  return process.env[`npm_config_${name.replace(/-/g, '_')}`] || null;
+}
+
+function hasFlag(args, name) {
+  if (args.includes(`--${name}`)) return true;
+  return parseBoolean(process.env[`npm_config_${name.replace(/-/g, '_')}`]);
+}
+
 const args = process.argv.slice(2);
-const slugArg = args.find((arg) => arg.startsWith('--brand='));
-const dryRun = args.includes('--dry-run');
-const force = args.includes('--force');
-const brandSlug = slugArg?.split('=')[1];
+const brandSlug = readOption(args, 'brand');
+const dryRun = hasFlag(args, 'dry-run');
+const force = hasFlag(args, 'force');
 
 if (!brandSlug) {
   console.error('Usage: npm run generate:brand -- --brand=bmw [--dry-run] [--force]');
+  console.error('Direct fallback: node scripts/generate-brand-content.mjs --brand=bmw --dry-run');
   process.exit(1);
 }
 
