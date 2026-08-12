@@ -3,5 +3,6 @@
   "description": "AURUS is a luxury car brand based in Russia, established in 2014 as a joint venture between Sollers JSC and NAMI (National Automobile Manufacturing Plant). The brand was created to produce high-quality cars that combine traditional Russian design with modern technology. AURUS's first model, the Senat limousine, was unveiled in 2015 and quickly gained attention for its luxurious features and impressive performance. In 2019, AURUS debuted the Armor-Pullman, a special armored version of the Senat designed for high-level officials and dignitaries. As of today, AURUS continues to produce the Senat and Armor-Pullman, with plans to expand its model lineup in the future. The brand has also been successful in international markets, such as China and the Middle East.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/aurus-sm.jpg",
   "productionModels": 2,
-  "discontinuedModels": 0
+  "discontinuedModels": 0,
+  "slug": "aurus"
 }

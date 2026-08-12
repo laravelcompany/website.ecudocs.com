@@ -3,5 +3,6 @@
   "description": "Artega is a German sports car manufacturer founded in 2007 by Klaus Dieter Jost, who previously worked for BMW and Porsche. The company was established to produce a successor to the BMW Z1, which Jost had helped design. Artega's first model, the Artega GT, was based on the chassis of the Volkswagen New Beetle. The car was well received by critics and consumers alike, with its agile handling, powerful engine, and stylish design earning it numerous awards. In 2013, Artega announced that it would cease production due to financial difficulties, but the company has since been revived with plans to produce new models in the future. Currently, Artega's only model is the Artega GT.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/artega-sm.jpg",
   "productionModels": 1,
-  "discontinuedModels": 0
+  "discontinuedModels": 0,
+  "slug": "artega"
 }

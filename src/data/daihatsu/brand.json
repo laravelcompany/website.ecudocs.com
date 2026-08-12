@@ -3,5 +3,6 @@
   "description": "Founded in 1951 by Kaoru Iuichi, Daihatsu is a Japanese automobile manufacturer known for its mini-vehicles, kei cars, and light commercial vehicles. The company was initially focused on the production of motorcycles but transitioned to automobiles in 1957. In 1967, Daihatsu introduced the compact SUV 'Rocky', which became one of their most successful models. Over the years, they have achieved notable milestones such as being the first Japanese car manufacturer to export cars to Europe and establishing a joint venture with Toyota in 1967 known as Daihatsu-Toyota Motor Co., Ltd. Today, Daihatsu is part of the Toyota Group and continues to produce a range of compact vehicles that cater to global markets. ",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/daihatsu-sm.jpg",
   "productionModels": 20,
-  "discontinuedModels": 35
+  "discontinuedModels": 35,
+  "slug": "daihatsu"
 }

@@ -1,7 +1,25 @@
 {
   "name": "BUFORI",
+  "slug": "bufori",
   "description": "BUFORI, founded in 1929 by Erich and Wilfried Wasmuth in Dresden, Germany, was one of the most prestigious and innovative automobile manufacturers in pre-war Germany. The name BUFORI is an acronym derived from Bubenreuth Forerung, which translates to 'Bubenreuth Vanguard'. The company's first car, the Type G, was a significant achievement as it combined elegance with high performance. During the 1930s, BUFORI gained a reputation for producing luxury and sporty vehicles, including the iconic Type K and Type W. In the post-war era, the brand struggled to regain its former glory due to various political and economic factors, but it continued to produce unique and high-quality cars like the Bufori Berlinetta. Today, BUFORI is still in operation, focusing on producing limited-edition luxury vehicles with a blend of classic design and modern technology.",
+  "history": "Founded in 1929 in Dresden, Germany. Gained prestige through pre-war luxury and sports models such as the Type G, Type K, and Type W. Continued production after the war with limited-edition models like the Berlinetta.",
+  "country": "Germany",
+  "founded": 1929,
+  "current_status": "active",
+  "vehicle_types": [
+    "Luxury cars",
+    "Sports cars",
+    "Limited production"
+  ],
+  "popular_models": [
+    "Type G",
+    "Type K",
+    "Type W",
+    "Berlinetta"
+  ],
   "logo": "https://s1.cdn.autoevolution.com/images/producers/bufori-sm.jpg",
   "productionModels": 2,
-  "discontinuedModels": 13
+  "discontinuedModels": 13,
+  "seo_title": "Bufori ECU Documentation | Pinouts, Wiring & Specs | EcuDocs.com",
+  "seo_description": "Explore Bufori ECU documentation including pinouts, wiring diagrams, and technical specifications for this limited-production luxury marque."
 }

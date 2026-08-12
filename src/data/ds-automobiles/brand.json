@@ -3,5 +3,6 @@
   "description": "DS Automobiles, a premium automobile manufacturer, was founded in 2014 as a spin-off from the French multinational corporation PSA Peugeot Citroën. The brand's origin traces back to the DS series of cars introduced by Citroën in 1955, which were renowned for their avant-garde design and hydropneumatic suspension system. In 2014, DS Automobiles was established as a standalone marque to focus on luxury vehicles. The brand has since made significant strides, winning numerous awards and gaining recognition for its innovative designs and technologies. Today, DS Automobiles continues to push the boundaries of automotive design and is committed to creating vehicles that combine French elegance with cutting-edge technology.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/ds-automobiles-sm.jpg",
   "productionModels": 6,
-  "discontinuedModels": 9
+  "discontinuedModels": 9,
+  "slug": "ds-automobiles"
 }

@@ -3,5 +3,6 @@
   "description": "ACURA is a luxury vehicle manufacturer founded by Honda Motor Co., Ltd in 1986 as a premium brand of cars and SUVs. Initially marketed only in North America and several other regions, Acura's first vehicle, the Legend, was introduced at the Chicago Auto Show in 1985. The brand has since become one of the most successful luxury automotive divisions in the world, known for its performance-oriented vehicles with advanced technology and high-quality craftsmanship.Key milestones include the launch of the Integra (1986), RSX/Type-S (1995-2006), TL (1995-2014), MDX (2000-present), and NSX (1990-2005, reintroduced 2016). Notable achievements include the NSX being named 'Import Car of the Year' by Motor Trend in 1991 and becoming the first all-aluminum vehicle to win the 24 Hours of Le Mans race in 1990. Acura continues to be a major player in the luxury automotive market with several current models, including the RDX, MDX, TLX, ILX, NSX, and NDX concept.As of 2023, Acura produces six current models:",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/acura-sm.jpg",
   "productionModels": 6,
-  "discontinuedModels": 15
+  "discontinuedModels": 15,
+  "slug": "acura"
 }

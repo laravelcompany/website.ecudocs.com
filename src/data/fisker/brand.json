@@ -3,5 +3,6 @@
   "description": "Founded by Henrik Fisker in 2007, FISKER is an American automotive designer and manufacturer known for its luxury electric vehicles. The company was established following the success of Fisker's design work on BMW's Z8 roadster and Aston Martin DB9. In 2008, FISKER unveiled the Karma, a plug-in hybrid sports sedan that marked the brand's entry into production. Despite initial success, financial struggles led to a takeover by Chinese auto conglomerate Wanxiang in 2014. The revived company, now called Karma Automotive, continues to produce the Karma and introduced the all-electric Fisker Ocean in 2021.FISKER also developed the innovative Fisker Atlantic concept, a compact sedan with a sleek design and efficient plug-in hybrid powertrain, which was showcased at the 2012 New York Auto Show. However, the project was cancelled due to the company's financial difficulties. The brand has faced ups and downs but remains committed to producing high-end electric vehicles with a focus on sustainability and design.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/fisker-sm.jpg",
   "productionModels": 2,
-  "discontinuedModels": 1
+  "discontinuedModels": 1,
+  "slug": "fisker"
 }

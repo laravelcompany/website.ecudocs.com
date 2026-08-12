@@ -3,5 +3,6 @@
   "description": "Founded from the remnants of the Henry Ford Company in 1902 by Henry M. Leland, Cadillac is an American luxury automobile manufacturer and a division of General Motors (GM). Initially known for its innovative technology such as the first mass-produced V8 engine and electrical starting system, it became the standard of the industry's standards of engineering excellence. In 1909, Cadillac was the first American car to win the Dewar Trophy for its 'all-American' engineering. During the 1950s and 1960s, it became a symbol of status and luxury, with models like the Eldorado and Fleetwood becoming iconic. Today, Cadillac continues to produce high-end vehicles that combine luxury, performance, and technology. Notable current models include the Escalade SUV and CT6 sedan.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/cadillac-sm.jpg",
   "productionModels": 10,
-  "discontinuedModels": 54
+  "discontinuedModels": 54,
+  "slug": "cadillac"
 }

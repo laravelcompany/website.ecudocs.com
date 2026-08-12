@@ -3,5 +3,6 @@
   "description": "Founded in 1964, DR MOTOR is a Japanese automobile manufacturer known for its innovative and high-performance vehicles. Initially focusing on motorcycles, the company expanded into automobiles in the late 1980s. Key milestones include the introduction of the first mass-produced electric vehicle (the EV-Cargo) in 1997 and the development of hybrid technology in partnership with Toyota. As of today, DR MOTOR remains a significant player in the automotive industry, producing a diverse range of vehicles that cater to various consumer needs. ",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/dr-motor-sm.jpg",
   "productionModels": 26,
-  "discontinuedModels": 11
+  "discontinuedModels": 11,
+  "slug": "dr-motor"
 }

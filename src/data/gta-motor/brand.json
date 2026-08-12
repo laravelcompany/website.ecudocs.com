@@ -3,5 +3,6 @@
   "description": "Founded in Turin, Italy in 1963 by Gianpaolo Dallara and Giampaolo Benedini, GTA Motor initially focused on building race cars. In 1965, they produced their first road car, the GTA, which became iconic for its mid-engine layout and powerful performance. In the 1970s, GTA Motor collaborated with Maserati to create the Bimotre Maserati, a high-performance sports car. The company faced financial troubles in the late 1970s but was revived in the 1980s by Fabio Barbi, who continued to produce race cars and limited edition road models. Today, GTA Motor is known for its high-performance sports cars and continued participation in motorsports. ",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/gta-motor-sm.jpg",
   "productionModels": 15,
-  "discontinuedModels": 20
+  "discontinuedModels": 20,
+  "slug": "gta-motor"
 }

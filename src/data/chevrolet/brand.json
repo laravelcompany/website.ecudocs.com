@@ -3,5 +3,6 @@
   "description": "Chevrolet, an American automobile division of General Motors (GM), was founded by Louis Chevrolet and William C. Durant in Detroit, Michigan on November 3, 1911. The brand's logo, the Bowtie, was adopted to distinguish Chevrolet vehicles from those made by Cadillac, which was also part of the GM family at that time. During its early years, Chevrolet focused on affordable cars for the average American. In 1918, Durant regained control over General Motors and Chevrolet became a part of it.Key milestones include introducing the iconic Suburban in 1935, which is considered one of the first sport-utility vehicles. The Corvette, an American sports car produced by Chevrolet, made its debut in 1953. In 1960, Chevrolet introduced the Impala, a full-size passenger car that became an icon of American culture in the 1960s. Notable achievements also include winning the 24 Hours of Le Mans twice with the Corvette in 1960 and 1967.Currently, Chevrolet continues to be a significant player in the automotive industry, producing a wide range of vehicles from compact cars like the Spark to full-size SUVs such as the Tahoe. The brand has also expanded its presence globally.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/chevrolet-sm.jpg",
   "productionModels": 24,
-  "discontinuedModels": 106
+  "discontinuedModels": 106,
+  "slug": "chevrolet"
 }

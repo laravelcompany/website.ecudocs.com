@@ -3,5 +3,6 @@
   "description": "Founded in 2018 as a high-performance sub-brand of the Spanish automaker SEAT, CUPRA has built upon SEAT's rich heritage in motorsport to create its own unique identity. Initially established as the racing division of SEAT in the late 1980s, CUPRA competed successfully in various championships before becoming a standalone brand. In 2019, CUPRA unveiled its first-ever electric vehicle, the e-CUPRA TCR. The brand's current lineup includes performance-oriented vehicles such as sedans and SUVs. As of today, CUPRA continues to push boundaries in both electrification and high-performance driving.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/cupra-sm.jpg",
   "productionModels": 5,
-  "discontinuedModels": 10
+  "discontinuedModels": 10,
+  "slug": "cupra"
 }

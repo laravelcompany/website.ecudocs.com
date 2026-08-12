@@ -3,5 +3,6 @@
   "description": "Founded by David Dunbar Buick in 1899, Buick is one of the oldest automobile brands in the United States and a division of General Motors. Initially producing steam-powered vehicles, it transitioned to gasoline engines in 1904. The brand gained popularity with its Model B, introduced in 1906, which was the first American car to sell over 10,000 units in a single year. In 1908, Buick became one of the original twelve brands to form General Motors. Throughout the years, Buick has been known for its luxury vehicles and innovative designs, with key milestones such as the introduction of the V8 engine and Electra 225, the longest-produced American car model. As of today, Buick continues to produce a variety of luxurious and efficient cars like the Encore, Envision, Regal, LaCrosse, and the flagship Enclave.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/buick-sm.jpg",
   "productionModels": 6,
-  "discontinuedModels": 8
+  "discontinuedModels": 8,
+  "slug": "buick"
 }

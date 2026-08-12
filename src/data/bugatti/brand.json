@@ -3,5 +3,6 @@
   "description": "Founded by Ettore Bugatti in 1909, Bugatti is a French luxury vehicle manufacturer renowned for its high-performance sports cars. Over the years, it has been marked by several key milestones and notable achievements. In 1924, the Type 35 race car dominated circuits worldwide, earning Bugatti numerous victories and solidifying its reputation as a racing powerhouse. After a period of financial difficulties during World War II, the company was revived in the late 1940s by Roland Bugatti, Ettore's son. The iconic Type 41 Royale was produced between 1930 and 1933, known for its opulence and power. After a hiatus, Bugatti reemerged under the ownership of Italian entrepreneur Romano Artioli in 1987. The EB110 supercar marked this era, with production from 1991 to 1995. In 1998, Volkswagen Group acquired Bugatti and released the Veyron, a hypercar renowned for its incredible speed and performance. The Chiron, an evolution of the Veyron, was unveiled in 2016 and continues production today. Bugatti is currently known for producing limited-edition, high-performance supercars.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/bugatti-sm.jpg",
   "productionModels": 1,
-  "discontinuedModels": 14
+  "discontinuedModels": 14,
+  "slug": "bugatti"
 }

@@ -3,5 +3,6 @@
   "description": "Founded in 1978 by Joop Donkervoort, this Dutch sports car manufacturer is renowned for its focus on lightweight, high-performance vehicles. Initially known for producing replicas of classic Porsche models, Donkervoort garnered attention with its D8 GTO, a successful homologation special based on the Ford Sierra RS Cosworth. In 2014, they unveiled the D8 GTS, their first car to feature an Audi engine. Today, Donkervoort continues to push boundaries in automotive design and performance with its innovative models like the D8 Spyder and D8 2020. The company's philosophy revolves around minimal weight, optimal power-to-weight ratio, and exceptional driving dynamics.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/donkervoort-sm.jpg",
   "productionModels": 3,
-  "discontinuedModels": 12
+  "discontinuedModels": 12,
+  "slug": "donkervoort"
 }

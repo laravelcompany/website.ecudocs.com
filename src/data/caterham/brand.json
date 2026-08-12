@@ -3,5 +3,6 @@
   "description": "Caterham Cars is a British automobile manufacturing company founded in 1957 by Colin Chapman, the founder of Lotus Cars. Initially known as Dizzy Chappell Motor Engineering and later Caterham Cars Limited, the company has been renowned for its lightweight sports cars that focus on agility, simplicity, and fun driving experience. Over the years, Caterham has achieved numerous successes in motorsports, including several class wins at the 24 Hours of Le Mans and multiple British Hill Climb championships. Today, Caterham continues to produce a range of high-performance sports cars, with a focus on small, rear-wheel drive vehicles that emphasize handling and driver engagement. The company also offers track day and racing experiences through its Caterham Academy.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/caterham-sm.jpg",
   "productionModels": 5,
-  "discontinuedModels": 9
+  "discontinuedModels": 9,
+  "slug": "caterham"
 }

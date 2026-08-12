@@ -3,5 +3,6 @@
   "description": "Founded by Henry Ford in 1903, FORD is one of the world's oldest and largest automakers. Initially manufacturing just the Model T, FORD revolutionized the automotive industry with its assembly line production method, making cars affordable for the average American. In the following decades, FORD introduced several iconic models such as the Model A, the V8-powered Lincoln Continental, and the Falcon, which became the best-selling compact car in the United States. In recent years, FORD continues to be a major player in the industry, producing vehicles like the F-Series pickup trucks (the best-selling vehicle in America for over 40 years), the Mustang, and the Explorer SUV. Today, FORD is committed to innovation and sustainability, investing heavily in electric vehicles and autonomous driving technology.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/ford-sm.jpg",
   "productionModels": 27,
-  "discontinuedModels": 185
+  "discontinuedModels": 185,
+  "slug": "ford"
 }

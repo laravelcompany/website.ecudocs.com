@@ -3,5 +3,6 @@
   "description": "Founded by Enzo Ferrari in 1947, Ferrari is an Italian luxury sports car manufacturer renowned for its high-performance vehicles. Initially producing race cars before road cars, Ferrari's first commercial success was the 125 S in 1947. In 1969, Ferrari went public but remained under the control of the Ferrari family. The brand is best known for its iconic symbols: the prancing horse and the roar of its V12 engines. Today, Ferrari continues to produce high-performance sports cars and Formula One racing vehicles. Its vehicles are highly sought after by collectors worldwide due to their speed, luxury, and exclusivity. ",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/ferrari-sm.jpg",
   "productionModels": 7,
-  "discontinuedModels": 48
+  "discontinuedModels": 48,
+  "slug": "ferrari"
 }

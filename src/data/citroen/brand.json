@@ -3,5 +3,6 @@
   "description": "Founded in 1919 by French industrialist André-Gustave Citroën, Citroën is a renowned French automobile manufacturer known for its innovative designs and technical advancements. The company was initially created to produce military vehicles during World War I but quickly transitioned into civilian production after the war's end.Key milestones in Citroën's history include the introduction of the Traction Avant in 1934, one of the first mass-produced front-wheel drive cars; the DS (Goddess) series in 1955, featuring avant-garde design and hydraulic suspension; and the development of the revolutionary Michelin-designed radial tires in 1948.Citroën has also been a pioneer in diesel technology, with the introduction of the first mass-produced diesel car, the 2CV, in 1948. In more recent years, Citroën has become part of the PSA Group (Groupe PSA), a French multinational automobile manufacturer.As of today, Citroën continues to produce innovative vehicles, focusing on comfort, technology, and environmental sustainability.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/citroen-sm.jpg",
   "productionModels": 20,
-  "discontinuedModels": 139
+  "discontinuedModels": 139,
+  "slug": "citroen"
 }

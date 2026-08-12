@@ -3,5 +3,6 @@
   "description": "Bristol Cars is a British automobile manufacturer, best known for its handcrafted sports cars. Founded in 1945 by Sir George Britton and Sir John Lyle, the company originally produced aircraft parts during World War II but transitioned to automobiles post-war. Bristol's first car, the 400, was introduced in 1946 and was based on the pre-war BMW 328.   Throughout its history, Bristol has been recognized for its innovative engineering and unique designs. Key milestones include the introduction of the 401 in 1953, which featured a Chrysler V8 engine and independent suspension. In 1961, Bristol unveiled the iconic 411, known for its streamlined design and powerful engine.   Notable achievements include setting numerous land speed records with cars like the Bristol Fighter and the Britannia, which reached speeds over 300 mph in the 1950s. Bristol also produced the Brasher motorcycle from 1960 to 1962.   In recent years, Bristol has focused on producing low-volume luxury sports cars. The current model is the Fighter, a continuation of the classic 411 design with modern amenities, first introduced in 2017. As of now, only one model is produced.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/bristol-sm.jpg",
   "productionModels": 1,
-  "discontinuedModels": 15
+  "discontinuedModels": 15,
+  "slug": "bristol"
 }

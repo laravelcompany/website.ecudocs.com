@@ -3,5 +3,6 @@
   "description": "Founded in 1913 by Lionel Martin and Robert Bamford, Aston Martin is a British luxury sports car manufacturer renowned for its high-performance vehicles. The company's early success came with the introduction of the A3 in 1922, a successful racing car that won the Le Mans 24 Hours race in 1928 and 1929. In 1947, the DB2 was launched, setting a trend for the iconic 'DB' series that continues to this day. Aston Martin gained international fame with the DB5, made popular by its appearance in the James Bond film 'Goldfinger' in 1964. The company faced financial difficulties in the late 20th century but was rescued by Ford in 1987. In 2007, Aston Martin went public and returned to independent ownership. Today, Aston Martin produces a range of luxury sports cars, including the DB11, Vantage, and Rapide. The brand continues to be recognized for its combination of style, luxury, and high-performance.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/aston-martin-sm.jpg",
   "productionModels": 6,
-  "discontinuedModels": 15
+  "discontinuedModels": 15,
+  "slug": "aston-martin"
 }

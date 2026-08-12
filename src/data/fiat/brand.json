@@ -3,5 +3,6 @@
   "description": "Founded by Giovanni Battista Abate de Fabrico in 1899, FIAT (Fabbrica Italiana Automobili Torino) initially produced steam tractors and industrial vehicles before entering the automobile market. In the early 20th century, FIAT became one of Italy's leading automakers and played a significant role in developing the Italian automotive industry. Notable achievements include designing the first mass-produced rear-engine car, the Topolino, in 1936. Post World War II, FIAT expanded its reach globally through strategic acquisitions and joint ventures. Today, it is part of Stellantis, the fourth largest automaker in the world, continuing to produce a variety of vehicles under the FIAT brand. ",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/fiat-sm.jpg",
   "productionModels": 12,
-  "discontinuedModels": 153
+  "discontinuedModels": 153,
+  "slug": "fiat"
 }

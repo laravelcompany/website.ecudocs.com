@@ -1,7 +1,24 @@
 {
   "name": "ARO",
+  "slug": "aro",
   "description": "ARO, short for Ateliers de Construction d'Automobiles de Rouen, was a French automobile manufacturer founded in 1950 by the merger of two companies: Automobiles Rosengart and Automobiles Delahaye. The brand was known for producing a variety of vehicles, including cars, trucks, buses, and military vehicles.  In its early years, ARO focused on small and economical cars to meet the post-war demand for affordable transportation. One of their most successful models, the AMI 6, was introduced in 1952 and became a bestseller due to its low price and practical design.  Over the following decades, ARO continued to innovate and adapt to changing market demands. They produced several notable vehicles such as the ARO 24TP, a successful amphibious light tank used by numerous countries, and the ARO P4, which was one of the first French cars to use front-wheel drive.  In 1978, Renault acquired a majority stake in ARO, integrating it into their operations. While some models continued to be produced under the ARO name, the brand gradually phased out over time.  Today, while ARO as a standalone manufacturer no longer exists, many of its vehicles are still cherished by collectors and enthusiasts.",
+  "country": "France",
+  "founded": 1950,
+  "parent_company": "Renault",
+  "current_status": "defunct",
+  "vehicle_types": [
+    "Passenger cars",
+    "Commercial vehicles",
+    "Military vehicles"
+  ],
+  "popular_models": [
+    "AMI 6",
+    "ARO 24TP",
+    "ARO P4"
+  ],
   "logo": "https://s1.cdn.autoevolution.com/images/producers/aro-sm.jpg",
   "productionModels": 0,
-  "discontinuedModels": 0
+  "discontinuedModels": 0,
+  "seo_title": "Aro ECU Documentation | Pinouts, Wiring & Specs | EcuDocs.com",
+  "seo_description": "Access Aro ECU documentation including pinouts, wiring diagrams, and technical specifications for this defunct French manufacturer."
 }

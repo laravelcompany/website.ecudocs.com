@@ -3,5 +3,6 @@
   "description": "Founded in 1986 by Zhang Guogong, Geely Auto is a Chinese multinational automobile manufacturing company headquartered in Hangzhou, Zhejiang. The company started as a distributor for Daihatsu vehicles before venturing into vehicle production in the late 1990s. In 2010, Geely acquired Volvo Cars from Ford and has since made significant strides in global automobile manufacturing. Geely is currently one of China's leading auto manufacturers, producing a wide range of vehicles including compact cars, SUVs, and electric vehicles. The company's success can be attributed to its focus on innovation, quality, and affordability.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/geely-sm.jpg",
   "productionModels": 46,
-  "discontinuedModels": 10
+  "discontinuedModels": 10,
+  "slug": "geely"
 }

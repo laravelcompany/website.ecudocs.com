@@ -3,5 +3,6 @@
   "description": "Chrysler Corporation was founded by Walter P. Chrysler in 1925, starting as a manufacturer of farm equipment and truck chassis before transitioning to automobiles. In 1928, it introduced its first vehicle, the Chrysler Six, which was a success due to its advanced design and engineering. Over the years, Chrysler has been known for several key milestones and notable achievements. In 1934, it developed the first car with an automatic transmission, called the 'Fluid Drive.' During the post-war boom in the 1950s, Chrysler introduced iconic models like the C-300 and the Imperial Le Baron. The company faced financial difficulties in the 1970s but was revitalized under Lee Iacocca's leadership. Today, Chrysler is a subsidiary of Stellantis, and its current lineup includes SUVs and sedans like the Pacifica, Voyager, 300, and the Portal concept. ",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/chrysler-sm.jpg",
   "productionModels": 4,
-  "discontinuedModels": "More than 150"
+  "discontinuedModels": "More than 150",
+  "slug": "chrysler"
 }

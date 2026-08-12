@@ -3,5 +3,6 @@
   "description": "Founded in 1966 as Romania's first automobile manufacturer, Dacia initially produced copies of Renault models under licensing agreements. In 1999, a majority stake was acquired by the French automaker Groupe Renault, marking the beginning of a significant transformation. The brand is now known for its affordable and rugged vehicles, particularly the Logan and Sandero models which have been successful in emerging markets. Dacia currently operates as a subsidiary of Renault and continues to expand its product lineup, focusing on utility vehicles and compact cars.\nKey milestones include the launch of the first locally produced model, the Dacia 1300, in 1968, and the introduction of the modern Logan in 2004, which quickly became one of Europe's best-selling cars. In recent years, Dacia has gained recognition for its innovative designs and competitive pricing.\nNotable achievements include winning the European Car of the Year award twice: for the Duster in 2013 and the Sandero Stepway in 2014.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/dacia-sm.jpg",
   "productionModels": 5,
-  "discontinuedModels": 8
+  "discontinuedModels": 8,
+  "slug": "dacia"
 }

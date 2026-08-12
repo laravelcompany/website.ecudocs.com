@@ -3,5 +3,6 @@
   "description": "Founded by Horace Elgin Dodge and John Francis Dodge as the Dodge Brothers Company in 1900, Dodge was initially a manufacturer of parts and assemblies for Detroit-based automakers. In 1914, they started producing their own vehicles. Dodge gained fame with the introduction of the four-cylinder Model A in 1924, which quickly became popular due to its low cost and reliability. The brand continued to grow throughout the 1930s and 1940s, introducing iconic models like the Dodge Power Wagon and the Coronet. In 1970, Dodge introduced the Challenger, a pony car that would become an American automotive icon. Chrysler Corporation purchased Dodge Brothers Inc. in 1928 and has since been owned by various parent companies. Today, Dodge is known for its high-performance vehicles such as the Charger, Challenger, Durango, and Journey. The brand continues to be a major player in the automotive industry.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/dodge-sm.jpg",
   "productionModels": 4,
-  "discontinuedModels": 21
+  "discontinuedModels": 21,
+  "slug": "dodge"
 }

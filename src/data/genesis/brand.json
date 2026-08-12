@@ -3,5 +3,6 @@
   "description": "Genesis is a South Korean luxury vehicle manufacturer founded in November 2015 as a subsidiary of Hyundai Motor Company. The brand was established to offer premium vehicles under its own marque, separate from the Hyundai brand. Genesis debuted at the New York International Auto Show in March 2016 with three concept cars: the New York Concept, GV80 Concept, and the Essentia Concept. The first production model, the G80 sedan, was unveiled later that year. In 2017, the G90 flagship sedan and the GV70 SUV concept were introduced at the North American International Auto Show. Genesis became a fully independent marque in March 2018. As of now, Genesis offers a range of luxury vehicles including sedans, SUVs, and electric vehicles. Notable achievements include the G90 being named the 2019 North American Luxury Car of the Year by the North American Car, Utility, and Truck of the Year (NACTOY) jury.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/genesis-sm.jpg",
   "productionModels": 6,
-  "discontinuedModels": 0
+  "discontinuedModels": 0,
+  "slug": "genesis"
 }

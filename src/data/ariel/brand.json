@@ -3,5 +3,6 @@
   "description": "ARIEL Motor Company is a British automobile manufacturer specializing in the production of lightweight sports cars, race cars, and military vehicles. Founded in 1981 by Mike Sullivan, ARIEL's primary goal has been to create high-performance, lightweight vehicles using advanced composite materials. One of its most notable achievements is the Atom series, a road-legal track car that has gained international acclaim for its exceptional performance and handling. Today, ARIEL continues to produce a range of high-performance vehicles that cater to both racing enthusiasts and everyday drivers.In 2019, ARIEL was acquired by TAG Motorsport, a UK-based company specializing in the design and manufacturing of race cars and components. This acquisition has allowed ARIEL to further expand its product range and improve its technological capabilities.Over the years, ARIEL has also made significant contributions to the motorsport industry, with several of its vehicles competing successfully in various racing series such as the British Touring Car Championship (BTCC), Le Mans Series, and American Le Mans Series.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/ariel-sm.jpg",
   "productionModels": 6,
-  "discontinuedModels": 4
+  "discontinuedModels": 4,
+  "slug": "ariel"
 }

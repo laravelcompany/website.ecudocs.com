@@ -3,5 +3,6 @@
   "description": "Datsun is a Japanese brand of automobile manufactured by Nissan Motors Ltd, originally marketed as DAT-SON (which means 'light motor vehicle' in Japanese). The company was founded in 1931 as the Jidosha Seizo Company, and it changed its name to Datsun in 1934. In 1986, Datsun vehicles began to be sold under the Nissan brand. However, in 2013, Nissan revived the Datsun brand as a low-cost alternative to its mainstream models for emerging markets. The brand currently produces compact cars and small hatchbacks.Key milestones in Datsun's history include the introduction of the first Datsun car, the Type 15 roadster, in 1934; the launch of the popular Datsun Bluebird in 1958; and the introduction of the 240Z sports car in 1969, which was a significant success for the brand.Notable achievements include winning the 1958 Le Mans 24-hour race with the Datsun DS and becoming the first Japanese automaker to win at Le Mans. In recent years, Datsun has focused on emerging markets and has had success in countries like India and Russia. As of now, Datsun is primarily focused on offering affordable and reliable vehicles to customers in these regions.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/datsun-sm.jpg",
   "productionModels": 5,
-  "discontinuedModels": 10
+  "discontinuedModels": 10,
+  "slug": "datsun"
 }

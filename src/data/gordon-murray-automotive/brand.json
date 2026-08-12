@@ -3,5 +3,6 @@
   "description": "Established in 2017 by renowned British automotive designer Gordon Murray, GORDON MURRAY Automotive is a high-performance sports car manufacturer. The company was founded with the mission to create lightweight, efficient, and aerodynamically superior vehicles. One of its key milestones was the launch of the T.50 supercar in 2020, which marked Murray's return to producing his own cars after a 30-year hiatus. Notable achievements include setting numerous speed records at the Nürburgring and receiving the coveted 'Car of the Year' award by Top Gear for the T.50. As of now, the company is actively producing the T.50 and planning future models that continue to push the boundaries of automotive design and technology.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/gordon-murray-automotive-sm.jpg",
   "productionModels": 2,
-  "discontinuedModels": 0
+  "discontinuedModels": 0,
+  "slug": "gordon-murray-automotive"
 }

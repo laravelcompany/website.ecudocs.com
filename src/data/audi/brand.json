@@ -1,7 +1,54 @@
 {
   "name": "AUDI",
+  "slug": "audi",
   "description": "Founded in 1909 by August Horch, Audi is a German luxury automobile manufacturer that is a part of the Volkswagen Group. The company's name is derived from 'Horch', which means 'listen' in German, and 'Audi' was chosen to avoid legal disputes with his former employer. Audi became known for its grand prix racing successes during the 1930s and the iconic Auto Union cars. After World War II, Audi focused on producing cars for the general public. In 1965, Audi was acquired by Volkswagen Group. Key milestones include the introduction of the quattro permanent four-wheel drive system in 1980, which revolutionized rally racing, and the development of the A8, the world's first automobile with TDI (turbodiesel direct injection) engine in 1994. Today, Audi is known for its innovative technologies, high-performance cars, and luxury vehicles. It produces a wide range of models that cater to various consumer needs.",
+  "history": "Founded by August Horch in 1909 after a dispute with his former company. The four rings emblem represents the 1932 merger of Audi, DKW, Horch, and Wanderer into Auto Union. Acquired by Volkswagen Group in 1965. Introduced quattro all-wheel drive in 1980 and pioneered lightweight aluminum spaceframe construction with the A8 in 1994.",
+  "country": "Germany",
+  "founded": 1909,
+  "parent_company": "Volkswagen Group",
+  "current_status": "active",
+  "vehicle_types": [
+    "Passenger cars",
+    "SUVs",
+    "Sports cars",
+    "Electric cars"
+  ],
+  "popular_models": [
+    "Audi A3",
+    "Audi A4",
+    "Audi A6",
+    "Audi A8",
+    "Audi TT",
+    "Audi R8"
+  ],
   "logo": "https://s1.cdn.autoevolution.com/images/producers/audi-sm.jpg",
   "productionModels": 30,
-  "discontinuedModels": 65
+  "discontinuedModels": 65,
+  "ecu_information": "Audi vehicles primarily use Bosch and Continental engine control units, with Simos-family ECUs on earlier petrol models and MED/EDC families on diesel and newer TFSI engines. Diagnostics are exposed over OBD-II using standard KWP2000 and UDS protocols.",
+  "common_ecu_manufacturers": [
+    "Bosch",
+    "Continental",
+    "Siemens VDO",
+    "Valeo"
+  ],
+  "related_brands": [
+    "volkswagen",
+    "porsche",
+    "seat",
+    "skoda",
+    "bentley",
+    "lamborghini"
+  ],
+  "seo_title": "Audi ECU Documentation | Wiring Diagrams, Pinouts & Specs | EcuDocs.com",
+  "seo_description": "Access the largest database of Audi ECU documentation including wiring diagrams, pinouts, and technical specifications for diagnostics, repair, and tuning.",
+  "faq": [
+    {
+      "question": "Which OBD protocol do Audi ECUs use?",
+      "answer": "Modern Audi ECUs communicate over OBD-II using UDS on CAN, while earlier models use KWP2000 over K-Line. Check the ECU database entry for the specific protocol and baudrate of your unit."
+    },
+    {
+      "question": "Where can I find the ECU pinout for my Audi?",
+      "answer": "Browse the Pinout Database filtered by Audi or search the ECU Database by part number to locate the wiring diagram and terminal configuration for your engine control unit."
+    }
+  ]
 }

@@ -3,5 +3,6 @@
   "description": "AC Cars, founded in 1901 by Charles Sewell and John Weller in Thames Ditton, Surrey, England, is one of the oldest British car manufacturers. Initially producing motorbikes, they switched to cars after World War I. In 1922, AC introduced the first 2-seater sports car with a supercharged engine - the AC Seven. The company's vehicles have been driven by racing legends such as Stirling Moss and Carroll Shelby. During the 1960s, AC was known for its association with the Shelby Cobra, an iconic American sports car. However, financial difficulties led to a decline in the 1970s, and production ceased in 1982. Revival attempts were made over the years, but it wasn't until 2001 that AC Cars Limited was officially re-established with the launch of the new AC Mk VIII. Today, they continue to produce limited numbers of handcrafted sports cars.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/ac-sm.jpg",
   "productionModels": 1,
-  "discontinuedModels": "over 25 (not including variants)"
+  "discontinuedModels": "over 25 (not including variants)",
+  "slug": "ac"
 }

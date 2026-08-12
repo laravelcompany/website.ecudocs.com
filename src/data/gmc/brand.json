@@ -3,5 +3,6 @@
   "description": "GMC, an acronym for General Motors Corporation, was founded in 1912 as a division of General Motors to produce trucks and utility vehicles. Initially known for their agricultural vehicles, GMC expanded into military production during World War I. In the 1930s, they introduced the iconic 'Astro' and 'Suburban' SUVs, which are still in production today. GMC experienced significant growth in the post-war era with popular models like the 'Jimmy' and 'Savana'. The brand has continued to innovate, focusing on fuel efficiency, off-road capabilities, and luxury features in its vehicles. Today, GMC offers a range of SUVs, trucks, and electric vehicles, including the Sierra pickup truck, Yukon SUV, Terrain crossover, and Hummer EV.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/gmc-sm.jpg",
   "productionModels": 7,
-  "discontinuedModels": 13
+  "discontinuedModels": 13,
+  "slug": "gmc"
 }

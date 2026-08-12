@@ -3,5 +3,6 @@
   "description": "Eagle was an American automobile marque that was a subsidiary of Japan's Sumitomo Corporation and produced by Pace Cars, Inc. Founded in 1985 as a joint venture between Renault and the Mitsubishi Motor Corporation, Eagle initially marketed badge-engineered versions of Mitsubishis, as well as rebadged vehicles from Renault's own Talbot marque. The brand struggled to find success in the competitive U.S. market due to lackluster offerings and limited distribution. In 1988, the brand was renamed Eagle after it was sold to the Sumitomo Corporation, who continued to produce and sell the vehicles until 1999 when production ceased due to poor sales and high costs associated with meeting U.S. safety and emission standards.Key milestones include the introduction of the Eagle Premier in 1987, which was a rebadged Mitsubishi Diamante, and the Eagle Medallion in 1990, which was based on the Mitsubishi Galant. Notable achievements include winning Motor Trend's Car of the Year award for the Eagle Talon in 1989, a sport compact car that shared underpinnings with the Mitsubishi Starion and Lancer.Currently, Eagle is not in production, but their legacy continues to be celebrated by automotive enthusiasts.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/eagle-sm.jpg",
   "productionModels": 0,
-  "discontinuedModels": 15
+  "discontinuedModels": 15,
+  "slug": "eagle"
 }

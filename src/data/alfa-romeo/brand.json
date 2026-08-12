@@ -3,5 +3,6 @@
   "description": "Founded in Milan, Italy in 1910 by entrepreneur Ugo Stella and Intrepido motor company owner Nicola Romeo, Alfa Romeo initially produced aero-engines for World War I. Post-war, the company shifted focus to automobiles, merging with A.L.F.A (Anonima Lombarda Fabbrica Automobili) in 1918. Over the years, Alfa Romeo has been a leader in racing and grand touring vehicles. It is currently part of Stellantis N.V., one of the world's largest automakers.Key milestones include winning the first-ever World Championship for Drivers in 1925 with Giuseppe Campari, the successful Alfa Romeo 8C 2300 racing cars from the late 1930s, and the introduction of the groundbreaking Alfasud in 1972. In recent years, notable models include the Alfa Romeo 156, which won the European Car of the Year award in 1998, and the Alfa Romeo Giulia, a luxury sports sedan that has received critical acclaim for its performance and design.Currently, Alfa Romeo produces three models: the Stelvio (SUV), the Giulia (sedan/wagon), and the Tonale (compact SUV).",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/alfa-romeo-sm.jpg",
   "productionModels": 3,
-  "discontinuedModels": 0
+  "discontinuedModels": 0,
+  "slug": "alfa-romeo"
 }

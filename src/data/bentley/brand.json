@@ -3,5 +3,6 @@
   "description": "Founded in 1919 by W.O. Bentley, Bentley Motors Ltd. is a British luxury automobile manufacturer known for its high-performance grand tourers and sports cars. The company was initially established to produce aircraft engines but later shifted focus to automobiles after WWI. In 1931, Bentley was acquired by Rolls-Royce, where it remained until 1998 when Volkswagen Group purchased the brand. Over the years, Bentley has produced several iconic models such as the Bentley Blower, Continental GT, and Bentayga. Today, Bentley continues to produce luxury vehicles renowned for their power, comfort, and craftsmanship.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/bentley-sm.jpg",
   "productionModels": 3,
-  "discontinuedModels": 12
+  "discontinuedModels": 12,
+  "slug": "bentley"
 }

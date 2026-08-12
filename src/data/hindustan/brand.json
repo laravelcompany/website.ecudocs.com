@@ -3,5 +3,6 @@
   "description": "Founded in 1942 by Jamshedji Tata under the name Tata Iron and Steel Company (TISCO), Hindustan Motors is one of India's oldest automobile manufacturers. Initially, the company produced military vehicles during World War II. In 1953, it started production of the iconic Ambassador car, which became a symbol of Indian political leadership for several decades. The Ambassador was based on the British Austin A40 Somerset and remained in production until 2014.In 1965, Hindustan Motors introduced the Contessa, India's first indigenous sedan, designed with technical assistance from Rootes Group of England. It was followed by the Ambassador Estate and the Ambassador Matador, a pickup truck version.In the 1980s, Hindustan Motors entered into a joint venture with Mitsubishi to produce the Lancer, Galant, Pajero, and Montero in India. The collaboration ended in 2007.The company faced financial difficulties in the late 2000s and early 2010s, leading to a significant decline in production. In 2015, the ownership of Hindustan Motors was transferred to its lenders following bankruptcy proceedings. The last Ambassador rolled off the assembly line in 2014, marking the end of an era for the iconic Indian car.Currently, Hindustan Motors is undergoing a revival with plans to re-enter the automobile market with electric vehicles.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/hindustan-sm.jpg",
   "productionModels": 0,
-  "discontinuedModels": 15
+  "discontinuedModels": 15,
+  "slug": "hindustan"
 }

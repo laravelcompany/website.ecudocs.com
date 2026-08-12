@@ -3,5 +3,6 @@
   "description": "Alpine is a French automobile manufacturer specializing in sports cars and grand tourers, founded by Jean Rédélé in 1955. Initially starting as a racing team, Alpine quickly transitioned into car production with the A106 in 1955. The brand gained significant success in the 1960s with its participation in various rally championships, including multiple victories at Le Mans and the World Rally Championship. In the 1970s, Alpine was acquired by Renault and continued to produce iconic models like the A310 and GTA. After a production hiatus, Alpine was revived in 2017 with the unveiling of the new A110, marking a return to its sports car roots. Today, Alpine focuses on high-performance vehicles that combine racing pedigree with everyday drivability.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/alpine-sm.jpg",
   "productionModels": 3,
-  "discontinuedModels": 12
+  "discontinuedModels": 12,
+  "slug": "alpine"
 }

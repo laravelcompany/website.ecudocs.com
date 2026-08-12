@@ -3,5 +3,6 @@
   "description": "Founded in 1948 as Fabryka Samochodów Osobowych (FSO) in Warsaw, Poland, the state-owned car manufacturer played a significant role in the post-World War II automotive industry of the country. Its first production was the FSO Syrena, which was based on the Fiat 126P.In the 1970s, FSO produced the popular Polonez, a mid-size family car that became one of Eastern Europe's best-selling models during its production period from 1978 to 1995. The company also manufactured various versions of the Fiat 126, including the FSO Polski Fiat 126p and FSO Polonez 126p.In the 1980s, FSO expanded its offerings with models like the FSO Warsaw, a compact car launched in 1982. The company also collaborated with Mercedes-Benz to produce the Warta, based on the W123 model.After Poland's transition to a market economy, FSO faced significant challenges and underwent several restructurings. In the 1990s, it produced the FSO Montero, based on the Mitsubishi Pajero, and the FSO Polonez Successor, which was an updated version of the Polonez.Today, FSO is a part of the Polish Automobile Manufacturer (PZL Motoryzacja), a company that specializes in automotive engineering services. The company no longer produces cars under the FSO brand but continues to work on various projects in the automotive industry.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/fso-sm.jpg",
   "productionModels": 0,
-  "discontinuedModels": 0
+  "discontinuedModels": 0,
+  "slug": "fso"
 }

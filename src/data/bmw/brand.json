@@ -3,5 +3,6 @@
   "description": "Founded in 1916 as Bayerische Motoren Werke (BMW) by Karl Rapp to produce aircraft engines, the company evolved after World War I to focus on motorcycles and automobiles. In 1928, BMW introduced its first car, the BMW 3/15 PS. Post-WWII, BMW faced financial difficulties but managed to recover with innovative designs like the iconic BMW Isetta. The company experienced significant growth in the 1960s and 70s with models such as the New Class and the classic 2002. In the 1980s, BMW began its focus on luxury cars, introducing the 7 Series and the M Series high-performance models. Today, BMW is a global leader in luxury vehicles, known for its advanced technology, dynamic driving experience, and design excellence. With subsidiaries like Rolls-Royce Motor Cars and MINI, BMW Group produces more than 2.5 million cars annually across 14 brands.",
   "logo": "https://s1.cdn.autoevolution.com/images/producers/bmw-sm.jpg",
   "productionModels": 37,
-  "discontinuedModels": 68
+  "discontinuedModels": 68,
+  "slug": "bmw"
 }
