@@ -1,2 +1,6 @@
 node_modules
 dist
+
+# AI brand content pipeline artifacts (generated content + logs)
+brands.generated.json
+brands.generation.log.jsonl
