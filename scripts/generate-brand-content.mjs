@@ -4,7 +4,8 @@ import * as path from 'node:path';
 import brandsData from '../src/data/brands.json' with { type: 'json' };
 import {
   BRAND_ENRICHMENT_FIELDS,
-  readBrandContent,
+  isEnrichedBrandContent,
+  readBrandRecord,
   slugifyBrand,
   validateBrandContent,
 } from '../src/lib/brand-content.js';
@@ -27,7 +28,8 @@ if (!row) {
 }
 
 const [, , referenceUrl, brandName] = row;
-const existing = readBrandContent(brandSlug) || { name: brandName, slug: brandSlug };
+const existing = readBrandRecord(brandSlug) || { name: brandName, slug: brandSlug };
+const hasReviewedEnrichment = isEnrichedBrandContent(existing);
 const modelsPath = path.join(process.cwd(), 'src', 'data', brandSlug, 'models.json');
 let knownModels = [];
 if (fs.existsSync(modelsPath)) {
@@ -40,7 +42,7 @@ if (fs.existsSync(modelsPath)) {
   }
 }
 
-const requestedFields = force
+const requestedFields = force || !hasReviewedEnrichment
   ? BRAND_ENRICHMENT_FIELDS
   : BRAND_ENRICHMENT_FIELDS.filter((field) => {
       const value = existing[field];
@@ -59,7 +61,8 @@ const user = {
   manufacturer: brandName,
   slug: brandSlug,
   reference_url_from_legacy_index: referenceUrl,
-  existing_content: existing,
+  existing_record: existing,
+  existing_record_status: hasReviewedEnrichment ? 'reviewed-enrichment' : 'legacy-only',
   known_models_from_project: knownModels,
   requested_fields: requestedFields,
   schema_notes: {
