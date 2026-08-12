@@ -1,7 +1,40 @@
 {
   "name": "BMW",
-  "description": "Founded in 1916 as Bayerische Motoren Werke (BMW) by Karl Rapp to produce aircraft engines, the company evolved after World War I to focus on motorcycles and automobiles. In 1928, BMW introduced its first car, the BMW 3/15 PS. Post-WWII, BMW faced financial difficulties but managed to recover with innovative designs like the iconic BMW Isetta. The company experienced significant growth in the 1960s and 70s with models such as the New Class and the classic 2002. In the 1980s, BMW began its focus on luxury cars, introducing the 7 Series and the M Series high-performance models. Today, BMW is a global leader in luxury vehicles, known for its advanced technology, dynamic driving experience, and design excellence. With subsidiaries like Rolls-Royce Motor Cars and MINI, BMW Group produces more than 2.5 million cars annually across 14 brands.",
-  "logo": "https://s1.cdn.autoevolution.com/images/producers/bmw-sm.jpg",
-  "productionModels": 37,
-  "discontinuedModels": 68
+  "slug": "bmw",
+  "description": "BMW is a German vehicle manufacturer with a long history of passenger cars, performance models and electrified vehicles. On ECU Docs, BMW pages are intended to connect manufacturer context with the technical resources that already exist for supported vehicles and control units.",
+  "history": "BMW traces its corporate history to the early twentieth century and has developed into a global manufacturer spanning premium passenger cars, performance vehicles and motorcycles. For technical research, model generation, engine family and control-unit context are more useful than broad marketing descriptions, so this page focuses on information that can be connected to ECU Docs resources.",
+  "country": "Germany",
+  "founded": 1916,
+  "current_status": "active",
+  "vehicle_types": [
+    "Passenger cars",
+    "SUVs",
+    "Performance vehicles",
+    "Electric vehicles"
+  ],
+  "popular_models": [
+    "3 Series",
+    "5 Series",
+    "X3",
+    "X5"
+  ],
+  "ecu_information": "BMW vehicles use multiple electronic control modules across powertrain, chassis, body and infotainment systems. ECU Docs should only surface controller-specific claims when they are backed by documentation already available in the project, such as manuals, pinouts or model-level technical records.",
+  "related_brands": [
+    "mini"
+  ],
+  "seo_title": "BMW ECU Documentation, Models and Technical Resources | ECU Docs",
+  "seo_description": "Explore BMW ECU documentation, supported models, technical manuals and manufacturer context available through ECU Docs.",
+  "faq": [
+    {
+      "question": "What BMW information is available on ECU Docs?",
+      "answer": "Availability depends on the resources currently indexed in ECU Docs. The BMW manufacturer page connects supported models with relevant technical documentation already present in the project."
+    },
+    {
+      "question": "Does ECU Docs list BMW ECU pinouts and technical manuals?",
+      "answer": "Where BMW-specific pinouts or manuals exist in the ECU Docs dataset, the manufacturer page can link users to those resources without inventing unsupported compatibility or controller specifications."
+    }
+  ],
+  "sources": [
+    "https://www.bmwgroup.com/en/company/history.html"
+  ]
 }
