@@ -39,6 +39,18 @@ export function hasText(value) {
   return typeof value === 'string' && value.trim().length > 0;
 }
 
+export function isEnrichedBrandContent(brand) {
+  if (!brand || typeof brand !== 'object' || Array.isArray(brand)) return false;
+  if (hasText(brand.slug)) return true;
+
+  return BRAND_ENRICHMENT_FIELDS
+    .filter((field) => field !== 'description')
+    .some((field) => {
+      const value = brand[field];
+      return Array.isArray(value) ? value.length > 0 : value != null && value !== '';
+    });
+}
+
 export function normalizeBrandContent(brand, { expectedSlug = null } = {}) {
   if (!brand || typeof brand !== 'object' || Array.isArray(brand)) return null;
 
@@ -54,11 +66,20 @@ export function normalizeBrandContent(brand, { expectedSlug = null } = {}) {
   return normalized;
 }
 
+export function readBrandRecord(slug, rootDir = process.cwd()) {
+  const file = path.join(rootDir, 'src', 'data', slug, 'brand.json');
+  if (!fs.existsSync(file)) return null;
+
+  const parsed = JSON.parse(fs.readFileSync(file, 'utf-8'));
+  return normalizeBrandContent(parsed, { expectedSlug: slug });
+}
+
 export function readBrandContent(slug, rootDir = process.cwd()) {
   const file = path.join(rootDir, 'src', 'data', slug, 'brand.json');
   if (!fs.existsSync(file)) return null;
 
   const parsed = JSON.parse(fs.readFileSync(file, 'utf-8'));
+  if (!isEnrichedBrandContent(parsed)) return null;
   return normalizeBrandContent(parsed, { expectedSlug: slug });
 }
 
