@@ -1,6 +1,9 @@
 node_modules
 dist
 
+# Local environment / secrets
+.env
+
 # AI brand content pipeline artifacts (generated content + logs)
 brands.generated.json
 brands.generation.log.jsonl
