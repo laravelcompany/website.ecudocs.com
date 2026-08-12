@@ -1,0 +1,42 @@
+---
+interface Props {
+  brandName: string;
+  related: { slug: string; name: string; logo: string }[];
+}
+const { brandName, related } = Astro.props;
+---
+{related.length > 0 && (
+<section class="border-t border-gray-100 dark:border-gray-800 bg-white dark:bg-gray-900 py-16">
+  <div class="container mx-auto px-4">
+    <div class="mb-8 flex items-center gap-3">
+      <span class="h-8 w-1 bg-tomato-500 rounded-full"></span>
+      <h2 class="text-2xl font-bold text-gray-900 dark:text-white">Related Brands</h2>
+    </div>
+    <p class="text-sm text-gray-500 dark:text-gray-400 mb-8">
+      Manufacturers closely related to {brandName} — same group or shared history.
+    </p>
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
+      {related.map((r) => (
+        <a
+          href={`/automobiles/brands/${r.slug}`}
+          class="group flex flex-col items-center rounded-2xl bg-white dark:bg-gray-800 p-6 shadow-sm border border-gray-100 dark:border-gray-700 hover:shadow-xl hover:-translate-y-1 transition-all"
+        >
+          {r.logo && (
+            <img
+              src={r.logo}
+              alt={`${r.name} logo`}
+              loading="lazy"
+              class="h-12 w-12 object-contain mb-3"
+              onerror="this.style.display='none'"
+            />
+          )}
+          <span class="text-sm font-bold text-gray-900 dark:text-white group-hover:text-tomato-500 transition-colors text-center">
+            {r.name}
+          </span>
+          <span class="mt-2 text-xs font-semibold text-tomato-500">View Docs</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>
+)}

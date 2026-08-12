@@ -1,0 +1,55 @@
+---
+interface Props {
+  brandName: string;
+  ecuInformation: string | null;
+  ecuManufacturers: string[];
+}
+const { brandName, ecuInformation, ecuManufacturers } = Astro.props;
+
+const hasEcuInfo = !!ecuInformation;
+const hasSuppliers = Array.isArray(ecuManufacturers) && ecuManufacturers.length > 0;
+
+const showSection = hasEcuInfo || hasSuppliers;
+---
+{showSection && (
+<section class="mb-14">
+  <div class="mb-6 flex items-center gap-3">
+    <span class="h-8 w-1 bg-tomato-500 rounded-full"></span>
+    <h2 class="text-2xl font-bold text-gray-900 dark:text-white">ECU Documentation</h2>
+  </div>
+
+  <div class="rounded-2xl bg-white dark:bg-gray-800 p-6 md:p-8 shadow-sm border border-gray-100 dark:border-gray-700">
+    {hasEcuInfo && (
+      <p class="text-gray-600 dark:text-gray-300 leading-relaxed mb-6">{ecuInformation}</p>
+    )}
+
+    {hasSuppliers && (
+      <div class="mb-6">
+        <h3 class="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3">Common ECU Manufacturers</h3>
+        <div class="flex flex-wrap gap-2">
+          {ecuManufacturers.map((m) => (
+            <span class="rounded-full bg-gray-50 dark:bg-gray-900 px-4 py-1.5 text-sm font-semibold text-gray-700 dark:text-gray-300 border border-gray-200 dark:border-gray-700">
+              {m}
+            </span>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <div class="flex flex-wrap gap-3">
+      <a
+        href="/ecu"
+        class="inline-flex items-center rounded-lg bg-tomato-500 px-5 py-2.5 text-sm font-bold text-white shadow hover:bg-tomato-600 transition-colors"
+      >
+        Browse ECU Database
+      </a>
+      <a
+        href="/manufacturers"
+        class="inline-flex items-center rounded-lg bg-charcoal-500 px-5 py-2.5 text-sm font-bold text-white shadow hover:bg-charcoal-600 transition-colors"
+      >
+        ECU Manufacturers
+      </a>
+    </div>
+  </div>
+</section>
+)}

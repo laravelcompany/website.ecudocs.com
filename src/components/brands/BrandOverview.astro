@@ -1,0 +1,65 @@
+---
+interface Props {
+  brandData: Record<string, any> | null;
+  brandName: string;
+  modelLink: (name: string) => string | null;
+}
+const { brandData, brandName, modelLink } = Astro.props;
+
+const hasDescription = !!brandData?.description;
+const vehicleTypes: string[] = Array.isArray(brandData?.vehicle_types) ? brandData.vehicle_types : [];
+const popularModels: string[] = Array.isArray(brandData?.popular_models) ? brandData.popular_models : [];
+
+const showSection = hasDescription || vehicleTypes.length > 0 || popularModels.length > 0;
+---
+{showSection && (
+<section class="mb-14">
+  <div class="mb-6 flex items-center gap-3">
+    <span class="h-8 w-1 bg-tomato-500 rounded-full"></span>
+    <h2 class="text-2xl font-bold text-gray-900 dark:text-white">About {brandName}</h2>
+  </div>
+
+  <div class="rounded-2xl bg-white dark:bg-gray-800 p-6 md:p-8 shadow-sm border border-gray-100 dark:border-gray-700">
+    {hasDescription && (
+      <p class="text-gray-600 dark:text-gray-300 leading-relaxed mb-6">{brandData.description}</p>
+    )}
+
+    {vehicleTypes.length > 0 && (
+      <div class="mb-6">
+        <h3 class="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3">Vehicle Types</h3>
+        <div class="flex flex-wrap gap-2">
+          {vehicleTypes.map((type) => (
+            <span class="rounded-full bg-gray-50 dark:bg-gray-900 px-4 py-1.5 text-sm font-semibold text-gray-700 dark:text-gray-300 border border-gray-200 dark:border-gray-700">
+              {type}
+            </span>
+          ))}
+        </div>
+      </div>
+    )}
+
+    {popularModels.length > 0 && (
+      <div>
+        <h3 class="text-xs font-bold uppercase tracking-wider text-gray-400 mb-3">Popular Models</h3>
+        <div class="flex flex-wrap gap-2">
+          {popularModels.map((modelName) => {
+            const link = modelLink(modelName);
+            if (link) {
+              return (
+                <a
+                  href={link}
+                  class="rounded-full bg-tomato-50 dark:bg-tomato-900/30 px-4 py-1.5 text-sm font-semibold text-tomato-600 dark:text-tomato-400 border border-tomato-200 dark:border-tomato-900/50 hover:bg-tomato-100 transition-colors"
+                >{modelName}</a>
+              );
+            }
+            return (
+              <span class="rounded-full bg-gray-50 dark:bg-gray-900 px-4 py-1.5 text-sm font-semibold text-gray-700 dark:text-gray-300 border border-gray-200 dark:border-gray-700">
+                {modelName}
+              </span>
+            );
+          })}
+        </div>
+      </div>
+    )}
+  </div>
+</section>
+)}

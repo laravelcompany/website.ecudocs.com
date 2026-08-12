@@ -1,0 +1,57 @@
+---
+interface Props {
+  brandData: Record<string, any> | null;
+  brandName: string;
+  brandUrl: string;
+}
+const { brandData, brandName, brandUrl } = Astro.props;
+
+const facts: { label: string; value: string }[] = [];
+
+if (brandData?.country) facts.push({ label: 'Country', value: brandData.country });
+if (brandData?.founded) facts.push({ label: 'Founded', value: String(brandData.founded) });
+if (brandData?.parent_company) facts.push({ label: 'Parent Company', value: brandData.parent_company });
+if (brandData?.current_status) facts.push({ label: 'Status', value: brandData.current_status });
+if (
+  brandData?.productionModels !== undefined &&
+  brandData?.productionModels !== null &&
+  (Number(brandData.productionModels) > 0 || String(brandData.productionModels).trim() !== '0')
+) {
+  facts.push({ label: 'Production Models', value: String(brandData.productionModels) });
+}
+if (
+  brandData?.discontinuedModels !== undefined &&
+  brandData?.discontinuedModels !== null &&
+  (Number(brandData.discontinuedModels) > 0 || String(brandData.discontinuedModels).trim() !== '0')
+) {
+  facts.push({ label: 'Discontinued Models', value: String(brandData.discontinuedModels) });
+}
+---
+<div class="rounded-2xl bg-white dark:bg-gray-800 p-6 shadow-sm border border-gray-100 dark:border-gray-700">
+  <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-4">Brand Information</h3>
+  <dl class="space-y-4">
+    <div>
+      <dt class="block text-xs font-bold uppercase tracking-wider text-gray-400">Manufacturer</dt>
+      <dd class="text-gray-700 dark:text-gray-300 font-medium">{brandName}</dd>
+    </div>
+    {facts.map((fact) => (
+      <div>
+        <dt class="block text-xs font-bold uppercase tracking-wider text-gray-400">{fact.label}</dt>
+        <dd class="text-gray-700 dark:text-gray-300 font-medium">{fact.value}</dd>
+      </div>
+    ))}
+    {brandUrl && (
+      <div>
+        <dt class="block text-xs font-bold uppercase tracking-wider text-gray-400">Official Site</dt>
+        <dd>
+          <a
+            href={brandUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-sm font-bold text-blue-600 dark:text-tomato-500 hover:underline break-all"
+          >{brandUrl.replace(/^https?:\/\//, '').replace(/\/$/, '') || brandUrl}</a>
+        </dd>
+      </div>
+    )}
+  </dl>
+</div>

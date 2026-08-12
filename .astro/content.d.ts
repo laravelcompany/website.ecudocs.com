@@ -183,14 +183,6 @@ declare module 'astro:content' {
   rendered?: RenderedContent;
   filePath?: string;
 }>;
-"pdf-html": Record<string, {
-  id: string;
-  body?: string;
-  collection: "pdf-html";
-  data: any;
-  rendered?: RenderedContent;
-  filePath?: string;
-}>;
 "pdfs": Record<string, {
   id: string;
   body?: string;
@@ -212,5 +204,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = typeof import("../src/content.config.js");
+	export type ContentConfig = typeof import("./../src/content.config.js");
 }

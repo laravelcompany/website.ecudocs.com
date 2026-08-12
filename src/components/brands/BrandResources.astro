@@ -1,0 +1,55 @@
+---
+interface Props {
+  brandSlug: string;
+  modelCount: number;
+  pinoutCount: number;
+  manualMatches: { slug: string; label: string }[];
+}
+const { brandSlug, modelCount, pinoutCount, manualMatches } = Astro.props;
+
+const hasModels = modelCount > 0;
+const hasPinouts = pinoutCount > 0;
+const hasManuals = manualMatches.length > 0;
+
+const showSection = hasModels || hasPinouts || hasManuals;
+---
+{showSection && (
+<div class="rounded-2xl bg-white dark:bg-gray-800 p-6 shadow-sm border border-gray-100 dark:border-gray-700">
+  <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-4">Documentation</h3>
+  <ul class="space-y-2">
+    {hasModels && (
+      <li>
+        <a href="#vehicle-library" class="group flex items-center justify-between rounded-lg px-3 py-2.5 hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+          <span class="flex items-center gap-3">
+            <svg class="h-5 w-5 text-gray-400 group-hover:text-tomato-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path></svg>
+            <span class="text-sm font-semibold text-gray-700 dark:text-gray-200">Vehicle Models</span>
+          </span>
+          <span class="text-xs font-bold text-gray-400">{modelCount}</span>
+        </a>
+      </li>
+    )}
+    {hasPinouts && (
+      <li>
+        <a href="/pinout" class="group flex items-center justify-between rounded-lg px-3 py-2.5 hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+          <span class="flex items-center gap-3">
+            <svg class="h-5 w-5 text-gray-400 group-hover:text-tomato-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h18M3 12h18M3 19h18"></path></svg>
+            <span class="text-sm font-semibold text-gray-700 dark:text-gray-200">Pinout Diagrams</span>
+          </span>
+          <span class="text-xs font-bold text-gray-400">{pinoutCount}</span>
+        </a>
+      </li>
+    )}
+    {hasManuals && (
+      <li>
+        <a href="/manuals" class="group flex items-center justify-between rounded-lg px-3 py-2.5 hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors">
+          <span class="flex items-center gap-3">
+            <svg class="h-5 w-5 text-gray-400 group-hover:text-tomato-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
+            <span class="text-sm font-semibold text-gray-700 dark:text-gray-200">Technical Manuals</span>
+          </span>
+          <span class="text-xs font-bold text-gray-400">{manualMatches.length}</span>
+        </a>
+      </li>
+    )}
+  </ul>
+</div>
+)}

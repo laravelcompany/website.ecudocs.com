@@ -3,6 +3,26 @@ import Layout from '../../../layouts/BaseLayout.astro';
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 import brandsData from '../../../data/brands.json';
+import BrandFacts from '../../../components/brands/BrandFacts.astro';
+import BrandOverview from '../../../components/brands/BrandOverview.astro';
+import BrandHistory from '../../../components/brands/BrandHistory.astro';
+import BrandEcuContent from '../../../components/brands/BrandEcuContent.astro';
+import BrandResources from '../../../components/brands/BrandResources.astro';
+import BrandRelatedBrands from '../../../components/brands/BrandRelatedBrands.astro';
+import BrandFaq from '../../../components/brands/BrandFaq.astro';
+
+function slugifyName(name) {
+  return name
+    .toLowerCase()
+    .replace(/\s+/g, '-')
+    .replace(/[^\w-]/g, '')
+    .replace(/--+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
+function normalizeKey(s) {
+  return String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
 
 export function getStaticPaths() {
   return brandsData.map((brand) => {
@@ -13,10 +33,10 @@ export function getStaticPaths() {
       .replace(/[^\w-]/g, '')
       .replace(/--+/g, '-')
       .replace(/^-|-$/g, '');
-    
+
     return {
       params: { brand: slug },
-      props: { 
+      props: {
         brandName: name,
         brandUrl: url,
         brandLogo: `/images/brands/${slug}.jpg`,
@@ -26,8 +46,21 @@ export function getStaticPaths() {
   });
 }
 
+const brandSlugSet = new Set(brandsData.map((row) => slugifyName(row[3])));
+
 const { brand } = Astro.params;
 const { brandName, brandUrl, brandLogo, brandSlug } = Astro.props;
+
+// Load optional enrichment data from src/data/[brandSlug]/brand.json
+let brandData = null;
+const brandDataPath = path.join(process.cwd(), 'src', 'data', brandSlug, 'brand.json');
+if (fs.existsSync(brandDataPath)) {
+  try {
+    brandData = JSON.parse(fs.readFileSync(brandDataPath, 'utf-8'));
+  } catch (e) {
+    console.error(`Error loading brand data for ${brandSlug}:`, e);
+  }
+}
 
 // Load models for this brand from src/data/[brandSlug]/models.json
 let models = [];
@@ -39,12 +72,80 @@ if (fs.existsSync(modelsPath)) {
     console.error(`Error loading models for ${brandSlug}:`, e);
   }
 }
+
+// Map popular model names to their model page URLs
+const modelPageByName = new Map();
+for (const m of models) {
+  const modelSlug = m.slug || m.id;
+  if (m.name) {
+    modelPageByName.set(String(m.name).toLowerCase(), `/automobiles/${brandSlug}-${modelSlug}`);
+  }
+}
+function modelLink(name) {
+  return modelPageByName.get(String(name).toLowerCase()) || null;
+}
+
+// Pinout content for this manufacturer (from src/content/pinout/<MANUFACTURER>)
+let pinoutCount = 0;
+const PINOUT_DIR = path.join(process.cwd(), 'src/content/pinout');
+if (fs.existsSync(PINOUT_DIR)) {
+  const key = normalizeKey(brandName);
+  for (const manufacturer of fs.readdirSync(PINOUT_DIR)) {
+    if (normalizeKey(manufacturer) !== key) continue;
+    const manufacturerPath = path.join(PINOUT_DIR, manufacturer);
+    if (fs.existsSync(manufacturerPath)) {
+      pinoutCount = fs.readdirSync(manufacturerPath, { withFileTypes: true }).filter((e) => e.isDirectory()).length;
+    }
+    break;
+  }
+}
+
+// Manuals relevant to this manufacturer (matched by slug token)
+let manualMatches = [];
+const MANUALS_DIR = path.join(process.cwd(), 'src/content/manuals');
+if (fs.existsSync(MANUALS_DIR)) {
+  const key = normalizeKey(brandName);
+  if (key) {
+    manualMatches = fs
+      .readdirSync(MANUALS_DIR)
+      .filter((f) => f.endsWith('.mdx'))
+      .map((f) => f.replace(/\.mdx$/, ''))
+      .filter((base) => base.includes(key))
+      .map((slug) => ({ slug, label: slug.replace(/-/g, ' ') }));
+  }
+}
+
+// Related brands that resolve to real brand pages
+const brandNameBySlug = new Map();
+for (const row of brandsData) {
+  const name = row[3];
+  const slug = slugifyName(name);
+  if (!brandNameBySlug.has(slug)) brandNameBySlug.set(slug, name);
+}
+let relatedBrands = [];
+if (Array.isArray(brandData?.related_brands)) {
+  relatedBrands = brandData.related_brands
+    .map((slug) => String(slug))
+    .filter((slug) => brandSlugSet.has(slug) && slug !== brandSlug)
+    .map((slug) => ({
+      slug,
+      name: brandNameBySlug.get(slug) || slug,
+      logo: `/images/brands/${slug}.jpg`,
+    }));
+}
+
+// SEO
+const pageTitle = brandData?.seo_title || `${brandName} ECU Documentation | EcuDocs.com`;
+const pageDescription =
+  brandData?.seo_description ||
+  `Access the largest database of hardware ECU information, wiring diagrams, and technical specifications for ${brandName} vehicles. Everything you need for diagnostics and tuning.`;
 ---
 
 <Layout
-  title={`${brandName} ECU Documentation | EcuDocs.com`}
-  description={`Access the largest database of hardware ECU information, wiring diagrams, and technical specifications for ${brandName} vehicles. Everything you need for diagnostics and tuning.`}
+  title={pageTitle}
+  description={pageDescription}
   keywords={`${brandName} ECU, ${brandName} documentation, ${brandName} wiring diagrams, ${brandName} diagnostics, ${brandName} pinouts`}
+  canonicalUrl={`/automobiles/brands/${brandSlug}`}
 >
   <div class="min-h-screen bg-gray-50 dark:bg-charcoal-900">
     <!-- Brand Hero Section -->
@@ -54,7 +155,7 @@ if (fs.existsSync(modelsPath)) {
           <path d="M0 100 L100 0 L100 100 Z" fill="currentColor"></path>
         </svg>
       </div>
-      
+
       <div class="container mx-auto px-4 relative z-10">
         <nav class="mb-8 flex text-sm font-medium text-charcoal-200" aria-label="Breadcrumb">
           <ol class="flex items-center space-x-2">
@@ -69,9 +170,9 @@ if (fs.existsSync(modelsPath)) {
         <div class="flex flex-col items-center text-center sm:flex-row sm:items-start sm:text-left gap-8">
           <div class="relative h-32 w-32 shrink-0 rounded-2xl bg-white p-4 shadow-xl sm:h-40 sm:w-40">
             {brandLogo && (
-              <img 
-                src={brandLogo} 
-                alt={`${brandName} logo`} 
+              <img
+                src={brandLogo}
+                alt={`${brandName} logo`}
                 class="h-full w-full object-contain"
                 onerror="this.src='https://i.imgur.com/GQePUq0.png'"
               />
@@ -82,16 +183,16 @@ if (fs.existsSync(modelsPath)) {
               {brandName} ECU Documentation
             </h1>
             <p class="text-lg text-charcoal-100 mb-6 max-w-2xl">
-              Access the largest database of hardware ECU information, wiring diagrams, 
-              and technical specifications for {brandName} vehicles. Everything you need 
+              Access the largest database of hardware ECU information, wiring diagrams,
+              and technical specifications for {brandName} vehicles. Everything you need
               for diagnostics and tuning.
             </p>
             <div class="flex flex-wrap gap-4 justify-center sm:justify-start">
               {brandUrl && (
-                <a 
-                  href={brandUrl} 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
+                <a
+                  href={brandUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="inline-flex items-center rounded-lg bg-tomato-500 px-6 py-3 text-sm font-bold shadow-lg hover:bg-tomato-600 transition-all transform hover:-translate-y-1"
                 >
                   Official Model History →
@@ -111,23 +212,13 @@ if (fs.existsSync(modelsPath)) {
       <div class="grid grid-cols-1 lg:grid-cols-4 gap-12">
         <!-- Sidebar and Info -->
         <aside class="lg:col-span-1 space-y-8">
-          <div class="rounded-2xl bg-white dark:bg-gray-800 p-6 shadow-sm border border-gray-100 dark:border-gray-700">
-            <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-4">Brand Information</h3>
-            <div class="space-y-4">
-              <div>
-                <span class="block text-xs font-bold uppercase tracking-wider text-gray-400">Manufacturer</span>
-                <span class="text-gray-700 dark:text-gray-300 font-medium">{brandName}</span>
-              </div>
-              <div>
-                <span class="block text-xs font-bold uppercase tracking-wider text-gray-400">Language</span>
-                <span class="text-gray-700 dark:text-gray-300 font-medium">English (US)</span>
-              </div>
-              <div>
-                <span class="block text-xs font-bold uppercase tracking-wider text-gray-400">Update Frequency</span>
-                <span class="text-gray-700 dark:text-gray-300 font-medium">Weekly</span>
-              </div>
-            </div>
-          </div>
+          <BrandFacts brandData={brandData} brandName={brandName} brandUrl={brandUrl} />
+          <BrandResources
+            brandSlug={brandSlug}
+            modelCount={models.length}
+            pinoutCount={pinoutCount}
+            manualMatches={manualMatches}
+          />
 
           <div class="rounded-2xl bg-gradient-to-br from-charcoal-800 to-charcoal-900 p-6 text-white shadow-lg">
             <h3 class="text-lg font-bold mb-2">Need a Specific ECU?</h3>
@@ -136,9 +227,19 @@ if (fs.existsSync(modelsPath)) {
           </div>
         </aside>
 
-        <!-- Main Content (Models) -->
+        <!-- Main Content -->
         <div class="lg:col-span-3">
-          <div class="mb-8 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+          <BrandOverview brandData={brandData} brandName={brandName} modelLink={modelLink} />
+
+          {brandData?.history && <BrandHistory brandName={brandName} history={brandData.history} />}
+
+          <BrandEcuContent
+            brandName={brandName}
+            ecuInformation={brandData?.ecu_information ?? null}
+            ecuManufacturers={brandData?.common_ecu_manufacturers ?? []}
+          />
+
+          <div class="mb-8 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4" id="vehicle-library">
             <h2 class="text-3xl font-bold text-gray-900 dark:text-white">
               {brandName} Vehicle Library
             </h2>
@@ -162,18 +263,18 @@ if (fs.existsSync(modelsPath)) {
                       ECU Ready
                     </span>
                   </div>
-                  
+
                   {model.engine_name && (
                     <div class="mb-2 flex items-center text-sm text-gray-500 dark:text-gray-400">
                       <svg class="mr-2 h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path></svg>
                       Engine: {model.engine_name}
                     </div>
                   )}
-                  
+
                   <p class="mb-6 line-clamp-2 text-sm text-gray-600 dark:text-gray-400">
                     {model.description || `Full hardware documentation for the ${model.name} ECU system.`}
                   </p>
-                  
+
                   <div class="mt-auto pt-4 border-t border-gray-50 dark:border-gray-700">
                     {model.id === 'placeholder-model' ? (
                       <span class="inline-flex items-center text-sm font-medium text-gray-400 cursor-not-allowed">
@@ -181,8 +282,8 @@ if (fs.existsSync(modelsPath)) {
                         Coming Soon
                       </span>
                     ) : (
-                      <a 
-                        href={`/automobiles/${brandSlug}-${model.slug || model.id}`} 
+                      <a
+                        href={`/automobiles/${brandSlug}-${model.slug || model.id}`}
                         class="inline-flex items-center text-sm font-bold text-tomato-500 hover:text-tomato-600"
                       >
                         View Full Specifications
@@ -208,6 +309,10 @@ if (fs.existsSync(modelsPath)) {
         </div>
       </div>
     </main>
+
+    <BrandRelatedBrands brandName={brandName} related={relatedBrands} />
+
+    <BrandFaq brandName={brandName} faq={brandData?.faq ?? []} />
 
     <!-- Brands Navigation Grid -->
     <section class="border-t border-gray-100 dark:border-gray-800 bg-white dark:bg-gray-900 py-16">

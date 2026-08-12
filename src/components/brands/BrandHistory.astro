@@ -1,0 +1,22 @@
+---
+interface Props {
+  brandName: string;
+  history: string;
+}
+const { brandName, history } = Astro.props;
+const paragraphs = String(history)
+  .split(/\n{2,}/)
+  .map((p) => p.trim())
+  .filter(Boolean);
+---
+<section class="mb-14">
+  <div class="mb-6 flex items-center gap-3">
+    <span class="h-8 w-1 bg-tomato-500 rounded-full"></span>
+    <h2 class="text-2xl font-bold text-gray-900 dark:text-white">History of {brandName}</h2>
+  </div>
+  <div class="rounded-2xl bg-white dark:bg-gray-800 p-6 md:p-8 shadow-sm border border-gray-100 dark:border-gray-700 space-y-4">
+    {paragraphs.map((p) => (
+      <p class="text-gray-600 dark:text-gray-300 leading-relaxed">{p}</p>
+    ))}
+  </div>
+</section>
